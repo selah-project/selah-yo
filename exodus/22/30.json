@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 22,
-  "translation": "Ẹ jẹ́ àwọn ọkùnrin mímọ́ fún Mi; ẹ̀ran tí a ṣígbìn ní pápá, kì í ṣe tí ẹ gbọdọ̀ jẹ; ẹ máa sọ ọ́ fún ajá ⟨אתו⟩.",
+  "translation": "Ẹ jẹ́ àwọn ọkùnrin mímọ́ fún Mi; ẹ̀ran tí a ṣígbìn ní pápá, kì í ṣe tí ẹ gbọdọ̀ jẹ; ẹ máa sọ ọ́ fún ajá ⟨את⟩ ⟨אתו⟩.",
   "tokens": [
     {
       "surface": "ואנשי",
@@ -53,10 +53,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ọ́ (ẹ̀ran tí a ṣígbìn)"
     }
   ],
-  "timestamp": "2026-08-22T23:23:10.737153610Z",
+  "timestamp": "2026-08-23T06:32:24.661916771Z",
   "model": "glm-5.3"
 }

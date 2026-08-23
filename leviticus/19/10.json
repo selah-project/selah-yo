@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 19,
-  "translation": "Àti ọ̀gbìn rẹ, ẹ má ṣe fọ́ nù tán; àti èso tí ó ṣubú ní ọ̀gbìn rẹ, ẹ má ṣe kó; fún aláìní àti fún àlejò ni ẹ fi sílẹ̀ ⟨אתם⟩; emí ni Yahweh, Elohim yín.",
+  "translation": "Àti ọ̀gbìn rẹ, ẹ má ṣe fọ́ nù tán; àti èso tí ó ṣubú ní ọ̀gbìn rẹ, ẹ má ṣe kó; fún aláìní àti fún àlejò ni ẹ fi sílẹ̀ ⟨את⟩ ⟨אתם⟩; emí ni Yahweh, Elohim yín.",
   "tokens": [
     {
       "surface": "וכרמך",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wọ́n (aláìní àti àlejò)"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "Elohim yín"
     }
   ],
-  "timestamp": "2026-08-22T23:42:07.526811396Z",
+  "timestamp": "2026-08-23T06:32:24.675382531Z",
   "model": "glm-5.3"
 }

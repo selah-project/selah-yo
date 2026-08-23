@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 23,
-  "translation": "Balak wí fún un pé: Jọwọ́, wá pẹ̀lú mi ⟨אתי⟩ sí ibòmíràn, níbi tí o gbọ́n láti rí wọ́n láti ibẹ̀; ìwọ̀n òpin rẹ̀ ni o ó rí, èyí kékeré gbogbo rẹ̀ kì í ṣe o ó rí; ṣùgbọ́n sọ ọ́ fún mi ní èyí burú láti ibẹ̀.",
+  "translation": "Balak wí fún un pé: Jọwọ́, wá pẹ̀lú mi ⟨את⟩ ⟨אתי⟩ sí ibòmíràn, níbi tí o gbọ́n láti rí wọ́n láti ibẹ̀; ìwọ̀n òpin rẹ̀ ni o ó rí, èyí kékeré gbogbo rẹ̀ kì í ṣe o ó rí; ṣùgbọ́n sọ ọ́ fún mi ní èyí burú láti ibẹ̀.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨אתי⟩",
+      "gloss": "⟨את⟩ ⟨אתי⟩",
       "marks": "pẹ̀lú mi"
     },
     {
@@ -93,6 +93,6 @@
       "gloss": "láti ibẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T00:00:30.697760138Z",
+  "timestamp": "2026-08-23T06:32:24.677624429Z",
   "model": "glm-5.3"
 }

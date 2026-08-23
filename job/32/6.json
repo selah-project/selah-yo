@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "yo",
   "chapter": 32,
-  "translation": "Elihu, ọmọ Barakel, ọmọ Buzi, dáhùn wí pé: Èmi kéré ní ọjọ́, ẹ̀yin sì ni àgbà lọ́pọ̀lọpọ̀; nítorí náà mo farapamọ́, mo bẹ̀rù láti fi ìmọ̀ mi hàn ⟨אתכם⟩.",
+  "translation": "Elihu, ọmọ Barakel, ọmọ Buzi, dáhùn wí pé: Èmi kéré ní ọjọ́, ẹ̀yin sì ni àgbà lọ́pọ̀lọpọ̀; nítorí náà mo farapamọ́, mo bẹ̀rù láti fi ìmọ̀ mi hàn ⟨את⟩ ⟨אתכם⟩.",
   "tokens": [
     {
       "surface": "ויען",
@@ -77,10 +77,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "yín (ẹ̀yin)"
     }
   ],
-  "timestamp": "2026-08-23T04:27:32.714922098Z",
+  "timestamp": "2026-08-23T06:32:24.664151325Z",
   "model": "glm-5.3"
 }

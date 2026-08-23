@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 31,
-  "translation": "Yahweh sì máa ṣe fún wọn bí ó ti ṣe fún Sihon àti fún Og, àwọn ọba Amori, àti fún ilẹ̀ wọn, tí ó pa wọn run ⟨אתם⟩.",
+  "translation": "Yahweh sì máa ṣe fún wọn bí ó ti ṣe fún Sihon àti fún Og, àwọn ọba Amori, àti fún ilẹ̀ wọn, tí ó pa wọn run ⟨את⟩ ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ועשה",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩"
+      "gloss": "⟨את⟩ ⟨אתם⟩"
     }
   ],
-  "timestamp": "2026-08-23T00:21:43.197873178Z",
+  "timestamp": "2026-08-23T06:32:24.669349300Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 8,
-  "translation": "Àwọn Levii sì fì ara wọn mọ́́ láì kú ôfò ẹ̀ṣẹ̀, wọ́n sì fọ aṣọ wọn; Aharon sì gbé wọn yọ bíi èrù-ífihàn ⟨אתם⟩ níwájú Yahweh; Aharon sì ṣe ìràpadà fún wọn, láti fi mọ́ wọn mọ́́.",
+  "translation": "Àwọn Levii sì fì ara wọn mọ́́ láì kú ôfò ẹ̀ṣẹ̀, wọ́n sì fọ aṣọ wọn; Aharon sì gbé wọn yọ bíi èrù-ífihàn ⟨את⟩ ⟨אתם⟩ níwájú Yahweh; Aharon sì ṣe ìràpadà fún wọn, láti fi mọ́ wọn mọ́́.",
   "tokens": [
     {
       "surface": "ויתחטאו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "àwọn Levii"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "láti fi mọ́ wọn mọ́́"
     }
   ],
-  "timestamp": "2026-08-22T23:53:11.114781439Z",
+  "timestamp": "2026-08-23T06:32:24.678323197Z",
   "model": "glm-5.3"
 }

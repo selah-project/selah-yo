@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 25,
-  "translation": "Òbà Bavel sì lu ⟨אתם⟩, ó sì pa wọn náà ní Riblah, ní ilẹ̀ Hamat; wọ́n sì gbé Juda lọ kúrò lórí ilẹ̀ rẹ̀.",
+  "translation": "Òbà Bavel sì lu ⟨את⟩ ⟨אתם⟩, ó sì pa wọn náà ní Riblah, ní ilẹ̀ Hamat; wọ́n sì gbé Juda lọ kúrò lórí ilẹ̀ rẹ̀.",
   "tokens": [
     {
       "surface": "ויך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wọn (àwọn ènìyàn náà)"
     },
     {
@@ -57,6 +57,6 @@
       "gloss": "ilẹ̀ rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T01:39:51.374140301Z",
+  "timestamp": "2026-08-23T06:32:24.672369292Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 21,
-  "translation": "Èmi kì yòò fi ẹsẹ Israel lọ mọ́ kúrò nínú ilẹ̀ tí mo fún àwọn baba wọn; ṣùgbọ́n tí wọ́n bá ṣọ́ láti ṣe bí gbogbo ti mo ti pàṣẹ fún wọn, àti bí gbogbo Torah tí Moshe ọmọ-ọ̀dọ̀ mi ti pàṣẹ fún ⟨אתם⟩ wọn.",
+  "translation": "Èmi kì yòò fi ẹsẹ Israel lọ mọ́ kúrò nínú ilẹ̀ tí mo fún àwọn baba wọn; ṣùgbọ́n tí wọ́n bá ṣọ́ láti ṣe bí gbogbo ti mo ti pàṣẹ fún wọn, àti bí gbogbo Torah tí Moshe ọmọ-ọ̀dọ̀ mi ti pàṣẹ fún ⟨את⟩ ⟨אתם⟩ wọn.",
   "tokens": [
     {
       "surface": "ולא",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wọn"
     },
     {
@@ -105,6 +105,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-23T01:37:53.901482737Z",
+  "timestamp": "2026-08-23T06:32:24.672036070Z",
   "model": "glm-5.3"
 }

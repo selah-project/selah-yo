@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 22,
-  "translation": "Nígbà tí ìtẹ́ ẹyẹ bá fara kọ̀ níwájú rẹ lórí ọ̀nà, nínú igi yòówù tàbí lórí ilẹ̀, ní àwọn ọmọ ẹyẹ tàbí àwọn eyin, àti ìyá ń kurọ̀ lórí àwọn ọmọ ẹyẹ tàbí lórí àwọn eyin, má ṣe gbá ⟨את⟩ ìyá náà pẹ̀lú àwọn ọmọ náà.",
+  "translation": "Nígbà tí ìtẹ́ ẹyẹ bá fara kọ̀ níwájú rẹ lórí ọ̀nà, nínú igi yòówù tàbí lórí ilẹ̀, ní àwọn ọmọ ẹyẹ tàbí àwọn eyin, àti ìyá ń kurọ̀ lórí àwọn ọmọ ẹyẹ tàbí lórí àwọn eyin, má ṣe gbá ìyá náà pẹ̀lú àwọn ọmọ náà.",
   "tokens": [
     {
       "surface": "כי",
@@ -101,7 +101,7 @@
     },
     {
       "surface": "האם",
-      "gloss": "⟨את⟩ ìyá náà",
+      "gloss": "ìyá náà",
       "marks": "ìyá náà"
     },
     {
@@ -113,6 +113,6 @@
       "gloss": "àwọn ọmọ náà"
     }
   ],
-  "timestamp": "2026-08-23T00:16:34.287237852Z",
+  "timestamp": "2026-08-23T06:32:24.669010688Z",
   "model": "glm-5.3"
 }

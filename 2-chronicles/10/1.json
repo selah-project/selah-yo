@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "yo",
   "chapter": 10,
-  "translation": "Nígbà náà Rehavam lọ sí Shékem, nítorí Shékem ni gbogbo Israẹli ti wá láti jẹ́ kí ó jẹ́ oba ⟨אתו⟩.",
+  "translation": "Nígbà náà Rehavam lọ sí Shékem, nítorí Shékem ni gbogbo Israẹli ti wá láti jẹ́ kí ó jẹ́ oba ⟨את⟩ ⟨אתו⟩.",
   "tokens": [
     {
       "surface": "וילך",
@@ -45,10 +45,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ó (Rehavam)"
     }
   ],
-  "timestamp": "2026-08-23T06:12:52.116227920Z",
+  "timestamp": "2026-08-23T06:32:24.665206451Z",
   "model": "glm-5.3"
 }

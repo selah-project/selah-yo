@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 36,
-  "translation": "Bẹ́ẹ̀ ni ọba ti wí pé, Ki Chizkiyahu má ṣe tan yín; nítorí pé kì yóò lè gbà yín là ⟨אתכם⟩.",
+  "translation": "Bẹ́ẹ̀ ni ọba ti wí pé, Ki Chizkiyahu má ṣe tan yín; nítorí pé kì yóò lè gbà yín là ⟨את⟩ ⟨אתכם⟩.",
   "tokens": [
     {
       "surface": "כה",
@@ -53,10 +53,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "yín"
     }
   ],
-  "timestamp": "2026-08-23T01:53:44.577880712Z",
+  "timestamp": "2026-08-23T06:32:24.676031471Z",
   "model": "glm-5.3"
 }

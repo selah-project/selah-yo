@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 31,
-  "translation": "Moshe sì rán wọn —— ẹgbẹ̀rún kan fún ẹ̀yà kọ̀ọ̀kan —— sí ogun: ⟨אתם⟩ àti ⟨את⟩ Pinchas ọmọ Elazar àlúfàà, sí ogun; àti àwọn ohun èlì mímọ́ àti àwọn fèrè ìkìlọ̀ ní ọwọ́ rẹ̀.",
+  "translation": "Moshe sì rán wọn —— ẹgbẹ̀rún kan fún ẹ̀yà kọ̀ọ̀kan —— sí ogun: ⟨את⟩ ⟨אתם⟩ àti ⟨את⟩ Pinchas ọmọ Elazar àlúfàà, sí ogun; àti àwọn ohun èlì mímọ́ àti àwọn fèrè ìkìlọ̀ ní ọwọ́ rẹ̀.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wọn"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wọn"
     },
     {
@@ -83,6 +83,6 @@
       "gloss": "ní ọwọ́ rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T00:03:47.726686865Z",
+  "timestamp": "2026-08-23T06:32:24.678685346Z",
   "model": "glm-5.3"
 }

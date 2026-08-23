@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 37,
-  "translation": "Ó sì ṣe kerubu méjì wúrà; iṣẹ́ ìlù-mọ́ni-lọ ni ó fi ṣe ⟨אתם⟩ wọn, ní ẹ̀gbẹ́ méjì ti ojú-iṣẹ́ ìkọ́rà náà.",
+  "translation": "Ó sì ṣe kerubu méjì wúrà; iṣẹ́ ìlù-mọ́ni-lọ ni ó fi ṣe ⟨את⟩ ⟨אתם⟩ wọn, ní ẹ̀gbẹ́ méjì ti ojú-iṣẹ́ ìkọ́rà náà.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wọn (àwọn kerubu)"
     },
     {
@@ -49,6 +49,6 @@
       "gloss": "ojú-iṣẹ́ ìkọ́rà náà"
     }
   ],
-  "timestamp": "2026-08-22T23:31:33.015358784Z",
+  "timestamp": "2026-08-23T06:32:24.663339566Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 17,
-  "translation": "⟨Àwọn⟩ ìdáná iná àwọn ẹlẹ̀ṣẹ̀ wọnyí, tí ó sẹ̀ pẹ̀lú ẹ̀mí wọn ṣẹ́ — kí wọ́n sì ṣe ⟨אתם⟩ ní àwọn onírúurú tí a lu tì, dídí fún pẹpẹ ìṣẹ́lẹ̀ náà, nítorí pé wọ́n ti gbé wọn sí ojú Yahweh, nítorí náà wọ́n di mímọ́ — kí wọ́n sì jẹ́ àmì fún àwọn ọmọ Yisrael.\"",
+  "translation": "⟨Àwọn⟩ ìdáná iná àwọn ẹlẹ̀ṣẹ̀ wọnyí, tí ó sẹ̀ pẹ̀lú ẹ̀mí wọn ṣẹ́ — kí wọ́n sì ṣe ⟨את⟩ ⟨אתם⟩ ní àwọn onírúurú tí a lu tì, dídí fún pẹpẹ ìṣẹ́lẹ̀ náà, nítorí pé wọ́n ti gbé wọn sí ojú Yahweh, nítorí náà wọ́n di mímọ́ — kí wọ́n sì jẹ́ àmì fún àwọn ọmọ Yisrael.\"",
   "tokens": [
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "àwọn onírúurú tí a lu tì"
     },
     {
@@ -90,6 +90,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-22T23:57:33.035305505Z",
+  "timestamp": "2026-08-23T06:32:24.677986638Z",
   "model": "glm-5.3"
 }

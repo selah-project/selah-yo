@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 13,
-  "translation": "Yehoachaz sì bẹ́ Yahweh lójú, Yahweh sì gbọ́ ti rẹ̀, nítorí tí ó rí ⟨את⟩ ìpọnjú Yisrael, nítorí tí ọba Aram ti pọ́n ⟨אתם⟩ wọn.",
+  "translation": "Yehoachaz sì bẹ́ Yahweh lójú, Yahweh sì gbọ́ ti rẹ̀, nítorí tí ó rí ⟨את⟩ ìpọnjú Yisrael, nítorí tí ọba Aram ti pọ́n ⟨את⟩ ⟨אתם⟩ wọn.",
   "tokens": [
     {
       "surface": "ויחל",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wọn"
     },
     {
@@ -83,6 +83,6 @@
       "gloss": "Aram"
     }
   ],
-  "timestamp": "2026-08-23T01:33:15.816731655Z",
+  "timestamp": "2026-08-23T06:32:24.672708296Z",
   "model": "glm-5.3"
 }

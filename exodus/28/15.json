@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 28,
-  "translation": "Ìwọ sì máa ṣe ìrán-ìdájọ́, iṣẹ́ onímọ̀-ìwọ̀n; bí iṣẹ́ efodu ìwọ máa ṣe é: wúrà, ẹjì funfun-búlúù, àti alárùnmọ̀, àti èso-idẹ pupa, àti aṣọ funfun tí a rán, nígbà tí ìwọ bá ṣe ⟨אתו⟩.",
+  "translation": "Ìwọ sì máa ṣe ìrán-ìdájọ́, iṣẹ́ onímọ̀-ìwọ̀n; bí iṣẹ́ efodu ìwọ máa ṣe é: wúrà, ẹjì funfun-búlúù, àti alárùnmọ̀, àti èso-idẹ pupa, àti aṣọ funfun tí a rán, nígbà tí ìwọ bá ṣe ⟨את⟩ ⟨אתו⟩.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -73,10 +73,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ìrán-ìdájọ́"
     }
   ],
-  "timestamp": "2026-08-22T23:26:42.463712500Z",
+  "timestamp": "2026-08-23T06:32:24.660946101Z",
   "model": "glm-5.3"
 }

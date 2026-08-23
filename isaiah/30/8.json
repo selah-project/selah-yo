@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 30,
-  "translation": "Nísinsìnyí, wá, kọ ọ́ lórí tábìlì pẹ̀lú ⟨אתם⟩, àti ṣe àkọsílẹ̀ rẹ̀ sí inú ìwé, kí ó lè jẹ́ ẹ̀rí fún ọjọ́ iwájú, títí dé àsálẹ̀ láé.",
+  "translation": "Nísinsìnyí, wá, kọ ọ́ lórí tábìlì pẹ̀lú ⟨את⟩ ⟨אתם⟩, àti ṣe àkọsílẹ̀ rẹ̀ sí inú ìwé, kí ó lè jẹ́ ẹ̀rí fún ọjọ́ iwájú, títí dé àsálẹ̀ láé.",
   "tokens": [
     {
       "surface": "עתה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "pẹ̀lú wọn"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "àsálẹ̀ láé"
     }
   ],
-  "timestamp": "2026-08-23T01:51:40.325953101Z",
+  "timestamp": "2026-08-23T06:32:24.676331548Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 3,
-  "translation": "Ní ìgbà yẹn ni mo kọ̀ọ́nù ⟨אתכם⟩ ní ìgbà yẹn, pé: Yahweh, Elohim yín, ti fún yín ní ⟨את⟩ ilẹ̀ yìí láti fi jẹ yín — láti ṣíwájú ni ẹ yóò kọjá ṣáájú àwọn ará yín, àwọn ọmọ Yisrael, gbogbo àwọn ọmọ-alágbára.",
+  "translation": "Ní ìgbà yẹn ni mo kọ̀ọ́nù ⟨את⟩ ⟨אתכם⟩ ní ìgbà yẹn, pé: Yahweh, Elohim yín, ti fún yín ní ⟨את⟩ ilẹ̀ yìí láti fi jẹ yín — láti ṣíwájú ni ẹ yóò kọjá ṣáájú àwọn ará yín, àwọn ọmọ Yisrael, gbogbo àwọn ọmọ-alágbára.",
   "tokens": [
     {
       "surface": "ואצו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "yín (àwọn tí mo kọ̀ọ́nù)"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "alágbára"
     }
   ],
-  "timestamp": "2026-08-23T00:07:19.135972822Z",
+  "timestamp": "2026-08-23T06:32:24.668152708Z",
   "model": "glm-5.3"
 }

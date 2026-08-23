@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 36,
-  "translation": "Ki Chizkiyahu má ṣe jẹ́ kí ẹ gbẹ́kẹ̀ lé ⟨אתכם⟩ sí Yahweh, ó wí pé, Yahweh yóò gbà wá là gan-an; ìlú yìí kì yóò sì fi sílẹ̀ sí ọwọ́ ọba Ashur.",
+  "translation": "Ki Chizkiyahu má ṣe jẹ́ kí ẹ gbẹ́kẹ̀ lé ⟨את⟩ ⟨אתכם⟩ sí Yahweh, ó wí pé, Yahweh yóò gbà wá là gan-an; ìlú yìí kì yóò sì fi sílẹ̀ sí ọwọ́ ọba Ashur.",
   "tokens": [
     {
       "surface": "ואל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "yín"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "Ashur"
     }
   ],
-  "timestamp": "2026-08-23T01:53:44.578011297Z",
+  "timestamp": "2026-08-23T06:32:24.675716053Z",
   "model": "glm-5.3"
 }
