@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 14,
-  "translation": "Gbogbo Israẹli sì máa ṣọ̀fọ̀ fún un, wọ́n sì máa sin ⟨את⟩ in; nítorí tí èyí nìkan ni ti Yarobeam tí ó máa wọ sí ⟨את⟩ sìnkú; nítorí tí a rí ohun rere nínú rẹ̀ síwájú Yahweh, Elohim ti Israẹli, nínú ilé Yarobeam.",
+  "translation": "Gbogbo Israẹli sì máa ṣọ̀fọ̀ fún un, wọ́n sì máa sin ⟨את⟩ ⟨אתו⟩ ín, nítorí èyí ni ìkan ṣoṣo tí ó máa bọ̀ láti ọ̀dọ̀ Yarobeam sí ibojí, nítorí ohun rere kan wà nínú rẹ̀ síwájú Yahweh, Elohim Israẹli, nínú ilé Yarobeam.",
   "tokens": [
     {
       "surface": "וספדו",
-      "gloss": "sì máa ṣọ̀fọ̀"
+      "gloss": "sì máa ṣọ̀fọ̀ fún"
     },
     {
       "surface": "לו",
-      "gloss": "fún un"
+      "gloss": "un"
     },
     {
       "surface": "כל",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "וקברו",
-      "gloss": "sì máa sin"
+      "gloss": "wọ́n sì máa sí"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "in (ọmọ náà)"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "in"
     },
     {
       "surface": "כי",
-      "gloss": "nítorí tí"
+      "gloss": "nítorí"
     },
     {
       "surface": "זה",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "nìkan"
+      "gloss": "ìkan ṣoṣo"
     },
     {
       "surface": "יבא",
-      "gloss": "máa wọ"
+      "gloss": "máa bọ̀"
     },
     {
       "surface": "לירבעם",
-      "gloss": "ti Yarobeam"
+      "gloss": "láti ọ̀dọ̀ Yarobeam"
     },
     {
       "surface": "אל",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "קבר",
-      "gloss": "sìnkú"
+      "gloss": "ibojí"
     },
     {
       "surface": "יען",
-      "gloss": "nítorí tí"
+      "gloss": "nítorí"
     },
     {
       "surface": "נמצא",
-      "gloss": "a rí"
+      "gloss": "wà"
     },
     {
       "surface": "בו",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "rere"
+      "gloss": "rere kan"
     },
     {
       "surface": "אל",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ti Israẹli"
+      "gloss": "Israẹli"
     },
     {
       "surface": "בבית",
@@ -105,6 +105,6 @@
       "gloss": "Yarobeam"
     }
   ],
-  "timestamp": "2026-08-23T05:53:05.564991105Z",
+  "timestamp": "2026-08-23T06:56:01.135969646Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "ezra",
   "lang": "yo",
   "chapter": 8,
-  "translation": "Àwọn tí ń bọ̀ láti ìgbègbà, àwọn ọmọ ìsẹ̀mgbé náà, fi sùnrà sílẹ̀ fún Elohim Yisrael: máàlúù méjìlá fún gbogbo Yisrael, àgbọ̀ ọ̀tún àádọ́rùn-ún mẹ́fà, àgùntàn àádọ́jọ mẹ́je, àwọn ọ̀bọ̀ ẹ̀rùn èṣe méjìlá; gbogbo rẹ̀ ni sùnrà fún Yahweh.",
+  "translation": "Àwọn tí ó ń bọ̀ láti ìgbèkùn, àwọn ọmọ ìgbèkùn náà, kó ẹbùn-sísun wá fún Elohim ti Yisrael: ìbàkẹ́gbẹ́rẹ̀ méjìlélọ́gbọ̀n fún gbogbo Yisrael, àgbò mọ́kàndíláàdọ̀rùn-ún, àgùntàn mọ́kandinláàdọ́je, ọ̀kẹ́ ìwọ̀-ẹyẹ obìnrin ìṣẹ̀lẹ̀ méjìlélọ́gbọ̀n; gbogbo rẹ̀ di ẹbùn-sísun fún Yahweh.",
   "tokens": [
     {
       "surface": "הבאים",
-      "gloss": "Àwọn tí ń bọ̀"
+      "gloss": "Àwọn tí ó ń bọ̀"
     },
     {
       "surface": "מהשבי",
-      "gloss": "láti ìgbègbà"
+      "gloss": "láti ìgbèkùn"
     },
     {
       "surface": "בני",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "הגולה",
-      "gloss": "ìsẹ̀mgbé náà"
+      "gloss": "ìgbèkùn náà"
     },
     {
       "surface": "הקריבו",
-      "gloss": "fi ... sílẹ̀"
+      "gloss": "kó ẹbùn wá"
     },
     {
       "surface": "עלות",
-      "gloss": "sùnrà"
+      "gloss": "ẹbùn-sísun"
     },
     {
       "surface": "לאלהי",
-      "gloss": "fún Elohim"
+      "gloss": "fún Elohim ti"
     },
     {
       "surface": "ישראל",
@@ -41,31 +41,35 @@
     },
     {
       "surface": "פרים",
-      "gloss": "máàlúù"
+      "gloss": "ìbàkẹ́gbẹ́rẹ̀"
     },
     {
       "surface": "שנים",
-      "gloss": "méjì"
+      "gloss": "méjìlélọ́gbọ̀n"
     },
     {
       "surface": "עשר",
-      "gloss": "lá"
-    },
-    {
-      "surface": "על",
       "gloss": "fún"
     },
     {
-      "surface": "Ṣisrael",
+      "surface": "על",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כל",
       "gloss": "Yisrael"
     },
     {
+      "surface": "ישראל",
+      "gloss": "àgbò"
+    },
+    {
       "surface": "אילים",
-      "gloss": "àgbọ̀ ọ̀tún"
+      "gloss": "mọ́kàndíláàdọ̀rùn-ún"
     },
     {
       "surface": "תשעים",
-      "gloss": "àádọ́rùn-ún"
+      "gloss": "àti"
     },
     {
       "surface": "וששה",
@@ -77,41 +81,41 @@
     },
     {
       "surface": "שבעים",
-      "gloss": "àádọ́jọ"
+      "gloss": "mọ́kandinláàdọ́je"
     },
     {
       "surface": "ושבעה",
-      "gloss": "mẹ́je"
+      "gloss": "àti mèje"
     },
     {
       "surface": "צפירי",
-      "gloss": "àwọn ọ̀bọ̀ ẹ̀rùn"
+      "gloss": "ọ̀kẹ́ ìwọ̀-ẹyẹ obìnrin"
     },
     {
       "surface": "חטאת",
-      "gloss": "èṣe"
+      "gloss": "ìṣẹ̀lẹ̀"
     },
     {
       "surface": "שנים",
-      "gloss": "méjì"
+      "gloss": "méjìlélọ́gbọ̀n"
     },
     {
       "surface": "עשר",
-      "gloss": "lá"
-    },
-    {
-      "surface": "הכל",
       "gloss": "gbogbo rẹ̀"
     },
     {
+      "surface": "הכל",
+      "gloss": "ẹbùn-sísun"
+    },
+    {
       "surface": "עולה",
-      "gloss": "sùnrà"
+      "gloss": "fún"
     },
     {
       "surface": "ליהוה",
-      "gloss": "fún Yahweh"
+      "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-23T05:00:51.803348301Z",
+  "timestamp": "2026-08-23T06:46:42.961416255Z",
   "model": "glm-5.3"
 }

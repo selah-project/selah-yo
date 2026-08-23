@@ -5,23 +5,23 @@
   "book": "amos",
   "lang": "yo",
   "chapter": 9,
-  "translation": "Àti bí ó tí jẹ́ pé wọ́n lọ nínú ìgbèkùn níwájú ọ̀tá wọn, láti ibẹ̀ ni mo máa paṣẹ fún ⟨את⟩ ⟨the⟩ idà, kí ó pa wọn; mo sì fi ojú mi sí wọn fún ìbàjẹ́, kì í sì fún rere.",
+  "translation": "Àti tí wọ́n bá lọ nínú amùnrúgbọn lọ́wọ́ ọ̀tá wọn, èmi yóò pa ⟨את⟩ idà láṣẹ níbẹ̀, ó sì máa pa wọn; mo sì fi ojú mi sí wọn fún ìbàjẹ́, kì í ṣe fún rere.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Àti bí ó tí jẹ́ pé"
+      "gloss": "àti tí wọ́n bá"
     },
     {
       "surface": "ילכו",
-      "gloss": "wọ́n lọ"
+      "gloss": "lọ"
     },
     {
       "surface": "בשבי",
-      "gloss": "nínú ìgbèkùn"
+      "gloss": "nínú amùnrúgbọn"
     },
     {
       "surface": "לפני",
-      "gloss": "níwájú"
+      "gloss": "lọ́wọ́"
     },
     {
       "surface": "איביהם",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "משם",
-      "gloss": "láti ibẹ̀"
+      "gloss": "níbẹ̀"
     },
     {
       "surface": "אצוה",
-      "gloss": "mo máa paṣẹ fún"
+      "gloss": "èmi yóò pa láṣẹ"
     },
     {
       "surface": "את",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "החרב",
-      "gloss": "⟨the⟩ idà"
+      "gloss": "idà"
     },
     {
       "surface": "והרגתם",
-      "gloss": "kí ó pa wọn"
+      "gloss": "ó sì máa pa wọn"
     },
     {
       "surface": "ושמתי",
-      "gloss": "mo sì fi"
+      "gloss": "mo sì fi sí"
     },
     {
       "surface": "עיני",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "kì í sì"
+      "gloss": "kì í ṣe"
     },
     {
       "surface": "לטובה",
       "gloss": "fún rere"
     }
   ],
-  "timestamp": "2026-08-23T03:09:32.142220940Z",
+  "timestamp": "2026-08-23T06:44:21.728251054Z",
   "model": "glm-5.3"
 }

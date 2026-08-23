@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 5,
-  "translation": "Èmi dúró láàrin Yahweh àti ẹ̀yin nígbà yẹn, láti sọ ⟨את⟩ ọ̀rọ̀ Yahweh fún ẹ̀yin; nítorí tí ẹ̀ bẹ̀rù̀ níwájú ⟨the⟩ iná náà, ẹ̀ sì kò gòkè sórí òkè — wí pé:",
+  "translation": "Èmi dúró láàárín Yahweh àti ẹ̀yin nígbà yẹn, láti sọ ⟨את⟩ ọ̀rọ̀ Yahweh fún yín, nítorí pé ẹ̀yin bẹ̀rù wàráàrà iná, kì ẹ̀ sì ti gun òkè̀ náà — wíwí ⟨pé⟩:",
   "tokens": [
     {
       "surface": "אנכי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בין",
-      "gloss": "láàrin"
+      "gloss": "láàárín"
     },
     {
       "surface": "יהוה",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "לכם",
-      "gloss": "fún ẹ̀yin"
+      "gloss": "fún yín"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọ̀rọ̀ (Yahweh)"
+      "marks": "ọ̀rọ̀ Yahweh"
     },
     {
       "surface": "דבר",
@@ -58,37 +58,37 @@
     },
     {
       "surface": "כי",
-      "gloss": "nítorí"
+      "gloss": "nítorí pé"
     },
     {
       "surface": "יראתם",
-      "gloss": "ẹ̀ bẹ̀rù̀"
+      "gloss": "ẹ̀yin bẹ̀rù"
     },
     {
       "surface": "מפני",
-      "gloss": "níwájú"
+      "gloss": "wàráàrà"
     },
     {
       "surface": "האש",
-      "gloss": "iná náà"
+      "gloss": "iná"
     },
     {
       "surface": "ולא",
-      "gloss": "ẹ̀ sì kò"
+      "gloss": "kì ẹ̀ sì ti"
     },
     {
       "surface": "עליתם",
-      "gloss": "gòkè"
+      "gloss": "gun"
     },
     {
       "surface": "בהר",
-      "gloss": "sórí òkè"
+      "gloss": "òkè̀ náà"
     },
     {
       "surface": "לאמר",
-      "gloss": "wí pé"
+      "gloss": "wíwí ⟨pé⟩"
     }
   ],
-  "timestamp": "2026-08-23T00:08:03.007048692Z",
+  "timestamp": "2026-08-23T06:38:01.931079953Z",
   "model": "glm-5.3"
 }

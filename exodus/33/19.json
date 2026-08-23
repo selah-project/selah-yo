@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 33,
-  "translation": "Ó sì wí: èmi, èmi yóò sọ gbogbo rere mi kọjá níwájú rẹ, èmi yóò sọ orúkọ Yahweh pẹ̀lú ohùn níwájú rẹ; ⟨את⟩ èmi yóò ṣàánú fún ⟨את⟩ ẹnì tí èmi bá ṣàánú fún, ⟨את⟩ èmi yóò ṣàánu-ẹlẹ́yìn fún ⟨את⟩ ẹnì tí èmi bá ṣàánu-ẹlẹ́yìn fún.",
+  "translation": "Ó sì wí pé, Èmi yóò ṣe kí gbogbo rere mi kọjá níwájú rẹ, èmi yóò ké pa Orúkọ Yahweh lórúkọ níwájú rẹ, èmi yóò ṣàánú fún ⟨את⟩ ẹni tí èmi bá ṣàánú fún, èmi yóò ṣàárọ̀ fún ⟨את⟩ ẹni tí èmi bá ṣàárọ̀ fún.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ó sì wí"
+      "gloss": "Ó sì wí pé"
     },
     {
       "surface": "אני",
-      "gloss": "èmi"
+      "gloss": "Èmi"
     },
     {
       "surface": "אעביר",
-      "gloss": "èmi yóò sọ kọjá"
+      "gloss": "yóò ṣe kí… kọjá"
     },
     {
       "surface": "כל",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "על",
-      "gloss": "ní"
+      "gloss": "níwájú"
     },
     {
       "surface": "פניך",
-      "gloss": "níwájú rẹ"
+      "gloss": "rẹ"
     },
     {
       "surface": "וקראתי",
-      "gloss": "èmi yóò sọ pẹ̀lú ohùn"
+      "gloss": "èmi yóò ké pa… lórúkọ"
     },
     {
       "surface": "בשם",
-      "gloss": "orúkọ"
+      "gloss": "Orúkọ"
     },
     {
       "surface": "יהוה",
@@ -52,21 +52,17 @@
       "gloss": "níwájú rẹ"
     },
     {
-      "surface": "ויקראתי—וקראתי",
-      "gloss": "—"
-    },
-    {
       "surface": "וחנתי",
-      "gloss": "⟨את⟩ èmi yóò ṣàánú"
+      "gloss": "èmi yóò ṣàánú fún"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ẹnì tí èmi bá ṣàánú fún"
+      "marks": "ẹni tí èmi bá ṣàánú fún"
     },
     {
       "surface": "אשר",
-      "gloss": "tí"
+      "gloss": "ẹni tí"
     },
     {
       "surface": "אחן",
@@ -74,22 +70,22 @@
     },
     {
       "surface": "ורחמתי",
-      "gloss": "⟨את⟩ èmi yóò ṣàánu-ẹlẹ́yìn"
+      "gloss": "èmi yóò ṣàárọ̀ fún"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ẹnì tí èmi bá ṣàánu-ẹlẹ́yìn fún"
+      "marks": "ẹni tí èmi bá ṣàárọ̀ fún"
     },
     {
       "surface": "אשר",
-      "gloss": "tí"
+      "gloss": "ẹni tí"
     },
     {
       "surface": "ארחם",
-      "gloss": "èmi bá ṣàánu-ẹlẹ́yìn fún"
+      "gloss": "èmi bá ṣàárọ̀ fún"
     }
   ],
-  "timestamp": "2026-08-22T23:29:11.608500471Z",
+  "timestamp": "2026-08-23T06:35:44.772786541Z",
   "model": "glm-5.3"
 }

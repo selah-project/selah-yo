@@ -5,19 +5,19 @@
   "book": "judges",
   "lang": "yo",
   "chapter": 21,
-  "translation": "Ìjọ naa sì fi ránṣẹ́ sí ibẹ̀ — ẹgbàájọ àti ẹgbẹ̀ta <noted>, ọ̀kàn-lénírín <noted> ọkùnrin lára àwọn ọmọ-alágbára; wọ́n sì pàṣẹ ⟨את⟩ fún wọn pé, Ẹ lọ, ẹ lu àwọn olùgbé Yavesh Giladi pa láti ẹnu idà, pẹ̀lú ⟨את⟩ àwọn obìnrin àti ⟨את⟩ àwọn ọmọ kékeré.",
+  "translation": "Àwọn ènìyàn náà sì fi ránṣẹ́ sí ibẹ̀ nípa ìpàpọ̀ náà, ọ̀kàn lára àwọn ọkùnrin ìwọ̀ ẹgbàá nílá méjìdínlógún tí wọ́n jẹ́ àwọn ọmọ ogun lágbára, wọ́n sì pàṣẹ ⟨את⟩ fún wọn pé, Ẹ lọ, ẹ lu àwọn olùgbé Yavesh Giladi ní ipá idà, pẹ̀lú ⟨את⟩ àwọn obìnrin àti ⟨את⟩ àwọn ọmọdé.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "sì fi ránṣẹ́ sí ibẹ̀"
+      "gloss": "wọ́n sì fi ránṣẹ́"
     },
     {
       "surface": "שם",
-      "gloss": "ibẹ̀"
+      "gloss": "sí ibẹ̀"
     },
     {
       "surface": "העדה",
-      "gloss": "ìjọ naa"
+      "gloss": "ìpàpọ̀ náà"
     },
     {
       "surface": "שנים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "עשר",
-      "gloss": "-láà"
+      "gloss": "dínlógún"
     },
     {
       "surface": "אלף",
-      "gloss": "ẹgbàájọ"
+      "gloss": "ẹgbàá"
     },
     {
       "surface": "איש",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "מבני",
-      "gloss": "lára àwọn ọmọ"
+      "gloss": "àwọn ọmọ"
     },
     {
       "surface": "החיל",
-      "gloss": "alágbára"
+      "gloss": "ogun lágbára"
     },
     {
       "surface": "ויצוו",
-      "gloss": "sì pàṣẹ"
+      "gloss": "wọ́n sì pàṣẹ"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ fún wọn",
-      "marks": "àwọn ọkùnrin náà"
+      "marks": "àṣẹ náà"
     },
     {
       "surface": "לאמר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "והכיתם",
-      "gloss": "ẹ lu … pa"
+      "gloss": "ẹ lu"
     },
     {
       "surface": "את",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "לפי",
-      "gloss": "láti ẹnu"
+      "gloss": "ní ipá"
     },
     {
       "surface": "חרב",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "והטף",
-      "gloss": "àti àwọn ọmọ kékeré"
+      "gloss": "àti àwọn ọmọdé"
     }
   ],
-  "timestamp": "2026-08-23T00:42:31.709097875Z",
+  "timestamp": "2026-08-23T06:37:43.544330542Z",
   "model": "glm-5.3"
 }

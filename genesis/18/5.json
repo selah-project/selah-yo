@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 18,
-  "translation": "Kí èmi ó sì gba ⟨the⟩ gééré búrẹ́dì, kí ẹ sì fi ipa gbé ọkàn yín lẹ́yìn tí ẹ bá ti kọjá; nítorí nítorí èyí ni tí ẹ ti kọjá sí ọ̀dọ̀ ọmọ-ọ̀dọ̀ yín.' Wọ́n sì wí pé: 'Ṣe bẹ́ẹ̀, gẹ́gẹ́ bí ó ti sọ.'",
+  "translation": "Kí èmi ó sì gba igbé oúnjẹ, kí ẹ sì ṣe agbára fún ọkàn yín, lẹ́yìn tí ẹ bá ti kọjá; nítorí láti èyí ni tí ẹ ti kọjá sí ọ̀dọ̀ ọmọ-ọ̀dọ̀ yín. Wọ́n sì wí pé: Ṣe béẹ̀, gẹ́gẹ́ bí ó ti wí.",
   "tokens": [
     {
       "surface": "ואקחה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "פת",
-      "gloss": "gééré"
+      "gloss": "igbé"
     },
     {
       "surface": "לחם",
-      "gloss": "búrẹ́dì"
+      "gloss": "oúnjẹ"
     },
     {
       "surface": "וסעדו",
-      "gloss": "kí ẹ sì fi ipa gbé"
+      "gloss": "kí ẹ sì ṣe agbára fún"
     },
     {
       "surface": "לבכם",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אחר",
-      "gloss": "lẹ́yìn"
+      "gloss": "lẹ́yìn tí"
     },
     {
       "surface": "תעברו",
-      "gloss": " tí ẹ bá ti kọjá"
+      "gloss": "ẹ bá ti kọjá"
     },
     {
       "surface": "כי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "על",
-      "gloss": "nítorí"
+      "gloss": "láti"
     },
     {
       "surface": "כן",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "על",
-      "gloss": " sí ọ̀dọ̀"
+      "gloss": "sí ọ̀dọ̀"
     },
     {
       "surface": "עבדכם",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "bẹ́ẹ̀"
+      "gloss": "béẹ̀"
     },
     {
       "surface": "תעשה",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "דברת",
-      "gloss": "ó ti sọ"
+      "gloss": "ó ti wí"
     }
   ],
-  "timestamp": "2026-08-22T22:59:10.581344179Z",
+  "timestamp": "2026-08-23T06:35:12.709458049Z",
   "model": "glm-5.3"
 }

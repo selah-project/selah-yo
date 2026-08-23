@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 15,
-  "translation": "Asa sì gba ⟨את⟩ gbogbo fàdákà àti wúrà tí ó ṣeéku nínú àwọn ilé ìṣúrà ilé Yahweh, àti ⟨את⟩ àwọn ilé ìṣúrà ilé ⟨the⟩ ọba, ó sì fi wọn sílẹ̀ lọ́wọ́ àwọn ìránṣẹ́ rẹ̀; ọba Asa sì rán wọn lọ sí Ben-Hadad, ọmọ Tabrimmon, ọmọ Hezion, ọba Aram, tí ó ń gbé ní Damasiki, wí pé,",
+  "translation": "Nígbà náà, Asa mu ⟨את⟩ gbogbo fàdàkà àti wúrà tí ó ṣẹ́kù nínú àwọn ibi ìṣúra ilé Yahweh, àti ⟨את⟩ àwọn ibi ìṣúra ilé ọba, ó sì fi wọ́n sí ọwọ́ àwọn ìránṣẹ́ rẹ̀; ọba Asa sì rán wọn lọ sí Ben-Hadad, ọmọ Tabrimmon, ọmọ Hezion, ọba Aram, tí ó gbé ní Damascus, wí pé:",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "ó sì gba"
+      "gloss": "mu"
     },
     {
       "surface": "אסא",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gbogbo fàdákà àti wúrà"
+      "marks": "gbogbo fàdàkà àti wúrà"
     },
     {
       "surface": "כל",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "הכסף",
-      "gloss": "fàdákà"
+      "gloss": "fàdàkà"
     },
     {
       "surface": "והזהב",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "הנותרים",
-      "gloss": "tí ó ṣeéku"
+      "gloss": "tí ó ṣẹ́kù"
     },
     {
       "surface": "באוצרות",
-      "gloss": "nínú àwọn ilé ìṣúrà"
+      "gloss": "nínú àwọn ibi ìṣúra"
     },
     {
       "surface": "בית",
@@ -51,11 +51,11 @@
     {
       "surface": "ואת",
       "gloss": "àti ⟨את⟩",
-      "marks": "àwọn ilé ìṣúrà ilé ọba"
+      "marks": "àwọn ibi ìṣúra ilé ọba"
     },
     {
       "surface": "אוצרות",
-      "gloss": "àwọn ilé ìṣúrà"
+      "gloss": "àwọn ibi ìṣúra"
     },
     {
       "surface": "בית",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "ויתנם",
-      "gloss": "ó sì fi wọn sílẹ̀"
+      "gloss": "ó sì fi wọ́n sí"
     },
     {
       "surface": "ביד",
-      "gloss": "lọ́wọ́"
+      "gloss": "sí ọwọ́"
     },
     {
       "surface": "עבדיו",
@@ -127,17 +127,17 @@
     },
     {
       "surface": "הישב",
-      "gloss": "tí ó ń gbé"
+      "gloss": "tí ó gbé"
     },
     {
       "surface": "בדמשק",
-      "gloss": "ní Damasiki"
+      "gloss": "ní Damascus"
     },
     {
       "surface": "לאמר",
       "gloss": "wí pé"
     }
   ],
-  "timestamp": "2026-08-23T01:21:32.154006527Z",
+  "timestamp": "2026-08-23T06:39:16.289829389Z",
   "model": "glm-5.3"
 }

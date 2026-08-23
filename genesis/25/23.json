@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 25,
-  "translation": "Yahweh sì wí fún un pé, Orílẹ̀-èdè méjì wà nínú ìbàkún rẹ, àti àwọn orílẹ̀-èdè méjì yóò pínyà láti inú ara rẹ; èyí yóò ṣe lọ́lá ju èyí lọ, àti èyí tí ó gbàgbé yóò sìn èyí tí ó kéré.",
+  "translation": "Yahweh sì wí fún un wí pé: Orílẹ̀-èdè méjì wà nínú ìbàkún rẹ, àti ìjọ méjì ni yóò pínyà kúrò láti inú rẹ; àti ìjọ kan yóò gbilẹ̀ ju ẹlomíì lọ, àti ẹni àgbà yóò sin ẹni ọmọ.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -20,16 +20,12 @@
       "gloss": "fún un"
     },
     {
-      "surface": "ותאמר-placeholder",
-      "gloss": ""
-    },
-    {
       "surface": "שני",
       "gloss": "méjì"
     },
     {
       "surface": "גיים",
-      "gloss": "orílẹ̀-èdè"
+      "gloss": "àwọn orílẹ̀-èdè"
     },
     {
       "surface": "בבטנך",
@@ -41,11 +37,11 @@
     },
     {
       "surface": "לאמים",
-      "gloss": "àwọn orílẹ̀-èdè"
+      "gloss": "àwọn ìjọ"
     },
     {
       "surface": "ממעיך",
-      "gloss": "láti inú ara rẹ"
+      "gloss": "láti inú rẹ"
     },
     {
       "surface": "יפרדו",
@@ -53,29 +49,29 @@
     },
     {
       "surface": "ולאם",
-      "gloss": "àti orílẹ̀-èdè kan"
+      "gloss": "àti ìjọ kan"
     },
     {
       "surface": "מלאם",
-      "gloss": "ju orílẹ̀-èdè kejì lọ"
+      "gloss": "ju ẹlomíì lọ"
     },
     {
       "surface": "יאמץ",
-      "gloss": "yóò ṣe lọ́lá"
+      "gloss": "yóò gbilẹ̀"
     },
     {
       "surface": "ורב",
-      "gloss": "àti èyí tí ó gbàgbé"
+      "gloss": "àti ẹni àgbà"
     },
     {
       "surface": "יעבד",
-      "gloss": "yóò sìn"
+      "gloss": "yóò sin"
     },
     {
       "surface": "צעיר",
-      "gloss": "èyí tí ó kéré"
+      "gloss": "ẹni ọmọ"
     }
   ],
-  "timestamp": "2026-08-22T23:02:57.789673921Z",
+  "timestamp": "2026-08-23T06:34:20.573298847Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,55 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 31,
-  "translation": "àti ⟨את⟩ epo ìmú-dóhùn, àti ⟨את⟩ èròjàdidùn fún ibi mímọ́ — níbi tí Moṣe gbọ́ nínú ìtumọ̀ àwọn ohun gbogbo tí Moṣe kọ̀ sílẹ̀ láti ṣe, wọn yóò ṣe wọ́n —",
-  "tokens": [],
-  "timestamp": "2026-08-22T23:27:01.214252023Z",
+  "translation": "àti ⟨את⟩ epo ìhamọ́, àti ⟨את⟩ ìsùnràrá àwọn egbógi fún ⟨ibi⟩ mímọ́; gẹ́gẹ́ bí gbogbo tí mo pa ọ́ lẹ́ṣẹ́ ni wọ́n gbọ́dọ̀ ṣe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "epo ìhamọ́"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ìhamọ́"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìsùnràrá"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ìsùnràrá"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "àwọn egbógi"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "fún ⟨ibi⟩ mímọ́"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gẹ́gẹ́ bí gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "mo pa ọ́ lẹ́ṣẹ́"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "wọ́n gbọ́dọ̀ ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T06:35:22.464577516Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 1,
-  "translation": "Nítorí náà, àwọn olèṣẹ̀ kì í ṣe ìdí gbọ́n <nínú> ìdájọ́, àwọn ẹlẹ́ṣẹ̀ <sí> nínú ìpàdé àwọn ẹní-ọ̀títọ́.",
+  "translation": "Nítorí náà, àwọn olèṣẹ̀ kì yóò dúró ⟨ní⟩ ìdájọ́, àwọn ẹlẹ́ṣẹ̀ sì kì yóò dúró ⟨ní⟩ àpéràn àwọn olóòtítọ́.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "nítorí náà (lórí)"
+      "gloss": "nítorí"
     },
     {
       "surface": "כן",
-      "gloss": "nítorí náà"
+      "gloss": "náà"
     },
     {
       "surface": "לא",
-      "gloss": "kì í ṣe"
+      "gloss": "kì"
     },
     {
       "surface": "יקמו",
-      "gloss": "ìdí gbọ́n"
+      "gloss": "yóò dúró"
     },
     {
       "surface": "רשעים",
@@ -29,21 +29,21 @@
     },
     {
       "surface": "במשפט",
-      "gloss": "nínú ìdájọ́"
+      "gloss": "⟨ní⟩ ìdájọ́"
     },
     {
       "surface": "וחטאים",
-      "gloss": "àwọn ẹlẹ́ṣẹ̀"
+      "gloss": "àwọn ẹlẹ́ṣẹ̀ sì"
     },
     {
       "surface": "בעדת",
-      "gloss": "nínú ìpàdé"
+      "gloss": "⟨ní⟩ àpéràn"
     },
     {
       "surface": "צדיקים",
-      "gloss": "àwọn ẹní-ọ̀títọ́"
+      "gloss": "àwọn olóòtítọ́"
     }
   ],
-  "timestamp": "2026-08-23T06:04:15.946425635Z",
+  "timestamp": "2026-08-23T06:43:31.598889101Z",
   "model": "glm-5.3"
 }

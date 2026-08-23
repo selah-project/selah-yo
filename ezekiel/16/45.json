@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "yo",
   "chapter": 16,
-  "translation": "Ìwọ ni ọmọbìnrin ìyá rẹ, ⟨את⟩ tí ó korìíra ọkọ rẹ̀ àti àwọn ọmọ rẹ̀; àti ìwọ ni arábìnrin àwọn arábìnrin rẹ, ⟨את⟩ tí wọ́n korìíra àwọn ọkọ wọn àti àwọn ọmọ wọn; ìyá yín ni Heti, àti bàbá yín ni Emori.",
+  "translation": "Ìyàwó-ọmọ ìyá rẹ ni ọ̀rẹ́-obìnrin rẹ — ẹni tí ó korìíra ọkọ rẹ̀ àti àwọn ọmọ rẹ̀; ọ̀rẹ́-obìnrin àwọn ọ̀rẹ́-obìnrin rẹ ni ọ̀rẹ́-obìnrin rẹ, èyítí ó korìíra àwọn ọkọ wọn àti àwọn ọmọ wọn; ìyá yín ni Hitti, baba yín sì ni Emori.",
   "tokens": [
     {
       "surface": "בת",
-      "gloss": "ọmọbìnrin"
+      "gloss": "ọmọ"
     },
     {
       "surface": "אמך",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tí ó korìíra (ìwọ)"
+      "marks": "iwọ"
     },
     {
       "surface": "געלת",
@@ -34,24 +34,24 @@
     },
     {
       "surface": "ואחות",
-      "gloss": "àti arábìnrin"
+      "gloss": "àti ọ̀rẹ́-obìnrin"
     },
     {
       "surface": "אחותך",
-      "gloss": "àwọn arábìnrin rẹ"
+      "gloss": "àwọn ọ̀rẹ́-obìnrin rẹ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tí wọ́n korìíra (ìwọ)"
+      "marks": "iwọ"
     },
     {
       "surface": "אשר",
-      "gloss": "tí"
+      "gloss": "èyítí"
     },
     {
       "surface": "געלו",
-      "gloss": "wọ́n korìíra"
+      "gloss": "wọn korìíra"
     },
     {
       "surface": "אנשיהן",
@@ -67,17 +67,17 @@
     },
     {
       "surface": "חתית",
-      "gloss": "Heti"
+      "gloss": "Hitti"
     },
     {
       "surface": "ואביכן",
-      "gloss": "àti bàbá yín"
+      "gloss": "àti baba yín"
     },
     {
       "surface": "אמרי",
       "gloss": "Emori"
     }
   ],
-  "timestamp": "2026-08-23T02:39:48.690169762Z",
+  "timestamp": "2026-08-23T06:43:01.737472955Z",
   "model": "glm-5.3"
 }

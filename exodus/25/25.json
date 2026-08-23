@@ -5,8 +5,49 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 25,
-  "translation": "Ìwọ kì í ṣe, ṣùgbọ́n oòun: ṣe fún un ní ààlà tí ó jọra fọ́tàn ìwọ̀n ọwọ́ kíákíá láàyègbẹ́ kàn-ò-kàn; ṣe àwọn ìsọ̀ wúrà fún ààlà rẹ̀, yí i ká.",
-  "tokens": [],
-  "timestamp": "2026-08-23T05:40:55.842253743Z",
+  "translation": "Ìwọ àti ṣe fún un pẹpẹ ilẹ̀kùn tó gboòrùn ọwọ́ ní ayika rẹ̀, ìwọ àti ṣe àwọ̀n gòòlù fún pẹpẹ ilẹ̀kùn rẹ̀ ní ayika rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ìwọ àti ṣe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "pẹpẹ ilẹ̀kùn"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "tó gboòrùn ọwọ́"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní ayika rẹ̀"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ìwọ àti ṣe"
+    },
+    {
+      "surface": "זר",
+      "gloss": "àwọ̀n"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gòòlù"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "fún pẹpẹ ilẹ̀kùn rẹ̀"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní ayika rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:35:22.706017396Z",
   "model": "glm-5.3"
 }

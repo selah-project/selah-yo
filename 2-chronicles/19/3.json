@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "yo",
   "chapter": 19,
-  "translation": "Ṣùgbọ́n àwọn nǹkan rere wà láàrin rẹ̀, nítorí tí o ti kó àwọn Ashera kúrò nínú ⟨the⟩ ilẹ̀, tí o sì ti ṣetí ọkàn rẹ láti wá Elohim.",
+  "translation": "Ṣùgbọ́n àwọn ohun rere ni a rí pẹ̀lú rẹ, nítorí tí o pa àwọn Asherah kúrò ní ilẹ̀ ayé, ó sì ṣetí ọkàn rẹ láti wá Elohim.",
   "tokens": [
     {
       "surface": "אבל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "דברים",
-      "gloss": "àwọn nǹkan"
+      "gloss": "àwọn ohun"
     },
     {
       "surface": "טובים",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "נמצאו",
-      "gloss": "wà"
+      "gloss": "ni a rí"
     },
     {
       "surface": "עמך",
-      "gloss": "láàrin rẹ̀"
+      "gloss": "pẹ̀lú rẹ"
     },
     {
       "surface": "כי",
@@ -33,27 +33,27 @@
     },
     {
       "surface": "בערת",
-      "gloss": "o ti kó kúrò"
+      "gloss": "o pa…kúrò"
     },
     {
       "surface": "האשרות",
-      "gloss": "àwọn Ashera"
+      "gloss": "àwọn Asherah"
     },
     {
       "surface": "מן",
-      "gloss": "kúrò nínú"
+      "gloss": "ní"
     },
     {
       "surface": "הארץ",
-      "gloss": "ilẹ̀"
+      "gloss": "ilẹ̀ ayé"
     },
     {
       "surface": "והכינות",
-      "gloss": "o sì ti ṣetí"
+      "gloss": "ó sì ṣetí"
     },
     {
       "surface": "לבבך",
-      "gloss": "ọkàn rẹ̀"
+      "gloss": "ọkàn rẹ"
     },
     {
       "surface": "לדרש",
@@ -64,6 +64,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-23T05:30:10.115186172Z",
+  "timestamp": "2026-08-23T06:47:09.219275260Z",
   "model": "glm-5.3"
 }

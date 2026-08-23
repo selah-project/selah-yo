@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "yo",
   "chapter": 27,
-  "translation": "Ó sì wí fún Tsor, tí ó ń gbé ní àwọn ọ̀nà ìwọ̀ọ̀sà odò, tí ó jẹ́ oníṣòwò àwọn orílẹ̀-èdè sí àwọn èrè tí ó pọ̀, bíi èyí: Bẹ́ẹ̀ ni Adonai Yahweh ti wí: Tsor, ìwọ tí ó sọ wípé: Mo ti pe òwọ́ rere parí.",
+  "translation": "O sọ fún Tsor, ìwọ tí ó gbé ní àwọn ọ̀nà-ibùgbé òkun, tí ó jẹ́ oníṣòwò fún àwọn ènìyàn sí àwọn èrèké púpọ̀: Bẹ́ẹ́ni Adonai Yahweh ti sọ: Tsor, ìwọ tí ó sọ pé, 'Èmi ni ìṣẹ̀dá ẹwà pérépéré.'",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "Ó sì wí"
+      "gloss": "O sọ"
     },
     {
       "surface": "לצור",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הישבתי",
-      "gloss": "tí ó ń gbé"
+      "gloss": "ìwọ tí ó gbé"
     },
     {
       "surface": "על",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מבואת",
-      "gloss": "àwọn ọ̀nà ìwọ̀ọ̀sà"
+      "gloss": "àwọn ọ̀nà-ibùgbé"
     },
     {
       "surface": "ים",
-      "gloss": "odò"
+      "gloss": "òkun"
     },
     {
       "surface": "רכלת",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "העמים",
-      "gloss": "àwọn orílẹ̀-èdè"
+      "gloss": "fún àwọn ènìyàn"
     },
     {
       "surface": "אל",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "איים",
-      "gloss": "àwọn èrè"
+      "gloss": "àwọn èrèké"
     },
     {
       "surface": "רבים",
-      "gloss": "tí ó pọ̀"
+      "gloss": "púpọ̀"
     },
     {
       "surface": "כה",
-      "gloss": "bíi èyí"
+      "gloss": "Bẹ́ẹ́ni"
     },
     {
       "surface": "אמר",
-      "gloss": "ti wí"
+      "gloss": "ti sọ"
     },
     {
       "surface": "אדני",
@@ -73,26 +73,25 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "Ìwọ (Tsor)"
+      "gloss": "ìwọ"
     },
     {
       "surface": "אמרת",
-      "gloss": "tí ó sọ wípé"
+      "gloss": "tí ó sọ"
     },
     {
       "surface": "אני",
-      "gloss": "Mo"
+      "gloss": "Èmi"
     },
     {
       "surface": "כלילת",
-      "gloss": "ti pe òwọ́ rere parí"
+      "gloss": "ìṣẹ̀dá pérépéré"
     },
     {
       "surface": "יפי",
-      "gloss": "òwọ́ rere"
+      "gloss": "ẹwà"
     }
   ],
-  "timestamp": "2026-08-23T02:47:16.225167766Z",
+  "timestamp": "2026-08-23T06:43:04.938670647Z",
   "model": "glm-5.3"
 }

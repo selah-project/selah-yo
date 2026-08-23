@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "yo",
   "chapter": 19,
-  "translation": "Ṣùgbọ́n àwọn olórí ọmọ Ammon wí fún Hanun pé, Ṣé David ń gbé baba rẹ̀ láyẹ̀ ní ojú rẹ, nítorí tí ó firànṣẹ́ àwọn olùtùnarọ̀ sí ọ̀? Ṣé kì í ṣe láti wádìí, láti dà bẹ́ẹ̀rú, àti láti ṣe àjòyò ⟨the⟩ ilẹ̀ ni tí àwọn ẹrú rẹ̀ ti wá sí ọ̀dọ̀ rẹ̀?",
+  "translation": "Àwọn olórí àwọn ọmọ Ammon wí fún Hanun pé, Ṣé nínú ojú rẹ Davíd ṣe ọlá fun ⟨את⟩ baba rẹ, nítorí tí ó rán àwọn olùtùrànwọ́ sí ọ̀dọ̀ rẹ? Ṣé kì í ṣe láti wádìí, láti ṣẹ́ àti láti ṣe àwàrí ilẹ̀ ni kí àwọn ìránṣẹ́ rẹ fi dé ọ̀dọ̀ rẹ?",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "wọ́n sì wí"
+      "gloss": "wí"
     },
     {
       "surface": "שרי",
@@ -29,24 +29,24 @@
     },
     {
       "surface": "המכבד",
-      "gloss": "ń gbé láyẹ̀"
+      "gloss": "ṣe ọlá fun"
     },
     {
       "surface": "דויד",
-      "gloss": "David"
+      "gloss": "Davíd"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "baba rẹ̀"
+      "marks": "baba rẹ"
     },
     {
       "surface": "אביך",
-      "gloss": "baba rẹ̀"
+      "gloss": "baba rẹ"
     },
     {
       "surface": "בעיניך",
-      "gloss": "ní ojú rẹ"
+      "gloss": "nínú ojú rẹ"
     },
     {
       "surface": "כי",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "שלח",
-      "gloss": "ó firànṣẹ́"
+      "gloss": "ó rán"
     },
     {
       "surface": "לך",
-      "gloss": "sí ọ̀"
+      "gloss": "sí ọ̀dọ̀ rẹ"
     },
     {
       "surface": "מנחמים",
-      "gloss": "àwọn olùtùnarọ̀"
+      "gloss": "àwọn olùtùrànwọ́"
     },
     {
       "surface": "הלא",
@@ -70,37 +70,37 @@
     },
     {
       "surface": "בעבור",
-      "gloss": "nítorí"
+      "gloss": "láti"
     },
     {
       "surface": "לחקר",
-      "gloss": "láti wádìí"
+      "gloss": "wádìí"
     },
     {
       "surface": "ולהפך",
-      "gloss": "láti dà bẹ́ẹ̀rú"
+      "gloss": "láti ṣẹ́"
     },
     {
       "surface": "ולרגל",
-      "gloss": "láti ṣe àjòyò"
+      "gloss": "láti ṣe àwàrí"
     },
     {
       "surface": "הארץ",
-      "gloss": "ilẹ̀ náà"
+      "gloss": "ilẹ̀"
     },
     {
       "surface": "באו",
-      "gloss": "wọ́n wá"
+      "gloss": "dé"
     },
     {
       "surface": "עבדיו",
-      "gloss": "àwọn ẹrú rẹ̀"
+      "gloss": "àwọn ìránṣẹ́ rẹ"
     },
     {
       "surface": "אליך",
-      "gloss": "sí ọ̀dọ̀ rẹ̀"
+      "gloss": "ọ̀dọ̀ rẹ"
     }
   ],
-  "timestamp": "2026-08-23T05:16:57.317917332Z",
+  "timestamp": "2026-08-23T06:46:22.588080664Z",
   "model": "glm-5.3"
 }

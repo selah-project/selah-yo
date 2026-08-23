@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 22,
-  "translation": "Ó sì wí pé, Mo rí ⟨את⟩ gbogbo Yisrael tí wọ́n tú sílẹ̀ sí ⟨the⟩ àwọn òkè, gẹ́gẹ́ bí àwọn àgùntàn tí kò sí olùṣọ́ wọn; Yahweh sì wí pé, Kò sí olúkọ̀ wọ̀nyí — ẹnikan yóò padà lọ sí ilé rẹ̀ ní àlàáfíà.",
+  "translation": "Ó sì wí pé, Mo rí ⟨את⟩ gbogbo Israẹli tí wọ́n tú ká sí orí àwọn òkè, gẹ́gẹ́ bí àwọn agùntàn tí kò sí olùṣọ́-agùntàn fún wọn; Yahweh sì wí pé, Kì í ṣe àwọn olùkọ wọnyí ní wọn ń padà sílé, ọ̀kọ̀ọ̀kan ṣí sí ilé rẹ̀ ní àlàáfíà.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gbogbo Yisrael"
+      "marks": "gbogbo Israẹli"
     },
     {
       "surface": "כל",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israẹli"
     },
     {
       "surface": "נפצים",
-      "gloss": "tí wọ́n tú sílẹ̀"
+      "gloss": "tí wọ́n tú ká"
     },
     {
       "surface": "אל",
-      "gloss": "sí"
+      "gloss": "sí orí"
     },
     {
       "surface": "ההרים",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "כצאן",
-      "gloss": "gẹ́gẹ́ bí àwọn àgùntàn"
+      "gloss": "gẹ́gẹ́ bí àwọn agùntàn"
     },
     {
       "surface": "אשר",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "להם",
-      "gloss": "wọn"
+      "gloss": "fún wọn"
     },
     {
       "surface": "רעה",
-      "gloss": "olùṣọ́ (àgùntàn)"
+      "gloss": "olùṣọ́-agùntàn"
     },
     {
       "surface": "ויאמר",
-      "gloss": "sì wí pé"
+      "gloss": "Ó sì wí pé"
     },
     {
       "surface": "יהוה",
@@ -70,23 +70,23 @@
     },
     {
       "surface": "לא",
-      "gloss": "kò"
+      "gloss": "kì í ṣe"
     },
     {
       "surface": "אדנים",
-      "gloss": "sí olúkọ̀"
+      "gloss": "àwọn olùkọ"
     },
     {
       "surface": "לאלה",
-      "gloss": "wọ̀nyí"
+      "gloss": "wọnyí"
     },
     {
       "surface": "ישובו",
-      "gloss": "yóò padà lọ"
+      "gloss": "ń padà sílé"
     },
     {
       "surface": "איש",
-      "gloss": "ẹnikan"
+      "gloss": "ọ̀kọ̀ọ̀kan ṣí"
     },
     {
       "surface": "לביתו",
@@ -97,6 +97,6 @@
       "gloss": "ní àlàáfíà"
     }
   ],
-  "timestamp": "2026-08-23T01:25:46.824444413Z",
+  "timestamp": "2026-08-23T06:51:04.462610342Z",
   "model": "glm-5.3"
 }

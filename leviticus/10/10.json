@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 10,
-  "translation": "Àti láti ṣe ìyàsọ́tọ̀ láàárín ⟨the⟩ mímọ́ àti láàárín ⟨the⟩ ayélujára, àti láàárín ⟨the⟩ èèwọ̀ àti láàárín ⟨the⟩ mọ́.",
+  "translation": "àti láti ṣe ìyàsọ́tọ̀ láàárín ⟨ìmímọ́⟩ àti láàárín ⟨èyí tí kò ní mọ́⟩, láàárín ⟨èyí tí ó ṣe ègbé⟩ àti láàárín ⟨èyí tí ó mọ́⟩;",
   "tokens": [
     {
       "surface": "ולהבדיל",
-      "gloss": "Àti láti ṣe ìyàsọ́tọ̀"
+      "gloss": "àti láti ṣe ìyàsọ́tọ̀"
     },
     {
       "surface": "בין",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "⟨the⟩ mímọ́"
+      "gloss": "⟨ìmímọ́⟩"
     },
     {
       "surface": "ובין",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "החל",
-      "gloss": "⟨the⟩ ayélujára"
+      "gloss": "⟨èyí tí kò ní mọ́⟩"
     },
     {
       "surface": "ובין",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הטמא",
-      "gloss": "⟨the⟩ èèwọ̀"
+      "gloss": "⟨èyí tí ó ṣe ègbé⟩"
     },
     {
       "surface": "ובין",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "הטהור",
-      "gloss": "⟨the⟩ mọ́"
+      "gloss": "⟨èyí tí ó mọ́⟩"
     }
   ],
-  "timestamp": "2026-08-22T23:37:59.012541902Z",
+  "timestamp": "2026-08-23T06:50:49.528379999Z",
   "model": "glm-5.3"
 }

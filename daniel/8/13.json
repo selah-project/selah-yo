@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "yo",
   "chapter": 8,
-  "translation": "Mo sì gbọ́ ọ̀kan mímọ́ tí ń sọ̀rọ̀, ọ̀kan mímọ́ sì sọ fún palmónì tí ń sọ̀rọ̀ pé: Títí dé ìgbà wo ni ìran ⟨the⟩ náà, ẹbọ ìgbà-kí-ìgbà, àti àṣìṣe tí ó ń pa ìlú ru, tí wọ́n fi ààyè mímọ́ àti àwọn ọmọ-ogun tẹ́lẹ̀?",
+  "translation": "Mo sì gbọ́ ẹyọkan ní àwọn mímọ́ ń sọ̀rọ̀, ẹyọkan mímọ́ sì wí fún Palmoni, èní tí ń sọ̀rọ̀: Dé ìgbà wo ni ìfarajìn ti èbùn ti ń lọ lóòrèkóòrè, àti ìṣẹ̀gbà tí ó ń fi ìrúsilẹ̀ ṣe, tí wọ́n fi ń fún ⟨את⟩ ibi mímọ́ àti ⟨את⟩ ipò ogun ní ìtẹ̀-lọ́wọ́?",
   "tokens": [
     {
       "surface": "ואשמעה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אחד",
-      "gloss": "ọ̀kan"
+      "gloss": "ẹyọkan"
     },
     {
       "surface": "קדוש",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "מדבר",
-      "gloss": "tí ń sọ̀rọ̀"
+      "gloss": "ń sọ̀rọ̀"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ó sì sọ"
+      "gloss": "sì wí"
     },
     {
       "surface": "אחד",
-      "gloss": "ọ̀kan"
+      "gloss": "ẹyọkan"
     },
     {
       "surface": "קדוש",
@@ -37,53 +37,58 @@
     },
     {
       "surface": "לפלמוני",
-      "gloss": "fún palmónì"
+      "gloss": "fún Palmoni"
     },
     {
       "surface": "המדבר",
-      "gloss": "tí ń sọ̀rọ̀"
+      "gloss": "èní tí ń sọ̀rọ̀"
     },
     {
       "surface": "עד",
-      "gloss": "títí dé"
+      "gloss": "dé"
     },
     {
       "surface": "מתי",
-      "gloss": "ìgbà wo"
+      "gloss": "ìgbà wo ni"
     },
     {
       "surface": "החזון",
-      "gloss": "ìran náà"
+      "gloss": "ìfarajìn"
     },
     {
       "surface": "התמיד",
-      "gloss": "ẹbọ ìgbà-kí-ìgbà"
+      "gloss": "èbùn tí ń lọ lóòrèkóòrè"
     },
     {
       "surface": "והפשע",
-      "gloss": "àti àṣìṣe"
+      "gloss": "àti ìṣẹ̀gbà"
     },
     {
       "surface": "שמם",
-      "gloss": "tí ó ń pa ìlú ru"
+      "gloss": "tí ó ń fi ìrúsilẹ̀ ṣe"
     },
     {
       "surface": "תת",
-      "gloss": "tí wọ́n fi… tẹ́lẹ̀"
+      "gloss": "wọ́n fi ń fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibi mímọ́"
     },
     {
       "surface": "וקדש",
-      "gloss": "ààyè mímọ́"
+      "gloss": "àti ibi mímọ́"
     },
     {
       "surface": "וצבא",
-      "gloss": "àti àwọn ọmọ-ogun"
+      "gloss": "àti ipò ogun"
     },
     {
       "surface": "מרמס",
-      "gloss": "tẹ́lẹ̀ (lábẹ́ ẹsẹ̀)"
+      "gloss": "ní ìtẹ̀-lọ́wọ́"
     }
   ],
-  "timestamp": "2026-08-23T04:52:33.779013401Z",
+  "timestamp": "2026-08-23T06:46:27.283016653Z",
   "model": "glm-5.3"
 }

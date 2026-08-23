@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 31,
-  "translation": "Èyí ni fún mi ogún ọdún nínú ilé rẹ; mo ṣiṣẹ́ fún ẹ̀ méjìlélógún ọdún fún ọmọbìnrin rẹ méjì, àti ọdún mẹ́fà fún àgbo rẹ; ìwọ sì pa ⟨את⟩ owó-iṣẹ́ mi ìgbà mẹ́wàá.",
+  "translation": "Èyí ni fún mi: ogún ọdún ní ilé rẹ; mo ṣíṣẹ́ rẹ ọdún méjìlá pérélu fún ọmọbìnrin rẹ méjì, àti ọdún mẹfà fún àwọn agbo rẹ; ìwọ sì pa àwọn owó-iṣẹ́ mi ⟨את⟩ padà ní ẹ̀ẹ̀rún ìgbà mẹ́wàá.",
   "tokens": [
     {
       "surface": "זה",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "בביתך",
-      "gloss": "nínú ilé rẹ"
+      "gloss": "ní ilé rẹ"
     },
     {
       "surface": "עבדתיך",
-      "gloss": "mo ṣiṣẹ́ fún ẹ̀"
+      "gloss": "mo ṣíṣẹ́ rẹ"
     },
     {
       "surface": "ארבע",
-      "gloss": "mẹ́rin"
+      "gloss": "méjìlá pérélu fún"
     },
     {
       "surface": "עשרה",
-      "gloss": "láàárín mẹ́wàá"
+      "gloss": "ọdún"
     },
     {
       "surface": "שנה",
-      "gloss": "ọdún"
+      "gloss": ""
     },
     {
       "surface": "בשתי",
@@ -53,34 +53,38 @@
     },
     {
       "surface": "ושש",
-      "gloss": "àti mẹ́fà"
+      "gloss": "àti ọdún mẹfà"
     },
     {
       "surface": "שנים",
-      "gloss": "ọdún"
+      "gloss": ""
     },
     {
       "surface": "בצאנך",
-      "gloss": "fún àgbo rẹ"
+      "gloss": "fún àwọn agbo rẹ"
     },
     {
       "surface": "ותחלף",
-      "gloss": "ìwọ sì pa"
+      "gloss": "ìwọ sì pa… padà"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "owó-iṣẹ́ mi"
+      "marks": "àwọn owó-iṣẹ́ mi"
     },
     {
       "surface": "משכרתי",
-      "gloss": "owó-iṣẹ́ mi"
+      "gloss": "àwọn owó-iṣẹ́ mi"
     },
     {
       "surface": "עשרת",
-      "gloss": "ìgbà mẹ́wàá"
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "ẹ̀ẹ̀rún ìgbà"
     }
   ],
-  "timestamp": "2026-08-22T23:06:49.984295558Z",
+  "timestamp": "2026-08-23T06:34:03.907462438Z",
   "model": "glm-5.3"
 }

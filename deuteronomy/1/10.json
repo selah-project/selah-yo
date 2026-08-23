@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 1,
-  "translation": "Yahweh, Elohim yín, pọ̀ sí i ⟨את⟩ yín; ki ẹ wo, ẹ jẹ́ bí ìràwọ̀̀ ⟨the⟩ ọ̀run lónìí, ní púpọ̀ púpọ̀.",
+  "translation": "Yahweh Elohim yín ti pọ̀n da ⟨את⟩ yín, kí ẹ sì kíyèsí, ẹ̀yin òde yìí dà bíi àwọn ìràwọ̀ Ọ̀run lọ́nà púpọ̀.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -17,34 +17,34 @@
     },
     {
       "surface": "הרבה",
-      "gloss": "pọ̀ sí i"
+      "gloss": "ti pọ̀n da"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yín",
+      "gloss": "⟨את⟩",
       "marks": "yín"
     },
     {
       "surface": "והנכם",
-      "gloss": "ki ẹ wo, ẹ jẹ́"
+      "gloss": "kí ẹ sì kíyèsí, ẹ̀yin"
     },
     {
       "surface": "היום",
-      "gloss": "lónìí"
+      "gloss": "òde yìí"
     },
     {
       "surface": "ככוכבי",
-      "gloss": "bí ìràwọ̀"
+      "gloss": "dà bíi àwọn ìràwọ̀"
     },
     {
       "surface": "השמים",
-      "gloss": "ọ̀run"
+      "gloss": "Ọ̀run"
     },
     {
       "surface": "לרב",
-      "gloss": "ní púpọ̀ púpọ̀"
+      "gloss": "lọ́nà púpọ̀"
     }
   ],
-  "timestamp": "2026-08-23T00:06:13.205994036Z",
+  "timestamp": "2026-08-23T06:37:45.854913781Z",
   "model": "glm-5.3"
 }

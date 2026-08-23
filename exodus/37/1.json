@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 37,
-  "translation": "Betsalel sì ṣe ⟨את⟩ árkì ní igi shitim; àwọn àmọ̀-ìwọ̀n méjì àti ìdají ni ipàjà rẹ̀, àmọ̀-ìwọ̀n kan àti ìdájì ni fífẹ rẹ̀, àmọ̀-ìwọ̀n kan àti ìdájí ni gíga rẹ̀.",
+  "translation": "Betsalel sì ṣe ⟨את⟩ àpótí náà ní inú igi shittim — ẹ̀mẹ́ji àti ìdàji àmì ni ipari jinlẹ̀ rẹ̀, àmì kan àti ìdàji ni fífẹ̀ rẹ̀, àmì kan àti ìdàji ní gígà rẹ̀.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -18,53 +18,57 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "árkì"
+      "marks": "àpótí náà"
     },
     {
       "surface": "הארן",
-      "gloss": "⟨the⟩ árkì"
+      "gloss": "àpótí náà"
     },
     {
       "surface": "עצי",
-      "gloss": "igi"
+      "gloss": "ní inú igi"
     },
     {
       "surface": "שטים",
-      "gloss": "shitim"
+      "gloss": "shittim"
     },
     {
       "surface": "אמתים",
-      "gloss": "àwọn àmọ̀-ìwọ̀n méjì"
+      "gloss": "ẹ̀mẹ́ji àmì"
     },
     {
       "surface": "וחצי",
-      "gloss": "àti ìdájì"
+      "gloss": "àti ìdàji"
     },
     {
       "surface": "ארכו",
-      "gloss": "ni ipàjà rẹ̀"
+      "gloss": "ni ipari jinlẹ̀ rẹ̀"
     },
     {
       "surface": "ואמה",
-      "gloss": "àmọ̀-ìwọ̀n kan"
+      "gloss": "àmì kan"
     },
     {
       "surface": "וחצי",
-      "gloss": "àti ìdájì"
+      "gloss": "àti ìdàji"
     },
     {
       "surface": "רחבו",
-      "gloss": "ni fífẹ rẹ̀"
+      "gloss": "ni fífẹ̀ rẹ̀"
     },
     {
-      "surface": "וואמה",
-      "gloss": "àmọ̀-ìwọ̀n kan àti ìdájí"
+      "surface": "ואמה",
+      "gloss": "àmì kan"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "àti ìdàji"
     },
     {
       "surface": "קמתו",
-      "gloss": "ni gíga rẹ̀"
+      "gloss": "ní gígà rẹ̀"
     }
   ],
-  "timestamp": "2026-08-22T23:32:34.481256742Z",
+  "timestamp": "2026-08-23T06:35:32.019581096Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 6,
-  "translation": "Èyí sì ni òfin ti ⟨the⟩ Naziri: ní ọjọ́ ìpẹ̀pari àwọn ọjọ́ ìyàsọ́tọ́ rẹ̀, a ó gbé ⟨את⟩ un lọ sí ojú-ẹnu ⟨the⟩ àgọ́ ìpàdé.",
+  "translation": "Àti èyí ni ófin ìfihà Naziri: ní ọjọ́ tí àwọn ọjọ́ ìpínnu rẹ̀ bá kún, wọn máa mú ⟨את⟩ un wá sí ọ̀nà ìbọ̀wọ̀ àgọ́ ìpàdé.",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "Èyí sì"
+      "gloss": "Àti èyí"
     },
     {
       "surface": "תורת",
-      "gloss": "òfin"
+      "gloss": "ófin"
     },
     {
       "surface": "הנזיר",
-      "gloss": "ti ⟨the⟩ Naziri"
+      "gloss": "ìfihà Naziri"
     },
     {
       "surface": "ביום",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מלאת",
-      "gloss": "ìpẹ̀pari"
+      "gloss": "bá kún"
     },
     {
       "surface": "ימי",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "נזרו",
-      "gloss": "ìyàsọ́tọ́ rẹ̀"
+      "gloss": "ìpínnu rẹ̀"
     },
     {
       "surface": "יביא",
-      "gloss": "a ó gbé wá"
+      "gloss": "wọn máa mú wá"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "un (the Nazirite)"
+      "gloss": "⟨את⟩ un",
+      "marks": "un (ènìyàn Naziri náà)"
     },
     {
       "surface": "אל",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "פתח",
-      "gloss": "ojú-ẹnu"
+      "gloss": "ọ̀nà ìbọ̀wọ̀"
     },
     {
       "surface": "אהל",
@@ -61,6 +61,6 @@
       "gloss": "ìpàdé"
     }
   ],
-  "timestamp": "2026-08-23T05:44:29.391283554Z",
+  "timestamp": "2026-08-23T06:36:26.396565911Z",
   "model": "glm-5.3"
 }

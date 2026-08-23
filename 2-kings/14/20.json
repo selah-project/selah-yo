@@ -5,16 +5,16 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 14,
-  "translation": "Wọn gbe ⟨את⟩ rえ̀ lórí àwọn ẹṣin, wọn sì sin í ní Yerushalayim pẹ̀lú àwọn baba rẹ̀, ní ìlú Dafidi.",
+  "translation": "Wọ́n sì gbé e lóríẹ̀ṣín, wọ́n sì sin í ní Yerushalayim pẹ̀lú àwọn baba rẹ̀, ní ìlú Dafidi.",
   "tokens": [
     {
       "surface": "וישאו",
-      "gloss": "wọn gbe"
+      "gloss": "wọ́n sì gbé"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "rẹ̀ (Amatsjahu)"
+      "marks": "e (un)"
     },
     {
       "surface": "על",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "הסוסים",
-      "gloss": "àwọn ẹṣin"
+      "gloss": "ẹ̀ṣín"
     },
     {
       "surface": "ויקבר",
-      "gloss": "wọn sin í"
+      "gloss": "wọ́n sì sin í"
     },
     {
       "surface": "בירושלם",
@@ -49,6 +49,6 @@
       "gloss": "Dafidi"
     }
   ],
-  "timestamp": "2026-08-23T01:31:53.179716346Z",
+  "timestamp": "2026-08-23T06:40:09.011988980Z",
   "model": "glm-5.3"
 }

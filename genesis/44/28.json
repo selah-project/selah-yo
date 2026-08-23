@@ -5,49 +5,44 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 44,
-  "translation": "Ọ̀kan jáde lọ́dọ̀ ⟨את⟩ mi, mo sọ pé: Dájúdájú, a ti pí i já; kò sí ohun tí mo ti rí i títí di òní.",
+  "translation": "Ó kan ọ̀kan jáde láti ọ̀dọ̀ ⟨את⟩ mi, èmi sì wí pé, dáájọ́ tí ó ti jẹ́ pínpín-jẹ́ pínpín-jẹ́; èmi kò sì rí i títí di ìsinsin yìí.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "jáde"
+      "gloss": "ó kan jáde"
     },
     {
       "surface": "האחד",
-      "gloss": "ọ̀kan náà"
+      "gloss": "ọ̀kan"
     },
     {
       "surface": "מאתי",
-      "gloss": "lọ́dọ̀ ⟨את⟩ mi",
-      "marks": "lọ́dọ̀ mi"
+      "gloss": "láti ọ̀dọ̀ ⟨את⟩ mi",
+      "marks": "èmi (àpàmọ́ mi)"
     },
     {
-      "surface": "ואמר",
-      "gloss": "mo sọ"
+      "surface": "ויאמר",
+      "gloss": "èmi sì wí pé"
     },
     {
       "surface": "אך",
-      "gloss": "dájúdájú"
+      "gloss": "dáájọ́"
     },
     {
       "surface": "טרף",
-      "gloss": "a pí"
+      "gloss": "pínpín-jẹ́"
     },
     {
       "surface": "טרף",
-      "gloss": "já"
-    },
-    {
-      "surface": "ויצא",
-      "gloss": "jáde",
-      "note": ""
+      "gloss": "pínpín-jẹ́"
     },
     {
       "surface": "ולא",
-      "gloss": "kò"
+      "gloss": "kò sì"
     },
     {
       "surface": "ראיתיו",
-      "gloss": "mo rí i"
+      "gloss": "rí i"
     },
     {
       "surface": "עד",
@@ -55,9 +50,9 @@
     },
     {
       "surface": "הנה",
-      "gloss": "òní"
+      "gloss": "ìsinsin yìí"
     }
   ],
-  "timestamp": "2026-08-22T23:12:49.742217407Z",
+  "timestamp": "2026-08-23T06:34:14.811396736Z",
   "model": "glm-5.3"
 }

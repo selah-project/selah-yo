@@ -5,16 +5,15 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 51,
-  "translation": "Àwọn ni ⟨את⟩ ìwọ ni iṣẹ́ tí ó gbé omi iyì gbé, omi tehom ńlá, tí ó ṣe ìjìnà fun ni ibi jìnà ìgboro láti kọjá fún àwọn ènìyàn tí a rà padà?",
+  "translation": "Ǹjẹ́ ìwọ ni ó gbẹ odò omi jáde, omi ìsàlẹ̀-òkun-jìnì tó tóbi? Ìwọ ni ó ṣe ìsàlẹ̀ òkun jinjin di ọ̀nà, láti jẹ́ kí àwọn tí a ràn níyè kọjá?",
   "tokens": [
     {
       "surface": "הלוא",
-      "gloss": "àwọn ni"
+      "gloss": "ǹjẹ́"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ìwọ"
+      "gloss": "ìwọ"
     },
     {
       "surface": "היא",
@@ -22,11 +21,11 @@
     },
     {
       "surface": "המחרבת",
-      "gloss": "iṣẹ́ tí ó gbé omi iyì gbé"
+      "gloss": "ó gbẹ ... jáde"
     },
     {
       "surface": "ים",
-      "gloss": "iyì"
+      "gloss": "odò omi"
     },
     {
       "surface": "מי",
@@ -34,27 +33,27 @@
     },
     {
       "surface": "תהום",
-      "gloss": "tehom"
+      "gloss": "ìsàlẹ̀-òkun-jìnì"
     },
     {
       "surface": "רבה",
-      "gloss": "ńlá"
+      "gloss": "tó tóbi"
     },
     {
       "surface": "השמה",
-      "gloss": "tí ó ṣe"
+      "gloss": "ó ṣe ... di"
     },
     {
       "surface": "מעמקי",
-      "gloss": "ibi jìnà ìgboro"
+      "gloss": "ìsàlẹ̀ òkun jinjin"
     },
     {
       "surface": "ים",
-      "gloss": "iyì"
+      "gloss": "òkun"
     },
     {
       "surface": "דרך",
-      "gloss": "ìjìnà fun"
+      "gloss": "ọ̀nà"
     },
     {
       "surface": "לעבר",
@@ -62,9 +61,9 @@
     },
     {
       "surface": "גאולים",
-      "gloss": "àwọn ènìyàn tí a rà padà"
+      "gloss": "àwọn tí a ràn níyè"
     }
   ],
-  "timestamp": "2026-08-23T01:59:57.001394474Z",
+  "timestamp": "2026-08-23T06:41:53.546345072Z",
   "model": "glm-5.3"
 }

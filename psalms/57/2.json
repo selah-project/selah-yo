@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 57,
-  "translation": "Ṣè ìkẹ́ fún mi, Elohim, ṣè ìkẹ́ fún mi; nítorí tí ẹ̀mí mi gbẹ́yin lé ⟨the⟩ Orúkọ rẹ, àti ní ipò ìkùnkùn ⟨the⟩ èjìká rẹ ni èmi ó gbẹ́yin lé, títí tí ìpalára yóò fi kọjá.",
+  "translation": "Ṣànú fún mi, Elohim, ṣànú fún mi; nítorí pé ẹ̀mí mi gbà sílẹ̀ lọ́dọ̀ rẹ, àti ní abala ìyèyé rẹ ni èmi ó gbà sílẹ̀, títí tí ìpalára yóò fi kọjá.",
   "tokens": [
     {
       "surface": "חנני",
-      "gloss": "Ṣè ìkẹ́ fún mi"
+      "gloss": "Ṣànú fún mi"
     },
     {
       "surface": "אלהים",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "חנני",
-      "gloss": "ṣè ìkẹ́ fún mi"
+      "gloss": "ṣànú fún mi"
     },
     {
       "surface": "כי",
-      "gloss": "nítorí tí"
+      "gloss": "nítorí pé"
     },
     {
       "surface": "בך",
-      "gloss": "lé Orúkọ rẹ"
+      "gloss": "lọ́dọ̀ rẹ"
     },
     {
       "surface": "חסיה",
-      "gloss": "gbẹ́yin lé"
+      "gloss": "gbà sílẹ̀"
     },
     {
       "surface": "נפשי",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "ובצל",
-      "gloss": "àti ní ipò ìkùnkùn"
+      "gloss": "àti ní abala"
     },
     {
       "surface": "כנפיך",
-      "gloss": "èjìká rẹ"
+      "gloss": "ìyèyé rẹ"
     },
     {
       "surface": "אחסה",
-      "gloss": "èmi ó gbẹ́yin lé"
+      "gloss": "èmi ó gbà sílẹ̀"
     },
     {
       "surface": "עד",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "יעבר",
-      "gloss": "yóò fi kọjá"
+      "gloss": "yóò kọjá"
     },
     {
       "surface": "הוות",
       "gloss": "ìpalára"
     }
   ],
-  "timestamp": "2026-08-23T03:37:17.305898287Z",
+  "timestamp": "2026-08-23T06:45:20.811109646Z",
   "model": "glm-5.3"
 }

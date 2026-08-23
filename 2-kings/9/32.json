@@ -5,14 +5,14 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 9,
-  "translation": "Ó gbé ojú rẹ̀ sí ⟨the⟩ fèrèsé náà, ó sì wí pé, Ta ni ⟨את⟩ pẹ̀lú mi — ta ni? Àwọn eunuch méjì-mẹ́ta sì kí sí i.",
+  "translation": "Ó sì gbé ojú rẹ̀ sókè sí ⟨the⟩ ferese, ó sì wí pé, Ta ni ⟨את⟩ tí ó wà pẹ̀lú mi? Ta? Àwọn ọmọ ogun méjì tàbí mẹta sì wo sí i.",
   "tokens": [
     {
       "surface": "וישא",
-      "gloss": "ó gbé"
+      "gloss": "Ó sì gbé sókè"
     },
     {
-      "surface": "pניו",
+      "surface": "פניו",
       "gloss": "ojú rẹ̀"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "surface": "החלון",
-      "gloss": "fèrèsé náà"
+      "gloss": "ferese"
     },
     {
       "surface": "ויאמר",
@@ -33,15 +33,16 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ pẹ̀lú mi"
+      "gloss": "⟨את⟩ (pẹ̀lú mi)",
+      "marks": "pẹ̀lú mi — láti ara ọ̀rọ̀ 'Ta ni?'; את H854 (pẹ̀lú), kì í ṣe àmì ohun ìṣe"
     },
     {
       "surface": "מי",
-      "gloss": "ta ni"
+      "gloss": "Ta?"
     },
     {
-      "surface": "וישקיפו",
-      "gloss": "sì kí"
+      "surface": "וישקיפu",
+      "gloss": "sì wo sí"
     },
     {
       "surface": "אליו",
@@ -53,13 +54,13 @@
     },
     {
       "surface": "שלשה",
-      "gloss": "mẹ́ta"
+      "gloss": "tàbí mẹta"
     },
     {
       "surface": "סריסים",
-      "gloss": "àwọn eunuch"
+      "gloss": "àwọn ọmọ ogun (àgbà ágbà-òbè)"
     }
   ],
-  "timestamp": "2026-08-23T01:29:29.119478947Z",
+  "timestamp": "2026-08-23T06:51:10.136417127Z",
   "model": "glm-5.3"
 }

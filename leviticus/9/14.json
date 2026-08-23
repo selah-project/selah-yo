@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 9,
-  "translation": "Ó sì fọ̀ ⟨את⟩ inú rẹ̀ àti ⟨את⟩ ẹsẹ̀ rẹ̀ méjèèjì; ó sì jó ọ́n lórí ẹbọ ẹ̀yin-iná, lórí ⟨the⟩ pẹpẹ.",
+  "translation": "Ó sì fọ ⟨את⟩ inú rẹ̀ àti ⟨את⟩ ẹsẹ̀ méjèèjì, ó sì sún wọn lórí ẹran-ọ̀jọ́ lórí pẹpẹ.",
   "tokens": [
     {
       "surface": "וירחץ",
-      "gloss": "ó sì fọ̀"
+      "gloss": "ó sì fọ"
     },
     {
       "surface": "את",
@@ -18,20 +18,20 @@
     },
     {
       "surface": "הקרב",
-      "gloss": "inú rẹ̀"
+      "gloss": "inú rẹ̀ (àwọn èso inú)"
     },
     {
       "surface": "ואת",
-      "gloss": "àti ⟨את⟩",
-      "marks": "ẹsẹ̀ rẹ̀ méjèèjì"
+      "gloss": "⟨את⟩ àti",
+      "marks": "ẹsẹ̀ méjèèjì"
     },
     {
       "surface": "הכרעים",
-      "gloss": "ẹsẹ̀ rẹ̀ méjèèjì"
+      "gloss": "ẹsẹ̀ méjèèjì"
     },
     {
       "surface": "ויקטר",
-      "gloss": "ó sì jó ọ́n"
+      "gloss": "ó sì sún (kúkúru)"
     },
     {
       "surface": "על",
@@ -39,13 +39,13 @@
     },
     {
       "surface": "העלה",
-      "gloss": "ẹbọ ẹ̀yin-iná"
+      "gloss": "ẹran-ọ̀jọ́"
     },
     {
       "surface": "המזבחה",
-      "gloss": "pẹpẹ (gúúsù)"
+      "gloss": "pẹpẹ (tàbí lírà pẹpẹ)"
     }
   ],
-  "timestamp": "2026-08-22T23:37:33.624333941Z",
+  "timestamp": "2026-08-23T06:47:57.618726043Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 10,
-  "translation": "Ó sì bo ⟨את⟩ ojú gbogbo ilẹ̀ náà, ilẹ̀ sì yọjú; ó sì jẹ ⟨את⟩ gbogbo koríko ilẹ̀ náà àti ⟨את⟩ gbogbo èso igi tí òjò yìnyìn fi sílẹ̀, kò sì sí ohun èwe sílẹ̀ níbí igi àti níbí koríko pápá, ní gbogbo ilẹ̀ Mitzrayim.",
+  "translation": "Ó sì bo ⟨את⟩ ojú gbogbo ilẹ̀ náà, ilẹ̀ náà sì di ìkùnkùn; ó sì jẹ ⟨את⟩ gbogbo koriko ilẹ̀ náà, àti ⟨את⟩ gbogbo èso igi tí òjò iyẹ̀yẹ̀ fi sílẹ̀; ohun ewé kankan kò fi sílẹ̀ nínu igi àti nínu koriko pápá ní gbogbo ilẹ̀ Mitsrajim.",
   "tokens": [
     {
       "surface": "ויכס",
-      "gloss": "sì bo"
+      "gloss": "ó sì bo"
     },
     {
       "surface": "את",
@@ -30,20 +30,20 @@
     },
     {
       "surface": "ותחשך",
-      "gloss": "sì yọjú"
+      "gloss": "sì di ìkùnkùn"
     },
     {
       "surface": "הארץ",
-      "gloss": "ilẹ̀"
+      "gloss": "ilẹ̀ náà"
     },
     {
       "surface": "ויאכל",
-      "gloss": "sì jẹ"
+      "gloss": "ó sì jẹ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gbogbo koríko ilẹ̀ náà"
+      "marks": "gbogbo koriko ilẹ̀ náà"
     },
     {
       "surface": "כל",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "עשב",
-      "gloss": "koríko"
+      "gloss": "koriko"
     },
     {
       "surface": "הארץ",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "and ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "gbogbo èso igi"
     },
     {
@@ -84,31 +84,31 @@
     },
     {
       "surface": "הברד",
-      "gloss": "òjò yìnyìn"
+      "gloss": "òjò iyẹ̀yẹ̀"
     },
     {
-      "surface": "ו לא",
-      "gloss": "and kò sí"
+      "surface": "ולא",
+      "gloss": "kò sì"
     },
     {
       "surface": "נותר",
-      "gloss": "sí"
+      "gloss": "fi sílẹ̀"
     },
     {
       "surface": "כל",
-      "gloss": "ohun gbogbo"
+      "gloss": "kankan"
     },
     {
       "surface": "ירק",
-      "gloss": "èwe"
+      "gloss": "ohun ewé"
     },
     {
       "surface": "בעץ",
-      "gloss": "níbí igi"
+      "gloss": "nínu igi"
     },
     {
       "surface": "ובעשב",
-      "gloss": "àti níbí koríko"
+      "gloss": "àti nínu koriko"
     },
     {
       "surface": "השדה",
@@ -124,9 +124,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitzrayim"
+      "gloss": "Mitsrajim"
     }
   ],
-  "timestamp": "2026-08-22T23:18:46.489713693Z",
+  "timestamp": "2026-08-23T06:35:24.832247985Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "yo",
   "chapter": 20,
-  "translation": "Bínù Saulú sì jó sí Yonatan, ó sì wí fún un pé, Ọmọ obìnrin yíyẹ̀-kọ̀ ìṣubù! Njẹ́ èmi kò mọ̀ pé o ṣàyàn ọmọ Yishai sí ìṣẹ̀lẹ̀ rẹ, àti sí ìṣẹ̀lẹ̀ ìwọ̀fún ìyá rẹ?",
+  "translation": "Inú bí Shaúl sí Yonatan wọ́, ó sì wí fún un pé, Ọmọ obìnrin tiwàntíwà àti ìgbẹ́mí! Njẹ èmi kò mọ̀ pé ìwọ ti yàn fún ọmọ Yishai, sí ìwọ̀ ara ìwọ pẹ̀lú àti sí ìwọ̀ ara ti aìsìn ti ìyá rẹ?",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "Bínù sì jó"
+      "gloss": "Inú bí"
     },
     {
       "surface": "אף",
-      "gloss": "bínú"
+      "gloss": "ìbínú"
     },
     {
       "surface": "שאול",
-      "gloss": "Saulú"
+      "gloss": "Shaúl"
     },
     {
       "surface": "ביהונתן",
@@ -37,23 +37,19 @@
     },
     {
       "surface": "נעות",
-      "gloss": "yíyẹ̀-kọ̀"
+      "gloss": "obìnrin tiwàntíwà"
     },
     {
-      "surface": "המרדות",
-      "gloss": "ìṣubù"
-    },
-    {
-      "surface": "HALO",
-      "gloss": ""
+      "surface": "hámaradút",
+      "gloss": "àti ìgbẹ́mí"
     },
     {
       "surface": "הלוא",
-      "gloss": "Njẹ́ … kò"
+      "gloss": "Njẹ"
     },
     {
       "surface": "ידעתי",
-      "gloss": "èmi mọ̀"
+      "gloss": "èmi kò mọ̀"
     },
     {
       "surface": "כי",
@@ -61,15 +57,15 @@
     },
     {
       "surface": "בחר",
-      "gloss": "o ṣàyàn"
+      "gloss": "ti yàn"
     },
     {
       "surface": "אתה",
-      "gloss": "o"
+      "gloss": "ìwọ"
     },
     {
       "surface": "לבן",
-      "gloss": "ọmọ"
+      "gloss": "fún ọmọ"
     },
     {
       "surface": "ישי",
@@ -77,21 +73,21 @@
     },
     {
       "surface": "לבשתך",
-      "gloss": "sí ìṣẹ̀lẹ̀ rẹ"
+      "gloss": "sí ìwọ̀ ara ìwọ"
     },
     {
       "surface": "ולבשת",
-      "gloss": "àti sí ìṣẹ̀lẹ̀"
+      "gloss": "àti sí ìwọ̀ ara ti aìsìn"
     },
     {
       "surface": "ערות",
-      "gloss": "ìwọ̀fún"
+      "gloss": "ti aìsìn ti"
     },
     {
       "surface": "אמך",
       "gloss": "ìyá rẹ"
     }
   ],
-  "timestamp": "2026-08-23T00:52:05.347096143Z",
+  "timestamp": "2026-08-23T06:39:19.315980552Z",
   "model": "glm-5.3"
 }

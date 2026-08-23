@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 4,
-  "translation": "Yahweh sì wí fún un: Nítorí náà, ẹnikẹ́ni tí ó bá pa Kayin, iṣẹlẹ̀ yóò ṣe é ní ìgbà méje. Yahweh sì fi àmì fún Kayin, kí ẹnikẹ́ni tí ó bá rí i ⟨את⟩ má baà lu ⟨את⟩ u.",
+  "translation": "Yahweh sì wí fún un pé, Nítorí náà, ẹnikẹ́ni tí ó bá pa Kayin, ìṣẹ̀gbà yọ lórí rẹ̀ ní ìgbà meje; Yahweh sì fi ⟨את⟩ àmì sílẹ̀ fún Kayin, kí ẹnìkan kí ó má pa ⟨את⟩ un, ẹnìkẹ́ni tí ó bá rí i.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -24,16 +24,12 @@
       "gloss": "nítorí náà"
     },
     {
-      "surface": "ḳol",
-      "gloss": ""
-    },
-    {
       "surface": "כל",
-      "gloss": "ẹnikẹ́ni tí ó bá"
+      "gloss": "ẹnikẹ́ni"
     },
     {
       "surface": "הרג",
-      "gloss": "pa"
+      "gloss": "tí ó pa"
     },
     {
       "surface": "קין",
@@ -41,15 +37,15 @@
     },
     {
       "surface": "שבעתים",
-      "gloss": "ní ìgbà méje"
+      "gloss": "ní ìgbà meje"
     },
     {
       "surface": "יקם",
-      "gloss": "iṣẹlẹ̀ yóò ṣe é"
+      "gloss": "ìṣẹ̀gbà yọ lórí rẹ̀"
     },
     {
       "surface": "וישם",
-      "gloss": "sì fi"
+      "gloss": "sì fi sílẹ̀"
     },
     {
       "surface": "יהוה",
@@ -69,22 +65,22 @@
     },
     {
       "surface": "הכות",
-      "gloss": "⟨את⟩ má baà lu"
+      "gloss": "ó má pa"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "u"
+      "marks": "un"
     },
     {
       "surface": "כל",
-      "gloss": "ẹnikẹ́ni"
+      "gloss": "ẹnìkẹ́ni"
     },
     {
       "surface": "מצאו",
       "gloss": "tí ó bá rí i"
     }
   ],
-  "timestamp": "2026-08-22T22:54:53.058263321Z",
+  "timestamp": "2026-08-23T06:34:07.465922274Z",
   "model": "glm-5.3"
 }

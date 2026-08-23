@@ -5,8 +5,49 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 24,
-  "translation": "Nígbà tí ó bá pọn ọ̀gẹ̀dẹ̀ àgbàdo ara rẹ — kì í ṣe; nígbà tí ó bá ka iṣu gbìn ara rẹ: kì í ṣe; Nígbà tí ó bá ka nǹkan èso oko rẹ, má ṣe tún ṣí wà láìpẹ́: ó jẹ́ ti àjèjì, ti ọmọ-òbíkú, àti ti ìyà àgbà — má ṣe; Nígbà tí o bá ka ìdí oko èso rẹ, má a ṣe tún ka ìṣẹ́lẹ̀ rẹ̀ lẹ́yìn rẹ; ó jẹ́ fún àjèjì, fún ọmọ-òbíkú, àti fún ìyà àgbà.",
-  "tokens": [],
-  "timestamp": "2026-08-23T00:16:12.790997497Z",
+  "translation": "Nígbà tí o bá ń kó ọ̀gbìn ẹ̀mọ̀ rẹ, má ṣe tún kó èyí tí ó kú lẹ́yìn rẹ; fún àjèjì, fún àìní-bàbá, àti fún alákúnjà ni ó máa jẹ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "o bá ń kó ọ̀gbìn ẹ̀mọ̀"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "tún kó èyí tí ó kú"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "lẹ́yìn rẹ"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "fún àjèjì"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "fún àìní-bàbá"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "àti fún alákúnjà"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ó máa jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T06:37:30.768807505Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 9,
-  "translation": "Wọ́n sì mú ⟨את⟩ ẹbọ ẹ̀yin-iná wá fún un, láti pín rẹ̀ sí ìpín, àti ⟨את⟩ orí rẹ̀; ó sì jó ọ́n lórí ⟨the⟩ pẹpẹ.",
+  "translation": "Wọ́n sì gbé ẹran-ọ̀jọ́ (ìsọjú) wá fún un ní àwọn píèǹtì rẹ̀, àti ⟨את⟩ orí rẹ̀, ó sì sún rẹ̀ lórí pẹpẹ.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ẹbọ ẹ̀yin-iná"
+      "gloss": "⟨את⟩ sì",
+      "marks": "ẹran-ọ̀jọ́ (ìsọjú)"
     },
     {
       "surface": "העלה",
-      "gloss": "ẹbọ ẹ̀yin-iná"
+      "gloss": "ẹran-ọ̀jọ́ (ìsọjú)"
     },
     {
       "surface": "המציאו",
-      "gloss": "wọ́n mú wá"
+      "gloss": "wọ́n gbé wá"
     },
     {
       "surface": "אליו",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "לנתחיה",
-      "gloss": "láti pín rẹ̀ sí ìpín"
+      "gloss": "ní àwọn píèǹtì rẹ̀"
     },
     {
       "surface": "ואת",
-      "gloss": "àti ⟨את⟩",
+      "gloss": "⟨את⟩ àti",
       "marks": "orí rẹ̀"
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "surface": "ויקטר",
-      "gloss": "ó sì jó ọ́n"
+      "gloss": "ó sì sún (kúkúru)"
     },
     {
       "surface": "על",
@@ -50,6 +50,6 @@
       "gloss": "pẹpẹ"
     }
   ],
-  "timestamp": "2026-08-22T23:37:33.624085036Z",
+  "timestamp": "2026-08-23T06:47:57.618371870Z",
   "model": "glm-5.3"
 }

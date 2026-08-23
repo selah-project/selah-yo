@@ -5,20 +5,20 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 2,
-  "translation": "Ó gba ⟨את⟩ àsọ ìránmọ́ Eliyahu tí ó ṣubú kúrò lóríì rẹ̀, ó lu ⟨את⟩ omi, ó sì wí pé, Níbo ni Yahweh, Elohim Eliyahu wà? Gẹ́gẹ́ bíi bẹ́ẹ̀ ni ó lu ⟨את⟩ omi, wọ́n sì pín síbọ̀ síbíi, Elisha sì kọjá.",
+  "translation": "Ó sì gba ⟨את⟩ aṣọ àgbà Eliyahu tí ó ṣubù kúrò lórí rẹ̀, ó sì lu ⟨את⟩ omi náà, ó sì wí pé, Níbo ni Yahweh, Elohim Eliyahu wà? Bákan náà òun, ó lu ⟨את⟩ omi náà, wọ́n sì pín sí ẹ̀gbẹ́ ọ̀tún àti ẹ̀gbẹ́ òsì, Elisha sì kọjá.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "ó gba"
+      "gloss": "Ó sì gba"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àsọ ìránmọ́ Eliyahu"
+      "marks": "aṣọ àgbà"
     },
     {
       "surface": "אדרת",
-      "gloss": "àsọ ìránmọ́"
+      "gloss": "aṣọ àgbà"
     },
     {
       "surface": "אליהו",
@@ -30,24 +30,24 @@
     },
     {
       "surface": "נפלה",
-      "gloss": "ó ṣubú"
+      "gloss": "ó ṣubù"
     },
     {
       "surface": "מעליו",
-      "gloss": "kúrò lóríì rẹ̀"
+      "gloss": "kúrò lórí rẹ̀"
     },
     {
       "surface": "ויכה",
-      "gloss": "ó lu"
+      "gloss": "ó sì lu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "omi"
+      "marks": "omi náà"
     },
     {
       "surface": "המים",
-      "gloss": "⟨the⟩ omi"
+      "gloss": "omi náà"
     },
     {
       "surface": "ויאמר",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "איה",
-      "gloss": "níbo ni"
+      "gloss": "Níbo ni"
     },
     {
       "surface": "יהוה",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "אף",
-      "gloss": "gẹ́gẹ́ bíi"
+      "gloss": "Bákan náà"
     },
     {
       "surface": "הוא",
-      "gloss": "bẹ́ẹ̀"
+      "gloss": "òun"
     },
     {
       "surface": "ויכה",
@@ -84,11 +84,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "omi"
+      "marks": "omi náà"
     },
     {
       "surface": "המים",
-      "gloss": "⟨the⟩ omi"
+      "gloss": "omi náà"
     },
     {
       "surface": "ויחצו",
@@ -96,21 +96,21 @@
     },
     {
       "surface": "הנה",
-      "gloss": "síbọ̀"
+      "gloss": "sí ẹ̀gbẹ́ ọ̀tún"
     },
     {
       "surface": "והנה",
-      "gloss": "síbíi"
+      "gloss": "àti sí ẹ̀gbẹ́ òsì"
     },
     {
       "surface": "ויעבר",
-      "gloss": "ó sì kọjá"
+      "gloss": "sì kọjá"
     },
     {
       "surface": "אלישע",
       "gloss": "Elisha"
     }
   ],
-  "timestamp": "2026-08-23T01:26:54.393786116Z",
+  "timestamp": "2026-08-23T06:40:29.031089694Z",
   "model": "glm-5.3"
 }

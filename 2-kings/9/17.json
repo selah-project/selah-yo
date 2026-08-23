@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 9,
-  "translation": "Olùtọ̀sọ̀nà náà sì dúró lórí òkè-ìlé ⟨the⟩ náà ní Yizrẹẹlẹ, ó sì rí ⟨את⟩ ẹgbẹ́ ológun Yehu nígbà tí ó ń bọ̀, ó sì wí pé, Èmi ń rí ẹgbẹ́ ológun. Yehoram sì wí pé, Mu agbárí ⟨a⟩ ẹṣin kan, fi rán láti pàdé wọn, kí ó sì wí pé, Ṣé àlàáfíà ni?",
+  "translation": "A olùṣọ̀ náà dúró lórí àga àwò ní Yizreel, ó sì rí ⟨את⟩ ọ̀kan tí ń bọ̀ pẹ̀lú Yehu nígbà tí ó ń wá, ó sì wí pé, \"Àwọn ọkọ̀-ẹṣin kan ni mo ń rí.\" Yehoram sì wí pé, \"Mu agbárí ẹṣin kan, fi ránṣẹ́ lọ láti pàdé wọn, kí ó sì wí pé, Ṣé àlàáfíà ni?\"",
   "tokens": [
     {
       "surface": "והצפה",
-      "gloss": "Olùtọ̀sọ̀nà náà sì"
+      "gloss": "a olùṣọ̀ náà"
     },
     {
       "surface": "עמד",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "המגדל",
-      "gloss": "òkè-ìlé náà"
+      "gloss": "àga àwò"
     },
     {
       "surface": "ביזרעאל",
-      "gloss": "ní Yizrẹẹlẹ"
+      "gloss": "ní Yizreel"
     },
     {
       "surface": "וירא",
@@ -34,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ẹgbẹ́ ológun Yehu"
+      "marks": "ọ̀kan tí ń bọ̀ pẹ̀lú Yehu"
     },
     {
       "surface": "שפעת",
-      "gloss": "ẹgbẹ́ ológun"
+      "gloss": "ọ̀kan tí ń bọ̀"
     },
     {
       "surface": "יהוא",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "בבאו",
-      "gloss": "nígbà tí ó ń bọ̀"
+      "gloss": "nígbà tí ó ń wá"
     },
     {
       "surface": "ויאמר",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "שפעת",
-      "gloss": "ẹgbẹ́ ológun"
+      "gloss": "ọ̀kan tí ń bọ̀"
     },
     {
       "surface": "אני",
-      "gloss": "èmi"
+      "gloss": "mo"
     },
     {
       "surface": "ראה",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ó sì wí pé"
+      "gloss": "sì wí pé"
     },
     {
       "surface": "יהורם",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "קח",
-      "gloss": "mu"
+      "gloss": "Mu"
     },
     {
       "surface": "רכב",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ושלח",
-      "gloss": "fi rán"
+      "gloss": "fi ránṣẹ́ lọ"
     },
     {
       "surface": "לקראתם",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "השלום",
-      "gloss": "Ṣé àlàáfíà ni?"
+      "gloss": "Ṣé àlàáfíà ni"
     }
   ],
-  "timestamp": "2026-08-23T01:31:26.033489881Z",
+  "timestamp": "2026-08-23T06:40:31.842141907Z",
   "model": "glm-5.3"
 }

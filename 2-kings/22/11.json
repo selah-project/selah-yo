@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 22,
-  "translation": "Ó sì ṣẹlẹ̀, nígbà tí ọba gbọ́ ⟨את⟩ ọ̀rọ̀ ìwé Tórah náà, ó ya ⟨את》 aṣọ rẹ̀.",
+  "translation": "Ó sì ṣẹlẹ̀, nígbà tí ọba gbọ́ ⟨את⟩ ọ̀rọ̀ ìwé Torá náà, ó fa àwọn aṣọ rẹ̀.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọ̀rọ̀ ìwé Tórah"
+      "marks": "ọ̀rọ̀ ìwé Torá náà"
     },
     {
       "surface": "דברי",
@@ -34,22 +34,22 @@
     },
     {
       "surface": "התורה",
-      "gloss": "Tórah náà"
+      "gloss": "Torá náà"
     },
     {
       "surface": "ויקרע",
-      "gloss": "ó ya"
+      "gloss": "ó sì fa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aṣọ rẹ̀"
+      "marks": "àwọn aṣọ rẹ̀"
     },
     {
       "surface": "בגדיו",
-      "gloss": "aṣọ rẹ̀"
+      "gloss": "àwọn aṣọ rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T01:36:56.802206685Z",
+  "timestamp": "2026-08-23T06:40:12.288530902Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,59 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 20,
-  "translation": "Ó sì jáde, ọba Yisraél, ó sì lu ⟨את⟩ ẹṣin àti ⟨את⟩ ẹrù-ọkọ̀-ọ̀fi hints:",
-  "tokens": [],
-  "timestamp": "2026-08-23T01:23:25.174862726Z",
+  "translation": "Àti olú-ìjọba Yisrael jáde wá, ó lu ⟨את⟩ àwọn ẹṣin àti ⟨את⟩ àwọn ọmọ-ogun ẹṣin, ó sì lu Aramu tí ń ṣe ìlùgbé tí ó tóbi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ó jáde wá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "olú-ìjọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ó lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ẹṣin"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "àwọn ẹṣin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ-ogun ẹṣin"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "àwọn ọmọ-ogun ẹṣin"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ó sì lu"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ìlùgbé"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "tí ó tóbi"
+    }
+  ],
+  "timestamp": "2026-08-23T06:40:20.392047243Z",
   "model": "glm-5.3"
 }

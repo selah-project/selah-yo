@@ -5,8 +5,50 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 1,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-22T23:14:09.794906351Z",
+  "translation": "Ọba tuntun sì dìde lórí Mitzrayim, ẹniti kò mọ́ ⟨את⟩ Yosef.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sì dìde"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tuntun"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹniti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-23T06:35:12.524222534Z",
   "model": "glm-5.3"
 }

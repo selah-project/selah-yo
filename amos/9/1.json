@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "yo",
   "chapter": 9,
-  "translation": "Mo rí ⟨את⟩ Adonai tí ó dúró lé lórí ⟨the⟩ pẹpẹ ẹbùn, ó sì wí pé: Lu ori ala ⟨the⟩, kí ẹnu ilẹ̀kun ⟨the⟩ lè tító, kí wọ́n gé wọn sí orí wọn gbogbo, àti èyí tí ó kẹ́yìn nínú wọn ni èmi máa pa pẹ̀lú idà: ẹnití ó bá sá lọ nínú wọn kì í gbà láàbọ̀, ẹnití ó bá yọ nínú wọn kì í yọ.",
+  "translation": "Mo rí ⟨את⟩ Adonai tí ó dúró lé orí ibi-ẹbọ, ó sì wí pé: Lu kápítà yìí, kí àwọn odi ilẹ̀kùn ó ṣe yí pari; wọ́n ó sì gé wọn lórí orí gbogbo wọn; èmí sì máa pa ìkẹyìn wọn nínú idà; ẹni tí ó bá sà láàárín wọn kì í ṣe ó sà lọ, ẹni tí ó bá yàn láàárín wọn kì í yàn.",
   "tokens": [
     {
       "surface": "ראיתי",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "על",
-      "gloss": "lé lórí"
+      "gloss": "lé orí"
     },
     {
       "surface": "המזבח",
-      "gloss": "⟨the⟩ pẹpẹ ẹbùn"
+      "gloss": "ibi-ẹbọ náà"
     },
     {
       "surface": "ויאמר",
@@ -42,39 +42,39 @@
     },
     {
       "surface": "הכפתור",
-      "gloss": "ori ala ⟨the⟩"
+      "gloss": "kápítà yìí"
     },
     {
       "surface": "וירעשו",
-      "gloss": "kí ... tító"
+      "gloss": "kí wọn ó ṣe yí pari"
     },
     {
       "surface": "הספים",
-      "gloss": "ẹnu ilẹ̀kun ⟨the⟩"
+      "gloss": "àwọn odi ilẹ̀kùn"
     },
     {
       "surface": "ובצעם",
-      "gloss": "kí wọ́n gé wọn"
+      "gloss": "wọ́n ó sì gé wọn"
     },
     {
       "surface": "בראש",
-      "gloss": "sí orí"
+      "gloss": "lórí orí"
     },
     {
       "surface": "כלם",
-      "gloss": "wọn gbogbo"
+      "gloss": "gbogbo wọn"
     },
     {
       "surface": "ואחריתם",
-      "gloss": "èyí tí ó kẹ́yìn nínú wọn"
+      "gloss": "ìkẹyìn wọn"
     },
     {
       "surface": "בחרב",
-      "gloss": "pẹ̀lú idà"
+      "gloss": "nínú idà"
     },
     {
       "surface": "אהרג",
-      "gloss": "èmi máa pa"
+      "gloss": "èmí ó máa pa"
     },
     {
       "surface": "לא",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ינוס",
-      "gloss": "gbà láàbọ̀"
+      "gloss": "yóò sà"
     },
     {
       "surface": "להם",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "נס",
-      "gloss": "ẹnití ó bá sá lọ"
+      "gloss": "ẹni tí ó sà"
     },
     {
       "surface": "ולא",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "ימלט",
-      "gloss": "yọ"
+      "gloss": "yóò yàn"
     },
     {
       "surface": "להם",
@@ -106,9 +106,9 @@
     },
     {
       "surface": "פליט",
-      "gloss": "ẹnití ó bá yọ"
+      "gloss": "ẹni tí ó yàn (olùsà)"
     }
   ],
-  "timestamp": "2026-08-23T03:09:32.141477003Z",
+  "timestamp": "2026-08-23T06:44:21.727717851Z",
   "model": "glm-5.3"
 }

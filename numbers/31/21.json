@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 31,
-  "translation": "Elazar àlùfáà sọ fún àwọn ọkùnrin ogun tí ó wá sí ogun náà: Èyí ni òfin ⟨the⟩ Torah tí Yahweh pàṣẹ ⟨את⟩ Moshe.",
+  "translation": "Elazar àlùfáà sọ wọ́nyín fún àwọn ọkùnìn ogun tí wọ́n ń bọ̀ sí ogun: Èyí ni òfin òfin tí Yahweh paṣẹ fún ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ó sọ"
+      "gloss": "sọ"
     },
     {
       "surface": "אלעזר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "àlùfáà náà"
+      "gloss": "àlùfáà"
     },
     {
       "surface": "אל",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "àwọn ọkùnrin"
+      "gloss": "àwọn ọkùnìn"
     },
     {
       "surface": "הצבא",
-      "gloss": "ogun náà"
+      "gloss": "ogun"
     },
     {
       "surface": "הבאים",
-      "gloss": "tí ó wá"
+      "gloss": "tí wọ́n ń bọ̀"
     },
     {
       "surface": "למלחמה",
-      "gloss": "sí ogun náà"
+      "gloss": "sí ogun"
     },
     {
       "surface": "זאת",
-      "gloss": "èyí"
+      "gloss": "Èyí"
     },
     {
       "surface": "חקת",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "התורה",
-      "gloss": "Torah náà"
+      "gloss": "òfin"
     },
     {
       "surface": "אשר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ó pàṣẹ"
+      "gloss": "paṣẹ"
     },
     {
       "surface": "יהוה",
@@ -73,6 +73,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-23T00:03:18.719958477Z",
+  "timestamp": "2026-08-23T06:37:59.714519994Z",
   "model": "glm-5.3"
 }

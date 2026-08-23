@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 31,
-  "translation": "Ó sì wí fún bàbá rẹ̀ pé, kí ó má ṣe bínú sí mi, olúwa mi, nítorí pé èmi kò lè dídé níwájú rẹ, nítorí pé ìṣe àwọn obìrin wà lórí mi; ó sì wá wádìí, ṣùgbọ́n ó kò rí ⟨את⟩ àwọn terafim.",
+  "translation": "Ó sì wí fún baba rẹ̀ pé, kí Adonai mi má ṣe bínú sí mi nítorí pé èmi kò lè dídẹ́ níwájú rẹ, nítorí pé ìṣe àwọn obìnrin ń ṣẹlẹ̀ sí mi; ó sì wá á wá, ṣùgbọ́n ó kò rí ⟨את⟩ àwọn terafim náà.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אביה",
-      "gloss": "bàbá rẹ̀"
+      "gloss": "baba rẹ̀"
     },
     {
       "surface": "אל",
-      "gloss": "kí ó má ṣe"
+      "gloss": "kí... má ṣe"
     },
     {
       "surface": "יחר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "בעיני",
-      "gloss": "sí mi nínú ojú"
+      "gloss": "ní ojú"
     },
     {
       "surface": "אדני",
-      "gloss": "olúwa mi"
+      "gloss": "Adonai mi"
     },
     {
       "surface": "כי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לקום",
-      "gloss": "dídé"
+      "gloss": "dídẹ́"
     },
     {
       "surface": "מפניך",
@@ -65,34 +65,34 @@
     },
     {
       "surface": "נשים",
-      "gloss": "àwọn obìrin"
+      "gloss": "àwọn obìnrin"
     },
     {
       "surface": "לי",
-      "gloss": "wà lórí mi"
+      "gloss": "sí mi"
     },
     {
       "surface": "ויחפש",
-      "gloss": "ó sì wá wádìí"
+      "gloss": "ó sì wá á wá"
     },
     {
       "surface": "ולא",
-      "gloss": "ṣùgbọ́n ó kò"
+      "gloss": "ṣùgbọ́n kì"
     },
     {
       "surface": "מצא",
-      "gloss": "rí"
+      "gloss": "ó rí"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn terafim"
+      "marks": "àwọn terafim náà"
     },
     {
       "surface": "התרפים",
-      "gloss": "àwọn terafim ⟨the⟩"
+      "gloss": "àwọn terafim náà"
     }
   ],
-  "timestamp": "2026-08-22T23:06:26.290581374Z",
+  "timestamp": "2026-08-23T06:34:49.021234519Z",
   "model": "glm-5.3"
 }

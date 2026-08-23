@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "yo",
   "chapter": 15,
-  "translation": "Shaúl sì wí fún Shemuël pé, Mo ti ṣe ẹ̀ṣẹ̀; nítorí tí mo ti ṣẹ́ ⟨את⟩ ènu Yahweh ⟨את⟩ àti ⟨את⟩ àwọn ọ̀rọ̀ rẹ; nítorí tí ⟨את⟩ mo bẹ̀rù ⟨את⟩ àwọn ènìyàn náà, èmi sì gbọ́ nínú ohùn wọn.",
+  "translation": "Shaúl wí fún Shemuel pé: \"Mo ṣẹ̀; nítorí pé mo kọja àṣẹ Yahweh àti ⟨את⟩ ọ̀rọ̀ rẹ, nítorí pé mo bẹ̀rù ⟨את⟩ ìjọ enìyàn, èmi sì gbọ́rọ̀ sí ohùn wọn.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "sì wí"
+      "gloss": "ó wí"
     },
     {
       "surface": "שאול",
@@ -21,73 +21,68 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuël"
+      "gloss": "Shemuel"
     },
     {
       "surface": "חטאתי",
-      "gloss": "mo ti ṣe ẹ̀ṣẹ̀"
+      "gloss": "mo ṣẹ̀"
     },
     {
       "surface": "כי",
-      "gloss": "nítorí tí"
+      "gloss": "nítorí pé"
     },
     {
       "surface": "עברתי",
-      "gloss": "mo ti ṣẹ́"
+      "gloss": "mo kọja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ènu Yahweh"
+      "marks": "àṣẹ Yahweh"
     },
     {
       "surface": "פי",
-      "gloss": "ènu"
+      "gloss": "ẹnu"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "⟨את⟩ àti",
-      "marks": ""
-    },
-    {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "àwọn ọ̀rọ̀ rẹ"
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọ̀rọ̀ rẹ"
     },
     {
       "surface": "דבריך",
-      "gloss": "àwọn ọ̀rọ̀ rẹ"
+      "gloss": "ọ̀rọ̀ rẹ"
     },
     {
       "surface": "כי",
-      "gloss": "nítorí tí"
+      "gloss": "nítorí pé"
     },
     {
       "surface": "יראתי",
-      "gloss": "⟨את⟩ mo bẹ̀rù"
+      "gloss": "mo bẹ̀rù"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn ènìyàn náà"
+      "marks": "ìjọ enìyàn"
     },
     {
       "surface": "העם",
-      "gloss": "àwọn ènìyàn náà"
+      "gloss": "ìjọ enìyàn"
     },
     {
       "surface": "ואשמע",
-      "gloss": "èmi sì gbọ́"
+      "gloss": "èmi sì gbọ́rọ̀ sí"
     },
     {
       "surface": "בקולם",
-      "gloss": "nínú ohùn wọn"
+      "gloss": "ohùn wọn"
     }
   ],
-  "timestamp": "2026-08-23T00:48:07.827086655Z",
+  "timestamp": "2026-08-23T06:37:43.312059639Z",
   "model": "glm-5.3"
 }

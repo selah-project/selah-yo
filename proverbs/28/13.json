@@ -5,25 +5,37 @@
   "book": "proverbs",
   "lang": "yo",
   "chapter": 28,
-  "translation": "Ẹni tí ó ń bo ⟨את⟩ ìwà-ìtẹ̀ sí ẹ̀ kì í ṣeéṣe, ṣùgbọ́n ẹni tí ó ń jẹ́wọ́ àti tí ó ń fi sílẹ̀ ni a ṣe àánú fún.",
+  "translation": "Ẹni tí ó ń bò ⟨את⟩ àwọn ìjàmbá ara rẹ̀ kì yóò ṣeé ṣe àṣeyọrí, ṣùgbọ́n ẹni tí ó ń jẹ́wọ́ àti tí ó ń fi sílẹ̀ ni yóò gba àánú.",
   "tokens": [
     {
       "surface": "מכסה",
-      "gloss": "Ẹni tí ó ń bo"
+      "gloss": "ẹni tí ó ń bò"
     },
     {
       "surface": "פשעיו",
-      "gloss": "ìwà-ìtẹ̀ sí ẹ̀ rẹ̀"
+      "gloss": "àwọn ìjàmbá ara rẹ̀"
     },
     {
       "surface": "לא",
-      "gloss": "kì í ṣeéṣe"
+      "gloss": "kì"
     },
     {
       "surface": "יצליח",
-      "gloss": "gbéyàwó"
+      "gloss": "yóò ṣeé ṣe àṣeyọrí"
+    },
+    {
+      "surface": "ומודה",
+      "gloss": "ṣùgbọ́n ẹni tí ó ń jẹ́wọ́"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "àti tí ó ń fi sílẹ̀"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ni yóò gba àánú"
     }
   ],
-  "timestamp": "2026-08-23T04:13:14.408173872Z",
+  "timestamp": "2026-08-23T06:45:36.374622556Z",
   "model": "glm-5.3"
 }

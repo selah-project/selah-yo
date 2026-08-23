@@ -5,20 +5,20 @@
   "book": "jeremiah",
   "lang": "yo",
   "chapter": 51,
-  "translation": "Àwa ti fìdí gbọ́n láti wo ⟨את⟩ Bavel, ṣùgbọ́n ó kò ràn án; ẹ jẹ́ kí a fi í sílẹ̀, kí àwa náà lọ, ẹni kọ̀ọ̀kan sí ilẹ̀ tirẹ̀; nítorí ìdájọ́ rẹ̀ ti kan ọ̀run, ó sì ti gòógòò dé àwọn sànmán-ọ̀run.",
+  "translation": "Àwa gbìyànjú láti wo ⟨את⟩ Babilon, ṣùgbọ́n kò rí ìwòsàn; jẹ́ kí a jẹ́ kí ó sílẹ̀, kí a sì lọ, ẹnikan-ọ̀kan sí ilẹ̀ ara rẹ̀; nítorí tí ète ìdájọ́ rẹ̀ dé ọ̀run, ó sì gbé sókọ̀ títí dé àwọn sísàn-ẹjì.",
   "tokens": [
     {
       "surface": "רפאנו",
-      "gloss": "àwa ti fìdí gbọ́n láti wo"
+      "gloss": "Àwa gbìyànjú láti wo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Bavel"
+      "marks": "Babilon"
     },
     {
       "surface": "בבל",
-      "gloss": "Bavel"
+      "gloss": "Babilon"
     },
     {
       "surface": "ולא",
@@ -26,39 +26,35 @@
     },
     {
       "surface": "נרפתה",
-      "gloss": "ràn án"
+      "gloss": "rí ìwòsàn"
     },
     {
       "surface": "עזבוה",
-      "gloss": "ẹ jẹ́ kí a fi í sílẹ̀"
+      "gloss": "jẹ́ kí a jẹ́ kí ó sílẹ̀"
     },
     {
-      "surface": "ו",
-      "gloss": ""
-    },
-    {
-      "surface": "נלך",
-      "gloss": "kí àwa náà lọ"
+      "surface": "ונלך",
+      "gloss": "kí a sì lọ"
     },
     {
       "surface": "איש",
-      "gloss": "ẹni kọ̀ọ̀kan"
+      "gloss": "ẹnikan-ọ̀kan"
     },
     {
       "surface": "לארצו",
-      "gloss": "sí ilẹ̀ tirẹ̀"
+      "gloss": "sí ilẹ̀ ara rẹ̀"
     },
     {
       "surface": "כי",
-      "gloss": "nítorí"
+      "gloss": "nítorí tí"
     },
     {
       "surface": "נגע",
-      "gloss": "ti kan"
+      "gloss": "dé"
     },
     {
       "surface": "אל",
-      "gloss": "dé"
+      "gloss": "sí"
     },
     {
       "surface": "השמים",
@@ -66,21 +62,21 @@
     },
     {
       "surface": "משפטה",
-      "gloss": "ìdájọ́ rẹ̀"
+      "gloss": "ète ìdájọ́ rẹ̀"
     },
     {
       "surface": "ונשא",
-      "gloss": "ó sì ti gòógòò"
+      "gloss": "ó sì gbé sókọ̀"
     },
     {
       "surface": "עד",
-      "gloss": "dé"
+      "gloss": "títí dé"
     },
     {
       "surface": "שחקים",
-      "gloss": "àwọn sànmán-ọ̀run"
+      "gloss": "àwọn sísàn-ẹjì"
     }
   ],
-  "timestamp": "2026-08-23T02:33:54.622269887Z",
+  "timestamp": "2026-08-23T06:41:27.321607675Z",
   "model": "glm-5.3"
 }

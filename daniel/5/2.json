@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "yo",
   "chapter": 5,
-  "translation": "Belshatzar, nígbà tí ó ń tọ wáínì ká, paṣẹ pé kí wọn mú àwọn ohun-èlú ti wúrà àti fàdákà tí Nevukhadnetsar bàbá rẹ̀ mú jáde láti inú àgbàlá ilé tí ó wà ní Yerushalayim wá, kí ọba náà, àwọn ìjòyè rẹ̀, àwọn ayàwò rẹ̀ àti àwọn ìyàwò ìbànújẹ́ rẹ̀ lè mu nínú wọn.",
+  "translation": "Belshazzar, nígbà tí ó ń tọ̀ wáìnì, paṣẹ kí wọ́n mú ⟨את⟩ àwọn irinṣẹ́ wúrà àti fàdákà tí Nevukhadnetstsar baba rẹ̀ mú jáde kúrò nínú TEMPELI tí ó wà ní Yerushalayim wá, kí ọba, àwọn ìjòyè rẹ̀, àwọn aya rẹ̀ àti àwọn ìyàwó ìkẹ́yìn rẹ̀ lè mu nínú wọn.",
   "tokens": [
     {
       "surface": "בלשאצר",
-      "gloss": "Belshatzar"
+      "gloss": "Belshazzar"
     },
     {
       "surface": "אמר",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "בטעם",
-      "gloss": "nígbà tí ó ń tọ wáínì ká"
+      "gloss": "nígbà tí ó ń tọ̀"
     },
     {
       "surface": "חמרא",
-      "gloss": "wáínì"
+      "gloss": "wáìnì"
     },
     {
       "surface": "להיתיה",
-      "gloss": "pé kí wọn mú … wá"
+      "gloss": "kí wọ́n mú wá"
     },
     {
       "surface": "למאני",
-      "gloss": "àwọn ohun-èlú"
+      "gloss": "àwọn irinṣẹ́"
     },
     {
       "surface": "דהבא",
-      "gloss": "ti wúrà"
+      "gloss": "wúrà"
     },
     {
       "surface": "וכספא",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "נבוכדנצר",
-      "gloss": "Nevukhadnetsar"
+      "gloss": "Nevukhadnetstsar"
     },
     {
       "surface": "אבוהי",
-      "gloss": "bàbá rẹ̀"
+      "gloss": "baba rẹ̀"
     },
     {
       "surface": "מן",
-      "gloss": "láti inú"
+      "gloss": "kúrò nínú"
     },
     {
       "surface": "היכלא",
-      "gloss": "àgbàlá ilé"
+      "gloss": "TEMPLE"
     },
     {
       "surface": "די",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "וישתון",
-      "gloss": "kí … lè mu"
+      "gloss": "kí ... lè mu"
     },
     {
       "surface": "בהון",
@@ -81,11 +81,7 @@
     },
     {
       "surface": "מלכא",
-      "gloss": "ọba náà"
-    },
-    {
-      "surface": "וישתון",
-      "gloss": ""
+      "gloss": "ọba"
     },
     {
       "surface": "ורברבנוהי",
@@ -93,13 +89,13 @@
     },
     {
       "surface": "שגלתה",
-      "gloss": "àwọn ayàwò rẹ̀"
+      "gloss": "àwọn aya rẹ̀"
     },
     {
       "surface": "ולחנתה",
-      "gloss": "àti àwọn ìyàwò ìbànújẹ́ rẹ̀"
+      "gloss": "àti àwọn ìyàwó ìkẹ́yìn rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T04:51:18.603086680Z",
+  "timestamp": "2026-08-23T06:46:26.306831378Z",
   "model": "glm-5.3"
 }

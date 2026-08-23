@@ -5,8 +5,33 @@
   "book": "jeremiah",
   "lang": "yo",
   "chapter": 29,
-  "translation": "Ọ̀rọ̀ Yahweh sì wá bákí sí Yirmeyahu, ó sì sọ pé.",
-  "tokens": [],
-  "timestamp": "2026-08-23T02:21:03.254524277Z",
+  "translation": "Nígbà náà, ọ̀rọ̀ Yahweh dé bà Yirmeyahu, wí pé:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nígbà náà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dé bà"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    }
+  ],
+  "timestamp": "2026-08-23T06:41:28.843439132Z",
   "model": "glm-5.3"
 }

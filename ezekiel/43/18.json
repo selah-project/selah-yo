@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "yo",
   "chapter": 43,
-  "translation": "Ó sọ fún mi: Ọmọ ènìyàn, bíi èyí ni Adonai Yahweh ti wí — Àwọn òfin wọnyí ni ti ⟨the⟩ àgàlá, ní ọjọ́ tí a bá ṣe ẹ́, láti gbé ìrúbọ ẹ̀yin sórí rẹ̀, àti láti tú ẹjẹ̀ sórí rẹ̀.",
+  "translation": "Ó sì wí fún mi: Omo aráyé, béè ni Adonai Yahweh ti wí — àwọn òfin pẹpẹ jíjẹ wọnyí, ní ọjọ́ tí a bá ṣe é, láti gbé ìrúbọ ìjẹ sórí rẹ̀, àti láti fi ẹ̀jẹ̀ tú sórí rẹ̀.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ó sọ"
+      "gloss": "Ó sì wí"
     },
     {
       "surface": "אלי",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "בן",
-      "gloss": "Ọmọ"
+      "gloss": "Omo"
     },
     {
       "surface": "אדם",
-      "gloss": "ènìyàn"
+      "gloss": "aráyé"
     },
     {
       "surface": "כה",
-      "gloss": "bíi èyí"
+      "gloss": "béè"
     },
     {
       "surface": "אמר",
-      "gloss": "ti wí"
+      "gloss": "wí"
     },
     {
       "surface": "אדני",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "Àwọn wọnyí"
+      "gloss": "àwọn wọnyí"
     },
     {
       "surface": "חקות",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "àgàlá"
+      "gloss": "pẹpẹ jíjẹ"
     },
     {
       "surface": "ביום",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "העשותו",
-      "gloss": "tí a bá ṣe ẹ́"
+      "gloss": "tí a bá ṣe é"
     },
     {
       "surface": "להעלות",
-      "gloss": "láti gbé... sókè"
+      "gloss": "láti gbé"
     },
     {
       "surface": "עליו",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "עולה",
-      "gloss": "ìrúbọ ẹ̀yin"
+      "gloss": "ìrúbọ ìjẹ (olá)"
     },
     {
       "surface": "ולזרק",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "דם",
-      "gloss": "ẹjẹ̀"
+      "gloss": "ẹ̀jẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T06:02:17.127754440Z",
+  "timestamp": "2026-08-23T06:44:19.883872030Z",
   "model": "glm-5.3"
 }

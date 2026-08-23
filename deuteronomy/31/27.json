@@ -5,37 +5,37 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 31,
-  "translation": "Nítorí mo mọ ⟨את〕 ìṣọ̀tẹ̀ yín àti ⟨את⟩ orí-ǹù yín tí ó le; wo, nígbà tí mo wà láàyè pẹ̀lú yín òní, ẹ ti jiyàn pẹ̀lú Yahweh; ìyà ti ẹ̀ púpọ̀ sí i lẹ́yìn ikú mi!",
+  "translation": "Nítorí tí mo mọ ⟨את⟩ ìgbọ́ràn rẹ̀ àti ⟨את⟩ ǹǹù ìka orí rẹ̀; wò ó, nígbà tí mo wà láàyè pẹ̀lú yín ôní, ẹ̀yin ti fi ara rẹ̀ padà sílẹ̀ lọ́dọ̀ Yahweh — ọ̀pọ̀lọpọ̀ iye ni í ṣe lẹ́yìn ikú mi!",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Nítorí"
+      "gloss": "nítorí tí"
     },
     {
       "surface": "אנכי",
-      "gloss": "mo"
+      "gloss": "mo (ẹmi)"
     },
     {
       "surface": "ידעתי",
-      "gloss": "mọ"
+      "gloss": "mo mọ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìṣọ̀tẹ̀ yín"
+      "marks": "ìgbọ́ràn rẹ"
     },
     {
       "surface": "מריך",
-      "gloss": "ìṣọ̀tẹ̀ yín"
+      "gloss": "ìgbọ́ràn rẹ"
     },
     {
       "surface": "ואת",
       "gloss": "àti ⟨את⟩",
-      "marks": "orí-ǹù yín tí ó le"
+      "marks": "ǹǹù ìka orí rẹ"
     },
     {
       "surface": "ערפך",
-      "gloss": "orí-ǹù yín"
+      "gloss": "ǹǹù ìka orí rẹ"
     },
     {
       "surface": "הקשה",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "הן",
-      "gloss": "wo"
+      "gloss": "wò ó"
     },
     {
       "surface": "בעודני",
-      "gloss": "nígbà tí mo wà"
+      "gloss": "nígbà tí mo wà tún"
     },
     {
       "surface": "חי",
@@ -59,15 +59,15 @@
     },
     {
       "surface": "היום",
-      "gloss": "òní"
+      "gloss": "ọní"
     },
     {
       "surface": "ממרים",
-      "gloss": "ẹ ti jiyàn"
+      "gloss": "ẹ̀yin tí ń gbọ́ràn-lọ́tẹ̀"
     },
     {
       "surface": "היתם",
-      "gloss": "ẹ ti"
+      "gloss": "ẹ̀yin ti wà"
     },
     {
       "surface": "עם",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "ואף",
-      "gloss": "ìyà ti ẹ̀ púpọ̀"
+      "gloss": "ọ̀pọ̀lọpọ̀ iye ni í ṣe"
     },
     {
       "surface": "כי",
-      "gloss": "sí i"
+      "gloss": "bí"
     },
     {
       "surface": "אחרי",
@@ -94,6 +94,6 @@
       "gloss": "ikú mi"
     }
   ],
-  "timestamp": "2026-08-23T00:21:53.200088259Z",
+  "timestamp": "2026-08-23T06:37:38.106146693Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 12,
-  "translation": "Ó sì wí pé, Ẹ gbọ́ ọ̀rọ̀ mi: bí ọdàányàn-bí-ẹni-mínì Yín bá wà, Yahweh, ní ìfaradà ni mo ti ṣe ara mi mọ́ ọ́, nínú alá láàyà nìkí n í bá ọ́ sọ̀rọ̀.",
+  "translation": "Ó sì wí pé, Ẹ gbọ́ ìwọ̀yì ọ̀rọ̀ mi: tí ẹni baà jẹ́ wòlíì yín, Yahweh ni yóò fi ara hàn án nínú ìfarahàn, nínú ala ni èmi máa bá a sọ̀rọ̀.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "jọ̀wọ́"
+      "gloss": "ìwọ̀yì"
     },
     {
       "surface": "דברי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "bí"
+      "gloss": "tí"
     },
     {
       "surface": "יהיה",
-      "gloss": "bá wà"
+      "gloss": "baà jẹ́"
     },
     {
       "surface": "נביאכם",
@@ -45,29 +45,25 @@
     },
     {
       "surface": "אליו",
-      "gloss": "sí i"
+      "gloss": "àn"
     },
     {
       "surface": "אתודע",
-      "gloss": "mo ṣe ara mi mọ́ ọ́"
+      "gloss": "èmi máa fi ara hàn"
     },
     {
       "surface": "בחלום",
-      "gloss": "nínú alá"
+      "gloss": "nínú ala"
     },
     {
       "surface": "אדבר",
-      "gloss": "mo í sọ̀rọ̀"
+      "gloss": "èmi máa sọ̀rọ̀"
     },
     {
       "surface": "בו",
-      "gloss": "pẹ̀lú ì"
-    },
-    {
-      "notes": [],
-      "gloss": ""
+      "gloss": "pẹ̀lú òun"
     }
   ],
-  "timestamp": "2026-08-22T23:55:02.267958635Z",
+  "timestamp": "2026-08-23T06:36:52.027670684Z",
   "model": "glm-5.3"
 }

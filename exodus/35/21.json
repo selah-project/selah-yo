@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 35,
-  "translation": "Wọ́n sì wọ́, ọkùnrin gbogbo tí ọkàn rẹ̀ gbé e lárugẹ, àti ẹni tílẹ̀mí rẹ̀ ṣe nítẹrí láìnígbésí — wọ́n sì mú ⟨את⟩ èrù-orísun Yahweh wá, fún iṣẹ́ ahọ́ ìpàdé àti fún iṣẹ́ rẹ̀ gbogbo, àti fún aṣọ ⟨the⟩ míìmọ́ náà.",
+  "translation": "Wọ́n sì wá, gbogbo ọkùnrin tí ọkàn rẹ̀ gbé lárọ̀kẹ̀, àti gbogbo ẹni tí ẹ̀mí rẹ̀ fún ní ìtọ́kasi láìsí ìjẹ́ nípa ⟨את⟩ rẹ̀, ó sì mú ⟨את⟩ ìfi-orí-fúnna Yahweh wá, fún iṣẹ́ ahọ́ ìpàdé àti fún gbogbo iṣẹ́ rẹ̀, àti fún aṣọ́ ⟨àìmímọ́ kò⟩ ìmímọ́ náà.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "wọ́n sì wọ́"
+      "gloss": "wọ́n sì wá"
     },
     {
       "surface": "כל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נשאו",
-      "gloss": "gbé e lárugẹ"
+      "gloss": "gbé lárọ̀kẹ̀"
     },
     {
       "surface": "לבו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "àti ẹni"
+      "gloss": "àti gbogbo"
     },
     {
       "surface": "אשר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נדבה",
-      "gloss": "ṣe nítẹrí láìnígbésí"
+      "gloss": "fún ní ìtọ́kasi láìsí ìjẹ́"
     },
     {
       "surface": "רוחו",
@@ -49,21 +49,21 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩òun",
-      "marks": "wọ́n (àwọn tí wọ́n mú èrù-orísun wá)"
+      "gloss": "⟨את⟩",
+      "marks": "ẹni náà (ẹni tí ẹ̀mí rẹ̀ ń ṣàkóso)"
     },
     {
       "surface": "הביאו",
-      "gloss": "wọ́n sì mú … wá"
+      "gloss": "ó sì mú … wá"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "èrù-orísun Yahweh"
+      "marks": "ìfi-orí-fúnna Yahweh"
     },
     {
       "surface": "תרומת",
-      "gloss": "èrù-orísun"
+      "gloss": "ìfi-orí-fúnna"
     },
     {
       "surface": "יהוה",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "àti fún … gbogbo"
+      "gloss": "àti fún gbogbo"
     },
     {
       "surface": "עבדתו",
@@ -91,13 +91,13 @@
     },
     {
       "surface": "ולבגדי",
-      "gloss": "àti fún aṣọ"
+      "gloss": "àti fún aṣọ́"
     },
     {
       "surface": "הקדש",
-      "gloss": "míìmọ́ náà"
+      "gloss": "ìmímọ́ náà"
     }
   ],
-  "timestamp": "2026-08-22T23:31:06.692108913Z",
+  "timestamp": "2026-08-23T06:35:52.832688032Z",
   "model": "glm-5.3"
 }

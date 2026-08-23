@@ -5,12 +5,12 @@
   "book": "ezekiel",
   "lang": "yo",
   "chapter": 33,
-  "translation": "⟨את⟩ ohùn ⟨the⟩ shofar ni ó gbọ́, ṣùgbọ́n kò gba ìkìlọ̀; ẹ̀jẹ̀ rẹ̀ ló máa wà lára rẹ̀; ṣùgbọ́n ẹni tí ó gba ìkìlọ̀, ẹ̀mí rẹ̀ ló gbàlà.",
+  "translation": "Ó gbọ́ ⟨את⟩ ohùn shofar, kò sì ṣéra; ẹ̀jẹ̀ rẹ̀ ni yóò wà lára rẹ̀; ṣùgbọ́n tí ó bá ṣéra, èmi rẹ̀ ni yóò gbà là.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ohùn"
+      "marks": "ohùn shofar"
     },
     {
       "surface": "קול",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "נזהר",
-      "gloss": "gba ìkìlọ̀"
+      "gloss": "ṣéra"
     },
     {
       "surface": "דמו",
@@ -42,25 +42,25 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "máa wà"
+      "gloss": "yóò wà"
     },
     {
       "surface": "והוא",
-      "gloss": "ṣùgbọ́n ẹni"
+      "gloss": "ṣùgbọ́n tí ó bá"
     },
     {
       "surface": "נזהר",
-      "gloss": "gba ìkìlọ̀"
+      "gloss": "ṣéra"
     },
     {
       "surface": "נפשו",
-      "gloss": "ẹ̀mí rẹ̀"
+      "gloss": "èmi rẹ̀"
     },
     {
       "surface": "מלט",
-      "gloss": "gbàlà"
+      "gloss": "gbà là"
     }
   ],
-  "timestamp": "2026-08-23T02:50:24.197473093Z",
+  "timestamp": "2026-08-23T06:43:04.372265710Z",
   "model": "glm-5.3"
 }

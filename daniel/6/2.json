@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "yo",
   "chapter": 6,
-  "translation": "Ó dún Dariyoshiu lọ́kàn, ó sì gbé ⟨את⟩ àwọn aṣẹ̀fin-ijà — ọgọrún <x> àti ogún — sókè lórí ìjọba náà, kí wọn lè wà ní gbogbo ìjọba rẹ̀.",
+  "translation": "Ó dára níwájú Daryaveshu láti gbé kalẹ̀ lé lórí ìjọba náà ⟨àwọn aṣaṣdarpani ẹ̀lẹ́ẹ̀gọ́rùn-ún-lé-ogún⟩, kí wọn lè wà ní gbogbo ìjọba náà.",
   "tokens": [
     {
       "surface": "שפר",
-      "gloss": "ó dún ... lọ́kàn"
+      "gloss": "ó dára"
     },
     {
       "surface": "קדם",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "דריוש",
-      "gloss": "Dariyoshiu"
+      "gloss": "Daryaveshu"
     },
     {
       "surface": "והקים",
-      "gloss": "ó sì gbé ... sókè"
+      "gloss": "ó sì gbé kalẹ̀"
     },
     {
       "surface": "על",
-      "gloss": "lórí"
+      "gloss": "lé lórí"
     },
     {
       "surface": "מלכותא",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "לאחשדרפניא",
-      "gloss": "àwọn aṣẹ̀fin-ijà"
+      "gloss": "àwọn aṣaṣdarpani"
     },
     {
       "surface": "מאה",
-      "gloss": "ọgọrún"
+      "gloss": "ẹ̀lẹ́ẹ̀gọ́rùn-ún"
     },
     {
       "surface": "ועשרין",
-      "gloss": "àti ogún"
+      "gloss": "lé-ogún"
     },
     {
       "surface": "די",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "להון",
-      "gloss": "wọn"
+      "gloss": "wọn lè wà"
     },
     {
       "surface": "בכל",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "מלכותא",
-      "gloss": "ìjọba"
+      "gloss": "ìjọba náà"
     }
   ],
-  "timestamp": "2026-08-23T04:54:13.331604744Z",
+  "timestamp": "2026-08-23T06:46:42.872158080Z",
   "model": "glm-5.3"
 }

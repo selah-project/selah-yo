@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 29,
-  "translation": "Ẹ sì wá sí ibi yìí, Sichon ọba Cheshbon àti Og ọba Bashan jáde láti pàdé wa ní ogun, a sì lu wọn.",
+  "translation": "Ọ̀run tí ẹ̀yin dé sí ibi yìí, Sichon ọba Cheshbon àti Og ọba Bashan jáde wá láti dojú kọ wa ní ogun, àti èyí tí a lu wọn.",
   "tokens": [
     {
       "surface": "ותבאו",
-      "gloss": "Ẹ sì wá"
+      "gloss": "ọ̀run tí ẹ̀yin dé sí"
     },
     {
       "surface": "אל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "ibi"
+      "gloss": "ibi yìí"
     },
     {
       "surface": "הזה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "ó sì jáde"
+      "gloss": "jáde"
     },
     {
       "surface": "סיחן",
@@ -53,21 +53,17 @@
     },
     {
       "surface": "לקראתנו",
-      "gloss": "láti pàdé wa"
+      "gloss": "láti dojú kọ wa"
     },
     {
       "surface": "למלחמה",
       "gloss": "ní ogun"
     },
     {
-      "surface": "ויצא",
-      "gloss": "ó sì jáde"
-    },
-    {
       "surface": "ונכם",
-      "gloss": "a sì lu wọn"
+      "gloss": "àti èyí tí a lu wọn"
     }
   ],
-  "timestamp": "2026-08-23T00:19:48.549967142Z",
+  "timestamp": "2026-08-23T06:37:31.014233439Z",
   "model": "glm-5.3"
 }

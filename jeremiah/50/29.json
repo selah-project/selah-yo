@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "yo",
   "chapter": 50,
-  "translation": "Ẹ pe àwọn olósọ́-bọ̀ wá sí Babel, gbogbo ẹni tí ó ń tẹ bọ̀ wọ́ in; ẹ kó ilẹ̀ sí létí ẹ̀yin rẹ̀ káàkiri; kí o má baà ṣàlà fúnra rẹ̀; ẹ san fún-un gẹ́gẹ́ bí iṣẹ́ rẹ̀, gẹ́gẹ́ bí gbogbo tí ó ṣe ni ẹ ṣè é fún-un; nítorí tí ó ṣe ọ̀kàn-àìgbọràn sí Yahweh, sí Mímọ́ ti Yisrael.",
+  "translation": "Ẹ gbé ohun sí Babel: ẹ pe àwọn olósùú pọ̀, gbogbo àwọn tí ń tì orun; ẹ kó ilé lórí rẹ̀ ní ìkàún; kí ìgbàlà má ṣì jẹ́ fún un; ẹ san padà fún un gẹ́gẹ́ bí iṣẹ́ rẹ̀; bí gbogbo tí ó ti ṣe, ẹ ṣe fún un; nítorí pé ó ti ṣe àigbọràn sí Yahweh, sí Mímọ́ Ísráẹ́lì.",
   "tokens": [
     {
       "surface": "השמיעו",
-      "gloss": "ẹ pe (ké sí)"
+      "gloss": "ẹ gbé ohun"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "רבים",
-      "gloss": "àwọn olósọ́-bọ̀"
+      "gloss": "àwọn olósùú pọ̀"
     },
     {
       "surface": "כל",
@@ -29,43 +29,43 @@
     },
     {
       "surface": "דרכי",
-      "gloss": "ẹni tí ó ń tẹ"
+      "gloss": "tí ń tì (orun)"
     },
     {
       "surface": "קשת",
-      "gloss": "bọ̀ wọ́ in"
+      "gloss": "orun"
     },
     {
       "surface": "חנו",
-      "gloss": "ẹ kó ilẹ̀ sí"
+      "gloss": "ẹ kó ilé"
     },
     {
       "surface": "עליה",
-      "gloss": "létí ẹ̀yin rẹ̀"
+      "gloss": "lórí rẹ̀"
     },
     {
       "surface": "סביב",
-      "gloss": "káàkiri"
+      "gloss": "ní ìkàún"
     },
     {
       "surface": "אל",
-      "gloss": "kí o má baà"
+      "gloss": "kí ó má"
     },
     {
       "surface": "יהי",
-      "gloss": "ṣe"
+      "gloss": "jẹ́"
     },
     {
       "surface": "פלטה",
-      "gloss": "ṣàlà fúnra rẹ̀"
+      "gloss": "ìgbàlà"
     },
     {
       "surface": "שלמו",
-      "gloss": "ẹ san fún-un"
+      "gloss": "ẹ san padà"
     },
     {
       "surface": "לה",
-      "gloss": "un"
+      "gloss": "fún un"
     },
     {
       "surface": "כפעלה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ככל",
-      "gloss": "gẹ́gẹ́ bí gbogbo"
+      "gloss": "bí gbogbo"
     },
     {
       "surface": "אשר",
@@ -81,19 +81,19 @@
     },
     {
       "surface": "עשתה",
-      "gloss": "ó ṣe"
+      "gloss": "ó ti ṣe"
     },
     {
       "surface": "עשו",
-      "gloss": "ẹ ṣè é"
+      "gloss": "ẹ ṣe"
     },
     {
       "surface": "לה",
-      "gloss": "fún-un"
+      "gloss": "fún un"
     },
     {
       "surface": "כי",
-      "gloss": "nítorí tí"
+      "gloss": "nítorí"
     },
     {
       "surface": "אל",
@@ -105,7 +105,7 @@
     },
     {
       "surface": "זדה",
-      "gloss": "ó ṣe ọ̀kàn-àìgbọràn"
+      "gloss": "ó ti ṣe àigbọràn"
     },
     {
       "surface": "אל",
@@ -117,9 +117,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Ísráẹ́lì"
     }
   ],
-  "timestamp": "2026-08-23T05:58:59.141060051Z",
+  "timestamp": "2026-08-23T06:41:56.441942147Z",
   "model": "glm-5.3"
 }

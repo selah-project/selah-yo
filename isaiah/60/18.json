@@ -5,8 +5,61 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 60,
-  "translation": "Iṣẹ́ ìkìlọ̀ ọ̀daràn ò níí gbọ́ mó nínú ilẹ̀ rẹ, ìpa àti ìṣẹ́lẹ̀ búburú kò níí wáyé ní ààlà rẹ; ìgbàla ni ìwọ óó pè ní orí ògiri rẹ, ìyìn sí Ọlọ́hun ni ọ̀nà ilẹ̀kùn rẹ.",
-  "tokens": [],
-  "timestamp": "2026-08-23T02:02:54.080185908Z",
+  "translation": "Ìwọ̀-jalẹ kì yóò gbọ́ mọ́ nínú ilẹ̀ rẹ, ìrun-ìkọlù àti ìdàrùgbà nínú ààlà rẹ; ìwọ ó sì pè ìgbàlà ní àwọn ògiri rẹ, àti àwọn ọ̀nà ìràwọ̀ rẹ ní ìyìn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "yóò gbọ́"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìwọ̀-jalẹ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "nínú ilẹ̀ rẹ"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ìrun-ìkọlù"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "àti ìdàrùgbà"
+    },
+    {
+      "surface": "בגבוליך",
+      "gloss": "nínú ààlà rẹ"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ìwọ ó sì pè"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "àwọn ògiri rẹ"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "àti àwọn ọ̀nà ìràwọ̀ rẹ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ìyìn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:42:47.156996424Z",
   "model": "glm-5.3"
 }

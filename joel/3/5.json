@@ -5,56 +5,89 @@
   "book": "joel",
   "lang": "yo",
   "chapter": 3,
-  "translation": "Ẹ̀yin tí ẹ mú fàdákà mi àti wúrà mi, ẹ̀yin tí ẹ gbe àwọn ohun rere mi tí ó dára lọ sí àwọn tempili yín.",
+  "translation": "Ọ̀rẹ̀ṣìn yóò sì jẹ́ pé ẹnikẹ́ni tí ó bá pè ní orúkọ Yahweh yóò gbàlà; nítorí ní òkè Tsiyon àti ní Yerushalayim ni ìsàlọ̀nbà yóò wà, gẹ́gẹ́ bí Yahweh ti sọ, àti láàárín àwọn olùsẹ̀yìn tí Yahweh bá pè.",
   "tokens": [
     {
+      "surface": "והיה",
+      "gloss": "yóò sì jẹ́ pé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ó bá pè"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ní orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "yóò gbàlà"
+    },
+    {
       "surface": "כי",
-      "gloss": "nítorí pé"
+      "gloss": "nítorí"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "fàdákà mi"
+      "surface": "בהר",
+      "gloss": "ní òkè"
     },
     {
-      "surface": "כספי",
-      "gloss": "fàdákà mi"
+      "surface": "ציון",
+      "gloss": "Tsiyon"
     },
     {
-      "surface": "ואת",
-      "gloss": "àti ⟨את⟩",
-      "marks": "wúrà mi"
+      "surface": "ובירושלם",
+      "gloss": "àti ní Yerushalayim"
     },
     {
-      "surface": "זהבי",
-      "gloss": "wúrà mi"
+      "surface": "תהיה",
+      "gloss": "yóò wà"
     },
     {
-      "surface": "לקחתם",
-      "gloss": "ẹ̀yin tí ẹ mú"
+      "surface": "פליטה",
+      "gloss": "ìsàlọ̀nbà"
     },
     {
-      "surface": "ואת",
-      "gloss": "àti ⟨את⟩",
-      "marks": "àwọn ohun rere mi"
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
     },
     {
-      "surface": "מחמדי",
-      "gloss": "àwọn ohun rere mi"
+      "surface": "אמר",
+      "gloss": "ti sọ"
     },
     {
-      "surface": "הטובים",
-      "gloss": "tí ó dára"
+      "surface": "יהוה",
+      "gloss": "Yahweh"
     },
     {
-      "surface": "הבאתם",
-      "gloss": "ẹ gbe lọ"
+      "surface": "ובשרידים",
+      "gloss": "àti láàárín àwọn olùsẹ̀yìn"
     },
     {
-      "surface": "להיכליכם",
-      "gloss": "sí àwọn tempili yín"
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "bá pè"
     }
   ],
-  "timestamp": "2026-08-23T03:04:22.073931294Z",
+  "timestamp": "2026-08-23T06:43:19.824010363Z",
   "model": "glm-5.3"
 }

@@ -5,12 +5,11 @@
   "book": "ezekiel",
   "lang": "yo",
   "chapter": 28,
-  "translation": "Ìwọ ⟨ni⟩ kerubu, ẹni tí a fi ìróra yọ — ẹni tí ó ń bò ó; èmi sì fi ọ sí orí òkè mímọ́ Elohim; ìwọ wà láàárín àwọn okúta iná, ìwọ ń rìn kiri.",
+  "translation": "Ìwọ ni kerubu tí ó bo ⟨àwọn⟩ èjìká — èyí tí a ti yoo ó; mo gbé ⟨ìwọ⟩ sí orí òkere mímọ́ Elohim; ní àárín ⟨àwọn⟩ okúta iná ni ìwọ ti n rìn",
   "tokens": [
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "kerubu"
+      "gloss": "Ìwọ"
     },
     {
       "surface": "כרוב",
@@ -18,19 +17,19 @@
     },
     {
       "surface": "ממשח",
-      "gloss": "tí a fi ìróra yọ"
+      "gloss": "èyí tí a ti yoo ó"
     },
     {
       "surface": "הסוכך",
-      "gloss": "tí ó ń bò ó"
+      "gloss": "tí ó bo"
     },
     {
       "surface": "ונתתיך",
-      "gloss": "èmi sì fi ọ sí"
+      "gloss": "mo gbé ⟨ìwọ⟩ sí"
     },
     {
       "surface": "בהר",
-      "gloss": "orí òkè"
+      "gloss": "sí orí òkere"
     },
     {
       "surface": "קדש",
@@ -42,15 +41,15 @@
     },
     {
       "surface": "היית",
-      "gloss": "ìwọ wà"
+      "gloss": "⟨ìwọ wà⟩"
     },
     {
       "surface": "בתוך",
-      "gloss": "láàárín"
+      "gloss": "ní àárín"
     },
     {
       "surface": "אבני",
-      "gloss": "àwọn okúta"
+      "gloss": "⟨àwọn⟩ okúta"
     },
     {
       "surface": "אש",
@@ -58,9 +57,9 @@
     },
     {
       "surface": "התהלכת",
-      "gloss": "ìwọ ń rìn kiri"
+      "gloss": "ìwọ ti n rìn"
     }
   ],
-  "timestamp": "2026-08-23T06:00:44.499902027Z",
+  "timestamp": "2026-08-23T06:42:59.044820606Z",
   "model": "glm-5.3"
 }

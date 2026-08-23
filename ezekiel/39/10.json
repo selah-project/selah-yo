@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "yo",
   "chapter": 39,
-  "translation": "Wọn kì yóò ní mú igbó kúrò nínú ⟨the⟩ pápá, wọn kì yóò sì gé kúrò nínú ⟨the⟩ igbó, nítorí pẹ̀lú ⟨the⟩ àwọn ohun-ìjà ni wọn yóò fi iná jọ; wọn yóò pa ⟨את⟩ àwọn olùjẹ wọn jẹ, wọn yóò sì jà ⟨את⟩ àwọn olùjà wọn lọ́tẹ̀lẹ̀ — ọ̀rọ̀ Adonai Yahweh.",
+  "translation": "Wọn kì í yọ igbó kúrò nínú pápá, wọn kì í gé kúrò nínú àwọn igbó, nítorí wọ́n ń pa iná mọ́ná pẹ̀lú àwọn ohun-ìjà; wọ́n sì gbé ⟨את⟩ àwọn olówó-èrè wọn lọ́wọ́, wọ́n sì jí ⟨את⟩ àwọn olújìjà-gbé wọn gbà — ọ̀rọ̀ ìwásù Adonai Yahweh.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "wọn kì yóò ní"
+      "gloss": "wọn kì í"
     },
     {
       "surface": "ישאו",
-      "gloss": "mú"
+      "gloss": "yọ"
     },
     {
       "surface": "עצים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "השדה",
-      "gloss": "⟨the⟩ pápá"
+      "gloss": "pápá"
     },
     {
       "surface": "ולא",
-      "gloss": "wọn kì yóò sì"
+      "gloss": "wọn kì í"
     },
     {
       "surface": "יחטבו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "היערים",
-      "gloss": "⟨the⟩ igbó"
+      "gloss": "àwọn igbó"
     },
     {
       "surface": "כי",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "בנשק",
-      "gloss": "pẹ̀lú ⟨the⟩ àwọn ohun-ìjà"
+      "gloss": "pẹ̀lú àwọn ohun-ìjà"
     },
     {
       "surface": "יבערו",
-      "gloss": "wọn yóò fi jọ"
+      "gloss": "ń pa iná mọ́ná"
     },
     {
       "surface": "אש",
@@ -61,33 +61,33 @@
     },
     {
       "surface": "ושללו",
-      "gloss": "wọn yóò pa…jẹ"
+      "gloss": "wọ́n sì gbé lọ́wọ́"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn olùjẹ wọn"
+      "marks": "àwọn olówó-èrè wọn"
     },
     {
       "surface": "שלליהם",
-      "gloss": "àwọn olùjẹ wọn"
+      "gloss": "àwọn olówó-èrè wọn"
     },
     {
       "surface": "ובזזו",
-      "gloss": "wọn yóò sì jà…lọ́tẹ̀lẹ̀"
+      "gloss": "wọ́n sì jí gbà"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn olùjà wọn"
+      "marks": "àwọn olújìjà-gbé wọn"
     },
     {
       "surface": "בזזיהם",
-      "gloss": "àwọn olùjà wọn"
+      "gloss": "àwọn olújìjà-gbé wọn"
     },
     {
       "surface": "נאם",
-      "gloss": "ọ̀rọ̀"
+      "gloss": "ọ̀rọ̀ ìwásù"
     },
     {
       "surface": "אדני",
@@ -98,6 +98,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-23T02:53:28.344174584Z",
+  "timestamp": "2026-08-23T06:43:03.867944743Z",
   "model": "glm-5.3"
 }

@@ -5,35 +5,23 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 16,
-  "translation": "Ìdínlọ̀kù rẹ̀ nínú àwọn ọ̀rọ̀ Zimri àti ìkọ̀kọ̀-jìde rẹ̀ tí ó jìde — ṣé wọn kò kọ sílẹ̀ lórí ìwé àwọn ọ̀rọ̀ ọjọ́ àwọn ọba Yisrael?",
+  "translation": "Ìdíwọ̀n ohun tí ó kù nínú àwọn ìṣẹ́lẹ̀ Zimri, àti ìdàgbàsókè rẹ̀ tí ó ṣe, ṣé wọn kò kọ sílẹ̀ nínú ìwé àwọn ìṣẹ́lẹ̀ ọjọ́ àwọn ọba Israẹli?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "Ìdínlọ̀kù rẹ̀"
+      "gloss": "ohun tí ó kù"
     },
     {
       "surface": "דברי",
-      "gloss": "nínú àwọn ọ̀rọ̀"
+      "gloss": "àwọn ìṣẹ́lẹ̀"
     },
     {
       "surface": "זמרי",
       "gloss": "Zimri"
     },
     {
-      "surface": "ויתר",
-      "gloss": ""
-    },
-    {
-      "surface": "דברי",
-      "gloss": ""
-    },
-    {
-      "surface": "זמרי",
-      "gloss": ""
-    },
-    {
       "surface": "וקשרו",
-      "gloss": "àti ìkọ̀kọ̀-jìde rẹ̀"
+      "gloss": "àti ìdàgbàsókè rẹ̀"
     },
     {
       "surface": "אשר",
@@ -41,11 +29,11 @@
     },
     {
       "surface": "קשר",
-      "gloss": "ó jìde"
+      "gloss": "ó ṣe"
     },
     {
       "surface": "הלא",
-      "gloss": "ṣé … kò"
+      "gloss": "ṣé"
     },
     {
       "surface": "הם",
@@ -53,11 +41,11 @@
     },
     {
       "surface": "כתובים",
-      "gloss": "kọ sílẹ̀"
+      "gloss": "kò kọ sílẹ̀"
     },
     {
       "surface": "על",
-      "gloss": "lórí"
+      "gloss": "nínú"
     },
     {
       "surface": "ספר",
@@ -65,7 +53,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "àwọn ọ̀rọ̀"
+      "gloss": "àwọn ìṣẹ́lẹ̀"
     },
     {
       "surface": "הימים",
@@ -77,9 +65,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israẹli"
     }
   ],
-  "timestamp": "2026-08-23T01:21:17.427015687Z",
+  "timestamp": "2026-08-23T06:38:46.420275872Z",
   "model": "glm-5.3"
 }

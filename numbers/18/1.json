@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 18,
-  "translation": "Yahweh sì sọ fún Aharon pé: ìwọ, àti àwọn ọmọ rẹ, àti ilé baba rẹ pẹ̀lú rẹ, ẹ ó ru ⟨את⟩ ẹ̀ṣẹ̀ ⟨the⟩ mikdash; àti ìwọ àti àwọn ọmọ rẹ pẹ̀lú rẹ, ẹ ó ru ⟨את⟩ ẹ̀ṣẹ̀ iṣẹ́ àlùfáà yín.",
+  "translation": "Yahweh sọ fún Aharon: ìwọ, àwọn ọmọ rẹ, àti ilé bàbá rẹ pẹ̀lú rẹ, ẹ gbọ́dọ̀ gbé ⟨את⟩ ẹ̀ṣẹ̀ tí ó mbọ̀ sí ⟨the⟩ àáyàn mímọ́; ìwọ àti àwọn ọmọ rẹ pẹ̀lú rẹ, ẹ gbọ́dọ̀ gbé ⟨את⟩ ẹ̀ṣẹ̀ ìrì búbọ yín.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "sì sọ"
+      "gloss": "ó sọ"
     },
     {
       "surface": "יהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אביך",
-      "gloss": "baba rẹ"
+      "gloss": "bàbá rẹ"
     },
     {
       "surface": "אתך",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "תשאו",
-      "gloss": "ẹ ó ru"
+      "gloss": "ẹ gbọ́dọ̀ gbé"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ẹ̀ṣẹ̀"
+      "marks": "ẹ̀ṣẹ̀ tí ó mbọ̀ sí àáyàn mímọ́"
     },
     {
       "surface": "עון",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "המקדש",
-      "gloss": "mikdash"
+      "gloss": "àáyàn mímọ́"
     },
     {
       "surface": "ואתה",
@@ -74,12 +74,12 @@
     },
     {
       "surface": "תשאו",
-      "gloss": "ẹ ó ru"
+      "gloss": "ẹ gbọ́dọ̀ gbé"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ẹ̀ṣẹ̀"
+      "marks": "ẹ̀ṣẹ̀ ìrì búbọ yín"
     },
     {
       "surface": "עון",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "כהנתכם",
-      "gloss": "iṣẹ́ àlùfáà yín"
+      "gloss": "ìrì búbọ yín"
     }
   ],
-  "timestamp": "2026-08-22T23:58:02.621290223Z",
+  "timestamp": "2026-08-23T06:50:49.874406120Z",
   "model": "glm-5.3"
 }

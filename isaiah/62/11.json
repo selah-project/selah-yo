@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 62,
-  "translation": "Kíyèsi i, Yahweh ti ké sí ìparí ⟨the⟩ ayé: Ẹ sọ fún ọmọbìrin Tsiyon, Kíyèsi i, ìgbàlà rẹ ń bọ̀, kíyèsi i, èrè rẹ̀ wà pẹ̀lú ⟨את⟩ rẹ̀, iṣẹ́ rẹ̀ sì wà níwájú rẹ̀.",
+  "translation": "Wò ó, Yahweh ti kọ́ jáde sí ìpin ayé: ẹ sọ fún ọmọbìnrin Tsiyon — Wò ó, ìgbàlà rẹ ti ń bọ̀; wò ó, ẹ̀rè rẹ̀ wà láti ⟨את⟩-ìgbà, àti iṣẹ́ ọwọ́ rẹ̀ níwájú rẹ̀.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "Kíyèsi i"
+      "gloss": "Wò ó"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "השמיע",
-      "gloss": "ti ké sí"
+      "gloss": "ti kọ́ jáde"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "קצה",
-      "gloss": "ìparí"
+      "gloss": "ìpin"
     },
     {
       "surface": "הארץ",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אמרו",
-      "gloss": "Ẹ sọ"
+      "gloss": "ẹ sọ"
     },
     {
       "surface": "לבת",
-      "gloss": "fún ọmọbìrin"
+      "gloss": "fún ọmọbìnrin"
     },
     {
       "surface": "ציון",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Kíyèsi i"
+      "gloss": "Wò ó"
     },
     {
       "surface": "ישעך",
@@ -53,29 +53,30 @@
     },
     {
       "surface": "בא",
-      "gloss": "ń bọ̀"
+      "gloss": "ti ń bọ̀"
     },
     {
       "surface": "הנה",
-      "gloss": "kíyèsi i"
+      "gloss": "wò ó"
     },
     {
       "surface": "שכרו",
-      "gloss": "èrè rẹ̀"
+      "gloss": "ẹ̀rè rẹ̀"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ pẹ̀lú rẹ̀"
+      "gloss": "⟨את⟩",
+      "marks": "ìgbà — pẹ̀lú rẹ̀"
     },
     {
       "surface": "ופעלתו",
-      "gloss": "iṣẹ́ rẹ̀ sì"
+      "gloss": "àti iṣẹ́ ọwọ́ rẹ̀"
     },
     {
       "surface": "לפניו",
       "gloss": "níwájú rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T02:02:39.327110437Z",
+  "timestamp": "2026-08-23T06:42:06.863308605Z",
   "model": "glm-5.3"
 }

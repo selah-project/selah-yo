@@ -5,8 +5,91 @@
   "book": "judges",
   "lang": "yo",
   "chapter": 11,
-  "translation": "Yitschak kọ — kí a sọ: Yiftach sọ fún àwọn àgbà Gilad: tí ẹ̀yin ń da mi pad̀ǹ láti lọ jagun pẹ̀lú àwọn ọmọ Ammon, tí Yahweh sì fi wọn lẹ́wọ̀n mi — tí ó bá tẹ̀mí lọ́wọ́ — emi ni yóò jẹ́ olórí yín.",
-  "tokens": [],
-  "timestamp": "2026-08-23T00:37:36.042666436Z",
+  "translation": "Jiphtach wí fún àwọn àgbà Gilad pé, tí ẹ̀yin mú mi padè láti lọ gun ogun pẹ̀lú yín nítorí ⟨את⟩ wọ́n ń bẹ̀ láti ko ogun jọ àwọn ọmọ Ammon, tí Yahweh sì fi ⟨את⟩ wọ́n lọ́wọ́ mi, èmi ni èmi yóò jẹ́ olórí yín.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiphtach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí"
+    },
+    {
+      "surface": "משיבים",
+      "gloss": "mú mi padè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "láti ko ogun jọ"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "sì fi…lọ́wọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wọ́n (àwọn ọmọ Ammon)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú mi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "olórí"
+    }
+  ],
+  "timestamp": "2026-08-23T06:37:57.777878450Z",
   "model": "glm-5.3"
 }

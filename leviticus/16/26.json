@@ -5,28 +5,28 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 16,
-  "translation": "Ẹni tí ó gbé ⟨את⟩ ẹwùrẹ akọ náà lọ sí Azazel yóò fọ aṣọ rẹ̀, ó sì yóò yọ ⟨את⟩ ara rẹ̀ nínu omi, lẹ́yìn tí ó ṣe bẹ́ẹ̀ ni yóò wọ inú ⟨the⟩ ìpàdé-ogun.",
+  "translation": "Ẹni tí ó fi ìbùkẹ́ náà lọ sí ààfin Azazel, yóò fọ̀ aṣọ rẹ̀, yóò sì fọ ⟨את⟩ ara rẹ̀ nínú omi, lẹ́yìn náà ni yóò wọ inú ìpàdé-ogun.",
   "tokens": [
     {
       "surface": "והמשלח",
-      "gloss": "Ẹni tí ó gbé ... lọ"
+      "gloss": "Ẹni tí ó fi lọ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ẹwùrẹ akọ náà"
+      "marks": "ìbùkẹ́ náà"
     },
     {
       "surface": "השעיר",
-      "gloss": "ẹwùrẹ akọ náà"
+      "gloss": "ìbùkẹ́ náà"
     },
     {
       "surface": "לעזאזל",
-      "gloss": "sí Azazel"
+      "gloss": "sí ààfin Azazel"
     },
     {
       "surface": "יכבס",
-      "gloss": "yóò fọ"
+      "gloss": "yóò fọ̀"
     },
     {
       "surface": "בגדיו",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ורחץ",
-      "gloss": "ó sì yóò yọ ... nínu omi"
+      "gloss": "yóò sì fọ"
     },
     {
       "surface": "את",
@@ -47,15 +47,15 @@
     },
     {
       "surface": "במים",
-      "gloss": "nínu omi"
+      "gloss": "nínú omi"
     },
     {
       "surface": "ואחרי",
-      "gloss": "lẹ́yìn tí"
+      "gloss": "lẹ́yìn"
     },
     {
       "surface": "כן",
-      "gloss": "ó ṣe bẹ́ẹ̀"
+      "gloss": "náà"
     },
     {
       "surface": "יבוא",
@@ -70,6 +70,6 @@
       "gloss": "ìpàdé-ogun"
     }
   ],
-  "timestamp": "2026-08-22T23:42:36.384142726Z",
+  "timestamp": "2026-08-23T06:37:22.312550201Z",
   "model": "glm-5.3"
 }

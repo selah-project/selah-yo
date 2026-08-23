@@ -5,8 +5,53 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 1,
-  "translation": "Gbogbo ẹ̀mí tí ó jáde láti inú itan Yaakov, ẹ̀mí àádọ́rin ni wọ́n; Yitschak kọ̀, Yosef sì wà ní Mitzrayim tẹ́lẹ̀.",
-  "tokens": [],
-  "timestamp": "2026-08-22T23:14:09.794231020Z",
+  "translation": "Ó sì wáyé pé gbogbo ẹ̀mí tí ó jáde láti ìdí Yaakov jẹ́ àwọn ẹ̀mí méjèléláàdọ́ta; Yosef sì wà ní Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé pé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "tí ó jáde"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ìdí"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "méjèléláàdọ́ta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "Yosef sì"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ní Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T06:35:12.523773685Z",
   "model": "glm-5.3"
 }

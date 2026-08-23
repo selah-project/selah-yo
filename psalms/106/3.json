@@ -5,33 +5,37 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 106,
-  "translation": "Ìdàkejì ọrọ̀ àwọn tí ó ń ṣọ́ ìdájọ, tí ó ń ṣe ṣẹ̀dá ni nígbà gbogbo.",
+  "translation": "Ìdùnnú fún àwọn tí ó ń ṣọ́ ìdájọ́, tí ó ń ṣe ododo nígbà gbogbo.",
   "tokens": [
     {
-      "surface": "אשרי",
-      "gloss": "Ìdàkejì ọrọ̀"
+      "surface": "אַשְׁרֵי",
+      "gloss": "Ìdùnnú fún"
     },
     {
-      "surface": "שמרי",
+      "surface": "שֹׁמְרֵי",
       "gloss": "àwọn tí ó ń ṣọ́"
     },
     {
-      "surface": "משפט",
-      "gloss": "ìdájọ"
+      "surface": "מִשְׁפָּט",
+      "gloss": "ìdájọ́"
     },
     {
-      "surface": "עשה",
+      "surface": "עֹשֵׂה",
       "gloss": "tí ó ń ṣe"
     },
     {
-      "surface": "צדקה",
-      "gloss": "ṣẹ̀dá"
+      "surface": "צְדָקָה",
+      "gloss": "ododo"
     },
     {
-      "surface": "בכל",
-      "gloss": "nígbà gbogbo"
+      "surface": "בְכָל",
+      "gloss": "nígbà gbogbo ní"
+    },
+    {
+      "surface": "עֵת",
+      "gloss": "gbogbo"
     }
   ],
-  "timestamp": "2026-08-23T03:51:39.526556109Z",
+  "timestamp": "2026-08-23T06:44:24.712091138Z",
   "model": "glm-5.3"
 }

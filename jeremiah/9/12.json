@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "yo",
   "chapter": 9,
-  "translation": "Yahweh sì wí: nítorí tí wọ́n fi ⟨את⟩ Torà mi sílẹ̀, èyítí mo fi síwájú wọn; wọ́n kò sì gbọ́ nínú ohùn mi, wọ́n kọ̀ sì kọja láàárín rẹ̀.",
+  "translation": "Yahweh sọ wí pé: nítorí tí wọ́n fi ⟨את⟩ òfin mi sílẹ̀, èyí tí mo fi síwájú wọn, wọ́n kò gbọ́ nínú ohùn mi, wọ́n kò sì rìn inú rẹ̀.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "sì wí"
+      "gloss": "ó sọ wí pé"
     },
     {
       "surface": "יהוה",
@@ -26,19 +26,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Torà mi"
+      "marks": "òfin mi"
     },
     {
       "surface": "תורתי",
-      "gloss": "Torà mi"
+      "gloss": "òfin mi"
     },
     {
       "surface": "אשר",
-      "gloss": "èyítí"
+      "gloss": "èyí tí"
     },
     {
       "surface": "נתתי",
-      "gloss": "mo fi"
+      "gloss": "mo fi sí"
     },
     {
       "surface": "לפניהם",
@@ -58,13 +58,17 @@
     },
     {
       "surface": "ולא",
-      "gloss": "wọ́n kọ̀ sì"
+      "gloss": "wọ́n kò sì"
     },
     {
       "surface": "הלכו",
-      "gloss": "kọja láàárín rẹ̀"
+      "gloss": "rìn"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inú rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T02:10:23.422386475Z",
+  "timestamp": "2026-08-23T06:41:35.819357918Z",
   "model": "glm-5.3"
 }

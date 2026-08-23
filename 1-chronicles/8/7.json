@@ -5,20 +5,15 @@
   "book": "1-chronicles",
   "lang": "yo",
   "chapter": 8,
-  "translation": "àti Naaman, àti Achiya, àti Gera — òun ni ó gbé wọn lọ (ní ìgbègbàjọ) — ⟨את⟩ ó sì bí ⟨את⟩ Uzza àti ⟨את⟩ Achichud.",
+  "translation": "àti Naaman, àti Achiyah, àti Gera — òun ni ó sọ́ wọn lẹ́rù̀nkó (Heglam) — ó sì bí ⟨את⟩ Uzza àti ⟨את⟩ Achichud.",
   "tokens": [
-    {
-      "surface": "ויגלום_placeholder",
-      "gloss": "",
-      "note": "INVALID"
-    },
     {
       "surface": "ונעמן",
       "gloss": "àti Naaman"
     },
     {
       "surface": "ואחיה",
-      "gloss": "àti Achiya"
+      "gloss": "àti Achiyah"
     },
     {
       "surface": "וגרא",
@@ -26,15 +21,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "òun"
+      "gloss": "òun ni"
     },
     {
       "surface": "הגלם",
-      "gloss": "ó gbé wọn lọ (ní ìgbègbàjọ)"
+      "gloss": "ó sọ́ wọn lẹ́rùùn-kó (Heglam)"
     },
     {
       "surface": "והוליד",
-      "gloss": "⟨את⟩ ó sì bí"
+      "gloss": "ó sì bí"
     },
     {
       "surface": "את",
@@ -43,7 +38,7 @@
     },
     {
       "surface": "עזא",
-      "gloss": "⟨את⟩ Uzza"
+      "gloss": "Uzza"
     },
     {
       "surface": "ואת",
@@ -55,6 +50,6 @@
       "gloss": "Achichud"
     }
   ],
-  "timestamp": "2026-08-23T05:11:17.458487589Z",
+  "timestamp": "2026-08-23T06:46:43.259457871Z",
   "model": "glm-5.3"
 }

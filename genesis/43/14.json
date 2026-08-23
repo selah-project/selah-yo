@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 43,
-  "translation": "Ki El Shaddai fún yín ní rachamim níwájú ⟨the⟩ olùkúlùkù náà, kí ó sì fi sílẹ̀ fún yín ⟨את⟩ ará yín elómíì àti ⟨את⟩ Binjamiyam; èmi bákannáà, bí mo ti ṣọ́fọ̀ ni, mo ti ṣọ́fọ̀ ni.",
+  "translation": "Ki El Shaddai fún yín ní àánú níwájú okùnrin náà, kí ó sì gbé ⟨את⟩ arakùnrin yín yòókù àti ⟨את⟩ Binyamin lọ fún yín; èmi, bí mo ti ṣàìní ni mo ti ṣàìní.",
   "tokens": [
     {
       "surface": "ואל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "רחמים",
-      "gloss": "rachamim (àánú)"
+      "gloss": "àánú"
     },
     {
       "surface": "לפני",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "האיש",
-      "gloss": "olùkúlùkù náà"
+      "gloss": "okùnrin náà"
     },
     {
       "surface": "ושלח",
-      "gloss": "kí ó sì fi sílẹ̀"
+      "gloss": "kí ó sì gbé lọ"
     },
     {
       "surface": "לכם",
@@ -45,29 +45,29 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "arakùnrin yín yòókù"
     },
     {
       "surface": "אחיכם",
-      "gloss": "ará yín elómíì",
-      "marks": "ará yín elómíì"
+      "gloss": "arakùnrin yín"
     },
     {
       "surface": "אחר",
-      "gloss": "elómíì"
+      "gloss": "yòókù"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "Binyamin"
     },
     {
       "surface": "בנימין",
-      "gloss": "Binjamiyam",
-      "marks": "Binjamiyam"
+      "gloss": "Binyamin"
     },
     {
       "surface": "ואני",
-      "gloss": "èmi bákannáà"
+      "gloss": "èmi"
     },
     {
       "surface": "כאשר",
@@ -75,13 +75,13 @@
     },
     {
       "surface": "שכלתי",
-      "gloss": "mo ti ṣọ́fọ̀ ni"
+      "gloss": "mo ti ṣàìní"
     },
     {
       "surface": "שכלתי",
-      "gloss": "mo ti ṣọ́fọ̀ ni"
+      "gloss": "mo ti ṣàìní"
     }
   ],
-  "timestamp": "2026-08-22T23:12:14.131573746Z",
+  "timestamp": "2026-08-23T06:50:58.160479398Z",
   "model": "glm-5.3"
 }

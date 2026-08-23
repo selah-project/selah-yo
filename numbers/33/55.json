@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 33,
-  "translation": "Ṣùgbọ́n tí ẹ kò bá le kó àwọn olùgbé ⟨את⟩ ilẹ̀ náà kúrò níwájú yín, ó sì jẹ́ pé àwọn tí ẹ fi sílẹ̀ lára wọn yóò di òkùn nínú ojú yín, díbì sí àwọn ẹ̀gbẹ́ yín, ⟨את⟩ wọ́n sì ń yapa ⟨את⟩ yín lóri ilẹ̀ tí ẹ ń gbé inú rẹ̀.",
+  "translation": "Ṣùgbọ́n tí ẹ kò bá yọ ⟨את⟩ àwọn olùgbé ⟨ti⟩ ilẹ̀ náà kúrò níwájú yín, lè ó di, èyí tí ẹ fi sílẹ̀ nínú wọn yóò di ìtànpá nínú ojú yín àti ìrọ̀gbọ́n ní ìgboná yín; wọn yóò sì tàn ⟨את⟩ yín lórí ilẹ̀ náà tí ẹ ń gbé nínú rẹ̀.",
   "tokens": [
     {
       "surface": "ואם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תורישו",
-      "gloss": "ẹ le kó"
+      "gloss": "ẹ yọ kúrò"
     },
     {
       "surface": "את",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "מפניכם",
-      "gloss": "kúrò níwájú yín"
+      "gloss": "níwájú yín"
     },
     {
       "surface": "והיה",
-      "gloss": "ó sì jẹ́ pé"
+      "gloss": "lè ó di"
     },
     {
       "surface": "אשר",
-      "gloss": "tí"
+      "gloss": "èyí tí"
     },
     {
       "surface": "תותירו",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "מהם",
-      "gloss": "lára wọn"
+      "gloss": "nínú wọn"
     },
     {
       "surface": "לשכים",
-      "gloss": "dióò di òkùn"
+      "gloss": "ìtànpá"
     },
     {
       "surface": "בעיניכם",
@@ -62,33 +62,28 @@
     },
     {
       "surface": "ולצנינם",
-      "gloss": "díbì"
+      "gloss": "àti ìrọ̀gbọ́n"
     },
     {
       "surface": "בצדיכם",
-      "gloss": "sí àwọn ẹ̀gbẹ́ yín"
+      "gloss": "ní ìgboná yín"
     },
     {
-      "surface": "וצרaro",
-      "gloss": "",
-      "notes": []
-    },
-    {
-      "surface": "וצררו",
-      "gloss": "⟨את⟩ wọ́n sì ń yapa"
+      "surface": "ווצררו",
+      "gloss": "wọn yóò sì tàn"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ yín",
       "marks": "yín"
     },
     {
       "surface": "על",
-      "gloss": "lóri"
+      "gloss": "lórí"
     },
     {
       "surface": "הארץ",
-      "gloss": "ilẹ̀ tí"
+      "gloss": "ilẹ̀ náà"
     },
     {
       "surface": "אשר",
@@ -104,9 +99,9 @@
     },
     {
       "surface": "בה",
-      "gloss": "inú rẹ̀"
+      "gloss": "nínú rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T00:05:44.639901101Z",
+  "timestamp": "2026-08-23T06:48:07.359890450Z",
   "model": "glm-5.3"
 }

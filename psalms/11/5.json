@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 11,
-  "translation": "Yahweh ń dán wò ⟨enì〉 ọ̀títọ́-ṣe; ṣùgbọ́n ẹ̀ṣẹ̀-ṣe àti ẹni tí ó fẹ́ ìkọlù — ẹ̀mí Rẹ̀ kórìíra ⟨wọ́n〉.",
+  "translation": "Yahweh ń ṣàyẹ̀wọ̀ ènìyàn olóòtítọ́; ṣùgbọ́n ẹlẹ́ṣẹ̀ àti ẹni tí ó fẹ́ ìkòlù, ẹ̀mí Rẹ̀ kórìíra ⟨iṣẹ́ wọn⟩.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "צדיק",
-      "gloss": "ọ̀títọ́-ṣe"
+      "gloss": "ènìyàn olóòtítọ́"
     },
     {
       "surface": "יבחן",
-      "gloss": "ń dán wò"
+      "gloss": "ń ṣàyẹ̀wọ̀"
     },
     {
       "surface": "ורשע",
-      "gloss": "ṣùgbọ́n ẹ̀ṣẹ̀-ṣe"
+      "gloss": "ṣùgbọ́n ẹlẹ́ṣẹ̀"
     },
     {
       "surface": "ואהב",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "חמס",
-      "gloss": "ìkọlù"
+      "gloss": "ìkòlù"
     },
     {
       "surface": "שנאה",
@@ -40,6 +40,6 @@
       "gloss": "ẹ̀mí Rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T03:25:09.099921200Z",
+  "timestamp": "2026-08-23T06:44:17.899738023Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 12,
-  "translation": "Sọ pé, jọwọ́, arábìnrin mi ni ìyàwó-bí-i; nítorí pé kí ó lè dára fún mi nítorí rẹ, kí ẹ̀mí mi lè ṣe àyọ nítorí rẹ.",
+  "translation": "Sọ, jọwọ́, pé ⟨את⟩ arábìnrin mi, kí ó dára sí mi torí rẹ, kí ẹ̀mí mi lè là nítorí rẹ.",
   "tokens": [
     {
       "surface": "אמרי",
-      "gloss": "sọ"
+      "gloss": "Sọ"
     },
     {
       "surface": "נא",
-      "gloss": "pé, jọwọ́"
+      "gloss": "jọwọ́"
     },
     {
       "surface": "אחתי",
@@ -22,27 +22,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìyàwó-bí-i"
+      "marks": "iwọ"
     },
     {
       "surface": "למען",
-      "gloss": "nítorí pé kí"
+      "gloss": "kí ó lè"
     },
     {
       "surface": "ייטב",
-      "gloss": "ó lè dára"
+      "gloss": "dára"
     },
     {
       "surface": "לי",
-      "gloss": "fún mi"
+      "gloss": "sí mi"
     },
     {
       "surface": "בעבורך",
-      "gloss": "nítorí rẹ"
+      "gloss": "torí rẹ"
     },
     {
       "surface": "וחיתה",
-      "gloss": "kí ... lè ṣe àyọ"
+      "gloss": "kí … là"
     },
     {
       "surface": "נפשי",
@@ -53,6 +53,6 @@
       "gloss": "nítorí rẹ"
     }
   ],
-  "timestamp": "2026-08-22T22:57:35.594456591Z",
+  "timestamp": "2026-08-23T06:34:17.087656674Z",
   "model": "glm-5.3"
 }

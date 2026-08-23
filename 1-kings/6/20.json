@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 6,
-  "translation": "Níwájú Dẹ́bírì — ogún àmà ìgùnrẹ̀, ogún àmà ìfẹ̀rọ̀, ogún àmà gíga rẹ̀; ó sì fi wúrà ti wọ́n yà sọ́tọ̀ bó i; ó sì fi sẹ́gì bó pẹpé ìrúbọ náà.",
+  "translation": "Níwájú débírì náà, ọgún ìwọ̀n-àmà ní gbìyànjú, àti ọgún ìwọ̀n-àmà ní fífẹ̀, àti ọgún ìwọ̀n-àmà ní gíga rẹ̀; ó sì fi wúrà dídìde bò ó pamọ́, ó sì bò pẹpẹ odó ara érè dùbínú.",
   "tokens": [
     {
       "surface": "ולפני",
@@ -13,45 +13,69 @@
     },
     {
       "surface": "הדביר",
-      "gloss": "Dẹ́bírì"
+      "gloss": "⟨ti⟩ débírì náà"
     },
     {
       "surface": "עשרים",
-      "gloss": "ogún"
+      "gloss": "ọgún"
     },
     {
       "surface": "אמה",
-      "gloss": "àmà"
+      "gloss": "ìwọ̀n-àmà"
     },
     {
       "surface": "ארך",
-      "gloss": "ìgùnrẹ̀"
+      "gloss": "ní gbìyànjú"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "àti ọgún"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ìwọ̀n-àmà"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ní fífẹ̀"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "àti ọgún"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ìwọ̀n-àmà"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ní gíga rẹ̀"
     },
     {
       "surface": "ויצפהו",
-      "gloss": ""
+      "gloss": "ó sì bò ó pamọ́"
     },
     {
       "surface": "זהב",
-      "gloss": ""
+      "gloss": "wúrà"
     },
     {
       "surface": "סגור",
-      "gloss": ""
+      "gloss": "dídìde"
     },
     {
       "surface": "ויצף",
-      "gloss": ""
+      "gloss": "ó sì bò"
     },
     {
       "surface": "מזבח",
-      "gloss": ""
+      "gloss": "pẹpẹ odó ara érè"
     },
     {
       "surface": "ארז",
-      "gloss": ""
+      "gloss": "dùbínú"
     }
   ],
-  "timestamp": "2026-08-23T01:13:15.856884364Z",
+  "timestamp": "2026-08-23T06:38:50.724124227Z",
   "model": "glm-5.3"
 }

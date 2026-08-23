@@ -5,25 +5,29 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 9,
-  "translation": "Fún olùdarí orin, lórí 'Alámọ́kùú lábẹ́n' — orin-ìdílí fún David.",
+  "translation": "Fún olùdarí orin, lórí «Alámọ̀rin Laben», orin-ìdàsílẹ̀ ti David.",
   "tokens": [
     {
       "surface": "למנצח",
-      "gloss": "fún olùdarí orin"
+      "gloss": "Fún olùdarí orin"
     },
     {
-      "surface": "עלמות לבן",
-      "gloss": "lórí 'Alámọ́kùú lábẹ́n'"
+      "surface": "עלמות",
+      "gloss": "lórí Alámọ̀rin"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
     },
     {
       "surface": "מזמור",
-      "gloss": "orin-ìdílí"
+      "gloss": "orin-ìdàsílẹ̀"
     },
     {
       "surface": "לדוד",
-      "gloss": "fún David"
+      "gloss": "ti David"
     }
   ],
-  "timestamp": "2026-08-23T03:25:10.905366768Z",
+  "timestamp": "2026-08-23T06:47:42.021356675Z",
   "model": "glm-5.3"
 }

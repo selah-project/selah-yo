@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "yo",
   "chapter": 1,
-  "translation": "Èmi sì wo, kiakia, afẹ́fẹ́ ìjì ń bọ̀ láti àríwá, àwọsánmá ńlá, iná ń jó fọnránfọnrán, ìmọ́lẹ̀ sì yí i ká; láàárín rẹ̀ sì, bí irú ṣíṣe-háshámál, láàárín iná náà.",
+  "translation": "Nígbà tí mo wo, kíyèsi i, afẹ́fẹ́ ìjì ń bọ̀ láti àríwá, àsọ̀rùnkèkèké ńlá, àti iná ń mọ́ná lára rẹ̀, ìmọ́lẹ̀ sì ń yà àárín rẹ̀ káàkiri; láti àárín rẹ̀ ni ó ti rí bí irú ṣíṣe amọ̀ dídàn wà, láti àárín iná naa.",
   "tokens": [
     {
       "surface": "וארא",
-      "gloss": "Èmi sì wo"
+      "gloss": "mo wo"
     },
     {
       "surface": "והנה",
-      "gloss": "kiakia"
+      "gloss": "kíyèsi i"
     },
     {
       "surface": "רוח",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ענן",
-      "gloss": "àwọsánmá"
+      "gloss": "àsọ̀rùnkèkèké"
     },
     {
       "surface": "גדול",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מתלקחת",
-      "gloss": "ń jó fọnránfọnrán"
+      "gloss": "ń mọ́ná lára rẹ̀"
     },
     {
       "surface": "ונגה",
@@ -57,37 +57,33 @@
     },
     {
       "surface": "לו",
-      "gloss": "yí i"
-    },
-    {
-      "surface": "סבiv",
-      "gloss": "ká"
+      "gloss": "rẹ̀"
     },
     {
       "surface": "סביב",
-      "gloss": "ká"
+      "gloss": "káàkiri"
     },
     {
       "surface": "ומתוכה",
-      "gloss": "láàárín rẹ̀ sì"
+      "gloss": "láti àárín rẹ̀"
     },
     {
       "surface": "כעין",
-      "gloss": "bí irú"
+      "gloss": "bí irú ṣíṣe"
     },
     {
       "surface": "החשמל",
-      "gloss": "ṣíṣe-háshámál"
+      "gloss": "amọ̀ dídàn"
     },
     {
       "surface": "מתוך",
-      "gloss": "láàárín"
+      "gloss": "láti àárín"
     },
     {
       "surface": "האש",
-      "gloss": "iná náà"
+      "gloss": "iná naa"
     }
   ],
-  "timestamp": "2026-08-23T02:33:28.068408148Z",
+  "timestamp": "2026-08-23T06:41:18.059925260Z",
   "model": "glm-5.3"
 }

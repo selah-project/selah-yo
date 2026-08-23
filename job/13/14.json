@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "yo",
   "chapter": 13,
-  "translation": "Nítorí kí ni mo ó gbe ⟨את⟩ ara mi sóke nínú eyín mi, àti fi ⟨את⟩ ẹ̀mí mi sí nínú ọwọ́ mi?",
+  "translation": "Nítorí kí ni mo fi ara mi pa mọ́ eyín mi, àti ẹ̀mí mi ni mo fi sí nínú àpàmọ́ ọwọ́ mi?",
   "tokens": [
     {
       "surface": "על",
@@ -17,12 +17,7 @@
     },
     {
       "surface": "אשא",
-      "gloss": "mo ó gbe"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ara mi"
+      "gloss": "mo fi… pa"
     },
     {
       "surface": "בשרי",
@@ -30,7 +25,7 @@
     },
     {
       "surface": "בשני",
-      "gloss": "nínú eyín mi"
+      "gloss": "mọ́ eyín mi"
     },
     {
       "surface": "ונפשי",
@@ -38,13 +33,13 @@
     },
     {
       "surface": "אשים",
-      "gloss": "mo ó fi sí"
+      "gloss": "mo fi sí"
     },
     {
       "surface": "בכפי",
-      "gloss": "nínú ọwọ́ mi"
+      "gloss": "nínú oúnjà ọwọ́ mi"
     }
   ],
-  "timestamp": "2026-08-23T04:19:48.611803279Z",
+  "timestamp": "2026-08-23T06:45:37.270962886Z",
   "model": "glm-5.3"
 }

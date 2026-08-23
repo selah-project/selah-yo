@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 13,
-  "translation": "Ó sì rí ⟨את⟩ ààrùn náà ní ọjọ́ kẹ́je; nítorí pé ààrùn náà ti tàn nínú ⟨the⟩ aṣọ, tàbí nínú ìsún, tàbí nínú ìrun, tàbí nínú awọ, fún gbogbo ohun tí a fi awọ ṣe iṣẹ́ — èrùńgbẹ̀ tí ó buuru ni ààrùn náà; ó ní èèwọ̀.",
+  "translation": "Ó sì ki o rí ⟨את⟩ ààrùn náà ní ọjọ́ kẹ̀ seventh, tí ààrùn náà bá ti tàn káàkiri ní aṣọ náà, tàbí ní ofi, tàbí ní awo, tàbí ní àwọ̀ ẹranko, fún ohun gbogbo tí a bá ṣe àwọ̀ ẹranko náà sí iṣẹ́; ìtọ̀ ààrùn mú ìbínú tí ó le wọ́pọ̀ ni, èébùdá ni.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "ó sì rí"
+      "gloss": "ó sì ki o rí"
     },
     {
       "surface": "את",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "השביעי",
-      "gloss": "kẹ́je"
+      "gloss": "kẹ̀ seventh"
     },
     {
       "surface": "כי",
-      "gloss": "nítorí pé"
+      "gloss": "tí"
     },
     {
       "surface": "פשה",
-      "gloss": "ti tàn"
+      "gloss": "tàn káàkiri"
     },
     {
       "surface": "הנגע",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "בבגד",
-      "gloss": "nínú aṣọ"
+      "gloss": "ní aṣọ náà"
     },
     {
       "surface": "או",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "בשתי",
-      "gloss": "nínú ìsún"
+      "gloss": "ní ofi"
     },
     {
       "surface": "או",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "בערב",
-      "gloss": "nínú ìrun"
+      "gloss": "ní awo"
     },
     {
       "surface": "או",
@@ -66,35 +66,35 @@
     },
     {
       "surface": "בעור",
-      "gloss": "nínú awọ"
+      "gloss": "ní àwọ̀ ẹranko"
     },
     {
       "surface": "לכל",
-      "gloss": "fún gbogbo"
+      "gloss": "fún ohun gbogbo"
     },
     {
       "surface": "אשר",
-      "gloss": "ohun tí"
+      "gloss": "tí"
     },
     {
       "surface": "יעשה",
-      "gloss": "a fi ṣe"
+      "gloss": "a bá ṣe"
     },
     {
       "surface": "העור",
-      "gloss": "awọ"
+      "gloss": "àwọ̀ ẹranko náà"
     },
     {
       "surface": "למלאכה",
-      "gloss": "iṣẹ́"
+      "gloss": "sí iṣẹ́"
     },
     {
       "surface": "צרעת",
-      "gloss": "èrùńgbẹ̀"
+      "gloss": "ìtọ̀ ààrùn"
     },
     {
       "surface": "ממארת",
-      "gloss": "tí ó buuru"
+      "gloss": "mú ìbínú tí ó le"
     },
     {
       "surface": "הנגע",
@@ -102,13 +102,13 @@
     },
     {
       "surface": "טמא",
-      "gloss": "ó ní èèwọ̀"
+      "gloss": "èébùdá"
     },
     {
       "surface": "הוא",
-      "gloss": "ní"
+      "gloss": "ni"
     }
   ],
-  "timestamp": "2026-08-23T05:43:52.665268291Z",
+  "timestamp": "2026-08-23T06:36:29.663668065Z",
   "model": "glm-5.3"
 }

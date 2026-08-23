@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 15,
-  "translation": "Ìdí níyi ti ⟨the⟩ ìyọ̀fúnni-íṣẹ́: ẹni tí ó ni àyèníwọ̀n ẹni tí ó jẹ́ ọ̀wọ́n ọwọ́ rẹ̀ lọ́nà ti ó fa lé olórí ìgbàsílẹ̀ yìí lọ, kì í ṣe aláìnígba, yóò fi sílẹ̀ fún ọ̀rẹ́ rẹ̀; kì í ṣe àwọn ìjìnlẹ̀ ìdíwọ̀n yóò ṣe ìdíwọ̀ sílẹ̀ fún ọ̀rẹ́ rẹ̀ àti fún ará rẹ̀; nítorí ìyọ̀fúnni-íṣẹ́ ti a ké sí ti Yahweh ni.",
+  "translation": "Àti èyí ni ọ̀rọ̀ ìtùsílẹ̀ náà: olú-ìsún ọgbọ́n gbogbo, kí ó tú ọwọ́ rẹ̀ sílẹ̀ — èyí tí ó fi sún ọ̀rẹ́ rẹ̀ lọ́wọ́; kì í gbé ⟨את⟩ ọ̀rẹ́ rẹ̀ àti ⟨את⟩ arákùnrin rẹ̀ lọ́wọ́ lára, nítorí a ti kéde ìtùsílẹ̀ fún Yahweh.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "àti èyí"
+      "gloss": "àti èyí ni"
     },
     {
       "surface": "דבר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "השמטה",
-      "gloss": "ti ìyọ̀fúnni-íṣẹ́"
+      "gloss": "ìtùsílẹ̀ náà"
     },
     {
       "surface": "שמוט",
-      "gloss": "yóò fi sílẹ̀"
+      "gloss": "kí ó tú sílẹ̀"
     },
     {
       "surface": "כל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "בעל",
-      "gloss": "olùní"
+      "gloss": "olú-ìsún ọgbọ́n"
     },
     {
       "surface": "משה",
-      "gloss": "ayèníwọ̀n\/ìgbésí"
+      "gloss": "ìsún ọgbọ́n"
     },
     {
       "surface": "ידו",
@@ -41,23 +41,23 @@
     },
     {
       "surface": "אשר",
-      "gloss": "tí"
+      "gloss": "èyí tí"
     },
     {
       "surface": "ישה",
-      "gloss": "ó jẹ́ ọ̀wọ́ lọ́nà ti ó fà lé"
+      "gloss": "ó fi sún lọ́wọ́"
     },
     {
       "surface": "ברעהו",
-      "gloss": "sí ọ̀rẹ́ rẹ̀"
+      "gloss": "ọ̀rẹ́ rẹ̀"
     },
     {
       "surface": "לא",
-      "gloss": "kì í ṣe"
+      "gloss": "kì í"
     },
     {
       "surface": "יגש",
-      "gloss": "yóò ṣe ìdíwọ̀ sílẹ̀ fún"
+      "gloss": "gbé lọ́wọ́ lára"
     },
     {
       "surface": "את",
@@ -70,12 +70,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ àti",
-      "marks": "ará rẹ̀"
+      "gloss": "àti ⟨את⟩",
+      "marks": "arákùnrin rẹ̀"
     },
     {
       "surface": "אחיו",
-      "gloss": "ará rẹ̀"
+      "gloss": "arákùnrin rẹ̀"
     },
     {
       "surface": "כי",
@@ -83,17 +83,17 @@
     },
     {
       "surface": "קרא",
-      "gloss": "ti a ké sí"
+      "gloss": "a ti kéde"
     },
     {
       "surface": "שמטה",
-      "gloss": "ìyọ̀fúnni-íṣẹ́"
+      "gloss": "ìtùsílẹ̀"
     },
     {
       "surface": "ליהוה",
-      "gloss": "ti Yahweh"
+      "gloss": "fún Yahweh"
     }
   ],
-  "timestamp": "2026-08-23T00:13:20.615975415Z",
+  "timestamp": "2026-08-23T06:37:57.394912150Z",
   "model": "glm-5.3"
 }

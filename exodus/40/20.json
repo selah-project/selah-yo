@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 40,
-  "translation": "Ó sì gba, ó sì fi ⟨את⟩ ẹ̀rí náà sínú arákìì, ó sì gbé ⟨את⟩ àwọn ọ̀pá náà sí orí ⟨the⟩ arákìì, ó sì fi ⟨את⟩ ojú-arákìì lórí ⟨the⟩ arákìì lókè.",
+  "translation": "Ó sì gba ⟨את⟩ ẹ̀rí náà, ó sì fi sí inú ⟨את⟩ ááké náà, ó sì fi ⟨את⟩ àwọn ọ̀pọ̀ rẹ̀ sí orí ááké náà, ó sì fi ⟨את⟩ ààbò ẹ̀rí sí orí ⟨את⟩ ááké náà lókè.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Ó sì gba"
+      "gloss": "ó sì gba"
     },
     {
       "surface": "ויתן",
-      "gloss": "ó sì fi"
+      "gloss": "ó sì fi sí inú"
     },
     {
       "surface": "את",
@@ -26,24 +26,24 @@
     },
     {
       "surface": "אל",
-      "gloss": "sínú"
+      "gloss": "sí"
     },
     {
       "surface": "הארן",
-      "gloss": "arákìì"
+      "gloss": "ááké náà"
     },
     {
       "surface": "וישם",
-      "gloss": "ó sì gbé ... sí orí"
+      "gloss": "ó sì fi ... sí orí"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn ọ̀pá náà"
+      "marks": "àwọn ọ̀pọ̀ rẹ̀"
     },
     {
       "surface": "הבדים",
-      "gloss": "àwọn ọ̀pá náà"
+      "gloss": "àwọn ọ̀pọ̀ rẹ̀"
     },
     {
       "surface": "על",
@@ -51,34 +51,34 @@
     },
     {
       "surface": "הארן",
-      "gloss": "arákìì"
+      "gloss": "ááké náà"
     },
     {
       "surface": "ויתן",
-      "gloss": "ó sì fi"
+      "gloss": "ó sì fi ... sí orí"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ojú-arákìì"
+      "marks": "ààbò ẹ̀rí"
     },
     {
       "surface": "הכפרת",
-      "gloss": "ojú-arákìì"
+      "gloss": "ààbò ẹ̀rí"
     },
     {
       "surface": "על",
-      "gloss": "lórí"
+      "gloss": "sí orí"
     },
     {
       "surface": "הארן",
-      "gloss": "arákìì"
+      "gloss": "ááké náà"
     },
     {
       "surface": "מלמעלה",
       "gloss": "lókè"
     }
   ],
-  "timestamp": "2026-08-22T23:34:42.140354536Z",
+  "timestamp": "2026-08-23T06:36:25.184009535Z",
   "model": "glm-5.3"
 }

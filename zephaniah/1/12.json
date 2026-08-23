@@ -5,23 +5,23 @@
   "book": "zephaniah",
   "lang": "yo",
   "chapter": 1,
-  "translation": "Ní àsìkò yẹn, èmi yóò wa Yerushalayim kiri pẹ̀lú fitilá, èmi yóò sì dá wọ́n lẹ́bi lórí àwọn ọkùnrin tí wọ́n dúró láilájọ lórí iṣu wọn, àwọn tí wọ́n ń wí nínú ọkàn wọn pé, 'Yahweh kì í ṣe olúṣe rere, bẹ́ẹ̀ kì í ṣe olúṣe búburú.'",
+  "translation": "Ó sì jẹ́ pé ní àkókò yìí ni èmi yóò ṣàwárí Yerushalayim pẹ̀lú ìtọ̀lẹ́sẹ̀-òjìji, tí èmi yóò sì dá lọ́rùn lórí àwọn ọkùnrin tí ó gbẹ́ sínú àwọn ìdálẹ́ wọn, tí wọ́n ń sọ nínú ọkàn wọn pé, Yahweh kì yóò ṣe rere, ô kì sì yóò ṣe búburú.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "yóò sì wáyé"
+      "gloss": "ó sì jẹ́ pé"
     },
     {
       "surface": "בעת",
-      "gloss": "ní àsìkò"
+      "gloss": "ní àkókò"
     },
     {
       "surface": "ההיא",
-      "gloss": "yẹn"
+      "gloss": "yìí"
     },
     {
       "surface": "אחפש",
-      "gloss": "èmi yóò wa kiri"
+      "gloss": "èmi yóò ṣàwárí"
     },
     {
       "surface": "את",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "בנרות",
-      "gloss": "pẹ̀lú fitilá"
+      "gloss": "pẹ̀lú ìtọ̀lẹ́sẹ̀-òjìji"
     },
     {
       "surface": "ופקדתי",
-      "gloss": "èmi yóò sì dá wọ́n lẹ́bi"
+      "gloss": "tóò sì dá lọ́rùn"
     },
     {
       "surface": "על",
@@ -50,19 +50,19 @@
     },
     {
       "surface": "הקפאים",
-      "gloss": "tí wọ́n dúró láilájọ"
+      "gloss": "tí ó gbẹ́"
     },
     {
       "surface": "על",
-      "gloss": "lórí"
+      "gloss": "sínú"
     },
     {
       "surface": "שמריהם",
-      "gloss": "iṣu wọn"
+      "gloss": "àwọn ìdálẹ́ wọn"
     },
     {
       "surface": "האמרים",
-      "gloss": "àwọn tí wọ́n ń wí"
+      "gloss": "tó ń sọ"
     },
     {
       "surface": "בלבבם",
@@ -70,29 +70,25 @@
     },
     {
       "surface": "לא",
-      "gloss": "kì í ṣe"
+      "gloss": "pé… kì"
     },
     {
       "surface": "ייטיב",
-      "gloss": "olúṣe rere"
+      "gloss": "yóò ṣe rere"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "ויהוה",
-      "gloss": "—"
-    },
-    {
       "surface": "ולא",
-      "gloss": "bẹ́ẹ̀ kì í ṣe"
+      "gloss": "ô kì sì"
     },
     {
       "surface": "ירע",
-      "gloss": "olúṣe búburú"
+      "gloss": "yóò ṣe búburú"
     }
   ],
-  "timestamp": "2026-08-23T03:15:19.825729025Z",
+  "timestamp": "2026-08-23T06:43:31.325630017Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "yo",
   "chapter": 3,
-  "translation": "Ó ó sì tẹ̀ sílẹ̀ pé, nígbà tí ẹ bá pọ̀ ẹ sì bímọ pọ̀ ní ilẹ̀ yín, ní àwọn ọjọ́ wọ̀nyí — ìgbejáde Yahweh — wọn kì í ṣe wí mọ́ pé: 'Àpò májẹ̀mú Yahweh'; yóò kì í dìde sí ọkàn, wọn kì í ránti rí, wọn kì í bẹ̀wè rẹ̀, wọn kì í ṣe ìtun rẹ̀ mọ́.",
+  "translation": "Ó sì máa wáyé pé, nígbà tí ẹ bá pọ̀ sí i, tí ẹ bá sì bímọ papọ̀ nínú ilẹ̀, ní àwọn ọjọ́ yẹn — ìwọ̀ní Yahweh — wọn kì í ṣe sọ̀rọ̀ wúwo mọ́ pé, “Àpòtà ìṣèdè Yahweh”; kì í ṣe pé ó máa gọ̀ọ́rìn inú, wọn kì í sì ránti rẹ̀, wọn kì í dáa lọ́wọ́ ṣàkíyèsí rẹ̀, wọn kì í sì ṣẹ̀dá ọ̀kan bẹ́ẹ̀ mọ́ rárá.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Ó ó sì tẹ̀ sílẹ̀ pé"
+      "gloss": "Ó sì máa wáyé pé"
     },
     {
       "surface": "כי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "תרבו",
-      "gloss": "ẹ bá pọ̀"
+      "gloss": "ẹ bá pọ̀ sí i"
     },
     {
       "surface": "ופריתם",
-      "gloss": "ẹ sì bímọ pọ̀"
+      "gloss": "tí ẹ bá sì bímọ papọ̀"
     },
     {
       "surface": "בארץ",
-      "gloss": "ní ilẹ̀"
+      "gloss": "nínú ilẹ̀"
     },
     {
       "surface": "בימים",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ההמה",
-      "gloss": "wọ̀nyí"
+      "gloss": "yẹn"
     },
     {
       "surface": "נאם",
-      "gloss": "ìgbejáde"
+      "gloss": "ìwọ̀ní"
     },
     {
       "surface": "יהוה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יאמרו",
-      "gloss": "wọn ó wí"
+      "gloss": "wọn ... sọ̀rọ̀ wúwo"
     },
     {
       "surface": "עוד",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "ארון",
-      "gloss": "àpò"
+      "gloss": "Àpòtà"
     },
     {
       "surface": "ברית",
-      "gloss": "májẹ̀mú"
+      "gloss": "ìṣèdè"
     },
     {
       "surface": "יהוה",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "àti kì í"
+      "gloss": "kì í ṣe pé"
     },
     {
       "surface": "יעלה",
-      "gloss": "dìde"
+      "gloss": "ó máa gọ̀ọ́rìn"
     },
     {
       "surface": "על",
-      "gloss": "sí"
+      "gloss": "inú"
     },
     {
       "surface": "לב",
@@ -85,33 +85,37 @@
     },
     {
       "surface": "ולא",
-      "gloss": "àti kì í"
+      "gloss": "kì í sì"
     },
     {
       "surface": "יזכרו",
-      "gloss": "ránti"
+      "gloss": "wọn ... ránti"
     },
     {
       "surface": "בו",
-      "gloss": "rí"
+      "gloss": "rẹ̀"
     },
     {
       "surface": "ולא",
-      "gloss": "àti kì í"
+      "gloss": "wọn kì í sì"
     },
     {
       "surface": "יפקדו",
-      "gloss": "bẹ̀wè"
+      "gloss": "dáa lọ́wọ́ ṣàkíyèsí"
     },
     {
-      "surface": "ויעשה",
-      "gloss": "àti kì í ṣe ìtun"
+      "surface": "ולא",
+      "gloss": "wọn kì í sì"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ṣẹ̀dá ọ̀kan bẹ́ẹ̀"
     },
     {
       "surface": "עוד",
-      "gloss": "mọ́"
+      "gloss": "mọ́ rárá"
     }
   ],
-  "timestamp": "2026-08-23T02:09:15.506554556Z",
+  "timestamp": "2026-08-23T06:41:54.811304537Z",
   "model": "glm-5.3"
 }

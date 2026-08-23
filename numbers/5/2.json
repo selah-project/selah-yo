@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 5,
-  "translation": "Pàṣẹ fún ⟨את⟩ àwọn ọmọ Yisra'el, kí wọ́n fi kúrò nínú ⟨the⟩ ìpàdé ẹgbẹ́ ológun gbogbo ènìyàn tí ó ní àìsàn àrùn ara, àti gbogbo ẹni tí ó ń sàn, àti gbogbo ẹni tí ó ní ìṣẹ̀mbáyé nítorí ìkú—kí wọ́n fi kúrò nínú ⟨the⟩ ìpàdé.",
+  "translation": "Pa áṣẹ fún ⟨את⟩ àwọn ọmọ Yisrael, kí wọ́n sì fi gbé gbogbo ẹni tí ó ní ìṣàn àrà, àti gbogbo ẹni tí ó ń ṣàn, àti gbogbo ẹni tí ó diẹ̀ fún ìdúnnúadie sí ará kúkú, jáde kúrò nínú ìpàjà.",
   "tokens": [
     {
       "surface": "צו",
-      "gloss": "Pàṣẹ fún"
+      "gloss": "Pa áṣẹ fún"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn ọmọ Yisra'el"
+      "marks": "àwọn ọmọ Yisrael"
     },
     {
       "surface": "בני",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "וישלחו",
-      "gloss": "kí wọ́n fi kúrò"
+      "gloss": "kí wọ́n sì fi gbé jáde"
     },
     {
       "surface": "מן",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "המחנה",
-      "gloss": "ìpàdé ẹgbẹ́ ológun"
+      "gloss": "ìpàjà náà"
     },
     {
       "surface": "כל",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "צרוע",
-      "gloss": "ènìyàn tí ó ní àìsàn àrùn ara"
+      "gloss": "ẹni tí ó ní ìṣàn àrà"
     },
     {
       "surface": "וכל",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "זב",
-      "gloss": "ẹni tí ó ń sàn"
+      "gloss": "ẹni tí ó ń ṣàn"
     },
     {
       "surface": "וכל",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "טמא",
-      "gloss": "ẹni tí ó ní ìṣẹ̀mbáyé"
+      "gloss": "ẹni tí ó diẹ̀"
     },
     {
       "surface": "לנפש",
-      "gloss": "nítorí ìkú"
+      "gloss": "fún ìdúnnúadie sí ará kúkú"
     }
   ],
-  "timestamp": "2026-08-22T23:51:25.095122351Z",
+  "timestamp": "2026-08-23T06:36:46.191752391Z",
   "model": "glm-5.3"
 }

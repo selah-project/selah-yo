@@ -5,8 +5,77 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Àti fún ìrúborí àlàáfíà, máàlù̀ méjì, àgbòtún mẹ́rin ní ọ̀kanlé-lógún mẹ́rin... no — mothers: èyúrn mẹ́ta",
-  "tokens": [],
-  "timestamp": "2026-08-22T23:51:02.990330697Z",
+  "translation": "Àti fún ẹbùn ọ̀tún-àlàáfíà: máàlù̀ méjì, àgbò mẹ́fà, ewúrẹ akọ mẹ́fà, àgùntàn ọdún kan mẹ́fà — èyí ni ẹbùn Eliab, ọmọ Chelon.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "àti fún ẹbùn"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ọ̀tún-àlàáfíà"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "máàlù̀"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "àgbò"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mẹ́fà"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "ewúrẹ akọ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mẹ́fà"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "àgùntàn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mẹ́fà"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ẹbùn"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Chelon"
+    }
+  ],
+  "timestamp": "2026-08-23T06:36:35.778156440Z",
   "model": "glm-5.3"
 }

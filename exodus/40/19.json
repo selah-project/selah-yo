@@ -5,49 +5,49 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 40,
-  "translation": "Ó sì tán ⟨את⟩ àgọ́ náà ká sórí ⟨the⟩ Mishkan, ó sì fi ⟨את⟩ ìbò àgọ́ náà lórí rẹ̀ lókè, gẹ́gẹ́ bí Yahweh ti pa ⟨את⟩ Moṣe lẹ́nu.",
+  "translation": "Ó sì tẹ ⟨את⟩ àgọ́ ìdanwò náà na lórí àgọ́ náà, ó sì fi ⟨את⟩ àsìrí àgọ́ ìdanwò náà sí orí rẹ̀ lókè, gẹ́gẹ́ bí Yahweh ti pàṣẹ ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "ויפרש",
-      "gloss": "ó sì tán ... ká"
+      "gloss": "ó sì tẹ ... na"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àgọ́ náà"
+      "marks": "àgọ́ ìdanwò náà"
     },
     {
       "surface": "האהל",
-      "gloss": "àgọ́ náà"
+      "gloss": "àgọ́ ìdanwò náà"
     },
     {
       "surface": "על",
-      "gloss": "sórí"
+      "gloss": "lórí"
     },
     {
       "surface": "המשכן",
-      "gloss": "Mishkan"
+      "gloss": "àgọ́ náà"
     },
     {
       "surface": "וישם",
-      "gloss": "ó sì fi"
+      "gloss": "ó sì fi ... sí orí"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìbò àgọ́ náà"
+      "marks": "àsìrí àgọ́ ìdanwò náà"
     },
     {
       "surface": "מכסה",
-      "gloss": "ìbò"
+      "gloss": "àsìrí"
     },
     {
       "surface": "האהל",
-      "gloss": "àgọ́ náà"
+      "gloss": "àgọ́ ìdanwò náà"
     },
     {
       "surface": "עליו",
-      "gloss": "lórí rẹ̀"
+      "gloss": "sí orí rẹ̀"
     },
     {
       "surface": "מלמעלה",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "gẹ́gẹ́ bí ó ti"
+      "gloss": "gẹ́gẹ́ bí"
     },
     {
       "surface": "צוה",
-      "gloss": "pa ... lẹ́nu"
+      "gloss": "ti pàṣẹ"
     },
     {
       "surface": "יהוה",
@@ -68,13 +68,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Moṣe"
+      "marks": "Moshe"
     },
     {
       "surface": "משה",
-      "gloss": "Moṣe"
+      "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-22T23:34:42.140182150Z",
+  "timestamp": "2026-08-23T06:36:25.183844282Z",
   "model": "glm-5.3"
 }

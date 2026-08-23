@@ -5,8 +5,95 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 18,
-  "translation": "torí wọn kò gbọ́ tì ohùn Yahweh, Elohim wọn, ṣùgbọ́n wọ́n yapa májẹ̀mú rẹ̀ — gbogbo ní àwọn ohun ti Moshe ẹrú Yahweh paṣẹ — wọ́n sì kò gbọ́, wọn kò sì ṣe.",
-  "tokens": [],
-  "timestamp": "2026-08-23T01:33:39.042194990Z",
+  "translation": "Torí wọn kò gbọ́ ohùn Yahweh Elohim wọn, wọ́n sì ya májẹ̀mú rẹ̀ kọ̀ — ⟨את⟩ gbogbo ohun tí ó pa Moshe, ẹrú Yahweh, láṣẹ — wọn kò sì gbọ́, wọn kò sì ṣe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "torí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wọn gbọ́"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wọn"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "wọ́n sì ya kọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "májẹ̀mú rẹ̀"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "májẹ̀mú rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ohun tí ó pa láṣẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ó pa láṣẹ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ẹrú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": ""
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": ""
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": ""
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T06:41:03.024972577Z",
   "model": "glm-5.3"
 }

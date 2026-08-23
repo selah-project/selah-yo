@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "yo",
   "chapter": 6,
-  "translation": "Àti ⟨את}} Ashan pẹ̀lú ⟨את⟩ àgbàlá rẹ̀, àti ⟨את⟩ Beit-Shemesh pẹ̀lú ⟨את⟩ àgbàlá rẹ̀.",
+  "translation": "àti ⟨את⟩ Ashan pẹ̀lú àwọn ilẹ̀-ọ̀gbìn rẹ̀, àti ⟨את⟩ Beth-Shemesh pẹ̀lú àwọn ilẹ̀-ọ̀gbìn rẹ̀;",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "àti ⟨את⟩",
       "marks": "Ashan"
     },
     {
@@ -18,21 +18,21 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "àgbàlá rẹ̀"
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ilẹ̀-ọ̀gbìn rẹ̀"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "àgbàlá rẹ̀"
+      "gloss": "àwọn ilẹ̀-ọ̀gbìn rẹ̀"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Beit-Shemesh"
+      "gloss": "àti ⟨את⟩",
+      "marks": "Beth-Shemesh"
     },
     {
       "surface": "בית",
-      "gloss": "Beit-"
+      "gloss": "Beth-"
     },
     {
       "surface": "שמש",
@@ -40,14 +40,14 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "àgbàlá rẹ̀"
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ilẹ̀-ọ̀gbìn rẹ̀"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "àgbàlá rẹ̀"
+      "gloss": "àwọn ilẹ̀-ọ̀gbìn rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T05:10:32.108783851Z",
+  "timestamp": "2026-08-23T06:46:32.239059021Z",
   "model": "glm-5.3"
 }

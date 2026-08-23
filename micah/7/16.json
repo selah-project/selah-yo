@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Àwọn orílẹ̀-èdè yóò rí i, wọ́n yóò sì tìraka fún gbogbo agbára wọn; wọ́n yóò fi ọwọ́ bọ́ ẹnu, etí wọn yóò sì di àgọ̀dọ̀.",
+  "translation": "Àwọn orílẹ̀-èdè yóò rí i, wọ́n sì yóò tìérable ṣẹ̀ nítorí gbogbo agbára wọn; wọ́n yóò fi ọwọ́ sí ẹnu, etí wọn sì yóò di àsùn.",
   "tokens": [
     {
       "surface": "יראו",
@@ -17,24 +17,19 @@
     },
     {
       "surface": "ויבשו",
-      "gloss": "yóò sì tìraka"
+      "gloss": "wọ́n sì yóò tìerable ṣẹ̀"
     },
     {
       "surface": "מכל",
-      "gloss": "fún gbogbo"
+      "gloss": "nítorí gbogbo"
     },
     {
       "surface": "גבורתם",
       "gloss": "agbára wọn"
     },
     {
-      "surface": "יִראו\/ישימו",
-      "gloss": "yóò fi … bọ́",
-      "note": "ignored"
-    },
-    {
       "surface": "ישימו",
-      "gloss": "yóò fi … bọ́"
+      "gloss": "wọ́n yóò fi"
     },
     {
       "surface": "יד",
@@ -42,7 +37,7 @@
     },
     {
       "surface": "על",
-      "gloss": "bọ́"
+      "gloss": "sí"
     },
     {
       "surface": "פה",
@@ -54,9 +49,9 @@
     },
     {
       "surface": "תחרשנה",
-      "gloss": "yóò sì di àgọ̀dọ̀"
+      "gloss": "yóò di àsùn"
     }
   ],
-  "timestamp": "2026-08-23T03:12:40.006513011Z",
+  "timestamp": "2026-08-23T06:43:28.095575895Z",
   "model": "glm-5.3"
 }

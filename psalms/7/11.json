@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Mágbọ́n mi wà lórí Elohim, olùgbàlà àwọn ẹni tó ń ní ọkàn tó tọ́.",
+  "translation": "Máàwọ́n mi wà ⟨lórí⟩ Elohim, Olùgbàlà àwọn ènìyàn ní ọkàn tó tọ́.",
   "tokens": [
     {
       "surface": "מגני",
-      "gloss": "mágbọ́n mi"
+      "gloss": "Máàwọ́n mi"
     },
     {
       "surface": "על",
@@ -21,13 +21,17 @@
     },
     {
       "surface": "מושיע",
-      "gloss": "olùgbàlà"
+      "gloss": "Olùgbàlà"
     },
     {
       "surface": "ישרי",
-      "gloss": "àwọn ẹni tó ń ní ọkàn tó tọ́"
+      "gloss": "tó tọ́"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
     }
   ],
-  "timestamp": "2026-08-23T03:22:03.185966708Z",
+  "timestamp": "2026-08-23T06:43:25.844077767Z",
   "model": "glm-5.3"
 }

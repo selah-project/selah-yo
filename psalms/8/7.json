@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 8,
-  "translation": "O jẹ́ kí ó jogún bori <⟨the⟩> àwọn iṣẹ́ ọwọ́ rẹ; gbogbo wọn ló gbé sí abẹ́ ẹsẹ̀ rẹ̀.",
+  "translation": "O ṣe jẹ́ kí ó jọba lórí àwọn iṣẹ́ ọwọ́ rẹ; gbogbo nǹkan ni O gbé sí abẹ́ ẹsẹ̀ rẹ̀.",
   "tokens": [
     {
       "surface": "תמשילהו",
-      "gloss": "O jẹ́ kí ó jogún bori"
+      "gloss": "O ṣe jẹ́ kí ó jọba lórí"
     },
     {
       "surface": "במעשי",
-      "gloss": "nínu àwọn iṣẹ́"
+      "gloss": "àwọn iṣẹ́"
     },
     {
       "surface": "ידיך",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "gbogbo wọn"
+      "gloss": "gbogbo nǹkan"
     },
     {
       "surface": "שתה",
-      "gloss": "ló gbé sí"
+      "gloss": "O gbé sí"
     },
     {
       "surface": "תחת",
@@ -36,6 +36,6 @@
       "gloss": "ẹsẹ̀ rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T03:24:28.013268064Z",
+  "timestamp": "2026-08-23T06:44:09.399468229Z",
   "model": "glm-5.3"
 }

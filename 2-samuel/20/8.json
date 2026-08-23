@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "yo",
   "chapter": 20,
-  "translation": "Wọ́n wà ní ẹ̀gbẹ́ ⟨the⟩ ọ̀kúta ńlá náà tí ó wà ní Gibeon; Amasa sì wá sí níwájú wọn; Joab sì di aṣọ ìrora rẹ̀ mọ́ ara rẹ̀, tí ó sì wọ̀, ìdi ìṣu sì wà sórí rẹ̀ — idà fífẹ́ mọ́ ìdí rẹ̀ nínú ìdánì rẹ̀; bí òun ti ń jade, ó sì ṣubú.",
+  "translation": "Wọ́n wà ní ọ̀kúta ńlá tí ó wà ní Givon, Amasa sì bọ̀ sí iwájú wọn; Yoav sì wọ aṣọ ogun rẹ̀ tí ó wò kó, lórí rẹ̀ sì ni ìgbàjà tí idà tí ó fi mọ́ ìdí rẹ̀ nínú ìdánì rẹ̀ wà; ó sì jáde, ⟨idà náà⟩ sì sùn kálẹ̀.",
   "tokens": [
     {
       "surface": "הם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "עם",
-      "gloss": "ní ẹ̀gbẹ́"
+      "gloss": "ní"
     },
     {
       "surface": "האבן",
-      "gloss": "ọ̀kúta náà"
+      "gloss": "ọ̀kúta"
     },
     {
       "surface": "הגדולה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בגבעון",
-      "gloss": "ní Gibeon"
+      "gloss": "ní Givon"
     },
     {
       "surface": "ועמשא",
@@ -37,35 +37,35 @@
     },
     {
       "surface": "בא",
-      "gloss": "wá sí"
+      "gloss": "bọ̀"
     },
     {
       "surface": "לפניהם",
-      "gloss": "níwájú wọn"
+      "gloss": "sí iwájú wọn"
     },
     {
       "surface": "ויואב",
-      "gloss": "Joab sì"
+      "gloss": "Yoav sì"
     },
     {
       "surface": "חגור",
-      "gloss": "di...mọ́ ara"
+      "gloss": "wọ́"
     },
     {
       "surface": "מדו",
-      "gloss": "aṣọ ìrora rẹ̀"
+      "gloss": "aṣọ ogun rẹ̀"
     },
     {
       "surface": "לבשו",
-      "gloss": "tí ó wọ̀"
+      "gloss": "tí ó wò kó"
     },
     {
       "surface": "ועלו",
-      "gloss": "sórí rẹ̀"
+      "gloss": "lórí rẹ̀ sì"
     },
     {
       "surface": "חגור",
-      "gloss": "ìdi ìṣu"
+      "gloss": "ìgbàjà"
     },
     {
       "surface": "חרב",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "מצמדת",
-      "gloss": "fífẹ́ mọ́"
+      "gloss": "tí ó fi mọ́ pẹ̀lú"
     },
     {
       "surface": "על",
@@ -89,17 +89,17 @@
     },
     {
       "surface": "והוא",
-      "gloss": "bí òun ti"
+      "gloss": "ó sì"
     },
     {
       "surface": "יצא",
-      "gloss": "ń jade"
+      "gloss": "jáde"
     },
     {
       "surface": "ותפל",
-      "gloss": "ó sì ṣubú"
+      "gloss": "sì sùn kálẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T01:07:17.682680697Z",
+  "timestamp": "2026-08-23T06:39:07.751523665Z",
   "model": "glm-5.3"
 }

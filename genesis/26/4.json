@@ -5,40 +5,36 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 26,
-  "translation": "Èmi yóò sì pọ̀ ìrùsílẹ̀ rẹ jọ ⟨את⟩ gẹ́gẹ́ bíi àwọn ìràwọ̀ ọ̀run, èmi yóò sì fún ìrùsílẹ̀ rẹ lọ́wọ́ ⟨את⟩ gbogbo àwọn ilẹ̀ wọnyí; àwọn orílẹ̀-èdè ilẹ̀ yóò sì fi ìrùsílẹ̀ rẹ bùkún ara wọn, gbogbo wọn.",
+  "translation": "Èmi yóò pọ̀ ⟨את⟩ ìrúgbìn rẹ kí ó lé pẹ̀lú àwọn ìràwọ̀̀ ọ̀run, èmi yóò fún ìrúgbìn rẹ̀ ní ⟨את⟩ gbogbo àwọn ilẹ̀ wọnyí, àwọn orílẹ̀-èdè ayé gbogbo sì yóò bùkún ara wọn ní ìrúgbìn rẹ.",
   "tokens": [
     {
       "surface": "והרביתי",
-      "gloss": "Èmi yóò sì pọ̀… jọ"
+      "gloss": "èmi yóò pọ̀"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìrùsílẹ̀ rẹ"
+      "marks": "ìrúgbìn rẹ"
     },
     {
       "surface": "זרעך",
-      "gloss": "ìrùsílẹ̀ rẹ"
+      "gloss": "ìrúgbìn rẹ"
     },
     {
       "surface": "ככוכבי",
-      "gloss": "gẹ́gẹ́ bíi àwọn ìràwọ̀"
+      "gloss": "bíi àwọn ìràwọ̀̀"
     },
     {
       "surface": "השמים",
       "gloss": "ọ̀run"
     },
     {
-      "surface": "וונתתי",
-      "gloss": ""
-    },
-    {
       "surface": "ונתתי",
-      "gloss": "èmi yóò sì fún… lọ́wọ́"
+      "gloss": "èmi yóò fún"
     },
     {
       "surface": "לזרעך",
-      "gloss": "⟨את⟩ ìrùsílẹ̀ rẹ"
+      "gloss": "ní ìrúgbìn rẹ"
     },
     {
       "surface": "את",
@@ -59,11 +55,11 @@
     },
     {
       "surface": "והתברכו",
-      "gloss": "yóò sì fi… bùkún ara wọn"
+      "gloss": "yóò bùkún ara wọn"
     },
     {
       "surface": "בזרעך",
-      "gloss": "ìrùsílẹ̀ rẹ"
+      "gloss": "ní ìrúgbìn rẹ"
     },
     {
       "surface": "כל",
@@ -75,9 +71,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ilẹ̀"
+      "gloss": "ayé"
     }
   ],
-  "timestamp": "2026-08-22T23:03:35.048118153Z",
+  "timestamp": "2026-08-23T06:34:14.815578952Z",
   "model": "glm-5.3"
 }

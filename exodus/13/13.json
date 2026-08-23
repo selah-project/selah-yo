@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 13,
-  "translation": "Àti ⟨the⟩ gbogbo akọ̀bẹ̀ kẹ̀tẹ́, iwo gbà á padà pẹ̀lú ọ̀dọ̀ aguntan; ṣùgbọ́n tí o kò gbà á padà, kí o gé orí rẹ̀ fún ni; àti gbogbo akọ̀bí ènìyàn lára àwọn ọmọ rẹ, iwo gbà wọ́n padà.",
+  "translation": "Àti gbogbo akọ́kọ́-bíbí kẹ̀tẹ́kẹ̀tẹ́ ni iwọ yóò padà ní ọ̀dọ̀ pẹ̀lú ọ̀dọ́-àgùntàn; tí iwọ kò bá sì padà ní ọ̀dọ̀ rẹ̀, iwọ yóò gú orí rẹ̀; àti gbogbo akọ́kọ́-bíbí ènìyàn nínú àwọn ọmọ rẹ ni iwọ yóò padà ní ọ̀dọ̀.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "פטר",
-      "gloss": "akọ̀bẹ̀ (ẹni tí ó ṣí ìbà)"
+      "gloss": "akọ́kọ́-bíbí (ẹni tí ó ṣí ìbàkún)"
     },
     {
       "surface": "חמר",
-      "gloss": "kẹ̀tẹ́"
+      "gloss": "kẹ̀tẹ́kẹ̀tẹ́"
     },
     {
       "surface": "תפדה",
-      "gloss": "iwo gbà á padà"
+      "gloss": "iwọ yóò padà ní ọ̀dọ̀"
     },
     {
       "surface": "בשה",
-      "gloss": "pẹ̀lú ọ̀dọ̀ aguntan"
+      "gloss": "pẹ̀lú ọ̀dọ́-àgùntàn"
     },
     {
       "surface": "ואם",
-      "gloss": "ṣùgbọ́n tí"
+      "gloss": "tí … kò bá sì"
     },
     {
       "surface": "לא",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "תפדה",
-      "gloss": "gbà á padà"
+      "gloss": "padà ní ọ̀dọ̀ rẹ̀"
     },
     {
       "surface": "וערפתו",
-      "gloss": "kí o gé orí rẹ̀ fún ni"
+      "gloss": "iwọ yóò gú orí rẹ̀"
     },
     {
       "surface": "וכל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "בכור",
-      "gloss": "akọ̀bí"
+      "gloss": "akọ́kọ́-bíbí"
     },
     {
       "surface": "אדם",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "בבניך",
-      "gloss": "lára àwọn ọmọ rẹ"
+      "gloss": "nínú àwọn ọmọ rẹ"
     },
     {
       "surface": "תפדה",
-      "gloss": "iwo gbà wọ́n padà"
+      "gloss": "iwọ yóò padà ní ọ̀dọ̀"
     }
   ],
-  "timestamp": "2026-08-22T23:20:18.283327812Z",
+  "timestamp": "2026-08-23T06:34:26.147171154Z",
   "model": "glm-5.3"
 }

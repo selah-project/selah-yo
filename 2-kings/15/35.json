@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 15,
-  "translation": "Ṣùgbọ́n àwọn ilẹ̀-òkè ẹbọ kò yọ; ènìyàn náà sì tún ń ṣàjàbọ̀ àti ń sun etí àjàsà ní àwọn ilẹ̀-òkè ẹbọ; òun ni ó kọ́ ọ̀nà-ìrọ̀nu ⟨the⟩ ilé Yahweh, ilẹ̀-òkè ẹ̀kéjì.",
+  "translation": "Ṣùgbọ́n àwọn ibi-ìgbọrọ́ kò yọ kúrò; ìjàmbá ni pé àwọn ènìyàn ṣì ń pèsè àti ń sun èròjà nínú àwọn ibi-ìgbọrọ́. Òun ni ó kó ọ̀nà-ìrọ̀lé ti ilé Yahweh tí ó ga jùlọ.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "Ṣùgbọ́n"
+      "gloss": "ṣùgbọ́n"
     },
     {
       "surface": "הבמות",
-      "gloss": "àwọn ilẹ̀-òkè ẹbọ"
+      "gloss": "àwọn ibi-ìgbọrọ́"
     },
     {
       "surface": "לא",
@@ -21,44 +21,44 @@
     },
     {
       "surface": "סרו",
-      "gloss": "yọ"
+      "gloss": "yọ kúrò"
     },
     {
       "surface": "עוד",
-      "gloss": "tún"
+      "gloss": "ìjàmbá ni pé ṣì"
     },
     {
       "surface": "העם",
-      "gloss": "ènìyàn náà"
+      "gloss": "àwọn ènìyàn"
     },
     {
       "surface": "מזבחים",
-      "gloss": "ń ṣàjàbọ̀"
+      "gloss": "ń pèsè (ẹran-ẹrubọ)"
     },
     {
       "surface": "ומקטרים",
-      "gloss": "sì ń sun etí àjàsà"
+      "gloss": "àti ń sun èròjà"
     },
     {
       "surface": "בבמות",
-      "gloss": "ní àwọn ilẹ̀-òkè ẹbọ"
+      "gloss": "nínú àwọn ibi-ìgbọrọ́"
     },
     {
       "surface": "הוא",
-      "gloss": "òun ni"
+      "gloss": "ìwọ̀nbà óun"
     },
     {
       "surface": "בנה",
-      "gloss": "ó kọ́"
+      "gloss": "kó"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọ̀nà-ìrọ̀nu ilé Yahweh"
+      "marks": "ọ̀nà-ìrọ̀lé ti ilé Yahweh tí ó ga jùlọ"
     },
     {
       "surface": "שער",
-      "gloss": "ọ̀nà-ìrọ̀nu"
+      "gloss": "ọ̀nà-ìrọ̀lé"
     },
     {
       "surface": "בית",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "העליון",
-      "gloss": "ilẹ̀-òkè ẹ̀kéjì — òkè"
+      "gloss": "tí ó ga jùlọ"
     }
   ],
-  "timestamp": "2026-08-23T01:33:57.868274635Z",
+  "timestamp": "2026-08-23T06:40:20.343140605Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Ó sì ṣe ⟨את⟩ àwọn òpó, àti èjì àwọn sáfẹ́ẹ́tí yíká lórí ⟨the⟩ ìjọra-àwọ̀n kan, fún lídí ⟨the⟩ àwọn orí-òpó tí ó wà lórí ⟨the⟩ orí àwọn èso rímónu; bẹ́ẹ̀ ni ó ṣe fún ⟨the⟩ orí-òpó kejì.",
+  "translation": "Ó sì ṣe ⟨את⟩ àwọn òpó náà, àti èjì Àlàgbà-ìlà lórí ìkòkò-ìtọ́nnú kan náà, láti bo ⟨את⟩ àwọn adé-orí tí ó wà lórí orí àwọn èso rímọ́nù; bẹ́ gẹ́gẹ́ ni ó ṣe fún adé-orí ⟨èkejì náà⟩.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "ó sì ṣe"
+      "gloss": "Ó sì ṣe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn òpó"
+      "marks": "àwọn òpó náà"
     },
     {
       "surface": "העמודים",
-      "gloss": "àwọn òpó"
+      "gloss": "àwọn òpó náà"
     },
     {
       "surface": "ושני",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "טורים",
-      "gloss": "àwọn sáfẹ́ẹ́tí"
+      "gloss": "Àlàgbà-ìlà"
     },
     {
       "surface": "סביב",
-      "gloss": "yíká"
+      "gloss": "lórí ayíká"
     },
     {
       "surface": "על",
@@ -38,44 +38,44 @@
     },
     {
       "surface": "השבכה",
-      "gloss": "⟨the⟩ ìjọra-àwọ̀n"
+      "gloss": "ìkòkò-ìtọ́nnú"
     },
     {
       "surface": "האחת",
-      "gloss": "kan"
+      "gloss": "kan náà"
     },
     {
       "surface": "לכסות",
-      "gloss": "fún lídí"
+      "gloss": "láti bo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn orí-òpó"
+      "marks": "àwọn adé-orí"
     },
     {
       "surface": "הכתרת",
-      "gloss": "àwọn orí-òpó"
+      "gloss": "àwọn adé-orí"
     },
     {
       "surface": "אשר",
-      "gloss": "tí ó wà"
+      "gloss": "tí"
     },
     {
       "surface": "על",
-      "gloss": "lórí"
+      "gloss": "ó wà lórí"
     },
     {
       "surface": "ראש",
-      "gloss": "⟨the⟩ orí"
+      "gloss": "orí"
     },
     {
       "surface": "הרמנים",
-      "gloss": "àwọn èso rímónu"
+      "gloss": "àwọn èso rímọ́nù"
     },
     {
       "surface": "וכן",
-      "gloss": "bẹ́ẹ̀ ni"
+      "gloss": "bẹ́ gẹ́gẹ́"
     },
     {
       "surface": "עשה",
@@ -83,13 +83,13 @@
     },
     {
       "surface": "לכתרת",
-      "gloss": "fún ⟨the⟩ orí-òpó"
+      "gloss": "fún adé-orí"
     },
     {
       "surface": "השנית",
-      "gloss": "kejì"
+      "gloss": "⟨èkejì náà⟩"
     }
   ],
-  "timestamp": "2026-08-23T01:13:13.109056398Z",
+  "timestamp": "2026-08-23T06:48:09.227294229Z",
   "model": "glm-5.3"
 }

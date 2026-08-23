@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 31,
-  "translation": "Rachel sì ti gba ⟨את⟩ àwọn terafim, ó sì gbé wọn sí abẹ́ ìdúnà rákùnmọ́-òmì, ó sì jú bò ó wọ́; Lavan sì fọwọ́ wádìí gbogbo àgọ́ naa, ṣùgbọ́n ó kò rí i.",
+  "translation": "Rachel sì ti gba ⟨את⟩ àwọn terafim náà, ó sì gbé wọn sí abẹ́ àgbá ọ̀kẹ̀ ràkúnmì náà, ó sì jókòó lé wọn lórí; Lavan sì fi ọwọ́ wò ⟨את⟩ gbogbo àga ìdánidẹ́ náà pẹ̀lú, ṣùgbọ́n ó kò rí i.",
   "tokens": [
     {
       "surface": "ורחל",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn terafim"
+      "marks": "àwọn terafim náà"
     },
     {
       "surface": "התרפים",
-      "gloss": "àwọn terafim ⟨the⟩"
+      "gloss": "àwọn terafim náà"
     },
     {
       "surface": "ותשמם",
@@ -30,23 +30,23 @@
     },
     {
       "surface": "בכר",
-      "gloss": "abẹ́ ìdúnà"
+      "gloss": "àgbá ọ̀kẹ̀ abẹ́"
     },
     {
       "surface": "הגמל",
-      "gloss": "rákùnmọ́-òmì ⟨the⟩"
+      "gloss": "ràkúnmì náà"
     },
     {
       "surface": "ותשב",
-      "gloss": "ó sì jú bò ó"
+      "gloss": "ó sì jókòó"
     },
     {
       "surface": "עליהם",
-      "gloss": "wọ́"
+      "gloss": "lé wọn lórí"
     },
     {
       "surface": "וימשש",
-      "gloss": "Lavan sì fọwọ́ wádìí"
+      "gloss": "sì fi ọwọ́ wò"
     },
     {
       "surface": "לבן",
@@ -55,7 +55,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gbogbo àgọ́ naa"
+      "marks": "gbogbo àga ìdánidẹ́ náà"
     },
     {
       "surface": "כל",
@@ -63,17 +63,17 @@
     },
     {
       "surface": "האהל",
-      "gloss": "àgọ́ naa"
+      "gloss": "àga ìdánidẹ́ náà"
     },
     {
       "surface": "ולא",
-      "gloss": "ṣùgbọ́n ó kò"
+      "gloss": "ṣùgbọ́n kì"
     },
     {
       "surface": "מצא",
-      "gloss": "rí i"
+      "gloss": "ó rí i"
     }
   ],
-  "timestamp": "2026-08-22T23:06:26.290363968Z",
+  "timestamp": "2026-08-23T06:34:49.021041351Z",
   "model": "glm-5.3"
 }

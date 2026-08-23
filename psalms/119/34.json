@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 119,
-  "translation": "Fún mi ní òye, kí èmi sì pa ⟨את⟩ òfin rẹ mọ́, kí èmi sì ṣọ́ ọ́ pẹ̀lú gbogbo ọkàn.",
+  "translation": "Fún mi ní òye, kí èmi sí ṣe ìmọ́ràn tóὀ tọ́ Tórà rẹ, ṣùgbọ́n kí èmi sì ṣọ́ ọ́ pẹ̀lú gbogbo ọkàn.",
   "tokens": [
     {
       "surface": "הבינני",
@@ -13,16 +13,11 @@
     },
     {
       "surface": "ואצרה",
-      "gloss": "kí èmi sì pa mọ́"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "òfin rẹ"
+      "gloss": "kí èmi sí ṣe ìmọ́ràn tó tọ́"
     },
     {
       "surface": "תורתך",
-      "gloss": "òfin rẹ"
+      "gloss": "Tórà rẹ"
     },
     {
       "surface": "ואשמרנה",
@@ -37,6 +32,6 @@
       "gloss": "ọkàn"
     }
   ],
-  "timestamp": "2026-08-23T03:54:39.334148160Z",
+  "timestamp": "2026-08-23T06:45:43.262679396Z",
   "model": "glm-5.3"
 }

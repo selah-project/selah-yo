@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 20,
-  "translation": "Ìkúyọ̀ àwọn ọ̀rọ̀ Chizkiyahu, àti gbogbo ipa rẹ, àti èyí tí ⟨את⟩ ó ṣe — ⟨את⟩ adágún-omì àti ⟨את⟩ ọ̀nà-omì, ó sì mú ⟨את⟩ omì wá sí ìlú náà — ṣé kì í ṣe wọn ni a kọ sílẹ̀ lórí ìwé àwọn ọ̀rọ̀ àwọn ọjọ́ fún àwọn ọba Yehudah?",
+  "translation": "Ìdíwọ̀n ìtumọ̀: Àwọn ọ̀rọ̀ Chizkiyahu tí ó kù, àti gbogbo ipa rẹ̀, àti ohun tí ó ṣe — ⟨את⟩ adágún-omi náà àti ⟨את⟩ ọ̀nà-omi náà, ó sì mú ⟨את⟩ omi wá sí ìlú náà — ṣé wọn kò kọ sílẹ̀ lórí ìwé ọ̀rọ̀ àwọn ọjọ́ fún àwọn ọba Yehudah?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "ìkúyọ̀"
+      "gloss": "ìdíwọ̀n ìtumọ̀: tí ó kù"
     },
     {
       "surface": "דברי",
@@ -20,54 +20,51 @@
       "gloss": "Chizkiyahu"
     },
     {
-      "surface": "ויתר"
-    },
-    {
       "surface": "וכל",
       "gloss": "àti gbogbo"
     },
     {
       "surface": "גבורתו",
-      "gloss": "ipa rẹ"
+      "gloss": "ipa rẹ̀"
     },
     {
       "surface": "ואשר",
-      "gloss": "àti èyí tí"
+      "gloss": "àti ohun tí"
     },
     {
       "surface": "עשה",
-      "gloss": "⟨את⟩ ó ṣe"
+      "gloss": "ó ṣe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "adágún-omì"
+      "marks": "adágún-omi náà"
     },
     {
       "surface": "הברכה",
-      "gloss": "⟨את⟩ adágún-omì"
+      "gloss": "adágún-omi náà"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ọ̀nà-omì"
+      "marks": "ọ̀nà-omi náà"
     },
     {
       "surface": "התעלה",
-      "gloss": "ọ̀nà-omì"
+      "gloss": "ọ̀nà-omi náà"
     },
     {
       "surface": "ויבא",
-      "gloss": "⟨את⟩ ó sì mú wá"
+      "gloss": "ó sì mú... wá"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "omì"
+      "marks": "omi"
     },
     {
       "surface": "המים",
-      "gloss": "omì"
+      "gloss": "omi"
     },
     {
       "surface": "העירה",
@@ -75,7 +72,7 @@
     },
     {
       "surface": "הלא",
-      "gloss": "ṣé kì í ṣe"
+      "gloss": "ṣé... kò"
     },
     {
       "surface": "הם",
@@ -83,7 +80,7 @@
     },
     {
       "surface": "כתובים",
-      "gloss": "a kọ sílẹ̀"
+      "gloss": "kọ sílẹ̀"
     },
     {
       "surface": "על",
@@ -95,7 +92,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "àwọn ọ̀rọ̀"
+      "gloss": "ọ̀rọ̀"
     },
     {
       "surface": "הימים",
@@ -110,6 +107,6 @@
       "gloss": "Yehudah"
     }
   ],
-  "timestamp": "2026-08-23T01:37:57.705259466Z",
+  "timestamp": "2026-08-23T06:40:34.178097939Z",
   "model": "glm-5.3"
 }

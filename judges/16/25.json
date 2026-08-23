@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "yo",
   "chapter": 16,
-  "translation": "Ó sì wáyé nígbà tí ọkàn wọn dùn, wọ́n sì wí pé, Ẹ pe Shimshon kí ó lè sẹ́rin-in fún wa. Wọ́n sì pe Shimshon kúrò nínú ilé ẹ̀wọ̀n, ó sì sẹ́rin-in níwájú wọn; wọ́n sì dúró ṣinṣin é láàrin ⟨את⟩ àwọn columnù.",
+  "translation": "Ó sì wúlò nigbati ọkàn wọn dùn, wọ́n wí pé, Ẹ pe Shimshon, kí ó lè ṣeré fún wa. Wọ́n sì pe Shimshon láti inú ilé ẹ̀wọ̀n, ó sì ṣeré níwájú wọn; wọ́n sì jẹ́ kí ó dúró láàrin ⟨את⟩ àwọn òpó.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ó sì wáyé"
+      "gloss": "Ó sì wúlò"
     },
     {
       "surface": "כי",
-      "gloss": "nígbà tí"
+      "gloss": "nigbati"
     },
     {
       "surface": "טוב",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "וישחק",
-      "gloss": "kí ó lè sẹ́rin-in"
+      "gloss": "kí ó lè ṣeré"
     },
     {
       "surface": "לנו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מבית",
-      "gloss": "kúrò nínú ilé"
+      "gloss": "láti inú ilé"
     },
     {
       "surface": "האסירים",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ויצחק",
-      "gloss": "ó sì sẹ́rin-in"
+      "gloss": "ó sì ṣeré"
     },
     {
       "surface": "לפניהם",
@@ -69,12 +69,12 @@
     },
     {
       "surface": "ויעמידו",
-      "gloss": "wọ́n sì dúró ṣinṣin é"
+      "gloss": "wọ́n sì jẹ́ kí ó dúró"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "é"
+      "marks": "ó (dúró)"
     },
     {
       "surface": "בין",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "העמודים",
-      "gloss": "àwọn columnù"
+      "gloss": "àwọn òpó"
     }
   ],
-  "timestamp": "2026-08-23T00:39:42.225815943Z",
+  "timestamp": "2026-08-23T06:37:55.900460367Z",
   "model": "glm-5.3"
 }

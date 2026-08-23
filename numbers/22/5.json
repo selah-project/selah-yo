@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 22,
-  "translation": "Ó sì rán àwọn níṣírí sí Bilam, ọmọ Beor, sí Petora tí ó wà ní etí odò, ilẹ̀ àwọn ọmọ ìran rẹ̀, láti pé ọ́, wí pé: Wò ó, ìjọ kan ti jade kúrò ní Mitsrayim; wò ó, ó ti bo ⟨את⟩ ojú ⟨the⟩ ilẹ̀ ayé, ó sì ń gbà dúró ní ègbé mi.",
+  "translation": "Ó sì rán àwọn ojíṣẹ́ sí Bilam ọmọ Beor, sí Pethor, tí ó wà ní etí odò ní ilẹ̀ àwọn ọmọ ìran rẹ̀, láti pè é, wí pé: Kiń lẹ́wà! Kan ní ìran kan ti jáde kúrò ní Mísírà; kiń lẹ́wà! Ó bo ⟨את⟩ ojú ilẹ̀ ayé, àti pé òun ń gbé níwájú mi.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מלאכים",
-      "gloss": "àwọn níṣírí"
+      "gloss": "àwọn ojíṣẹ́"
     },
     {
       "surface": "אל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "פתורה",
-      "gloss": "sí Petora"
+      "gloss": "sí Pethor"
     },
     {
       "surface": "אשר",
-      "gloss": "tí ó wà"
+      "gloss": "tí"
     },
     {
       "surface": "על",
@@ -45,55 +45,55 @@
     },
     {
       "surface": "הנהר",
-      "gloss": "odò"
+      "gloss": "odò náà"
     },
     {
       "surface": "ארץ",
-      "gloss": "ilẹ̀"
+      "gloss": "ní ilẹ̀"
     },
     {
       "surface": "בני",
-      "gloss": "àwọn ọmọ"
+      "gloss": "àwọn ọmọ ìran"
     },
     {
       "surface": "עמו",
-      "gloss": "ìran rẹ̀"
+      "gloss": "ràẹ̀"
     },
     {
       "surface": "לקרא",
-      "gloss": "láti pé"
+      "gloss": "láti pè"
     },
     {
       "surface": "לו",
-      "gloss": "ọ́"
+      "gloss": "é"
     },
     {
-      "surface": "לאмר",
+      "surface": "לאמר",
       "gloss": "wí pé"
     },
     {
       "surface": "הנה",
-      "gloss": "Wò ó"
+      "gloss": "Kiń lẹ́wà!"
     },
     {
       "surface": "עם",
-      "gloss": "ìjọ kan"
+      "gloss": "ìran kan"
     },
     {
       "surface": "יצא",
-      "gloss": "ti jade"
+      "gloss": "ti jáde"
     },
     {
       "surface": "ממצרים",
-      "gloss": "kúrò ní Mitsrayim"
+      "gloss": "kúrò ní Mísírà"
     },
     {
       "surface": "הנה",
-      "gloss": "wò ó"
+      "gloss": "Kiń lẹ́wà!"
     },
     {
       "surface": "כסה",
-      "gloss": "ó ti bo"
+      "gloss": "Ó bo"
     },
     {
       "surface": "את",
@@ -110,17 +110,17 @@
     },
     {
       "surface": "והוא",
-      "gloss": "ó sì"
+      "gloss": "àti pé òun"
     },
     {
       "surface": "ישב",
-      "gloss": "ń gbà dúró"
+      "gloss": "ń gbé"
     },
     {
       "surface": "ממלי",
-      "gloss": "ní ègbé mi"
+      "gloss": "níwájú mi"
     }
   ],
-  "timestamp": "2026-08-22T23:59:35.978647181Z",
+  "timestamp": "2026-08-23T06:37:03.527446383Z",
   "model": "glm-5.3"
 }

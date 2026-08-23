@@ -5,8 +5,37 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 1,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-22T23:14:09.794529173Z",
+  "translation": "Yosef sì kú, àti gbogbo àwọn ará rẹ̀, àti gbogbo ìran yẹn.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "sì kú"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "àwọn ará rẹ̀"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:35:12.523969328Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 60,
-  "translation": "Nígbà tí ó ń bá Aram-Naharaim ja, àti ⟨את⟩ Aram-Tsoba, Joab sì padà, ó sì lu ⟨את⟩ Edom ní ibi ìsàlẹ̀ yọ̀ọ̀ — ẹgbẹ̀rin lé lọ́nà mọ́kànlá (ìwọ̀n ẹgbàájọ) — ọ̀kẹ́ mọ́kànlá (méjìlá ńlá).",
+  "translation": "Nígbà tí ó bá ń lu Aram ti Odò Méjì àti Aram ti Tsoba, Yoabu sì padà, ó sì lu ⟨את⟩ Edomu ní Àfonífojì Ìyọ̀nàmọ́ — ẹgbàájì ẹ̀ẹ́dẹ́gbàta (12,000).",
   "tokens": [
     {
       "surface": "בהצותו",
-      "gloss": "Nígbà tí ó ń bá … ja"
+      "gloss": "nígbà tí ó bá ń lu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Aram-Naharaim"
+      "marks": "Aram ti Odò Méjì"
     },
     {
       "surface": "ארם",
@@ -22,14 +22,63 @@
     },
     {
       "surface": "נהרים",
-      "gloss": "Naharaim"
+      "gloss": "ti Odò Méjì"
     },
     {
-      "surface": "ìwọ̀n",
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Aram ti Tsoba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ti Tsoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sì padà"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "sì lu"
+    },
+    {
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "notes": "placeholder"
+      "marks": "Edomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ní Àfonífojì"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Ìyọ̀nàmọ́"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbàrun"
     }
   ],
-  "timestamp": "2026-08-23T03:38:28.994632596Z",
+  "timestamp": "2026-08-23T06:44:08.394761092Z",
   "model": "glm-5.3"
 }

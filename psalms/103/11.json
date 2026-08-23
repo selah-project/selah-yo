@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 103,
-  "translation": "Nítorí bí gíga ti ọ̀run ju ayé ⟨the⟩ lọ, bẹ́ẹ̀ ni chesed rẹ̀ fi ju àwọn tí ó ń bẹ̀rù rẹ̀ lọ.",
+  "translation": "Nítorí, bí ó ṣe ga, bí ọ̀run ti ga ju ⟨àwọn⟩ ayé lọ, ni chesed rẹ̀ ti gbilẹ̀ ju àwọn tí ń bẹ̀rù rẹ̀ lọ.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "nítorí"
+      "gloss": "Nítorí"
     },
     {
       "surface": "כגבה",
-      "gloss": "bí gíga ti"
+      "gloss": "bí ó ṣe ga"
     },
     {
       "surface": "שמים",
-      "gloss": "ọ̀run"
+      "gloss": "bí ọ̀run"
     },
     {
       "surface": "על",
-      "gloss": "ju ... lọ"
+      "gloss": "ga ju … lọ"
     },
     {
       "surface": "הארץ",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "גבר",
-      "gloss": "fi ju ... lọ"
+      "gloss": "ti gbilẹ̀ ju … lọ"
     },
     {
       "surface": "חסדו",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "על",
-      "gloss": "ló de"
+      "gloss": "ju … lọ"
     },
     {
       "surface": "יראיו",
-      "gloss": "àwọn tí ó ń bẹ̀rù rẹ̀"
+      "gloss": "àwọn tí ń bẹ̀rù rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T03:49:22.269141945Z",
+  "timestamp": "2026-08-23T06:51:12.776311328Z",
   "model": "glm-5.3"
 }

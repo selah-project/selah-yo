@@ -5,8 +5,28 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 23,
-  "translation": "Efron sì ń gbé láàrin àwọn ọmọ Chet; Efron ará Chet sì dáhùn nítorí ⟨את⟩ Avraham, ní etí àwọn ọmọ Chet, ⟨את⟩ fún gbogbo awọn tí ó ń wọ inú ọ̀nà ìlú rẹ̀, wí pé:",
+  "translation": "Efron sì ń gbé láàárín àwọn ọmọ Kheti; Efron ilẹ̀ Kheti sì dáhùn ⟨את⟩ Avraham ní etí àwọn ọmọ Kheti, fún gbogbo àwọn tí ó ń wọ inú ọ̀nà ìlú rẹ̀, wí pé:",
   "tokens": [
+    {
+      "surface": "ועפרון",
+      "gloss": "Efron sì"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ń gbé"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Kheti"
+    },
     {
       "surface": "ויען",
       "gloss": "sì dáhùn"
@@ -17,7 +37,7 @@
     },
     {
       "surface": "החתי",
-      "gloss": "ará Chet"
+      "gloss": "ilẹ̀ Kheti"
     },
     {
       "surface": "את",
@@ -38,19 +58,19 @@
     },
     {
       "surface": "חת",
-      "gloss": "Chet"
+      "gloss": "Kheti"
     },
     {
       "surface": "לכל",
-      "gloss": "⟨את⟩ fún gbogbo"
+      "gloss": "fún gbogbo"
     },
     {
       "surface": "באי",
-      "gloss": "awọn tí ó ń wọ inú"
+      "gloss": "àwọn tí ó ń wọ inú"
     },
     {
       "surface": "שער",
-      "gloss": "ọ̀nà"
+      "gloss": "ọ̀nà ìlú"
     },
     {
       "surface": "עירו",
@@ -61,6 +81,6 @@
       "gloss": "wí pé"
     }
   ],
-  "timestamp": "2026-08-22T23:00:30.302457602Z",
+  "timestamp": "2026-08-23T06:34:21.990099042Z",
   "model": "glm-5.3"
 }

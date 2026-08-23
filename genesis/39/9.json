@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 39,
-  "translation": "Kò sí ẹni tí ó tóbi jù mi lọ nínú ilé yìí, kò sì pa nǹkan kan pamọ́ lọ́dọ̀ mi, bí ṣe ṣe ọ̀kan ṣoṣo — ⟨את⟩ ìwẹ̀, nítorí pé ìwọ ni iyàwó rẹ̀; báwo ni mo lè ṣe èṣe tó tóbi to yìí, kí n ṣẹ̀ṣẹ̀ sí Elohim?",
+  "translation": "Kò sí ẹnikẹ́ni tí ó tóbi ju mi lọ nínú ilé yìí, kò sì pa nnkan kan pamọ́ lọ́dọ̀ mi, bí ⟨את⟩ ìwọ ṣoṣo nítorí tí ìwọ ni iyàwó rẹ̀; báwo ni mo ṣe lè ṣe búburú tó tóbi báyìí, kí n dẹ́bi sí Elohim?",
   "tokens": [
     {
       "surface": "איננו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "גדול",
-      "gloss": "tóbi jù"
+      "gloss": "tóbi ju"
     },
     {
       "surface": "בבית",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ממני",
-      "gloss": "jù mi lọ"
+      "gloss": "ju mi lọ"
     },
     {
       "surface": "ולא",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "חשך",
-      "gloss": "pa… pamọ́"
+      "gloss": "pa pamọ́"
     },
     {
       "surface": "ממני",
@@ -41,29 +41,28 @@
     },
     {
       "surface": "מאומה",
-      "gloss": "nǹkan kan"
+      "gloss": "nnkan kan"
     },
     {
       "surface": "כי",
-      "gloss": "bí ṣe ṣe"
+      "gloss": "bí"
     },
     {
       "surface": "אם",
-      "gloss": "ọ̀kan ṣoṣo nì"
+      "gloss": "ṣoṣo"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩",
-      "marks": "ìwẹ̀ (ìwọ)"
+      "gloss": "⟨את⟩ ìwọ",
+      "marks": "ìwọ (ìkan ṣoṣo tí ó fi pamọ́)"
     },
     {
       "surface": "באשר",
-      "gloss": "nítorí pé"
+      "gloss": "nítorí tí"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ìwọ ni iyàwó rẹ̀"
+      "gloss": "ìwọ"
     },
     {
       "surface": "אשתו",
@@ -75,29 +74,25 @@
     },
     {
       "surface": "אעשה",
-      "gloss": "mo lè ṣe"
+      "gloss": "mo ṣe lè ṣe"
     },
     {
       "surface": "הרעה",
-      "gloss": "èṣe"
+      "gloss": "búburú"
     },
     {
       "surface": "הגדלה",
-      "gloss": "tó tóbi to"
+      "gloss": "tó tóbi"
     },
     {
       "surface": "הזאת",
-      "gloss": "yìí"
+      "gloss": "báyìí"
     },
     {
       "surface": "וחטאתי",
-      "gloss": "kí n ṣẹ̀ṣẹ̀"
-    },
-    {
-      "surface": "לאלהים",
-      "gloss": "sí Elohim"
+      "gloss": "kí n dẹ́bi sí"
     }
   ],
-  "timestamp": "2026-08-22T23:09:14.108701915Z",
+  "timestamp": "2026-08-23T06:34:23.495717673Z",
   "model": "glm-5.3"
 }

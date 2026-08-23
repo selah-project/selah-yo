@@ -5,35 +5,31 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 83,
-  "translation": "Wọ́n wí pé, Ẹ wá, kí a mú wọn bọ́ ṣẹ́là kúrò nínú ìjọ àwọn orílẹ̀-èdè, kí orúkọ Yisrael má ṣe tí à bá rántì sí mọ́.",
+  "translation": "Wọ́n wí pé: Ẹ wá, kí a sì pa wọn áṣẹ, kí wọn má baà jẹ́ orílẹ̀-èdè mọ́; kí orúkọ Yisrael má baà wà láti rántí mọ́.",
   "tokens": [
     {
       "surface": "אמרו",
-      "gloss": "Wọ́n wí pé"
+      "gloss": "wọ́n wí pé"
     },
     {
       "surface": "לכו",
-      "gloss": "Ẹ wá"
+      "gloss": "ẹ wá"
     },
     {
       "surface": "ונכחידם",
-      "gloss": "kí a mú wọn bọ́ ṣẹ́là"
+      "gloss": "kí a sì pa wọn áṣẹ"
     },
     {
       "surface": "מגוי",
-      "gloss": "kúrò nínú ìjọ àwọn orílẹ̀-èdè"
+      "gloss": "kúrò láti jẹ́ orílẹ̀-èdè"
     },
     {
       "surface": "ולא",
-      "gloss": "kí ... má ṣe"
+      "gloss": "àti kí … má"
     },
     {
       "surface": "יזזכר",
-      "gloss": ""
-    },
-    {
-      "surface": "יזכר",
-      "gloss": "tí à bá rántì sí"
+      "gloss": "ó gbọ́n rántí"
     },
     {
       "surface": "שם",
@@ -48,6 +44,6 @@
       "gloss": "mọ́"
     }
   ],
-  "timestamp": "2026-08-23T03:44:17.111345794Z",
+  "timestamp": "2026-08-23T06:44:20.259288367Z",
   "model": "glm-5.3"
 }

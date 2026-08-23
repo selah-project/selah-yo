@@ -5,8 +5,78 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 4,
-  "translation": "Ògún (adáṣẹ) — kí ó sì gbé lára ẹ̀jẹ̀ ẹ̀ṣẹ̀ ní ìka ọwọ́ rẹ̀, kí ó sì fi sí orí ìròrun pẹpẹ yìókùu, kí ó sì tú ⟨את⟩ ẹ̀jẹ̀ rẹ̀ sí ipilẹ̀ pẹpẹ yìókùu.",
-  "tokens": [],
-  "timestamp": "2026-08-22T23:35:41.076169972Z",
+  "translation": "Àlùfáà náà sì gbà láti inú ẹ̀jẹ̀ ẹbùn ẹ̀ṣẹ̀ pẹ̀lú ìka ọwọ́ rẹ̀, ó sì fi sí lé lórí ìwọ̀n pẹpẹ ẹbùn-iná-já, ó sì tú ⟨את⟩ ẹ̀jẹ̀ rẹ̀ sí ìpìlẹ̀ pẹpẹ ẹbùn-iná-já.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ó sì gbà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà náà"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "láti inú ẹ̀jẹ̀"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ẹbùn ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "pẹ̀lú ìka ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ó sì fi sí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé lórí"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "ìwọ̀n"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbùn-iná-já"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀jẹ̀ rẹ̀"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ẹ̀jẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ó sì tú"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "ìpìlẹ̀"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbùn-iná-já"
+    }
+  ],
+  "timestamp": "2026-08-23T06:36:18.855131619Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,66 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 4,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-22T23:35:41.076456662Z",
+  "translation": "Ó sì sun ⟨את⟩ gbogbo ọra rẹ̀ lórí pẹpẹ náà, bíi ọra ẹbùn àlàáfíà; àlùfáà sì ṣe ìpẹ̀ fún un nítorí ẹ̀ṣẹ̀ rẹ̀, a sì dárí jìn fún un.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọra rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "ọra rẹ̀"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "ó sì sun"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lórí pẹpẹ náà"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "bíi ọra"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ẹbùn"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ó sì ṣe ìpẹ̀"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "nítorí ẹ̀ṣẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "a sì dárí jìn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    }
+  ],
+  "timestamp": "2026-08-23T06:36:18.855393351Z",
   "model": "glm-5.3"
 }

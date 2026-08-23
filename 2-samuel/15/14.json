@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "yo",
   "chapter": 15,
-  "translation": "Davidi sọ fún gbogbo ìránṣẹ́ rẹ̀ tí ó wà pẹ̀lú ⟨את⟩ rẹ̀ ní Yerushalayim pé, Ẹ dìde, kí a sì sálù; nítorí pé ìgbàlà kì yóò wà fún wa ní ojú Avshalomu; ẹ kíákíá kí ẹ lọ, kí ó má baà kíákíá mú wa lọ́fìn, kí ó sì da ibi bọ̀ lé wa, kí ó sì fi ẹnu idà lu ìlú náà.",
+  "translation": "David sì wí fún gbogbo àwọn érú rẹ̀ tí ó wà ⟨את⟩ pẹ̀lú rẹ̀ ni Yerushalayim pé, Ẹ dìde, kí a sa lọ; nítorí ìsàlà kò ní wà fún wa láti ojú Avshalom; Ẹ mú rántí lọ, kí ó má bà gbọ́núgbọnú mú wa, mú iṣẹ́ burúkú bá wa, kí ó sì lú ìlù náà pẹ̀lú ìdá.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ó sọ"
+      "gloss": "sì wí"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidi"
+      "gloss": "David"
     },
     {
       "surface": "לכל",
@@ -21,39 +21,39 @@
     },
     {
       "surface": "עבדיו",
-      "gloss": "ìránṣẹ́ rẹ̀"
+      "gloss": "àwọn érú rẹ̀"
     },
     {
       "surface": "אשר",
-      "gloss": "tí ó"
+      "gloss": "tí"
     },
     {
       "surface": "אתו",
-      "gloss": "pẹ̀lú ⟨את⟩ rẹ̀"
+      "gloss": "⟨את⟩ pẹ̀lú rẹ̀"
     },
     {
       "surface": "בירושלם",
-      "gloss": "ní Yerushalayim"
+      "gloss": "ni Yerushalayim"
     },
     {
       "surface": "קומו",
-      "gloss": "ẹ dìde"
+      "gloss": "Ẹ dìde"
     },
     {
       "surface": "ונברחה",
-      "gloss": "kí a sì sálù"
+      "gloss": "kí a sa lọ"
     },
     {
       "surface": "כי",
-      "gloss": "nítorí pé"
+      "gloss": "nítorí pé"
     },
     {
       "surface": "לא",
-      "gloss": "kì"
+      "gloss": "kò"
     },
     {
       "surface": "תהיה",
-      "gloss": "yóò wà"
+      "gloss": "ní wà"
     },
     {
       "surface": "לנו",
@@ -61,39 +61,39 @@
     },
     {
       "surface": "פליטה",
-      "gloss": "ìgbàlà"
+      "gloss": "ìsàlà"
     },
     {
       "surface": "מפני",
-      "gloss": "ní ojú"
+      "gloss": "láti ojú"
     },
     {
       "surface": "אבשלום",
-      "gloss": "Avshalomu"
+      "gloss": "Avshalom"
     },
     {
       "surface": "מהרו",
-      "gloss": "ẹ kíákíá"
+      "gloss": "Ẹ mú rántí"
     },
     {
       "surface": "ללכת",
-      "gloss": "kí ẹ lọ"
+      "gloss": "lọ"
     },
     {
       "surface": "פן",
-      "gloss": "kí ó má baà"
+      "gloss": "kí ó má bà"
     },
     {
       "surface": "ימהר",
-      "gloss": "kíákíá"
+      "gloss": "gbọ́núgbọnú"
     },
     {
       "surface": "והשגנו",
-      "gloss": "mú wa lọ́fìn"
+      "gloss": "mú wa"
     },
     {
       "surface": "והדיח",
-      "gloss": "kí ó sì da ibi bọ̀ lé"
+      "gloss": "mú iṣẹ́ burúkú bá"
     },
     {
       "surface": "עלינו",
@@ -102,29 +102,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ibi (búburú)"
+      "marks": "iṣẹ́ burúkú"
     },
     {
       "surface": "הרעה",
-      "gloss": "ibi"
+      "gloss": "iṣẹ́ burúkú"
     },
     {
       "surface": "והכה",
-      "gloss": "kí ó sì fi ... lu"
+      "gloss": "kí ó sì lú"
     },
     {
       "surface": "העיר",
-      "gloss": "ìlú ⟨the⟩"
+      "gloss": "ìlù náà"
     },
     {
       "surface": "לפי",
-      "gloss": "ẹnu"
+      "gloss": "pẹ̀lú ẹ̀gbẹ́"
     },
     {
       "surface": "חרב",
-      "gloss": "idà"
+      "gloss": "ìdá"
     }
   ],
-  "timestamp": "2026-08-23T01:03:27.271903171Z",
+  "timestamp": "2026-08-23T06:39:51.363104346Z",
   "model": "glm-5.3"
 }

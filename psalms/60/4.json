@@ -5,16 +5,11 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 60,
-  "translation": "O ti jìjà ⟨את⟩ ilẹ̀, O ti fà á tà; wo ⟨את⟩ àwọn ìfọ́ rẹ̀ lára, nítorí pé ó ń tà.",
+  "translation": "O ti fa ilẹ̀ náà lára, o ti fà á lákikanra; wo àwọn ìforíṣẹ́ rẹ̀ nípa, nítorí pé ó ń yí pápákó.",
   "tokens": [
     {
       "surface": "הרעשתה",
-      "gloss": "O ti jìjà"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ilẹ̀"
+      "gloss": "o ti fa ilẹ̀ náà lára"
     },
     {
       "surface": "ארץ",
@@ -22,15 +17,15 @@
     },
     {
       "surface": "פצמתה",
-      "gloss": "O ti fà á tà"
+      "gloss": "o ti fà á lákikanra"
     },
     {
       "surface": "רפה",
-      "gloss": "wo... lára"
+      "gloss": "wo … nípa"
     },
     {
       "surface": "שבריה",
-      "gloss": "àwọn ìfọ́ rẹ̀"
+      "gloss": "àwọn ìforíṣẹ́ rẹ̀"
     },
     {
       "surface": "כי",
@@ -38,9 +33,9 @@
     },
     {
       "surface": "מטה",
-      "gloss": "ó ń tà"
+      "gloss": "ó ń yí pápákó"
     }
   ],
-  "timestamp": "2026-08-23T06:05:04.500439948Z",
+  "timestamp": "2026-08-23T06:44:05.515603250Z",
   "model": "glm-5.3"
 }

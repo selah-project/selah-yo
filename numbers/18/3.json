@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 18,
-  "translation": "Kí wọ́n ṣọ́ ìṣọ́ rẹ, àti ìṣọ́ gbogbo ⟨the⟩ ahọ; ṣe sí àwọn ohun èlò ⟨the⟩ mimọ́ àti sí ⟨the⟩ pẹpẹ ni wọ́n kì í gbọdọ̀ sún mọ́, kí wọ́n kì í kú — wọ́n bákan náà, yín bákan náà.",
+  "translation": "Wọ́n óò ṣọ́ ìṣọ́ rẹ, àti ìṣọ́ gbogbo àgọ́ náà; ṣùgbọ́n sí àwọn ohun èlò mímọ́ àti sí pẹpẹ yàrá ìjọsìn, wọn kò gbọdọ̀ sunmọ́, kí wọn óò kú — àwọn náà pẹ̀lú, ẹ̀yin pẹ̀lú.",
   "tokens": [
     {
       "surface": "ושמרו",
-      "gloss": "kí wọ́n ṣọ́"
+      "gloss": "wọ́n óò ṣọ́"
     },
     {
       "surface": "משמרתך",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "האהל",
-      "gloss": "ahọ"
+      "gloss": "àgọ́ náà"
     },
     {
       "surface": "אך",
-      "gloss": "ṣe"
+      "gloss": "ṣùgbọ́n"
     },
     {
       "surface": "אל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "mimọ́"
+      "gloss": "mímọ́"
     },
     {
       "surface": "ואל",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "pẹpẹ"
+      "gloss": "pẹpẹ yàrá ìjọsìn"
     },
     {
       "surface": "לא",
-      "gloss": "kì í gbọdọ̀"
+      "gloss": "kò gbọdọ̀"
     },
     {
       "surface": "יקרבו",
-      "gloss": "wọ́n sún mọ́"
+      "gloss": "sunmọ́"
     },
     {
       "surface": "ולא",
-      "gloss": "kí wọ́n kì í"
+      "gloss": "kí wọn óò"
     },
     {
       "surface": "ימתו",
@@ -69,21 +69,21 @@
     },
     {
       "surface": "גם",
-      "gloss": "bákan náà"
+      "gloss": "pẹ̀lú"
     },
     {
       "surface": "הם",
-      "gloss": "wọ́n"
+      "gloss": "àwọn náà"
     },
     {
       "surface": "גם",
-      "gloss": "bákan náà"
+      "gloss": "pẹ̀lú"
     },
     {
       "surface": "אתם",
-      "gloss": "yín"
+      "gloss": "ẹ̀yin"
     }
   ],
-  "timestamp": "2026-08-22T23:58:02.621850639Z",
+  "timestamp": "2026-08-23T06:37:30.969046822Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "jeremiah",
   "lang": "yo",
   "chapter": 52,
-  "translation": "Àti láti inú ⟨the⟩ ìlú náà ó gba sarísì kan, ẹni tí ó jẹ́ olùṣàkóso lórí àwọn ènìyàn ogun, àti àwọn ọkùnrin méje láti àwọn tó ń rí ojú ⟨the⟩ ọba, àwọn tí wọ́n rí nínú ìlú náà, àti ⟨את⟩ akọ̀wé-ìjánu olóyun, ẹni tí ó ń ka ⟨את⟩ àwọn ènìyàn ilẹ̀ yìí, àti àwọn ọkùnrin ogóta láti àwọn ènìyàn ilẹ̀ yìí, tí wọ́n rí ní àárín ìlú náà.",
+  "translation": "Ó sì gba láti inú ìlú náà eunuch kan tí ó jẹ́ olùṣàkóso lórí àwọn ọkùnrin-ogun, àti àwọn ọkùnrin méje nínú àwọn tí ń rí ojú ọba, tí wọ́n rí nínú ìlú náà, àti ⟨את⟩ akọ̀wé olórí ajagun, èni tí ó ń ka ⟨את⟩ àwọn ènìyàn ilẹ̀ náà, àti àwọn ọkùnrin ọgọ́ta láti àwọn ènìyàn ilẹ̀ náà, tí wọ́n rí ní àárín ìlú náà.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "àti láti"
+      "gloss": "ó sì gba láti"
     },
     {
       "surface": "העיר",
-      "gloss": "ìnú ìlú náà"
+      "gloss": "inú ìlú náà"
     },
     {
       "surface": "לקח",
-      "gloss": "ó gba"
+      "gloss": "gba"
     },
     {
       "surface": "סריס",
-      "gloss": "sarísì"
+      "gloss": "eunuch"
     },
     {
       "surface": "אחד",
@@ -45,23 +45,23 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "àwọn ènìyàn"
+      "gloss": "àwọn ọkùnrin"
     },
     {
       "surface": "המלחמה",
-      "gloss": "ogun"
+      "gloss": "-ogun"
     },
     {
       "surface": "ושבעה",
-      "gloss": "àti àwọn méje"
+      "gloss": "àti àwọn ọkùnrin méje"
     },
     {
       "surface": "אנשים",
-      "gloss": "ọkùnrin"
+      "gloss": "àwọn ọkùnrin"
     },
     {
       "surface": "מראי",
-      "gloss": "tó ń rí"
+      "gloss": "nínu àwọn tí ń rí"
     },
     {
       "surface": "פני",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "nínú ìlú náà"
+      "gloss": "nínu ìlú náà"
     },
     {
       "surface": "ואת",
@@ -94,20 +94,20 @@
     },
     {
       "surface": "שר",
-      "gloss": "ìjánu"
+      "gloss": "olórí"
     },
     {
       "surface": "הצבא",
-      "gloss": "olóyun"
+      "gloss": "ajagun"
     },
     {
       "surface": "המצבא",
-      "gloss": "ó ń ka"
+      "gloss": "èni tí ó ń ka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn ènìyàn ilẹ̀ yìí"
+      "marks": "àwọn ènìyàn ilẹ̀ náà"
     },
     {
       "surface": "עם",
@@ -115,11 +115,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ilẹ̀ yìí"
+      "gloss": "ilẹ̀ náà"
     },
     {
       "surface": "וששים",
-      "gloss": "àti ogóta"
+      "gloss": "àti àwọn ọkùnrin ọgọ́ta"
     },
     {
       "surface": "איש",
@@ -131,7 +131,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ilẹ̀ yìí"
+      "gloss": "ilẹ̀ náà"
     },
     {
       "surface": "הנמצאים",
@@ -146,6 +146,6 @@
       "gloss": "ìlú náà"
     }
   ],
-  "timestamp": "2026-08-23T02:33:20.095411649Z",
+  "timestamp": "2026-08-23T06:41:29.507427570Z",
   "model": "glm-5.3"
 }

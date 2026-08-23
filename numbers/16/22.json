@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 16,
-  "translation": "Wọ́n sì dojúkẹ ilẹ̀, wọ́n sì wí pé, El, Elohim ti àwọn ẹ̀mí gbogbo èrò orí, ẹnikan ṣeṣe ni yóò ṣẹ̀, ìwọ sì máa bínú sí gbogbo àwọ̀jọ náà?",
+  "translation": "Wọ́n sì dojúkọ ilẹ̀, wọ́n sì wí pé: El, Elohim ti àwọn ẹ̀mí gbogbo ẹran ara, ẹni kan ṣe ẹ̀ṣẹ̀, ṣé iwọ ó bínú sí gbogbo ìjọ náà?",
   "tokens": [
     {
       "surface": "ויפלו",
-      "gloss": "wọ́n sì dojúkẹ ilẹ̀"
+      "gloss": "Wọ́n sì dojúkọ ilẹ̀"
     },
     {
       "surface": "על",
@@ -41,23 +41,23 @@
     },
     {
       "surface": "בשר",
-      "gloss": "èrò orí"
+      "gloss": "ẹran ara"
     },
     {
       "surface": "האיש",
-      "gloss": "ẹnikan"
+      "gloss": "ẹni"
     },
     {
-      "surface": "àjọ̀",
-      "gloss": "ṣoṣo"
+      "surface": "אחד",
+      "gloss": "kan"
     },
     {
       "surface": "יחטא",
-      "gloss": "yóò ṣẹ̀"
+      "gloss": "ṣe ẹ̀ṣẹ̀"
     },
     {
       "surface": "ועל",
-      "gloss": "ìwọ sì máa bínú sí"
+      "gloss": "sí"
     },
     {
       "surface": "כל",
@@ -65,9 +65,13 @@
     },
     {
       "surface": "העדה",
-      "gloss": "àwọ̀jọ náà"
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "iwọ ó bínú"
     }
   ],
-  "timestamp": "2026-08-22T23:56:32.481208356Z",
+  "timestamp": "2026-08-23T06:36:26.920163704Z",
   "model": "glm-5.3"
 }

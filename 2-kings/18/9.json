@@ -5,8 +5,89 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 18,
-  "translation": "Ó sì ṣẹlẹ̀ ní ọdún kẹrin ti Chizkiyahu ọba — àwọn ọdún méje ni fún Hoshea ọmọ Elah, ọba Israẹli — Shalmaneser ọba Ashuru sókè sí Shamaroni, ó sì fi ipá àti ìkọ̀kọ̀ yọ ọ́.",
-  "tokens": [],
-  "timestamp": "2026-08-23T01:33:39.041692887Z",
+  "translation": "Ó sì ṣẹlẹ̀ ní ọdún kẹrin ti Hizkiyahu ọba — ìyẹn ni ọdún keje ti Hoshea ọmọ Elah, ọba Israẹl — Shalmaneser ọba Ashur sókè sí Shomeron, ó sì fi ipàmọ́ wà á.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ní ọdún"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "kẹrin"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ti ọba"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ìyẹn ni"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "keje"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "ti Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sókè"
+    },
+    {
+      "surface": "שלמנאסר",
+      "gloss": "Shalmaneser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ó sì fi ipàmọ́ wà á"
+    }
+  ],
+  "timestamp": "2026-08-23T06:41:03.024383243Z",
   "model": "glm-5.3"
 }

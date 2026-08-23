@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "yo",
   "chapter": 3,
-  "translation": "Àti pé gbogbo ènìyàn láti jẹ àti mú omi mu, àti láti rí rere nínú gbogbo iṣẹ́ rẹ̀ — ẹ̀bùn Elohim ni ⟨is⟩.",
+  "translation": "Àti pé, fún gbogbo ènìyàn láti jẹ àti láti mu, kí ó sì rí rere nínú gbogbo iṣẹ́ rẹ̀ — èbùn Elohim ni ⟨ón jẹ́⟩.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "àti pé"
+      "gloss": "Àti pé"
     },
     {
       "surface": "כל",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ושתה",
-      "gloss": "àti mú omi mu"
+      "gloss": "àti láti mu"
     },
     {
       "surface": "וראה",
-      "gloss": "àti láti rí"
+      "gloss": "kí ó sì rí"
     },
     {
       "surface": "טוב",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "מתת",
-      "gloss": "ẹ̀bùn"
+      "gloss": "èbùn"
     },
     {
       "surface": "אלהים",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "היא",
-      "gloss": "ni ⟨is⟩"
+      "gloss": "ón jẹ́"
     }
   ],
-  "timestamp": "2026-08-23T04:40:35.076038710Z",
+  "timestamp": "2026-08-23T06:46:18.648409905Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,45 @@
   "book": "nehemiah",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Gbogbo àwọn Nethinim àti àwọn ọmọ àwọn iranṣẹ Shelomoh: ọ̀kàndrúgọ́fà (ìgbà kan tí ó pé ní ẹ̀dínùádọ́ta — mẹ́rìn-lélọ́gọ́rùn-ún kí o sí jẹ́ méjì) — mẹ́tà-lélọ́gọ́rùn-ún kẹ̀sán-án-dín-lọ́nà-méjì, àpapọ̀ ọgọ́rùn-ún mẹ́ta pẹ̀lú ọ̀kàndínàádọ́rùn-ún (àti méjì).",
-  "tokens": [],
-  "timestamp": "2026-08-23T05:04:44.662640497Z",
+  "translation": "Gbogbo àwọn Nethinim àti àwọn ọmọ ìránṣẹ́ Shelomoh — ọ̀kàndrún ọ̀kàndín-lọgọ́rùn ⟨ni⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "àwọn Nethinim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "àti àwọn ọmọ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ìránṣẹ́"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ẹ̀ta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́rùn"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "àádọ́rùn"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "àti èjì"
+    }
+  ],
+  "timestamp": "2026-08-23T06:46:30.319283540Z",
   "model": "glm-5.3"
 }

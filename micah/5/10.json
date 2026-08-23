@@ -5,16 +5,11 @@
   "book": "micah",
   "lang": "yo",
   "chapter": 5,
-  "translation": "Èmi yóò gé ⟨את⟩ àwọn ìlú ilẹ̀ rẹ kúrò, èmi yóò sì wo àwọn èdè ológun rẹ gbé.",
+  "translation": "Èmi yóò ge ⟨את⟩ àwọn ìlú ilẹ̀ rẹ kúrò, èmi yóò darí gbogbo àwọn ìdènà mímu rẹ̀:",
   "tokens": [
     {
       "surface": "והכרתי",
-      "gloss": "èmi yóò gé kúrò"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "àwọn ìlú ilẹ̀ rẹ"
+      "gloss": "èmi yóò ge kúrò"
     },
     {
       "surface": "ערי",
@@ -26,7 +21,7 @@
     },
     {
       "surface": "והרסתי",
-      "gloss": "èmi yóò sì wo … gbé"
+      "gloss": "èmi yóò darí"
     },
     {
       "surface": "כל",
@@ -34,9 +29,9 @@
     },
     {
       "surface": "מבצריך",
-      "gloss": "àwọn èdè ológun rẹ"
+      "gloss": "àwọn ìdènà mímu rẹ"
     }
   ],
-  "timestamp": "2026-08-23T06:02:46.020825772Z",
+  "timestamp": "2026-08-23T06:43:18.076680821Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "yo",
   "chapter": 17,
-  "translation": "Ó sì mú ọ̀pá rẹ̀ ní ọwọ́ rẹ̀, ó sì yan fúnra rẹ̀ márùn-ún wá ókúta dídì láti inú odò náà, ó sì sọ ⟨את]] wọn sínú àpò àwọn olùṣọ́-àgùntàn rẹ̀, tí ó ní, àti nínú àpò kéékèké, ìwọ̀n rẹ̀ sì wà ní ọwọ́ rẹ̀, ó sì sún mọ́ Pelishti náà.",
+  "translation": "Ó sì gba ọ̀pá rẹ̀ lọ́wọ́ rẹ̀, ó sì yan fúnra rẹ̀ àwọn ókúta dídàn márùn-ún láti inú odò náà, ó sì sọ ⟨את⟩ wọn sí inú ohun-èlò àwọn olùṣọ́-àgùntàn tí ó rí, àti nínú àpò-ẹ̀wù rẹ̀, ìkọ̀ rẹ̀ sì wà lọ́wọ́ rẹ̀, ó sì sún mọ́ sí ọ̀dọ̀ Fulisití náà.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "sì mú"
+      "gloss": "ó sì gba"
     },
     {
       "surface": "מקלו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "בידו",
-      "gloss": "ní ọwọ́ rẹ̀"
+      "gloss": "lọ́wọ́ rẹ̀"
     },
     {
       "surface": "ויבחר",
-      "gloss": "sì yan"
+      "gloss": "ó sì yan"
     },
     {
       "surface": "לו",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "חלקי",
-      "gloss": "wá dídì"
+      "gloss": "dídàn"
     },
     {
       "surface": "אבנים",
-      "gloss": "ókúta"
+      "gloss": "àwọn ókúta"
     },
     {
       "surface": "מן",
@@ -49,16 +49,16 @@
     },
     {
       "surface": "וישם",
-      "gloss": "sì sọ"
+      "gloss": "ó sì sọ ... sí"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wọn (wá ókúta náà)"
+      "marks": "àwọn ókúta náà"
     },
     {
       "surface": "בכלי",
-      "gloss": "sínú àpò"
+      "gloss": "sí inú ohun-èlò"
     },
     {
       "surface": "הרעים",
@@ -70,33 +70,33 @@
     },
     {
       "surface": "לו",
-      "gloss": "ó ní"
+      "gloss": "ó rí"
     },
     {
       "surface": "ובילקוט",
-      "gloss": "àti nínú àpò kéékèké"
+      "gloss": "àti nínú àpò-ẹ̀wù rẹ̀"
     },
     {
       "surface": "וקלעו",
-      "gloss": "ìwọ̀n rẹ̀ sì"
+      "gloss": "ìkọ̀ rẹ̀ sì"
     },
     {
       "surface": "בידו",
-      "gloss": "ní ọwọ́ rẹ̀"
+      "gloss": "lọ́wọ́ rẹ̀"
     },
     {
       "surface": "ויגש",
-      "gloss": "sì sún mọ́"
+      "gloss": "ó sì sún mọ́"
     },
     {
       "surface": "אל",
-      "gloss": "sí"
+      "gloss": "sí ọ̀dọ̀"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "Pelishti náà"
+      "gloss": "Fulisití náà"
     }
   ],
-  "timestamp": "2026-08-23T00:51:15.255844235Z",
+  "timestamp": "2026-08-23T06:38:28.229423967Z",
   "model": "glm-5.3"
 }

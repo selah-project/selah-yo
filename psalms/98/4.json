@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 98,
-  "translation": "Ẹ gbé ohùn sókè fún Yahweh, gbogbo ilẹ̀ ayé; ẹ fo orin ayọ̀ sókè, ẹ kìlọ̀ fún ayọ̀, kí ẹ sì kọ orin ìyìn.",
+  "translation": "Kí ẹ gbé àriwísísẹ́ fún Yahweh, gbogbo ayé; ẹ yọjá kí ẹ sì kọrin Ayọ̀, kí ẹ sì dúró ṣe àṣeyọrí-orin.",
   "tokens": [
     {
       "surface": "הריעו",
-      "gloss": "Ẹ gbé ohùn sókè"
+      "gloss": "kí ẹ gbé àriwísísẹ́ fún"
     },
     {
       "surface": "ליהוה",
-      "gloss": "fún Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "כל",
@@ -21,14 +21,21 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ilẹ̀ ayé"
+      "gloss": "ayé"
     },
     {
-      "surface": "pitzchu-placeholder",
-      "gloss": "",
-      "ref": ""
+      "surface": "פצחו",
+      "gloss": "ẹ yọjá"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "kí ẹ sì kọrin Ayọ̀"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "kí ẹ sì dúró ṣe àṣeyọrí-orin"
     }
   ],
-  "timestamp": "2026-08-23T03:49:27.875072989Z",
+  "timestamp": "2026-08-23T06:44:42.557904419Z",
   "model": "glm-5.3"
 }

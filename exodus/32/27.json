@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 32,
-  "translation": "Ó sì wí fún wọn pé, Báyìí ni Yahweh, Elohim Israẹli, wí pé, Ẹ gba ìdá ọkùn yín sí etí ìkúnlẹ̀ yín, ẹ kọjá àti èyí tí ẹ padà láti ìbodè dé ìbodè láàrin ààfin náà, kí ẹ sì pa ọkùnrannya ⟨את⟩ ará rẹ̀, ọkùnrannya sì ⟨את》 ọ̀rẹ́ rẹ̀, ọkùnrannya sì ⟨את⟩ aládùúnpọ̀ rẹ̀.",
+  "translation": "Ó wí fún wọn pé, Bẹ́ẹ̀ ni Yahweh, Elohim Israẹli, ti wí: Kí ẹnikẹ́ni fi idà rẹ̀ sí ẹ̀gbẹ́ ìrun rẹ̀; ẹ kọjá, ẹ̀ padà, láti ọ̀nà-ìbodè dé ọ̀nà-ìbodè nínú ìpakọja náà, kí ọkùnrin kọ̀ọ̀kan pa ⟨את⟩ ará rẹ̀, ọkùnrin kọ̀ọ̀kan sì pa ⟨את⟩ ọ̀rẹ́ rẹ̀, ọkùnrin kọ̀ọ̀kan sì pa ⟨את⟩ ẹlẹ́gbẹ́ tó súnmọ́ rẹ̀.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ó sì wí"
+      "gloss": "Ó wí"
     },
     {
       "surface": "להם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "Báyìí ni"
+      "gloss": "Bẹ́ẹ̀ ni"
     },
     {
       "surface": "אמר",
-      "gloss": "wí"
+      "gloss": "ti wí"
     },
     {
       "surface": "יהוה",
@@ -32,28 +32,28 @@
       "gloss": "Elohim"
     },
     {
-      "surface": "ישראל",
+      "surface": "י שראל",
       "gloss": "Israẹli"
     },
     {
       "surface": "שימו",
-      "gloss": "Ẹ gba"
+      "gloss": "Kí … fi"
     },
     {
       "surface": "איש",
-      "gloss": "ọkùnrannya"
+      "gloss": "ẹnikẹ́ni"
     },
     {
       "surface": "חרבו",
-      "gloss": "ìdá ọkùn rẹ̀"
+      "gloss": "idà rẹ̀"
     },
     {
       "surface": "על",
-      "gloss": "sí etí"
+      "gloss": "sí"
     },
     {
       "surface": "ירכו",
-      "gloss": "ìkúnlẹ̀ rẹ̀"
+      "gloss": "ẹ̀gbẹ́ ìrun rẹ̀"
     },
     {
       "surface": "עברו",
@@ -61,27 +61,27 @@
     },
     {
       "surface": "ושובו",
-      "gloss": "àti èyí tí ẹ padà"
+      "gloss": "ẹ̀ padà"
     },
     {
       "surface": "משער",
-      "gloss": "láti ìbodè"
+      "gloss": "láti ọ̀nà-ìbodè"
     },
     {
       "surface": "לשער",
-      "gloss": "dé ìbodè"
+      "gloss": "dé ọ̀nà-ìbodè"
     },
     {
       "surface": "במחנה",
-      "gloss": "láàrin ààfin náà"
+      "gloss": "nínú ìpakọja náà"
     },
     {
       "surface": "והרגו",
-      "gloss": "kí ẹ sì pa"
+      "gloss": "kí … pa"
     },
     {
       "surface": "איש",
-      "gloss": "ọkùnrannya"
+      "gloss": "ọkùnrin kọ̀ọ̀kan"
     },
     {
       "surface": "את",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "ואיש",
-      "gloss": "ọkùnrannya sì"
+      "gloss": "ọkùnrin kọ̀ọ̀kan sì"
     },
     {
       "surface": "את",
@@ -107,18 +107,18 @@
     },
     {
       "surface": "ואיש",
-      "gloss": "ọkùnrannya sì"
+      "gloss": "ọkùnrin kọ̀ọ̀kan sì"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aládùúnpọ̀ rẹ̀"
+      "marks": "ẹlẹ́gbẹ́ tó súnmọ́ rẹ̀"
     },
     {
       "surface": "קרבו",
-      "gloss": "aládùúnpọ̀ rẹ̀"
+      "gloss": "ẹlẹ́gbẹ́ tó súnmọ́ rẹ̀"
     }
   ],
-  "timestamp": "2026-08-22T23:30:24.310433277Z",
+  "timestamp": "2026-08-23T06:47:49.577053429Z",
   "model": "glm-5.3"
 }

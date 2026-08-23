@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "yo",
   "chapter": 2,
-  "translation": "Yoav fúnni ní fèrè, gbogbo ènìyàn sì dúró; wọn kò tẹ̀lé Yisrael mọ́, wọn kò sì tún bẹ̀rẹ̀ ijà rárá.",
+  "translation": "Nígbà náà, Yoav fún ṣọ́fàrí, gbogbo àwọn ènìyàn dúró, wọn kò tèlé Israẹli mó, wọn kò fi kún láti ja ogun mó.",
   "tokens": [
     {
       "surface": "ויתקע",
-      "gloss": "fúnni ní fèrè"
+      "gloss": "fún"
     },
     {
       "surface": "יואב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בשופר",
-      "gloss": "ní fèrè"
+      "gloss": "ṣọ́fàrí"
     },
     {
       "surface": "ויעמדו",
@@ -29,41 +29,45 @@
     },
     {
       "surface": "העם",
-      "gloss": "ènìyàn"
-    },
-    {
-      "surface": "וירדפו",
-      "gloss": "wọn kò tẹ̀lé"
-    },
-    {
-      "surface": "עוד",
-      "gloss": "mọ́"
-    },
-    {
-      "surface": "אחרי",
-      "gloss": ""
-    },
-    {
-      "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "àwọn ènìyàn"
     },
     {
       "surface": "ולא",
-      "gloss": "wọn kò sì"
+      "gloss": "kò"
     },
     {
-      "surface": "יספו",
-      "gloss": "tún bẹ̀rẹ̀"
+      "surface": "ירדפו",
+      "gloss": "tèlé"
     },
     {
       "surface": "עוד",
-      "gloss": "rárá"
+      "gloss": "mó"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "fi kún"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mó"
     },
     {
       "surface": "להלחם",
-      "gloss": "ijà"
+      "gloss": "láti ja ogun"
     }
   ],
-  "timestamp": "2026-08-23T05:50:19.633632168Z",
+  "timestamp": "2026-08-23T06:38:24.018612675Z",
   "model": "glm-5.3"
 }

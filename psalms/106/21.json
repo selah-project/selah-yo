@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 106,
-  "translation": "Wọn gbagbọ́ Orúkọ El, Olùgbàlà wọn, padà, ẹni tí ó ṣe nń ṣe àwọn nń ń là láàárín ìṣẹ̀lẹ̀ pàtàkì ní ilẹ̀ Mitzrayim.",
-  "tokens": [],
-  "timestamp": "2026-08-23T03:50:56.474850485Z",
+  "translation": "Wọ́n gbaàgbon El Olùgbàlà wọn, Ẹni tí ó ṣe nńkan títóbi ní Mitzrayim,",
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "Wọ́n gbaàgbon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "Olùgbàlà wọn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ẹni tí ó ṣe"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "nnkan títóbi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ní Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T06:45:43.280810775Z",
   "model": "glm-5.3"
 }

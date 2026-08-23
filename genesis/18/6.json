@@ -5,11 +5,15 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 18,
-  "translation": "Avraham sì yaágara sí i sí inú àgọ́ náà sí ọ̀dọ̀ Sarah, ó sì wí pé: 'Yaágara; mu ⟨the⟩ ìwọ̀n ṣáà mẹ́ta síṣe, kí o sì kọ́ ọ́, kí o sì se àwọn àkàrà.'",
+  "translation": "Avraham sì yára ara rẹ lọ sí inú àga ìdílé sí ọ̀dọ̀ Sarah, ó sì wí pé: Yára ara rẹ; sía mẹta ti ẹ̀wà yíyan títù, kọ́ ọ́, kí o sì ṣe àkàrà.",
   "tokens": [
     {
+      "surface": "וירמהר...",
+      "gloss": ""
+    },
+    {
       "surface": "וימהר",
-      "gloss": "sì yaágara"
+      "gloss": "Avraham sì yára ara rẹ"
     },
     {
       "surface": "אברהם",
@@ -17,11 +21,11 @@
     },
     {
       "surface": "האהלה",
-      "gloss": "sí inú àgọ́ náà"
+      "gloss": "sí inú àga ìdílé"
     },
     {
       "surface": "אל",
-      "gloss": " sí ọ̀dọ̀"
+      "gloss": "sí ọ̀dọ̀"
     },
     {
       "surface": "שרה",
@@ -33,37 +37,37 @@
     },
     {
       "surface": "מהרי",
-      "gloss": "yaágara"
+      "gloss": "yára ara rẹ"
     },
     {
       "surface": "שלש",
-      "gloss": "mẹ́ta"
+      "gloss": "mẹta"
     },
     {
       "surface": "סאים",
-      "gloss": "ìwọ̀n ṣáà"
+      "gloss": "sía"
     },
     {
       "surface": "קמח",
-      "gloss": "síṣe"
+      "gloss": "ẹ̀wà yíyan"
     },
     {
       "surface": "סלת",
-      "gloss": " èèbù rẹ̀"
+      "gloss": "títù"
     },
     {
       "surface": "לושי",
-      "gloss": "kí o sì kọ́ ọ́"
+      "gloss": "kọ́ ọ́"
     },
     {
       "surface": "ועשי",
-      "gloss": "kí o sì se"
+      "gloss": "kí o sì ṣe"
     },
     {
       "surface": "עגות",
-      "gloss": "àwọn àkàrà"
+      "gloss": "àkàrà"
     }
   ],
-  "timestamp": "2026-08-22T22:59:10.581732078Z",
+  "timestamp": "2026-08-23T06:35:12.709745592Z",
   "model": "glm-5.3"
 }

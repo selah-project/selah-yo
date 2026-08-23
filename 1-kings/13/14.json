@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 13,
-  "translation": "Ó sì lọ lẹ́yìn ẹnìyàn Elohim náà, ó sì rí i tí ó ń jókòó abẹ́ ⟨the⟩ igi náà; ó sì wí fún un pé: Ṣé ìwọ ni ẹnìyàn Elohim tí ó wá láti Yehuda? Ó sì wí pé: Emi ni.",
+  "translation": "Ó sì lọ lẹ́yìn ẹni-Elohim, ó sì rí i jókòó ní abẹ́ ⟨elah⟩; ó sì wí fún un pé, Ṣé ìwọ ni ẹni-Elohim tí ó wá láti Yehudah? Ó sì wí pé, Èmi ni.",
   "tokens": [
     {
       "surface": "וילך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "ẹnìyàn"
+      "gloss": "ẹni"
     },
     {
       "surface": "האלהים",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "וימצאהו",
-      "gloss": "ó sì rí i"
+      "gloss": "Ó sì rí i"
     },
     {
       "surface": "ישב",
-      "gloss": "tó ń jókòó"
+      "gloss": "jókòó"
     },
     {
       "surface": "תחת",
-      "gloss": "abẹ́"
+      "gloss": "ní abẹ́"
     },
     {
       "surface": "האלה",
-      "gloss": "igi náà"
+      "gloss": "⟨elah⟩"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ó sì wí"
+      "gloss": "Ó sì wí"
     },
     {
       "surface": "אליו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "ẹnìyàn"
+      "gloss": "ẹni"
     },
     {
       "surface": "האלהים",
@@ -65,21 +65,21 @@
     },
     {
       "surface": "באת",
-      "gloss": "ìwọ tí ó wá"
+      "gloss": "ó wá"
     },
     {
       "surface": "מיהודה",
-      "gloss": "láti Yehuda"
+      "gloss": "láti Yehudah"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ó sì wí"
+      "gloss": "Ó sì wí"
     },
     {
       "surface": "אני",
-      "gloss": "Emi ni"
+      "gloss": "Èmi ni"
     }
   ],
-  "timestamp": "2026-08-23T05:52:51.061756084Z",
+  "timestamp": "2026-08-23T06:38:38.768988005Z",
   "model": "glm-5.3"
 }

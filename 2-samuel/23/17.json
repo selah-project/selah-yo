@@ -5,19 +5,19 @@
   "book": "2-samuel",
   "lang": "yo",
   "chapter": 23,
-  "translation": "Ó sì sọ pé: Kì y'ó ṣe é mí, Yahweh, láti ṣe èyí; ẹ̀jẹ̀ àwọn ọkùnrin wọnyì ni, àwọn tí ń rin pẹ̀lú èmí wọn; ò kọ̀ láti mú u. Àwọn wọnyì ni àwọn alágbára mẹ́ta ṣe.",
+  "translation": "Ó sọ pé: Kí ó jìnnà sí mi, Yahweh, láti ṣe èyí; ẹ̀jẹ̀ àwọn ọkùnrin tí ó fi ẹ̀mí wọn lélẹ̀ ni èyí; ó sì kọ̀ láti mú u wọ̀. Àwọn nǹkan wọnyí ni àwọn jagunjagun mẹ́ta ṣe.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ó sì sọ pé"
+      "gloss": "Ó sọ pé"
     },
     {
       "surface": "חלילה",
-      "gloss": "Kì y'ó ṣe é"
+      "gloss": "Kí ó jìnnà"
     },
     {
       "surface": "לי",
-      "gloss": "mí"
+      "gloss": "sí mi"
     },
     {
       "surface": "יהוה",
@@ -41,18 +41,41 @@
     },
     {
       "surface": "ההלכים",
-      "gloss": "tí ń rin"
+      "gloss": "tí ó fi ... lélẹ̀"
     },
     {
       "surface": "בנפשותם",
-      "gloss": "pẹ̀lú èmí wọn"
+      "gloss": "ẹ̀mí wọn"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "",
-      "note": "duplicate placeholder removed below"
+      "surface": "ולא",
+      "gloss": "ó sì kọ̀"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "kọ̀ sí"
+    },
+    {
+      "surface": "לשתותם",
+      "gloss": "láti mú u wọ̀"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn nǹkan wọnyí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wọ́n ṣe"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "àwọn jagunjagun"
     }
   ],
-  "timestamp": "2026-08-23T05:51:16.556524409Z",
+  "timestamp": "2026-08-23T06:38:30.628243609Z",
   "model": "glm-5.3"
 }

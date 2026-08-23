@@ -5,27 +5,23 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 27,
-  "translation": "Ẹ̀wùnáràndílógún àmọ̀nà ní ó wà ní ẹ̀gbẹ́ kọ̀ọ̀kan, pẹ̀lú àwọn òpó wọn mẹ́ta àti àwọn ipilẹ̀ wọn mẹ́ta.",
+  "translation": "Àwọn aṣọ ìdena ẹ̀sẹ̀ àádógún fún ẹ̀gbẹ́ kan, àwọn ẹ̀wọn wọn mẹ́ta, àti àwọn ìdí wọn mẹ́ta.",
   "tokens": [
     {
-      "surface": "ו",
-      "gloss": "àti"
-    },
-    {
-      "surface": "חמש",
-      "gloss": "àárún"
+      "surface": "וחמש",
+      "gloss": "Àti ... àádógún"
     },
     {
       "surface": "עשרה",
-      "gloss": "ẹ̀wá"
+      "gloss": "(àpapọ̀ mọ́ àádógún)"
     },
     {
       "surface": "אמה",
-      "gloss": "àmọ̀nà"
+      "gloss": "ẹ̀sẹ̀"
     },
     {
       "surface": "קלעים",
-      "gloss": "àwọn ẹ̀wùn"
+      "gloss": "àwọn aṣọ ìdena"
     },
     {
       "surface": "לכתף",
@@ -33,7 +29,7 @@
     },
     {
       "surface": "עמדיהם",
-      "gloss": "àwọn òpó wọn"
+      "gloss": "àwọn ẹ̀wọn wọn"
     },
     {
       "surface": "שלשה",
@@ -41,13 +37,13 @@
     },
     {
       "surface": "ואדניהם",
-      "gloss": "àti àwọn ipilẹ̀ wọn"
+      "gloss": "àti àwọn ìdí wọn"
     },
     {
       "surface": "שלשה",
       "gloss": "mẹ́ta"
     }
   ],
-  "timestamp": "2026-08-23T05:41:10.567397712Z",
+  "timestamp": "2026-08-23T06:35:37.507170956Z",
   "model": "glm-5.3"
 }

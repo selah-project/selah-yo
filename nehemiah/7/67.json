@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Àfi ọmọ-ọ̀dọ̀ wọn àti ọmọ-ọ̀dọ̀bìnrin wọn — àwọn wọnyí ni ẹgbàáaje, ọgọ́rún mẹ́ta, ọgbọ̀n àti méje; àti fún wọn ni àwọn olórin okùnrin àti obìnrin, ọgọ́rún méjì, ogójì àti márùn-ún.",
+  "translation": "Àfi àwọn ọmọ-ọ̀dọ̀kùnrin wọn àti àwọn ọmọ-ọ̀dọ̀bìnrin wọn — àwọn wọnyí ni ẹgbẹ̀rin lẹ́tà mèje, ọ̀kándélógún mẹ́ta, ẹ̀rìndínlógójì mèje; àti fún wọn ni àwọn akọrin okùnrin àti àwọn akọrin obìnrin, ọgọ́rùn-ún méjì, ẹ̀rìndínláàdọ́ta márùn-ún.",
   "tokens": [
     {
       "surface": "מלבד",
@@ -13,43 +13,39 @@
     },
     {
       "surface": "עבדיהם",
-      "gloss": "ọmọ-ọ̀dọ̀ wọn"
+      "gloss": "àwọn ọmọ-ọ̀dọ̀kùnrin wọn"
     },
     {
       "surface": "ואמהתיהם",
-      "gloss": "àti ọmọ-ọ̀dọ̀bìnrin wọn"
+      "gloss": "àti àwọn ọmọ-ọ̀dọ̀bìnrin wọn"
     },
     {
       "surface": "אלה",
-      "gloss": "àwọn wọnyí ni"
+      "gloss": "àwọn wọnyí"
     },
     {
       "surface": "שבעת",
-      "gloss": "mẹ́je"
-    },
-    {
-      "surface": "אלpים",
-      "gloss": "ẹgbàáa"
+      "gloss": "mèje"
     },
     {
       "surface": "אלפים",
-      "gloss": "ẹgbàáaje"
+      "gloss": "ẹgbẹ̀rin lẹ́tà"
     },
     {
       "surface": "שלש",
-      "gloss": "ẹ̀ta"
+      "gloss": "mẹ́ta"
     },
     {
       "surface": "מאות",
-      "gloss": "ọgọ́rún"
+      "gloss": "ọ̀kándélógún"
     },
     {
       "surface": "שלשים",
-      "gloss": "ọgbọ̀n"
+      "gloss": "ẹ̀rìndínlógójì"
     },
     {
       "surface": "ושבעה",
-      "gloss": "àti méje"
+      "gloss": "mèje"
     },
     {
       "surface": "ולהם",
@@ -57,25 +53,25 @@
     },
     {
       "surface": "משררים",
-      "gloss": "olórin okùnrin"
+      "gloss": "àwọn akọrin okùnrin"
     },
     {
       "surface": "ומשררות",
-      "gloss": "àti obìnrin"
+      "gloss": "àti àwọn akọrin obìnrin"
     },
     {
       "surface": "מאתים",
-      "gloss": "ọgọ́rún méjì"
+      "gloss": "ọgọ́rùn-ún méjì"
     },
     {
       "surface": "וארבעים",
-      "gloss": "àti ogójì"
+      "gloss": "ẹ̀rìndínláàdọ́ta"
     },
     {
       "surface": "וחמשה",
-      "gloss": "àti márùn-ún"
+      "gloss": "márùn-ún"
     }
   ],
-  "timestamp": "2026-08-23T05:04:51.541311244Z",
+  "timestamp": "2026-08-23T06:46:37.269422326Z",
   "model": "glm-5.3"
 }

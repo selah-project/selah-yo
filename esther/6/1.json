@@ -5,19 +5,19 @@
   "book": "esther",
   "lang": "yo",
   "chapter": 6,
-  "translation": "Ní ìrùlé yìí, orun Ọba fó ⟨is⟩ kúrò, ó sì sọ̀ pé kí wón ó mú ⟨את⟩ ìwé ìrántí, ìsọ̀rọ̀ àwọn ọjọ́, wá; wọ́n sì ka á níwájú Ọba.",
+  "translation": "Ní ọ̀sán-ní-kẹ̀jì ni orun Ọba sá ṣálẹ́, ó sì pè láti mú ⟨את⟩ ìwé ìrántí, ìtàn àwọn ọjọ́, wọ́n sì ń ka á níwájú Ọba.",
   "tokens": [
     {
       "surface": "בלילה",
-      "gloss": "Ní ìrùlé"
+      "gloss": "Ní ọ̀sán-ní-kẹ̀jì"
     },
     {
       "surface": "ההוא",
-      "gloss": "yìí"
+      "gloss": "yẹn"
     },
     {
       "surface": "נדדה",
-      "gloss": "fó"
+      "gloss": "sá ṣálẹ́"
     },
     {
       "surface": "שנת",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ó sì sọ̀"
+      "gloss": "ó sì pè"
     },
     {
       "surface": "להביא",
-      "gloss": "kí wón ó mú wá"
+      "gloss": "láti mú"
     },
     {
       "surface": "את",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "ìsọ̀rọ̀"
+      "gloss": "ìtàn"
     },
     {
       "surface": "הימים",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "wọ́n sì jẹ́"
+      "gloss": "wọ́n sì"
     },
     {
       "surface": "נקראים",
-      "gloss": "tí wọ́n ka"
+      "gloss": "ń ka"
     },
     {
       "surface": "לפני",
@@ -73,6 +73,6 @@
       "gloss": "Ọba"
     }
   ],
-  "timestamp": "2026-08-23T04:45:02.791562804Z",
+  "timestamp": "2026-08-23T06:46:29.732554587Z",
   "model": "glm-5.3"
 }

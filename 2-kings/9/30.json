@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 9,
-  "translation": "Yehu sì wá sí Yizreel, Izebel sì gbọ́, ó sì fi púkù sí ojú rẹ̀, ó sì tún ⟨את⟩ orí rẹ̀, ó sì kí láti inú ⟨the⟩ fèrèsé náà.",
+  "translation": "Yehu sì dé Yizreeli, Izebel sì gbọ́, ó sì fi púkọ́ ṣe ojú rẹ̀, ó sì tọ́ ⟨את⟩ orí rẹ̀, ó sì wo yálẹ̀ láti inú fèrèsé.",
   "tokens": [
     {
-      "surface": "ובוא",
-      "gloss": "Yehu sì wá"
+      "surface": "ויבוא",
+      "gloss": "sì dé"
     },
     {
       "surface": "יהוא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יזרעאלה",
-      "gloss": "sí Yizreel"
+      "gloss": "Yizreeli"
     },
     {
       "surface": "ואיזבל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ותשם",
-      "gloss": "ó sì fi"
+      "gloss": "ó sì fi ṣe"
     },
     {
       "surface": "בפוך",
-      "gloss": "púkù"
+      "gloss": "púkọ́"
     },
     {
       "surface": "עיניה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ותיטב",
-      "gloss": "ó sì tún"
+      "gloss": "ó sì tọ́"
     },
     {
       "surface": "את",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ותשקף",
-      "gloss": "ó sì kí"
+      "gloss": "ó sì wo yálẹ̀"
     },
     {
       "surface": "בעד",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "החלון",
-      "gloss": "fèrèsé náà"
+      "gloss": "fèrèsé"
     }
   ],
-  "timestamp": "2026-08-23T01:29:29.119177698Z",
+  "timestamp": "2026-08-23T06:51:02.494166851Z",
   "model": "glm-5.3"
 }

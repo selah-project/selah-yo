@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 39,
-  "translation": "Láti inú ⟨the⟩ tèkélétì àti árgámánì àti tólá'atìti ilẹ̀ kòkòrọ̀rán-àwọ̀ẹ̀lẹ́gbẹ́, wọ́n ṣe aṣọ̀ iṣẹ́-ìsìn láti fi ṣiṣẹ́ ní ààyè mímọ́; wọ́n sì ṣe ⟨את⟩ aṣọ̀ mímọ́ tí ó jẹ́ ti Aharon, gẹ́gẹ́ bí Yahweh ti pa Moshe lọ́wọ́.",
+  "translation": "Wọ́n sì ṣe láti inú awo blue, àti awo pupa-àrógún-àlùbọ̀sà, àti scarlet láti inú kòkòrò-yèyin: aṣọ iṣẹ́ ìranṣẹ́ fún ìjọsìn níhìn-ín mímọ́; wọ́n sì ṣe ⟨את⟩ aṣọ mímọ́ tí ó jẹ́ ti Aharon, gẹ́gẹ́ bí Yahweh ti pa Moshe lẹ́ṣẹ́.",
   "tokens": [
     {
       "surface": "ומן",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "התכלת",
-      "gloss": "tèkélétì náà"
+      "gloss": "awo blue"
     },
     {
       "surface": "והארגמן",
-      "gloss": "àti árgámánì"
+      "gloss": "àti awo pupa-àrógún"
     },
     {
       "surface": "ותולעת",
-      "gloss": "àti tólá'atì"
+      "gloss": "àti kòkòrò-yèyin"
     },
     {
       "surface": "השני",
-      "gloss": "kòkòrọ̀rán-àwọ̀ẹ̀lẹ́gbẹ́ náà"
+      "gloss": "scarlet"
     },
     {
       "surface": "עשו",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "בגדי",
-      "gloss": "aṣọ̀"
+      "gloss": "aṣọ"
     },
     {
       "surface": "שרד",
-      "gloss": "iṣẹ́-ìsìn"
+      "gloss": "iṣẹ́ ìranṣẹ́"
     },
     {
       "surface": "לשרת",
-      "gloss": "láti fi ṣiṣẹ́"
+      "gloss": "fún ìjọsìn"
     },
     {
       "surface": "בקדש",
-      "gloss": "ní ààyè mímọ́"
+      "gloss": "níhìn-ín mímọ́"
     },
     {
       "surface": "ויעשו",
@@ -54,15 +54,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aṣọ̀ mímọ́"
+      "marks": "aṣọ mímọ́"
     },
     {
       "surface": "בגדי",
-      "gloss": "aṣọ̀"
+      "gloss": "aṣọ"
     },
     {
       "surface": "הקדש",
-      "gloss": "mímọ́ náà"
+      "gloss": "mímọ́"
     },
     {
       "surface": "אשר",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ti pa lọ́wọ́"
+      "gloss": "ti pa lẹ́ṣẹ́"
     },
     {
       "surface": "יהוה",
@@ -94,6 +94,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-22T23:32:47.535555510Z",
+  "timestamp": "2026-08-23T06:35:45.093360950Z",
   "model": "glm-5.3"
 }

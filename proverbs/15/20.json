@@ -5,23 +5,19 @@
   "book": "proverbs",
   "lang": "yo",
   "chapter": 15,
-  "translation": "Ọmọ olọgbọ́n máa ń ṣe baba dùnún lọ́kàn, ṣùgbọ́n ènìyàn ọmọ-àìgbọ́n máa ń fi ìyà àìpẹ́ hàn.",
+  "translation": "Ọmọkunrin ọgbọ́n sọ baba dúndún; ṣùgbọ́n ènìyàn ọ̀ránjú nu ìyá rẹ̀ ṣọ́.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "Ọmọ"
+      "gloss": "Ọmọkunrin"
     },
     {
       "surface": "חכם",
-      "gloss": "olọgbọ́n"
-    },
-    {
-      "surface": "ìyà",
-      "gloss": ""
+      "gloss": "ọgbọ́n"
     },
     {
       "surface": "ישמח",
-      "gloss": "ṣe... dùnún lọ́kàn"
+      "gloss": "sọ dúndún"
     },
     {
       "surface": "אב",
@@ -29,21 +25,21 @@
     },
     {
       "surface": "וכסיל",
-      "gloss": "ọmọ-àìgbọ́n"
+      "gloss": "ṣùgbọ́n ọ̀ránjú"
     },
     {
       "surface": "אדם",
-      "gloss": "ènyàn"
+      "gloss": "ènìyàn"
     },
     {
       "surface": "בוזה",
-      "gloss": "fi ìyà àìpẹ́ hàn"
+      "gloss": "nu... ṣọ́"
     },
     {
       "surface": "אמו",
       "gloss": "ìyá rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T04:08:20.149863145Z",
+  "timestamp": "2026-08-23T06:45:50.657511703Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "yo",
   "chapter": 26,
-  "translation": "Nígbà tí ó bá fọ́ ọ̀rọ̀ rẹ̀ dídùn láìgbàgbọ́ nínú rẹ̀, nítorí pé ìkọ̀ríra méje ⟨is⟩ nínú ọkàn rẹ̀.",
+  "translation": "Nígbà tí ó bá ṣe ohùn rẹ̀ ní àánú, má ṣe gba ọgbọ́n; nítorí pé ìkórìira méje ⟨wà⟩ nínú ọkàn rẹ̀.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "nítorí pé"
+      "gloss": "nígbà tí"
     },
     {
       "surface": "יחנן",
-      "gloss": "ó bá fọ́ ọ̀rọ̀ rẹ̀ dídùn"
+      "gloss": "ó bá ṣe ní àánú"
     },
     {
       "surface": "קולו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "láì"
+      "gloss": "má ṣe"
     },
     {
       "surface": "תאמן",
-      "gloss": "ìgbàgbọ́"
+      "gloss": "gba ọgbọ́n"
     },
     {
       "surface": "בו",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "תועבות",
-      "gloss": "ìkọ̀ríra"
+      "gloss": "ìkórìira"
     },
     {
       "surface": "בלבו",
       "gloss": "nínú ọkàn rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T06:08:14.467217082Z",
+  "timestamp": "2026-08-23T06:45:29.957192470Z",
   "model": "glm-5.3"
 }

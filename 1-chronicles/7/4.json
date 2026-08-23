@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Àti pẹ̀lú wọn, ní ìròyìn-ìbí wọn, fún <ilé> àwọn baba wọn: àwọn ẹgbẹ́-ogun <fún> ijà-ògún, ẹgbẹ̀rún mọ́kànlélógbọ̀n; nítorí wọn pọ̀ <ní> àwọn obìrin àti àwọn ọmọ.",
+  "translation": "Àti pẹ̀lú wọn, ní àwọn ìràn tí wọ́n bí, ní ilé àwọn baba wọn, àwọn ẹgbẹ́-ológun tí ó ń jagun: ẹ̀rìndínlógún-ẹ̀ta ẹgbẹ̀rún —nítorí pé wọ́n pọ̀ ní àwọn obìrin àti àwọn ọmọ.",
   "tokens": [
     {
       "surface": "ועליהם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לתלדותם",
-      "gloss": "ní ìròyìn-ìbí wọn"
+      "gloss": "ní àwọn ìràn tí wọ́n bí"
     },
     {
       "surface": "לבית",
-      "gloss": "fún <ilé>"
+      "gloss": "ní ilé"
     },
     {
       "surface": "אבותם",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "גדודי",
-      "gloss": "àwọn ẹgbẹ́-ogun"
+      "gloss": "àwọn ẹgbẹ́-ológun"
     },
     {
       "surface": "צבא",
-      "gloss": "ogun"
+      "gloss": "ológun"
     },
     {
       "surface": "מלחמה",
-      "gloss": "ijà-ògún"
+      "gloss": "tí ó ń jagun"
     },
     {
       "surface": "שלשים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "וששה",
-      "gloss": "àti mẹ́fà"
+      "gloss": "àti ẹ̀fà"
     },
     {
       "surface": "אלף",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "nítorí"
+      "gloss": "nítorí pé"
     },
     {
       "surface": "הרבו",
-      "gloss": "wọn pọ̀"
+      "gloss": "wọ́n pọ̀"
     },
     {
       "surface": "נשים",
@@ -64,6 +64,6 @@
       "gloss": "àti àwọn ọmọ"
     }
   ],
-  "timestamp": "2026-08-23T05:11:34.160366924Z",
+  "timestamp": "2026-08-23T06:47:09.144860839Z",
   "model": "glm-5.3"
 }

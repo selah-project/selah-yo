@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 10,
-  "translation": "Moshe naa te ọpa rẹ̀ sí orílẹ̀-de Mitzrayim, and Yahweh fi afẹ́fẹ́ ìla-oòrùn lọ sórí ilẹ̀ gbogbo ọjọ́ náà àti gbogbo òru náà; àárọ̀ tí ó dá wa, afẹ́fẹ́ ìla-oòrùn náà sì gbé ⟨את⟩ ẹyẹ ìdẹ náà.",
+  "translation": "Moshe sì gún ⟨את⟩ ọ̀pá rẹ̀ sórí ilẹ̀ Mitsrajim; Yahweh sì mú afẹ́fẹ́ ìlà-oòrùn wọ ilẹ̀ náà ní gbogbo ọjọ́ yẹn àti gbogbo òru náà; ó di àárọ̀; afẹ́fẹ́ ìlà-oòrùn náà sì gbé ⟨את⟩ tàtà náà sókè.",
   "tokens": [
     {
       "surface": "ויט",
-      "gloss": "naa te sí"
+      "gloss": "sì gún"
     },
     {
       "surface": "משה",
@@ -18,31 +18,31 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọpa rẹ̀"
+      "marks": "ọ̀pá rẹ̀"
     },
     {
       "surface": "מטהו",
-      "gloss": "ọpa rẹ̀"
+      "gloss": "ọ̀pá rẹ̀"
     },
     {
       "surface": "על",
-      "gloss": "sórí"
+      "gloss": "sóri"
     },
     {
       "surface": "ארץ",
-      "gloss": "orílẹ̀-de"
+      "gloss": "ilẹ̀"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitzrayim"
+      "gloss": "Mitsrajim"
     },
     {
       "surface": "ויהוה",
-      "gloss": "and Yahweh"
+      "gloss": "Yahweh sì"
     },
     {
       "surface": "נהג",
-      "gloss": "fi ... lọ"
+      "gloss": "mú … wọ"
     },
     {
       "surface": "רוח",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "קדים",
-      "gloss": "ìla-oòrùn"
+      "gloss": "ìlà-oòrùn"
     },
     {
       "surface": "בארץ",
-      "gloss": "sórí ilẹ̀"
+      "gloss": "wọ ilẹ̀ náà"
     },
     {
       "surface": "כל",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "היום",
-      "gloss": "ọjọ́ náà"
+      "gloss": "ọjọ́"
     },
     {
       "surface": "ההוא",
-      "gloss": "náà"
+      "gloss": "yẹn"
     },
     {
       "surface": "וכל",
@@ -82,30 +82,30 @@
     },
     {
       "surface": "היה",
-      "gloss": "dá wa"
+      "gloss": "ó di"
     },
     {
       "surface": "ורוח",
-      "gloss": "and afẹ́fẹ́"
+      "gloss": "afẹ́fẹ́ sì"
     },
     {
       "surface": "הקדים",
-      "gloss": "ìla-oòrùn náà"
+      "gloss": "ìlà-oòrùn náà"
     },
     {
       "surface": "נשא",
-      "gloss": "gbé"
+      "gloss": "gbé … sókè"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ẹyẹ ìdẹ náà"
+      "marks": "tàtà náà"
     },
     {
       "surface": "הארבה",
-      "gloss": "ẹyẹ ìdẹ náà"
+      "gloss": "tàtà náà"
     }
   ],
-  "timestamp": "2026-08-22T23:18:46.488985929Z",
+  "timestamp": "2026-08-23T06:35:24.831687538Z",
   "model": "glm-5.3"
 }

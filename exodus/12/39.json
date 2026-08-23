@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 12,
-  "translation": "Wọ́n sì se ⟨את⟩ ìdìídì tí wọ́n mú jáde láti Mísraím ní àwọn àkàrà àìgbé, nítorí pé kò gbé; nítorí pé wọ́n lé wọn jáde láti Mísraím, wọ́n sì kò lè dá dúró, oúnjẹ ìrìn-àjò sì ni wọ́n kò ṣe sílẹ̀ fún ara wọn.",
+  "translation": "Wọ́n sì sè ⟨את⟩ àgbará tí wọ́n mú jáde kúrò ní Mitzrayim, di àwọn ìrèsì-àì-ṣe-ókà máàlùù, nítorí pé ó kì í ṣe ókà-ṣeé-gbé; nítorí pé a lé wọn jáde kúrò ní Mitzrayim, wọn kò sì lè dá dúró, wọn kò sì ṣe oúnjẹ ìrìnà fún ara wọn.",
   "tokens": [
     {
       "surface": "ויאפו",
-      "gloss": "sì se (bákẹ̀)"
+      "gloss": "Wọ́n sì sè"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìdìídì"
+      "marks": "àgbará"
     },
     {
       "surface": "הבצק",
-      "gloss": "⟨the⟩ ìdìídì"
+      "gloss": "àgbará"
     },
     {
       "surface": "אשר",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "ממצרים",
-      "gloss": "láti Mísraím"
+      "gloss": "kúrò ní Mitzrayim"
     },
     {
       "surface": "עגת",
-      "gloss": "àwọn àkàrà"
+      "gloss": "di àwọn ìrèsì-àì-ṣe-ókà"
     },
     {
       "surface": "מצות",
-      "gloss": "àìgbé"
+      "gloss": "máàlùù"
     },
     {
       "surface": "כי",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "kò"
+      "gloss": "kì í ṣe"
     },
     {
       "surface": "חמץ",
-      "gloss": "gbé (dùn bí ìṣu)"
+      "gloss": "ókà-ṣeé-gbé"
     },
     {
       "surface": "כי",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "גרשו",
-      "gloss": "wọ́n lé wọn jáde"
+      "gloss": "a lé wọn jáde"
     },
     {
       "surface": "ממצרים",
-      "gloss": "láti Mísraím"
+      "gloss": "kúrò ní Mitzrayim"
     },
     {
       "surface": "ולא",
-      "gloss": "sì kò"
+      "gloss": "wọn kò sì"
     },
     {
       "surface": "יכלו",
@@ -74,15 +74,15 @@
     },
     {
       "surface": "להתמהמה",
-      "gloss": "dá dúró (dàkúndùn)"
+      "gloss": "dá dúró"
     },
     {
       "surface": "וגם",
-      "gloss": "sì (àti pẹ̀lú)"
+      "gloss": "sì"
     },
     {
       "surface": "צדה",
-      "gloss": "oúnjẹ ìrìn-àjò"
+      "gloss": "oúnjẹ ìrìnà"
     },
     {
       "surface": "לא",
@@ -97,6 +97,6 @@
       "gloss": "fún ara wọn"
     }
   ],
-  "timestamp": "2026-08-22T23:19:28.867622457Z",
+  "timestamp": "2026-08-23T06:34:28.390543847Z",
   "model": "glm-5.3"
 }

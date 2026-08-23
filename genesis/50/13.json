@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 50,
-  "translation": "Àwọn ọmọ rẹ̀ sì gbé e lọ sí ilẹ̀ Kenaan, wọ́n sì sin ⟨את⟩ í sínú ihó òkúta ní pápá Machpelah, èyítí Avraham rà ⟨את⟩ ⟨the⟩ pápá náà fún ìní ìsínmọ́tọ́, láti ọ̀dọ̀ ⟨את⟩ Efronu ti Heti, níwájú Mamre.",
+  "translation": "Àwọn ọmọ rẹ̀ sì gbé e lọ sí ilẹ̀ Kenaan, wọ́n sì sin í sínú iho àpáta ní pápá haMakhpelah, tí Avraham rà ⟨את⟩ pápá náà láti di ohun-ìní fún ìsìnìkú lọ́wọ́ ⟨את⟩ Efroni ti Heti, níwájú Mamre.",
   "tokens": [
     {
       "surface": "וישאו",
-      "gloss": "wọ́n sì gbé e lọ"
+      "gloss": "wọ́n sì gbé… lọ"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ì (é)"
+      "marks": "e (i.e. wọ́n gbé e)"
     },
     {
       "surface": "בניו",
@@ -30,27 +30,28 @@
     },
     {
       "surface": "ויקברו",
-      "gloss": "wọ́n sì sin í"
+      "gloss": "wọ́n sì sin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ í"
+      "gloss": "⟨את⟩",
+      "marks": "í (i.e. wọ́n sin í)"
     },
     {
       "surface": "במערת",
-      "gloss": "sínú ihó òkúta ní"
+      "gloss": "sínú iho àpáta"
     },
     {
       "surface": "שדה",
-      "gloss": "pápá"
+      "gloss": "ní pápá"
     },
     {
       "surface": "המכפלה",
-      "gloss": "Machpelah"
+      "gloss": "haMakhpelah"
     },
     {
       "surface": "אשר",
-      "gloss": "èyítí"
+      "gloss": "tí"
     },
     {
       "surface": "קנה",
@@ -63,28 +64,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ pápá náà"
+      "marks": "pápá náà"
     },
     {
       "surface": "השדה",
-      "gloss": "⟨the⟩ pápá náà"
+      "gloss": "pápá náà"
     },
     {
       "surface": "לאחזת",
-      "gloss": "fún ìní ìsínmọ́tọ́"
+      "gloss": "láti di ohun-ìní"
     },
     {
       "surface": "קבר",
-      "gloss": "ìsínmọ́tọ́"
+      "gloss": "fún ìsìnìkú"
     },
     {
       "surface": "מאת",
-      "gloss": "láti ọ̀dọ̀ ⟨את⟩",
-      "marks": "Efronu ti Heti"
+      "gloss": "lọ́wọ́ ⟨את⟩"
     },
     {
       "surface": "עפרן",
-      "gloss": "Efronu"
+      "gloss": "Efroni"
     },
     {
       "surface": "החתי",
@@ -96,13 +96,13 @@
     },
     {
       "surface": "פני",
-      "gloss": "wájú"
+      "gloss": "íwájú"
     },
     {
       "surface": "ממרא",
       "gloss": "Mamre"
     }
   ],
-  "timestamp": "2026-08-22T23:15:14.403113082Z",
+  "timestamp": "2026-08-23T06:34:32.677361470Z",
   "model": "glm-5.3"
 }

@@ -5,49 +5,49 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 25,
-  "translation": "⟨את⟩ èso tí ó so fúnra rẹ láti inú ikọ̀rẹ̀ rẹ, iwọ kò ní kọ́ré, àti ⟨את⟩ ẹ̀so ọ̀tín ti igi rẹ̀ tí ó ṣe àìgbin, iwọ kò ní kó: ọdún ìsinmi níí bẹ́ fún ⟨the⟩ ilẹ̀ náà.",
+  "translation": "⟨את⟩ ohun tí ó ń gbọ́ láti ara rẹ̀ nínú ikɔ̀rẹ̀ rẹ kì í ṣe ìwọ lá kọ́, àti ⟨את⟩ àwọn èso ọ̀gàn rẹ kì í ṣe ìwọ lá kọ́; ọdún ìsinmi-nlá ni yóò jẹ́ fún ilẹ̀ náà.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "èso tí ó so fúnra rẹ"
+      "marks": "ohun tí ó ń gbọ́ láti ara rẹ̀ (ẹ̀fọ́ tí ó farapamọ́)"
     },
     {
       "surface": "ספיח",
-      "gloss": "èso tí ó so fúnra rẹ"
+      "gloss": "ohun tí ó ń gbọ́ láti ara rẹ̀"
     },
     {
       "surface": "קצירך",
-      "gloss": "ikọ̀rẹ̀ rẹ"
+      "gloss": "ikɔ̀rẹ̀ rẹ"
     },
     {
       "surface": "לא",
-      "gloss": "kò"
+      "gloss": "kì í ṣe"
     },
     {
       "surface": "תקצור",
-      "gloss": "ní kọ́ré"
+      "gloss": "ìwọ lá kọ́"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ẹ̀so ọ̀tín"
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn èso ọ̀gàn rẹ"
     },
     {
       "surface": "ענבי",
-      "gloss": "ẹ̀so ọ̀tín"
+      "gloss": "àwọn èso"
     },
     {
       "surface": "נזירך",
-      "gloss": "ti ó ṣe àìgbin"
+      "gloss": "ọ̀gàn rẹ"
     },
     {
       "surface": "לא",
-      "gloss": "kò"
+      "gloss": "kì í ṣe"
     },
     {
       "surface": "תבצר",
-      "gloss": "ní kó"
+      "gloss": "ìwọ lá kọ́"
     },
     {
       "surface": "שנת",
@@ -55,17 +55,17 @@
     },
     {
       "surface": "שבתון",
-      "gloss": "ìsinmi"
+      "gloss": "ìsinmi-nlá"
     },
     {
       "surface": "יהיה",
-      "gloss": "níí bẹ́"
+      "gloss": "yóò jẹ́"
     },
     {
       "surface": "לארץ",
       "gloss": "fún ilẹ̀ náà"
     }
   ],
-  "timestamp": "2026-08-22T23:45:54.340448449Z",
+  "timestamp": "2026-08-23T06:36:40.096393548Z",
   "model": "glm-5.3"
 }

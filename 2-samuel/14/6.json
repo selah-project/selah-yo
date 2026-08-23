@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "yo",
   "chapter": 14,
-  "translation": "Ẹrú rẹ̀ sírì ní ọmọ méjì, wọ́n sì jíjà kọ ara wọn lọ́wọ́ ní pápá, láì sí ẹni tí ó gbà wọ́n sálẹ̀ láàárín wọn; ọ̀kan sì lu ọ̀kan ⟨את⟩, ó sì pa á.",
+  "translation": "Sí èrù ìránṣẹ́ rẹ, ọmọkùnrin méjì wà; wọ́n méjéèjì takora nínú pápá, kò sì wà́ ẹni tí ó gbà wọ́n sọ́tọ̀ láàárín wọn; ọ̀kan sì lu ⟨את⟩ ọ̀kan, ó sì pa á.",
   "tokens": [
     {
       "surface": "ולשפחתך",
-      "gloss": "Ẹrú rẹ̀ sírì"
+      "gloss": "sí èrù ìránṣẹ́ rẹ"
     },
     {
       "surface": "שני",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "בנים",
-      "gloss": "ọmọ"
+      "gloss": "ọmọkùnrin"
     },
     {
       "surface": "וינצו",
-      "gloss": "wọ́n jíjà kọ ara wọn lọ́wọ́"
+      "gloss": "wọ́n takora"
     },
     {
       "surface": "שניהם",
-      "gloss": "wọ́n méjèèjì"
+      "gloss": "wọn méjéèjì"
     },
     {
       "surface": "בשדה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ואין",
-      "gloss": "láì sí"
+      "gloss": "kò sì wà́"
     },
     {
       "surface": "מציל",
-      "gloss": "ẹni tí ó gbà wọ́n sálẹ̀"
+      "gloss": "ẹni gbàlà"
     },
     {
       "surface": "ביניהם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ויכו",
-      "gloss": "sì lu"
+      "gloss": "ọ̀kan sì lu"
     },
     {
       "surface": "האחד",
@@ -62,9 +62,14 @@
     },
     {
       "surface": "וימת",
-      "gloss": "sì pa á"
+      "gloss": "ó sì pa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ó",
+      "marks": "ẹni tí ó kú"
     }
   ],
-  "timestamp": "2026-08-23T01:02:25.940751647Z",
+  "timestamp": "2026-08-23T06:38:55.873423275Z",
   "model": "glm-5.3"
 }

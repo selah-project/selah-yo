@@ -5,47 +5,47 @@
   "book": "2-chronicles",
   "lang": "yo",
   "chapter": 13,
-  "translation": "Wọ́n ń sun àgbànbọ́ ọrùn fún Yahweh, àárọ̀ l'àárọ̀ àti iṣẹ́lẹ̀ ní iṣẹ́lẹ̀, wọ́n sì ń sun ìròsùn èròjà ohun-ùtọ̀, wọ́n ń ṣèjú búrẹ́dì lórí ⟨the⟩ tábìlì mímọ́, àti jánpánán wúrà pẹ̀lú àtẹ mọ́lẹ̀ rẹ̀ láti jọ́ ní iṣẹ́lẹ̀ ní iṣẹ́lẹ̀; nítorí tí àwa ń ṣọ́ ⟨את⟩ ìṣọ́ Yahweh Elohim wa, ẹ̀yin sì fi ⟨את⟩ Òun sílẹ̀.",
+  "translation": "Wọ́n sì ń sun ⟨את⟩ ẹbùn yán-yán sí Yahweh, àárọ̀ lọ́jọ́, àárọ̀ lọ́jọ́, àti iṣẹ́lẹ̀ lọ́jọ́, iṣẹ́lẹ̀ lọ́jọ́; àti ẹrọ̀dídán èèrù líle, àti ìtẹ̀-dí búrẹ́dì lórí tábìlì mímọ́ náà; àti ṣàfẹ́fẹ́ dé góòlù àti fìtiàn rẹ̀, láti jíná lọ́jọ́ iṣẹ́lẹ̀ lọ́jọ́; nítorí à ń pa ⟨את⟩ ìṣọ́ Yahweh Elohim wa mọ́, ẹ̀yin sì ti fi ⟨את⟩ Òun sílẹ̀.",
   "tokens": [
     {
       "surface": "ומקטרים",
-      "gloss": "wọ́n ń sun"
+      "gloss": "ń sun iná ẹbùn"
     },
     {
       "surface": "ליהוה",
-      "gloss": "fún Yahweh"
+      "gloss": "sí Yahweh"
     },
     {
       "surface": "עלות",
-      "gloss": "àgbànbọ́ ọrùn"
+      "gloss": "ẹbùn yán-yán"
     },
     {
       "surface": "בבקר",
-      "gloss": "àárọ̀ l'"
+      "gloss": "àárọ̀ lọ́jọ́"
     },
     {
       "surface": "בבקר",
-      "gloss": "àárọ̀"
+      "gloss": "àárọ̀ lọ́jọ́"
     },
     {
       "surface": "ובערב",
-      "gloss": "àti iṣẹ́lẹ̀ ní"
+      "gloss": "àti iṣẹ́lẹ̀ lọ́jọ́"
     },
     {
       "surface": "בערב",
-      "gloss": "iṣẹ́lẹ̀"
+      "gloss": "iṣẹ́lẹ̀ lọ́jọ́"
     },
     {
       "surface": "וקטרת",
-      "gloss": "wọ́n sì ń sun ìròsùn"
+      "gloss": "àti ẹrọ̀dídán"
     },
     {
       "surface": "סמים",
-      "gloss": "èròjà ohun-ùtọ̀"
+      "gloss": "èèrù líle"
     },
     {
       "surface": "ומערכת",
-      "gloss": "wọ́n ń ṣèjú"
+      "gloss": "àti ìtẹ̀-dí"
     },
     {
       "surface": "לחם",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "השלחן",
-      "gloss": "tábìlì"
+      "gloss": "tábìlì náà"
     },
     {
       "surface": "הטהור",
@@ -65,39 +65,39 @@
     },
     {
       "surface": "ומנורת",
-      "gloss": "àti jánpánán"
+      "gloss": "àti ṣàfẹ́fẹ́ dé"
     },
     {
       "surface": "הזהב",
-      "gloss": "wúrà"
+      "gloss": "góòlù"
     },
     {
       "surface": "ונרתיה",
-      "gloss": "pẹ̀lú àtẹ mọ́lẹ̀ rẹ̀"
+      "gloss": "àti fìtiàn rẹ̀"
     },
     {
       "surface": "לבער",
-      "gloss": "láti jọ́"
+      "gloss": "láti jíná"
     },
     {
       "surface": "בערב",
-      "gloss": "iṣẹ́lẹ̀ ní"
+      "gloss": "iṣẹ́lẹ̀ lọ́jọ́"
     },
     {
       "surface": "בערב",
-      "gloss": "iṣẹ́lẹ̀"
+      "gloss": "iṣẹ́lẹ̀ lọ́jọ́"
     },
     {
       "surface": "כי",
-      "gloss": "nítorí tí"
+      "gloss": "nítorí"
     },
     {
       "surface": "שמרים",
-      "gloss": "ń ṣọ́"
+      "gloss": "ń pa mọ́"
     },
     {
       "surface": "אנחנו",
-      "gloss": "àwa"
+      "gloss": "à"
     },
     {
       "surface": "את",
@@ -122,13 +122,14 @@
     },
     {
       "surface": "עזבתם",
-      "gloss": "fi sílẹ̀"
+      "gloss": "ti fi sílẹ̀"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ Òun"
+      "gloss": "⟨את⟩ Òun",
+      "marks": "Òun (Yahweh)"
     }
   ],
-  "timestamp": "2026-08-23T05:29:25.310445786Z",
+  "timestamp": "2026-08-23T06:47:06.287869277Z",
   "model": "glm-5.3"
 }

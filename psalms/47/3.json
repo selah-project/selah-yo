@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 47,
-  "translation": "Nítorí Yahweh, El Elyon, jẹ́ ẹni tí wọ́n ń bẹ̀rù; ọba tó tóbi lórí ⟨the⟩ ayé gbogbo.",
+  "translation": "Nítorí pé Yahweh, El Elyon, jẹ́ Ẹni tí ó bani lẹ́rù, Ọba tó gbọ́n lórí gbogbo ayé.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "nítorí"
+      "gloss": "nítorí pé"
     },
     {
       "surface": "יהוה",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "עליון",
-      "gloss": "El Elyon (Ègbẹ́-Òkè)"
+      "gloss": "El Elyon"
     },
     {
       "surface": "נורא",
-      "gloss": "ẹni tí wọ́n ń bẹ̀rù"
+      "gloss": "Ẹni tí ó bani lẹ́rù"
     },
     {
       "surface": "מלך",
-      "gloss": "ọba"
+      "gloss": "Ọba"
     },
     {
       "surface": "גדול",
-      "gloss": "tó tóbi"
+      "gloss": "tó gbọ́n"
     },
     {
       "surface": "על",
@@ -44,6 +44,6 @@
       "gloss": "ayé"
     }
   ],
-  "timestamp": "2026-08-23T03:34:51.747248742Z",
+  "timestamp": "2026-08-23T06:44:03.171188897Z",
   "model": "glm-5.3"
 }

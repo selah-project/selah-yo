@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "yo",
   "chapter": 27,
-  "translation": "Lẹ́yìn Ahitofel, Yehoyada ọmọ Benaya àti Evyatar; Joab sì ni olórí ogun ⟨the⟩ ọba.",
+  "translation": "Lẹ́yìn Ahitofel, Yehoyada ọmọ Benaya àti Evyatar; Joab sì ni olórí ogun ọba.",
   "tokens": [
     {
       "surface": "ואחרי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ושר",
-      "gloss": "olórí"
+      "gloss": "sì olórí"
     },
     {
       "surface": "צבא",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "למלך",
-      "gloss": "⟨the⟩ ọba"
+      "gloss": "ọba"
     },
     {
       "surface": "יואב",
       "gloss": "Joab"
     }
   ],
-  "timestamp": "2026-08-23T05:20:00.860403077Z",
+  "timestamp": "2026-08-23T06:46:39.402925043Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "yo",
   "chapter": 8,
-  "translation": "Olọrọ̀ àti ọlá ⟨is⟩ pẹ̀lú mi ⟨את⟩; ọrọ̀ tí ó gbẹ́yìn títí àti ẹ̀tọ́.",
+  "translation": "Orọ̀ àti ọlá wà pẹ̀lú mi ⟨את⟩; ọrọ̀ àtijọ́ tí ó gbajúmọ̀ àti ẹ̀tọ́.",
   "tokens": [
     {
       "surface": "עשר",
-      "gloss": "Olọrọ̀"
+      "gloss": "Orọ̀"
     },
     {
       "surface": "וכבוד",
@@ -17,8 +17,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ pẹ̀lú mi",
-      "marks": "pẹ̀lú mi"
+      "gloss": "⟨את⟩",
+      "marks": "pẹ̀lú mi (orọ̀ àti ọlá)"
     },
     {
       "surface": "הון",
@@ -26,13 +26,13 @@
     },
     {
       "surface": "עתק",
-      "gloss": "tí ó gbẹ́yìn títí"
+      "gloss": "àtijọ́ tí ó gbajúmọ̀"
     },
     {
       "surface": "וצדקה",
       "gloss": "àti ẹ̀tọ́"
     }
   ],
-  "timestamp": "2026-08-23T04:05:18.302978521Z",
+  "timestamp": "2026-08-23T06:45:29.613743707Z",
   "model": "glm-5.3"
 }

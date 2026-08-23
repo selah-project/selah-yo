@@ -5,58 +5,58 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Àwọn olórí sì kó ⟨את⟩ ìgbéga pẹ̀tẹ́lẹ̀ àyẹyẹ ìgbékalẹ̀ altá gìbọ̀dà wá, ní ọjọ́ tí wọ́n fi oróró ṣàṣẹ ⟨את⟩ òun; àwọn olórí sì kó ⟨את》 ebí wọn wá síwájú altá òfufo.",
+  "translation": "Àwọn adari mú ⟨את⟩ ìṣẹ́ṣẹ́-ìyẹ́sí tí pẹpẹ náà wá ní ọjọ́ tí wọ́n yẹ ọ́ ⟨את⟩ ⟨אתו⟩; àwọn adari sì mú ⟨את⟩ ebun-ìṣẹ̀mbàyà wọn wá síwájú pẹpẹ náà.",
   "tokens": [
     {
       "surface": "ויקריבו",
-      "gloss": "àwọn olórí sì kó… wá"
+      "gloss": "mú wá (ìṣẹ́ṣẹ́)"
     },
     {
       "surface": "הנשאים",
-      "gloss": "àwọn olórí"
+      "gloss": "àwọn adari"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìgbéga pẹ̀tẹ́lẹ̀ àyẹyẹ ìgbékalẹ̀ altá gìbọ̀dà"
+      "marks": "ìṣẹ́ṣẹ́-ìyẹ́sí tí pẹpẹ náà"
     },
     {
       "surface": "חנכת",
-      "gloss": "ìgbéga pẹ̀tẹ́lẹ̀ àyẹyẹ ìgbékalẹ̀"
+      "gloss": "ìṣẹ́ṣẹ́-ìyẹ́sí"
     },
     {
       "surface": "המזבח",
-      "gloss": "altá gìbọ̀dà"
+      "gloss": "pẹpẹ náà"
     },
     {
       "surface": "ביום",
-      "gloss": "ní ọjọ́ tí"
+      "gloss": "ní ọjọ́"
     },
     {
       "surface": "המשח",
-      "gloss": "wọ́n fi oróró ṣàṣẹ"
+      "gloss": "tí wọ́n yẹ (pẹ̀lú epo)"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ òun",
-      "marks": "fi oróró ṣàṣẹ òun"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "pẹpẹ náà"
     },
     {
       "surface": "ויקריבו",
-      "gloss": "àwọn olórí sì kó… wá"
+      "gloss": "mú wá (ebun)"
     },
     {
       "surface": "הנשיאם",
-      "gloss": "àwọn olórí"
+      "gloss": "àwọn adari"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ebí wọn"
+      "marks": "ebun-ìṣẹ̀mbàyà wọn"
     },
     {
       "surface": "קרבנם",
-      "gloss": "ebí wọn"
+      "gloss": "ebun-ìṣẹ̀mbàyà wọn"
     },
     {
       "surface": "לפני",
@@ -64,9 +64,9 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "altá òfufo"
+      "gloss": "pẹpẹ náà"
     }
   ],
-  "timestamp": "2026-08-23T05:44:32.380881527Z",
+  "timestamp": "2026-08-23T06:56:01.135710419Z",
   "model": "glm-5.3"
 }

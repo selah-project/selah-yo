@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 17,
-  "translation": "Ọwọ́ àwọn ẹlẹ́rìí ni yóò wà lórí rẹ̀ ní àkọ́kọ́ láti pa á kú, ọwọ́ gbogbo àwọn ènìyàn sì ní ìparí; ìwọ ó sì mú ⟨the⟩ búburú kúrò nínú rẹ̀.",
+  "translation": "Ọwọ́ àwọn ẹlẹ́rìí ni yóò wà lára rẹ̀ ní àkọ́kọ́ láti pa á i, àti ọwọ́ gbogbo àwọn ènìyàn ní ìparí; ìwọ sì gbọdọ̀ mú ibi kúrò ní àárín rẹ.",
   "tokens": [
     {
       "surface": "יד",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "העדים",
-      "gloss": "àwọn ẹlẹ́rìí"
+      "gloss": "ti àwọn ẹlẹ́rìí"
     },
     {
       "surface": "תהיה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "lórí rẹ̀"
+      "gloss": "lára rẹ̀"
     },
     {
       "surface": "בראשנה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "להמיתו",
-      "gloss": "láti pa á kú"
+      "gloss": "láti pa á i"
     },
     {
       "surface": "ויד",
-      "gloss": "ọwọ́ … sì"
+      "gloss": "àti ọwọ́"
     },
     {
       "surface": "כל",
@@ -49,17 +49,17 @@
     },
     {
       "surface": "ובערת",
-      "gloss": "ìwọ ó sì mú … kúrò"
+      "gloss": "ìwọ sì gbọdọ̀ mú … kúrò"
     },
     {
       "surface": "הרע",
-      "gloss": "búburú"
+      "gloss": "ibi"
     },
     {
       "surface": "מקרבך",
-      "gloss": "nínú rẹ̀"
+      "gloss": "ní àárín rẹ"
     }
   ],
-  "timestamp": "2026-08-23T00:16:06.989720801Z",
+  "timestamp": "2026-08-23T06:37:46.435138945Z",
   "model": "glm-5.3"
 }

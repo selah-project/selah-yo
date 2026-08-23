@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 11,
-  "translation": "Ó sì wáyé pé àwọn ènìyàn di bíi àwọn olúṣẹ̀ǹgbẹ́ ní ojú Yahweh, Yahweh sì gbọ́, ìbínú rẹ̀ sì kó, iná Yahweh sì jó lára wọn, ó sì jẹ àwọn tí ó wà ní etí ìpàdé-ogun náà.",
+  "translation": "Ó sì wáyẹ́ pé àwọn ènìyàn di bí àwọn aláìfaradà, ń sọ̀rọ̀ búburù ní etí Yahweh; Yahweh sì gbọ́, ínà bẹ̀rẹ̀ sí í jóná ní ojú rẹ̀, iná Yahweh sì jóná láàárín wọn, ó sì jẹ é ní ìgbà-ìgbà etí ìpẹ̀ àwọn ológun.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ó sì wáyé pé"
+      "gloss": "Ó sì wáyẹ́ pé"
     },
     {
       "surface": "העם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "כמתאננים",
-      "gloss": "bíi àwọn olúṣẹ̀ǹgbẹ́"
+      "gloss": "bí àwọn aláìfaradà"
     },
     {
       "surface": "רע",
-      "gloss": "ní ojú ⟨burúkú⟩"
+      "gloss": "búburù"
     },
     {
       "surface": "באזני",
@@ -41,15 +41,19 @@
     },
     {
       "surface": "ויחר",
-      "gloss": "ìbínú sì kó"
+      "gloss": "ínà bẹ̀rẹ̀ sí í jóná ní ojú rẹ̀"
     },
     {
       "surface": "אפו",
-      "gloss": "ìmú rẹ̀"
+      "gloss": "ojú rẹ̀"
     },
     {
-      "surface": "ויבער בם",
-      "gloss": "ó sì jó lára wọn"
+      "surface": "ותבער",
+      "gloss": "sì jóná láàárín wọn"
+    },
+    {
+      "surface": "בם",
+      "gloss": "láàárín wọn"
     },
     {
       "surface": "אש",
@@ -61,17 +65,17 @@
     },
     {
       "surface": "ותאכל",
-      "gloss": "ó sì jẹ"
+      "gloss": "ó sì jẹ é"
     },
     {
       "surface": "בקצה",
-      "gloss": "ní etí"
+      "gloss": "ní etí ìgbà-ìgbà"
     },
     {
       "surface": "המחנה",
-      "gloss": "ìpàdé-ogun náà"
+      "gloss": "ìpẹ̀ àwọn ológun"
     }
   ],
-  "timestamp": "2026-08-23T05:44:20.255191737Z",
+  "timestamp": "2026-08-23T06:47:53.666315780Z",
   "model": "glm-5.3"
 }

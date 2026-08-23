@@ -5,8 +5,41 @@
   "book": "ezekiel",
   "lang": "yo",
   "chapter": 43,
-  "translation": "Ó sì mú mi lọ sí ⟨ọ̀nà⟩ ọ̀wọ́ ⟨àti⟩ ⟨na⟩ àwọn ọ̀run àti ⟨את⟩ ayé.",
-  "tokens": [],
-  "timestamp": "2026-08-23T06:01:00.235314217Z",
+  "translation": "Ó sì mú un lọ sí ⟨the⟩ ọ̀nà-ìwọ̀lé — ọ̀nà-ìwọ̀lé tí ó ń wo ojú ọ̀nà ìlà-oòrùn.",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "Ó sì mú un lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨the⟩ ọ̀nà-ìwọ̀lé"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọ̀nà-ìwọ̀lé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ó ń wo ojú"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ìlà-oòrùn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:51:00.407163759Z",
   "model": "glm-5.3"
 }

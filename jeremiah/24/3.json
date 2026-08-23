@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "yo",
   "chapter": 24,
-  "translation": "Yahweh sì wí sí mi: Kí ni ìwọ ń rí, Yirmiyahu? Mo sì wí: Eso igbẹ — ⟨the⟩ eso igbẹ ti ó dára dára púpọ̀, àti ⟨the⟩ ti ó burú burú púpọ̀, tí kì í sè é jẹ nítorí búburú.",
+  "translation": "Yahweh sì wí fún mi pé, 'Kí ni iwọ ń rí, Yirmeyahu?' Èmi sì wí pé, 'Èso ìgì tín; àwọn èso tí ó dára dára púpọ̀, àwọn tí ó búburú sì búburú púpọ̀, tí a kì í lè jẹ́ nítorí búburú wọn.'",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אלי",
-      "gloss": "sí mi"
+      "gloss": "fún mi"
     },
     {
       "surface": "מה",
-      "gloss": "kí"
+      "gloss": "Kí ni"
     },
     {
       "surface": "אתה",
-      "gloss": "ìwọ"
+      "gloss": "iwọ"
     },
     {
       "surface": "ראה",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmiyahu"
+      "gloss": "Yirmeyahu"
     },
     {
-      "surface": "ואמר",
-      "gloss": "mo sì wí"
+      "surface": "ויאמר",
+      "gloss": "sì wí"
     },
     {
       "surface": "תאנים",
-      "gloss": "Eso igbẹ"
+      "gloss": "Èso ìgì tín"
     },
     {
       "surface": "התאנים",
-      "gloss": "⟨the⟩ eso igbẹ"
+      "gloss": "àwọn èso tín"
     },
     {
       "surface": "הטבות",
-      "gloss": "⟨the⟩ ti ó dára"
+      "gloss": "tí ó dára"
     },
     {
       "surface": "טבות",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "והרעות",
-      "gloss": "àti ⟨the⟩ ti ó burú"
+      "gloss": "àwọn tí ó búburú"
     },
     {
       "surface": "רעות",
-      "gloss": "burú"
+      "gloss": "búburú"
     },
     {
       "surface": "מאד",
@@ -77,17 +77,17 @@
     },
     {
       "surface": "לא",
-      "gloss": "kì í"
+      "gloss": "kì í lè"
     },
     {
       "surface": "תאכלנה",
-      "gloss": "sè é jẹ"
+      "gloss": "jẹ́"
     },
     {
       "surface": "מרע",
-      "gloss": "nítorí búburú"
+      "gloss": "nítorí búburú wọn"
     }
   ],
-  "timestamp": "2026-08-23T02:19:18.866800922Z",
+  "timestamp": "2026-08-23T06:41:41.854971350Z",
   "model": "glm-5.3"
 }

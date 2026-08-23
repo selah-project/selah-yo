@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 19,
-  "translation": "Ní ọdún kẹrin sì, gbogbo èso rẹ̀ yóò jẹ́ mímọ́ — ìyìn ayọ̀ fún Yahweh.",
+  "translation": "Àti ní ọdún kẹrin, gbogbo èso rẹ̀ yóò jẹ́ mímọ́ — ìdúnnú-ìyin ⟨jẹ́⟩ ti Yahweh.",
   "tokens": [
     {
       "surface": "ובשנה",
-      "gloss": "ní ọdún sì"
+      "gloss": "Àti ní ọdún"
     },
     {
       "surface": "הרביעת",
@@ -24,10 +24,6 @@
       "gloss": "gbogbo"
     },
     {
-      "surface": "surface",
-      "gloss": ""
-    },
-    {
       "surface": "פריו",
       "gloss": "èso rẹ̀"
     },
@@ -37,13 +33,13 @@
     },
     {
       "surface": "הלולים",
-      "gloss": "ìyìn ayọ̀"
+      "gloss": "ìdúnnú-ìyin"
     },
     {
       "surface": "ליהוה",
-      "gloss": "fún Yahweh"
+      "gloss": "ti Yahweh"
     }
   ],
-  "timestamp": "2026-08-22T23:43:02.673721706Z",
+  "timestamp": "2026-08-23T06:36:36.756049292Z",
   "model": "glm-5.3"
 }

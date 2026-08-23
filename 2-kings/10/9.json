@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 10,
-  "translation": "Ó sì ṣẹ́lẹ̀ ní àárọ̀, ó jáde, ó dúró, ó sì sọ fún gbogbo àwọn ènìyàn pé, Ẹ̀yin jẹ́ olóòtítọ́; kíyèsi, èmi ni mo ṣe ìjọpọ̀ sí Adonai mi, èmi sì pa á; ṣùgbọ́n ta ni ⟨את⟩ ó lu ⟨את⟩ gbogbo àwọn wọ̀nyí?",
+  "translation": "Ó sì wáyé ní àárọ̀, tí ó jáde, ó sì dúró, ó sì sọ fún gbogbo ènìyàn náà, Ẹ̀yin ni ènìyàn olóòtítọ́; wòrà, èmi ni mo ṣe ìjàpọn pẹ̀lú olúwa mi, mo sì pa á, ṣùgbọ́n ta ni ó lu ⟨את⟩ gbogbo àwọn wọ̀nyí?",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ó sì ṣẹ́lẹ̀"
+      "gloss": "Ó sì wáyé"
     },
     {
       "surface": "בבקר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "ó jáde"
+      "gloss": "tó jáde"
     },
     {
       "surface": "ויעמד",
-      "gloss": "ó dúró"
+      "gloss": "ó sì dúró"
     },
     {
       "surface": "ויאמר",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "העם",
-      "gloss": "àwọn ènìyàn"
+      "gloss": "ènìyàn náà"
     },
     {
-      "surface": "צדקים",
-      "gloss": "olóòtítọ́"
+      "surface": "צדיקים",
+      "gloss": "ènìyàn olóòtítọ́"
     },
     {
       "surface": "אתם",
-      "gloss": "ẹ̀yin jẹ́"
+      "gloss": "ẹ̀yin"
     },
     {
       "surface": "הנה",
-      "gloss": "kíyèsi"
+      "gloss": "wòrà"
     },
     {
       "surface": "אני",
@@ -57,23 +57,19 @@
     },
     {
       "surface": "קשרתי",
-      "gloss": "mo ṣe ìjọpọ̀"
+      "gloss": "mo ṣe ìjàpọn"
     },
     {
       "surface": "על",
-      "gloss": "sí"
+      "gloss": "pẹ̀lú"
     },
     {
       "surface": "אדני",
-      "gloss": "Adonai mi"
-    },
-    {
-      "surface": "ויהי",
-      "gloss": ""
+      "gloss": "olúwa mi"
     },
     {
       "surface": "ואהרגהו",
-      "gloss": "èmi sì pa á"
+      "gloss": "mo sì pa á"
     },
     {
       "surface": "ומי",
@@ -81,7 +77,7 @@
     },
     {
       "surface": "הכה",
-      "gloss": "⟨את⟩ ó lu"
+      "gloss": "ó lu"
     },
     {
       "surface": "את",
@@ -97,6 +93,6 @@
       "gloss": "àwọn wọ̀nyí"
     }
   ],
-  "timestamp": "2026-08-23T01:29:32.565931841Z",
+  "timestamp": "2026-08-23T06:40:09.012013538Z",
   "model": "glm-5.3"
 }

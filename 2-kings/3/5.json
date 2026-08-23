@@ -5,8 +5,41 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 3,
-  "translation": "Ó sì wáyé nígbà tí Achab kú, tí ọba Moav sì bẹ́wọ́ sí ọba ⟨àti⟩ Yisrael — ó ṣẹ́gun ìṣẹ̀lẹ̀ ìgbàgbọ́.",
-  "tokens": [],
-  "timestamp": "2026-08-23T01:26:04.281247052Z",
+  "translation": "Ó sì ṣẹlẹ̀, nígbà tí Ahab kú, tí ọba Mowabu sì bẹ́wọ̀ sí ọba Israẹli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "nígbà tí … kú"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "sì bẹ́wọ̀ sí"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "sí ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    }
+  ],
+  "timestamp": "2026-08-23T06:39:58.619957196Z",
   "model": "glm-5.3"
 }

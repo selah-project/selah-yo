@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Àwọn ọwọ́ rẹ̀ ní ó máa wá ⟨את⟩ àwọn ẹbùn iná Yahweh: yóò sì mú ⟨את⟩ òróró-àwọ̀n wá lórí ⟨the⟩ ẹ̀jì-ayà, mú ⟨את⟩ ẹ̀jì-ayà wá, láti fọ̀n-án; yóò sì fọ̀n-án lẹ́nu-òde Yahweh.",
+  "translation": "Ọwọ́ rẹ̀ ní ó mú wá ⟨את⟩ àwọn ẹbùn iná Yahweh; ⟨את⟩ ọra rẹ̀ lé lórí ẹ̀gbẹ́ ọkàn ni ó gbọdọ̀ mú wá; ⟨את⟩ ẹ̀gbẹ́ ọkàn náà, láti lè gígún-ṣeé-nùfọ́ ⟨את⟩ ⟨אתו⟩ gẹ́gẹ́ bí ẹ̀bùn ìgìlẹ̀ níwájú Yahweh.",
   "tokens": [
     {
       "surface": "ידיו",
-      "gloss": "àwọn ọwọ́ rẹ̀"
+      "gloss": "ọwọ́ rẹ̀"
     },
     {
       "surface": "תביאינה",
-      "gloss": "ní ó máa wá"
+      "gloss": "ní ó mú wá"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn ẹbùn iná"
+      "marks": "àwọn ẹbùn iná Yahweh"
     },
     {
       "surface": "אשי",
@@ -31,55 +31,55 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "òróró-àwọ̀n"
+      "marks": "ọra rẹ̀"
     },
     {
       "surface": "החלב",
-      "gloss": "òróró-àwọ̀n"
+      "gloss": "ọra rẹ̀"
     },
     {
       "surface": "על",
-      "gloss": "lórí"
+      "gloss": "lé lórí"
     },
     {
       "surface": "החזה",
-      "gloss": "ẹ̀jì-ayà"
+      "gloss": "ẹ̀gbẹ́ ọkàn"
     },
     {
       "surface": "יביאנו",
-      "gloss": "yóò sì mú…wá"
+      "gloss": "ni ó gbọdọ̀ mú wá"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ẹ̀jì-ayà"
+      "marks": "ẹ̀gbẹ́ ọkàn náà"
     },
     {
       "surface": "החזה",
-      "gloss": "ẹ̀jì-ayà"
+      "gloss": "ẹ̀gbẹ́ ọkàn náà"
     },
     {
       "surface": "להניף",
-      "gloss": "láti fọ̀n-án"
+      "gloss": "láti lè gígún-ṣeé-nùfọ́"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ọ̀nà-fọ̀n-án"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "ẹ̀bùn ìgìlẹ̀"
     },
     {
       "surface": "תנופה",
-      "gloss": "ọ̀nà-fọ̀n-án"
+      "gloss": "ẹ̀bùn ìgìlẹ̀"
     },
     {
       "surface": "לפני",
-      "gloss": "lẹ́nu-òde"
+      "gloss": "níwájú"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-22T23:36:10.748753062Z",
+  "timestamp": "2026-08-23T06:56:01.135183618Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "habakkuk",
   "lang": "yo",
   "chapter": 3,
-  "translation": "Ó dúró, ó sì ṣe ìwọn ⟨את⟩ ilẹ̀ ayé; ó rí, ó sì tú àwọn orílẹ̀-èdè ká; àwọn òkè ìgbà pípẹ́ sì fọ́nà, àwọn apá òkè ayélujára sì wà lọ̀ — ìrìn àjò ìgbà pípẹ́ ni ti rẹ̀.",
+  "translation": "Ó dúró, ó sì ṣe ìwọ̀n ⟨אֶת⟩ ayé; ó rí i, ó sì tú ⟨אֶת⟩ àwọn orílẹ̀-èdè ṣọ́tọ̀; àwọn òkè àgbálágba sì fọ́ná, àwọn apáta ìgbà gbọ́ sì kùnlẹ̀; ìrìn-àjò ìgbà gbọ́ ni ti Rẹ̀.",
   "tokens": [
     {
       "surface": "עמד",
@@ -13,24 +13,19 @@
     },
     {
       "surface": "וימדד",
-      "gloss": "ó sì ṣe ìwọn"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ilẹ̀ ayé"
+      "gloss": "ó sì ṣe ìwọ̀n"
     },
     {
       "surface": "ארץ",
-      "gloss": "ilẹ̀ ayé"
+      "gloss": "ayé"
     },
     {
       "surface": "ראה",
-      "gloss": "ó rí"
+      "gloss": "ó rí i"
     },
     {
       "surface": "ויתר",
-      "gloss": "ó sì tú ká"
+      "gloss": "ó sì tú ṣọ́tọ̀"
     },
     {
       "surface": "גוים",
@@ -38,7 +33,7 @@
     },
     {
       "surface": "ויתפצצו",
-      "gloss": "sì fọ́nà"
+      "gloss": "sì fọ́ná"
     },
     {
       "surface": "הררי",
@@ -46,33 +41,33 @@
     },
     {
       "surface": "עד",
-      "gloss": "ìgbà pípẹ́"
+      "gloss": "àgbálágba"
     },
     {
       "surface": "שחו",
-      "gloss": "wà lọ̀"
+      "gloss": "sì kùnlẹ̀"
     },
     {
       "surface": "גבעות",
-      "gloss": "àwọn apá òkè"
+      "gloss": "àwọn apáta"
     },
     {
       "surface": "עולם",
-      "gloss": "ayélujára"
+      "gloss": "ìgbà gbọ́"
     },
     {
       "surface": "הליכות",
-      "gloss": "ìrìn àjò"
+      "gloss": "ìrìn-àjò"
     },
     {
       "surface": "עולם",
-      "gloss": "ìgbà pípẹ́"
+      "gloss": "ìgbà gbọ́"
     },
     {
       "surface": "לו",
-      "gloss": "ti rẹ̀"
+      "gloss": "ni ti Rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T03:16:19.151144941Z",
+  "timestamp": "2026-08-23T06:43:21.768754709Z",
   "model": "glm-5.3"
 }

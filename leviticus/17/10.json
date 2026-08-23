@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 17,
-  "translation": "Àti ọkùnrin kọ̀ọ̀kan ní ilé Yisrael, àti láti àlè tí ó ń sábé láàárín wọn, tí ó bá jẹ ẹjẹ yàtọ̀ọ̀rẹ̀ — èmi yóò sì dojú kọ ⟨the⟩ nefesh tí ó jẹ ⟨את⟩ ẹjẹ náà, a ó sì kọ́ ọ́ kúrò láti àárín ènìyàn rẹ̀.",
+  "translation": "Àti ẹnikẹ́ni láti ilé Yisrael, tàbí láti àwọn àlejò tí ó ń ṣe àlejò láàárín wọn, tí ó bá jẹ ẹ̀jẹ̀ yòówù, èmi yóò dojú kọ ẹ̀mí tí ó ń jẹ ⟨את⟩ ẹ̀jẹ̀ náà, àti mo ó kọ́ ọ́ kúrò láàárín àwọn ènìyàn rẹ̀.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "àti ọkùnrin"
+      "gloss": "Àti ẹnikẹ́ni"
     },
     {
       "surface": "איש",
-      "gloss": "ọkùnrin"
+      "gloss": "ẹnikẹ́ni"
     },
     {
       "surface": "מבית",
-      "gloss": "ní ilé"
+      "gloss": "láti ilé"
     },
     {
       "surface": "ישראל",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "ומן",
-      "gloss": "àti láti"
+      "gloss": "tàbí láti"
     },
     {
       "surface": "הגר",
-      "gloss": "àlè náà"
+      "gloss": "àwọn àlejò"
     },
     {
       "surface": "הגר",
-      "gloss": "tí ó ń sábé"
+      "gloss": "tó ń ṣe àlejò"
     },
     {
       "surface": "בתוכם",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "yàtọ̀ọ̀rẹ̀"
+      "gloss": "yòówù"
     },
     {
       "surface": "דם",
-      "gloss": "ẹjẹ"
+      "gloss": "ẹ̀jẹ̀"
     },
     {
       "surface": "ונתתי",
-      "gloss": "èmi yóò sì fi sí"
+      "gloss": "èmi yóò sọ"
     },
     {
       "surface": "פני",
@@ -65,39 +65,39 @@
     },
     {
       "surface": "בנפש",
-      "gloss": "kọ nefesh"
+      "gloss": "dojú ẹ̀mí"
     },
     {
       "surface": "האכלת",
-      "gloss": "tí ó jẹ"
+      "gloss": "tí ó ń jẹ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ẹjẹ náà"
+      "marks": "ẹ̀jẹ̀ náà"
     },
     {
       "surface": "הדם",
-      "gloss": "ẹjẹ náà"
+      "gloss": "ẹ̀jẹ̀ náà"
     },
     {
       "surface": "והכרתי",
-      "gloss": "a ó sì kọ́"
+      "gloss": "àti mo ó kọ́ ọ́"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "láti àárín"
+      "marks": "kúrò láàárín àwọn ènìyàn rẹ̀"
     },
     {
       "surface": "מקרב",
-      "gloss": "láti àárín"
+      "gloss": "kúrò láàárín"
     },
     {
       "surface": "עמה",
-      "gloss": "ènìyàn rẹ̀"
+      "gloss": "àwọn ènìyàn rẹ̀"
     }
   ],
-  "timestamp": "2026-08-22T23:42:55.336603198Z",
+  "timestamp": "2026-08-23T06:36:54.650280072Z",
   "model": "glm-5.3"
 }

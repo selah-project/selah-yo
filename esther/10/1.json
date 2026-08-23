@@ -5,8 +5,41 @@
   "book": "esther",
   "lang": "yo",
   "chapter": 10,
-  "translation": "Ó sì fi ọ̀rẹ̀-orí (másà) lé orílẹ̀-ètì lóríẹ́ lábẹ́ Achashverosh ọba, lórí ⟨àkámọ́ tí kò sí nínú Hébérù lásán — tí ó kọjá ilẹ̀ ayé àti àwọn erékùṣù òkun⟩.",
-  "tokens": [],
-  "timestamp": "2026-08-23T04:46:22.560847564Z",
+  "translation": "Ọba Achashverosh sì gbé ọ̀rọ̀-orí kalẹ̀ lórí ilẹ̀ yìí àti lórí àwọn erékùṣù omi-òkun.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "sì gbé ... kalẹ̀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "ọ̀rọ̀-orí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "àti àwọn erékùṣù"
+    },
+    {
+      "surface": "הים",
+      "gloss": "omi-òkun"
+    }
+  ],
+  "timestamp": "2026-08-23T06:46:25.487777967Z",
   "model": "glm-5.3"
 }

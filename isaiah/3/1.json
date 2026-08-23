@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 3,
-  "translation": "Nítorí náà, kíyèsi wo: Adonai, Yahweh Tsavaot, ń yọ ⟨את⟩ ìgàngan àti ⟨את⟩ ẹ̀ka ìgàngan kúrò láti Yerushalayim àti láti Yehudah — gbogbo ìgàngan oúnjẹ àti gbogbo ìgàngan omi.",
+  "translation": "Nítorí kíyèsi, Adonai, Yahweh Tsevaot, ń yọkúrò kúrò ní Yerushalayim àti kúrò ní Yehuda, ìgbẹ̀gbẹ́ àti ìtìlẹ́yìn — gbogbo ìgbẹ̀gbẹ́ oúnjẹ àti gbogbo ìgbẹ̀gbẹ́ omi.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "nítorí náà"
+      "gloss": "nítorí"
     },
     {
       "surface": "הנה",
-      "gloss": "kíyèsi wo"
+      "gloss": "kíyèsi"
     },
     {
       "surface": "האדון",
@@ -25,32 +25,27 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsavaot"
+      "gloss": "Tsevaot"
     },
     {
       "surface": "מסיר",
-      "gloss": "ń yọ kúrò"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ìgàngan"
+      "gloss": "ń yọkúrò"
     },
     {
       "surface": "מירושלם",
-      "gloss": "láti Yerushalayim"
+      "gloss": "kúrò ní Yerushalayim"
     },
     {
       "surface": "ומיהודה",
-      "gloss": "àti láti Yehudah"
+      "gloss": "àti kúrò ní Yehuda"
     },
     {
       "surface": "משען",
-      "gloss": "ìgàngan"
+      "gloss": "ìgbẹ̀gbẹ́"
     },
     {
       "surface": "ומשענה",
-      "gloss": "àti ẹ̀ka ìgàngan"
+      "gloss": "àti ìtìlẹ́yìn"
     },
     {
       "surface": "כל",
@@ -58,7 +53,7 @@
     },
     {
       "surface": "משען",
-      "gloss": "ìgàngan"
+      "gloss": "ìgbẹ̀gbẹ́"
     },
     {
       "surface": "לחם",
@@ -70,13 +65,13 @@
     },
     {
       "surface": "משען",
-      "gloss": "ìgàngan"
+      "gloss": "ìgbẹ̀gbẹ́"
     },
     {
       "surface": "מים",
       "gloss": "omi"
     }
   ],
-  "timestamp": "2026-08-23T01:40:18.672870635Z",
+  "timestamp": "2026-08-23T06:40:20.462196730Z",
   "model": "glm-5.3"
 }

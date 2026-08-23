@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "yo",
   "chapter": 12,
-  "translation": "Nígbà náà, Shishak, ọba Mitsrajim, gbé sókè lórí Yerushalayim, ó sì gba ⟨את⟩ àwọn ilé-ìdíre ti ilé Yahweh àti ⟨את⟩ àwọn ilé-ìdíre ti ilé ⟨the⟩ ọba; ó gba gbogbo rẹ̀, ó sì gba ⟨את⟩ àwọn aagoon wúrà tí Shelomoh ṣe.",
+  "translation": "Nígbà náà, Shishak ọba Mitzrajim gbé sókè lọ sí odi Yerushalayim, ó sì gba ⟨את⟩ àwọn ilé-ìṣúra ti ilé Yahweh àti ⟨את⟩ àwọn ilé-ìṣúra ti ilé ọba — ⟨את⟩ gbogbo rẹ̀ ló gba; ó sì gba ⟨את⟩ àwọn àwòṣe wúrà tí Shelomoh ṣe.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "gbé sókè lórí"
+      "gloss": "gbé sókè lọ sí"
     },
     {
       "surface": "שישק",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrajim"
+      "gloss": "Mitzrajim"
     },
     {
       "surface": "על",
-      "gloss": "lórí"
+      "gloss": "ló sí odi"
     },
     {
       "surface": "ירושלם",
@@ -38,15 +38,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn ilé-ìdíre ti ilé Yahweh"
+      "marks": "àwọn ilé-ìṣúra ti ilé Yahweh"
     },
     {
       "surface": "אצרות",
-      "gloss": "àwọn ilé-ìdíre"
+      "gloss": "àwọn ilé-ìṣúra"
     },
     {
       "surface": "בית",
-      "gloss": "ilé"
+      "gloss": "ti ilé"
     },
     {
       "surface": "יהוה",
@@ -55,19 +55,19 @@
     {
       "surface": "ואת",
       "gloss": "àti ⟨את⟩",
-      "marks": "àwọn ilé-ìdíre ti ilé ọba"
+      "marks": "àwọn ilé-ìṣúra ti ilé ọba"
     },
     {
       "surface": "אצרות",
-      "gloss": "àwọn ilé-ìdíre"
+      "gloss": "àwọn ilé-ìṣúra"
     },
     {
       "surface": "בית",
-      "gloss": "ilé"
+      "gloss": "ti ilé"
     },
     {
       "surface": "המלך",
-      "gloss": "ti ọba"
+      "gloss": "ọba"
     },
     {
       "surface": "את",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "gba"
+      "gloss": "ló gba"
     },
     {
       "surface": "ויקח",
@@ -89,15 +89,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn aagoon wúrà"
+      "marks": "àwọn àwòṣe wúrà"
     },
     {
       "surface": "מגני",
-      "gloss": "àwọn aagoon"
+      "gloss": "àwọn àwòṣe"
     },
     {
       "surface": "הזהב",
-      "gloss": "ti wúrà"
+      "gloss": "wúrà"
     },
     {
       "surface": "אשר",
@@ -112,6 +112,6 @@
       "gloss": "Shelomoh"
     }
   ],
-  "timestamp": "2026-08-23T05:26:55.434932396Z",
+  "timestamp": "2026-08-23T06:46:50.585873412Z",
   "model": "glm-5.3"
 }

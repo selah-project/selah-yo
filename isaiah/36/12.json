@@ -5,23 +5,23 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 36,
-  "translation": "Ṣùgbọ́n Ravshakeh wí pé, Ṣé sí Adonai rẹ àti sí ẹ ni Oluwa mi fi mí ṣẹ́ láti sọ ⟨את⟩ ọ̀rọ̀ wọnyí? Ṣé kì í ṣe sí àwọn ènìyàn tí ó jókòó lórí ògiri ni, láti jẹ ⟨את⟩ wúnrẹ̀n wọn àti láti mu ⟨את⟩ ìṣè-síṣe wọn pẹ̀lú ẹyin?",
+  "translation": "Ṣùgbọ́n Rabshakeh wí pé, Ṣé Adonai rẹ̀ ni ó rán mi sí ọ̀gá rẹ̀ àti sí ọ̀túnọ̀ láti sọ àwọn ọ̀rọ̀ wọnyí, ṣé kì í ṣe sí àwọn ọkùnrin tí ó ń gbé lórí ògiri, láti jẹ ⟨את⟩ ìdọ̀tí wọn àti láti mu ⟨את⟩ ìṣan ewúré wọn pẹ̀lú yín?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ṣùgbọ́n… wí"
+      "gloss": "ṣùgbọ́n ó wí pé"
     },
     {
       "surface": "רב",
-      "gloss": "Rav-"
+      "gloss": ""
     },
     {
       "surface": "שקה",
-      "gloss": "shakeh"
+      "gloss": "Rabshakeh"
     },
     {
       "surface": "האל",
-      "gloss": "Ṣé sí"
+      "gloss": "ṣé"
     },
     {
       "surface": "אדניך",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "ואליך",
-      "gloss": "àti sí ẹ"
+      "gloss": "àti sí ọ̀túnọ̀"
     },
     {
       "surface": "שלחני",
-      "gloss": "ni Oluwa mi fi mí ṣẹ́"
+      "gloss": "ó rán mi"
     },
     {
       "surface": "אדני",
-      "gloss": "Oluwa mi"
+      "gloss": "ọ̀gá rẹ"
     },
     {
       "surface": "לדבר",
@@ -46,11 +46,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọ̀rọ̀ wọnyí"
+      "marks": "àwọn ọ̀rọ̀ wọnyí"
     },
     {
       "surface": "הדברים",
-      "gloss": "ọ̀rọ̀ wọnyí"
+      "gloss": "àwọn ọ̀rọ̀"
     },
     {
       "surface": "האלה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הלא",
-      "gloss": "Ṣé kì í ṣe"
+      "gloss": "ṣé kì í ṣe"
     },
     {
       "surface": "על",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "àwọn ènìyàn"
+      "gloss": "àwọn ọkùnrin"
     },
     {
       "surface": "הישבים",
-      "gloss": "tí ó jókòó"
+      "gloss": "tí ó ń gbé"
     },
     {
       "surface": "על",
@@ -87,30 +87,30 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wúnrẹ̀n wọn"
+      "marks": "ìdọ̀tí wọn"
     },
     {
       "surface": "חראיהם",
-      "gloss": "wúnrẹ̀n wọn"
+      "gloss": "ìdọ̀tí wọn"
     },
     {
-      "surface": "ולשתות",
+      "surface": "ו לשתות",
       "gloss": "àti láti mu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìṣè-síṣe wọn"
+      "marks": "ìṣan ewúré wọn"
     },
     {
       "surface": "שיניהם",
-      "gloss": "ìṣè-síṣe wọn"
+      "gloss": "ìṣan ewúré wọn"
     },
     {
       "surface": "עמכם",
-      "gloss": "pẹ̀lú ẹyin"
+      "gloss": "pẹ̀lú yín"
     }
   ],
-  "timestamp": "2026-08-23T01:54:14.631188436Z",
+  "timestamp": "2026-08-23T06:40:26.084512428Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 11,
-  "translation": "Yahweh sọ fún Shelomo: nítorí pé èyí tí ó ṣẹlẹ̀ pẹ̀lú rẹ, ìwọ kò ṣọ́ ⟨the⟩ májẹ̀mù mi àti òfin mi tí mo pa lórí rẹ — èmi yóò ya ⟨את⟩ ìjọba kúrò lọ́dọ̀ rẹ, èmi yóò fi fún iranṣẹ rẹ.",
+  "translation": "Nítorí náà, Yahweh wí fún Shelomo: nítorí pé èyí ti ṣẹlẹ̀ pẹ̀lú ẹ, ìwọ kò ṣọ́ májẹ̀mù mi àti òfin mi tí mo pàṣẹ lórí rẹ, ní ìkọ̀nya ni mo í ka ⟨את⟩ ìjọba náà kúrò lórí rẹ, èmi yóò sì fi fún ìránṣẹ́ rẹ.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ó sọ"
+      "gloss": "Nítorí náà, … wí"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יען",
-      "gloss": "nítorí"
+      "gloss": "nítorí pé"
     },
     {
       "surface": "אשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "היתה",
-      "gloss": "tí ó ṣẹlẹ̀"
+      "gloss": "ti ṣẹlẹ̀"
     },
     {
       "surface": "זאת",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "עמך",
-      "gloss": "pẹ̀lú rẹ"
+      "gloss": "pẹ̀lú ẹ"
     },
     {
-      "surface": "ו לא",
-      "gloss": "ṣùgbọ́n kò"
+      "surface": "ולא",
+      "gloss": "kò … ì"
     },
     {
       "surface": "שמרת",
-      "gloss": "ìwọ ṣọ́"
+      "gloss": "ṣọ́"
     },
     {
       "surface": "בריתי",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "mo pa"
+      "gloss": "mo pàṣẹ"
     },
     {
       "surface": "עליך",
@@ -69,34 +69,34 @@
     },
     {
       "surface": "קרע",
-      "gloss": "dáadáa ni"
+      "gloss": "ní ìkọ̀nya ni"
     },
     {
       "surface": "אקרע",
-      "gloss": "èmi yóò ya"
+      "gloss": "mo í ka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìjọba"
+      "marks": "ìjọba náà"
     },
     {
       "surface": "הממלכה",
-      "gloss": "⟨the⟩ ìjọba"
+      "gloss": "ìjọba náà"
     },
     {
       "surface": "מעליך",
-      "gloss": "kúrò lọ́dọ̀ rẹ"
+      "gloss": "kúrò lórí rẹ"
     },
     {
       "surface": "ונתתיה",
-      "gloss": "èmi yóò fi fún"
+      "gloss": "èmi yóò sì fi fún"
     },
     {
       "surface": "לעבדך",
-      "gloss": "fún iranṣẹ rẹ"
+      "gloss": "ìránṣẹ́ rẹ"
     }
   ],
-  "timestamp": "2026-08-23T05:52:42.145173162Z",
+  "timestamp": "2026-08-23T06:38:59.795963191Z",
   "model": "glm-5.3"
 }

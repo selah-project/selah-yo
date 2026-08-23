@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "yo",
   "chapter": 2,
-  "translation": "Ó sì jẹ́ kí ó jẹ́ ọba lórí ⟨the⟩ Gilad, àti lórí ⟨the⟩ Ashuri, àti lórí Yizreel, àti lórí Efrayim, àti lórí Binyamin, àti lórí Yisrael gbogbo rẹ̀.",
+  "translation": "O sì jẹ́ kí ó jẹ́ọba lórí ⟨את⟩ Gilad, àti lórí ⟨את⟩ àwọn Ashuri, àti lórí ⟨את⟩ Yizreel, àti lórí ⟨את⟩ Efrayim, àti lórí ⟨את⟩ Binyamin, àti lórí ⟨את⟩ Yisrael lápapọ̀.",
   "tokens": [
     {
       "surface": "וימלכהו",
-      "gloss": "ó sì jẹ́ kí ó jẹ́ ọba"
+      "gloss": "O sì jẹ́ kí ó jẹ́ọba lórí"
     },
     {
       "surface": "אל",
-      "gloss": "lórí ⟨the⟩"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "הגלעד",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "àti lórí ⟨the⟩"
+      "gloss": "àti lórí"
     },
     {
       "surface": "האשורי",
-      "gloss": "Ashuri"
+      "gloss": "àwọn Ashuri"
     },
     {
       "surface": "ואל",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "כלה",
-      "gloss": "gbogbo rẹ̀"
+      "gloss": "lápapọ̀"
     }
   ],
-  "timestamp": "2026-08-23T00:56:45.301011503Z",
+  "timestamp": "2026-08-23T06:56:01.134516624Z",
   "model": "glm-5.3"
 }

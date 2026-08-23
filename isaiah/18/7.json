@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 18,
-  "translation": "Nígbà yẹn ni wọ́n ó gbe ⟨the⟩ èbùn fún Yahweh ti awọn ọmọ-ogun wá, láti ọ̀dọ̀ ènìyàn kan tí a fà títí tí a fi bọ́ títì, àti láti ọ̀dọ̀ ènìyàn tí wọ́n ń bẹ̀rù láti ìgbà ìbẹ̀rẹ̀ rẹ̀ títí di òní — orílẹ̀-èdè kan tí a fi òwò ṣe ìwọ̀n òwò rẹ̀, tí wọ́n sì ń tẹ̀ lọ, ènìyàn tí àwọn odò pín ilẹ̀ rẹ̀ — sí ibi orúkọ Yahweh ti awọn ọmọ-ogun, òkè Tsiyon.",
+  "translation": "Nígbà yẹn ni a óó gbe ⟨ẹ̀bùn⟩ wá fún Yahweh Sebaot — láti ọ̀dọ̀ ènìyàn kan tí wọ́n gún tèládà tí wọ́n sì fọwọ́ bọ́, àti láti ọ̀dọ̀ ènìyàn kan tí wọ́n ń bẹ̀rù láti ìbẹ̀rẹ̀ rẹ̀ títí dé òní; orílẹ̀-èdè kan tí wọ́n fi ìlà pín-ò-pín, tí wọ́n sì tẹ̀ mọ́lẹ̀, tí àwọn odò sì pín ilẹ̀ rẹ̀ — sí ibi orúkọ Yahweh Sebaot, òkè Tsiyon.",
   "tokens": [
     {
       "surface": "בעת",
-      "gloss": "nígbà"
+      "gloss": "nígbà yẹn"
     },
     {
       "surface": "ההיא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "יובל",
-      "gloss": "wọ́n ó gbe...wá"
+      "gloss": "a óó gbe…wá"
     },
     {
       "surface": "שי",
-      "gloss": "èbùn"
+      "gloss": "ẹ̀bùn"
     },
     {
       "surface": "ליהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "ti awọn ọmọ-ogun"
+      "gloss": "Sebaot"
     },
     {
       "surface": "עם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ממשך",
-      "gloss": "tí a fà títí"
+      "gloss": "tí wọ́n gún tèládà"
     },
     {
       "surface": "ומורט",
-      "gloss": "tí a fi bọ́ títì"
+      "gloss": "tí wọ́n sì fọwọ́ bọ́"
     },
     {
       "surface": "ומעם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "láti ìgbà"
+      "gloss": "láti"
     },
     {
       "surface": "הוא",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "והלאה",
-      "gloss": "títí di òní"
+      "gloss": "títí dé òní"
     },
     {
       "surface": "גוי",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "קו",
-      "gloss": "tí a fi òwò ṣe ìwọ̀n"
+      "gloss": "tí wọ́n fi ìlà pín"
     },
     {
       "surface": "קו",
-      "gloss": "òwò"
+      "gloss": "pín-ò-pín"
     },
     {
       "surface": "ומבוסה",
-      "gloss": "àti ìtẹ̀lọ́"
+      "gloss": "tí wọ́n sì tẹ̀ mọ́lẹ̀"
     },
     {
       "surface": "אשר",
@@ -113,7 +113,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "ti awọn ọmọ-ogun"
+      "gloss": "Sebaot"
     },
     {
       "surface": "הר",
@@ -124,6 +124,6 @@
       "gloss": "Tsiyon"
     }
   ],
-  "timestamp": "2026-08-23T01:46:47.409036418Z",
+  "timestamp": "2026-08-23T06:40:40.198810949Z",
   "model": "glm-5.3"
 }

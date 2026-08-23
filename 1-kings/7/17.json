@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Àwọn ìjọra-àwọ̀n, iṣẹ́ ìjọra-àwọ̀n, àwọn ìparun-ẹ̀wùn, iṣẹ́ àwọn èjìká, fún ⟨the⟩ àwọn orí-òpó tí ó wà lórí ⟨the⟩ orí àwọn òpó — meje fún ⟨the⟩ orí-òpó kan, àti meje fún ⟨the⟩ orí-òpó kejì.",
+  "translation": "Àwọn ìkòkò-ìtọ́nnú, iṣẹ́ ìkòkò-ìtọ́nnú, àwọn ẹ̀wùn ìfọ̀nrán, iṣẹ́ àwọn èjìká, fún àwọn adé-orí tí ó wà lórí orí àwọn òpó — méje fún adé-orí ⟨ẹyọkan náà⟩, àti méje fún adé-orí ⟨èkejì náà⟩.",
   "tokens": [
     {
       "surface": "שבכים",
-      "gloss": "àwọn ìjọra-àwọ̀n"
+      "gloss": "àwọn ìkòkò-ìtọ́nnú"
     },
     {
       "surface": "מעשה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שבכה",
-      "gloss": "ìjọra-àwọ̀n"
+      "gloss": "ìkòkò-ìtọ́nnú"
     },
     {
       "surface": "גדלים",
-      "gloss": "àwọn ìparun-ẹ̀wùn"
+      "gloss": "àwọn ẹ̀wùn ìfọ̀nrán"
     },
     {
       "surface": "מעשה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לכתרת",
-      "gloss": "fún ⟨the⟩ orí-òpó"
+      "gloss": "fún àwọn adé-orí"
     },
     {
       "surface": "אשר",
@@ -53,29 +53,29 @@
     },
     {
       "surface": "שבעה",
-      "gloss": "meje"
+      "gloss": "méje"
     },
     {
       "surface": "לכתרת",
-      "gloss": "fún ⟨the⟩ orí-òpó"
+      "gloss": "fún adé-orí"
     },
     {
       "surface": "האחת",
-      "gloss": "kan"
+      "gloss": "⟨ẹyọkan náà⟩"
     },
     {
       "surface": "ושבעה",
-      "gloss": "àti meje"
+      "gloss": "àti méje"
     },
     {
       "surface": "לכתרת",
-      "gloss": "fún ⟨the⟩ orí-òpó"
+      "gloss": "fún adé-orí"
     },
     {
       "surface": "השנית",
-      "gloss": "kejì"
+      "gloss": "⟨èkejì náà⟩"
     }
   ],
-  "timestamp": "2026-08-23T01:13:13.108779806Z",
+  "timestamp": "2026-08-23T06:48:09.227005824Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 32,
-  "translation": "Rántí Avraham, fún Yitschak àti fún Yisrael, àwọn ìránṣẹ rẹ, tí íwọ ti búra fún wọn nípasẹ̀ ⟨ara⟩ rẹ, àti tí íwọ sọ fún wọn pé, èmi ó pa pọ̀ ⟨את⟩ irúgbin yín bíi àwọn ìràwọ̀ ọ̀run; àti gbogbo ilẹ̀ náà yìí tí mo ti sọ pé èmi ó fún irúgbin yín níi, àti wọn yóò jogún ní àìpin.",
+  "translation": "Rántí Avraham, Yitschak àti Yisrael, ìránṣẹ́ rẹ, tí ìwọ búra fún nípa rẹ̀ fúnra rẹ, tí ìwọ sì sọ fún wí pé, Èmi yóò pọ̀ jù ⟨את⟩ àwọn èso-ìdí rẹ tí ó pọ̀ bíi àwọn ìráwọ̀ ọ̀run, àti gbogbo ilẹ̀ yìí tí mo ti sọ pé èmi yóò fún àwọn èso-ìdí rẹ yín níṣí, wọ́n sì gbà á lẹ́yìn ní àìnípẹ̀kun.",
   "tokens": [
     {
       "surface": "זכר",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "לאברהם",
-      "gloss": "fún Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "ליצחק",
-      "gloss": "fún Yitschak"
+      "gloss": "Yitschak"
     },
     {
       "surface": "ולישראל",
-      "gloss": "àti fún Yisrael"
+      "gloss": "àti Yisrael"
     },
     {
       "surface": "עבדיך",
-      "gloss": "àwọn ìránṣẹ rẹ"
+      "gloss": "ìránṣẹ́ rẹ"
     },
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "נשבעת",
-      "gloss": "íwọ ti búra"
+      "gloss": "ìwọ búra"
     },
     {
       "surface": "להם",
@@ -41,32 +41,32 @@
     },
     {
       "surface": "בך",
-      "gloss": "nípasẹ̀ ⟨ara⟩ rẹ"
+      "gloss": "nípa rẹ̀ fúnra rẹ"
     },
     {
       "surface": "ותדבר",
-      "gloss": "àti tí íwọ sọ"
+      "gloss": "tí ìwọ sì sọ"
     },
     {
       "surface": "אלהם",
-      "gloss": "fún wọn"
+      "gloss": "fún wí"
     },
     {
       "surface": "ארבה",
-      "gloss": "èmi ó pa pọ̀"
+      "gloss": "Èmi yóò pọ̀ jù"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "irúgbin yín"
+      "marks": "àwọn èso-ìdí rẹ"
     },
     {
       "surface": "זרעכם",
-      "gloss": "irúgbin yín"
+      "gloss": "àwọn èso-ìdí rẹ"
     },
     {
       "surface": "ככוכבי",
-      "gloss": "bíi àwọn ìràwọ̀"
+      "gloss": "bíi àwọn ìráwọ̀"
     },
     {
       "surface": "השמים",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ilẹ̀ náà"
+      "gloss": "ilẹ̀"
     },
     {
       "surface": "הזאת",
@@ -94,17 +94,21 @@
     },
     {
       "surface": "אתן",
-      "gloss": "èmi ó fún"
+      "gloss": "èmi yóò fún"
     },
     {
       "surface": "לזרעכם",
-      "gloss": "fún irúgbin yín"
+      "gloss": "fún àwọn èso-ìdí rẹ yín"
     },
     {
       "surface": "ונחלו",
-      "gloss": "àti wọn yóò jogún"
+      "gloss": "wọ́n sì gbà á lẹ́yìn"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ní àìnípẹ̀kun"
     }
   ],
-  "timestamp": "2026-08-22T23:30:27.392210682Z",
+  "timestamp": "2026-08-23T06:35:49.665898487Z",
   "model": "glm-5.3"
 }

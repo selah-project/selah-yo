@@ -5,8 +5,69 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 18,
-  "translation": "Wọ́n sì gba á lọ́wọ́ láìpẹ́ lẹ́yìn ọdún mẹ́ta; ní ọdún kẹfà ti Chizkiyahu ni — ọdún kẹsàn-án ni fún Hoshea ọba Israẹli — wọ́n gba Shamaroni.",
-  "tokens": [],
-  "timestamp": "2026-08-23T01:33:39.041936735Z",
+  "translation": "Wọ́n sì gba á lọ́wọ́ láìpẹ́ ìparí ọdún mẹta; ní ọdún kẹfà ti Hizkiyahu — ìyẹn ni ọdún kẹsàn-án ti Hoshea ọba Israẹl — wọ́n gba Shomeron.",
+  "tokens": [
+    {
+      "surface": "וילכדה",
+      "gloss": "wọ́n sì gba á lọ́wọ́"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "láìpẹ́ ìparí"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mẹta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ní ọdún"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kẹfà"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "ti Hizkiyahu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ìyẹn ni"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "kẹsàn-án"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "ti Hoshea"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "wọ́n gba"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-23T06:41:03.024660476Z",
   "model": "glm-5.3"
 }

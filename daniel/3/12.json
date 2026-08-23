@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "yo",
   "chapter": 3,
-  "translation": "Ìwọ́ àwọn ọkùnrin Júà tí ìwọ ti yàn ⟨את⟩ wọn lórí iṣẹ́ ìjọba ìpínlẹ̀ Babel, Shadrak, Meyshak àti Abed-Nego; àwọn ọkùnrin wọnyí, ẹyin ọba, kò gbọ́ ìpinnu rẹ mọ́ tí: wọn kì í sìn àwọn ọlọ́run rẹ, wọn kì í sì kúnlẹ̀ jọ̀wọ́ fún ère wúrà tí ìwọ gbé kalẹ̀.",
+  "translation": "⟨Wà⟩ àwọn ọkùnrin Júù, tí ìwọ ti yàn lórí iṣẹ́ ìjọba agbègbè Babel — Shadrakh, Meshakh àti Aved-Nego; àwọn ọkùnrin yìí, ìwọ ọba, kò fi ọ̀rọ̀ rẹ ṣe ⟨ìwọ̀sàn⟩ — wọn kì í ṣíṣẹ́ fún àwọn ọlọ́run rẹ, wọn kì í sì sùn lọ́wọ́ fún ìwòró wúrà tí ìwọ ti gbé sókè.",
   "tokens": [
     {
       "surface": "איתי",
-      "gloss": "Ìwọ́"
+      "gloss": "⟨Wà⟩"
     },
     {
       "surface": "גברין",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יהודאין",
-      "gloss": "Júà"
+      "gloss": "Júù"
     },
     {
       "surface": "די",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "מנית",
-      "gloss": "ìwọ ti yàn"
+      "gloss": "ti ìwọ ti yàn"
     },
     {
       "surface": "יתהון",
       "gloss": "⟨את⟩",
-      "marks": "wọn"
+      "marks": "wọn (àwọn tí a yàn)"
     },
     {
       "surface": "על",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "עבידת",
-      "gloss": "iṣẹ́ ìjọba"
+      "gloss": "iṣẹ́"
     },
     {
       "surface": "מדינת",
-      "gloss": "ìpínlẹ̀"
+      "gloss": "ìjọba agbègbè"
     },
     {
       "surface": "בבל",
@@ -50,19 +50,19 @@
     },
     {
       "surface": "שדרך",
-      "gloss": "Shadrak"
+      "gloss": "Shadrakh"
     },
     {
       "surface": "מישך",
-      "gloss": "Meyshak"
+      "gloss": "Meshakh"
     },
     {
       "surface": "ועבד",
-      "gloss": "àti"
+      "gloss": "àti Aved"
     },
     {
       "surface": "נגו",
-      "gloss": "Abed-Nego"
+      "gloss": "Nego"
     },
     {
       "surface": "גבריא",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אלך",
-      "gloss": "wọnyí"
+      "gloss": "yìí"
     },
     {
       "surface": "לא",
@@ -78,23 +78,23 @@
     },
     {
       "surface": "שמו",
-      "gloss": "gbọ́…mọ́"
+      "gloss": "fi ọ̀rọ̀ rẹ ṣe"
     },
     {
       "surface": "עליך",
-      "gloss": "rẹ"
+      "gloss": "ìwọ"
     },
     {
       "surface": "מלכא",
-      "gloss": "ẹyin ọba"
+      "gloss": "ọba"
     },
     {
       "surface": "טעם",
-      "gloss": "ìpinnu"
+      "gloss": "⟨ìwọ̀sàn⟩"
     },
     {
       "surface": "לאלהיך",
-      "gloss": "àwọn ọlọ́run rẹ"
+      "gloss": "fún àwọn ọlọ́run rẹ"
     },
     {
       "surface": "לא",
@@ -102,11 +102,11 @@
     },
     {
       "surface": "פלחין",
-      "gloss": "sìn"
+      "gloss": "ṣíṣẹ́"
     },
     {
       "surface": "ולצלם",
-      "gloss": "wọn kì í sì kúnlẹ̀ jọ̀wọ́ fún ère"
+      "gloss": "sì sùn lọ́wọ́ fún ìwòró"
     },
     {
       "surface": "דהבא",
@@ -118,7 +118,7 @@
     },
     {
       "surface": "הקימת",
-      "gloss": "ìwọ gbé kalẹ̀"
+      "gloss": "ìwọ ti gbé sókè"
     },
     {
       "surface": "לא",
@@ -126,9 +126,9 @@
     },
     {
       "surface": "סגדין",
-      "gloss": "kúnlẹ̀ jọ̀wọ́"
+      "gloss": "sùn lọ́wọ́"
     }
   ],
-  "timestamp": "2026-08-23T04:49:45.315060501Z",
+  "timestamp": "2026-08-23T06:46:26.516442750Z",
   "model": "glm-5.3"
 }

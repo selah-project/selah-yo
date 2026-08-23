@@ -5,8 +5,50 @@
   "book": "2-samuel",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Ìwọ ni yóò kọ́ ilé fún orúkọ mi, èmi sì ni yóò fún ìjọba rẹ̀ ní ìdí tí ó gbẹ́yìn láé láé.",
-  "tokens": [],
-  "timestamp": "2026-08-23T00:58:43.292948721Z",
+  "translation": "Ìun ni yóò kọ́ ilé fún orúkọ mi, èmi sì ni yóò ṣẹ́ ìjọba rẹ̀, ⟨את⟩ àga-ìjọba rẹ̀, títí láéláé.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ìun"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "yóò kọ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "fún orúkọ mi"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "èmi sì ni yóò ṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àga-ìjọba rẹ̀"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "àga-ìjọba"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ìjọba rẹ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T06:38:19.419896073Z",
   "model": "glm-5.3"
 }

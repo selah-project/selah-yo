@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "yo",
   "chapter": 25,
-  "translation": "Ìbínú Yahweh sì bí sí Amatsyahu, ó sì rán ànìgbejà wá sí ọ̀dọ̀ rẹ̀, ó sì wí fún un pé: Èdé ti o bá ṣe ìwádìí ⟨את⟩ àwọn ọlọ́run ti ⟨the⟩ ìjọ náà, tí kò gbà ⟨את⟩ ìjọ wọn là kúrò lọ́wọ́ rẹ?",
+  "translation": "Ìbínú Yahweh yọ sí Amatsayahù, ó sì rán wọlíì sí i, ó sì sọ fún un pé: ìṣe tí o fi wá ⟨את⟩ àwọn ọlọ́run ti ìjọ náà, tí kò ṣeé gbà ⟨את⟩ ìjọ wọn là nípa ọwọ́ rẹ?",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "ìbínú sì bí"
+      "gloss": "yọ (ìbínú dé)"
     },
     {
       "surface": "אף",
-      "gloss": "ìmú-bínú"
+      "gloss": "ìbínú"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "באמציהו",
-      "gloss": "sí Amatsyahu"
+      "gloss": "sí Amatsayahù"
     },
     {
       "surface": "וישלח",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אליו",
-      "gloss": "sí ọ̀dọ̀ rẹ̀"
+      "gloss": "sí i"
     },
     {
       "surface": "נביא",
-      "gloss": "ànìgbejà"
+      "gloss": "wọlíì"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ó sì wí"
+      "gloss": "ó sì sọ"
     },
     {
       "surface": "לו",
@@ -45,16 +45,16 @@
     },
     {
       "surface": "למה",
-      "gloss": "èdé"
+      "gloss": "ìṣe tí"
     },
     {
       "surface": "דרשת",
-      "gloss": "ti o bá ṣe ìwádìí"
+      "gloss": "o fi wá"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn ọlọ́run"
+      "marks": "àwọn ọlọ́run ti ìjọ náà"
     },
     {
       "surface": "אלהי",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "ìjọ náà"
+      "gloss": "ti ìjọ náà"
     },
     {
       "surface": "אשר",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "kò"
+      "gloss": "kò ṣeé"
     },
     {
       "surface": "הצילו",
-      "gloss": "gbà wọn là"
+      "gloss": "gbà … là"
     },
     {
       "surface": "את",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "מידך",
-      "gloss": "kúrò lọ́wọ́ rẹ"
+      "gloss": "nípa ọwọ́ rẹ"
     }
   ],
-  "timestamp": "2026-08-23T05:34:01.060361524Z",
+  "timestamp": "2026-08-23T06:47:14.901378975Z",
   "model": "glm-5.3"
 }

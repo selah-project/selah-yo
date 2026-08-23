@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 12,
-  "translation": "Eke ni wọ́n ń sọ, ọ̀kọ̀ọ̀kan pẹ̀lú ọ̀rẹ́ rẹ̀ ⟨את⟩; ètè àṣekára, pẹ̀lú ọkàn àti ọkàn <ẹlẹ́mejì> ni wọ́n fi ń sọ̀rọ̀.",
+  "translation": "Ìparun ni àwọn ń sọ, ọ̀kọ̀ọ̀kan ⟨את⟩ ẹlọ́míràn rẹ̀; pẹ̀lú èté dídọ̀rọ̀ àti pẹ̀lú ọkàn-àti-ọkàn ni wọ́n ń sọ̀rọ̀.",
   "tokens": [
     {
       "surface": "שוא",
-      "gloss": "eke"
+      "gloss": "Ìparun"
     },
     {
       "surface": "ידברו",
@@ -22,33 +22,33 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọ̀rẹ́ rẹ̀"
+      "marks": "ẹlọ́míràn rẹ̀"
     },
     {
       "surface": "רעהו",
-      "gloss": "ọ̀rẹ́ rẹ̀"
+      "gloss": "ẹlọ́míràn rẹ̀"
     },
     {
       "surface": "שפת",
-      "gloss": "ètè"
+      "gloss": "èté"
     },
     {
-      "surface": "חלקòת",
-      "gloss": "àṣekára"
+      "surface": "חלקות",
+      "gloss": "dídọ̀rọ̀ (ìrọ̀rùn-èté)"
     },
     {
       "surface": "בלב",
-      "gloss": "pẹ̀lú ọkàn (kan)"
+      "gloss": "pẹ̀lú ọkàn"
     },
     {
       "surface": "ולב",
-      "gloss": "àti ọkàn (kejì)"
+      "gloss": "àti ọkàn"
     },
     {
       "surface": "ידברו",
-      "gloss": "ni wọ́n fi ń sọ̀rọ̀"
+      "gloss": "ni wọ́n ń sọ̀rọ̀"
     }
   ],
-  "timestamp": "2026-08-23T03:24:39.174813774Z",
+  "timestamp": "2026-08-23T06:44:07.728935754Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,28 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 107,
-  "translation": "Ó ṣe ìgbé àwọn odò di ijù, àti ìpàdé ìsàn omi di ilẹ̀ gbígbẹnù。",
+  "translation": "Ó ṣe ⟨את⟩ àwọn odò di ijọ́-ẹgàn, àti orísun omi di ilẹ̀ ìtọ̀ní;",
   "tokens": [
     {
       "surface": "ישם",
-      "gloss": "Ó ṣe ìgbé"
+      "gloss": "Ó ṣe di"
     },
     {
       "surface": "נהרות",
       "gloss": "àwọn odò"
     },
     {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn odò"
+    },
+    {
       "surface": "למדבר",
-      "gloss": "di ijù"
+      "gloss": "ijọ́-ẹgàn"
     },
     {
       "surface": "ומצאי",
-      "gloss": "àti ìpàdé ìsàn"
+      "gloss": "àti orísun"
     },
     {
       "surface": "מים",
@@ -29,9 +34,9 @@
     },
     {
       "surface": "לצמאון",
-      "gloss": "di ilẹ̀ gbígbẹnù"
+      "gloss": "ilẹ̀ ìtọ̀ní"
     }
   ],
-  "timestamp": "2026-08-23T03:52:09.187167469Z",
+  "timestamp": "2026-08-23T06:51:12.421490291Z",
   "model": "glm-5.3"
 }

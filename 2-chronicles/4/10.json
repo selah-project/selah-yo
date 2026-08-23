@@ -5,24 +5,24 @@
   "book": "2-chronicles",
   "lang": "yo",
   "chapter": 4,
-  "translation": "Ó sì fi ⟨את⟩ odò ńlá náà sí ipò ẹ̀gbẹ́ ọ̀tún, ní ìhà ìlà-oòrùn, níwájú gúúsù.",
+  "translation": "Ó sì fi ⟨את⟩ Odò Ìyì náà sí ẹ̀gbẹ́ ọ̀tún ní ìhà ìlà-oòrùn, ní àtẹ́lẹwọ́ gúúsù.",
   "tokens": [
     {
-      "surface": "ויתן",
-      "gloss": "⟨את⟩ Ó sì fi ... sí"
-    },
-    {
-      "surface": "את",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "odò ńlá náà"
+      "marks": "Odò Ìyì náà"
     },
     {
       "surface": "הים",
-      "gloss": "odò ńlá náà"
+      "gloss": "Odò Ìyì náà"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "fi … sí"
     },
     {
       "surface": "מכתף",
-      "gloss": "ní ipò ẹ̀gbẹ́"
+      "gloss": "ẹ̀gbẹ́"
     },
     {
       "surface": "הימנית",
@@ -30,17 +30,17 @@
     },
     {
       "surface": "קדמה",
-      "gloss": "ní ìhà ìlà-oòrùn"
+      "gloss": "ìhà ìlà-oòrùn"
     },
     {
       "surface": "ממול",
-      "gloss": "níwájú"
+      "gloss": "ní àtẹ́lẹwọ́"
     },
     {
       "surface": "נגבה",
       "gloss": "gúúsù"
     }
   ],
-  "timestamp": "2026-08-23T05:22:48.493012850Z",
+  "timestamp": "2026-08-23T06:46:53.416289803Z",
   "model": "glm-5.3"
 }

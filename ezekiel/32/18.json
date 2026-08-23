@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "yo",
   "chapter": 32,
-  "translation": "Ọmọ ènìyàn, kọ ìgbó-sí-àwọn-òkú fún ìjọpọ̀ Mitzrayim, kí o sì sọ ọ́kalẹ̀ sí i — ⟨את⟩ ẹni náà àti àwọn obìnrin àwọn orílẹ̀-èdè alágbára — sí ilẹ̀ isalẹ̀-jùlọ, ⟨pẹ̀lú⟩ àwọn tí ń bọ̀ sí ihò ìkọ̀ǹ (אותה⟨⟩)",
+  "translation": "Ọmọ ènìyàn, kọ orin ìbánújẹ́ lórí ìpọ̀njà Mitzrayim, sì sọ ọ́ sí ìsàlẹ̀ — ⟨את⟩ ìnáwó rẹ̀ àti àwọn ọmọbìnrin àwọn orílẹ̀-èdè alágbára — sí ilẹ̀ ìsàlẹ̀ ìsàlẹ̀, pẹ̀lú ⟨את⟩ àwọn tí ń bọ̀ sínú iho ìkòkò.",
   "tokens": [
     {
       "surface": "בן",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "נהה",
-      "gloss": "kọ ìgbó-sí-àwọn-òkú"
+      "gloss": "kọ orin ìbánújẹ́"
     },
     {
       "surface": "על",
-      "gloss": "fún"
+      "gloss": "lórí"
     },
     {
       "surface": "המון",
-      "gloss": "ìjọpọ̀"
+      "gloss": "ìpọ̀njà"
     },
     {
       "surface": "מצרים",
@@ -33,15 +33,16 @@
     },
     {
       "surface": "והורדהו",
-      "gloss": "kí o sì sọ ọ́kalẹ̀ sí i"
+      "gloss": "sì sọ ọ́ sí ìsàlẹ̀"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ẹni náà"
+      "gloss": "⟨את⟩ ìnáwó rẹ̀",
+      "marks": "àwọn ọmọbìnrin àwọn orílẹ̀-èdè alágbára"
     },
     {
       "surface": "ובנות",
-      "gloss": "àti àwọn obìnrin"
+      "gloss": "àti àwọn ọmọbìnrin"
     },
     {
       "surface": "גוים",
@@ -61,22 +62,22 @@
     },
     {
       "surface": "תחתיות",
-      "gloss": "isalẹ̀-jùlọ"
+      "gloss": "ìsàlẹ̀ ìsàlẹ̀"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn tí ń bọ̀ sí ihò ìkọ̀ǹ"
+      "marks": "àwọn tí ń bọ̀ sínú iho ìkòkò"
     },
     {
       "surface": "יורדי",
-      "gloss": "àwọn tí ń bọ̀ sí"
+      "gloss": "àwọn tí ń bọ̀ sí ìsàlẹ̀"
     },
     {
       "surface": "בור",
-      "gloss": "ihò ìkọ̀ǹ"
+      "gloss": "iho ìkòkò"
     }
   ],
-  "timestamp": "2026-08-23T02:49:47.397922126Z",
+  "timestamp": "2026-08-23T06:43:00.359111076Z",
   "model": "glm-5.3"
 }

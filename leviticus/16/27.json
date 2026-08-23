@@ -5,62 +5,62 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 16,
-  "translation": "Wọ́n sì yóò gbé ⟨את⟩ malù ẹ̀ṣẹ̀ náà àti ⟨את⟩ ẹwùrẹ akọ ẹ̀ṣẹ̀ náà, èyí tí wọ́n ti mú ⟨את⟩ ẹjẹ wọn wá láti fi ṣe ìpàdàbọ̀ nínu ⟨the⟩ ayọ̀ mímọ́, jáde síta sí eti ⟨the⟩ ìpàdé-ogun; wọ́n sì yóò sún wọ́n ní iná: ⟨את⟩ ara-wo wọn, àti ⟨את⟩ ẹran wọn, àti ⟨את⟩ ìgbọ̀n wọn.",
+  "translation": "Àti ⟨את⟩ màlúù ẹṣẹ̀ àti ⟨את⟩ ewúrẹ́tíbú ẹṣẹ̀, tí ẹjẹ́ wọn wá wọlé láti ṣe ìṣẹ̀ṣù ní áyò mímọ́, ni a ó gbé jáde sí ìta ìpako; wọn ó sì sun ní iná ⟨את⟩ awọ wọn àti ⟨את⟩ ẹran ara wọn àti ⟨את⟩ ẹ̀gbà wọn.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "malù ẹ̀ṣẹ̀ náà"
+      "gloss": "Àti ⟨את⟩",
+      "marks": "màlúù ẹṣẹ̀"
     },
     {
       "surface": "פר",
-      "gloss": "malù"
+      "gloss": "màlúù"
     },
     {
       "surface": "החטאת",
-      "gloss": "ẹ̀ṣẹ̀ náà"
+      "gloss": "ẹṣẹ̀"
     },
     {
       "surface": "ואת",
       "gloss": "àti ⟨את⟩",
-      "marks": "ẹwùrẹ akọ ẹ̀ṣẹ̀ náà"
+      "marks": "ewúrẹ́tíbú ẹṣẹ̀"
     },
     {
       "surface": "שעיר",
-      "gloss": "ẹwùrẹ akọ"
+      "gloss": "ewúrẹ́tíbú"
     },
     {
       "surface": "החטאת",
-      "gloss": "ẹ̀ṣẹ̀ náà"
+      "gloss": "ẹṣẹ̀"
     },
     {
       "surface": "אשר",
-      "gloss": "èyí tí"
+      "gloss": "tí"
     },
     {
       "surface": "הובא",
-      "gloss": "wọ́n ti mú ... wá"
+      "gloss": "wá wọlé"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ẹjẹ wọn"
+      "marks": "ẹjẹ́ wọn"
     },
     {
       "surface": "דמם",
-      "gloss": "ẹjẹ wọn"
+      "gloss": "ẹjẹ́ wọn"
     },
     {
       "surface": "לכפר",
-      "gloss": "láti fi ṣe ìpàdàbọ̀"
+      "gloss": "láti ṣe ìṣẹ̀ṣù"
     },
     {
       "surface": "בקדש",
-      "gloss": "nínu ayọ̀ mímọ́"
+      "gloss": "ní áyò mímọ́"
     },
     {
       "surface": "יוציא",
-      "gloss": "yóò gbé ... jáde síta"
+      "gloss": "ni a ó gbé jáde"
     },
     {
       "surface": "אל",
@@ -68,15 +68,15 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "síta"
+      "gloss": "ìta"
     },
     {
       "surface": "למחנה",
-      "gloss": "sí eti ìpàdé-ogun"
+      "gloss": "ìpako"
     },
     {
       "surface": "ושרפו",
-      "gloss": "wọ́n sì yóò sún wọ́n"
+      "gloss": "wọn ó sì sun"
     },
     {
       "surface": "באש",
@@ -85,31 +85,31 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ara-wo wọn"
+      "marks": "awọ wọn"
     },
     {
       "surface": "ערתם",
-      "gloss": "ara-wo wọn"
+      "gloss": "awọ wọn"
     },
     {
       "surface": "ואת",
       "gloss": "àti ⟨את⟩",
-      "marks": "ẹran wọn"
+      "marks": "ẹran ara wọn"
     },
     {
       "surface": "בשרם",
-      "gloss": "ẹran wọn"
+      "gloss": "ẹran ara wọn"
     },
     {
       "surface": "ואת",
       "gloss": "àti ⟨את⟩",
-      "marks": "ìgbọ̀n wọn"
+      "marks": "ẹ̀gbà wọn"
     },
     {
       "surface": "פרשם",
-      "gloss": "ìgbọ̀n wọn"
+      "gloss": "ẹ̀gbà wọn"
     }
   ],
-  "timestamp": "2026-08-22T23:42:36.384323178Z",
+  "timestamp": "2026-08-23T06:50:52.250918961Z",
   "model": "glm-5.3"
 }

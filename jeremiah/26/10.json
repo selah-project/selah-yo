@@ -5,32 +5,28 @@
   "book": "jeremiah",
   "lang": "yo",
   "chapter": 26,
-  "translation": "Àwọn olórí ⟨את⟩ Yehudah sì gbọ́ ⟨את⟩ ọ̀rọ̀ wọnyí, wọ́n sì gòódè láti ilé ọba wá sí ilé Yahweh, wọ́n sì jókòó ní ẹnu ọ̀nà ìlẹ́kùn tuntun ti Yahweh.",
+  "translation": "Nígbà tí àwọn olórí Yehuda gbọ́ ⟨את⟩ àwọn ọ̀rọ̀ wọnyí, wọ́n sì gọ̀ sílẹ̀ láti inú ilé ọba wá sí ilé Yahweh, wọ́n sì jókòó ní ẹnu-ọ̀nà ọ̀nà tuntun ti Yahweh.",
   "tokens": [
     {
       "surface": "וישמעו",
-      "gloss": "sì gbọ́"
+      "gloss": "gbọ́"
     },
     {
       "surface": "שרי",
       "gloss": "àwọn olórí"
     },
     {
-      "surface": "יהוה",
-      "gloss": ""
-    },
-    {
       "surface": "יהודה",
-      "gloss": "⟨את⟩ Yehudah"
+      "gloss": "Yehuda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọ̀rọ̀ wọnyí"
+      "marks": "àwọn ọ̀rọ̀"
     },
     {
       "surface": "הדברים",
-      "gloss": "ọ̀rọ̀"
+      "gloss": "àwọn ọ̀rọ̀"
     },
     {
       "surface": "האלה",
@@ -38,11 +34,11 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "wọ́n sì gòódè"
+      "gloss": "wọ́n sì gọ̀ sílẹ̀"
     },
     {
       "surface": "מבית",
-      "gloss": "láti ilé"
+      "gloss": "láti inú ilé"
     },
     {
       "surface": "המלך",
@@ -62,21 +58,21 @@
     },
     {
       "surface": "בפתח",
-      "gloss": "ní ẹnu"
+      "gloss": "ní ẹnu-ọ̀nà"
     },
     {
       "surface": "שער",
-      "gloss": "ọ̀nà ìlẹ́kùn"
+      "gloss": "ọ̀nà"
     },
     {
       "surface": "יהוה",
-      "gloss": "ti Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "החדש",
       "gloss": "tuntun"
     }
   ],
-  "timestamp": "2026-08-23T02:19:08.865094324Z",
+  "timestamp": "2026-08-23T06:41:15.177349425Z",
   "model": "glm-5.3"
 }

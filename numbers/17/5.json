@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 17,
-  "translation": "Ìrántí fún àwọn ọmọ Yisrael, nítorí kí ènìyàn òmùgọ̀ kan, tí kì í ṣe ti ìrùsọ Aharon, má ṣe sun mọ́ láti jọ adùn sísun níwájú Yahweh, kí ó má baà wà bí Korah àti bí ìjọ rẹ̀, gẹ́gẹ́ bí Yahweh ti sọ sí ⟨i⟩ nípasẹ̀ Moshe.",
+  "translation": "Irántíṣí fún àwọn ọmọ Yisrael, nítorí pé kí ènìyàn àjèjì, tí kì í ṣe ti ìrùsọ Aharon, má ṣe sún mọ́ láti fi sun ìgérìńnú níwájú Yahweh; kí ó má ṣe ṣe bí Korah àti bí ègbé rẹ̀ ṣe ṣe, gẹ́gẹ́ bí Yahweh ti sọ sí i nípasẹ̀ Moshe.",
   "tokens": [
     {
       "surface": "זכרון",
-      "gloss": "Ìrántí"
+      "gloss": "Irántíṣí"
     },
     {
       "surface": "לבני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "למען",
-      "gloss": "nítorí kí"
+      "gloss": "nítorí pé"
     },
     {
       "surface": "אשר",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "יקרב",
-      "gloss": "sun mọ́"
+      "gloss": "sún mọ́"
     },
     {
       "surface": "איש",
-      "gloss": "èniyàn kan"
+      "gloss": "ènìyàn"
     },
     {
       "surface": "זר",
-      "gloss": "òmùgọ̀"
+      "gloss": "àjèjì"
     },
     {
       "surface": "אשר",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "להקטיר",
-      "gloss": "láti jọ"
+      "gloss": "láti fi sun"
     },
     {
       "surface": "קטרת",
-      "gloss": "adùn sísun"
+      "gloss": "ìgérìńnú"
     },
     {
       "surface": "לפני",
@@ -80,8 +80,12 @@
       "gloss": "Yahweh"
     },
     {
-      "surface": "ויהי",
-      "gloss": "kí ó má baà wà"
+      "surface": "ולא",
+      "gloss": "kí ó má ṣe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ṣe"
     },
     {
       "surface": "כקרח",
@@ -89,7 +93,7 @@
     },
     {
       "surface": "וכעדתו",
-      "gloss": "àti bí ìjọ rẹ̀"
+      "gloss": "àti bí ègbé rẹ̀"
     },
     {
       "surface": "כאשר",
@@ -113,9 +117,9 @@
     },
     {
       "surface": "לו",
-      "gloss": "sí ⟨i⟩"
+      "gloss": "sí i"
     }
   ],
-  "timestamp": "2026-08-22T23:57:29.254692715Z",
+  "timestamp": "2026-08-23T06:36:52.986246979Z",
   "model": "glm-5.3"
 }

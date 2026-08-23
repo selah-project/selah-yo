@@ -5,20 +5,20 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 30,
-  "translation": "Ó sì gbé ⟨את⟩ àwọn ọ̀gbọ́n tí ó ṣí ewé rẹ̀ sílẹ̀ sí àwọn ojú-omi tí ó ń ṣàn sí àwọn àpò-omi níbi tí àwọn ẹran máa ń wá láti mu — níwájú àwọn ẹran náà; wọ́n sì fẹ́rẹ́ to léra nígbà tí wọ́n bá wọ̀ láti mu.",
+  "translation": "Ó sì gbé ⟨את⟩ àwọn ọ̀yà tí ó ti ṣẹ́ já sí àwọn ihò omi, nínú àwọn kẹ̀gbé omi, níbi tí àwọn ọ̀yà ti máa ń wọ̀, níwájú àwọn ọ̀yà, wọ́n sì fara wẹ́ nígbà tí wọ́n wọ̀ láti mu omi.",
   "tokens": [
     {
       "surface": "ויצג",
-      "gloss": "ó sì gbé sílẹ̀"
+      "gloss": "ó sì gbé"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn ọ̀gbọ́n"
+      "marks": "àwọn ọ̀yà"
     },
     {
       "surface": "המקלות",
-      "gloss": "àwọn ọ̀gbọ́n"
+      "gloss": "àwọn ọ̀yà"
     },
     {
       "surface": "אשר",
@@ -26,19 +26,19 @@
     },
     {
       "surface": "פצל",
-      "gloss": "ó ṣí ewé rẹ̀ sílẹ̀"
+      "gloss": "ó ṣẹ́ já"
     },
     {
       "surface": "ברהטים",
-      "gloss": "sí àwọn ojú-omi tí ó ń ṣàn"
+      "gloss": "sí àwọn ihò omi"
     },
     {
       "surface": "בשקתות",
-      "gloss": "sí àwọn àpò-omi"
+      "gloss": "nínú àwọn kẹ̀gbé"
     },
     {
       "surface": "המים",
-      "gloss": "omí"
+      "gloss": "omi"
     },
     {
       "surface": "אשר",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "תבאן",
-      "gloss": "wọ́n máa ń wá"
+      "gloss": "wọ̀"
     },
     {
       "surface": "הצאן",
-      "gloss": "àwọn ẹran"
+      "gloss": "àwọn ọ̀yà"
     },
     {
       "surface": "לשתות",
@@ -62,21 +62,21 @@
     },
     {
       "surface": "הצאן",
-      "gloss": "àwọn ẹran náà"
+      "gloss": "àwọn ọ̀yà"
     },
     {
       "surface": "ויחמנה",
-      "gloss": "wọ́n sì fẹ́rẹ́ to léra"
+      "gloss": "wọ́n sì fara wẹ́"
     },
     {
       "surface": "בבאן",
-      "gloss": "nígbà tí wọ́n bá wọ̀"
+      "gloss": "nígbà tí wọ́n wọ̀"
     },
     {
       "surface": "לשתות",
-      "gloss": "láti mu"
+      "gloss": "láti mu omi"
     }
   ],
-  "timestamp": "2026-08-22T23:05:45.689722511Z",
+  "timestamp": "2026-08-23T06:34:55.811917944Z",
   "model": "glm-5.3"
 }

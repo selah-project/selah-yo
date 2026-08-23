@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 16,
-  "translation": "Ẹni tí ó sì sún ⟨את⟩ wọn yóò fọ aṣọ rẹ̀, ó sì yóò yọ ⟨את⟩ ara rẹ̀ nínu omi, lẹ́yìn tí ó ṣe bẹ́ẹ̀ ni yóò wọ inú ⟨the⟩ ìpàdé-ogun.",
+  "translation": "Ẹni tí ó sún wọ́n, yóò fọ̀ aṣọ rẹ̀, yóò sì fọ ⟨את⟩ ara rẹ̀ nínú omi, lẹ́yìn náà ni yóò wọ inú ìpàdé-ogun.",
   "tokens": [
     {
       "surface": "והשרף",
-      "gloss": "Ẹni tí ó sì sún"
+      "gloss": "Ẹni tí ó sún wọ́n"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ wọn",
-      "marks": "wọn (àwọn ẹran ẹ̀ṣẹ̀)"
+      "gloss": "⟨את⟩",
+      "marks": "wọ́n"
     },
     {
       "surface": "יכבס",
-      "gloss": "yóò fọ"
+      "gloss": "yóò fọ̀"
     },
     {
       "surface": "בגדיו",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ורחץ",
-      "gloss": "ó sì yóò yọ ... nínu omi"
+      "gloss": "yóò sì fọ"
     },
     {
       "surface": "את",
@@ -39,15 +39,15 @@
     },
     {
       "surface": "במים",
-      "gloss": "nínu omi"
+      "gloss": "nínú omi"
     },
     {
       "surface": "ואחרי",
-      "gloss": "lẹ́yìn tí"
+      "gloss": "lẹ́yìn"
     },
     {
       "surface": "כן",
-      "gloss": "ó ṣe bẹ́ẹ̀"
+      "gloss": "náà"
     },
     {
       "surface": "יבוא",
@@ -62,6 +62,6 @@
       "gloss": "ìpàdé-ogun"
     }
   ],
-  "timestamp": "2026-08-22T23:42:36.384495004Z",
+  "timestamp": "2026-08-23T06:37:22.312928401Z",
   "model": "glm-5.3"
 }

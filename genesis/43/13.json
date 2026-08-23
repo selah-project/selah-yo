@@ -5,20 +5,20 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 43,
-  "translation": "Mú ⟨את⟩ àwọn ará yín, dìde, padà sí ọ̀dọ̀ ⟨the⟩ olùkúlùkù náà.",
+  "translation": "Gba ⟨את⟩ arakùnrin yín, dìde, padà sí ọ̀dọ̀ okùnrin náà.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "arakùnrin yín"
     },
     {
       "surface": "אחיכם",
-      "gloss": "àwọn ará yín",
-      "marks": "àwọn ará yín"
+      "gloss": "arakùnrin yín"
     },
     {
       "surface": "קחו",
-      "gloss": "mú"
+      "gloss": "gba"
     },
     {
       "surface": "וקומו",
@@ -34,9 +34,9 @@
     },
     {
       "surface": "האיש",
-      "gloss": "olùkúlùkù náà"
+      "gloss": "okùnrin náà"
     }
   ],
-  "timestamp": "2026-08-22T23:12:14.131249462Z",
+  "timestamp": "2026-08-23T06:50:58.160225291Z",
   "model": "glm-5.3"
 }

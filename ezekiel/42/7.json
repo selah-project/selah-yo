@@ -5,27 +5,27 @@
   "book": "ezekiel",
   "lang": "yo",
   "chapter": 42,
-  "translation": "Àti pápá tí ó wà ní àìrí, ní ìdojúkọ àwọn yàrá, ní ọ̀nà ⟨the⟩ ọgbà inú ìta, níwájú àwọn yàrá — ìgùn rẹ̀ jẹ́ àádọ́ta ìwọ̀n ẹlẹ́sẹ̀.",
+  "translation": "Àti pé ògiri tí ó wà ní ìta, tí ó dojú ko àwọn yàrá ìṣùrà, ní ọ̀nà ọ̀yà ìta, níwájú àwọn yàrá ìṣùrà — ìgùn rẹ̀ jẹ́ ọgọ́rùn-ún márùn-dín-lọ́nà-àádọ́ta ⟨ámà⟩.",
   "tokens": [
     {
       "surface": "וגדר",
-      "gloss": "Àti pápá"
+      "gloss": "Àti pé ògiri"
     },
     {
       "surface": "אשר",
-      "gloss": "tí ó wà"
+      "gloss": "tí ó wà ní ìta, tí ó dojú ko"
     },
     {
       "surface": "לחוץ",
-      "gloss": "ní àìrí"
+      "gloss": "ní ìta"
     },
     {
       "surface": "לעמת",
-      "gloss": "ní ìdojúkọ"
+      "gloss": "dojú ko"
     },
     {
       "surface": "הלשכות",
-      "gloss": "àwọn yàrá"
+      "gloss": "àwọn yàrá ìṣùrà"
     },
     {
       "surface": "דרך",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "החצר",
-      "gloss": "⟨the⟩ ọgbà"
+      "gloss": "ọ̀yà"
     },
     {
       "surface": "החצונה",
-      "gloss": "inú ìta"
+      "gloss": "ìta"
     },
     {
       "surface": "אל",
-      "gloss": "sí"
+      "gloss": "ní"
     },
     {
       "surface": "פני",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "הלשכות",
-      "gloss": "àwọn yàrá"
+      "gloss": "àwọn yàrá ìṣùrà"
     },
     {
       "surface": "ארכו",
-      "gloss": "ìgùn rẹ̀"
+      "gloss": "ìgùn rẹ̀ jẹ́"
     },
     {
       "surface": "חמשים",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "אמה",
-      "gloss": "ìwọ̀n ẹlẹ́sẹ̀"
+      "gloss": "⟨ámà⟩"
     }
   ],
-  "timestamp": "2026-08-23T06:01:40.253005744Z",
+  "timestamp": "2026-08-23T06:43:21.165409910Z",
   "model": "glm-5.3"
 }

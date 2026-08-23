@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 1,
-  "translation": "Tsadok adóṣọ náà sì gba ⟨את⟩ ìgẹ́ òróró náà láti inú àgọ́ náà, ó sì fi òróró yìí ṣe Shelomoh látọ́ (משח), wọ́n sì fọ́ fèéṣì, gbogbo àwọn ènìyàn náà sì wí pé, Kí ọba Shelomoh ṣe ààyò!",
+  "translation": "Tsadok adóhùn náà sá ⟨את⟩ ìgà óróró-ojú-lẹ̀rẹ́ láti inú àgọ́ náà, ó sí sọ Shelomoh lóróró; wọn ìlu ìgà fóná, gbogbo ènìyàn náà sì wí pé: Kí ọba Shelomoh lẹ́kùnrẹ́rẹ́!",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "sì gba"
+      "gloss": "sá"
     },
     {
       "surface": "צדוק",
@@ -17,32 +17,32 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "adóṣọ náà"
+      "gloss": "adóhùn náà"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìgẹ́ òróró náà"
+      "marks": "ìgà óróró-ojú-lẹ̀rẹ́"
     },
     {
       "surface": "קרן",
-      "gloss": "ìgẹ́"
+      "gloss": "ìgà"
     },
     {
       "surface": "השמן",
-      "gloss": "òróró náà"
+      "gloss": "óróró-ojú-lẹ̀rẹ́ náà"
     },
     {
       "surface": "מן",
-      "gloss": "láti inú"
+      "gloss": "láti"
     },
     {
       "surface": "האהל",
-      "gloss": "àgọ́ náà"
+      "gloss": "inú àgọ́ náà"
     },
     {
       "surface": "וימשח",
-      "gloss": "ó sì fi òróró yìí ṣe… látọ́"
+      "gloss": "ó sí sọ…lóróró"
     },
     {
       "surface": "את",
@@ -55,15 +55,15 @@
     },
     {
       "surface": "ויתקעו",
-      "gloss": "wọ́n sì fọ́"
+      "gloss": "wọn ìlu ìgà fóná"
     },
     {
       "surface": "בשופר",
-      "gloss": "fèéṣì"
+      "gloss": "pẹ̀lú ìgà fóná"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "wọ́n sì wí pé"
+      "gloss": "wọn sì wí pé"
     },
     {
       "surface": "כל",
@@ -71,21 +71,21 @@
     },
     {
       "surface": "העם",
-      "gloss": "àwọn ènìyàn náà"
+      "gloss": "ènìyàn náà"
     },
     {
       "surface": "יחי",
-      "gloss": "kí ó ṣe ààyò"
+      "gloss": "Kí…lẹ́kùnrẹ́rẹ́"
     },
     {
       "surface": "המלך",
-      "gloss": "ọba"
+      "gloss": "ọba náà"
     },
     {
       "surface": "שלמה",
       "gloss": "Shelomoh"
     }
   ],
-  "timestamp": "2026-08-23T01:10:15.799123986Z",
+  "timestamp": "2026-08-23T06:38:50.975463923Z",
   "model": "glm-5.3"
 }

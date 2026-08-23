@@ -5,27 +5,23 @@
   "book": "nehemiah",
   "lang": "yo",
   "chapter": 8,
-  "translation": "Nechemjah — òun ni Tirshata — àti Ezra adóṣẹ́, akọ̀wé, àti àwọn Levi ⟨את⟩ tí ń ṣe ìmọ̀lágbọ́n fún ⟨את⟩ àwọn ènìyàn, wí fún gbogbo àwọn ènìyàn pé: Òmímọ́ ni ọjọ́ yìí sí Yahweh, Elohim yín; ẹ máṣe farabínú, ẹ máṣe sì sunkún; nítorí pé gbogbo àwọn ènìyàn ń sunkún ⟨את⟩ nígbàtí wọ́n gbọ́ ⟨את⟩ ọ̀rọ̀ Torah náà.",
+  "translation": "Nehemiah — ọ̀gá-àgbà (ha tí n jé Tirshata) — àti Ezra àlùfáà-oníwé, àti àwọn Lefi tí ó ń fún ⟨את⟩ ìjọ ní òye, wọ́n wí fún gbogbo ìjọ pé: Òní ni ọjọ́ mímọ́ fún Yahweh, Elohim yín; ẹ má ṣe búnú-ẹ̀gbé, ẹ sì má ṣe kigbe-kẹ̀gbẹ́; nítorí gbogbo ìjọ ń sunkún-agbára nígbà tí wọ́n gbọ́ ⟨את⟩ ọ̀rọ̀ Tora náà.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ó wí"
+      "gloss": "wọ́n wí"
     },
     {
       "surface": "נחמיה",
-      "gloss": "Nechemjah"
+      "gloss": "Nehemiah"
     },
     {
       "surface": "הוא",
-      "gloss": "òun"
+      "gloss": "ọ̀gá-àgbà (ha)"
     },
     {
       "surface": "התרשתא",
       "gloss": "Tirshata"
-    },
-    {
-      "surface": "ויאמר_placeholder",
-      "gloss": ""
     },
     {
       "surface": "ועזרא",
@@ -33,28 +29,28 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "adóṣẹ́"
+      "gloss": "àlùfáà"
     },
     {
       "surface": "הספר",
-      "gloss": "akọ̀wé"
+      "gloss": "oníwé"
     },
     {
       "surface": "והלוים",
-      "gloss": "àti àwọn Levi"
+      "gloss": "àti àwọn Lefi"
     },
     {
       "surface": "המבינים",
-      "gloss": "⟨את⟩ tí ń ṣe ìmọ̀lágbọ́n"
+      "gloss": "tí ó ń fún ní òye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn ènìyàn"
+      "marks": "ìjọ"
     },
     {
       "surface": "העם",
-      "gloss": "àwọn ènìyàn"
+      "gloss": "ìjọ"
     },
     {
       "surface": "לכל",
@@ -62,15 +58,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "àwọn ènìyàn"
+      "gloss": "ìjọ"
     },
     {
       "surface": "היום",
-      "gloss": "ọjọ́ yìí"
+      "gloss": "òní"
     },
     {
       "surface": "קדש",
-      "gloss": "òmímọ́"
+      "gloss": "ọjọ́ mímọ́"
     },
     {
       "surface": "הוא",
@@ -78,7 +74,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "sí Yahweh"
+      "gloss": "fún Yahweh"
     },
     {
       "surface": "אלהיכם",
@@ -86,27 +82,27 @@
     },
     {
       "surface": "אל",
-      "gloss": "ẹ máṣe"
+      "gloss": "ẹ má ṣe"
     },
     {
       "surface": "תתאבלו",
-      "gloss": "farabínú"
+      "gloss": "búnú-ẹ̀gbé"
     },
     {
       "surface": "ואל",
-      "gloss": "ẹ máṣe sì"
+      "gloss": "ẹ sì má ṣe"
     },
     {
       "surface": "תבכו",
-      "gloss": "sunkún"
+      "gloss": "kigbe-kẹ̀gbẹ́"
     },
     {
       "surface": "כי",
-      "gloss": "nítorí pé"
+      "gloss": "nítorí"
     },
     {
       "surface": "בוכים",
-      "gloss": "ń sunkún"
+      "gloss": "ń sunkún-agbára"
     },
     {
       "surface": "כל",
@@ -114,16 +110,16 @@
     },
     {
       "surface": "העם",
-      "gloss": "àwọn ènìyàn"
+      "gloss": "ìjọ"
     },
     {
       "surface": "כשמעם",
-      "gloss": "⟨את⟩ nígbàtí wọ́n gbọ́"
+      "gloss": "nígbà tí wọ́n gbọ́"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọ̀rọ̀"
+      "marks": "ọ̀rọ̀ Tora náà"
     },
     {
       "surface": "דברי",
@@ -131,9 +127,9 @@
     },
     {
       "surface": "התורה",
-      "gloss": "Torah náà"
+      "gloss": "Tora náà"
     }
   ],
-  "timestamp": "2026-08-23T05:05:29.502084366Z",
+  "timestamp": "2026-08-23T06:46:39.078045497Z",
   "model": "glm-5.3"
 }

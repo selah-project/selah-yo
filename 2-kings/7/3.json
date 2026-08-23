@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Àwọn ọkùnrin mẹ́rin sì wà, àwọn alárùn-ẹ̀rà, ní ẹnu ⟨the⟩ ilẹ̀kùn; wọ́n sì wí, ọkùnrin kan sí ọrẹ́ rẹ̀, bí àwa ṣe ń jókòó níbí yìí títí di ọjọ́ tí a ó kú?",
+  "translation": "Àwọn ọkùnrin mẹ́rin jẹ́ eléègbọ́n ní ojú ọ̀nà ìlú, wọ́n sì sọ ọ̀kan sí ẹlọ̀míràn pé, Kí ni tí àwa ń jókòó níbí títí dí ìkú?",
   "tokens": [
     {
       "surface": "וארבעה",
-      "gloss": "mẹ́rin sì"
+      "gloss": "àti mẹ́rin"
     },
     {
       "surface": "אנשים",
@@ -17,27 +17,27 @@
     },
     {
       "surface": "היו",
-      "gloss": "wà"
+      "gloss": "jẹ́"
     },
     {
       "surface": "מצרעים",
-      "gloss": "àwọn alárùn-ẹ̀rà"
+      "gloss": "eléègbọ́n"
     },
     {
       "surface": "פתח",
-      "gloss": "ẹnu"
+      "gloss": "ojú"
     },
     {
       "surface": "השער",
-      "gloss": "ilẹ̀kùn"
+      "gloss": "ọ̀nà ìlú"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "wọ́n sì wí"
+      "gloss": "wọ́n sì sọ"
     },
     {
       "surface": "איש",
-      "gloss": "ọkùnrin kan"
+      "gloss": "ọ̀kan"
     },
     {
       "surface": "אל",
@@ -45,18 +45,18 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "ọrẹ́ rẹ̀"
+      "gloss": "ẹlọ̀míràn"
     },
     {
       "surface": "מה",
-      "gloss": "bí"
+      "gloss": "kí ni"
     },
     {
       "surface": "אנחנו",
       "gloss": "àwa"
     },
     {
-      "surface": "ישבים",
+      "surface": "יושבים",
       "gloss": "ń jókòó"
     },
     {
@@ -65,13 +65,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "títí"
+      "gloss": "títí dí"
     },
     {
       "surface": "מתנו",
-      "gloss": "di ọjọ́ tí a ó kú"
+      "gloss": "ìkú"
     }
   ],
-  "timestamp": "2026-08-23T05:53:05.963932252Z",
+  "timestamp": "2026-08-23T06:41:03.260408636Z",
   "model": "glm-5.3"
 }

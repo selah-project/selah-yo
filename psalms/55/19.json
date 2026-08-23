@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 55,
-  "translation": "Ó gbà èmi mi là ní àlàáfíà lọ́dọ̀ ẹni tí ó dojú kọ mi; nítorí tí ọ̀pọ̀ ló wà pẹ̀lú mi.",
+  "translation": "⟨O⟩ padà ní àlàáfíà ẹ̀mí mi kúrò̀ nínú ìjà tí ń dojú kọ mi; nítorí pẹ̀lú púpọ̀ ni wọ́n wà pẹ̀lú mi.",
   "tokens": [
     {
       "surface": "פדה",
-      "gloss": "Ó gbà … là"
+      "gloss": "padà"
     },
     {
       "surface": "בשלום",
@@ -17,15 +17,11 @@
     },
     {
       "surface": "נפשי",
-      "gloss": "èmi mi"
+      "gloss": "ẹ̀mí mi"
     },
     {
       "surface": "מקרב",
-      "gloss": "lọ́dọ̀"
-    },
-    {
-      "surface": "liwo",
-      "gloss": ""
+      "gloss": "kúrò̀ nínú ìjà tí ń dojú kọ"
     },
     {
       "surface": "לי",
@@ -33,11 +29,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "nítorí tí"
+      "gloss": "nítorí"
     },
     {
       "surface": "ברבים",
-      "gloss": "ọ̀pọ̀ ló"
+      "gloss": "pẹ̀lú púpọ̀"
     },
     {
       "surface": "היו",
@@ -48,6 +44,6 @@
       "gloss": "pẹ̀lú mi"
     }
   ],
-  "timestamp": "2026-08-23T03:36:02.224333464Z",
+  "timestamp": "2026-08-23T06:44:27.047441404Z",
   "model": "glm-5.3"
 }

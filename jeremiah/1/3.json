@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "yo",
   "chapter": 1,
-  "translation": "Ó sì ṣẹlẹ̀ ní àwọn ọjọ́ Yehoyakim ọmọ Yoshiyahu, ọba Yehudah, títí di ìparun ọdún kọkànlá dé Tsidkiyahu ọmọ Yoshiyahu, ọba Yehudah, títí di ìgbà tí a gbé Yerushalayim lọ ni ìgbèkùn, ní oṣù karùn-ún.",
+  "translation": "Ó sì wáyé ní àwọn ọjọ́ Yehoyakim ọmọ Yoshiyahu, ọba Yehudah, títí di ìparun ọdún kẹrinlá ìjọba Tsidkiyahu ọmọ Yoshiyahu, ọba Yehudah, títí di ìsọ̀ọ̀wọ̀ Yerushalayim lọ́ṣẹ̀ kẹrin… ní oṣù karùn-ún.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ó sì ṣẹlẹ̀"
+      "gloss": "Ó sì wáyé"
     },
     {
       "surface": "בימי",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "עשתי",
-      "gloss": "<kọkànlá>"
+      "gloss": "kẹrinlá (ọ̀kan-dín-lógún)"
     },
     {
       "surface": "עשרה",
-      "gloss": "<kọkànlá dé>"
+      "gloss": "kẹrinlá"
     },
     {
       "surface": "שנה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "לצדקיהו",
-      "gloss": "Tsidkiyahu"
+      "gloss": "ìjọba Tsidkiyahu"
     },
     {
       "surface": "בן",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "גלות",
-      "gloss": "ìgbèkùn"
+      "gloss": "ìsọ̀ọ̀wọ̀"
     },
     {
       "surface": "ירושלם",
@@ -96,6 +96,6 @@
       "gloss": "karùn-ún"
     }
   ],
-  "timestamp": "2026-08-23T02:05:53.687201477Z",
+  "timestamp": "2026-08-23T06:42:07.334220566Z",
   "model": "glm-5.3"
 }

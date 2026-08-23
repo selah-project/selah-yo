@@ -5,24 +5,24 @@
   "book": "2-samuel",
   "lang": "yo",
   "chapter": 8,
-  "translation": "Dawidì sì lu ⟨את⟩ Hadadezeri ọmọ Rehobu, ọba Zobahu, nígbà tí ó ń lọ láti da ọwọ́ rẹ̀ padà ní odò <Eufrati>.",
+  "translation": "Dafidi lu Hadadezer ọmọ Rehov, ọba Zobah, nígbà tí ó ń lọ láti da ọwọ́ rẹ̀ padà ní odò Euphrates.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "ó sì lu"
+      "gloss": "lu"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawidì"
+      "gloss": "Dafidi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Hadadezeri"
+      "marks": "Hadadezer"
     },
     {
       "surface": "הדדעזר",
-      "gloss": "Hadadezeri"
+      "gloss": "Hadadezer"
     },
     {
       "surface": "בן",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "רחב",
-      "gloss": "Rehobu"
+      "gloss": "Rehov"
     },
     {
       "surface": "מלך",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "צובה",
-      "gloss": "Zobahu"
+      "gloss": "Zobah"
     },
     {
       "surface": "בלכתו",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "להשיב",
-      "gloss": "láti da padà"
+      "gloss": "láti da ... padà"
     },
     {
       "surface": "ידו",
@@ -57,6 +57,6 @@
       "gloss": "ní odò"
     }
   ],
-  "timestamp": "2026-08-23T00:59:57.930260247Z",
+  "timestamp": "2026-08-23T06:38:30.585759652Z",
   "model": "glm-5.3"
 }

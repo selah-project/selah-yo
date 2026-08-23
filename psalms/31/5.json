@@ -5,28 +5,23 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 31,
-  "translation": "Mú mi jáde nínú òkùnkùn tí wọ́n fi sínú ìdìnnì fún mi; nítorí ìwọ ni ìgboro mi.",
+  "translation": "Mu mi jáde kúrò nínú ọ̀kọ̀ yìí tí wọ́n fi pamọ́ sílẹ̀ fún mi; nítorí tí ìwọ ni ìgbohunsọfúnni-ìdí mi.",
   "tokens": [
     {
       "surface": "תוציאני",
-      "gloss": "mú mi jáde"
+      "gloss": "Mu mi jáde"
     },
     {
       "surface": "מרשת",
-      "gloss": "ìnà òkùnkùn"
+      "gloss": "kúrò nínú ọ̀kọ̀"
     },
     {
       "surface": "זו",
-      "gloss": "eyi"
-    },
-    {
-      "surface": "טמנuo",
-      "gloss": "wọ́n fi pamọ́",
-      "note": "typo guard: surface is טמנו"
+      "gloss": "yìí"
     },
     {
       "surface": "טמנו",
-      "gloss": "wọ́n fi pamọ́ sílẹ̀ fún"
+      "gloss": "tí wọ́n fi pamọ́ sílẹ̀"
     },
     {
       "surface": "לי",
@@ -34,7 +29,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "nítorí"
+      "gloss": "nítorí tí"
     },
     {
       "surface": "אתה",
@@ -42,9 +37,9 @@
     },
     {
       "surface": "מעוזי",
-      "gloss": "ìgboro mi"
+      "gloss": "ìgbohunsọfúnni-ìdí mi"
     }
   ],
-  "timestamp": "2026-08-23T03:29:09.793176668Z",
+  "timestamp": "2026-08-23T06:44:07.458845573Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "yo",
   "chapter": 6,
-  "translation": "Rántí, Elohim mi, Toviyah àti Sanvalat nítorí àwọn iṣẹ́ wọn wọnyí, àti Ndíà wòlíì-bìnrin, àti Yeter àti àwọn wòlíì mìíràn tí wọ́n ń pa mí lẹ́rù ⟨את⟩.",
+  "translation": "Rántí, Elohim mi, Toviya àti Sanbalati gẹ́gẹ́ bí i ṣe iṣẹ́ wọn yìí, àti Nodiya wòlíyà obìnrin náà, àti àwọn wòlíyà tí ó kù, tí wọ́n ti ń ṣe mí ní líla ⟨את⟩-mi.",
   "tokens": [
     {
       "surface": "זכרה",
@@ -17,15 +17,39 @@
     },
     {
       "surface": "לטוביה",
-      "gloss": "Toviyah"
+      "gloss": "Toviya"
     },
     {
-      "surface": "ויתר",
-      "gloss": "àti Yeter"
+      "surface": "ולסנבלט",
+      "gloss": "àti Sanbalati"
+    },
+    {
+      "surface": "כמעשיו",
+      "gloss": "gẹ́gẹ́ bí i ṣe iṣẹ́ wọn"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti"
+    },
+    {
+      "surface": "לנועדיה",
+      "gloss": "Nodiya"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "wòlíyà obìnrin náà"
+    },
+    {
+      "surface": "וליתר",
+      "gloss": "àti àwọn tí ó kù"
     },
     {
       "surface": "הנביאים",
-      "gloss": "àwọn wòlíì mìíràn"
+      "gloss": "àwọn wòlíyà"
     },
     {
       "surface": "אשר",
@@ -33,17 +57,18 @@
     },
     {
       "surface": "היו",
-      "gloss": "wọ́n jẹ́"
+      "gloss": "wọ́n ti"
     },
     {
       "surface": "מיראים",
-      "gloss": "ń pa lẹ́rù"
+      "gloss": "ń ṣe ní líla"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mí"
+      "gloss": "⟨את⟩-mi",
+      "marks": "mi (Nehemaya)"
     }
   ],
-  "timestamp": "2026-08-23T06:11:56.499970414Z",
+  "timestamp": "2026-08-23T06:46:19.234842938Z",
   "model": "glm-5.3"
 }

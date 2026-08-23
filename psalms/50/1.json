@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 50,
-  "translation": "Orin-kíkọ fún Asaf; El, Elohim, Yahweh, ó ti sọ̀rọ̀, ó pe ⟨את⟩ ayé, láti ìhà-ìlà-oòrùn oòrùn títí dé ìgbà-ìwọ̀ rẹ̀.",
+  "translation": "Orin-ìdàsílẹ̀ ti Asaf. El, Elohim, Yahweh, ó ti sọ̀rọ̀, ó sì pè ⟨את⟩ ayé, láti ìhà-ìla-oòrùn òòrùn títí dé ìwọ̀-oòrùn rẹ̀.",
   "tokens": [
     {
       "surface": "מזמור",
-      "gloss": "Orin-kíkọ"
+      "gloss": "Orin-ìdàsílẹ̀"
     },
     {
       "surface": "לאסף",
-      "gloss": "fún Asaf"
+      "gloss": "ti Asaf"
     },
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "ó pe"
+      "gloss": "ó sì pè"
     },
     {
       "surface": "את",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "ממזרח",
-      "gloss": "láti ìhà-ìlà-oòrùn"
+      "gloss": "láti ìhà-ìla-oòrùn"
     },
     {
       "surface": "שמש",
-      "gloss": "oòrùn"
+      "gloss": "òòrùn"
     },
     {
       "surface": "עד",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "מבאו",
-      "gloss": "ìgbà-ìwọ̀ rẹ̀"
+      "gloss": "ìwọ̀-oòrùn rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T03:35:22.092342530Z",
+  "timestamp": "2026-08-23T06:44:17.115359940Z",
   "model": "glm-5.3"
 }

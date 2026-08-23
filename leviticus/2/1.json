@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 2,
-  "translation": "Ẹnìyàn tí ó bá kó ebo ìròybọ̀ wá fún Yahweh, ìròsùn fífẹ̀ ni yóò jẹ́ ebo rẹ̀; ó sì yóò da epo sí i lórí, ó sì yóò fi ìtọ̀ kan sí i lórí.",
+  "translation": "Ẹ̀mí kan tí ó bá kó ẹbùn-ìṣẹ, minchah, wá fún Yahweh — fàdàkà-fùn ni ẹbùn-ìṣẹ rẹ̀ yóò jẹ́; kí ó sì rọ epo lóri rẹ̀, kí ó sì fi lubonah lé e lórí.",
   "tokens": [
     {
       "surface": "ונפש",
-      "gloss": "ẹnìyàn"
+      "gloss": "Ẹ̀mí kan sì"
     },
     {
       "surface": "כי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "תקריב",
-      "gloss": "kó ... wá"
+      "gloss": "kó"
     },
     {
       "surface": "קרבן",
-      "gloss": "ebo"
+      "gloss": "ẹbùn-ìṣẹ"
     },
     {
       "surface": "מנחה",
-      "gloss": "ìròybọ̀"
+      "gloss": "minchah"
     },
     {
       "surface": "ליהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "סלת",
-      "gloss": "ìròsùn fífẹ̀"
+      "gloss": "fàdàkà-fùn"
     },
     {
       "surface": "יהיה",
@@ -41,37 +41,33 @@
     },
     {
       "surface": "קרבנו",
-      "gloss": "ebo rẹ̀"
+      "gloss": "ẹbùn-ìṣẹ rẹ̀"
     },
     {
       "surface": "ויצק",
-      "gloss": "ó sì yóò da"
+      "gloss": "kí ó sì rọ"
     },
     {
       "surface": "עליה",
-      "gloss": "sí i lórí"
+      "gloss": "lóri rẹ̀"
     },
     {
       "surface": "שמן",
       "gloss": "epo"
     },
     {
-      "surface": "ויצק",
-      "gloss": ""
-    },
-    {
       "surface": "ונתן",
-      "gloss": "ó sì yóò fi ... sí i lórí"
+      "gloss": "kí ó sì fi"
     },
     {
       "surface": "עליה",
-      "gloss": ""
+      "gloss": "lé e lórí"
     },
     {
       "surface": "לבנה",
-      "gloss": "ìtọ̀"
+      "gloss": "lubonah"
     }
   ],
-  "timestamp": "2026-08-22T23:35:00.203986455Z",
+  "timestamp": "2026-08-23T06:35:58.613936018Z",
   "model": "glm-5.3"
 }

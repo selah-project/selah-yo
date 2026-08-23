@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "yo",
   "chapter": 6,
-  "translation": "Ìlú náà yóò jẹ́ ⟨חֵרֶם⟩ — ìpaniyan-láì-nínú — ìpaniyan fún Yahweh, àti gbogbo ní ti níbẹ̀; Rakhav aláṣẹ̀ṣe náà nìkan ni yóò yè, òun àti gbogbo tí ó wà pẹ̀lú rẹ̀ nínú ilé, nítorí tí ó fi àwọn ìránṣẹ́ tí a rànṣẹ́ pamọ́ ⟨את⟩.",
+  "translation": "Ìlú náà yóò jẹ́ ìpamọ́-ìparun, ìpẹ́ rẹ̀ gan-an àti gbogbo nnkan tí ó wà nínú rẹ̀, fún Yahweh; ní ṣe pàtó Rachab alákọ̀sẹ́ ni yóò yè, òun àti gbogbo nnkan ⟨את⟩-pẹ̀lú rẹ̀ nínú ilé, nítorí pé ó pamọ́ ⟨את⟩ àwọn ìránṣẹ́ tí a ràn.",
   "tokens": [
     {
       "surface": "והיתה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "חרם",
-      "gloss": "חֵרֶם (ìpaniyan)"
+      "gloss": "ìpamọ́-ìparun"
     },
     {
       "surface": "היא",
-      "gloss": "ìpaniyan"
+      "gloss": "ìpẹ́ rẹ̀ gan-an"
     },
     {
       "surface": "וכל",
-      "gloss": "àti gbogbo"
+      "gloss": "àti gbogbo nnkan"
     },
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "wà níbẹ̀"
+      "gloss": "wà nínú rẹ̀"
     },
     {
       "surface": "ליהוה",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "רק",
-      "gloss": "nìkan ni"
+      "gloss": "ní ṣe pàtó"
     },
     {
       "surface": "רחב",
-      "gloss": "Rakhav"
+      "gloss": "Rachab"
     },
     {
       "surface": "הזונה",
-      "gloss": "aláṣẹ̀ṣe náà"
+      "gloss": "alákọ̀sẹ́"
     },
     {
       "surface": "תחיה",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "היא",
-      "gloss": "ìpaniyan-ìfaradà"
+      "gloss": "òun"
     },
     {
       "surface": "וכל",
-      "gloss": "àti gbogbo"
+      "gloss": "àti gbogbo nnkan"
     },
     {
       "surface": "אשר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ pẹ̀lú"
+      "gloss": "⟨את⟩ pẹ̀lú rẹ̀"
     },
     {
       "surface": "בבית",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "nítorí tí"
+      "gloss": "nítorí pé"
     },
     {
       "surface": "החבאתה",
-      "gloss": "ó fi pamọ́"
+      "gloss": "ó pamọ́"
     },
     {
       "surface": "את",
@@ -98,9 +98,9 @@
     },
     {
       "surface": "שלחנו",
-      "gloss": "a rànṣẹ́"
+      "gloss": "a ràn"
     }
   ],
-  "timestamp": "2026-08-23T00:24:35.396722364Z",
+  "timestamp": "2026-08-23T06:38:37.344922799Z",
   "model": "glm-5.3"
 }

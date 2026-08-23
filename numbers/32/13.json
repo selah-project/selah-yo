@@ -5,8 +5,73 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 32,
-  "translation": "Ìbínú Yahweh kó síṣẹ́ sílẹ̀ lórí Yisrael, ó sì fi wọ́n ṣe ìrìn-àtijọ ní àwọ̀nú nígbà gbogbo nínú ìgbó-àyẹ̀wò láàárín ọdún méjìlélọ́gbọ̀n, tí ìrú ọ̀rọ̀ tí ó ń ṣe búburú ní ojú Yahweh fi parun.",
-  "tokens": [],
-  "timestamp": "2026-08-23T00:03:39.813121711Z",
+  "translation": "Ìbínú Yahweh kọ̀ láti sọ́nù sí ìjọba Yisrael, ó sì fi wọn ṣe ìrìn-àjò àìní-lọ́nà nínú ìdanú fún ọdún ogójì, títí di ìparun gbogbo ìràn tí ó ṣe búburú ní ojú Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "kọ̀ láti sọ́nù sí"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ìbínú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sí ìjọba Yisrael"
+    },
+    {
+      "surface": "וינעם",
+      "gloss": "ó fi wọn ṣe ìrìn-àjò àìní-lọ́nà"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nínú ìdanú"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ogójì"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ìparun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ìràn"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "tí ó ṣe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T06:38:04.436346339Z",
   "model": "glm-5.3"
 }

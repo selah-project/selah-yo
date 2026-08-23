@@ -5,13 +5,33 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 41,
-  "translation": "Ilẹ̀ sì ṣe èso pọ̀ jọjọ nínú àwọn ọdún méje ti èébù púpọ̀, pẹ̀lú iṣu kíkún-ọwọ́.",
+  "translation": "Ní àwọn ọdún méje ti ìpòrùrù, ilẹ̀ náà ṣe èso ⟨ní⟩ owó-ọ̀wọ́ owó-ọ̀wọ́.",
   "tokens": [
     {
-      "surface": "ויקבץ-placeholder",
-      "gloss": ""
+      "surface": "ותעש",
+      "gloss": "ṣe èso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "ní méje"
+    },
+    {
+      "surface": "שני",
+      "gloss": "àwọn ọdún"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ti ìpòrùrù"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "ní owó-ọ̀wọ́ owó-ọ̀wọ́"
     }
   ],
-  "timestamp": "2026-08-22T23:11:03.268943178Z",
+  "timestamp": "2026-08-23T06:34:02.548866245Z",
   "model": "glm-5.3"
 }

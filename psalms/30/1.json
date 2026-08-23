@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 30,
-  "translation": "Mizmor, orin ìyì ìṣẹ̀dá ilé, ti Dawid.",
+  "translation": "Mizmor, orin ìgbéragá ilé, ti David.",
   "tokens": [
     {
       "surface": "מזמור",
@@ -17,17 +17,17 @@
     },
     {
       "surface": "חנכת",
-      "gloss": "ìṣẹ̀dá ìyì"
+      "gloss": "ìgbéragá"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ ilé"
+      "gloss": "ilé ⟨na⟩"
     },
     {
       "surface": "לדוד",
-      "gloss": "ti Dawid"
+      "gloss": "ti David"
     }
   ],
-  "timestamp": "2026-08-23T03:28:35.327633414Z",
+  "timestamp": "2026-08-23T06:44:31.345227233Z",
   "model": "glm-5.3"
 }

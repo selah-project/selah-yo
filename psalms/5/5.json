@@ -5,8 +5,45 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 5,
-  "translation": "Nítorí kì í ṣe El tí ó fẹ́ràn ìkọ̀gbẹ́gbẹ́ ìwà ẹ̀yà ẹ̀ṣẹ̀ ni Ọ̀wọ́n: nítorí ìbàjẹ́ kì í gbé pẹ̀lú rẹ.",
-  "tokens": [],
-  "timestamp": "2026-08-23T03:22:43.079182632Z",
+  "translation": "Nítorí ìwọ kì í ṣe El tí ó fẹ́ ṣẹ̀ṣẹ̀; búburú kì yóò gbẹ̀dọ̀ dọ̀dọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "tí ó fẹ́"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ṣẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "yóò gbẹ̀dọ̀ dọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T06:43:26.342966631Z",
   "model": "glm-5.3"
 }

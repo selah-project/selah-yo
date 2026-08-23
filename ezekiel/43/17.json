@@ -5,8 +5,98 @@
   "book": "ezekiel",
   "lang": "yo",
   "chapter": 43,
-  "translation": "Àti pé pẹ̀tẹ́ẹsẹ̀ náà jẹ́ ogúníníṣẹ̀ márùn-ún ní gigùn, ní ogúníníṣẹ̀ márùn-ún ní íbú, sí àwọn egbé rẹ̀ mẹ́rin; àti pé ìlà-òòrùn-òòrùn...",
-  "tokens": [],
-  "timestamp": "2026-08-23T02:56:51.884729166Z",
+  "translation": "Ìtẹ̀ ńlá náà sì jẹ́ mẹ́rìnlá ámà láàárín àti mẹ́rìnlá ámà fífẹ̀, sí àwọn ìgún mẹ́rin rẹ̀; ààlà tí yí i ká sì ní ààbọ̀ ámà, ṣìṣẹ̀ rẹ̀ sì ní ámà kan ní ìkàìrí; àwọn ìgbesẹ̀ rẹ̀ sì ń wo ìlà-oòrùn.",
+  "tokens": [
+    {
+      "surface": "והעזרה",
+      "gloss": "àti ìtẹ̀ ńlá náà"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mẹ́rìn"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ẹ̀wá"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "ní mẹ́rìn"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ẹ̀wá"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "fífẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "mẹ́rin"
+    },
+    {
+      "surface": "רבעיה",
+      "gloss": "ìgún rẹ̀"
+    },
+    {
+      "surface": "והגבול",
+      "gloss": "àti ààlà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tí yí i ká"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ààlà"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ààbọ̀"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ámà"
+    },
+    {
+      "surface": "והחיק",
+      "gloss": "àti ṣìṣẹ̀ rẹ̀"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ámà kan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní ìkàìrí"
+    },
+    {
+      "surface": "ומעלתהו",
+      "gloss": "àti àwọn ìgbesẹ̀ rẹ̀"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "ń wo"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ìlà-oòrùn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:44:19.883553366Z",
   "model": "glm-5.3"
 }

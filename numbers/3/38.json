@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 3,
-  "translation": "Àwọn tí ó ń dúró káàbọ̀ níwájú ⟨the⟩ tabernacle, ní ìlà-oòrùn, níwájú ⟨the⟩ àgɔ èpè ní ìlà-oòrùn, ni Moshe àti Aharon pẹ̀lú àwọn ọmọ rẹ̀, tí wọ́n ń ṣọ́ àṣọju ⟨the⟩ ìmọ́lẹ̀ fún àṣọju àwọn ọmọ Yisrael; ẹnìyàn àjèjì tí ó sún mọ́lá yóò kú.",
+  "translation": "Àwọn tí ó ń dúró de déwu níwájú àgọ́ náà, ní ìlà-oòrùn, níwájú àgọ́ ìpàdé, ní ìlà-oòrùn — Moshe, Aharon àti àwọn ọmọ rẹ̀, ń ṣọ́ ìṣọ́-ṣòòṣà ní ààyè mímọ́ nítorí ìṣọ́ ti àwọn ọmọ Yisrael; ọ̀tá lọ́mọ̀ ajãní tí ó bá sún mọ́ ní yóò kú.",
   "tokens": [
     {
       "surface": "והחנים",
-      "gloss": "Àwọn tí ó ń dúró káàbọ̀"
+      "gloss": "àwọn tí ó ń dúró de déwu"
     },
     {
       "surface": "לפני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "tabernacle"
+      "gloss": "àgọ́ náà"
     },
     {
       "surface": "קדמה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אהל",
-      "gloss": "àgɔ"
+      "gloss": "àgọ́"
     },
     {
       "surface": "מועד",
-      "gloss": "èpè"
+      "gloss": "ìpàdé"
     },
     {
       "surface": "מזרחה",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "pẹ̀lú àwọn ọmọ rẹ̀"
+      "gloss": "àti àwọn ọmọ rẹ̀"
     },
     {
       "surface": "שמרים",
-      "gloss": "tí wọ́n ń ṣọ́"
+      "gloss": "ń ṣọ́"
     },
     {
       "surface": "משמרת",
-      "gloss": "àṣọju"
+      "gloss": "ìṣọ́-ṣòòṣà"
     },
     {
       "surface": "המקדש",
-      "gloss": "ìmọ́lẹ̀"
+      "gloss": "ààyè mímọ́"
     },
     {
       "surface": "למשמרת",
-      "gloss": "fún àṣọju"
+      "gloss": "nítorí ìṣọ́"
     },
     {
       "surface": "בני",
@@ -77,17 +77,17 @@
     },
     {
       "surface": "והזר",
-      "gloss": "ẹnìyàn àjèjì"
+      "gloss": "ọ̀tá lọ́mọ̀ ajãní"
     },
     {
       "surface": "הקרב",
-      "gloss": "tí ó sún mọ́lá"
+      "gloss": "tí ó bá sún mọ́"
     },
     {
       "surface": "יומת",
       "gloss": "yóò kú"
     }
   ],
-  "timestamp": "2026-08-22T23:49:53.587965629Z",
+  "timestamp": "2026-08-23T06:51:00.788600042Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,73 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 13,
-  "translation": "Àti ẹni-tí-ó-ní-àrùn-ara, tí ó ṣeé, inú rẹ̀ ni ìṣẹ̀lẹ̀ náà wà — aṣọ rẹ̀ yóò jẹ́ ìfàwọ́-tí-a-tàn, orí rẹ̀ yóò jẹ́ ìfila-ṣoṣo, ó sì máa bo ète ẹnu rẹ̀, ó sì máa pè Pé-è-è-mọ́, pé-è-è-mọ́.",
-  "tokens": [],
-  "timestamp": "2026-08-22T23:39:31.604705324Z",
+  "translation": "Àti ẹni-aláìsàn-ewọ́ tí ewọ́ náà wà lára rẹ̀, aṣọ rẹ̀ yóò wà ní ti a fà tà, orí rẹ̀ yóò sì wà ní ti a sọ́ nítẹ́lẹ̀, ó sì gbọ́ ẹ̀nu-òṣùú rẹ̀ bọ́, ó sì máa ń pè pé 'Aláìmọ́, aláìmọ́.'",
+  "tokens": [
+    {
+      "surface": "והצרוע",
+      "gloss": "àti ẹni-aláìsàn-ewọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lára rẹ̀"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ewọ́ náà"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "פרמים",
+      "gloss": "ní ti a fà tà"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "àti orí rẹ̀"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "פרוע",
+      "gloss": "ní ti a sọ́ nítẹ́lẹ̀"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ó sì ní lórí"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "ẹ̀nu-òṣùú rẹ̀"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "gbọ́ bọ́"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ó sì pè 'aláìmọ́'"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "aláìmọ́"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ó máa ń pè"
+    }
+  ],
+  "timestamp": "2026-08-23T06:36:35.025087913Z",
   "model": "glm-5.3"
 }

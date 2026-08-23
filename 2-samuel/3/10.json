@@ -5,23 +5,23 @@
   "book": "2-samuel",
   "lang": "yo",
   "chapter": 3,
-  "translation": "láti yí ⟨the⟩ ìjọba kúrò nínú ilé Shaúl, àti láti gbé ⟨את⟩ àga-ìjọba David sókè lórí Yisrael àti lórí Yehuda, láti Dan dé Beer-Sheva.",
+  "translation": "láti fi ìjọba kúrò nílẹ́ ilé Shaul, àti láti gbé ⟨את⟩ ìtẹ́ Dàfídì sókè lórí Yisrael àti lórí Yehudah, láti Deani dé Beer-Sheva.",
   "tokens": [
     {
       "surface": "להעביר",
-      "gloss": "láti yí ... kúrò"
+      "gloss": "láti fi ... kúrò (jẹ́ kí ó kọjá)"
     },
     {
       "surface": "הממלכה",
-      "gloss": "ìjọba"
+      "gloss": "ìjọba náà"
     },
     {
       "surface": "מבית",
-      "gloss": "nínú ilé"
+      "gloss": "nílẹ́ ilé"
     },
     {
       "surface": "שאול",
-      "gloss": "Shaúl"
+      "gloss": "Shaul"
     },
     {
       "surface": "ולהקים",
@@ -30,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àga-ìjọba David"
+      "marks": "ìtẹ́ Dàfídì"
     },
     {
       "surface": "כסא",
-      "gloss": "àga-ìjọba"
+      "gloss": "ìtẹ́"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Dàfídì"
     },
     {
       "surface": "על",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yehudah"
     },
     {
       "surface": "מדן",
-      "gloss": "láti Dan"
+      "gloss": "láti Deani"
     },
     {
       "surface": "ועד",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "באר",
-      "gloss": "Beer-"
+      "gloss": "Beer"
     },
     {
       "surface": "שבע",
       "gloss": "Sheva"
     }
   ],
-  "timestamp": "2026-08-23T00:57:21.115501088Z",
+  "timestamp": "2026-08-23T06:38:23.806602652Z",
   "model": "glm-5.3"
 }

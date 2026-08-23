@@ -5,46 +5,42 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 10,
-  "translation": "Ẹ sì gé ⟨את⟩ àbùlá ọkàn yín kúrò, ẹ má sì ṣe le ṣíṣe orí yín mọ́ sí ìgbà kan sí i.",
+  "translation": "Ẹ sì gẹ ⟨את⟩ àwọ̀ ọkàn yín kúrò, ẹ sì máṣe le okàn yín mú mọ́ nípa tí ǹ oyún yín kún lẹ́yìn ìgbà yìí mọ́;",
   "tokens": [
     {
       "surface": "ומלתם",
-      "gloss": "Ẹ sì gé kúrò"
+      "gloss": "ẹ sì gẹ…kúrò"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àbùlá ọkàn yín"
+      "marks": "àwọ̀ ọkàn yín"
     },
     {
       "surface": "ערלת",
-      "gloss": "àbùlá"
+      "gloss": "àwọ̀"
     },
     {
       "surface": "לבבכם",
       "gloss": "ọkàn yín"
     },
     {
-      "surface": "ו",
-      "gloss": "ẹ má sì"
-    },
-    {
-      "surface": "ערפכם",
-      "gloss": "ṣíṣe orí yín"
+      "surface": "וערפכם",
+      "gloss": "oyún yín"
     },
     {
       "surface": "לא",
-      "gloss": "má ṣe"
+      "gloss": "máṣe"
     },
     {
       "surface": "תקשו",
-      "gloss": "le"
+      "gloss": "le…mú"
     },
     {
       "surface": "עוד",
-      "gloss": "sí ìgbà kan sí i"
+      "gloss": "mọ́"
     }
   ],
-  "timestamp": "2026-08-23T00:09:50.507266474Z",
+  "timestamp": "2026-08-23T06:47:42.595566069Z",
   "model": "glm-5.3"
 }

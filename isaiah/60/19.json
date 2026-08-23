@@ -5,8 +5,85 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 60,
-  "translation": "Orun kì yóó ṣe ìmọ́lẹ̀ ìrọ̀wọ́ rẹ àtijọ́, ìmọ́lẹ̀ òsùpá kì yóó tàn fún ọ̀rọ̀ rẹ; Yahweh ni yóó jẹ́ ìmọ́lẹ̀ àìnípẹ̀kun fún ọ, Ọlọ́hun rẹ ni yóó jẹ́ ọ̀ṣọ́ àti ọlá rẹ.",
-  "tokens": [],
-  "timestamp": "2026-08-23T02:02:54.080344799Z",
+  "translation": "Oòrùn kì yóò wà fún ọ́ mọ́ gẹ́gẹ́ bí ìmọ́lẹ̀ ọ̀sán, àti fún ìtàn-ánmọ́lárá oòru òṣùpá kì yóò tàn fún ọ́; Yahweh ni yóò jẹ́ fún ọ́ ní ìmọ́lẹ̀ àìnípẹ̀kun, àti Elohim rẹ ní ọ̀lá-ìbukún rẹ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ́"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "oòrùn"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "gẹ́gẹ́ bí ìmọ́lẹ̀"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ọ̀sán"
+    },
+    {
+      "surface": "ולנגה",
+      "gloss": "àti fún ìtàn-ánmọ́lárá"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "oòṣùpá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "yóò tàn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ́"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ni yóò jẹ́"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ní ìmọ́lẹ̀"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "àìnípẹ̀kun"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "àti Elohim rẹ"
+    },
+    {
+      "surface": "לתפארתך",
+      "gloss": "ní ọ̀lá-ìbukún rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:42:47.157143783Z",
   "model": "glm-5.3"
 }

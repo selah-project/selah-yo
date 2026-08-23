@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "yo",
   "chapter": 1,
-  "translation": "Ọkùnrin náà sì lọ sí ilẹ̀ àwọn Heti, ó sì kó ilú kan sílẹ̀, ó sì pè orúkọ rẹ̀ ní Luz; orúkọ rẹ̀ ni bẹ́ẹ́ títí di ọjọ́ yìí.",
+  "translation": "Ọkùnrin náà sì lọ sí ilẹ̀ àwọn Heti, ó sì kó ilú kan, ó sì pè orúkọ rẹ̀ ní Luz — ìyẹn ni orúkọ rẹ̀ títí di ọjọ́ yìí.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "ó sì lọ"
+      "gloss": "sì lọ"
     },
     {
       "surface": "האיש",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויבן",
-      "gloss": "ó sì kó sílẹ̀"
+      "gloss": "ó sì kó"
     },
     {
       "surface": "עיר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ó"
+      "gloss": "ìyẹn"
     },
     {
       "surface": "שמה",
@@ -57,9 +57,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "ọjọ́ yìí"
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
     }
   ],
-  "timestamp": "2026-08-23T00:31:55.190045126Z",
+  "timestamp": "2026-08-23T06:37:52.991122223Z",
   "model": "glm-5.3"
 }

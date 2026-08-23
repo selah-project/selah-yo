@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "yo",
   "chapter": 34,
-  "translation": "Wọ́n wọ́ àwọn pẹpẹ́ ẹbọ ⟨את⟩ àwọn Baal lu níwájú rẹ̀; àwọn ẹre òòrùn tí ó wà lókè wọn, ó gé wọn lulẹ̀; àwọn Ashera, àti àwọn ẹre kíkún, àti àwọn ẹre ìwú, ó fọ́ wọ́n, ó sì lọ́nà wọ́n di èérú, ó sì tà wọ́n ká lórí àwọn sísàn tí àwọn tí ń ṣe ẹbọ sí wọn.",
+  "translation": "Wọ́n run ṣíṣẹ́ níwájú rẹ̀ ⟨את⟩ àwọn àgúnmingbọ̀ àwọn Baal, àti àwọn ìwọ̀n oòrùn tí ó wà láàárín ìsàlẹ̀ wọn, ó gé wọ́n kúrò; àti àwọn Asherah, àti àwọn ìṣẹ̀dá-àwòrán, àti àwọn ìlẹ̀kọ̀ ìyọ̀sọ́nà, ó fọ́ wón ná, ó lọ wọ́n di pónpón, ó sì tà á kálẹ̀ lójú àwọn sìnkíìnfà àwọn tí ó ń ṣàgbárá fún wọn.",
   "tokens": [
     {
       "surface": "וינתצו",
-      "gloss": "wọ́n wọ́… lu"
+      "gloss": "wọ́n run ṣíṣẹ́"
     },
     {
       "surface": "לפניו",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn pẹpẹ́ ẹbọ"
+      "marks": "àwọn àgúnmingbọ̀"
     },
     {
       "surface": "מזבחות",
-      "gloss": "àwọn pẹpẹ́ ẹbọ"
+      "gloss": "àwọn àgúnmingbọ̀"
     },
     {
       "surface": "הבעלים",
       "gloss": "àwọn Baal"
     },
     {
-      "surface": "והחמנים",
-      "gloss": "àwọn ẹre òòrùn"
+      "surface": "ווהחמנים",
+      "gloss": "àti àwọn ìwọ̀n oòrùn"
     },
     {
       "surface": "אשר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "למעלה",
-      "gloss": "ó wà lókè"
+      "gloss": "láàárín ìsàlẹ̀"
     },
     {
       "surface": "מעליהם",
@@ -46,39 +46,35 @@
     },
     {
       "surface": "גדע",
-      "gloss": "ó gé wọn lulẹ̀"
-    },
-    {
-      "surface": "וינתצו",
-      "gloss": ""
+      "gloss": "ó gé wọ́n kúrò"
     },
     {
       "surface": "והאשרים",
-      "gloss": "àwọn Ashera"
+      "gloss": "àti àwọn Asherah"
     },
     {
       "surface": "והפסלים",
-      "gloss": "àti àwọn ẹre kíkún"
+      "gloss": "àti àwọn ìṣẹ̀dá-àwòrán"
     },
     {
       "surface": "והמסכות",
-      "gloss": "àti àwọn ẹre ìwú"
+      "gloss": "àti àwọn ìlẹ̀kọ̀ ìyọ̀sọ́nà"
     },
     {
       "surface": "שבר",
-      "gloss": "ó fọ́ wọ́n"
+      "gloss": "ó fọ́ wón ná"
     },
     {
       "surface": "והדק",
-      "gloss": "ó sì lọ́nà wọ́n di èérú"
+      "gloss": "ó lọ wọ́n di pónpón"
     },
     {
       "surface": "ויזרק",
-      "gloss": "ó sì tà wọ́n ká"
+      "gloss": "ó tà á kálẹ̀"
     },
     {
       "surface": "על",
-      "gloss": "lórí"
+      "gloss": "lójú"
     },
     {
       "surface": "פני",
@@ -86,17 +82,17 @@
     },
     {
       "surface": "הקברים",
-      "gloss": "àwọn sísàn"
+      "gloss": "àwọn sìnkíìnfà"
     },
     {
       "surface": "הזבחים",
-      "gloss": "tí ń ṣe ẹbọ"
+      "gloss": "àwọn tí ó ń ṣàgbárá"
     },
     {
       "surface": "להם",
-      "gloss": "sí wọn"
+      "gloss": "fún wọn"
     }
   ],
-  "timestamp": "2026-08-23T05:38:34.786076367Z",
+  "timestamp": "2026-08-23T06:47:14.636106619Z",
   "model": "glm-5.3"
 }

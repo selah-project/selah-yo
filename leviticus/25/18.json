@@ -5,50 +5,46 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 25,
-  "translation": "Ẹ ṣe ⟨את⟩ àwọn òfin mí, ẹ sì ṣọ́ ⟨את⟩ àwọn òfin-ẹjọ́ mí mọ́, ⟨את⟩ ẹ sì ṣe wọn; ki ẹ sì gbé lórí ⟨the⟩ ilẹ̀ náà ní àlàáfíà.",
+  "translation": "Ẹ̀yin ó sì ṣe ⟨את⟩ òfin ìpinnu mi, àti ⟨את⟩ ìdájọ́ mi ẹ gbọ́, ẹ sì ṣe wọ́n, kí ẹ sì gbé lórí ilẹ̀ yìí ní ìdàbọ̀bọ̀",
   "tokens": [
     {
       "surface": "ועשיתם",
-      "gloss": "ẹ ṣe"
+      "gloss": "ẹ̀yin ó sì ṣe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn òfin mí"
+      "marks": "òfin ìpinnu mi"
     },
     {
       "surface": "חקתי",
-      "gloss": "àwọn òfin mí"
+      "gloss": "òfin ìpinnu mi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "àwọn òfin-ẹjọ́ mí"
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìdájọ́ mi"
     },
     {
       "surface": "משפטי",
-      "gloss": "àwọn òfin-ẹjọ́ mí"
+      "gloss": "ìdájọ́ mi"
     },
     {
       "surface": "תשמרו",
-      "gloss": "ẹ ṣọ́ … mọ́"
-    },
-    {
-      "surface": "וישמרו",
-      "gloss": ""
+      "gloss": "ẹ gbọ́"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "⟨את⟩ ẹ sì ṣe"
+      "gloss": "ẹ sì ṣe"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "wọn"
+      "gloss": "⟨את⟩ wọ́n",
+      "marks": "òfin ìpinnu mi àti ìdájọ́ mi"
     },
     {
       "surface": "וישבתם",
-      "gloss": "ki ẹ sì gbé"
+      "gloss": "kí ẹ sì gbé"
     },
     {
       "surface": "על",
@@ -56,13 +52,13 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ilẹ̀ náà"
+      "gloss": "ilẹ̀ yìí"
     },
     {
       "surface": "לבטח",
-      "gloss": "ní àlàáfíà"
+      "gloss": "ní ìdàbọ̀bọ̀"
     }
   ],
-  "timestamp": "2026-08-22T23:46:18.862452719Z",
+  "timestamp": "2026-08-23T06:50:48.710014502Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,46 @@
   "book": "jeremiah",
   "lang": "yo",
   "chapter": 29,
-  "translation": "Kínnígún Tsephanyah àgúnbọ̀ kọ̀ọ̀kan ka yílẹ̀ yìí ní ìgbórí Yirmeyahu wolì.",
-  "tokens": [],
-  "timestamp": "2026-08-23T02:21:03.254310026Z",
+  "translation": "Nígbà náà, Tsefanyah àlùfáà ka sí ⟨את⟩ lẹ́tà yìí sí etí Yirmeyahu wòlíì.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ka sí"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lẹ́tà yìí"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "lẹ́tà"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sí etí"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "wòlíì"
+    }
+  ],
+  "timestamp": "2026-08-23T06:41:28.843231365Z",
   "model": "glm-5.3"
 }

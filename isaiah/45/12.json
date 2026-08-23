@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 45,
-  "translation": "Èmi ni mo ṣe ⟨the⟩ ilẹ̀, àti ènìyàn lórí rẹ̀ ni mo dá; èmi, ọwọ́ mi ni mo fi na àwọn ọ̀run; àti gbogbo ọmọ-ogun wọn ni mo pàṣẹ fún.",
+  "translation": "Èmi ni mo ṣe ayé, mo sì dá ⟨את⟩ ènìyàn lórí rẹ̀; èmi, ọwọ́ mi ni ó te ọ̀run jákè-jákè, mo sì pa ⟨את⟩ gbogbo ọmọ-ogun wọn níṣẹ́.",
   "tokens": [
     {
       "surface": "אנכי",
@@ -17,11 +17,12 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "ilẹ̀"
+      "gloss": "ayé",
+      "marks": "ayé"
     },
     {
       "surface": "ואדם",
-      "gloss": "àti ènìyàn"
+      "gloss": "ènìyàn"
     },
     {
       "surface": "עליה",
@@ -41,15 +42,16 @@
     },
     {
       "surface": "נטו",
-      "gloss": "mo fi na"
+      "gloss": "ó te jákè-jákè"
     },
     {
       "surface": "שמים",
-      "gloss": "àwọn ọ̀run"
+      "gloss": "ọ̀run",
+      "marks": "ọ̀run"
     },
     {
       "surface": "וכל",
-      "gloss": "àti gbogbo"
+      "gloss": "gbogbo"
     },
     {
       "surface": "צבאם",
@@ -57,9 +59,9 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "mo pàṣẹ fún"
+      "gloss": "mo pa níṣẹ́"
     }
   ],
-  "timestamp": "2026-08-23T01:57:49.763113048Z",
+  "timestamp": "2026-08-23T06:56:01.135446613Z",
   "model": "glm-5.3"
 }

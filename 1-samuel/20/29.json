@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "yo",
   "chapter": 20,
-  "translation": "Ó sì wí pé, Jẹ́ kí nítorí pé ẹbọ ìdílé wa wà ní ìlú, àti pé arákùnrin mi pàṣẹ fún mi; nítorí náà, bí mo ti rì óore ní ojú rẹ, jẹ́ kí mo sàní padà, kí èmi ó sì rí ⟨את⟩ arákùnrin mi — nítorí èyí ni ó kò wá sí tábìlì ⟨the⟩ ọba.",
+  "translation": "Ó wí pé, Jẹ́ kí ní ìbà ṣí lọ, nítorí pé ẹran-ìríbọmi  wa ní ìlú náà, àti pé ègbón mi ló pàṣẹ fún mi; nítorí náà, bí mo bá ti rí ojú-ìdàbọ̀ lójú rẹ, jẹ́ kí ní ìbà kì í mọ́ wà, kí n lè rí ⟨את⟩ àwọn ará ìdílé mi. Nítorí èyí ni ó kò wá sí tábìlì Ọba náà.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ó sì wí pé"
+      "gloss": "Ó wí pé"
     },
     {
       "surface": "שלחני",
-      "gloss": "Jẹ́ kí"
+      "gloss": "Jẹ́ kí ní ìbà ṣí lọ"
     },
     {
       "surface": "נא",
-      "gloss": "jọwọ́"
+      "gloss": "ní ìbà"
     },
     {
       "surface": "כי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "זבח",
-      "gloss": "ẹbọ"
+      "gloss": "ẹran-ìríbọmi"
     },
     {
       "surface": "משפחה",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "wà ní ìlú"
+      "gloss": "ní ìlú náà"
     },
     {
       "surface": "והוא",
-      "gloss": "àti pé"
+      "gloss": "àti pé òun"
     },
     {
       "surface": "צוה",
-      "gloss": "pàṣẹ"
+      "gloss": "ló pàṣẹ"
     },
     {
       "surface": "לי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אחי",
-      "gloss": "arákùnrin mi"
+      "gloss": "ègbón mi"
     },
     {
       "surface": "ועתה",
@@ -65,36 +65,36 @@
     },
     {
       "surface": "מצאתי",
-      "gloss": "mo ti rì"
+      "gloss": "mo bá ti rí"
     },
     {
       "surface": "חן",
-      "gloss": "óore"
+      "gloss": "ojú-ìdàbọ̀"
     },
     {
       "surface": "בעיניך",
-      "gloss": "ní ojú rẹ"
+      "gloss": "lójú rẹ"
     },
     {
       "surface": "אמלטה",
-      "gloss": "jẹ́ kí mo sàní padà"
+      "gloss": "jẹ́ kí ní ìbà kì í mọ́ wà"
     },
     {
       "surface": "נא",
-      "gloss": "jọwọ́"
+      "gloss": "ní ìbà"
     },
     {
       "surface": "ואראה",
-      "gloss": "kí èmi ó sì rí"
+      "gloss": "kí n lè rí"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "arákùnrin mi"
+      "marks": "àwọn ará ìdílé mi"
     },
     {
       "surface": "אחי",
-      "gloss": "arákùnrin mi"
+      "gloss": "àwọn ará ìdílé mi"
     },
     {
       "surface": "על",
@@ -122,9 +122,9 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ọba"
+      "gloss": "Ọba náà"
     }
   ],
-  "timestamp": "2026-08-23T00:52:05.346828268Z",
+  "timestamp": "2026-08-23T06:39:19.315574046Z",
   "model": "glm-5.3"
 }

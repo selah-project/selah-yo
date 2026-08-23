@@ -5,8 +5,73 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 60,
-  "translation": "Orun rẹ kì níí wọ̀ láìpẹ́, òsùpá rẹ kì níí kó ó kúrò; nítorí Yahweh ni yóó jẹ́ ìmọ́lẹ̀ rẹ fún ètì ìgbà, ọjọ́ ìbánújẹ́ rẹ sì ni yóó parí.",
-  "tokens": [],
-  "timestamp": "2026-08-23T02:02:54.080475304Z",
+  "translation": "Oòrùn rẹ kì yóò wọ̀ sálẹ̀ mọ́, àti òṣùpá rẹ kì yóò kó àpapọ̀ mọ́; nítorí Yahweh ni yóò jẹ́ ìmọ́lẹ̀ àìnípẹ̀kun fún ọ́, àti ọjọ́ ìbànújẹ́ rẹ yóò sì parí.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "yóò wọ̀"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "שמשך",
+      "gloss": "oòrùn rẹ"
+    },
+    {
+      "surface": "וירחך",
+      "gloss": "àti òṣùpá rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "yóò kó àpapọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ni yóò jẹ́"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ́"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ìmọ́lẹ̀"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "àìnípẹ̀kun"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "yóò sì parí"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "אבלך",
+      "gloss": "ìbànújẹ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:42:47.157280991Z",
   "model": "glm-5.3"
 }

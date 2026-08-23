@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 26,
-  "translation": "Ìwọ kì í gbé ⟨את⟩ àwọn ìdí depò sí abẹ́ àwọn ìgán-Meji, ó sì mú ara wọn, ní àárín, ní èyí tí ó wà ní ẹ̀gbẹ́ ìdí depò, ⟨את⟩ àpótì ìjíròrò, àti kí ìdí depò pínyà fún yín láàárín ⟨the⟩ ibi mímọ́ àti láàárín ibi mímọ́ tí ó mímọ́ jù.",
+  "translation": "Kí o sì fi ⟨את⟩ àsọ aṣẹ sí abẹ́ àwọn ọ̀tẹ̀ẹ̀-fàdákà, kí o sì mú un wá síbẹ̀, ní ìha abẹ́lẹ̀ àsọ aṣẹ náà, ⟨את⟩ àpótí ẹ̀rì íjọ́wọ́; àsọ aṣẹ náà sì yapa fún yín láàárín ⟨the⟩ ibi mímọ́ àti ibi tí ó mímọ́ jùlọ.",
   "tokens": [
     {
       "surface": "ונתתה",
-      "gloss": "ìwọ kì í gbé"
+      "gloss": "Kí o sì fi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn ìdí depò"
+      "marks": "àsọ aṣẹ (paroket)"
     },
     {
       "surface": "הפרכת",
-      "gloss": "àwọn ìdí depò"
+      "gloss": "àsọ aṣẹ"
     },
     {
       "surface": "תחת",
@@ -26,44 +26,44 @@
     },
     {
       "surface": "הקרסים",
-      "gloss": "àwọn ìgán-Meji"
+      "gloss": "àwọn ọ̀tẹ̀ẹ̀-fàdákà"
     },
     {
       "surface": "והבאת",
-      "gloss": "ó sì mú"
+      "gloss": "kí o sì mú un wá"
     },
     {
       "surface": "שמה",
-      "gloss": "ara wọn, ní àárín"
+      "gloss": "síbẹ̀"
     },
     {
       "surface": "מבית",
-      "gloss": "ní èyí tí ó wà ní ẹ̀gbẹ́"
+      "gloss": "ní ìha abẹ́lẹ̀"
     },
     {
       "surface": "לפרכת",
-      "gloss": "ìdí depò"
+      "gloss": "àsọ aṣẹ náà"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àpótì ìjíròrò"
+      "marks": "àpótí ẹ̀rì íjọ́wọ́"
     },
     {
       "surface": "ארון",
-      "gloss": "àpótì"
+      "gloss": "àpótí"
     },
     {
       "surface": "העדות",
-      "gloss": "ìjíròrò"
+      "gloss": "ẹ̀rì íjọ́wọ́"
     },
     {
       "surface": "והבדילה",
-      "gloss": "àti kí ó pínyà"
+      "gloss": "sì yapa"
     },
     {
       "surface": "הפרכת",
-      "gloss": "ìdí depò"
+      "gloss": "àsọ aṣẹ náà"
     },
     {
       "surface": "לכם",
@@ -75,17 +75,21 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "ibi mímọ́"
+      "gloss": "⟨the⟩ ibi mímọ́"
     },
     {
       "surface": "ובין",
-      "gloss": "àti láàárín"
+      "gloss": "àti"
     },
     {
       "surface": "קדש",
-      "gloss": "ibi mímọ́ tí ó mímọ́ jù"
+      "gloss": "ibi tí ó mímọ́"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "jùlọ"
     }
   ],
-  "timestamp": "2026-08-22T23:26:15.297555401Z",
+  "timestamp": "2026-08-23T06:51:55.189321448Z",
   "model": "glm-5.3"
 }

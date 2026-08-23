@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Bí a bá wí pé a ó wọlé sí inú ⟨the⟩ ìlú, ìgbẹ̀ sì wà nínú ⟨the⟩ ìlú, a ó sì kú níbẹ̀; bí a sì bá jókòó níbí, a ó sì kú; nítorí náà ẹ wá, kí a sì jábọ́ sí pápadà Aram; bí wọ́n bá fi wa lélẹ̀, a ó ye; bí wọ́n sì bá pa wá, a ó sì kú.",
+  "translation": "Tí a bá wí pé, Ẹ jẹ́ kí a wọ inú ìlú — ìyọ́nú wà nínú ìlú, a sì máa kú níbẹ̀; tí a bá sì jókòó níbí, a sì máa kú. Nísinsin-yìí ẹ wá, kí a lọ subú sí àwọn ologun Aram; tí wọ́n bá yọ wa láàyè, a ó ṣe èmi; tí wọ́n bá sì pa wà, a ó kú.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "bí a bá"
+      "gloss": "tí a bá"
     },
     {
       "surface": "אמרנו",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "נבוא",
-      "gloss": "a ó wọlé"
+      "gloss": "a wọ"
     },
     {
       "surface": "העיר",
-      "gloss": "ìlú naa"
+      "gloss": "ìlú"
     },
     {
       "surface": "והרעב",
-      "gloss": "ìgbẹ̀ sì wà"
+      "gloss": "ìyọ́nú"
     },
     {
       "surface": "בעיר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ומתנו",
-      "gloss": "a ó sì kú"
+      "gloss": "a máa kú"
     },
     {
       "surface": "שם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ואם",
-      "gloss": "bí a sì bá"
+      "gloss": "tí a bá sì"
     },
     {
       "surface": "ישבנו",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "ומתנו",
-      "gloss": "a ó sì kú"
+      "gloss": "a máa kú"
     },
     {
       "surface": "ועתה",
-      "gloss": "nítorí náà"
+      "gloss": "nísinsin-yìí"
     },
     {
       "surface": "לכו",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ונפלה",
-      "gloss": "kí a sì jábọ́"
+      "gloss": "kí a lọ subú"
     },
     {
       "surface": "אל",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "מחנה",
-      "gloss": "pápadà"
+      "gloss": "àwọn ologun"
     },
     {
       "surface": "ארם",
@@ -81,29 +81,29 @@
     },
     {
       "surface": "אם",
-      "gloss": "bí wọ́n bá"
+      "gloss": "tí wọ́n bá"
     },
     {
       "surface": "יחינו",
-      "gloss": "fi wa lélẹ̀"
+      "gloss": "yọ wa láàyè"
     },
     {
       "surface": "נחיה",
-      "gloss": "a ó ye"
+      "gloss": "a ó ṣe èmi"
     },
     {
       "surface": "ואם",
-      "gloss": "bí wọ́n sì bá"
+      "gloss": "tí wọ́n bá sì"
     },
     {
       "surface": "ימיתנו",
-      "gloss": "pa wá"
+      "gloss": "pa wà"
     },
     {
       "surface": "ומתנו",
-      "gloss": "a ó sì kú"
+      "gloss": "a ó kú"
     }
   ],
-  "timestamp": "2026-08-23T05:53:05.964227449Z",
+  "timestamp": "2026-08-23T06:41:03.260725095Z",
   "model": "glm-5.3"
 }

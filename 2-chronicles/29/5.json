@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "yo",
   "chapter": 29,
-  "translation": "Ó wí fún wípé, \"Gbọ́ mi, àwọn Levites: nísinsin yìí, ẹ ṣe ara yín mímọ́, kí ẹ sì ṣe ⟨את⟩ ilé Yahweh, Elohim ti àwọn baba yín, mímọ́, kí ẹ sì jáde ⟨את⟩ èébú yòókù kúrò nínú ⟨the⟩ ibi mímọ́.\"",
+  "translation": "Ó sì wí fún wọn pé: Gbọ́ mi, àwọn Leviyim; nísinsinì, ẹ ṣe ara yín ní mímọ́, kí ẹ sì ṣe ⟨את⟩ ilé Yahweh, Elohim ti àwọn baba yín, ní mímọ́, kí ẹ sì gbé ⟨את⟩ èèwù̀ jade kúrò nínú ibi mímọ́ náà.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ó wí"
+      "gloss": "Ó sì wí"
     },
     {
       "surface": "להם",
-      "gloss": "fún wín"
+      "gloss": "fún wọn"
     },
     {
       "surface": "שמעוני",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "àwọn Levites"
+      "gloss": "àwọn Leviyim"
     },
     {
       "surface": "עתה",
-      "gloss": "nísinsin yìí"
+      "gloss": "nísinsinì"
     },
     {
       "surface": "התקדשו",
-      "gloss": "ẹ ṣe ara yín mímọ́"
+      "gloss": "ẹ ṣe ara yín ní mímọ́"
     },
     {
       "surface": "וקדשו",
-      "gloss": "kí ẹ sì ṣe mímọ́"
+      "gloss": "kí ẹ sì ṣe ní mímọ́"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ilé"
+      "marks": "ilé Yahweh"
     },
     {
       "surface": "בית",
@@ -50,24 +50,24 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim ti"
+      "gloss": "Elohim"
     },
     {
       "surface": "אבתיכם",
-      "gloss": "àwọn baba yín"
+      "gloss": "ti àwọn baba yín"
     },
     {
       "surface": "והוציאו",
-      "gloss": "kí ẹ sì jáde"
+      "gloss": "kí ẹ sì gbé jade"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "èébú"
+      "marks": "èèwù̀"
     },
     {
       "surface": "הנדה",
-      "gloss": "èébú yòókù"
+      "gloss": "èèwù̀"
     },
     {
       "surface": "מן",
@@ -75,9 +75,9 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "ibi mímọ́"
+      "gloss": "ibi mímọ́ náà"
     }
   ],
-  "timestamp": "2026-08-23T05:33:36.552444025Z",
+  "timestamp": "2026-08-23T06:47:31.777956987Z",
   "model": "glm-5.3"
 }

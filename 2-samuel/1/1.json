@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "yo",
   "chapter": 1,
-  "translation": "Ó sì yẹ́lẹ̀ lẹ́yìn ikú Shaúl, David sì padà láti lí ⟨את⟩ ⟨the⟩ Amaleki, David sì gbé ní Tziklag ọjọ́ méjì.",
+  "translation": "Ó sì yẹlẹ̀ lẹ́yìn ikú Shaúl, tí Dafidi padà láti lí ⟨את⟩ Amaleki pa, Dafidi sì gbé ní Tsiklag fún ọjọ́ méjì.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ó sì yẹ́lẹ̀"
+      "gloss": "ó sì yẹlẹ̀"
     },
     {
       "surface": "אחרי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ודוד",
-      "gloss": "David sì"
+      "gloss": "tí Dafidi"
     },
     {
       "surface": "שב",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "מהכות",
-      "gloss": "láti lí"
+      "gloss": "láti lí… pa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ Amaleki"
+      "marks": "Amaleki"
     },
     {
       "surface": "העמלק",
-      "gloss": "⟨the⟩ Amaleki"
+      "gloss": "Amaleki"
     },
     {
       "surface": "וישב",
@@ -50,21 +50,21 @@
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Dafidi"
     },
     {
       "surface": "בצקלג",
-      "gloss": "ní Tziklag"
+      "gloss": "ní Tsiklag"
     },
     {
       "surface": "ימים",
-      "gloss": "ọjọ́"
+      "gloss": "fún ọjọ́"
     },
     {
       "surface": "שנים",
       "gloss": "méjì"
     }
   ],
-  "timestamp": "2026-08-23T00:57:51.573379633Z",
+  "timestamp": "2026-08-23T06:38:22.438194164Z",
   "model": "glm-5.3"
 }

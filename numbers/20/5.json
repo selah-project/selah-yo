@@ -5,8 +5,82 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 20,
-  "translation": "Ìwọ̀ọ́, kí ló dé tí ẹ gbé wa sókè láti Mitzrayim, láti mú ⟨את⟩ wa wá sí ibi búburú yìí? Kì í ṣe ibi irúgbìn, tabí ìgbo ọtìn, tabí ìgbo ẹ̀pà..., kò sí — gbigba ẹ̀yà ara ṣe é",
-  "tokens": [],
-  "timestamp": "2026-08-22T23:58:15.480330989Z",
+  "translation": "Àti èrò̀kọ́ ni kí ẹ gbé wa dìde kúrò ní Mitzrayim, láti mú ⟨את⟩ wa wá sí ibì kan bìkítà yìí; kì í ṣe ibi ìrúgbìn, tàbí ìgèdẹ-ìráǹgbọ̀n, tàbí ẹ̀pà àti ọ̀gẹ̀dẹ̀ àgbàdo-rọ̀nù, bẹ́ẹ̀ ni omi kò sí láti mu.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "àti èrò̀kọ́ ni kí"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ẹ gbé wa dìde"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kúrò ní Mitzrayim"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "láti mú"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "wa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wá sí"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ibì kan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bìkítà"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ìrúgbìn"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "tàbí ìgèdẹ-ìráǹgbọ̀n"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "tàbí ẹ̀pà àti"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "àgbàdo-rọ̀nù"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "bẹ́ẹ̀ ni omi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "láti mu"
+    }
+  ],
+  "timestamp": "2026-08-23T06:36:51.436488115Z",
   "model": "glm-5.3"
 }

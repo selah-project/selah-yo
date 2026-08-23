@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 18,
-  "translation": "Àti bákan náà, mú ⟨את⟩ àwọn ará rẹ, ẹ̀yà kan tí ó jẹ́ ti Levi, ẹ̀yà baba rẹ, wá pẹ̀lú rẹ, kí wọ́n lè darapọ̀ pẹ̀lú rẹ, kí wọ́n sì sìn ọ́; ìwọ àti àwọn ọmọ rẹ pẹ̀lú rẹ sì ní í wà níwájú ahọ ⟨the⟩ ẹ̀rí.",
+  "translation": "Àti pé ⟨את⟩ àwọn ará rẹ, ìdílé Lewi, ìdíle baba rẹ, mú wá pẹ̀lú rẹ, kí wọ́n lè darapọ̀ mọ́ rẹ, kí wọ́n sì ṣèránṣẹ́ fún rẹ; ìwọ sì àti àwọn ọmọ rẹ pẹ̀lú rẹ, níwájú àgọ́ ẹ̀rí.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "àti bákan náà"
+      "gloss": "àti pé"
     },
     {
       "surface": "את",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "מטה",
-      "gloss": "ẹ̀yà kan"
+      "gloss": "ìdílé"
     },
     {
       "surface": "לוי",
-      "gloss": "Levi"
+      "gloss": "Lewi"
     },
     {
       "surface": "שבט",
-      "gloss": "ẹ̀yà"
+      "gloss": "ìdíle"
     },
     {
       "surface": "אביך",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "עליך",
-      "gloss": "pẹ̀lú rẹ"
+      "gloss": "mọ́ rẹ"
     },
     {
       "surface": "וישרתוך",
-      "gloss": "kí wọ́n sìn ọ́"
+      "gloss": "kí wọ́n ṣèránṣẹ́ fún rẹ"
     },
     {
       "surface": "ואתה",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "אהל",
-      "gloss": "ahọ"
+      "gloss": "àgọ́"
     },
     {
       "surface": "העדת",
       "gloss": "ẹ̀rí"
     }
   ],
-  "timestamp": "2026-08-22T23:58:02.621656038Z",
+  "timestamp": "2026-08-23T06:37:30.968870767Z",
   "model": "glm-5.3"
 }

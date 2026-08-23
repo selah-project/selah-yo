@@ -5,8 +5,70 @@
   "book": "song-of-songs",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Ẹ jẹ́ kí a sọ́jú sí àwọn ohun ẹ̀wìn; kí a lè rí bí igi ẹ̀wìn bá ti tú mú, tí ìròsùn ìtù would— jẹ́ kí a wo: jẹ́ kí a dúró títí kí àwọn adéù—",
-  "tokens": [],
-  "timestamp": "2026-08-23T04:33:48.880740824Z",
+  "translation": "Ẹ jẹ́ kí a jí kúrọ̀ lọ sí àwọn ilẹ̀-ajáàrà; jẹ́ kí a wo bí àjáàrà bá ṣe ń tan, bí ìṣí ẹ̀wẹ̀ rẹ̀ ti ṣí, bí àwọn rímọ́nnú bá ṣe ń tàn: níbẹ̀ ni mo ti máa fún ọ̀ nínú ⟨את⟩ ìfẹ́ mi.",
+  "tokens": [
+    {
+      "surface": "נשכימה",
+      "gloss": "Ẹ jẹ́ kí a jí kúrọ̀"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "lọ sí àwọn ilẹ̀-ajáàrà"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "jẹ́ kí a wo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "bá ṣe ń tan"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "àjáàrà"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bí ìṣí ẹ̀wẹ̀ rẹ̀ ti ṣí"
+    },
+    {
+      "surface": "הסמדר",
+      "gloss": "ẹ̀wẹ̀ àjáàrà"
+    },
+    {
+      "surface": "הנצו",
+      "gloss": "bá ṣe ń tàn"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "àwọn rímọ́nnú"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mo ti máa fún ọ̀ nínú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìfẹ́ mi"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "ìfẹ́ mi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:45:55.330222365Z",
   "model": "glm-5.3"
 }

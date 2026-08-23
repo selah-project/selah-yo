@@ -5,20 +5,20 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 20,
-  "translation": "Ó yí ojú rẹ padà sí ⟨את⟩ ọ̀nà ojú rẹ sí ⟨the⟩ ògiri náà, ó sì gbàdùrà sí Yahweh, pé:",
+  "translation": "Ó sì yí ojú rẹ̀ padà sí ⟨את⟩ ojú-òwọ́, ó sì gbàdùrà sí Yahweh, ó ń wí pé:",
   "tokens": [
     {
       "surface": "ויסב",
-      "gloss": "Ó yí padà"
+      "gloss": "Ó sì yí padà"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ojú rẹ"
+      "marks": "ojú rẹ̀"
     },
     {
       "surface": "פניו",
-      "gloss": "ojú rẹ"
+      "gloss": "ojú rẹ̀"
     },
     {
       "surface": "אל",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "הקיר",
-      "gloss": "⟨the⟩ ògiri náà"
+      "gloss": "ojú-òwọ́"
     },
     {
       "surface": "ויתפלל",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "pé"
+      "gloss": "ó ń wí pé"
     }
   ],
-  "timestamp": "2026-08-23T01:37:06.797580441Z",
+  "timestamp": "2026-08-23T06:39:56.541055511Z",
   "model": "glm-5.3"
 }

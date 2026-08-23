@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "yo",
   "chapter": 25,
-  "translation": "Wò ó, títí dé oṣùpá ò ∀ràn-ìmọ́lẹ̀, àti àwọn ìràwọ́ kò mọ́ ní ojú rẹ̀.",
+  "translation": "Wò ó, títí dé òsùpá kì í tan ìmọ́lẹ̀, àti àwọn ìráwọ̀ kò ṣe mọ́ nínú ojú rẹ̀.",
   "tokens": [
     {
       "surface": "הן",
@@ -17,17 +17,33 @@
     },
     {
       "surface": "ירח",
-      "gloss": "oṣùpá"
+      "gloss": "òsùpá"
     },
     {
       "surface": "ולא",
-      "gloss": "ò ∀ràn-ìmọ́lẹ̀"
+      "gloss": "kì í"
     },
     {
       "surface": "יאהיל",
-      "gloss": "kò mọ́"
+      "gloss": "tan ìmọ́lẹ̀"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "àti àwọn ìráwọ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "ṣe mọ́"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "nínú ojú rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T04:24:04.027357791Z",
+  "timestamp": "2026-08-23T06:45:39.347064594Z",
   "model": "glm-5.3"
 }

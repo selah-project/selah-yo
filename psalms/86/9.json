@@ -5,8 +5,49 @@
   "book": "psalms",
   "lang": "yo",
   "chapter": 86,
-  "translation": "Gbogbo àwọn orílẹ̀-èdè tí ó ṣẹ̀dá àwọn wọnyín yóò wá, wọ́n sì máa fọwọ́ fúnilọra níwájú rẹ, Adonai, wọ́n sì máa gbé orúkọ rẹ ga.",
-  "tokens": [],
-  "timestamp": "2026-08-23T03:45:13.678104410Z",
+  "translation": "Gbogbo àwọn orílẹ̀-èdè tí ó ṣe ṣe wọn yóò wá, wọ́n sì máa fọwọ́ sílẹ̀ níwájú rẹ, Adonai, wọ́n sì máa gbé orúkọ rẹ ga.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ó ṣe ṣe wọn"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "yóò wá"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "wọ́n sì máa fọwọ́ sílẹ̀"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "níwájú rẹ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "wọ́n sì máa gbé ga"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "orúkọ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:44:30.886007147Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 8,
-  "translation": "Ṣé óótọ́ ni pé Elohim yóò gbé ilẹ̀ ayé? Kíyèsi, ⟨the⟩ àwọn ọ̀run àti àwọn ọ̀run àwọn ọ̀run kò lè gbà ọ́ wí — bẹ́ẹ̀ni, bí ó ti lẹ̀, ilé yìí tí mo kọ́?",
+  "translation": "Ṣé ó dájú pé Elohim yóó gbé lórí ⟨àwọn⟩ ayé? Wò ó, àwọn ọ̀run àti ọ̀run-ọ̀run kì í leè gbà ⟨Iwọ⟩; bí ó tilẹ̀ jẹ́ kéré tán ilé yìí tí mo kọ́!",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ṣé"
+      "gloss": "Ṣé"
     },
     {
       "surface": "האמנם",
-      "gloss": "óótọ́ ni pé"
+      "gloss": "ó dájú"
     },
     {
       "surface": "ישב",
-      "gloss": "gbé"
+      "gloss": "yóó gbé"
     },
     {
       "surface": "אלהים",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ilẹ̀ ayé"
+      "gloss": "ayé"
     },
     {
       "surface": "הנה",
-      "gloss": "Kíyèsi"
+      "gloss": "Wò ó"
     },
     {
       "surface": "השמים",
@@ -41,27 +41,27 @@
     },
     {
       "surface": "ושמי",
-      "gloss": "àti àwọn ọ̀run"
+      "gloss": "àti ọ̀run"
     },
     {
       "surface": "השמים",
-      "gloss": "àwọn ọ̀run"
+      "gloss": "ọ̀run"
     },
     {
       "surface": "לא",
-      "gloss": "kò"
+      "gloss": "kì í"
     },
     {
       "surface": "יכלכלוך",
-      "gloss": "lè gbà ọ́ wí"
+      "gloss": "leè gbà ⟨Iwọ⟩"
     },
     {
       "surface": "אף",
-      "gloss": "bẹ́ẹ̀ni"
+      "gloss": "bí ó tilẹ̀ jẹ́ kéré tán"
     },
     {
       "surface": "כי",
-      "gloss": "bí ó ti lẹ̀"
+      "gloss": ""
     },
     {
       "surface": "הבית",
@@ -80,6 +80,6 @@
       "gloss": "mo kọ́"
     }
   ],
-  "timestamp": "2026-08-23T01:17:36.036736690Z",
+  "timestamp": "2026-08-23T06:39:04.184554850Z",
   "model": "glm-5.3"
 }
