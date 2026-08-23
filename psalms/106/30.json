@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Pinchas sì dí dúró, ó sì ṣe ìdájọ́, èrùnkùn náà sì dúró dé.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ó sì dí dúró"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "ó sì ṣe ìdájọ́"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ó sì dúró dé"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "èrùnkùn náà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:55.716386134Z",
+  "model": "glm-5.3"
+}

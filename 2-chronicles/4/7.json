@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì ṣe ⟨את⟩ àwọn méntólóláàmọ̀ wúrà mẹ́wàá gẹ́gẹ́ bí òfin wọn, ó sì gbé wọn sínú tẹ́mpili, márùn-ún sí ọ̀tún, márùn-ún sì sí òsì.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn méntólóláàmọ̀ wúrà"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "àwọn méntólóláàmọ̀"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "gẹ́gẹ́ bí òfin wọn"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì gbé wọn"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "sínú tẹ́mpili"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "márùn-ún"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "sí ọ̀tún"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "márùn-ún sì"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "sí òsì"
+    }
+  ],
+  "timestamp": "2026-08-23T05:22:57.989494087Z",
+  "model": "glm-5.3"
+}

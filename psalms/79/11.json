@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 79,
+  "translation": "Jẹ́ kí ìkigbe ẹ̀wọ̀n dé iwájú rẹ; gẹ́gẹ́ bí bíbí agbára rẹ, gba àwọn ọmọ ìkúyà sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Jẹ́ kí ó dé"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iwájú rẹ"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "ìkigbe"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ẹ̀wọ̀n"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "gẹ́gẹ́ bí bíbí"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "agbára rẹ"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "gba sílẹ̀"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "ìkúyà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:35.680348294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 6:3",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àwọn tí ń fi ọjọ́ ìbúburu jìnà, ẹnu-bọ̀ tí ń mú ìjókòò ìkọ̀lùfọ̀ wá sí ẹ̀gbẹ́ wọn.",
+  "tokens": [
+    {
+      "surface": "המנדים",
+      "gloss": "Àwọn tí ń fi… jìnà"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ìbúburu"
+    },
+    {
+      "surface": "ותגישון",
+      "gloss": "ẹnu-bọ̀ tí ń mú… wá sí ẹ̀gbẹ́"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ìjókòò"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìkọ̀lùfọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:08:03.370649096Z",
+  "model": "glm-5.3"
+}

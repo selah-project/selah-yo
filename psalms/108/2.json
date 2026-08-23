@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 108,
+  "translation": "Okàn mi dúró ṣinṣin, Elohim; ní mo máa kọ orin, ní mo máa yín-ín, pàpà jù ògo mi.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "dúró ṣinṣin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "okàn mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "mo máa kọ orin"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "mo máa yín-ín"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pàpà jù"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ògo mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:57.690678921Z",
+  "model": "glm-5.3"
+}

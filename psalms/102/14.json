@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Ìwọ yóò dìde, ìwọ yóò ṣàánú fún Tsiyon; nítorí àkókò tí wọ́n gbọdọ̀ ṣàánú fún un ti dé, nítorí àsìkò tí a pinnu ti dé.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ìwọ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "yóò dìde"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "yóò ṣàánú"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "fún Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עת",
+      "gloss": "àkókò"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "tí wọ́n gbọdọ̀ ṣàánú fún un"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ti dé"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "àsìkò tí a pinnu"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:42.240993202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ó sì máa jẹ́ pé ọmọ àkọ́kọ́ tí ó bí, ní gbé orúkọ ará rẹ̀, ẹnití ó kú, dúró, kí orúkọ rẹ̀ má baà parun kúrò lára Yisrael.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ó sì máa jẹ́ pé"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ọmọ àkọ́kọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ó bí"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ní gbé...dúró"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ara rẹ̀"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ẹnití ó kú"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí...má"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "baà parun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kúrò lára Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T00:18:14.834140089Z",
+  "model": "glm-5.3"
+}

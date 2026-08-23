@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "David wá sọ fún Evyatar, àlùfáa náà, ọmọ Achimeleki, wáá, jọwọ́, mú efodu náà wá fún mi; Evyatar sì mú ⟨את⟩ efodu náà wá sí ọ̀dọ̀ David.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wá sọ fún"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáa náà"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimeleki"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "wáá mú... wá"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọwọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodu náà"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "sì mú... wá sí ọ̀dọ̀"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodu náà"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodu náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-23T00:54:55.218905678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 23:10",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ẹni kan nínú yín yóò ṣíwọ́n ẹgbẹ̀rún lọ; nítorí Yahweh Elohim yín, òun ni ó ń bẹ̀ẹ̀ jà fún yín, gẹ́gẹ́ bí ó ti sọ̀rọ̀ sí yín.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "nínú yín"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "yóò ṣíwọ́n lọ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbẹ̀rún"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "ó ń bẹ̀ẹ̀ jà"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ó ti sọ̀rọ̀"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sí yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:15.028347989Z",
+  "model": "glm-5.3"
+}

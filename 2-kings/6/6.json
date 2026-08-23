@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ọkùnrin Elohim sì wí pé: Níbo ni ó ṣubú sí? Ó sì fi ⟨את⟩ ibi hàn án; ó sì gé igi kan, ó sì sọ ọ́ síbẹ̀, irìn sì rọ̀ṣà.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ọkùnrin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Níbo"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ṣubú"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "ó sì fi hàn án"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibi"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "ó sì gé"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ó sì sọ ọ́"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "síbẹ̀"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ó sì mú rọ̀ṣà"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "irìn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:27:01.393882964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ẹ yàn ẹni tí ó dára jùlọ àti tí ó tọ́ nínú àwọn ọmọ olúwa yín, ẹ sì jọkọ ọ lórí àga-ìjọba baba rẹ̀, ẹ sì jàgun fún ilé olúwa yín.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "Ẹ yàn"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "tí ó dára jùlọ"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "àti tí ó tọ́"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "nínú àwọn ọmọ"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "olúwa yín"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ẹ sì jọkọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "àga-ìjọba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "ẹ sì jàgun"
+    },
+    {
+      "surface": "על",
+      "gloss": "fún"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "olúwa yín"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:47.638304014Z",
+  "model": "glm-5.3"
+}

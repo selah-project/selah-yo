@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 65:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 65,
+  "translation": "Wọ́n ṣe ìbéèrè lọ́dọ̀ mi, àwọn tí kò tíì béèrè; wọ́n rí mi, àwọn tí kò tíì wá mi. Mo sọ pé, Èmí wà, èmí wà, sí iṣẹ́bẹ̀ kan tí kò pè orúkọ mi.",
+  "tokens": [
+    {
+      "surface": "נדרשתי",
+      "gloss": "Wọ́n ṣe ìbéèrè lọ́dọ̀ mi"
+    },
+    {
+      "surface": "ללוא",
+      "gloss": "tí kò"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "béèrè"
+    },
+    {
+      "surface": "נמצאתי",
+      "gloss": "wọ́n rí mi"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "tí kò"
+    },
+    {
+      "surface": "בקשני",
+      "gloss": "wá mi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "Mo sọ pé"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Èmí wà"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "èmí wà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "iṣẹ́bẹ̀ kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "orúkọ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T02:05:40.819888456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 60,
+  "translation": "Fún wa ní ìrànlọ́wọ́ láti kojú ìpènijà; nítorí pé ìrànlọ́wọ́ ènìyàn ni òfo.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Fún"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ní ìrànlọ́wọ́"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "láti kojú ìpènijà"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "nítorí pé òfo"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ìrànlọ́wọ́"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:26.601767652Z",
+  "model": "glm-5.3"
+}

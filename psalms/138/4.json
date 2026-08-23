@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 138,
+  "translation": "Gbogbo àwọn ọba ilẹ̀ ayé ó dúpẹ́ lọ́dọ̀ rẹ, Yahweh, nítorí tí wọ́n ti gbọ́ ọ̀rọ̀ ẹnu rẹ.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "wọ́n ó dúpẹ́ lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wọ́n ti gbọ́"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ẹnu rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:49.323199548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Búburú kan wà tí mo rí lábẹ́ oòrùn, àti pé ó pọ̀ ⟨lórí⟩ ènìyàn.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "wà"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mo rí"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "oòrùn"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "àti pé ó pọ̀"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "èniyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:26.920110198Z",
+  "model": "glm-5.3"
+}

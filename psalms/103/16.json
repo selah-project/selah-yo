@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Nítorí tí àfẹfẹ ti ṣàn kọjá lórí rẹ̀, ó sì ti sọnu; ibi rẹ̀ kì yóò mọ ọ mọ́ rárá.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "àfẹfẹ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ti ṣàn kọjá"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ó sì ti sọnu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "yóò mọ ọ mọ́"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "rárá"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ibi rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:18.181383244Z",
+  "model": "glm-5.3"
+}

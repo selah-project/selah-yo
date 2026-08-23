@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 53,
+  "translation": "Gbogbo wa bí àwọn agutan ti ṣìnà, olúkúlùkẹ̀ sì yí padà sí ọ̀nà tirẹ̀; Yahweh sì fi ⟨את⟩ àṣìṣe gbogbo wa lé e lórí.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "gbogbo wa"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "bí àwọn agutan"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "ṣìnà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olúkúlùkẹ̀"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "sí ọ̀nà tirẹ̀"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "yí padà"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh sì"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "fi ... lé e lórí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lóri rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àṣìṣe gbogbo wa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "àṣìṣe"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "gbogbo wa"
+    }
+  ],
+  "timestamp": "2026-08-23T02:01:14.329967449Z",
+  "model": "glm-5.3"
+}

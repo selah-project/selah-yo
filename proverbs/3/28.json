@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Má ṣe sọ fún ọ̀rẹ́ rẹ pé, “Lọ, kí o sì padà wá, ọ̀la ni mo óò fún,” nígbà tí ó bá wà pẹ̀lú ⟨את⟩ rẹ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Má ṣe"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sọ fún…pé"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "ọ̀rẹ́ rẹ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lọ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "kí o sì padà wá"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "ọ̀la"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mo óò fún"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "nígbà tí ó bá wà"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "pẹ̀lú ⟨את⟩ rẹ",
+      "marks": "ohun tí ó wà lọ́dọ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:03:12.805093796Z",
+  "model": "glm-5.3"
+}

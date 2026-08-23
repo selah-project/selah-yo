@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Ọkọ̀ọ̀kan ń ṣèrànwọ́ ⟨את⟩ olùrèébí-ọ̀rẹ̀ rẹ̀, ó sì wí fún arákùnrin rẹ̀ pé: 'Ṣe lágbára.'",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ọkọ̀ọ̀kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olùrèébí-ọ̀rẹ̀ rẹ̀"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "olùrèébí-ọ̀rẹ̀ rẹ̀"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "ń ṣèrànwọ́"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "fún arákùnrin rẹ̀ sì"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ó wí"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ṣe lágbára"
+    }
+  ],
+  "timestamp": "2026-08-23T01:56:19.015723289Z",
+  "model": "glm-5.3"
+}

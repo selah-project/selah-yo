@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ti Dawidu. Má ṣe bínú sí àwọn olèṣe, má ṣe kẹ̀dùn nítorí àwọn olṣe-àìṣedeede.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ti Dawidu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "bínú"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "sí àwọn olèṣe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "kẹ̀dùn"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "nítorí àwọn olṣe"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "àìṣedeede"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:22.885265517Z",
+  "model": "glm-5.3"
+}

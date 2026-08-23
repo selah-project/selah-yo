@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Wọ́n kọ́kọ́ kórìíira Moshe nínú ààbò, àti Aharon, ẹni mímọ́ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "Wọ́n kórìíira"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "nínú ààbò"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "àti Aharon"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ẹni mímọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:46.639622598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Bákan náà nísinsìnyí, dí dúró, ẹ sì wò ⟨את⟩ ohun tó tóbi eléyìí tí Yahweh ń ṣe níwájú ojú yín.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bákan náà"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nísinsìnyí"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "dí dúró"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ẹ sì wò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tó tóbi eléyìí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ohun"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eléyìí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "níwájú ojú yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:46:41.251392368Z",
+  "model": "glm-5.3"
+}

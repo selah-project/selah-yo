@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Àti pé ⟨את⟩ àwọn ìdarí iǹlú Davidi ni ẹ ti rí, nítorí pé ó ti pọ̀ jọ, ẹ sì ko ⟨את⟩ àwọn omi ibùdọ̀ ti ìsàlẹ̀ náà papọ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Àti pé ⟨את⟩",
+      "marks": "àwọn ìdarí"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "àwọn ìdarí"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "iǹlú"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ẹ ti rí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ó ti pọ̀ jọ"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "ẹ sì ko papọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn omi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "àwọn omi"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ibùdọ̀ náà"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ti ìsàlẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:46:37.813627622Z",
+  "model": "glm-5.3"
+}

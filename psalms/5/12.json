@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Kí wọ́n sì dùn lára, gbogbo àwọn tí ó ń gbábẹ́lẹ̀ sí ọ́; láìlópin kí wọ́n máa yọ̀-orin; kí ó sì bo wọn lórí; kí àwọn olùfẹ́ orúkọ rẹ dùn lára nínú rẹ.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "kí wọ́n sì dùn lára"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "àwọn tí ó ń gbábẹ́lẹ̀"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sí ọ́"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "láìlópin"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "kí wọ́n máa yọ̀-orin"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "kí ó sì bo"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "lórí wọn"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "kí wọ́n dùn lára"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nínú rẹ"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "àwọn olùfẹ́"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:30.937925244Z",
+  "model": "glm-5.3"
+}

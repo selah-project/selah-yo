@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ọ̀rọ̀ yìí sì di ẹ̀ṣẹ̀, àwọn ènìyàn sì ń lọ níwájú ọ̀kan náà títí dé Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sì di"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "sì ń lọ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ọ̀kan náà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-08-23T01:19:12.914002121Z",
+  "model": "glm-5.3"
+}

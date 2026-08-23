@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 111,
+  "translation": "Oúnjẹ ló fún àwọn tí ń bẹ̀rù rẹ̀; ó máa rántí májẹ̀mú rẹ̀ títí láéláé.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ló fún"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "àwọn tí ń bẹ̀rù rẹ̀"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ó máa rántí"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láéláé"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "májẹ̀mú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:03.966044296Z",
+  "model": "glm-5.3"
+}

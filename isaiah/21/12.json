@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Olùṣọ́ náà wí pé, Àárọ̀ ń bọ̀, àti òru náà pẹ̀lú; tí ẹ bá bẹ̀ wá, ẹ bẹ̀ wá; ẹ padà, ẹ wá.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Olùṣọ́ náà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ń bọ̀"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "Àárọ̀"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti … pẹ̀lú"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "òru náà"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí ẹ bá"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "ẹ bẹ̀ wá"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "ẹ bẹ̀ wá"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ẹ padà"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "ẹ wá"
+    }
+  ],
+  "timestamp": "2026-08-23T06:17:05.320940655Z",
+  "model": "glm-5.3"
+}

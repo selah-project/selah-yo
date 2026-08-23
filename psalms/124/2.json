@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 124,
+  "translation": "Tí Yahweh kò bá ṣe tí ó ṣe fún wa, nígbà tí àwọn ènìyàn dìde lé wa lórí,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "tí kò bá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ṣe tí ó ṣe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "nígbà tí... dìde"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "lé wa lórí"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "àwọn ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:52.052500331Z",
+  "model": "glm-5.3"
+}

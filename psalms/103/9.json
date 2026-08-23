@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Kì í ṣe títí láéláé ni ó máa ń bá ìjà, kò sì ní ṣọ́ ìbínú rẹ̀ mọ́ títí àìparun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "títí láéláé"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ó máa ń bá ìjà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì ní"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí àìparun"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ṣọ́ ìbínú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:22.268835736Z",
+  "model": "glm-5.3"
+}

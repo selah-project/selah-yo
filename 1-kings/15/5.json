@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "nítorí tí Dawid ṣe ⟨את⟩ ète ní ojú Yahweh, kò sì yẹ kúrò nínú gbogbo ohun tí Ó pàṣẹ fún un, gbogbo ọjọ́ ayé rẹ, ṣàfì nínú ọ̀rọ̀ Uriya ará Hiti.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ète"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ète"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "סר",
+      "gloss": "yẹ kúrò"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nínú gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "Ó pàṣẹ fún un"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ayé rẹ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ṣàfì"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nínú ọ̀rọ̀"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ará Hiti"
+    }
+  ],
+  "timestamp": "2026-08-23T01:20:47.928911561Z",
+  "model": "glm-5.3"
+}

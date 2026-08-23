@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Wọ́n sì fi ⟨את⟩ àwọn ọlọ́run wọn sínú iná; nítorí pé kì í ṣe ọlọ́run ni wọn, bí kò ṣe iṣẹ́ owọ́ ènìyàn ni — igi àti ọ̀kúta; èyí ni wọ́n fi pa wọn jẹ́.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "Wọ́n sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọlọ́run wọn"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "àwọn ọlọ́run wọn"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sínú iná"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ọlọ́run"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bí kò ṣe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí kò ṣe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "owọ́"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "àti ọ̀kúta"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "èyí ni wọ́n fi pa wọn jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:36:44.634801736Z",
+  "model": "glm-5.3"
+}

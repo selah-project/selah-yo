@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 149,
+  "translation": "Àwọn chasidim yóò yọ̀ sínu ⟨ìgbéga⟩ ọlá, ⟨wọn⟩ yóò kọrin ayọ̀ lórí àwọn ìbùsún wọn.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "yóò yọ̀"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "àwọn chasidim"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "sínu ọlá"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "yóò kọrin ayọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "àwọn ìbùsún wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:50.020138924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Nítorí èyí mo mọ̀ pé ìwọ fẹ́ mi ní ṣíṣe: nítorí pé ọ̀tá mi kì í yọlù lórí mi.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "nítorí èyí"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mo mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ìwọ fẹ́ mi ní ṣíṣe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "yọlù"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ọ̀tá mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:30.034072005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Wò ó, mo ti sísọ́ ⟨את⟩ ìyè àti ⟨את⟩ rere, àti ⟨את⟩ ikú àti ⟨את⟩ búburú síwájú rẹ̀ lónìí.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mo ti sísọ́"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "síwájú rẹ̀"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìyè"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ìyè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "rere"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ikú"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "búburú"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T05:46:23.915246760Z",
+  "model": "glm-5.3"
+}

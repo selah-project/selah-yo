@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Ìwọ sì korìíra ìdanilórò, o sì fi ọ̀rọ̀ mi sílẹ̀ lẹ́yìn rẹ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ìwọ sì"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "o korìíra"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ìdanilórò"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "o sì fi sílẹ̀"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀ mi"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "lẹ́yìn rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:27.813424433Z",
+  "model": "glm-5.3"
+}

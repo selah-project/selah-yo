@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Mo sọkún nínú ìwọ̀sù ẹ̀mí mi, ó sì di ẹ̀gàn fún mi.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "mo sọkún"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "nínú ìwọ̀sù"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ó sì di"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "ẹ̀gàn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:39.501739474Z",
+  "model": "glm-5.3"
+}

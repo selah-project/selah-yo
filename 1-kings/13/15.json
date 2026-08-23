@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ó wí fún un pé, \"Wá pẹ̀lú ⟨את⟩ mi sí ilé, kí o sì jẹ búrẹ́dì.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó wí"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Wá"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "pẹ̀lú ⟨את⟩ mi"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "sí ilé"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "kí o sì jẹ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "búrẹ́dì"
+    }
+  ],
+  "timestamp": "2026-08-23T05:52:33.005723030Z",
+  "model": "glm-5.3"
+}

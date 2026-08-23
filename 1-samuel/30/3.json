@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "David sì dé pẹ̀lú àwọn ọkùnrin rẹ̀ sí ìlú náà, kíyèsi i, wọ́n ti sun ọ́ pẹ̀lú iná; àwọn aya wọn, àwọn ọmọkùnrin wọn àti àwọn ọmọbìnrin wọn sì ti mú wọn lọ́gbọ́n.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì dé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "pẹ̀lú àwọn ọkùnrin rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kíyèsi i"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "wọ́n ti sun ọ́"
+    },
+    {
+      "surface": "באש",
+      "gloss": "pẹ̀lú iná"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "àwọn aya wọn"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "àwọn ọmọkùnrin wọn"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "àwọn ọmọbìnrin wọn"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "sì ti mú wọn lọ́gbọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T00:55:46.334205640Z",
+  "model": "glm-5.3"
+}

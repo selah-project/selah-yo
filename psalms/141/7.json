@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 141,
+  "translation": "Bí ẹnìkan ṣe ń kọ ilẹ̀ kí ó sì ń fà á já, bẹ́ẹ̀ ni àwọn egungun wa ti túká sí ẹnu Sheol.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "bí"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "ń kọ (ń gé)"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "sì ń fà á já"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "ti túká"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "àwọn egungun wa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sí ẹnu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:20.793743419Z",
+  "model": "glm-5.3"
+}

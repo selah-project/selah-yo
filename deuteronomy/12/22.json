@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ṣùgbọ́n bí a ti ń jẹ ⟨את⟩ agbéfé àti ⟨את⟩ igbájọ, bẹ́ẹ̀ ni o lè jẹ ọ́; aláìmọ́ àti olómọ́ papọ̀ lè jẹ ọ́.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a ti ń jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agbéfé"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "agbéfé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igbájọ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "igbájọ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "o lè jẹ ọ́"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "aláìmọ́"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "àti olómọ́"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "papọ̀"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "lè jẹ ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:12:26.908320830Z",
+  "model": "glm-5.3"
+}

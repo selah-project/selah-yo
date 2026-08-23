@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "Ẹ gbọ́ ìmọ̀, ẹ̀yin àwọn ọmọ aràíye láwùjọ, àti ẹ̀yin àwọn ọmọ-àìmọ̀ — ọjọ́ meláà ni ẹ mú ọgbọ́n ṣẹ̀?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "ẹ gbọ́ ìmọ̀"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "ẹ̀yin àwọn ọmọ aràíye"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "láwùjọ"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "àti ẹ̀yin àwọn ọmọ-àìmọ̀"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ọjọ́ meláà"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "ẹ mú ọgbọ́n ṣẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:48.695129641Z",
+  "model": "glm-5.3"
+}

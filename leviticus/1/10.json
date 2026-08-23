@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ṣùgbọ́n tí ẹbùn rẹ̀ bá jẹ́ láti ara àwọn ọ̀yàn — láti àwọn agùntàn tàbí láti àwọn ewúrẹ́ — fún ẹbùn-ìsun, akọni láìní ìkọ́ ni ó ó gbé wá.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ṣùgbọ́n tí"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti ara"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "àwọn ọ̀yàn"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ẹbùn rẹ̀"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "àwọn agùntàn"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "àwọn ewúrẹ́"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "fún ẹbùn-ìsun"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "akọni"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "láìní ìkọ́"
+    },
+    {
+      "surface": "יקrivenu",
+      "gloss": "ni ó ó gbé wá"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:21.065121923Z",
+  "model": "glm-5.3"
+}

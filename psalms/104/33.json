@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Èmi yóò kọ orin fún Yahweh nígbà ìyè mí; èmi yóò kọ orin ìyìn fún Elohim mi nígbà tí mo wà láàyè.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "èmi yóò kọ orin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "nígbà ìyè mí"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "èmi yóò kọ orin ìyìn"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "fún Elohim mi"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "nígbà tí mo wà láàyè"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:19.094320269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ní ẹ̀gbẹ́ ⟨àwọn⟩ ọ̀nà ìnáwó eléwùù, ní ẹnu ìlú, ní ibi tí wọ́n ń wọ̀ lénu ìlénu wà, ni ó ń kígbe.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "ní ẹ̀gbẹ́"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "⟨àwọn⟩ ọ̀nà ìnáwó eléwùù"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ní ẹnu"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ní ibi tí wọ́n ń wọ̀ lénu"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "ìlénu wà"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ni ó ń kígbe"
+    }
+  ],
+  "timestamp": "2026-08-23T04:05:04.109633015Z",
+  "model": "glm-5.3"
+}

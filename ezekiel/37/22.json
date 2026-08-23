@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 37:22",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Èmi sì ń ṣe ⟨את⟩ wọn di orílẹ̀-èdè kan ṣoṣo ní ilẹ̀ yìí, ní àwọn òkè Yisrael; ọba kan ṣoṣo ni yóò jẹ́ ọba fún wọn gbogbo; wọn kì yóò tún jẹ́ orílẹ̀-èdè méjì mọ́, wọn kì yóò sì tún wá pin sí ìjọba méjì mọ́ rárá.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "èmi sì ń ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "di orílẹ̀-èdè"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan ṣoṣo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀ yìí"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "ní àwọn òkè"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ọba sì"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan ṣoṣo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "fún wọn gbogbo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì yóò sì tún"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tún"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "orílẹ̀-èdè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì yóò sì tún"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "wá pin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tún"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́ rárá"
+    }
+  ],
+  "timestamp": "2026-08-23T02:53:53.450026916Z",
+  "model": "glm-5.3"
+}

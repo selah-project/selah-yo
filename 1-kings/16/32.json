@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ó sì gbé pẹpẹ kalẹ̀ fún Ba'al nínú ilé Ba'al, tí ó kọ́ ní Shomron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ó sì gbé kalẹ̀"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "fún Ba'al"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ba'al"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ó kọ́"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ní Shomron"
+    }
+  ],
+  "timestamp": "2026-08-23T01:20:58.862013059Z",
+  "model": "glm-5.3"
+}

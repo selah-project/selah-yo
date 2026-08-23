@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 92,
+  "translation": "Lórí àwọn okùn mẹ́wàá, àti lórí nevel, pẹ̀lú igbe díẹ̀díẹ̀ lórí kinnor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "àwọn okùn mẹ́wàá"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pẹ̀lú ... lórí"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "igbe díẹ̀díẹ̀"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnor"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:50.746390627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Láti yí ìdájọ́ àwọn aláìní padà, àti láti jígbé ètò ìdájọ́ àwọn ẹ̀mí-búkù ti ènìyàn mi lọ, kí àwọn opó lè di ojà wọn, àti kí wọ́n ba ⟨את⟩ àwọn ọmọ-òbí jẹ.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "láti yí…padà"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "àwọn aláìní"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "àti láti jígbé…lọ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ètò ìdájọ́"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "àwọn ẹ̀mí-búkù"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "èniyàn mi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kí…di"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "àwọn opó"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "ojà wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ-òbí"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "àwọn ọmọ-òbí"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "wọ́n máa ba…jẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:44:47.672622640Z",
+  "model": "glm-5.3"
+}

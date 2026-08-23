@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àwọn ọmọ Yediael: Bilhan; àwọn ọmọ Bilhan: Yeushu, ati Binyamin, ati Ehudu, ati Kenaanahu, ati Zetanu, ati Tarshishi, ati Aḥishaḥar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Yediael"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeushu"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ati Binyamin"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "ati Ehudu"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "ati Kenaanahu"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "ati Zetanu"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "ati Tarshishi"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "ati Aḥishaḥar"
+    }
+  ],
+  "timestamp": "2026-08-23T05:10:35.149372913Z",
+  "model": "glm-5.3"
+}

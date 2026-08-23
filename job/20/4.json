@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ṣé èyí kò tíì mọ̀ ọ́ láti ìgbà àtijọ́, láti ìgbà tí a ti gbé ènìyàn sí orí ilẹ̀ ayé?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "ṣé èyí"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kò tíì mọ̀ ọ́"
+    },
+    {
+      "surface": "מני",
+      "gloss": "láti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ìgbà àtijọ́"
+    },
+    {
+      "surface": "מני",
+      "gloss": "láti ìgbà tí"
+    },
+    {
+      "surface": "שים",
+      "gloss": "a ti gbé"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T04:23:30.899394507Z",
+  "model": "glm-5.3"
+}

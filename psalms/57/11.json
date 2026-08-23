@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 57,
+  "translation": "Nítorí tí chesed rẹ tó ⟨the⟩ ọ̀run dé, àti tí òtítọ́ rẹ dé àwọn sánmánmán.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "tó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dè"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed rẹ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "àti dé"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "àwọn sánmánmán"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "òtítọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:29.521537184Z",
+  "model": "glm-5.3"
+}

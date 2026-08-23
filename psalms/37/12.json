@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ẹni búburú ń ṣètàn lọ́dọ̀ ẹni olóòótọ́, ó sì ń pa ehín rẹ̀ sí i.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "ń ṣètàn"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ẹni búburú"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "lọ́dọ̀ ẹni olóòótọ́"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "ó sì ń pa ehín"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ehín rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:22.225813815Z",
+  "model": "glm-5.3"
+}

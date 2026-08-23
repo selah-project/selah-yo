@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ọmọ ènìyàn, obìnrin méjì — ọmọbìnrin ìyá kan ṣoṣo ni wọn jẹ́.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "àwọn obìnrin"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "àwọn ọmọbìnrin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ìyá"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wọ́n jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T02:45:45.232474797Z",
+  "model": "glm-5.3"
+}

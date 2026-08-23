@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 79,
+  "translation": "Nítorí tí wọ́n ti jẹ ⟨את⟩ Yaakov, wọ́n sì ti pa ⟨את⟩ ibùgbé rẹ run.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí tí"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ti jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibùgbé rẹ"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "ibùgbé rẹ"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "ti pa…run"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:48.836202151Z",
+  "model": "glm-5.3"
+}

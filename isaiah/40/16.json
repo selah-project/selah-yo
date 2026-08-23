@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Lebanon kò tó láti jóná, àti ẹranko rẹ̀ kò tó fún ìpàsẹ.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "àti Lebanon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "די",
+      "gloss": "tó"
+    },
+    {
+      "surface": "בער",
+      "gloss": "láti jóná"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "àti ẹranko rẹ̀"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "די",
+      "gloss": "tó"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ìpàsẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:55:52.776205805Z",
+  "model": "glm-5.3"
+}

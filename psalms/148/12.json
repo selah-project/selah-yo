@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 148,
+  "translation": "Àwọn ọmọkùnrin, àti àwọn ọmọbìnrin alábòórò; àwọn àgbà, pẹ̀lú àwọn ọdọ́,",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "àwọn ọmọkùnrin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "àwọn ọmọbìnrin alábòórò"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "àwọn ọdọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:26.102765170Z",
+  "model": "glm-5.3"
+}

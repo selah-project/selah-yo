@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àwọn tí ó máa ń jẹun ní oúnjẹ ìdánù ti di aláìmọ̀ ní àwọn ọ̀nà ìlú; àwọn tí wọ́n gbọ́n ní ewé pónrónán ti fẹ́mọ́lé àwòn orí kòròko èéwọ̀.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "àwọn tí ó máa ń jẹun"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "ní oúnjẹ ìdánù"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "ti di aláìmọ̀"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "ní àwọn ọ̀nà ìlú"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "àwọn tí wọ́n gbọ́n"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ní"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "ewé pónrónán"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "ti fẹ́mọ́lé"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "àwọn kòròko èéwọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:37:57.800290979Z",
+  "model": "glm-5.3"
+}

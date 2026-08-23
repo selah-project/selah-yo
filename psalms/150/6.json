@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 150,
+  "translation": "Gbogbo ẹ̀mí míì jẹ́ kí ó yin Yah lógo; ẹ yin Yah lógo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "ẹ̀mí míì"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "jẹ́ kí ó yin lógo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Ẹ yin lógo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:30.624371886Z",
+  "model": "glm-5.3"
+}

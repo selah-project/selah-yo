@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Gẹ́gẹ́ bí ní Horev pẹ̀lú, ẹ fí bí Yahweh lu bínú, Yahweh sì bínú sí yín, láti pa yín run.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "gẹ́gẹ́ bí ní Horev pẹ̀lú"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "ẹ fí bí … lu bínú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "sì bínú sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sí yín"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "láti pa … run"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:52.890981753Z",
+  "model": "glm-5.3"
+}

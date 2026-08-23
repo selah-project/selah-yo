@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àwọn wọ̀nyí ni àwọn tí a pè láti inú ìjọpọ̀ náà, àwọn adarí ti àwọn ẹyà baba wọn; wọ́n ni àwọn orí àwọn ẹgbẹ̀rún Yisrael.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Àwọn wọ̀nyí"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "àwọn tí a pè"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ìjọpọ̀ náà"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "àwọn adarí"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "ti àwọn ẹyà"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "baba wọn"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "àwọn orí"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "àwọn ẹgbẹ̀rún"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:33.696089834Z",
+  "model": "glm-5.3"
+}

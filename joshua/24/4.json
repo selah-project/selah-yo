@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Mo sì fún Yitschak ní ⟨את⟩ Yaakov àti ⟨את⟩ Esav; mo sì fún Esav ní ⟨את⟩ òkè Seir láti jẹ rẹ̀ ní ní; Yaakov àti àwọn ọmọ rẹ̀ sì sọkalè sí Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Mo sì fún ní"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "mo sì fún ní"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òkè Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "láti jẹ ní"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ rẹ̀",
+      "marks": "rẹ̀ (òkè Seir)"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakov sì"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "àti àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "sọkalè sí"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-23T00:32:25.980527310Z",
+  "model": "glm-5.3"
+}

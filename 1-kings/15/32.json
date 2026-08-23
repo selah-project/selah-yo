@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ógu ọ̀kan sì wà láàrin Asa àti láàrin Baasha, ọba Israẹl, gbogbo ọjọ́ wọn.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Ógu ọ̀kan sì"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàrin"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàrin"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ọjọ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:21:15.225749591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Shelomoh sọnú ṣepọ̀ ẹbí pẹ̀lú ⟨את⟩ Farao, ọba Mitzrajim, ó sì gba ⟨את⟩ ọmọbìnrin Farao, ó sì mú un wá sí ìlú Dawidu, títí dí ìgbà tí ó fi parí kíkó ⟨את⟩ ilé tirẹ̀, àti ⟨את⟩ ilé Yahweh, àti ⟨את⟩ ogiri Yerushalayim líká lárọ̀ọ̀.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "sọnú ṣepọ̀ ẹbí"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrajim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọbìnrin Farao"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbìnrin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "ó sì mú un wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dí"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ìgbà tí ó fi parí"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kíkó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé tirẹ̀"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé tirẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilé Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ogiri Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ogiri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "líká lárọ̀ọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:01.889777044Z",
+  "model": "glm-5.3"
+}

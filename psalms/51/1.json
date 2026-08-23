@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Fún olùdarí-orin; orin-ìníya ní ti Davidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fún olùdarí-orin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin-ìníya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ní ti Davidi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:14.291062724Z",
+  "model": "glm-5.3"
+}

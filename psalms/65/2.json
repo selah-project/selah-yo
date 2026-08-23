@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 65,
+  "translation": "Ìdákẹ́jẹ́ ni ìyìn fún ọ, Elohim, ní Tsiyon; àti sí ọ ni ìbúra yóò parí.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "ìdákẹ́jẹ́"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ìyìn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ní Tsiyon"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "àti sí ọ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "yóò parí"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ìbúra"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:01.745195559Z",
+  "model": "glm-5.3"
+}

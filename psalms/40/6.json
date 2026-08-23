@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 40:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Púpọ̀ ni iṣẹ́ tí I ṣe, Yahweh Elohim mi; ìṣẹ̀lẹ̀ ìyanu Rẹ àti àwọn èrò Rẹ sí wa — kò sí ènìyàn tí ó lè fi Rẹ wé; tí mo bá sọ wọn jáde, tí mo bá sọ nípa wọn, wọn pọ̀ ju èyí tí a lè ka lọ.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "iṣẹ́ tí I ṣe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "נפלאתיך",
+      "gloss": "ìṣẹ̀lẹ̀ ìyanu Rẹ"
+    },
+    {
+      "surface": "ומחשבתיך",
+      "gloss": "àti àwọn èrò Rẹ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sí wa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "ènìyàn tí ó lè fi…wé"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Rẹ"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "tí mo bá sọ wọn jáde"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "tí mo bá sọ nípa wọn"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "wọn pọ̀ ju…lọ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "èyí tí a lè ka"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:55.679754472Z",
+  "model": "glm-5.3"
+}

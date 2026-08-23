@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Ahọ́n mi bákan náà, gbogbo ọjọ́, yóò sọ ìdájọ́ rẹ — nítorí tí wọ́n ti tì emo, nítorí tí wọ́n ti ṣẹ̀ tí wọ́n ń wá ìbàjẹ́ mi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ahọ́n mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "yóò sọ"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ìdájọ́ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "wọ́n ti tì emo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "wọ́n ti ṣẹ̀"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "wọ́n ń wá"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ìbàjẹ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:14.780740550Z",
+  "model": "glm-5.3"
+}

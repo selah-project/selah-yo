@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 27:22",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Moshe sì ṣe bí Yahweh ti pàṣẹ fún ⟨את⟩ rẹ̀; ó sì gba ⟨את⟩ Yehoshua, ó sì ṣí í dúró níwájú Elazar kohen àti níwájú gbogbo ìjọ náà.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Moshe sì ṣe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "fún ⟨את⟩ rẹ̀",
+      "marks": "fún rẹ̀"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "ó sì ṣí í dúró"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "àti níwájú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ìjọ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:01:58.022026674Z",
+  "model": "glm-5.3"
+}

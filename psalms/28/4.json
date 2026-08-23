@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Fún wọn ní ti iṣẹ́ wọn, àti gẹ́gẹ́ bí àṣìṣe àwọn iṣẹ́ wọn ṣe jẹ́; bí iṣẹ́ owó wọn, fún wọn; da gbèsan wọn padà fún wọn.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Fún wọn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "ní ti iṣẹ́ wọn"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "àti gẹ́gẹ́ bí… jẹ́"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "àṣìṣe àwọn iṣẹ́ wọn"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "bí iṣẹ́"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "owó wọn"
+    },
+    {
+      "surface": "תן",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "השב",
+      "gloss": "da… padà"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "gbèsan wọn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:15.806895018Z",
+  "model": "glm-5.3"
+}

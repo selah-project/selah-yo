@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ó sì sọ fún Yehuda pé kí wọ́n wá ⟨את⟩ Yahweh, Elohim ti àwọn baba wọn, kí wọ́n sì ṣe Tíọrà àti àṣẹ náà.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì sọ fún"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "kí wọ́n wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "kí wọ́n sì ṣe"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tíọrà"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "àti àṣẹ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:28:19.198948370Z",
+  "model": "glm-5.3"
+}

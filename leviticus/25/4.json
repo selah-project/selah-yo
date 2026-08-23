@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ṣùgbọ́n ní ọdún keje, Shabat — ìsinmi pátápátá ni ilẹ̀ yóò ní, Shabat fún Yahweh: ilẹ̀-àgbà rẹ, má ṣe gbìn; igi-ọ̀gàn rẹ, má ṣe ge.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "ṣùgbọ́n ní ọdún"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "keje"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ìsinmi pátápátá"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò ní"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ilẹ̀-àgbà rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "gbìn"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "igi-ọ̀gàn rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "ge"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:11.230338795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Nítorí ó rántí ⟨את⟩ ọ̀rọ̀ mímọ́ rẹ̀, ⟨את⟩ Avraham ìránṣẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ó rántí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ mímọ́ rẹ̀"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mímọ́ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ìránṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:05.494258191Z",
+  "model": "glm-5.3"
+}

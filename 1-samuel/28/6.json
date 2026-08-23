@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Shaul sì béèrè lọ́wọ́ Yahweh, Yahweh sì kò dáhùn rẹ̀ — kì í nínú àlà, kì í nínú Urim, kì í nínú ìwásí.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "sì béèrè lọ́wọ́"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "lọ́wọ́ Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sì kò"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "dáhùn rẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "nínú àlà"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "nínú Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "nínú ìwásí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:56:17.072691716Z",
+  "model": "glm-5.3"
+}

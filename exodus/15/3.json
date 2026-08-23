@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Yahweh, ọkunrin-ogun ni; Yahweh ni orúkọ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkunrin"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:20:51.528893368Z",
+  "model": "glm-5.3"
+}

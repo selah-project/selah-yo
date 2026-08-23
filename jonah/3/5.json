@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn ọkùnrin Nineveh gba Elohim gbọ́, wọ́n ké pe àwọn gbọdọ̀ gbà àjejò, wọ́n wọ aṣọ ìbanujẹ́, láti ẹ̀gbẹ́ tí ó tóbi jùlọ tí wọ́n dé ti kékeré jùlọ wọn.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "wọ́n gba gbọ́"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nínú Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "wọ́n ké pe"
+    },
+    {
+      "surface": "צום",
+      "gloss": "àjejò"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "wọ́n wọ"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "aṣọ ìbanujẹ́"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "láti ẹ̀gbẹ́ tí ó tóbi jùlọ wọn"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tí wọ́n dé"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "ti kékeré jùlọ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:10:46.702571733Z",
+  "model": "glm-5.3"
+}

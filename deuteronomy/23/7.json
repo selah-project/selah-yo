@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Má ṣe wá àlàáfíà wọn àti rere wọn ní ọjọ́ rẹ gbogbo, títí láé.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "wá"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "àlàáfíà wọn"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "àti rere wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ní ọjọ́ rẹ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láé"
+    }
+  ],
+  "timestamp": "2026-08-23T00:16:56.999218342Z",
+  "model": "glm-5.3"
+}

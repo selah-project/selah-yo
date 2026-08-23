@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Nítorí àṣẹ lórí àṣẹ, àṣẹ lórí àṣẹ, ìlà lórí ìlà, ìlà lórí ìlà, díẹ́ níbí, díẹ́ níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "צו",
+      "gloss": "àṣẹ"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "lórí àṣẹ"
+    },
+    {
+      "surface": "צו",
+      "gloss": "àṣẹ"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "lórí àṣẹ"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ìlà"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "lórí ìlà"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ìlà"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "lórí ìlà"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "díẹ́"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbí"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "díẹ́"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:48:47.725373222Z",
+  "model": "glm-5.3"
+}

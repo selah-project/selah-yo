@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ìdí ni èyí tí Yahweh ti sọ nípa Moab láti ìgbà náà.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ìdí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "láti ìgbà náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:54:30.173907956Z",
+  "model": "glm-5.3"
+}

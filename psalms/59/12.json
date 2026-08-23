@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 59,
+  "translation": "Má ṣe kí ìwọ pa wọn lálàyè, kí èrò mi má bàà jẹ́ kí a gbà wọn; ṣe é kí wọn tì nínú ipá rẹ, kí ìwọ sì ṣọ́ wọn dà ní ìsàlẹ̀, Adonai, ìdáàbòbò wa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Má ṣe"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "kí ìwọ pa wọn lálàyè"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí ... má baà jẹ́"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "gbà wọn"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "èrò mi"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "ṣe é kí wọn tì"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "nínú ipá rẹ"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "kí ìwọ sì ṣọ́ wọn dà ní ìsàlẹ̀"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "ìdáàbòbò wa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:46.149375651Z",
+  "model": "glm-5.3"
+}

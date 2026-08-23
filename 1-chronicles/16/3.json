@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ó sì pín fún gbogbo ọkùnrin Yisrael, láti ọkùnrin dé obìnrin, fún ọ̀kọ̀ọ̀kan ọkùnrin: kèkè bùrẹ́dì àti èso-dátì-títa àti kèkè réísín.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "ó sì pín"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "láti ọkùnrin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "délé dé"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "obìnrin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "fún ọ̀kọ̀ọ̀kan ọkùnrin"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kèkè"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bùrẹ́dì"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "àti èso-dátì-títa"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "àti kèkè réísín"
+    }
+  ],
+  "timestamp": "2026-08-23T05:15:24.924925476Z",
+  "model": "glm-5.3"
+}

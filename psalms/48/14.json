@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Ẹ fi ọkàn yín sí ìpèǹwà rẹ̀, ẹ ṣàkíyèsí ⟨àwọn⟩ ààfin rẹ̀, kí ẹ lè sọ ọ́ fún ìran tí ó ń bọ̀ lẹ́yìn",
+  "tokens": [
+    {
+      "surface": "שיתו",
+      "gloss": "ẹ fi … sí"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "ọkàn yín"
+    },
+    {
+      "surface": "לחילה",
+      "gloss": "ìpèǹwà rẹ̀"
+    },
+    {
+      "surface": "פסגו",
+      "gloss": "ẹ ṣàkíyèsí"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "ààfin rẹ̀"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí ẹ lè"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "sọ ọ́ fún"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "tí ó ń bọ̀ lẹ́yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:07.082761553Z",
+  "model": "glm-5.3"
+}

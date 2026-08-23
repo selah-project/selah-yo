@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 58,
+  "translation": "Ṣé ń ṣe òtítọ́ ni, ẹ jẹ́ lílẹ̀, ẹ ń sọ̀rọ̀ ṣọ̀tẹ̀? Ṣé pẹ̀lú ìdajọ tó tọ́ ni ẹ ń dájọ́, àwọn ọmọ ènìyàn?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Ṣé ń ṣe òtítọ́ ni"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "jẹ́ lílẹ̀"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣọ̀tẹ̀"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "ẹ ń sọ̀rọ̀"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "pẹ̀lú ìdajọ tó tọ́"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "ẹ ń dájọ́"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:28.327954747Z",
+  "model": "glm-5.3"
+}

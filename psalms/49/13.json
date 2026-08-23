@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Ṣùgbọ́n ènìyàn ní ógo kì í ṣáájú dúró; a fi wé wọn bíi eranko, wọ́n ti parun.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "ṣùgbọ́n ènìyàn ní"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "ógo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í ṣáájú"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "a fi wé wọn"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "bíi eranko"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "wọ́n ti parun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:04.617361481Z",
+  "model": "glm-5.3"
+}

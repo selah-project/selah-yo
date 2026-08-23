@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Yahweh sì wí fún un pé: Pada lọ, padà lọ́nà rẹ sí ijù Damasẹki; tí ìwọ bá dé ibẹ̀, fi òróró yò ⟨את⟩ Chaza'el ní ipò ọba lórí Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pada lọ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "padà"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "lọ́nà rẹ"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "sí ijù"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasẹki"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "tí ìwọ bá dé"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "fi òróró yò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chaza'el"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chaza'el"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ní ipò ọba"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-23T01:23:25.418928732Z",
+  "model": "glm-5.3"
+}

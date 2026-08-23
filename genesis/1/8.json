@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Elohim sì pè fífẹ́ náà ní Ọ̀run; ó sì jẹ́ ìrọ̀lẹ́, ó sì jẹ́ àárọ̀ — ọjọ́ kejì.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sì pè ní"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "fífẹ́ náà"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Ọ̀run"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì jẹ́ ìrọ̀lẹ́"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ìrọ̀lẹ́"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì jẹ́ àárọ̀"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "àárọ̀"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kejì"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:40.558466891Z",
+  "model": "glm-5.3"
+}

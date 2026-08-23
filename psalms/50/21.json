@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Àwọn nǹkan wọnyí ni o ṣe, èmi sì pa ẹnu mọ́; o rọ̀ pé mo jọ́ rẹ, èmi yóò ṣàdájú́ ọ́ kí n sì fi ṣe àtèjúwọ́ níwájú ojú rẹ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "àwọn nǹkan wọnyí"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o ṣe"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "èmi sì pa ẹnu mọ́"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "o rọ̀ pé"
+    },
+    {
+      "surface": "היות",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "mo wà"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "bí ọ"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "èmi yóò ṣàdájú́ ọ́"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "kí n sì fi ṣe àtèjúwọ́"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "níwájú ojú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:04.162233043Z",
+  "model": "glm-5.3"
+}

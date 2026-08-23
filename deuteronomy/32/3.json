@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Nítorí èmi ó ké orúkọ Yahweh; ẹ fún Elohim wa ní ògo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "èmi ó ké"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ẹ fún"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ògo (ńlá)"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohim wa"
+    }
+  ],
+  "timestamp": "2026-08-23T00:20:50.239885034Z",
+  "model": "glm-5.3"
+}

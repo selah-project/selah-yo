@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 63,
+  "translation": "Elohim, Iwọ ni El mi; ní kútùkútù ni mo ń ṣàwárí ⟨iwe⟩; ọkàn mi gbẹ̀ lọ́dọ̀ rẹ, ara mi yanu lọ́dọ̀ rẹ, ní ilẹ̀ gbígbẹ àti èbi tí kò sí omi níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Iwọ"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "ní kútùkútù ni mo ń ṣàwárí"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "gbẹ̀"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "yanu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ara mi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "gbígbẹ"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "àti èbi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tí kò sí"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:06.636526061Z",
+  "model": "glm-5.3"
+}

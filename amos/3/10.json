@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Nítorí wọn kò mọ ohun tí ó tọ́ ní ṣíṣe, ni Yahweh wí — ẹnití ó ń fi ipá ṣe ìwà ìbajẹ́ àti ìjìnbà pamọ́ sínu àwọn ààfin wọn.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nítorí wọn kò"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mọ"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ṣíṣe"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "ohun tí ó tọ́"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ní Yahweh wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "ẹnití ó ń pamọ́"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìwà ìbajẹ́ ipá"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "àti ìjìnbà"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "sínu àwọn ààfin wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:05:59.831101125Z",
+  "model": "glm-5.3"
+}

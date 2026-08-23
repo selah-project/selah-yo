@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àti àlùfáà ni yóò jẹ kí ó túùrán ⟨את⟩ ìrántí rẹ̀, láti ara èso rẹ̀ tí a lu fọ́ lànù àti láti ara epo rẹ̀, lórí gbogbo líàbùńá rẹ̀ — ẹbọ iná, fún Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ni yóò jẹ kí ó túùrán"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìrántí rẹ̀"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "ìrántí rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "láti ara èso rẹ̀ tí a lu fọ́ lànù"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "àti láti ara epo rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "líàbùńá rẹ̀"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ẹbọ iná"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:29.656790961Z",
+  "model": "glm-5.3"
+}

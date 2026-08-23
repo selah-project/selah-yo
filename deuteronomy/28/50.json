@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Orílẹ̀-èdè tí ó lewọ́ ojú, tí kò ní gbé ojú sókè fún àgbà, bí kò ṣe fún ọmọdé kí ó ṣàánù.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "orílẹ̀-èdè"
+    },
+    {
+      "surface": "עז",
+      "gloss": "lewọ́"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "gbé sókè"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "fún àgbà"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "bí kò ṣe fún ọmọdé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "ṣàánù"
+    }
+  ],
+  "timestamp": "2026-08-23T00:19:27.841905882Z",
+  "model": "glm-5.3"
+}

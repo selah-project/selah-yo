@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ọba náà sì pa ⟨את⟩ gbogbo ènìyàn níṣẹ́ pé: Ṣe Pésaṣì fún Yahweh, Elohim yín, gẹ́gẹ́ bí a ti kọ ọ́ sí ìwé ìgbéyàwó yìí.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "sì pa níṣẹ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ènìyàn náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ṣe"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pésaṣì"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "gẹ́gẹ́ bí a ti kọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ìwé"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ìgbéyàwó"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:37:26.024902591Z",
+  "model": "glm-5.3"
+}

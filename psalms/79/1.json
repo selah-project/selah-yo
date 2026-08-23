@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 79,
+  "translation": "Orin-kíkún fún Asaf. Elohim, àwọn orílẹ̀-èdè ti wọ sí àrọ̀ Rẹ, wọ́n ti ṣẹ́ ⟨את⟩ yàrá ìpàdé mímọ́ Rẹ, wọ́n sọ ⟨את⟩ Yerushalayim di àwọn kárágà.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "orin-kíkún"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "fún Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ti wọ sí"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "àrọ̀ Rẹ"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "wọ́n ti ṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yàrá ìpàdé mímọ́ Rẹ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "yàrá ìpàdé"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "mímọ́ Rẹ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "wọ́n sọ di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "àwọn kárágà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:44.057787211Z",
+  "model": "glm-5.3"
+}

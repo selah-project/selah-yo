@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Ìwọ bu ikún orísun omi àti odò; ìwọ gbé omi àwọn odò tó pẹ́ lọ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ìwọ"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "bu ikún"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "orísun omi"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "àti odò"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "gbé omi… lọ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "àwọn odò"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "tó pẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:27.412862944Z",
+  "model": "glm-5.3"
+}

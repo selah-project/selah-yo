@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "tí ó gé pẹ̀lú ⟨את⟩ Avraham, àti ìbúra rẹ̀ fún Yitschak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ó gé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "àti ìbúra rẹ̀"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "fún Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-23T05:13:58.146195089Z",
+  "model": "glm-5.3"
+}

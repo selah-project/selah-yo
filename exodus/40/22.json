@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ó sì gbé ⟨את⟩ àga náà sí inú àgọ́ ìpàdé náà, ní ẹ̀gbẹ́ àríwá àgọ́ ìdíle náà, ní ita àsè ìboju náà.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì gbé … sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àga náà"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "àga náà"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "inú àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé náà"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní ẹ̀gbẹ́"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ẹ̀gbẹ́"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "àgọ́ ìdíle náà"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "àríwá"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ní ita"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "ti àsè ìboju náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:22.425482790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Dìde, lọ sí Nineveh, ìlú ńlá náà, kí o sì ké dé e, nítorí tí búburú wọn ti gorí ṣájú mi.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "dìde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "kí o sì ké dé"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "dé e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ti gorí"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "búburú wọn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ṣájú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:10:32.700089554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "Bùkún ni fún ọkùnrin tí ìwọ pa lọ́tọ́, Jah, àti tí ìwọ ń kọ́ láti inú Tórà rẹ.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bùkún ni fún"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "ìwọ pa lọ́tọ́"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "àti láti inú Tórà rẹ"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "ìwọ ń kọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:55.090065719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Noach, ọkùnrin ilẹ̀-àgbẹ̀, bẹ̀rẹ̀ iṣẹ́ àgbẹ̀, ó sì gbìn igbà ọ̀tún.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ó sì bẹ̀rẹ̀"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ilẹ̀-àgbẹ̀"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "ó sì gbìn"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "igbà ọ̀tún"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:10.112861919Z",
+  "model": "glm-5.3"
+}

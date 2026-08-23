@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Gbẹ́yin lẹ́ Yahweh, ṣe rere; ńgbẹ́ nínú ilẹ̀, kí o sì tọ́njú lé ìgbẹ́yìn.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Gbẹ́yin lẹ́"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kí o sì ṣe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ńgbẹ́"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "kí o sì tọ́njú lé"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ìgbẹ́yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:22.885770522Z",
+  "model": "glm-5.3"
+}

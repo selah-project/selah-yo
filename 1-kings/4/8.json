@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìwọ̀ wọn sì ni: Ben-Chur, ní òkè Efrayim.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ìwọ̀ wọn sì ni"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "àwọn orúkọ wọn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ní òkè"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:44.885159172Z",
+  "model": "glm-5.3"
+}

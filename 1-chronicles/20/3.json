@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 20:3",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àwọn ènìyàn tí ó wà nínú rẹ̀, ó sì gbé ⟨את⟩ wọn jáde, ó sì fi gbọnagbé, àti àwọn ohun-ẹ̀gé irin, àti àwọn gbọnagbé gé wọn; bẹ́ẹ̀ ni David ṣe ṣe fún gbogbo àwọn ìlú àwọn ọmọ Amon; David sì padà, àti gbogbo ènìyàn náà, sí Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wà nínú rẹ̀"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ó sì gbé… jáde"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ó sì fi… gé wọn"
+    },
+    {
+      "surface": "במגרה",
+      "gloss": "pẹ̀lú gbọnagbé"
+    },
+    {
+      "surface": "ובחריצי",
+      "gloss": "àti pẹ̀lú àwọn ohun-ẹ̀gé"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "irin"
+    },
+    {
+      "surface": "ובמגרות",
+      "gloss": "àti pẹ̀lú àwọn gbọnagbé"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó sì padà"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sí Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:17:34.603985471Z",
+  "model": "glm-5.3"
+}

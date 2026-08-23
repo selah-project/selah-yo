@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 75,
+  "translation": "Ilẹ̀ ń rù, àti gbogbo àwọn olùgbé rẹ; èmi ni mo fi ṣe ìtẹ̀wọ́n àwọn ìru rẹ̀. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "ń rù"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "àwọn olùgbé rẹ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi ni"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "mo fi ṣe ìtẹ̀wọ́n"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "àwọn ìru rẹ̀"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:43.094384269Z",
+  "model": "glm-5.3"
+}

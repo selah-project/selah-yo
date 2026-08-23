@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 148,
+  "translation": "Àwọn ọba ilẹ̀ ayé, àti gbogbo àwọn orílẹ̀-èdè; àwọn olóyè, àti gbogbo àwọn adáṣe ilẹ̀ ayé,",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "àwọn olóyè"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "àwọn adáṣe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:26.102627269Z",
+  "model": "glm-5.3"
+}

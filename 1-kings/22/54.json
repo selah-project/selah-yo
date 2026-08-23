@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ó sì ṣe ìsín ⟨את⟩ Baal, ó sì forí balẹ̀ fún un, ó sì fi Yahweh, Elohim Israẹl, bínú, gégé bí gbogbo tí bàbá rẹ̀ ti ṣe.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "Ó sì ṣe ìsín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "Ó sì forí balẹ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "Ó sì fi… bínú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gégré bí gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ti ṣe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bàbá rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:24:55.738226171Z",
+  "model": "glm-5.3"
+}

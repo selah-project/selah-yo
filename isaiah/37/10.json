@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 37:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Bẹ́ẹ̀ ni ẹ ó sọ fún Chizkiyahu, ọba Yehudah, wí pé, \"Má ṣe jẹ́ kí Elohim rẹ, èyí tí ìwọ gbẹ́kẹ̀ lé lé e, pa ẹ lẹ́rù láti sọ pé, Yerushalayim kì yóò tú sí ọwọ́ ọba Ashur.\"",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "ẹ ó sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "ישאך",
+      "gloss": "jẹ́ kí ó tán ẹ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lé e"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "láti sọ pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "yóò tú"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sí ọwọ́"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-23T01:53:00.911269983Z",
+  "model": "glm-5.3"
+}

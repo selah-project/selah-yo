@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 121,
+  "translation": "Kí ⟨ó⟩ má ṣe jẹ́ kí ẹsẹ̀ rẹ̀ lùgbà; Kí ⟨ó⟩ má ṣe sùn jẹ, Ẹni tí ó ń ṣọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kí ⟨ó⟩ má ṣe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "jẹ́ kí"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "lùgbà"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kí ⟨ó⟩ má ṣe"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "sùn jẹ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "Ẹni tí ó ń ṣọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:37.337566285Z",
+  "model": "glm-5.3"
+}

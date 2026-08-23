@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "⟨את⟩ àwọn ọra ni ẹ ń jẹ, ⟨את⟩ àwọn wúrán ni ẹ ń wọ, àwọn ẹran tí ó lágbbara ni ẹ ń pa, ṣùgbọ́n àwọn àgùntàn ni ẹ kò tọ́ju.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "àwọn ọra"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ẹ jẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn wúrán"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "àwọn wúrán"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "ẹ wọ"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "àwọn ẹran tí ó lágbbara"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ẹ pa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "àwọn àgùntàn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ẹ tọ́ju"
+    }
+  ],
+  "timestamp": "2026-08-23T02:51:05.196539982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 140,
+  "translation": "Wọ́n ti rán ahọ́n wọn bíi ejò; òògùn ejò alágbè sì wà lábẹ́ ètè wọn. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "wọ́n ti rán"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ahọ́n wọn"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bíi"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ejò"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "òògùn"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "ejò alágbè"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ètè wọn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:39.429676812Z",
+  "model": "glm-5.3"
+}

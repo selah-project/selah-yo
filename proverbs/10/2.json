@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Àwọn igbẹ́ àìṣeéṣe kò ní wúlò; ṣùgbọ́n olóòtítọ́ yò ewu ikú.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ní wúlò"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "Àwọn igbẹ́"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "àìṣeéṣe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ṣùgbọ́n olóòtítọ́"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "yò"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ewu ikú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:05:26.515254289Z",
+  "model": "glm-5.3"
+}

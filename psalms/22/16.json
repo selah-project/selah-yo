@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Agbára mi ti gbẹ bí àwo ilẹ̀, èdè mi ti lẹ́mọ̀ lẹ́ẹ̀mọ́ sí ahọ́n mi; ìwọ si fi mí sí èérù ikú.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "ti gbẹ"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "bí àwo ilẹ̀"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "agbára mi"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "èdè\/ahọ́n mi"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "ti lẹ́mọ̀ lẹ́ẹ̀mọ́ sí"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "ẹnu-òde mi"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "sí èérù"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "ìwọ fi mí sí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:02.044020966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 59,
+  "translation": "Elohim ti chesed mi, yóò sì ṣáájú mi; Elohim yóò sì fi èyí tí ó wà nínú ìranra-nínú-ẹ̀ṣẹ̀ hàn mí nínú ⟨את⟩ àwọn tí ń bú mi.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed mi"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "yóò sì ṣáájú mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "yóò sì fi èyí tí ó wà nínú ìranra-nínú-ẹ̀ṣẹ̀ hàn mí"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "nínú àwọn tí ń bú mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:46.149250556Z",
+  "model": "glm-5.3"
+}

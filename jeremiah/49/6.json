@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Lẹ́yìn ìyẹn, mo ni láti da ⟨את⟩ ìgbà ìdálẹ́wọ̀n àwọn ọmọ Amon pada, ìgbọ́ràn Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Lẹ́yìn ìyẹn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ní ìgbà yẹn"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mo ni láti da … pada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìgbà ìdálẹ́wọ̀n"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ìgbà ìdálẹ́wọ̀n"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ìgbọ́ràn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T02:30:13.562292728Z",
+  "model": "glm-5.3"
+}

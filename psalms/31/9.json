@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Nítorí ìwọ kò pa mí mọ́ sílẹ̀ ní ọwọ́ ọ̀tá; ìwọ gbé ẹsẹ̀ mí dúró ní ààyè gbígbò.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nítorí ìwọ kò"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "pa mí mọ́ sílẹ̀"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ní ọwọ́"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ọ̀tá"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "ìwọ gbé … dúró"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "ní ààyè gbígbò"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ẹsẹ̀ mí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:47.902045176Z",
+  "model": "glm-5.3"
+}

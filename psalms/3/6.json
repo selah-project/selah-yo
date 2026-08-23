@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Èmi mo ṣubú jẹ, mo sì sùn, mo sì jí; nítorí Yahweh ṣe ìtìlẹ́yìn mí.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "mo ṣubú jẹ"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "mo sì sùn"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "mo sì jí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "ṣe ìtìlẹ́yìn mí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:08.314823991Z",
+  "model": "glm-5.3"
+}

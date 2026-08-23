@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Ẹ má fi iná mọ́ ní ibi gbogbo tí ẹ ń gbé, ní ọjọ́ Shabbat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ẹ má"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "fi iná mọ́"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "àwọn ibi ìgbébé yín"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:32.909874888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 4:5",
+  "book": "nehemiah",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àwọn ọ̀tá wa sì wí pé: \"Wọn kì í mọ̀, wọn kì í rí i, títí di tí a ó fi wọ inú wọn, pa wọn, tí a ó sì fi dá ⟨את⟩ iṣẹ́ náà dúró.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "àwọn ọ̀tá wa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kì í"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "rí i"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "a ó wọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "תוכם",
+      "gloss": "inú wọn"
+    },
+    {
+      "surface": "והרגנום",
+      "gloss": "pa wọn"
+    },
+    {
+      "surface": "והשבתנו",
+      "gloss": "fi dá … dúró"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣẹ́ náà"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "iṣẹ́ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:03:49.696731014Z",
+  "model": "glm-5.3"
+}

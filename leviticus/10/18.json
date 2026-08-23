@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Wò ó, wọn kò mú ⟨את⟩ ẹ̀jẹ̀ rẹ̀ wá sí inú ààyè ìmímọ́; ìwọ̀ yín ni láti jẹ ẹ ⟨את⟩ nínú ìmímọ́, gẹ́gẹ́ bí mo ti pàṣẹ.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀jẹ̀ rẹ̀"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ẹ̀jẹ̀ rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ààyè ìmímọ́"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "inú"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "jẹ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ìwọ̀ yín ni láti jẹ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ìnú ìmímọ́"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "nínú ìmímọ́"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mo ti pàṣẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:38:47.105732583Z",
+  "model": "glm-5.3"
+}

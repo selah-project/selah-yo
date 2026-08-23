@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 31:6",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Ẹ padà sí Ẹni tí àwọn ọmọ Yisrael ti gbe sí ìyẹ̀sí sí jinlẹ̀.",
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "ẹ padà sí"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sí Ẹni tí"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "ti gbe... jinlẹ̀"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "sí ìyẹ̀sí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T01:50:41.717080815Z",
+  "model": "glm-5.3"
+}

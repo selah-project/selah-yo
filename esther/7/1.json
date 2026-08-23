@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ọba náà sì wá, Haman náà sì, láti mu ⟨ọtí⟩ pẹ̀lú Ester ayaba náà.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "sì wá"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Haman náà sì"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "láti mu ⟨ọtí⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ayaba náà"
+    }
+  ],
+  "timestamp": "2026-08-23T06:11:00.046421400Z",
+  "model": "glm-5.3"
+}

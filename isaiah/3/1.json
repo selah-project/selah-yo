@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Nítorí náà, kíyèsi wo: Adonai, Yahweh Tsavaot, ń yọ ⟨את⟩ ìgàngan àti ⟨את⟩ ẹ̀ka ìgàngan kúrò láti Yerushalayim àti láti Yehudah — gbogbo ìgàngan oúnjẹ àti gbogbo ìgàngan omi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kíyèsi wo"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsavaot"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "ń yọ kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìgàngan"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "láti Yerushalayim"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "àti láti Yehudah"
+    },
+    {
+      "surface": "משען",
+      "gloss": "ìgàngan"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "àti ẹ̀ka ìgàngan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "משען",
+      "gloss": "ìgàngan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "משען",
+      "gloss": "ìgàngan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:40:18.672870635Z",
+  "model": "glm-5.3"
+}

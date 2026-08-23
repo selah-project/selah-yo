@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Kí wọn má ba à ṣe mu, kí wọn sì má ba à gbagbé òfin, kí wọn má sì tún ṣe ìdájọ́ àwọn ọmọ inú rírò kọ̀ọ̀ da padà.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kí … má ba à"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ṣe mu"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "kí wọn sì má ba à gbagbé"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "òfin"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "kí wọn má sì tún ṣe … da padà"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "àwọn … gbogbo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "inú rírò"
+    }
+  ],
+  "timestamp": "2026-08-23T04:14:38.315799852Z",
+  "model": "glm-5.3"
+}

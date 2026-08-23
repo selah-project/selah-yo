@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Wò ó, iná sì sókalẹ̀ láti ọ̀run, ó sì jẹ ⟨את⟩ àwọn ọ̀gá àádọ́ta méjì àkọ́kọ́ àti ⟨את⟩ àádọ́ta wọn; nísisiyí kí ẹ̀mí mi jẹ́ iyebíye ní ojú rẹ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "sókalẹ̀"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ó sì jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀gá àádọ́ta méjì"
+    },
+    {
+      "surface": "שני",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "àwọn ọ̀gá"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "àádọ́ta"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "àkọ́kọ́"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àádọ́ta wọn"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "àádọ́ta wọn"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "nísisiyí"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "jẹ́ iyebíye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ní ojú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T05:52:37.528926274Z",
+  "model": "glm-5.3"
+}

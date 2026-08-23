@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Isaiah wá sọ fún Chizkiyahu pé: Gbọ́ ọ̀rọ̀ Yahweh tí ó ń kó àwọn ọmọ-ogun jọ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sọ wá"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Isaiah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "tí ó ń kó àwọn ọmọ-ogun jọ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:54:14.587049119Z",
+  "model": "glm-5.3"
+}

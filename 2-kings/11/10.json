@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Àlùfáà náà sì fún àwọn olórí àwọn ọgọrún ní ⟨את⟩ ọ̀dà àti ⟨את⟩ àwọn aṣọ-ìdáàbòbò tí Dafidi ọba ní, tí ó sì wà nínú ilé Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fún ní"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà náà"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "fún àwọn olórí"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "àwọn ọgọrún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀dà"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ọ̀dà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn aṣọ-ìdáàbòbò"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "àwọn aṣọ-ìdáàbòbò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tí ọba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó sì wà"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nínú ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T01:32:34.993367843Z",
+  "model": "glm-5.3"
+}

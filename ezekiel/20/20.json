@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ẹ sì fi ⟨את⟩ àwọn ọjọ́-ìsinmi mi yọ láìní ìdíbaje; kí wọ́n lè jẹ́ àmì láàárín èmi àti yín, láti mọ̀ pé èmi ni Yahweh, Elohim yín.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọjọ́-ìsinmi mi"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "àwọn ọjọ́-ìsinmi mi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ẹ sì fi yọ láìní ìdíbaje"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kí wọ́n lè jẹ́"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "àmì"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "láàárín èmi"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "àti yín"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "láti mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-23T05:59:39.628482256Z",
+  "model": "glm-5.3"
+}

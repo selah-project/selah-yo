@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ní àlàáfíà ni emi yóò sùn ìdálẹ̀kùnkún, èmi yóò sùn gan-an; nítorí ìwọ, Yahweh, nìkan ni, ní ìgbẹ́kẹ̀gbẹ́kẹ́ ni wọ́n fi ń ṣe ìdákọ́ àwòrán èmi.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "ní àlàáfíà"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ní ọ̀nà kan náà (papọ̀)"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "emi yóò sùn ìdálẹ̀kùnkún"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "èmi yóò sùn gan-an"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "nìkan"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ní ìgbẹ́kẹ̀gbẹ́kẹ́"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "wọ́n fi ń ṣe ìdákọ́ àwòrán èmi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:21:40.579909685Z",
+  "model": "glm-5.3"
+}

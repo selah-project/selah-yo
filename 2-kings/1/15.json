@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ojìṣẹ́ Yahweh sì sọ̀rọ̀ sí Eliyahu pé, Sùbọ̀ sí i, má ṣe bẹ̀rù rẹ̀. Nígbà náà ni ó díìde, ó sì sùbọ̀ sí i lọ sí ọ̀dọ̀ ⟨àwọ̀n⟩ ọba náà.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sì sọ̀rọ̀"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ojìṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Sùbọ̀"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "un"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bẹ̀rù"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ó díìde"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ó sì sùbọ̀"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "un"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:52:22.532506373Z",
+  "model": "glm-5.3"
+}

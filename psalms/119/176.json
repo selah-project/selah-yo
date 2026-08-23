@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Mo tàsì bí àgùntàn sónù; ṣe àwáàrí ẹrú rẹ, nítorí tí èyí tí ó jẹ́ òfin rẹ èmi kò gbàgbé.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "mo tàsì"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "bí àgùntàn"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "sónù"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ṣe àwáàrí"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ẹrú rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "èyí tí ó jẹ́ òfin rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "èmi gbàgbé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:21.381921656Z",
+  "model": "glm-5.3"
+}

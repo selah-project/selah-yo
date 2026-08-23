@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Aharon sì máa mú ⟨את⟩ màlúù ẹ̀bùyà-iṣẹ́lẹ̀ tí ó jẹ́ ti ara rẹ̀ wá, ó sì máa ṣe ìpẹ́ nítorí ara rẹ̀ àti nítorí ilé rẹ̀.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ó sì máa mú wá"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "màlúù ẹ̀bùyà-iṣẹ́lẹ̀"
+    },
+    {
+      "surface": "פר",
+      "gloss": "màlúù"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ẹ̀bùyà-iṣẹ́lẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ó jẹ́ ti ara rẹ̀"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ó sì máa ṣe ìpẹ́"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "nítorí ara rẹ̀"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "àti nítorí"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:37.551442295Z",
+  "model": "glm-5.3"
+}

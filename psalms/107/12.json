@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Ó sì fọ̀ ọkàn wọn jẹ̀ pẹ̀lú iṣẹ́ alára, wọ́n ṣubú, kò sì ẹnikeji rèlẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "ó sì fọ̀ jẹ̀"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "pẹ̀lú iṣẹ́ alára"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ọkàn wọn"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "wọ́n ṣubú"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "ẹnikejiìrànlọ́wọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:16.199571850Z",
+  "model": "glm-5.3"
+}

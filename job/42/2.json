@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Mo mọ̀ pé ẹ lè ṣe gbogbo nǹkan, àti pé ìpinnu kò lè di dídúró kúrò lọ́dọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Mo mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo nǹkan"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ẹ lè ṣe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti pé … kò lè"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "di dídúró"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kúrò lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "ìpinnu"
+    }
+  ],
+  "timestamp": "2026-08-23T04:32:00.162180419Z",
+  "model": "glm-5.3"
+}

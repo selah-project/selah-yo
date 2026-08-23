@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Dawid sì lọ pẹ̀lú àwọn ọkọ rẹ̀ sí Keilah, ó sì jagun pẹ̀lú ⟨awọn⟩ Pelishtim, ó sì mú ⟨את⟩ ẹran-ọ̀sìn wọn lọ, ó sì lu wọn lu ìlùqà ńlá, Dawid sì gbà ⟨את⟩ àwọn olùgbé Keilah là.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "pẹ̀lú àwọn ọkọ rẹ̀"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "sí Keilah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ó sì jagun"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "pẹ̀lú awọn Pelishtim"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "ó sì mú…lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹran-ọ̀sìn wọn"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ẹran-ọ̀sìn wọn"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ó sì lu wọn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ìlùqà"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "ó sì gbà…là"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn olùgbé Keilah"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn olùgbé"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    }
+  ],
+  "timestamp": "2026-08-23T00:52:34.133087048Z",
+  "model": "glm-5.3"
+}

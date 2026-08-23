@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Mo sì wí pé, Ta ló yóò fún mi ní ìyẹ́ bíi adábà, kí n fò kí n sì sinmi?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mo sì wí pé"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yóò fún"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi ní"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "ìyẹ́"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "bíi adábà"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "kí n fò"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "kí n sì sinmi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:45.721532580Z",
+  "model": "glm-5.3"
+}

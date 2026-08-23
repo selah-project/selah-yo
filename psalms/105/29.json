@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ó yí ⟨את⟩ omi wọn di ẹjẹ̀, ó sì pa ⟨את⟩ ẹja wọn kú.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "yó yí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omi wọn"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "omi wọn"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "di ẹjẹ̀"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ó sì pa kú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹja wọn"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "ẹja wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:36.760091019Z",
+  "model": "glm-5.3"
+}

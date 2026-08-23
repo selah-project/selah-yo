@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "⟨את⟩ owú kékeré, àti ⟨את⟩ owú tó tóbi, àti owú funfun",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "owú kékeré"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "owú kékeré"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "owú tó tóbi"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "owú tó tóbi"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "àti owú funfun"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:49.449380644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Fítélà Elohim ṣáájú kí ó ó kú, Shemuël sì ń gbẹ́dọ́ ní tẹmpili Yahweh, níbi tí àkítí Elohim wà.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "Fítélà … sì"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ṣáájú kí"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "ó ó kú"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "Shemuël sì"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ń gbẹ́dọ́"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ní tẹmpili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "níbi tí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "àkítí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T00:43:18.687198907Z",
+  "model": "glm-5.3"
+}

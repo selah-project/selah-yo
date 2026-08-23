@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ẹ̀yìn tí ó kú lára ìròybọ̀ náà ni ti Aharon àti ti àwọn ọmọ rẹ̀ — ìwọ̀ mímọ́ jùlọ ni, lára àwọn ègbé-íná Yahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "ẹ̀yìn tí ó kú"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lára"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ìròybọ̀ náà"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ni ti Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "àti ti àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ìwọ̀ mímọ́"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "mímọ́ jùlọ"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "lára àwọn ègbé-íná"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:00.204608749Z",
+  "model": "glm-5.3"
+}

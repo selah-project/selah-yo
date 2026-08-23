@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Wọ́n sì gbé ⟨את⟩ Moshe àti ⟨את⟩ Aharon padà sí ọ̀dọ̀ Paraoh, ó sì wí fún wọn pé, 'Ẹ lọ, ẹ ṣìn ⟨את⟩ Yahweh Elohim yín — ta ni, àti ta ni, àwọn tí ó ń lọ?'",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "wọ́n sì gbé ... padà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ẹ lọ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ẹ ṣìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "àti ta ni"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "àwọn tí ó ń lọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:06.069229616Z",
+  "model": "glm-5.3"
+}

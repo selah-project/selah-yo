@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Sabbath, Sabbath-iṣinmi ni fún yín; ẹ sì máa ṣe ìfaradà ⟨את⟩ ẹ̀mí yín — òfin láì-láì.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sabbath"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Sabbath-iṣinmi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ẹ sì máa ṣe ìfaradà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí yín"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ẹ̀mí yín"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "òfin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "láì-láì"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:34.016068493Z",
+  "model": "glm-5.3"
+}

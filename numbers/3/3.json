@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn yìí ni àwọn orúkọ àwọn ọmọ Aharon, àwọn àlùfáà tí a ti mọ̀-ó lóróró, tí wọ́n fi ọwọ́ wọn kún láti ṣiṣẹ́ àlùfáà.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Àwọn yìí"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "àwọn orúkọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "tí a ti mọ̀-ó lóróró"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fi ... kún"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ọwọ́ wọn"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "láti ṣiṣẹ́ àlùfáà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:41.216857030Z",
+  "model": "glm-5.3"
+}

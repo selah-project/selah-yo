@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Nitorí tí ọmọ rẹ yio beere lọwọ rẹ ni ọjọ́ iwaju, o si ni ki ni awọn ẹ̀rì, awọn òfin, awọn idajọ wọnyí tí Yahweh Elohim wa pa ⟨את⟩ yin lẹsẹ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "yóò béèrè lọ́wọ́ rẹ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ọmọ rẹ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ní ọjọ́ iwájú"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó sì ní"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "àwọn ẹ̀rì"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "àti àwọn òfin"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "àti àwọn ìdájọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pa … lẹ́ṣẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:08:45.113697267Z",
+  "model": "glm-5.3"
+}

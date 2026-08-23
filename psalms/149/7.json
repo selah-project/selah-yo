@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 149,
+  "translation": "Láti ṣe ìbínú-ìdájọ́ láàrín àwọn orílẹ̀-èdè, ìtọnisọ́nà àti ìparun láàrín àwọn ènìyàn.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "ìbínú-ìdájọ́"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "láàrín àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ìtọnisọ́nà"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ìparun"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "àwọn ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:50.020508972Z",
+  "model": "glm-5.3"
+}

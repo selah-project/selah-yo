@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 113,
+  "translation": "Ẹ yin Yah, ẹ yin Yahweh, àwọn ìránṣẹ́ Yahweh; ẹ yin ⟨את⟩ orúkọ Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ẹ yin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ẹ yin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ẹ yin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:53.026883596Z",
+  "model": "glm-5.3"
+}

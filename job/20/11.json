@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 20:11",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àwọn ẹ̀ẹ̀gún rẹ̀ kún ọdọ́ rere rẹ̀, ìbẹ̀ àti pẹ̀lú rẹ̀ lórí erùpẹ̀ ni ó máa sùn.",
+  "tokens": [
+    {
+      "surface": "עצמותיו",
+      "gloss": "Àwọn ẹ̀ẹ̀gún rẹ̀"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "kún"
+    },
+    {
+      "surface": "עלומו",
+      "gloss": "ọdọ́ rere rẹ̀"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "àti pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "erùpẹ̀"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ni ó máa sùn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:22:37.236869611Z",
+  "model": "glm-5.3"
+}

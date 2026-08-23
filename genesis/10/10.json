@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ìpìlẹ̀ ìjọba rẹ̀ sì jẹ́ Bavel, àti Erek, àti Akad, àti Kalneh, ní ilẹ̀ Shinar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "sì jẹ́"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "Ìpìlẹ̀"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ìjọba rẹ̀"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "àti Erek"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "àti Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "àti Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:19.675632622Z",
+  "model": "glm-5.3"
+}

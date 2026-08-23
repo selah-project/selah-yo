@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ka ⟨את⟩ àwọn ọmọ Levi, nílé baba wọn, nínú ìdílé wọn; gbogbo okùnrin láti ọmọ oṣù kan àti sókè, ni o ka wọn.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Levi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nílé"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "baba wọn"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nínú ìdílé wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "okùnrin"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "láti ọmọ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "oṣù kan"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "àti sókè"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "ni o ka wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:40.692398865Z",
+  "model": "glm-5.3"
+}

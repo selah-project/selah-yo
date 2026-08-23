@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 90,
+  "translation": "Ta ni ó mọ́ agbára ìbínú rẹ, àti bí ìbẹ̀rù rẹ̀ ṣe jẹ́, ni ìbínú rẹ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ta ni"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "עז",
+      "gloss": "agbára"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ìbínú rẹ"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "àti bí ìbẹ̀rù rẹ̀"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ìbínú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:27.070208266Z",
+  "model": "glm-5.3"
+}

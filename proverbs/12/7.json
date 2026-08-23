@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Wọ́n gbé àwọn èyí kẹ̀sẹ̀ lẹ́wọ̀n, wọ́n sì parun; ilé àwọn olódodo ni yóò dúró.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "wọ́n gbé lẹ́wọ̀n"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn èyí kẹ̀sẹ̀"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "wọ́n sì parun"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "àwọn olódodo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "yóò dúró"
+    }
+  ],
+  "timestamp": "2026-08-23T04:06:13.033717112Z",
+  "model": "glm-5.3"
+}

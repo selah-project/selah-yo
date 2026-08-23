@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 100,
+  "translation": "Orin-kíkọ fún ìdúpẹ́: Ɛ kíkún ohùn sí Yahweh, gbogbo ayé.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Orin-kíkọ"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "fún ìdúpẹ́"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Ɛ kíkún ohùn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:01.233136448Z",
+  "model": "glm-5.3"
+}

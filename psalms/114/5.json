@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 114,
+  "translation": "Kí ló ṣẹlẹ̀ fún ọ, ó odò ìkun omi, tí ó sá lọ? Ó Yardeni, tí ó yẹ̀ padà sẹ́yìn?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kí ló ṣẹlẹ̀"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ó odò ìkun omi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "ó sá lọ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ó Yardeni"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "ó yẹ̀ padà"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "sẹ́yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:43.161720212Z",
+  "model": "glm-5.3"
+}

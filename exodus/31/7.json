@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "⟨את⟩ àgọ́ ìpàdé, àti ⟨את⟩ àpótí ẹ̀rí, àti ⟨את⟩ ojú-iṣẹ́ ìdàpọ̀ tí ó wà lórí rẹ̀, àti ⟨את⟩ gbogbo ohun-èlò àgọ́ náà —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgọ́ ìpàdé"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àpótí ẹ̀rí"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "àpótí"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "ẹ̀rí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ojú-iṣẹ́ ìdàpọ̀"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ojú-iṣẹ́ ìdàpọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ó wà lórí rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ohun-èlò àgọ́ náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ohun-èlò"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "àgọ́ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:57.062787908Z",
+  "model": "glm-5.3"
+}

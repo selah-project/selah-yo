@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ó sì wí pé, \"Ẹ jẹ́ kí a lọ, ẹ jẹ́ kí a rin; èmi yóò sì rin níwájú rẹ.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "ẹ jẹ́ kí a lọ"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ẹ jẹ́ kí a rin"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "èmi yóò sì rin"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "níwájú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:06:30.984892781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Nítorí náà wọn yí ⟨את⟩ ògo wọn padà sí àpẹẹrẹ málùù tí ó ń jẹ koríko.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "wọn yí padà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ògo wọn"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ògo wọn"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "sí àpẹẹrẹ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "málùù"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "tí ó ń jẹ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "koríko"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:14.941603041Z",
+  "model": "glm-5.3"
+}

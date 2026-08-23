@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Kí ó mu, kí ó sì gbagbé àísàn owó rẹ̀, kí ó sì má rántí ìpẹ́nujẹ́ rẹ̀ mọ́.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "kí ó mu"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "kí ó sì gbagbé"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "àísàn owó rẹ̀"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "kí ó sì má rántí … rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mọ́ … kí ó má"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "rántí"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:14:38.316146772Z",
+  "model": "glm-5.3"
+}

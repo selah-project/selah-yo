@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Síwájú sí i, ⟨את⟩ abọ́ ìgbéga náà ni iwọ óò gbà, ó sì máa sè ⟨את⟩ ẹran rẹ̀ níbi mímọ́.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abọ́ ìgbéga náà"
+    },
+    {
+      "surface": "איל",
+      "gloss": "abọ́"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ìgbéga náà"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "iwọ óò gbà"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "ó sì máa sè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹran rẹ̀"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ẹran rẹ̀"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "níbi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:36.853677522Z",
+  "model": "glm-5.3"
+}

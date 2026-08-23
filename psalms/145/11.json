@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Ọlá ìjọba Rẹ ni wọ́n yóò sọ̀rọ̀ nípa rẹ̀; wọ́n yóò bá àwọn ènìyàn sọ̀rọ̀ nípa ipá Rẹ.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "ọlá"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "ìjọba Rẹ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yóò sọ"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "ipá Rẹ sì"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "yóò sọ̀rọ̀ nípa rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:17.821515589Z",
+  "model": "glm-5.3"
+}

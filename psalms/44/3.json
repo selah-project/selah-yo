@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Ìwọ pẹ̀lú ọwọ́ rẹ ni ó borí àwọn orílẹ̀-èdè ìta, ó sì gbin wọn; ó ba àwọn ènìyàn jẹ́, ó sì fi wọn lọ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ìwọ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "pẹ̀lú ọwọ́ rẹ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè ìta"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "ó borí"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "ó sì gbin wọn"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "ó ba jẹ́"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "ó sì fi wọn lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:16.412180298Z",
+  "model": "glm-5.3"
+}

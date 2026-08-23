@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "David sì dé Mahanaim; Absalom sì kọjá ⟨את⟩ Odò Yardeenu, òun àti gbogbo ọkùnrin Israeli pẹ̀lú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "David sì"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dé"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Mahanaim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "Absalom sì"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kọjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Odò Yardeenu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Odò Yardeenu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:03:57.219896042Z",
+  "model": "glm-5.3"
+}

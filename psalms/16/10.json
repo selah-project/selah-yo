@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Nítorí iwọ kì yóò fi nefesh mi sílẹ̀ fún Sheol, kì yóò sì fi alásẹ́ rẹ sílẹ̀ láti rí ìkúnilẹ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "yóò fi … sílẹ̀"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh mi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "fún Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "yóò sì fi … sílẹ̀"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "alásẹ́ rẹ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "láti rí"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ìkúnilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:43.677468400Z",
+  "model": "glm-5.3"
+}

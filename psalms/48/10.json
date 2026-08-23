@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "A ti ronú dídá nípa chesed Rẹ, Elohim, ní àárín ààfin Rẹ.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "a ti ronú dídá"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed Rẹ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ní àárín"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "ààfin Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:04.729033492Z",
+  "model": "glm-5.3"
+}

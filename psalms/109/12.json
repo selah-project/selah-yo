@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Kí ènìyàn má ṣe mú chesed fún un, kí ènìyàn kò sì ṣàánú fún àwọn àìníbàbá rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kí ó má"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "משך",
+      "gloss": "mú (fa jáde)"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti kí ó má"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ṣàánú"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "fún àwọn àìníbàbá rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:30.920404548Z",
+  "model": "glm-5.3"
+}

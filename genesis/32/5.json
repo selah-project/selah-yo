@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Ó sì pàṣẹ́ ⟨wọn⟩ wípé, Bẹ́ẹ̀ ni ẹ gbọ́dọ̀ sọ fún olúwa mi, fún Esau: Bẹ́ẹ̀ ni ìránṣẹ́ rẹ Yaakov ń sọ, Mo ti ṣe àlejò pẹ̀lú Lavan, mo sì ti dúró títí di òní.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ó sì pàṣẹ́"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wípé"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "ẹ gbọ́dọ̀ sọ"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "fún olúwa mi"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "fún Esau"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ń sọ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "Mo ti ṣe àlejò"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mo sì ti dúró"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "òní"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:18.565903583Z",
+  "model": "glm-5.3"
+}

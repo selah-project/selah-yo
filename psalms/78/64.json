@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Àwọn adúrò fún un ṣubú nípa idà, àti àwọn opó rẹ̀ kò ṣokùnfọ́.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "àwọn adúrò fún un"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nípa idà"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ṣubú"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "àti àwọn opó rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "ṣokùnfọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T06:20:00.847188418Z",
+  "model": "glm-5.3"
+}

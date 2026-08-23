@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Àwọn àlùfáà àti àwọn Lefi fi ara wọn mọ́ mókòó, wọ́n sì mọ́ mókòó ⟨את⟩ ìjọ náà, ⟨את⟩ àwọn ọ̀nà-ìbodè àti ⟨את⟩ odì náà.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "fi ara wọn mọ́ mókòó"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "àti àwọn Lefi"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "wọ́n sì mọ́ mókòó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọ náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀nà-ìbodè"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "àwọn ọ̀nà-ìbodè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "odì náà"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "odì náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:07:12.666406543Z",
+  "model": "glm-5.3"
+}

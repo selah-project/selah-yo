@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 61,
+  "translation": "Gbọ́ ìgbe mi, Elohim; fi etí sí àdúrà mi.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ìgbe mi"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "fi etí sí"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "àdúrà mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:06.123990537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ìká igi kékeré kan yóò jáde kúrọ̀ nínú àgbàlá Yishai, àti èso-ẹ̀ka kan yóò hàn kúrọ̀ ní àwọn gbọngbàgbà rẹ̀, ó yóò sì sọ èso.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yóò jáde"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "ìká igi kékeré"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "kúrọ̀ nínú àgbàlá"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "àti èso-ẹ̀ka"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "kúrọ̀ ní àwọn gbọngbàgbà rẹ̀"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "yóò sọ èso"
+    }
+  ],
+  "timestamp": "2026-08-23T01:45:13.425744404Z",
+  "model": "glm-5.3"
+}

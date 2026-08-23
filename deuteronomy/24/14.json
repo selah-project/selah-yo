@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 24:14",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Má ṣe pa ẹni tí a gbà lọ́wọ́ láti ṣiṣẹ́ fún owó, tí ó kù láàyè, àti aláìní, lára àwọn ará rẹ tàbí ọmọ ìlà-oòrùn tí ó ń gbé ní ilẹ̀ rẹ, nínu ìlú rẹ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Má ṣe"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "pa ... lára"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ẹni tí a gbà lọ́wọ́ láti ṣiṣẹ́ fún owó"
+    },
+    {
+      "surface": "עני",
+      "gloss": "tí ó kù láàyè"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "àti aláìní"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "lára àwọn ará rẹ"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "מגרך",
+      "gloss": "ọmọ ìlà-oòrùn rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó ń gbé"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ní ilẹ̀ rẹ"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "nínu ìlú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:17:29.665962299Z",
+  "model": "glm-5.3"
+}

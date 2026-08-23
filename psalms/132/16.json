@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 132,
+  "translation": "Àwọn àlùfáà rẹ̀ ni mo ó wọ̀ í aṣọ ìgbàlà; àwọn olọ́títọ́ rẹ̀ yóò kọ orin ayọ̀ sílẹ̀ kí wọ́n tún kọ orin sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "àwọn àlùfáà rẹ̀"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "mo ó wọ̀ í aṣọ"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "àwọn olọ́títọ́ rẹ̀"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "kọ orin ayọ̀ sílẹ̀"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "yóò kọ orin sílẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:40.507529399Z",
+  "model": "glm-5.3"
+}

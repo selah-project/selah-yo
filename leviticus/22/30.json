@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ní ọjọ́ yìí ni a gbọdọ̀ jẹ ẹ́; ẹ má ṣe fi ohun tí ó kù sílẹ̀ láti ẹ̀ dé àárọ̀; èmi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a gbọdọ̀ jẹ ẹ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ẹ fi sílẹ̀"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "láti ẹ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "àárọ̀"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:36.685382363Z",
+  "model": "glm-5.3"
+}

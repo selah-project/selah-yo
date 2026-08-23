@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ó sì máa mú ⟨את⟩ ẹ̀ṣẹ̀-ìta rẹ̀ wá fún Yahweh, sí ẹnu-ọ̀nà ahọ́ ìpàdé, àgùntàn-ágbà kan fún ẹ̀ṣẹ̀-ìta.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ó sì máa mú wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀ṣẹ̀-ìta rẹ̀"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ẹ̀ṣẹ̀-ìta rẹ̀"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ẹnu-ọ̀nà"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "איל",
+      "gloss": "àgùntàn-ágbà kan"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "fún ẹ̀ṣẹ̀-ìta"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:02.673092878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Ìṣejìbí ni ṣe tí ⟨ìwọ⟩ fi ń pamọ́ ojú rẹ, tí ⟨ìwọ⟩ ń gbagbé ìrùsẹ̀ wa àti ìtọ̀jọ wa?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ìṣejìbí ni ṣe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ń pamọ́"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ń gbagbé"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ìrùsẹ̀ wa"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "àti ìtọ̀jọ wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:39.180707218Z",
+  "model": "glm-5.3"
+}

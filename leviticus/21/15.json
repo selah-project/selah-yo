@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Kí ó sì má ṣe sẹ àwọn àlùfíà rẹ̀ di àìmọ́ láàárín àwọn ènìyàn rẹ̀; nítorí pé emi ni Yahweh, Ẹni tí ó ń fún un ní mímọ́.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kí ó sì má ṣe"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "sẹ … di àìmọ́"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "àwọn àlùfíà rẹ̀"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "láàárín àwọn ènìyàn rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "Ẹni tí ó ń fún un ní mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:16.230341487Z",
+  "model": "glm-5.3"
+}

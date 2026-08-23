@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Òbà Bavel sì lu ⟨אתם⟩, ó sì pa wọn náà ní Riblah, ní ilẹ̀ Hamat; wọ́n sì gbé Juda lọ kúrò lórí ilẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ó sì lu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wọn (àwọn ènìyàn náà)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "oba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "ó sì pa wọn"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "ní Riblah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "wọ́n sì gbé lọ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kúrò lórí"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ilẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:51.374140301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 81,
+  "translation": "Ẹ gbé orin sókè, ẹ mú ṣààṣá, kinnor dùn pẹ̀lú nevel.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ẹ gbé sókè"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "orin"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ẹ mú"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ṣààṣá"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinnor"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "dùn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:11.804907729Z",
+  "model": "glm-5.3"
+}

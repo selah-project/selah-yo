@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì wáyé pé, nígbà tí gbogbo ìjọ ti parí kíkọjá ⟨את⟩ Yorudani, Yahweh sì sọ fún Yehoshua wí pé,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé pé"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ti parí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ìjọ"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "kíkọjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorudani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudani"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì sọ wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    }
+  ],
+  "timestamp": "2026-08-23T00:24:02.257219043Z",
+  "model": "glm-5.3"
+}

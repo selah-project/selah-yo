@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 12:21",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ki ẹ ma ṣe yẹ ⟨àwọn nǹkan⟩ òfo lọ lẹ́yìn — àwọn tí kò lè ṣe àǹfààní àti tí kò lè gba yín là, nítorí pé òfo ni wọ́n.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ki ẹ ma ṣe"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "yẹ ... lọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "התהו",
+      "gloss": "àwọn nǹkan òfo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "lè ṣe àǹfààní"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kò"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "lè gba ... là"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "òfo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T00:47:25.731564649Z",
+  "model": "glm-5.3"
+}

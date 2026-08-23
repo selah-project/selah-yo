@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó dùn, ìmọ́lẹ̀ náà, ó sì dára fún ojú láti rí ⟨את⟩ òòrùn.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "ó dùn sì"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ìmọ́lẹ̀ náà"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ó sì dára"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "fún ojú"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "láti rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òòrùn"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "òòrùn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:43:30.889721716Z",
+  "model": "glm-5.3"
+}

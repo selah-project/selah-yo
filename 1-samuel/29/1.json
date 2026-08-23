@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Àwọn Pelishti kó ⟨את⟩ gbogbo àwọn ogun wọn jọ sí Afeeka, Ìsraelì sì ń dúró léraléra ní orísun omi tí ó wà ní Yizreeli.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "kó…jọ sí"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Àwọn Pelishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ogun wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "àwọn ogun wọn"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "sí Afeeka"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Ìsraelì sì"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "ń dúró léraléra"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ní orísun omi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "ní Yizreeli"
+    }
+  ],
+  "timestamp": "2026-08-23T00:55:53.911933309Z",
+  "model": "glm-5.3"
+}

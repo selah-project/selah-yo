@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ẹ ránṣẹ́ ọ̀kan nínú yín, kí ó lọ mú ⟨את⟩ aráabá yín; ẹ̀yin sì, ẹ di ẹ̀wọ̀n, kí a ṣàyẹ̀wò ọ̀rọ̀ yín ṣe ótító wà ⟨את⟩ pẹ̀lú yín; bí kò bá ṣe bẹ́ — bí ìyè Paroh ṣe wà — dájúdájú ẹ̀yin ni àwọn aṣàwárí ìlẹ̀.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Ẹ ránṣẹ́"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "nínú yín"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kí ó lọ mú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aráabá yín"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "aráabá yín"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ẹ̀yin sì"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "ẹ di ẹ̀wọ̀n"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "kí a ṣàyẹ̀wò"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ọ̀rọ̀ yín"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "ótító"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pẹ̀lú yín"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "bí kò bá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ṣe bẹ́"
+    },
+    {
+      "surface": "חי",
+      "gloss": "bí ìyè ... ṣe wà"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dájúdájú"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "àwọn aṣàwárí ìlẹ̀"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin"
+    }
+  ],
+  "timestamp": "2026-08-22T23:12:13.964160992Z",
+  "model": "glm-5.3"
+}

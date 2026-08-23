@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "O ge ọjọ́ ìgbà èwe rẹ̀ kúrù, O bo ìtìjú ró. Selah.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "O ge…kúrù"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "ìgbà èwe rẹ̀"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "O bo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ró"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "ìtìjú"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:58.198771775Z",
+  "model": "glm-5.3"
+}

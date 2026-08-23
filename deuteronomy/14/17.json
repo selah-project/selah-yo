@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "àti kaat, àti ⟨את⟩ rahamah, àti ⟨את⟩ shalak",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "àti kaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "rahamah"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "rahamah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "shalak"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalak"
+    }
+  ],
+  "timestamp": "2026-08-23T00:12:02.508227149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Èyí ni ilẹ̀kùn Yahweh; àwọn ènìyàn olódodo ni yóò wọ inú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Èyí"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ilẹ̀kùn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "àwọn ènìyàn olódodo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "yóò wọ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:43.450046921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 12:20",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Shemuẹl sì wí fún ènìyàn náà pé: Ẹ má ṣe bẹ̀rù; ẹ̀yin ti ṣe ⟨את⟩ gbogbo ẹ̀ṣẹ̀ burúkú yìí; ṣùgbọ́n ẹ má ṣe yẹra kúrò lẹ́yìn Yahweh, ẹ sì máa sin ⟨את⟩ Yahweh pẹ̀lú gbogbo ọkàn yín.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuẹl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bẹ̀rù"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ti ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ẹ̀ṣẹ̀ burúkú yìí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ẹ̀ṣẹ̀ burúkú"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "yẹra kúrò"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ẹ sì máa sin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ọkàn yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:46:52.406629884Z",
+  "model": "glm-5.3"
+}

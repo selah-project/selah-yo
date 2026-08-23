@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 137,
+  "translation": "Báwo ni a ṣe lè kọ ⟨את⟩ orin Yahweh lórí ilẹ̀ àjèjì?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Báwo"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "a lè kọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orin Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "àjèjì"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:35.016499232Z",
+  "model": "glm-5.3"
+}

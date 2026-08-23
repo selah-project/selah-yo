@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Moshe sì lọ, ó sì sọ ⟨את⟩ àwọn ọ̀rọ̀ wọnyí fún gbogbo Israẹli.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "sì lọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ó sì sọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    }
+  ],
+  "timestamp": "2026-08-23T00:21:43.196239231Z",
+  "model": "glm-5.3"
+}

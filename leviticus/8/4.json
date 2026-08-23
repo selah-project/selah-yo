@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Moshe sì ṣe bí Yahweh ti pàṣẹ ⟨את⟩ ọ́; ìjọ náà sì gbàjọ pọ̀ sí ọ̀nà-ìgbà Ohel Mo'ed.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ọ́",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "sì gbàjọ pọ̀"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọ̀nà-ìgbà"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mo'ed"
+    }
+  ],
+  "timestamp": "2026-08-22T23:36:46.237465240Z",
+  "model": "glm-5.3"
+}

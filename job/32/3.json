@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Ìbínú rẹ̀ sí kó sílẹ̀ sí àwọn ọ̀rẹ́ rẹ̀ mẹ́ta náà, nítorí wọn kò rí ìdáhùn, ṣùgbọ́n wọ́n kọ́ ⟨את⟩ Iyobu lẹ́bi.",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "sí àwọn mẹ́ta náà"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "àwọn ọ̀rẹ́ rẹ̀"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ìbínú kó sílẹ̀"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ìmú́-ìbínú rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "wọn rí"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "ìdáhùn"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "wọ́n kọ́ lẹ́bi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyobu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    }
+  ],
+  "timestamp": "2026-08-23T04:27:37.663458134Z",
+  "model": "glm-5.3"
+}

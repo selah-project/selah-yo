@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì sọ̀kalẹ̀ lọ sí ibi tí a ti ń lu ẹmu, ó sì ṣe gbogbo rẹ̀ gẹ́gẹ́ bí àwọn ohun tí ìyàwó baba rẹ̀ pàṣẹ.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "Ó sì sọ̀kalẹ̀ lọ"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "sí ibi tí a ti ń lu ẹmu"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gbogbo rẹ̀ gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "àwọn ohun tí"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "ìyàwó baba rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:34:45.291486400Z",
+  "model": "glm-5.3"
+}

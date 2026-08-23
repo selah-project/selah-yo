@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Moshe sì pa á láṣẹ fún wọn — ⟨את⟩ Elazar àlùfáà, àti ⟨את⟩ Yehoshua ọmọ Nun, àti ⟨את⟩ àwọn olórí ìdílé àwọn ẹ̀yà àwọn ọmọ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "sì pa á láṣẹ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar àlùfáà"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yehoshua ọmọ Nun"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn olórí ìdílé àwọn ẹ̀yà"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ìdílé"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "àwọn ẹ̀yà"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T00:03:51.472351263Z",
+  "model": "glm-5.3"
+}

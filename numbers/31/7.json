@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Wọ́n sì ko ogun sí Midiyan lórí, gẹ́gẹ́ bí Yahweh ti pa ⟨את⟩ Moshe lẹ́; wọ́n sì pa gbogbo ọkùnrin pa.",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "sì ko ogun sí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pa lẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "sì pa pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ọkùnrin"
+    }
+  ],
+  "timestamp": "2026-08-23T00:03:47.726887398Z",
+  "model": "glm-5.3"
+}

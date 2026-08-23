@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 144,
+  "translation": "Yahweh, kí ni ènìyàn tí ó fi mọ̀ ọ́? Ọmọ eniyan tí ó fi kà á sí i?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "tí ó fi mọ̀ ọ́"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ọmọ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "eniyan"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "tí ó fi kà á sí i"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:07.821540395Z",
+  "model": "glm-5.3"
+}

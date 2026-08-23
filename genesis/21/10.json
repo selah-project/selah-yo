@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ó sì wí fún Avraham pé: \"Ṣọ́fẹ̀ ẹrú-bìnrin yìí kúrò, àti ⟨את⟩ ọmọ rẹ̀; nítorí pé ọmọ ẹrú-bìnrin yìí kì í ṣe jógún pẹ̀lú ọmọ mi, pẹ̀lú Yitschak.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ó sì wí"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "fún Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Ṣọ́fẹ̀ … kúrò"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ẹrú-bìnrin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "jógún"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ẹrú-bìnrin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ mi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-23T05:39:10.596890775Z",
+  "model": "glm-5.3"
+}

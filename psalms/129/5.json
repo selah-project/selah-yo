@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 129,
+  "translation": "Ki wọ́n ṣe tí wọn kùnà, kí wọ́n sì padà sẹ́yìn, gbogbo àwọn tí ó korira Tsiyon.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ṣe tí wọn kùnà"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "kí wọ́n sì padà sẹ́yìn"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "sẹ́yìn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "àwọn tí ó korira"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:10.412219058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ẹ̀yin á sì bu omi kún yín ní ayọ̀ láti inú àwọn omi ìgbàlà.",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "ẹ̀yin á sì bu omi kún yín"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "ní ayọ̀"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "láti inú àwọn omi"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "ìgbàlà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:43:25.083525074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Sí adóhun Midian sì, àwọn ọmọbìnrin méje wà; wọ́n sì wá, wọ́n sì yo omi, wọ́n sì kún ⟨את⟩ àwọn kòtò-omi láti lọ dà àwọn ẹran-ọ̀sìn baba wọn lọ́mí.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "sí adóhun ... sì"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "méje"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "àwọn ọmọbìnrin"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "wọ́n sì wá"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "wọ́n sì yo omi"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "wọ́n sì kún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn kòtò-omi"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "àwọn kòtò-omi"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "láti lọ dà ... lọ́mí"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "àwọn ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "baba wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:38.700551232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Wò ó, mo ń ẹ̀gbà fún àṣẹ rẹ; nínú òdodo rẹ ṣe èmi ní ìyè.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "mo ń ẹ̀gbà"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "fún àṣẹ rẹ"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nínú òdodo rẹ"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ṣe èmi ní ìyè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:03.102496086Z",
+  "model": "glm-5.3"
+}

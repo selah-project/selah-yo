@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Bẹ́ẹ̀ ni Davíd fi agbára borí ará-Filiṣítì náà pẹ̀lú ọ̀kọ̀ àti pẹ̀lú ọ̀kùta kan; ó lu ⟨את⟩ ará-Filiṣítì náà, ó sì pa á nì; ìdà sì kò sí lọ́wọ́ Davíd.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Bẹ́ẹ̀ ni Davíd fi agbára borí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "מן",
+      "gloss": "jú"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ará-Filiṣítì náà lọ"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "pẹ̀lú ọ̀kọ̀"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "àti pẹ̀lú ọ̀kùta kan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ó lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ará-Filiṣítì náà"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ará-Filiṣítì náà"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ó sì pa á nì"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ìdà sì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíd"
+    }
+  ],
+  "timestamp": "2026-08-23T00:52:05.210989548Z",
+  "model": "glm-5.3"
+}

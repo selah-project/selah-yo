@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àwọn ọmọ Zattu, ogórùn-ún mẹ́sàn-án (ẹgbẹ̀rún-dín-mẹ́san) ⟨ni wọn jẹ́⟩, mẹ́rìnléogójì àti márùn-ún.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Àwọn ọmọ"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Zattu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "mẹ́sàn-án"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ogórùn-ún (gba)"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "àti ogójì"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "àti márùn-ún"
+    }
+  ],
+  "timestamp": "2026-08-23T04:55:00.701489603Z",
+  "model": "glm-5.3"
+}

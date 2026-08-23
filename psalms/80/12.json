@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 80,
+  "translation": "Ó firánṣẹ́ àwọn ẹ̀ka rẹ̀ títí dé òkun, àwọn omí rẹ̀ sì títí dé odò.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Ó firánṣẹ́"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "àwọn ẹ̀ka rẹ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "ים",
+      "gloss": "òkun"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sì títí dé"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "odò"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "àwọn omí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:49.975591456Z",
+  "model": "glm-5.3"
+}

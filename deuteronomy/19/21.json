@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Kí ojú rẹ má báà ṣàánú: ẹ̀mí ní ipò ẹ̀mí, ojú ní ipò ojú, eyín ní ipò eyín, ọwọ́ ní ipò ọwọ́, ẹsẹ̀ ní ipò ẹsẹ̀.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kí … má báà"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ṣàánú"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ní ipò ẹ̀mí"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ní ipò ojú"
+    },
+    {
+      "surface": "שן",
+      "gloss": "eyín"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ní ipò eyín"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ní ipò ọwọ́"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ẹsẹ̀"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ní ipò ẹsẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:14:38.619533403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 27:8",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Íwọ sì gbọ́dọ̀ sọ fún àwọn ọmọ Israél wí pé: ẹnìkan bí ó bá kú, tí kò sì ní ọmọkùnrin, ẹ gbọ́dọ̀ kó ⟨את⟩ ogún rẹ̀ lọ fún ọmọbìnrin rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "sì fún"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ìwọ gbọ́dọ̀ sọ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnìkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bí ó bá"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kú"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "tí kò sì ní ọmọkùnrin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "ẹ gbọ́dọ̀ kó lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogún rẹ̀"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ogún rẹ̀"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "fún ọmọbìnrin rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:02:06.091574699Z",
+  "model": "glm-5.3"
+}

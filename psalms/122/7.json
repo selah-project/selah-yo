@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 122,
+  "translation": "Kí àlàáfíà wà ní àwọn odì rẹ, kí ìrọrùn wà ní àwọn ààfin rẹ.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "kí...wà"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ní àwọn odì rẹ"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "ìrọrùn"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "ní àwọn ààfin rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:37.767077214Z",
+  "model": "glm-5.3"
+}

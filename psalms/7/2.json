@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Yahweh, Elohim mi, ní ọ̀dọ̀ rẹ ni mo gbẹ́yin sáǹdá abẹ́ ìdààbò bo; gbà mí là kúrò lọ́wọ́ gbogbo àwọn olè lé mi mí, kí o sì gbà mí là.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ní ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mo gbẹ́yin sáǹdá abẹ́ ìdààbò bo"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "gbà mí là"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kúrò lọ́wọ́ gbogbo"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "àwọn olè lé mi mí"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "kí o sì gbà mí là"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:47.260780088Z",
+  "model": "glm-5.3"
+}

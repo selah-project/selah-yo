@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Moshe sì sọ ⟨את⟩ gbogbo ọ̀rọ̀ Yahweh tí ó fi rán án jáde fún ìṣẹ̀, àti ⟨את⟩ gbogbo àwọn àmì tí ó pa á lẹ́ṣẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ó sì sọ tọ̀"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "fún Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọ̀rọ̀ Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ó fi rán án"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn àmì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "àwọn àmì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ó pa á lẹ́ṣẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:37.076028539Z",
+  "model": "glm-5.3"
+}

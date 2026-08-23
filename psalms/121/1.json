@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 121,
+  "translation": "Orin fún ⟨àwọn⟩ ìgìnlẹ̀. Mo gbé ojú mi sókè sí ⟨àwọn⟩ òkè; láti ibi wo ni ìrànlọ́wọ́ mi ó ti ń bọ̀?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "fún ⟨àwọn⟩ ìgìnlẹ̀"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Mo gbé"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sókè sí"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "⟨àwọn⟩ òkè"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "láti ibi wo ni"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ó ti ń bọ̀"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ìrànlọ́wọ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:37.337180761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Èmi yóò sọ wọ́n di àgbìn láàárín àwọn orílẹ̀-èdè, ní àwọn ibi jínjìn ni wọ́n máa rántí Mi, wọ́n sì máa ṣe ààyò pẹ̀lú ⟨את⟩ àwọn ọmọ wọn, wọ́n sì máa padà.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "Èmi yóò sọ wọ́n di àgbìn"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "láàárín àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "ní àwọn ibi jínjìn"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "wọ́n máa rántí Mi"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "wọ́n máa ṣe ààyò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ wọn"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "àwọn ọmọ wọn"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "wọ́n sì máa padà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:19:44.988710465Z",
+  "model": "glm-5.3"
+}

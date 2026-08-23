@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Shem sì wà láàyè lẹ́yìn tí ó bí ⟨את⟩ Arpakhshad ní ọgọ́rùn márùn-ún ọdún, ó sì bí àwọn ọmọkùnrin àti àwọn ọmóbìnrin.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "sì wà láàyè"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "márùn-ún"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́rùn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "sì bí"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "àwọn ọmọkùnrin"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "àti àwọn ọmóbìnrin"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:13.852472946Z",
+  "model": "glm-5.3"
+}

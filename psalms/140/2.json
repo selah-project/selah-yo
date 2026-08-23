@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 140,
+  "translation": "Gbà mí là, Yahweh, láti ọ̀dọ̀ ènìyàn búburú; láti ọ̀dọ̀ ọkùnrin ìwà ìpalàra ṣe kí o ṣọ́ mí.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "gbà mí là"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "láti ọ̀dọ̀ ènìyàn"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "láti ọ̀dọ̀ ọkùnrin"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "ìwà ìpalàra"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "ṣe kí o ṣọ́ mí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:39.429383024Z",
+  "model": "glm-5.3"
+}

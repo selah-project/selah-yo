@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Yehoshua sì jí kí ọ̀sán tó ní àárọ̀, àwọn àlùfáà sì gbé ⟨את⟩ árinàá Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "jí kí ọ̀sán tó"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "sì gbé"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "árinàá Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "árinàá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:24:08.725026278Z",
+  "model": "glm-5.3"
+}

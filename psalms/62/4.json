@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 62,
+  "translation": "Ànígbàwà ni ẹ máa ń kọlu sí ọkùnrin kan — ẹ gbọ́jú pa ọn, gbogbo yín — bí ogiri tí ó ń gbé, bí ọ̀gáà tí ó ti wó?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ànígbàwà"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nígbàwà"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "ẹ máa ń kọlu sí"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin kan"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "ẹ gbọ́jú pa ọn"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "gbogbo yín"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "bí ogiri"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "tí ó ń gbé"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ọ̀gáà"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "tí ó ti wó"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:24.034091322Z",
+  "model": "glm-5.3"
+}

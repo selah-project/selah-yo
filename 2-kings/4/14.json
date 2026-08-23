@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 4:14",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó wí pé, Ìṣẹ́ yìí kí ni a lè ṣe fún un? Gechazi sì wí pé, Ṣé ọmọ kò sí fún un, ọkọ rẹ̀ sì ti di agbégbà.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó wí"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "a lè ṣe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "Gechazi"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Ṣé"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "ọkọ rẹ̀ sì"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ti di agbégbà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:27:27.990817437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Ó sì ṣe ⟨את⟩ àwọn ọ̀pá náà ní igi shittim, ó sì bò ⟨את⟩ wọn bo‑ìdẹ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀pá náà"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "àwọn ọ̀pá náà"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ní igi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ó sì bò"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn ọ̀pá náà)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bo‑ìdẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:58.001316037Z",
+  "model": "glm-5.3"
+}

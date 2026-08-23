@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Olùmùṣẹ́ ọ̀fà, pẹ̀lú ọwọ́ ọtún àti pẹ̀lú ọwọ́ òsì, pẹ̀lú àwọn òkúta àti pẹ̀lú àwọn ọfà, nínú ọ̀fà; lára ará Shaul, lára Binyamin.",
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "Olùmùṣẹ́"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ọ̀fà"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "ọwọ́ ọtún"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "àti ọwọ́ òsì"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "pẹ̀lú àwọn òkúta"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "àti pẹ̀lú àwọn ọfà"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "nínú ọ̀fà"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "lára ará"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "lára Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-23T05:13:31.061145272Z",
+  "model": "glm-5.3"
+}

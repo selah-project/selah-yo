@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Lẹ́yìn ìgbà tí ó gbé lu ⟨את⟩ Sihoni ọba Emori, tí ó ń gbé ní Heshboni, àti ⟨את⟩ Ogu ọba Bashani, tí ó ń gbé ní Ashtaroti ní Edreii.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Lẹ́yìn ìgbà tí"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "ó gbé lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihoni"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ó ń gbé"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "ní Heshboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Ogu"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ó ń gbé"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "ní Ashtaroti"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "ní Edreii"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:26.229829727Z",
+  "model": "glm-5.3"
+}

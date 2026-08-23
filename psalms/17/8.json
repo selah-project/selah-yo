@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ṣọ́ mí bíi ojú-ìwọ̀ ojú, fi mi pamọ́ ní abẹ́ ojú-ẹyẹ tí ẹyẹ rẹ.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Ṣọ́ mí"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "bíi ojú-ìwọ̀"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ní abẹ́ ojú-ẹyẹ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "tí ẹyẹ rẹ"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "fi mi pamọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:15.415815198Z",
+  "model": "glm-5.3"
+}

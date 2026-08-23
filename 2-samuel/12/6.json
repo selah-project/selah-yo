@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ó sì gbọdọ̀ san ⟨את⟩ àgùntàn kékeré náà padà lẹ́ẹ̀rin, nítorí tí ó ṣe ⟨את⟩ ohun yìí, àti nítorí tí kò ṣe àánú.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àgùntàn kékeré náà"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "àgùntàn kékeré náà"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ó sì gbọdọ̀ san padà"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "lẹ́ẹ̀rin"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun yìí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ohun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti nítorí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "ṣe àánú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:25.443172756Z",
+  "model": "glm-5.3"
+}

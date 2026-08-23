@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Miktam ti Dawidu. Ṣọ́ mi, El, nítorí mo fi abẹ́ ipamọ́ sí ọ̀dọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawidu"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Ṣọ́ mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mo fi abẹ́ ipamọ́ sí"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ọ̀dọ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:45.925194657Z",
+  "model": "glm-5.3"
+}

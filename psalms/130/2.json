@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 130,
+  "translation": "Adonai, gbọ́ ohùn mi; jẹ́ kí etí rẹ kí wọ́n ṣetán láti gbọ́ ohùn ìbà rẹ.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "jẹ́ kí … kí wọ́n"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "etí rẹ"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "ṣetán láti gbọ́"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ìbà rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:05.882073180Z",
+  "model": "glm-5.3"
+}

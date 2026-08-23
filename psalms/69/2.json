@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Gbà mí, Elohim; nítorí tí omi ti wọ̀ títí dé ẹ̀mí.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Gbà mí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ti wọ̀"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ẹ̀mí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:20.996760623Z",
+  "model": "glm-5.3"
+}

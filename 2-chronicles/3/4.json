@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 3:4",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àti pápá ìwọ̀-òke tí ó wà ní ojú gígùn rẹ̀, ní ojú ìbù ilé náà — ẹ̀mú ogún ni; gíga rẹ̀ sì jẹ́ ẹ̀mú ọgọ́rùn-ún lé ogún; ó sì bo ó ní inú pẹ̀lú wúrà mímọ́.",
+  "tokens": [
+    {
+      "surface": "והאולם",
+      "gloss": "àti pápá ìwọ̀-òke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "gígùn rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ìbù"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ẹ̀mú"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "והגבה",
+      "gloss": "gíga rẹ̀ sì"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ọgọ́rùn-ún"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "lé ogún"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "ó sì bo ó"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "ní inú"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:24:05.300021131Z",
+  "model": "glm-5.3"
+}

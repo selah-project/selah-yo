@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ó wí fún wọn pé, Ṣé ẹ mọ ⟨את⟩ Lavan, ọmọ Nahor? Wọ́n wí pé, À mọ ọ́.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó wí"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Ṣé ẹ mọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Wọ́n wí"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "À mọ ọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:04:42.317612456Z",
+  "model": "glm-5.3"
+}

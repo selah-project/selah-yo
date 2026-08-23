@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 23:5",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ó sì fagilé ⟨את⟩ àwọn àlùfáà àjèṣìn, tí àwọn ọba Yehuda yàn láti júnṣẹ àdúrà ní àwọn ipò-ìjọsìn gíga ní àwọn ìlú Yehuda àti ní ìyálẹ̀ta Yerushalayim, àti ⟨את⟩ àwọn tí ń júnṣẹ fún Baal, fún òòrùn, àti fún òsùpà, àti fún àwọn ìráwọ̀-ìṣẹ́jọ̀, àti fún gbogbo ọmọ-ogun ọ̀run.",
+  "tokens": [
+    {
+      "surface": "והשבית",
+      "gloss": "ó sì fagilé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àlùfáà àjèṣìn"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "àwọn àlùfáà àjèṣìn (kēmārìm)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "yàn"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "láti júnṣẹ àdúrà"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ní àwọn ipò-ìjọsìn gíga"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "ní àwọn ìlú"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומסבי",
+      "gloss": "àti ní ìyálẹ̀ta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn tí ń júnṣẹ"
+    },
+    {
+      "surface": "המקטרים",
+      "gloss": "àwọn tí ń júnṣẹ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "fún Baal"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "fún òòrùn"
+    },
+    {
+      "surface": "ולירח",
+      "gloss": "àti fún òsùpà"
+    },
+    {
+      "surface": "ולמזלות",
+      "gloss": "àti fún àwọn ìráwọ̀-ìṣẹ́jọ̀"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "àti fún gbogbo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ọmọ-ogun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    }
+  ],
+  "timestamp": "2026-08-23T01:38:38.741063926Z",
+  "model": "glm-5.3"
+}

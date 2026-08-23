@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 63,
+  "translation": "Nígbà tí mo bá rántí rẹ lórí ibùsùn mi, ní àwọn ìwọ̀ oòru ni mo ti ń sọ̀rọ̀ lórí rẹ láì dúró.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "mo bá rántí rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ibùsùn mi"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "ní àwọn ìwọ̀ oòru"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "mo ti ń sọ̀rọ̀ láì dúró"
+    },
+    {
+      "surface": "בך",
+      "gloss": "lórí rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:19.081842353Z",
+  "model": "glm-5.3"
+}

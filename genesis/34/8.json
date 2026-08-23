@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Hamor sì bá wọn sọ̀rọ̀ ⟨את⟩, ó sì wí pé: 'Ẹmí Shechem ọmọ mi faramọ́ sí ọmọbìnrin yín; ẹ jọwọ́, ẹ fún ⟨את⟩ un lọ́kọ̀.'",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sì bá wọn sọ̀rọ̀"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bá wọn sọ̀rọ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ mi"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "faramọ́ sí"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Ẹmí rẹ̀"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "ọmọbìnrin yín"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ẹ fún"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ẹ jọwọ́"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "un ( óun tí a ń fún )"
+    },
+    {
+      "surface": "לו",
+      "gloss": "un"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "lọ́kọ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:08.625233754Z",
+  "model": "glm-5.3"
+}

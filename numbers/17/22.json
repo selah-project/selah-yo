@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Moshe sì fi àwọn ọ̀wọ́ náà síwájú Yahweh, ní àgọ́ ẹ̀rí náà.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "ó sì fi sílẹ̀ síwájú"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀wọ́ náà"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "àwọn ọ̀wọ́ náà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ní àgọ́"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ẹ̀rí náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:56:39.053298980Z",
+  "model": "glm-5.3"
+}

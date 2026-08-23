@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ìpàdè rẹ̀ sì jẹ́ sí Rama, nítorí ibẹ̀ ni ilé rẹ̀ wà, níbẹ̀ náà ni ó ti dá ìdájọ́ fún ⟨את⟩ Yisrael, ó sì kọ́ ọ̀tẹ́ ibẹ̀ fún Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "Ìpàdè rẹ̀ sì jẹ́ sí"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "níbẹ̀ náà"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ó ti dá ìdájọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ó sì kọ́"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ọ̀tẹ́"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:43:19.872574276Z",
+  "model": "glm-5.3"
+}

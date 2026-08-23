@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 126,
+  "translation": "Yahweh ti ṣe nǹlá pẹ̀lú wa; nítorí náà ni a dúrójú ayọ̀.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "ti ṣe nǹlá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ti ṣe"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "pẹ̀lú wa"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ni a dúrójú ayọ̀"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "dúrójú ayọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:52.995704109Z",
+  "model": "glm-5.3"
+}

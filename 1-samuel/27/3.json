@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 27:3",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Daivid sì ń gbé pẹ̀lú Akish ní Gati, òun àti àwọn ọkùnrin rẹ̀, ọ̀kọ̀ọ̀kan pẹ̀lú ilé rẹ̀; Daivid pẹ̀lú ìyàwó rẹ̀ meji, Akinoam ará Jizreẹli, àti Abigail iyàwó Nabal ará Karmẹli.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "sí ń gbé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daivid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ní Gati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "àti àwọn ọkùnrin rẹ̀"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọ̀kọ̀ọ̀kan"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "pẹ̀lú ilé rẹ̀"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daivid"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "pẹ̀lú ìyàwó rẹ̀"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "meji"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Akinoam"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "ará Jizreẹli"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "àti Abigail"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "iyàwó"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "ará Karmẹli"
+    }
+  ],
+  "timestamp": "2026-08-23T00:55:22.599261547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Pàṣẹ fún ⟨את⟩ àwọn ọmọ Yisra'el, kí wọ́n fi kúrò nínú ⟨the⟩ ìpàdé ẹgbẹ́ ológun gbogbo ènìyàn tí ó ní àìsàn àrùn ara, àti gbogbo ẹni tí ó ń sàn, àti gbogbo ẹni tí ó ní ìṣẹ̀mbáyé nítorí ìkú—kí wọ́n fi kúrò nínú ⟨the⟩ ìpàdé.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Pàṣẹ fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "kí wọ́n fi kúrò"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ìpàdé ẹgbẹ́ ológun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "ènìyàn tí ó ní àìsàn àrùn ara"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "זב",
+      "gloss": "ẹni tí ó ń sàn"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ẹni tí ó ní ìṣẹ̀mbáyé"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nítorí ìkú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:51:25.095122351Z",
+  "model": "glm-5.3"
+}

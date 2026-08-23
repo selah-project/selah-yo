@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Nínú ìmọ̀ràn Rẹ ni Ìwọ ń tọ̀ mi lọ́nà; lẹ́yìn náà ni Ìwọ yóò gba mí pẹ̀lú ògo",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "nínú ìmọ̀ràn Rẹ"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "Ìwọ ń tọ̀ (mi) lọ́nà"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "lẹ́yìn náà"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ògo"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "Ìwọ yóò gba (mi)"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:28.423126406Z",
+  "model": "glm-5.3"
+}

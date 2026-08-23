@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Olúwa mi, gbọ́ ti mi: ilẹ̀ náà — ẹ̀rin lọ̀nà ọ̀ọ́dúnrún shekeli fàdákà; kí ló wà láàárín mi àti ìwọ? Sín ⟨את⟩ òkú rẹ.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Olúwa mi"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "gbọ́ ti mi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ẹ̀rin"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ọ̀ọ́dúnrún shekeli"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekeli"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "láàárín mi"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "àti ìwọ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ló wà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "òkú rẹ"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "òkú rẹ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "sín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:01:06.884556125Z",
+  "model": "glm-5.3"
+}

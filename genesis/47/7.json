@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Yosef sì mú Yaakov baba rẹ̀ wá, ó sì jẹ́ kí ó dúró níwájú Parhao; Yaakov sì bùkún ⟨את⟩ Parhao.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "sì mú… wá"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "ó sì jẹ́ kí ó dúró"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parhao"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ó sì bùkún"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parhao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parhao"
+    }
+  ],
+  "timestamp": "2026-08-23T05:39:47.430174816Z",
+  "model": "glm-5.3"
+}

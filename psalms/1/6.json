@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Nítorí Yahweh mọ̀n ọ̀nà àwọn ẹní-ọ̀títọ́, ṣùgbọ́n ọ̀nà àwọn olèṣẹ̀ máa ṣègbé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mọ̀n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "àwọn ẹní-ọ̀títọ́"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn olèṣẹ̀"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "máa ṣègbé"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:15.946692617Z",
+  "model": "glm-5.3"
+}

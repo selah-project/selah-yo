@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Nítorí tí Òun yóò pa àwọn ìránṣẹ́ Rẹ̀ láṣẹ nítorí ọ, láti ṣọ́ ọ́ nígbà gbogbo nínú àwọn ọ̀nà rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "àwọn ìránṣẹ́ Rẹ̀"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "Òun yóò pa…láṣẹ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nítorí ọ"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "láti ṣọ́ ọ́"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nígbà gbogbo nínú"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "àwọn ọ̀nà rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:11.491300945Z",
+  "model": "glm-5.3"
+}

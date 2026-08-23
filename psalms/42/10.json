@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Èmi yóò sọ fún El, òkúta mi: Ìwọ tí ó fi mi sílẹ̀ láì rántí? Èmi tí ó ń rin ìgbàyà nípasẹ̀ ìtẹ̀lọ́runi ọ̀tá?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "èmi yóò sọ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "fún El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "òkúta mi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ìwọ tí ó fi mi sílẹ̀ láì rántí?"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "ṣí mí lọ́nà láì rántí"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ìwọ tí ó ń rin ìgbàyà?"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ń rin ìgbàyà (pẹ̀lú àwọ̀ èéfín)"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "èmi ń rin"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "nípasẹ̀ ìtẹ̀lọ́runi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ọ̀tá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:46.637487329Z",
+  "model": "glm-5.3"
+}

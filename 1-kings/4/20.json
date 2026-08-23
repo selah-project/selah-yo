@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Yehuda àti Yisrael, wọ́n pọ̀ bíi yànyànfun tí ó wà lórí odò, ní ìpúpọ̀; wọ́n ń jẹ, wọ́n ń mu, wọ́n sì ń yọ̀ sínu.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "àti Yisrael"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wọ́n pọ̀"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "bíi yànyànfun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "על",
+      "gloss": "ó wà lórí"
+    },
+    {
+      "surface": "הים",
+      "gloss": "odò"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ní ìpúpọ̀"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "wọ́n ń jẹ"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "wọ́n ń mu"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "wọ́n sì ń yọ̀ sínu"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:05.655692902Z",
+  "model": "glm-5.3"
+}

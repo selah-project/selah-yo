@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 65,
+  "translation": "Ènìyàn tí ń bínú mi ní ojú mi nígbà gbogbo, tí ń ṣe ẹbọ ní àwọn ọgbà, tí ń sun ìtọ̀ lórí àwọn lébùn amọ̀.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "Ènìyàn"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "tí ń bínú mi"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "tí ń ṣe ẹbọ"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "ní àwọn ọgbà"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "tí ń sun ìtọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "àwọn lébùn amọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:05:40.820268369Z",
+  "model": "glm-5.3"
+}

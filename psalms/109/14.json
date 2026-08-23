@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Kí ìṣẹ̀bàwá àwọn baba rẹ̀ dúró níwájú Yahweh; kí ẹ̀ṣẹ̀ ìyá rẹ̀ má ṣe parun.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "kí ... dúró (ní ìrántí)"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ìṣẹ̀bàwá"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "àwọn baba rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "kí ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ìyá rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "parun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:28.506151495Z",
+  "model": "glm-5.3"
+}

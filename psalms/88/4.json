@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Nít'óri ẹ̀mí mí ti kún pẹ̀lú ìwà-ipá, àti ìyè mí ti dé sí Sheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nít'óri"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ti kún"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "pẹ̀lú ìwà-ipá"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mí"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "àti ìyè mí"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "sí Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "ti dé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:14.190948854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 95,
+  "translation": "Ká tẹ̀wọ́ níwájú ojú rẹ̀ pẹ̀lú ìdúpró, kà pẹ̀lú orin, ká kíkì lókìkí fún un.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "ká tẹ̀wọ́ níwájú"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "pẹ̀lú ìdúpró"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "pẹ̀lú orin"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "ká kíkì lókìkí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:24.826870071Z",
+  "model": "glm-5.3"
+}

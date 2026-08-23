@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ọgbọ́n Shelomoh sì ju ọgbọ́n gbogbo àwọn ọmọ Qedem lọ, àti ju ọgbọ́n Mitzrayim gbogbo lọ.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "ó-sì-ju-lọ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ọgbọ́n"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "ju-ọgbọ́n"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn-ọmọ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Qedem"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "àti-ju-gbogbo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ọgbọ́n"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:27.904576556Z",
+  "model": "glm-5.3"
+}

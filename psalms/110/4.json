@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 110,
+  "translation": "Yahweh ti búra, kì yió sì yí ọkàn padà: “Ìwọ ni aládùbọ tàgbà láéláé, gẹ́gẹ́ bí ìlànà ti Malki-Tsedek.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ti búra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì yió sì"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "yí ọkàn padà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "aládùbọ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tàgbà láéláé"
+    },
+    {
+      "surface": "על",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ìlànà ti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "-Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:42.709566487Z",
+  "model": "glm-5.3"
+}

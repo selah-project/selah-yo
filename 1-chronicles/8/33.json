@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 8:33",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ner bí ⟨את⟩ Kish; Kish sì bí ⟨את⟩ Shaul; Shaul sì bí ⟨את⟩ Yehonatan, ⟨את⟩ Malki-Shua, ⟨את⟩ Avinadav àti ⟨את⟩ Eshbaal.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "Ner sì"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kish"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kish"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "Kish sì"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaul sì"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Eshbaal"
+    },
+    {
+      "surface": "אשבעל",
+      "gloss": "Eshbaal"
+    }
+  ],
+  "timestamp": "2026-08-23T05:11:53.120251450Z",
+  "model": "glm-5.3"
+}

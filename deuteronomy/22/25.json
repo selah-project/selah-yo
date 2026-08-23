@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Sí ẹni tí ọkùnrin bá rí ní pápá ⟨את⟩ ọmọbìnrin tí a ti ṣẹ́ ìgbéyàwó fún, tí ọkùnrin náà sì fi agbára mú i lára, tí ó sì sùn pẹ̀lú rẹ̀ — ọkùnrin tí ó sùn pẹ̀lú rẹ̀ ni yóò kú, ọ̀kan ṣoṣo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "sí ẹni tí"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ní pápá"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bá rí"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọbìnrin tí a ti ṣẹ́ ìgbéyàwó fún"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ọmọbìnrin náà"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "tí a ti ṣẹ́ ìgbéyàwó fún"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "tí ó sì fi agbára mú i lára"
+    },
+    {
+      "surface": "בה",
+      "gloss": "lára rẹ̀"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "tí ó sì sùn"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "yóò sì kú"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "sùn"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ọ̀kan ṣoṣo"
+    }
+  ],
+  "timestamp": "2026-08-23T00:17:39.054890827Z",
+  "model": "glm-5.3"
+}

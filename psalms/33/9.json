@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Nítorí pé òun ni ó sọ́ ọ́, ó sì wáyé; òun ni ó pa àṣẹ, ó sì dúró.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ó sọ́ ọ́"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wáyé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ó pa àṣẹ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ó sì dúró"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:08.317129288Z",
+  "model": "glm-5.3"
+}

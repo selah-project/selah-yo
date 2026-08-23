@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "⟨את⟩ mi ni ó mú kí n lọ, ó sì fi mí sí òkùkù, láì sí ìmọ́lẹ̀.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mi",
+      "marks": "mi"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ni ó mú kí n lọ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì fi mí sí"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "òkùkù"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "láì sí"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìmọ́lẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:36:57.324331150Z",
+  "model": "glm-5.3"
+}

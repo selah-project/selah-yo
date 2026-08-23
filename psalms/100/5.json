@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 100,
+  "translation": "Nítorí pé Yahweh dára; ìfẹ́ olóòtítọ́ ti májẹ̀mú rẹ̀ wà fún ìgbà tí ó gbẹ̀yìn, àti dé ìran sí ìran ìgbẹ́gbọ́n rẹ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "fún ìgbà tí ó gbẹ̀yìn"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ìfẹ́ olóòtítọ́ ti májẹ̀mú rẹ̀"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "àti dé"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "sí ìran"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "ìgbẹ́gbọ́n rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:48.743377793Z",
+  "model": "glm-5.3"
+}

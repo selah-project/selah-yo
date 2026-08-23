@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Wọ́n sì yà án sí mímọ́: Kedesh ní Galili, ní òkè Naftali, àti ⟨את⟩ Shékem ní òkè Efrayim, àti ⟨את⟩ Kiryat-Arba, èyí tí í sì í ṣe Hevron, ní òkè Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "wọ́n sì yà án sí mímọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "ní Galili"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ní òkè"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Shékem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shékem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ní òkè"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "èyí tí í sì í ṣe"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ní òkè"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-23T00:30:40.167963326Z",
+  "model": "glm-5.3"
+}

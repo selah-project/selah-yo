@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Nígbà náà, Moshe mú ⟨את⟩ ìdájọ́ wọn wá síwájú Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ó mú wá síwájú"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdájọ́ wọn"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ìdájọ́ wọn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:02:06.090922469Z",
+  "model": "glm-5.3"
+}

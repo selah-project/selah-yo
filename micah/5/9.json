@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 5:9",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ó sì máa ṣẹlẹ̀ ní ọjọ́ yìí, ìwọ́-ni-wí Yahweh, èmi yóò gé kúrò àwọn ẹṣin rẹ kúrò nínú àrin rẹ, èmi yóò sì pa àwọn ọkọ̀-ogun rẹ run.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ó sì máa ṣẹlẹ̀"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ìwọ́-ni-wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "èmi yóò gé kúrò"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "àwọn ẹṣin rẹ"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "kúrò nínú àrin rẹ"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "èmi yóò sì pa … run"
+    },
+    {
+      "surface": "מרכבתיך",
+      "gloss": "àwọn ọkọ̀-ogun rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:02:46.020531817Z",
+  "model": "glm-5.3"
+}

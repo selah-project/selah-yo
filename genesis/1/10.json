@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Elohim sì pè ilẹ̀ gbígbe ní Erè, ó sì pè ibi tí omi ti pápọ̀ mọ́ ní Òkun; Elohim sì rí i pé o dára.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sì pè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ilẹ̀ gbígbe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Erè"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "sì pè ibi tí omi ti pápọ̀ mọ́"
+    },
+    {
+      "surface": "המים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Òkun"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "sì rí i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "o dára"
+    }
+  ],
+  "timestamp": "2026-08-23T05:38:53.521130326Z",
+  "model": "glm-5.3"
+}

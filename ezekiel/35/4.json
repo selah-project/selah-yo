@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Èmi ó fi àwọn ìlú rẹ sí ipò ilẹ̀ tí ó tú; ìwọ ó sì di ilẹ̀ tí ó farapamọ́, ìwọ ó sì mọ̀ pé èmi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "àwọn ìlú rẹ"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ilẹ̀ tí ó tú"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "èmi ó fi sí ipò"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ìwọ ó sì"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ilẹ̀ tí ó farapamọ́"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "di"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ìwọ ó sì mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T02:51:48.179002613Z",
+  "model": "glm-5.3"
+}

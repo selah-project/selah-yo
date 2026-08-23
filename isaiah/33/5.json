@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Yahweh ga lọ́kàn; nítorí tí ó ń gbé ní òkè gíga ni; ó kún Tsiyon ní ìdájọ́ àti ìdọ̀tun.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "ga lọ́kàn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ń gbé"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ní òkè gíga"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ó kún"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ní ìdájọ́"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "àti ìdọ̀tun"
+    }
+  ],
+  "timestamp": "2026-08-23T01:50:32.559765012Z",
+  "model": "glm-5.3"
+}

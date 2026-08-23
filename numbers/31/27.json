@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 31:27",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "O sì nfí ⟨את⟩ ohun-ìjà náà pín sí ìdajì: láàrin àwọn tí ó mú ipá ogun, àwọn tí ó jáde sí ijà, àti láàrin gbogbo àwùjọ náà.",
+  "tokens": [
+    {
+      "surface": "וחצית",
+      "gloss": "O sì nfí pín sí ìdajì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun-ìjà náà"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "ohun-ìjà náà"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàrin"
+    },
+    {
+      "surface": "תפשי",
+      "gloss": "àwọn tí ó mú ipá"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "àwọn tí ó jáde"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "sí ijà"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàrin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "àwùjọ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:03:15.701794999Z",
+  "model": "glm-5.3"
+}

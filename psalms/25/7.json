@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ẹ̀ṣẹ̀ ìgbà èwe mi àti àìgbọ́ràn mi, má ṣe rántí; gẹ́gẹ́ bí chesed rẹ, ìwọ, rántí mi, nítorí rere rẹ, Yahweh.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "Ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "ìgbà èwe mi"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "àti àìgbọ́ràn mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "rántí"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "gẹ́gẹ́ bí chesed rẹ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "rántí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "rere rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:17.428375943Z",
+  "model": "glm-5.3"
+}

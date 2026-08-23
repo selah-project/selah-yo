@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìwọ yóò ṣubú ní ọ̀sán, àti nabii yóò ṣubú bákan náà pẹ̀lú rẹ ní òru; èmi yóò pa ìyá rẹ run.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "ìwọ yóò ṣubú"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ní ọ̀sán"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "yóò ṣubú"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabii"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pẹ̀lú rẹ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ní òru"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "èmi yóò pa run"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ìyá rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:01:14.412762305Z",
+  "model": "glm-5.3"
+}

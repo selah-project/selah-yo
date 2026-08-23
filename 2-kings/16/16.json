@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Uriyya aláṣẹ-ẹbọ náà sì ṣe bí gbogbo ohun tí Achaz ọba náà ti pàṣẹ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aláṣẹ-ẹbọ náà"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bí gbogbo ohun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pàṣẹ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:39.795003922Z",
+  "model": "glm-5.3"
+}

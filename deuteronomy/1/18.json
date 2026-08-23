@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Èmi sì pa ẹ̀ṣẹ́ ⟨את⟩ yín ní àsìkò yẹn: ⟨את⟩ gbogbo àwọn ọ̀rọ̀ tí ẹ ó ṣe.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "èmi sì pa ẹ̀ṣẹ́"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ní àsìkò"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ẹ ó ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T05:45:57.979233312Z",
+  "model": "glm-5.3"
+}

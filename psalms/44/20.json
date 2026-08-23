@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Ìwọ ti fọ́ wa lulẹ̀ sí ibi àwọn aja-igbó, ìwọ sì bo wa pẹ̀lú ìkú-òkùnkùn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ìwọ ti"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "fọ́ wa lulẹ̀"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sí ibi"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "àwọn aja-igbó"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ìwọ sì bo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "pẹ̀lú ìkú-òkùnkùn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:59.069526323Z",
+  "model": "glm-5.3"
+}

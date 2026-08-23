@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 120,
+  "translation": "Púpọ̀ ló ti pẹ́ tí ⟨okàn⟩ mi gbé pẹ̀lú ẹni tí ó kọ̀ sí àlàáfíà.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Púpọ̀ ló ti pẹ́"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "okàn mi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ẹni tí ó kọ̀ sí"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:38.123913905Z",
+  "model": "glm-5.3"
+}

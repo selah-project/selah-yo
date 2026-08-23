@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Ṣùgbọ́n tí o bá kò rán ìdí àti pé bí o kò rán án, a kì í ṣì sílẹ̀; nítorí pé ọkùnrin náà sọ fún wa pé ẹ kì í ṣe kí ẹ rí ojú mi, bí ẹ kò bá wà pẹ̀lú ará bí ẹ kọ̀ọ̀kan yín — ṣùgbọ́n kí o kò rán án, a kì í gbà láì wá; nítorí pé ọkùnrin náà ti sọ fún wa pé: Ẹ kì í ṣe kí ẹ rí ojú mi, àfi bí ará yín kò bá jẹ́ ⟨את⟩ tí ń bẹ pẹ̀lú yín.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "bí o bá kò"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "kò rán án"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "kò rán"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a kì í"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "gbà láì wá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ẹ kì í ṣe kí"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ẹ rí"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "àfi bí"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ará yín"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ tí ń bẹ pẹ̀lú yín",
+      "marks": "pẹ̀lú yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:12:25.434074582Z",
+  "model": "glm-5.3"
+}

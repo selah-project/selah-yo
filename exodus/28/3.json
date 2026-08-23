@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 28:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ìwọ sì, bá gbogbo àwọn ọlọgbọ́n-ọkàn sọ̀rọ̀, àwọn tí mo ti kún pẹ̀lú ẹ̀mí ọgbọ́n, kí wọ́n sì ṣe ⟨את⟩ aṣọ Aharon, láti yọ ọ́ mọ́ fún iṣẹ́ àlùfáà fún mi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ìwọ sì"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ó bá … sọ̀rọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "àwọn ọlọgbọ́n"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "מלאתיו",
+      "gloss": "mo ti kún un"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ọgbọ́n"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "kí wọ́n sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aṣọ Aharon"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aṣọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "láti yọ ọ́ mọ́"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "fún iṣẹ́ àlùfáà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:02.667123237Z",
+  "model": "glm-5.3"
+}

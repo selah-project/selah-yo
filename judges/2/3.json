@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Èmi sì tún wí pé, N kì ní lé wọn ⟨את⟩ jáde níwájú yín; wọn yóò jẹ́ ẹlẹ́yin-aláìdarà fún yín, àwọn ọlọ́run wọn sì yóò jẹ́ olè-ìdànwò fún yín.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "sì tún"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "Èmi wí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì ní"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "lé jáde"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "níwájú yín"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "wọn yóò jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "ẹlẹ́yin-aláìdarà"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "àwọn ọlọ́run wọn sì"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "olè-ìdànwò"
+    }
+  ],
+  "timestamp": "2026-08-23T00:32:52.059012288Z",
+  "model": "glm-5.3"
+}

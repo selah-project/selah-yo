@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Nígbà tí wọ́n bá wọ inú Ahẹ́ Ìpàdé, tí wọ́n sì bá sun mọ́ pátáko naa, wọ́n gbọdọ̀ wẹ, gẹ́gẹ́ bí Yahweh ti pa ⟨את⟩ Moshe lẹ́ṣẹ́.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "nígbà tí wọ́n bá wọ inú"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ahẹ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Ìpàdé"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "tí wọ́n sì bá sun mọ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pátáko naa"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "wọ́n gbọdọ̀ wẹ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pa…lẹ́ṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:13.322053208Z",
+  "model": "glm-5.3"
+}

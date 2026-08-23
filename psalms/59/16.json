@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 59,
+  "translation": "Àwọn náà ń rìn káàkiri láti lè jẹun; bí wọn kò bá kún, wọ́n á sì ń bínú dé òru.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Àwọn náà"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "ń rìn káàkiri"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "láti lè jẹun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "bá kún"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "wọ́n á sì ń bínú dé òru"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:55.612581160Z",
+  "model": "glm-5.3"
+}

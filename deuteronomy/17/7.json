@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ọwọ́ àwọn ẹlẹ́rìí ni yóò wà lórí rẹ̀ ní àkọ́kọ́ láti pa á kú, ọwọ́ gbogbo àwọn ènìyàn sì ní ìparí; ìwọ ó sì mú ⟨the⟩ búburú kúrò nínú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "àwọn ẹlẹ́rìí"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ní àkọ́kọ́"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "láti pa á kú"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ọwọ́ … sì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "ní ìparí"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "ìwọ ó sì mú … kúrò"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "nínú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:16:06.989720801Z",
+  "model": "glm-5.3"
+}

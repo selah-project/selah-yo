@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 32:3",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Bẹ́ẹ̀ ni Adonai Yahweh ti wí pé: èmi yóò tẹ ⟨את⟩ àpọ̀n mi tán lórí rẹ ní àpapọ̀ àwọn ènìyàn púpọ̀, wọn yóò sì gbé ọ sókè nínú àpọ̀n mi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti wí pé"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ופרשתי",
+      "gloss": "èmi yóò tẹ tán"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "lórí rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àpọ̀n mi"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "àpọ̀n mi"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ní àpapọ̀"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "והעלוך",
+      "gloss": "wọn yóò sì gbé ọ sókè"
+    },
+    {
+      "surface": "בחרמי",
+      "gloss": "nínú àpọ̀n mi"
+    }
+  ],
+  "timestamp": "2026-08-23T02:50:41.967879057Z",
+  "model": "glm-5.3"
+}

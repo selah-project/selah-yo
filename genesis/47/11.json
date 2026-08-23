@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Yosef sì gbé ⟨את⟩ baba rẹ̀ àti ⟨את⟩ àwọn ará rẹ̀ dúró, ó sì fún wọn ní dídí ilẹ̀ ní Mitzrayim, ní ipò tó dára jùlọ nínu ilẹ̀, ní ilẹ̀ Ramaseses, bí Paroh ti pàṣẹ.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "sì gbé… dúró"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba rẹ̀"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ará rẹ̀"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "àwọn ará rẹ̀"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "sì fún"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "dídí ilẹ̀"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "ní ipò tó dára jùlọ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Ramaseses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pàṣẹ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:13:26.147632588Z",
+  "model": "glm-5.3"
+}

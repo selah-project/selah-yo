@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ọ̀dọ́ náà sì lọ — ọ̀dọ́ oníwású náà — dé Ramoth Giladi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "sì lọ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ọ̀dọ́ náà"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ọ̀dọ́"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "oníwású náà"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramoth"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:26.997495640Z",
+  "model": "glm-5.3"
+}

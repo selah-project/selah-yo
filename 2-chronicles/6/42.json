@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Yahweh Elohim, má ṣe yọ ojú Mashiach rẹ kúrò; rántí àwọn chesed ti Davidi, ìránṣẹ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "yọ ... kúrò"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "Mashiach rẹ"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "rántí"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "àwọn chesed"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ti Davidi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T05:22:38.054848925Z",
+  "model": "glm-5.3"
+}

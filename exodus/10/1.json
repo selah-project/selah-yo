@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Yahweh sì wí fún Moshe: «Wọ inú ọ̀dọ̀ Paroh, nítorí pé èmi ti ṣe okún ⟨את⟩ ọkàn rẹ̀ àti ⟨את⟩ ọkàn àwọn ìránṣẹ́ rẹ̀, kí èmi lè fi àwọn àmì-ìfarahàn mi wọ̀nyí sí àárín rẹ̀.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wọ inú ọ̀dọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "ti ṣe okún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọkàn àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "עבדיv",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí èmi lè"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "fi sí"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "àwọn àmì-ìfarahàn mi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wọ̀nyí"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sí àárín rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:29.500294834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ta ní nínú yín yóò gbọ́ èyí? Ta ní yóò ṣetán dá sílẹ̀ gbọ́, ó sì gbọ́ fún ọjọ́ iwájú?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nínú yín"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "yóò gbọ́"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "yóò ṣetán dá sílẹ̀"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ó sì gbọ́"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "fún ọjọ́ iwájú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:55:55.995400423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Nísinsìnyí nítorí náà, ẹ má ṣe bẹ̀rù: èmi yóò tọ́jú ⟨את⟩ yín àti ⟨את⟩ àwọn ọmọ kékeré yín. Ó sì tù wọ́n lọ́kàn, ó sì sọ̀rọ̀ sí ọkàn ⟨את⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "nísinsìnyí nítorí náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bẹ̀rù"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "yóò tọ́jú"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ kékeré yín"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "àwọn ọmọ kékeré yín"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ó sì tù wọn lọ́kàn"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọn"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ó sì sọ̀rọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ọkàn wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:15.331936791Z",
+  "model": "glm-5.3"
+}

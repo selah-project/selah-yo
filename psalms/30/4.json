@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Yahweh, O ti gbé ẹ̀mí mi sókè kúrò nínú Sheol, O ṣe àyọrí fún mí láti ara àwọn tí ń bọ̀ sínú iho ìkú.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "O ti gbé sókè"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "O ṣe àyọrí fún mí"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "láti ara àwọn tí ń bọ̀ sínú"
+    },
+    {
+      "surface": "בור",
+      "gloss": "iho ìkú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:35.328340533Z",
+  "model": "glm-5.3"
+}

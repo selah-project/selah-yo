@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 141,
+  "translation": "Ṣọ́ mí mọ́ nípa ṣíṣe lọ́wọ́ ìdìnlẹ̀ pẹ̀tẹ́ẹ́sì tí wọ́n fi mi lọ́nà, àti àwọn ìdìnlẹ̀ àwọn olṣṣẹ́ àìṣe.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Ṣọ́ mí mọ́ nípa ṣíṣe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ìdìnlẹ̀ pẹ̀tẹ́ẹ́sì (fọ́láíndà) tí wọ́n fi mi lọ́nà"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "tí wọ́n fi mi lọ́nà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "àti àwọn ìdìnlẹ̀"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "àwọn olṣṣẹ́"
+    },
+    {
+      "surface": "און",
+      "gloss": "àìṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:42.949998643Z",
+  "model": "glm-5.3"
+}

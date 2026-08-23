@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 4:21",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Nítorí náà Yahweh bínú sí mi nítorí ọ̀rọ̀ yín, ó sì búra pé èmi kì yóò kọja ⟨את⟩ Yorudani, àti pé èmi kì yóò wọ sílẹ̀ sí ilẹ̀ rere tí Yahweh Elohim rẹ ń fún ọ ní ìjọba-ogún.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Nítorí náà Yahweh"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "bínú sí"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ọ̀rọ̀ yín"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ó sì búra pé"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kì yóò"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "èmi kọja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorudani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudani"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "àti pé kì yóò"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wọ sílẹ̀ sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "rere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ń fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ní ìjọba-ogún"
+    }
+  ],
+  "timestamp": "2026-08-23T00:08:25.866264640Z",
+  "model": "glm-5.3"
+}

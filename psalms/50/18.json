@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Nígbà tí o bá rí olè, o sì ń sáré pẹ̀lú rẹ̀, àti pẹ̀lú àwọn alákókò ni ipín rẹ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nígbà tí o bá"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "o rí"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "olè"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "o sì sáré"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "àti pẹ̀lú"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "àwọn alákókò"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ipín rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:27.813651366Z",
+  "model": "glm-5.3"
+}

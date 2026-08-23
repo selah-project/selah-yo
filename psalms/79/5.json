@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 79,
+  "translation": "Títí dé ìgbà wo, Yahweh? Ṣé ìbínú rẹ yóò pẹ́ láéláé? Ṣé ìtanjẹ rẹ yóò gbóná bíi iná?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Títí dé"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ìgbà wo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ìbínú rẹ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "láéláé"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "gbóná"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bíi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "ìtanjẹ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:48.835816707Z",
+  "model": "glm-5.3"
+}

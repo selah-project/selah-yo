@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì ní àwọn aya méjì; orúkọ ẹ̀kan ni Khannah, orúkọ èkejì sì ni Peninnah;Peninnah ní àwọn ọmọ,ṣùgbọ́n ní Khannah kò sí ọmọ.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Ó sì ní"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "àwọn aya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ẹ̀kan"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Khannah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "orúkọ èkejì sì"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ní"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Peninnah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wà ní"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "fún Peninnah"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "ṣùgbọ́n fún Khannah"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ọmọ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:42:34.203159815Z",
+  "model": "glm-5.3"
+}

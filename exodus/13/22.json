@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Kì í yọ kúrú; ìwọ̀ǹdiwọ̀n nnú kúrúùnù náà ní ọ̀sán, àti ìwọ̀ǹdiwọ̀n ìná náà ní ọ̀kán-ò-sán, kúrò níwájú ìjọ enìya náà.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "yọ kúrò"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ìwọ̀ǹdiwọ̀n"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "nnú kúrúùnù náà"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ní ọ̀sán"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "àti ìwọ̀ǹdiwọ̀n"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ìná náà"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ní ọ̀kán-ò-sán"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ enìya náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:01.307570840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Àwọn ọmọ Gad nípa àwọn ìdílé wọn: fún Tsefon, ìdílé ⟨àwọn⟩ Tsefoni; fún Chaggi, ìdílé ⟨àwọn⟩ Chaggi; fún Shuni, ìdílé ⟨àwọn⟩ Shuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nípa àwọn ìdílé wọn"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "fún Tsefon"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ìdílé"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "⟨àwọn⟩ Tsefoni"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "fún Chaggi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ìdílé"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "⟨àwọn⟩ Chaggi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "fún Shuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ìdílé"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "⟨àwọn⟩ Shuni"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:40.753396213Z",
+  "model": "glm-5.3"
+}

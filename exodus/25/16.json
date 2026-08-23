@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "O sì fi sí inú áká náà ⟨את⟩ ẹ̀rìí tí èmi ó fi fún ọ.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "o sì fi sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inú"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "áká náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀rìí"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ẹ̀rìí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "èmi ó fi fún"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:25:45.669067131Z",
+  "model": "glm-5.3"
+}

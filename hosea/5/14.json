@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 5:14",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Nítorí tí emi yóò jẹ́ bíi kìnnìún sí Efrayim, àti bíi kìnkìnlù sí ilé Yehuda; emi, emi ni yóò tú wọn lúlẹ̀, emi yóò sì lọ, emi yóò gbé wọn lọ, kò sì ẹni tí yóò gbà wọn là.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "emi"
+    },
+    {
+      "surface": "כשחל",
+      "gloss": "bíi kìnnìún"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "sí Efrayim"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "àti bíi kìnkìnlù"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sí ilé"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "yóò tú wọn lúlẹ̀"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "yóò sì lọ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "yóò gbé wọn lọ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ẹni tí yóò gbà wọn là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:00:04.097006302Z",
+  "model": "glm-5.3"
+}

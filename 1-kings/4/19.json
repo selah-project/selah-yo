@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 4:19",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Gever, ọmọ Uri, ní ilẹ̀ Gilad — ilẹ̀ Sichon ọba waší Àmori àti Og ọba Bashan — àti aṣojú kan ṣoṣo tí ó wà ní ilẹ̀ náà.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "Gever"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "waší Àmori"
+    },
+    {
+      "surface": "ועג",
+      "gloss": "àti Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "àti aṣojú"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan ṣoṣo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:05.655525844Z",
+  "model": "glm-5.3"
+}

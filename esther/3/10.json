@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ọba sì yọ ⟨את⟩ ìgòwọ́ rẹ̀ kúrò lórí ọwọ́ rẹ̀, ó sì fún un ní i, fún Haman ọmọ Hamdata, Agagi, ọ̀tá àwọn Júù.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "sì yọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìgòwọ́ rẹ̀"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "ìgòwọ́ rẹ̀"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kúrò lórí"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "sì fún un ní i"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "fún Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "ọ̀tá"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "àwọn Júù"
+    }
+  ],
+  "timestamp": "2026-08-23T04:44:46.046192896Z",
+  "model": "glm-5.3"
+}

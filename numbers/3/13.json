@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 3:13",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Nítorí tí gbogbo àkọ́bí jẹ́ ti mi; ní ọjọ́ tí mo lu gbogbo àkọ́bí ní ilẹ̀ Mitzrayim, mo fi yẹ́ gbogbo àkọ́bí ní Yisrael sí mi fúnra mi, láti ènìyàn dé ẹranko; ti mi ni wọn máa jẹ́; emi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jẹ́ ti mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "àkọ́bí"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́ tí"
+    },
+    {
+      "surface": "הכתי",
+      "gloss": "mo lu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "àkọ́bí"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "mo fi yẹ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "àkọ́bí"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ní Yisrael"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "láti ènìyàn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ti mi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ni wọn máa jẹ́"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:40.691921632Z",
+  "model": "glm-5.3"
+}

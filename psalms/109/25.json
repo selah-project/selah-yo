@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Ìwọ̀kúkú ni mo di fún wọn; tí wọ́n bá rí mi, wọ́n ń fọrí ká.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "sùgbọ́n èmi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mo di"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ìwọ̀kúkú"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "nígbà tí wọ́n rí mi"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "wọ́n ń fọrí ká"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "orí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:07.452434563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Èmi yóò yí ọ ká bíi ọ̀nà dúdú, èmi yóò sì fi àwọn ológun-ilé palẹ̀ lórí rẹ, èmi yóò sì gbé àwọn ìkọ̀-ilé dìde lórí rẹ.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "Èmi yóò yí ... ká"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "bíi ọ̀nà dúdú"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "èmi yóò sì fi ... palẹ̀ lórí rẹ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "lórí rẹ"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "àwọn ológun-ilé"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "èmi yóò sì gbé ... dìde"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "lórí rẹ"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "àwọn ìkọ̀-ilé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:51:19.849086306Z",
+  "model": "glm-5.3"
+}

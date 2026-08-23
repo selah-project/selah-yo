@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Orin, orin-ìorin-ohùn, ti àwọn ọmọ Korach.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin-ìorin-ohùn"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ti àwọn ọmọ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:43.450606589Z",
+  "model": "glm-5.3"
+}

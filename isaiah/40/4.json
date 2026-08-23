@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Àlàlá gbogbo adágún máa yọ, àti okuta òkè àti òkè kéékèké máa rọ̀; ilẹ̀ tí ó yí padà di ìfọ̀nbalẹ̀, àti ilẹ̀ igi korokoro di ilẹ̀ gbángba.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "adágún"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "máa yọ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "àti òkè kéékèké"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "máa rọ̀"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ó máa jẹ́ pé"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "ilẹ̀ tí ó yí padà"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "di ìfọ̀nbalẹ̀"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "àti ilẹ̀ igi korokoro"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "di ilẹ̀ gbángba"
+    }
+  ],
+  "timestamp": "2026-08-23T01:56:18.633159452Z",
+  "model": "glm-5.3"
+}

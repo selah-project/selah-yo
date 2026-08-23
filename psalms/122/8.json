@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 122,
+  "translation": "Nítorí àwọn arákùnrin mi àti àwọn ọ̀rẹ́ mi, ẹ jẹ́ kí ó sọ báyìí: kí àlàáfíà wà nínu rẹ.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "àwọn arákùnrin mi"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "àti àwọn ọ̀rẹ́ mi"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ẹ jẹ́ kí ó sọ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "báyìí (ẹ jọwọ́)"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nínu rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:37.767194634Z",
+  "model": "glm-5.3"
+}

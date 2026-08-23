@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àwọm ọmọ Yissaskar: Tola, àti Puah, Yashub, àti Shimron — <dà> mẹ́rin.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Àwọm ọmọ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "àti Puah"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "Yashub"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "àti Shimron"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "mẹ́rin"
+    }
+  ],
+  "timestamp": "2026-08-23T05:11:34.159819413Z",
+  "model": "glm-5.3"
+}

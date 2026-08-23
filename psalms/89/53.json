@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Yahweh ṣì bukún fún ⟨iṣẹ́⟩ láéláé; Amin, àti Amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bukún\/ìbùkún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "láéláé"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "àti Amin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:47.060413759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Yahweh ń ṣọ́ àwọn ayàgbọn; mo di aláìlágbara, ó sì gbà mí là.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ń ṣọ́"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "àwọn ayàgbọn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "mo di aláìlágbara"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "sì fún mi"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "ó gbà ⟨mi⟩ là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:58.777672933Z",
+  "model": "glm-5.3"
+}

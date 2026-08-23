@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Ìwọ ni ibi ìpamọ́ fún mi; láti ìṣòro, ìwọ ń ṣọ́ mi; pẹ̀lú orin ayọ̀ ìgbàlà, ìwọ ń yí mi ká. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "ibi ìpamọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "láti ìṣòro"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "ìwọ ń ṣọ́ mi"
+    },
+    {
+      "surface": "רני",
+      "gloss": "orin ayọ̀"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "ìwọ ń yí mi ká"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:31.753192210Z",
+  "model": "glm-5.3"
+}

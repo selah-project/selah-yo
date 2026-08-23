@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 2:7",
+  "book": "song-of-songs",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Mo ti bẹ́ yín ìbúra, àwọn ọmọbìnrin Yerushalayim, nípa àwọn ẹlẹ́dẹ̀-igbọ́ àti àwọn ẹlẹ́dẹ̀-àgùntàn igbó — má ṣe jí kí ẹ sì má ṣe gbé ⟨את⟩ ìfẹ́ sí ìdìde, tí kì í ṣe hí rárá, títí di ìgbà tí ó bá fẹ́.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Mo ti bẹ́ yín ìbúra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "àwọn ọmọbìnrin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "nípa àwọn ẹlẹ́dẹ̀-igbọ́"
+    },
+    {
+      "surface": "או",
+      "gloss": "àti"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "àwọn ẹlẹ́dẹ̀-àgùntàn"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "igbó"
+    },
+    {
+      "surface": "אם",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "jí"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kí ẹ sì má ṣe"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "gbé sí ìdìde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìfẹ́"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ìfẹ́"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ìgbà tí ó bá fẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:32:53.103745535Z",
+  "model": "glm-5.3"
+}

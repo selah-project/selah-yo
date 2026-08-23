@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ó sì fi ⟨את⟩ àwọn màlúù sílẹ̀, ó sì sáré lẹ́yìn Elijah, ó sì wí pé, Jọ̀wọ́, ẹ jẹ́ kí n kí baba mi àti iyá mi kí n tó tẹ̀lé ọ. Ó sì wí fún un pé, Lọ, padà sí ẹ̀yìn; nítorí èrùnjẹ wo ni mo ṣe fún ọ?",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Ó sì fi... sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn màlúù"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "àwọn màlúù"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "ó sì sáré"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "ẹ jẹ́ kí n kí"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Jọ̀wọ́"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "baba mi"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "àti iyá mi"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "kí n tó tẹ̀lé ọ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "tẹ̀lé ọ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí fún un pé"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lọ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "padà sí ẹ̀yìn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מה",
+      "gloss": "èrùnjẹ wo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mo ṣe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    }
+  ],
+  "timestamp": "2026-08-23T05:51:56.321743893Z",
+  "model": "glm-5.3"
+}

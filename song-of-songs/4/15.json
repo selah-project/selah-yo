@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ojú omi àwọn ọgbà, iho-omi ⟨ní⟩ omi ayé, àti èjìká tí ó ń ṣàn láti Lebanoni.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "ojú omi"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "àwọn ọgbà"
+    },
+    {
+      "surface": "באר",
+      "gloss": "iho-omi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "àti tí ó ń ṣàn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanoni"
+    }
+  ],
+  "timestamp": "2026-08-23T04:32:47.699846847Z",
+  "model": "glm-5.3"
+}

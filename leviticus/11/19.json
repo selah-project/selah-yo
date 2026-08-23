@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "àti ⟨את⟩ hasidah, ⟨את⟩ anafah ní ìran rẹ̀, àti ⟨את⟩ dukifat, àti ⟨את⟩ atalef;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "hasidah"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "hasidah"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "anafah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ní ìran rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "dukifat"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "dukifat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "atalef"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "atalef (ẹyẹ alágbàmẹ́rìndínlógún)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:38:04.760623573Z",
+  "model": "glm-5.3"
+}

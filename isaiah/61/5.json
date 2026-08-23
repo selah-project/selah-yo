@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 61,
+  "translation": "Àwọn àjèjì yóò dúró, wọ́n yóò sì bọ́ ⟨את⟩ àwọn ọ̀tá yín; àwọn ọmọ ilẹ̀ òkèrè ni yóò jẹ́ àwọn agbẹ̀ yín àti àwọn olùṣọ́ rógùn yín.",
+  "tokens": [
+    {
+      "surface": "וירנו-placeholder",
+      "gloss": ""
+    },
+    {
+      "surface": "ועמדו",
+      "gloss": "wọ́n yóò dúró"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "àwọn àjèjì"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "wọ́n yóò sì bọ́"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "àwọn ọ̀tá yín"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ilẹ̀ òkèrè"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "àwọn agbẹ̀ yín"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "àwọn olùṣọ́ rógùn yín"
+    }
+  ],
+  "timestamp": "2026-08-23T02:03:28.633144959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ní ìsinsìnyí, wá, èmi yóò rán ọ́ sí Paroh, kí o lè mú ⟨את⟩ ènìyàn mi, àwọn ọmọ Yisrael jáde kúrò lọ́wọ́ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ní ìsinsìnyí"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "wá"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "èmi yóò rán ọ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "kí o lè mú ... jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ènìyàn mi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ènìyàn mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kúrò lọ́wọ́ Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:51.828641605Z",
+  "model": "glm-5.3"
+}

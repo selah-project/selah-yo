@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ó máa mú ẹ̀tọ́ rẹ jáde bí ìmọ́lẹ̀, àti ìdájọ́ rẹ bí ìránúsán ọ̀sán.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "mú … jáde"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "bí ìmọ́lẹ̀"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ẹ̀tọ́ rẹ"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ìdájọ́ rẹ"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "bí ìránúsán ọ̀sán"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:38.188562535Z",
+  "model": "glm-5.3"
+}

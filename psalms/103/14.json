@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Nítorí tí òun mọ ìrísí wa, ó rántí pé ⟨ẹni⟩ ìrọrùn ni wá.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ìrísí wa"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ó rántí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ìrọrùn"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:18.181081363Z",
+  "model": "glm-5.3"
+}

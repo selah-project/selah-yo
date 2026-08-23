@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Èmi yóò sì fi ibùjókòó mi sí àárín yín, ẹ̀mí mi yóò sì kì í korìíra yín ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Èmi yóò fi"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "ibùjókòó mi"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "sí àárín yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "korìíra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:25.604910571Z",
+  "model": "glm-5.3"
+}

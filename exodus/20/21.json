@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àwọn ènìyàn sì dúró jáde kékeré, Moshe sì súnmọ́ sí òkùnkùn pípọ́n tí Elohim wà níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "sì dúró"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "jáde kékeré"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "Moshe sì"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "súnmọ́ sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "òkùnkùn pípọ́n"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:41.039529572Z",
+  "model": "glm-5.3"
+}

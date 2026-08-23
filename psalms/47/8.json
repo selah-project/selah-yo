@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Nítorí pé Ọba gbogbo ayé ni Elohim; ẹ kọ orin pẹ̀lú òye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí pé"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ẹ kọ orin"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pẹ̀lú òye"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:37.035839042Z",
+  "model": "glm-5.3"
+}

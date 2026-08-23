@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Mo ń lé àwọn ọ̀tá mi lẹ́yìn, èmi sì ń mú wọn dé, èmi kò sì yí padára títí wọn fi parun.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Mo ń lé… lẹ́yìn"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "èmi sì ń mú wọn dé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "èmi kò sì"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "yí padára"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí… fi"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "wọn parun"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:09.730454518Z",
+  "model": "glm-5.3"
+}

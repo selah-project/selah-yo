@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Nígbà náà Rehavam lọ sí Shékem, nítorí Shékem ni gbogbo Israẹli ti wá láti jẹ́ kí ó jẹ́ oba ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ó lọ sí"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Shékem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shékem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ti wá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "láti jẹ́ kí ó jẹ́ oba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ó (Rehavam)"
+    }
+  ],
+  "timestamp": "2026-08-23T06:12:52.116227920Z",
+  "model": "glm-5.3"
+}

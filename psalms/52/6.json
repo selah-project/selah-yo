@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 52,
+  "translation": "O fẹ́ràn gbogbo ọ̀rọ̀ ìjẹgbogbo, àwọn líà àǹfààní? no — ahùn èké!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "O fẹ́ràn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ìjẹgbogbo"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "líà"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ahùn èké"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:10.829615132Z",
+  "model": "glm-5.3"
+}

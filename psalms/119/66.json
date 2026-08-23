@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ẹ kọ́ mi ní ìwọ̀nwọ̀ rere àti ìmọ̀; nítorí tí mo gbà àwọn àṣẹ Rẹ gbọ́.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ìwọ̀nwọ̀"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "àti ìmọ̀"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "Ẹ kọ́ mi ní"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "àwọn àṣẹ Rẹ"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "mo gbà gbọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:08.540265007Z",
+  "model": "glm-5.3"
+}

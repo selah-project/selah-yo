@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Wọ́n fẹ́ràn ìfẹ́-ọkàn nínu igbó, wọ́n sì dán El wò ní àgbálẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "wọ́n fẹ́ràn"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "ìfẹ́-ọkàn"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nínu igbó"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "wọ́n sì dán…wò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "ní àgbálẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:46.639381246Z",
+  "model": "glm-5.3"
+}

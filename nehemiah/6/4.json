@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Wọ́n sì rán sí ọ̀dọ̀ mi bí ọ̀rọ̀ yìí, mẹ́rin ìgbà; mo sì padà fún ⟨את⟩ wọn ní bí ọ̀rọ̀ yìí náà.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Wọ́n sì rán"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "bí ọ̀rọ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mẹ́rin"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ìgbà"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "mo sì padà fún"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn ìránṣẹ́ Sanballat)"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "bí ọ̀rọ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T05:03:00.094526245Z",
+  "model": "glm-5.3"
+}

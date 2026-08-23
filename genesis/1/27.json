@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì dá ⟨את⟩ ènìyàn ní àwòrán Rẹ̀; ní àwòrán Elohim ni ó ti dá ⟨את⟩ a; ọkùnrin àti obìnrin ni ó dá ⟨את⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "ó sì dá"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ènìyàn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "ní àwòrán Rẹ̀"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ní àwòrán"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ó dá"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ a"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "àti obìnrin"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ó dá"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:38.241309424Z",
+  "model": "glm-5.3"
+}

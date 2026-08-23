@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ìwọ yóò gba ìyẹfun yòò, kí o sì sè ⟨את⟩ ó ní àwọn àkárà méjìlá; ìpín mẹ́wàá méjì ni àkárà kan yóò jẹ́.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ìwọ yóò gba"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ìyẹfun yòò"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "kí o sì sè"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ó (àwọn àkárà méjìlá)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "àwọn àkárà"
+    },
+    {
+      "surface": "שני",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ìpín mẹ́wàá"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "àkárà kan"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:51.679882392Z",
+  "model": "glm-5.3"
+}

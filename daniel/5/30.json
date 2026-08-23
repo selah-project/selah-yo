@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ní ọ̀run kanna ni wọ́n pa Belshazzar ọba Caldea ní ìpànìyàn.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "ní ... kanna"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "wọ́n pa ... ní ìpànìyàn"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Belshazzar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "Caldea"
+    }
+  ],
+  "timestamp": "2026-08-23T04:49:04.923012467Z",
+  "model": "glm-5.3"
+}

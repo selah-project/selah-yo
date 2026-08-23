@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 76,
+  "translation": "Níbẹ̀ ni ó ti fọ́ àwọn ìtàn iná ti ọ̀fà, àtàrọ̀ àti idà àti ìjà ogun. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Níbẹ̀"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ó ti fọ́"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "àwọn ìtàn iná"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ti ọ̀fà"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "àtàrọ̀"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "àti idà"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "àti ìjà ogun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:54.754547288Z",
+  "model": "glm-5.3"
+}

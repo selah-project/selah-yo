@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "gẹ́gẹ́ bí a ti máa ń yọ ọ́ kúrò láti máàlù ti ẹbù àlàáfíà; àti àlùfáà yóò sun wọn lórí pẹpẹ ti ẹbù ìsún.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "a ti máa ń yọ ọ́ kúrò"
+    },
+    {
+      "surface": "משור",
+      "gloss": "láti máàlù"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ti ẹbù"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "yóò sun wọn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti ẹbù ìsún"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:49.196774503Z",
+  "model": "glm-5.3"
+}

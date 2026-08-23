@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Gbogbo nǹkan-tí-a-yà-sí-ipá tí a bá yà lára ènìyàn, kò lè ra a padà; nípa ikú ni ó gbọ́dọ̀ kú.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "nǹkan-tí-a-yà-sí-ipá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "tí a bá yà sí ipá"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lára"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "lè ra padà"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nípa ikú"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ó gbọ́dọ̀ kú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:47:56.875337488Z",
+  "model": "glm-5.3"
+}

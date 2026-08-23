@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Ó kó wọn jáde láti àwọn ilẹ̀, láti ìlà-oòrùn àti láti ìwọ-oòrùn, láti àríwá àti láti òkun.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "láti àwọn ilẹ̀"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "Ó kó wọn jáde"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "láti ìlà-oòrùn"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "àti láti ìwọ-oòrùn"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "láti àríwá"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "àti láti òkun"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:40.427047757Z",
+  "model": "glm-5.3"
+}

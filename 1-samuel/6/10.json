@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àwọn ọkùnrin náà sì ṣe bẹ́ẹ̀; wọ́n sì gba abẹ́fin méjèjì, wọ́n sì fi wọ́n móọ́ mọ́ àgàlà, wọ́n sì ti ⟨את⟩ ọmọ wọn pa mọ́lé.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "Àwọn ọkùnrin náà"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "wọ́n sì gba"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjèjì"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "abẹ́fin"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "tí ó ń fun wọn lọ́mú"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "wọ́n sì fi wọ́n móọ́ mọ́"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "àgàlà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ wọn"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ọmọ wọn"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "wọ́n sì ti pa mọ́"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "lé"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:50.562944523Z",
+  "model": "glm-5.3"
+}

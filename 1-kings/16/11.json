@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ó sì ṣẹlẹ̀, nígbà tí ó ń jọba, ní kété tí ó bá gbé lé orí àga-ìjọba rẹ̀, ó lu ⟨את⟩ gbogbo ilé Baasha run; kò fi aṣẹ̀-wọ̀sí-lórí-ogiri sílẹ̀ fún un, àti àwọn olùgbàjà rẹ̀, àti ọrẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "nígbà tí ó ń jọba"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "ní kété tí ó bá gbé lé"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé orí"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "àga-ìjọba rẹ̀"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ó lu … run"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ilé Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò … sílẹ̀"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "fi … sílẹ̀ fún un"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "aṣẹ̀-wọ̀sí"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "lórí ogiri"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "àti àwọn olùgbàjà rẹ̀"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "àti ọrẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:20:52.111771312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Bẹ́ẹ̀ ni Yahweh Tsevaot wí pé: Mo ti ṣe àyẹ̀wò ⟨את⟩ ohun tí Amalek ṣe fún Yisraël, nígbà tí ó gbé e dúró lọ́nà, nígbà tí ó ń gbà láti Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "mo ti ṣe àyẹ̀wò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí Amalek ṣe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fún Yisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gbé e dúró"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lọ́nà"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "nígbà tí ó ń gbà"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "láti Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T00:49:00.350243214Z",
+  "model": "glm-5.3"
+}

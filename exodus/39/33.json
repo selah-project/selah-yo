@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Wọ́n sì mú ⟨את⟩ mishkan (àgọ́ igbimọ́ra) wá sí Moshe, ⟨את⟩ àgọ́ ìṣọ̀wọ́n àti ⟨את⟩ gbogbo àwọn irinṣẹ́ rẹ̀, àwọn ìfirọ́ rẹ̀, àwọn èró igi rẹ̀, àwọn ọ̀tá rẹ̀, àwọn òógùn rẹ̀, àti àwọn ijọ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "wọ́n sì mú...wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishkan (àgọ́ igbimọ́ra)"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan (àgọ́ igbimọ́ra)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgọ́ ìṣọ̀wọ́n"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "àgọ́ ìṣọ̀wọ́n"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "àwọn irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "àwọn ìfirọ́ rẹ̀"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "àwọn èró igi rẹ̀"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "àwọn ọ̀tá rẹ̀"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "àti àwọn òógùn rẹ̀"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "àti àwọn ijọ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:23.612329733Z",
+  "model": "glm-5.3"
+}

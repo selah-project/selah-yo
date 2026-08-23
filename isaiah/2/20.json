@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ní ọjọ́ yìí, ènìyàn yóò sọ ⟨את⟩ àwọn òrìṣà ìṣèti fàdákà rẹ̀ àti ⟨את⟩ àwọn òrìṣà ìṣèti wúrà rẹ̀ — èyí tí wọ́n ṣe fún un láti sùn-ọ́fọ́ — sílẹ̀ fún àwọn àgbọ̀n àti fún àwọn adjàn.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "yóò sọ… sílẹ̀"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òrìṣà ìṣèti fàdákà rẹ̀"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "àwọn òrìṣà ìṣèti"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "fàdákà rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn òrìṣà ìṣèti wúrà rẹ̀"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "àwọn òrìṣà ìṣèti"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "wúrà rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wọ́n ṣe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "láti sùn-ọ́fọ́"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "fún àwọn àgbọ̀n"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "ihò-ilẹ̀ àwọn àgbọ̀n"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "àti fún àwọn adjàn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:38:39.501319108Z",
+  "model": "glm-5.3"
+}

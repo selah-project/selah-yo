@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì gbé ⟨את⟩ gbogbo ọra ọ̀gangan ẹ̀bùn ẹ̀ṣè kúrò nínú rẹ̀: ⟨את⟩ ọra tí ó bo ìkọ́kọ́ inú, àti ⟨את⟩ gbogbo ọra tí ó wà lórí ìkọ́kọ́ inú.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ọra"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ọ̀gangan"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ẹ̀bùn ẹ̀ṣè"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ó sì gbé kúrò"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọra tí ó bo ìkọ́kọ́ inú"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ọra"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "tí ó bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ìkọ́kọ́ inú"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ọra tí ó wà lórí ìkọ́kọ́ inú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ọra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ìkọ́kọ́ inú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:36:56.728131991Z",
+  "model": "glm-5.3"
+}

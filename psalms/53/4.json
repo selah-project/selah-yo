@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 53,
+  "translation": "Gbogbo wọ́n padà sẹ́yìn, wọ́n bàjẹ́ papọ̀; kò sí ẹni tí ó ń ṣe rere, kò sí rárá, bí kan náà kò sí.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "gbogbo wọ́n"
+    },
+    {
+      "surface": "סג",
+      "gloss": "padà sẹ́yìn"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "papọ̀"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "wọ́n bàjẹ́"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ẹni tí ó ń ṣe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí rárá"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bí kan náaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:41.929933833Z",
+  "model": "glm-5.3"
+}

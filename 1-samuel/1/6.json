@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 1:6",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àti aláìníròrùn rẹ̀ náà ń bi ìnira lọ́nà ìbànújẹ́ fún un, láti fi gbé e lọ́kàn pé Yahweh ti pa ọ̀fun ìbìkan rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וכעסתה",
+      "gloss": "ń bi ìnira lọ́nà ìbànújẹ́ fún un"
+    },
+    {
+      "surface": "צרתה",
+      "gloss": "àti aláìníròrùn rẹ̀"
+    },
+    {
+      "surface": "גם",
+      "gloss": "náà"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ìbànújẹ́"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "láti fi"
+    },
+    {
+      "surface": "הרעמה",
+      "gloss": "gbé e lọ́kàn pé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ti pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעד",
+      "gloss": ""
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ọ̀fun ìbìkan rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:42:09.984480838Z",
+  "model": "glm-5.3"
+}

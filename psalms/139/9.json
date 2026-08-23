@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Tí mo bá gbé ejìká òwúrọ̀ sókè, tí mo bá sì ń gbé ní ìparí òkun —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "mo gbé sókè"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ejìká"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "òwúrọ̀"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "mo ń gbé"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ní ìparí"
+    },
+    {
+      "surface": "ים",
+      "gloss": "òkun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:52.590104028Z",
+  "model": "glm-5.3"
+}

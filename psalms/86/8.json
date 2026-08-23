@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 86,
+  "translation": "Kò sí ẹnití ó dà bí Ȯ̀run Iwọ láàrin àwọn ọlọ́run, Adonai; àti kò sí iṣẹ́ kan bí ti iṣẹ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ẹnití ó dà bí Iwọ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "láàrin àwọn ọlọ́run"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "àti kò sí"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "iṣẹ́ kan bí ti iṣẹ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:55.893173645Z",
+  "model": "glm-5.3"
+}

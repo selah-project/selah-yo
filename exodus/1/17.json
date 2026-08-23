@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àwọn alábọ̀sí sì bẹ̀rù̀ Elohim, wọn kò sì ṣe bíi ti tí ọba Mitzrayim ti sọ̀rọ̀ sí wọn, wọn sì jẹ́ kí ⟨את⟩ àwọn ọmọkùnrin yè.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "sì bẹ̀rù̀"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "Àwọn alábọ̀sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì ṣe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bíi ti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sọ̀rọ̀"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "wọn sì jẹ́ kí…yè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọkùnrin"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "àwọn ọmọkùnrin"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:47.648237442Z",
+  "model": "glm-5.3"
+}

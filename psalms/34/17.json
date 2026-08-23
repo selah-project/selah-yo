@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ojú Yahweh sí ⟨àwọn⟩ ènìyàn-burúkù, láti pa orúkọ wọn rẹ́ kúrò lórí ayé.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "sí àwọn ènìyàn-burúkù tí ó ń ṣe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "burúkù"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "láti pa rẹ́"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kúrò lórí ayé"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ìrántí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:15.198647437Z",
+  "model": "glm-5.3"
+}

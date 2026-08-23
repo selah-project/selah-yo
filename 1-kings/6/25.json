@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àti pé ẹ̀wádùn ámà ni kerubu kejì; ìwọ̀n kan àti ìrísí kan ni fún kerubu méjèèjì.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "àti pé ẹ̀wádùn"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ámà"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerubu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kejì"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ìwọ̀n"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "àti ìrísí"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "fún méjèèjì"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubu"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:43.072433386Z",
+  "model": "glm-5.3"
+}

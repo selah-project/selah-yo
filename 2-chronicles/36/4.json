@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 36:4",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Ọba Mitzrayim sì fi Eliyakim arákùnrin rẹ̀ jọba lórí Yehudah àti Yerushalayim, ó sì yí orúkọ rẹ̀ padà sí Yehoyakim; Nekho sì gba ⟨את⟩ Yoachaz arákùnrin rẹ̀, ó sì mú un lọ sí Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ó sì fi… jọba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eliyakim"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arákùnrin rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "àti Yerushalayim"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ó sì yí… padà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "sí Yehoyakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yoachaz"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yoachaz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arákùnrin rẹ̀"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Nekho"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ó sì mú un lọ"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "sí Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:38:13.608047585Z",
+  "model": "glm-5.3"
+}

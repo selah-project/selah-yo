@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 130,
+  "translation": "Òun yóò ra Yisrael ⟨את⟩ níyà jáde kúrò nínú gbogbo àwọn ìṣẹ̀ wọn.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Òun"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "yóò ra ... níyà jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kúrò nínú gbogbo"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "àwọn ìṣẹ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:29.720570689Z",
+  "model": "glm-5.3"
+}

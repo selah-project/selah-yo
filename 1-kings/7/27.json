@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 7:27",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ó sì ṣe ⟨את⟩ àwọn ìdí ogún náà — fádàkà; ẹ̀wà àmù mẹ́rin ní ìgùn ìdí ogún kan, ìgùn mẹ́rin ní ìfara rẹ̀, ìgùn mẹ́ta sì ní gíga rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìdí ogún náà"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "àwọn ìdí ogún náà"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "fádàkà"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ẹ̀wà àmù mẹ́rin"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ìgùn"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ìgùn ìdí ogún"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ìdí ogún kan"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ẹ̀wà àmù mẹ́rin"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ìgùn"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ìfara rẹ̀"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ẹ̀wà àmù mẹ́ta"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ìgùn"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "gíga rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:14:09.467311977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àwọn ọ̀pọ̀lọ́pọ̀ ń wí pé, “Ta ni yóò fi rere hàn wá?” Yahweh, gbé ìmọ́lẹ̀ ojú Rẹ sórí wa.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Àwọn ọ̀pọ̀lọ́pọ̀"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ń wí pé"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ta ni"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "yóò fi … hàn wá"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "gbé … sórí"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìmọ́lẹ̀"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú Rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:34.389750877Z",
+  "model": "glm-5.3"
+}

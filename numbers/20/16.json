@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 20:16",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "A sì ké sí Yahweh, ó sì gbọ́ ohùn wa, ó sì rán òṣẹ́ kan, ó sì mú a jáde kúrò ní Egipti; kíyèsi, ìwọ wa ní Kadesh, ìlú ní etí àlà rẹ.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "a sì ké sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ó sì gbọ́"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "ohùn wa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì rán"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "òṣẹ́ kan"
+    },
+    {
+      "surface": "ויצאנו",
+      "gloss": "ó sì mú a jáde"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kúrò ní Egipti"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kíyèsi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ìwọ wa"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ní Kadesh"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ní etí"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "àlà rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:58:39.915868625Z",
+  "model": "glm-5.3"
+}

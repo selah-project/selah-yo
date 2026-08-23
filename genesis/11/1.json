@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó sì jẹ́ pé gbogbo ayé jẹ́ èdè kan, àti ọ̀rọ̀ kan náà.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì jẹ́ pé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "èdè"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "àti ọ̀rọ̀"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "kan náà"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:59.858744613Z",
+  "model": "glm-5.3"
+}

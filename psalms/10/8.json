@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó jókòó nínú ìpamọ́ àwọn abála-ìlú; nínú ibi ìpamọ́ ni ó ń pa ènìyàn aláìṣẹ̀ kọ̀; ojú rẹ̀ ń ṣọ́jú àwọn aláìní láìsì ìmọ̀lẹ̀.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ó jókòó"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "nínú ìpamọ́"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "àwọn abála-ìlú"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "nínú ibi ìpamọ́"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ó ń pa…kọ̀"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ènìyàn aláìṣẹ̀"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "àwọn aláìní"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "ń ṣọ́jú…láìsì ìmọ̀lẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:27.750643234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Ẹ dupe fún Yahweh, nítorí pé ⟨Ó⟩ dára; nítorí pé ìfẹ́ olóòtítọ́ rẹ̀ máa ń wà tí ìgbà gbogbo.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Ẹ dupe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tí ìgbà gbogbo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:12.047638484Z",
+  "model": "glm-5.3"
+}

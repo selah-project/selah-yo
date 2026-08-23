@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Bákan náà, o ti yí ìró idà rẹ̀ padà, àti pé o kò gbé e dúró nínú ogun.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Bákan náà"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "o ti yí… padà"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ìró"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "idà rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti pé o kò"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "gbé e dúró"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "nínú ogun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:09.958614974Z",
+  "model": "glm-5.3"
+}

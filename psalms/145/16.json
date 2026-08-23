@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Ìwọ ń ṣí ⟨את⟩ ọwọ́ rẹ, ìwọ sì ń tí gbogbo ohun alàyè lássọ lénu pẹ̀lú ìfẹ́ rere.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "ń ṣí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "ìwọ sì ń tí… lénu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ohun alàyè"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "pẹ̀lú ìfẹ́ rere"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:15.142307313Z",
+  "model": "glm-5.3"
+}

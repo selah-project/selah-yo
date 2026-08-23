@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Nítorí Yahweh rí ⟨את⟩ ìnira Yisraeli, tí ó le gan-an; kò sí ènìyàn tí ó pa mọ́, kò sì ẹni tí a fi sílẹ̀, kò sì aláraànú kan fún Yisraeli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìnira"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ìnira"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "tí ó le gan-an"
+    },
+    {
+      "surface": "מאד",
+      "gloss": ""
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "ènìyàn tí ó pa mọ́"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "ẹni tí a fi sílẹ̀"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "aláraànú kan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fún Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-23T01:32:33.585079587Z",
+  "model": "glm-5.3"
+}

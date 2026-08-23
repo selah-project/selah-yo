@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 113,
+  "translation": "Láti ìhín oòrùn dé ìwọ̀ rẹ̀, orúkọ Yahweh ni a ń yin.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "láti ìhín"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "oòrùn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dédé"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "ìwọ̀ rẹ̀"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "a ń yin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:53.027209734Z",
+  "model": "glm-5.3"
+}

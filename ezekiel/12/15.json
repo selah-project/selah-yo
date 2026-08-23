@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Kí wọn tó mọ̀ pé èmi ni Yahweh, nígbà tí mo bá sọ ⟨את⟩ wọn sínu àwọn orílẹ̀-èdè, kí èmi tó tà ⟨את⟩ wọn ká sí àwọn ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "kí wọn tó mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "nígbà tí mo bá sọ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sínu àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "kí èmi tó tà wọn ká"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ilẹ̀"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ká sí àwọn ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:00:10.840648083Z",
+  "model": "glm-5.3"
+}

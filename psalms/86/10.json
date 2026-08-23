@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 86,
+  "translation": "Nítorí ìwọ ⟨bụ́⟩ ńlá, ó sì máa ń ṣe ⟨àwọn⟩ ìṣẹ́ ìyanu; ìwọ ni Elohim nìkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ó sì máa ń ṣe"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ìṣẹ́ ìyanu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "nìkan"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:42.440939907Z",
+  "model": "glm-5.3"
+}

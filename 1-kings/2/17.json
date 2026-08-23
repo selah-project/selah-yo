@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó wí pé: Sọ fún Shelomoh ọba, jọwọ, nítorí pé ó kì í yọ ⟨את⟩ ojú rẹ padà; kí ó sì fún mi ní ⟨את⟩ Avishag ará Shunem ní aya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó wí pé"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Sọ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọwọ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "fún Shelomoh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "yọ padà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú rẹ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kí ó sì fún"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi ní"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag ará Shunem"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "ará Shunem"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ní aya"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:40.436916962Z",
+  "model": "glm-5.3"
+}

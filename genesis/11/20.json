@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Èdùnmárò ayé Reu jẹ́ ọ̀kàndínlógojì ọdún; ó sì bí ⟨את⟩ Serug.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ó ṣe àyẹ̀wò ayé — ṣàṣẹ́lẹ̀"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "èjì"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "àti ọgbọ̀n"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨⟨את⟩⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:25.339042898Z",
+  "model": "glm-5.3"
+}

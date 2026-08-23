@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àwọn ọmọ Merari, nípa ìdílé wọn, nípa ilé àwọn baba wọn, ni iwọ gbọdọ̀ ka wọn ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nípa ìdílé wọn"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nípa ilé"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "iwọ gbọdọ̀ ka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:50:05.332456190Z",
+  "model": "glm-5.3"
+}

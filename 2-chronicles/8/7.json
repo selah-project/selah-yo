@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Gbogbo ènìyàn tí ó ṣẹ́ku lára àwọn Chiti, àti àwọn Emori, àti àwọn Perizi, àti àwọn Chivi, àti àwọn Yevusi, tí wọn kì í ṣe ti Yisrael wọn",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "tí ó ṣẹ́ku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lára"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "àwọn Chiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "àti àwọn Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "àti àwọn Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "àti àwọn Chivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "àti àwọn Yevusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:27:24.867649374Z",
+  "model": "glm-5.3"
+}

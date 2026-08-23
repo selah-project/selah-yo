@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Elohim wa ó ń bọ̀, kì yóò ṣe tẹ́ mọ́lẹ̀; iná ń jẹ níwájú rẹ̀, ìjì ń ru lálẹ́ẹ̀-lára rẹ̀ púpọ̀.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "ó ń bọ̀"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kì ó má"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ṣe tẹ́ mọ́lẹ̀"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "níwájú rẹ̀"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ń jẹ"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "lálẹ́ẹ̀-lára rẹ̀"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "ìjì ń ru"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:22.092731861Z",
+  "model": "glm-5.3"
+}

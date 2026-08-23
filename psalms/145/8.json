@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Yahweh jẹ́ ọ̀ṣẹ́-àánú, aláàánú, ìkórira rẹ̀ gidigidi, àti ìfẹ́ olóòtítọ́ ti májẹ̀mú tó tóbi.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "ọ̀ṣẹ́-àánú"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "aláàánú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ìkórira rẹ̀ gidigidi"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ìmú (bínú)"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "àti tó tóbi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ìfẹ́ olóòtítọ́ ti májẹ̀mú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:02.630674434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Òrọ̀ Yahweh sì dé ọ̀dọ̀ Yonah ní ìgbà kẹjì, wípé,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sì dé"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Òrọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ọ̀dọ̀"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ní ìgbà kẹjì"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wípé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:09:29.804746107Z",
+  "model": "glm-5.3"
+}

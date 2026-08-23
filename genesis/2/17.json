@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ṣùgbọ́n nípa igi ìmọ̀ rere àti búburú, kì í ṣe gbọ́dọ̀ jẹ ọ́ lára rẹ̀; nítorí ní ọjọ́ tí o bá jẹ ọ́ lára rẹ̀, iku ni o gbọ́dọ̀ kú lọ́dọ̀ ikú.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "ṣùgbọ́n nípa igi"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "ìmọ̀"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "àti búburú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "gbọ́dọ̀ jẹ ọ́"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "lára rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "tó o bá jẹ ọ́"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "lára rẹ̀"
+    },
+    {
+      "surface": "מות",
+      "gloss": "iku ni"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ó gbọ́dọ̀ kú lọ́dọ̀ ikú"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:19.287750211Z",
+  "model": "glm-5.3"
+}

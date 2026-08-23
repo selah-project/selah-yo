@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 35:16",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Iyov sì ń ṣí ẹnu rẹ̀ sí ìṣọfọ̀; láì ní ìmọ̀, ó ṣe ọ̀rọ̀ púpọ̀.",
+  "tokens": [
+    {
+      "surface": "ואיוב",
+      "gloss": "Iyov sì"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ìṣọfọ̀"
+    },
+    {
+      "surface": "יפצה",
+      "gloss": "ń ṣí sí"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ẹnu rẹ̀"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "láì ní"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ìmọ̀"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יכבר",
+      "gloss": "ó ṣe púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:28:22.494599727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Ìwọ̀úsà ní èmi wà pẹ̀lú Rẹ, Ìwọ gbà mí ní ọwọ́ ọ̀tún mi",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ní ìgbà gbogbo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pẹ̀lú Rẹ"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "Ìwọ gbà (mí)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ní ọwọ́"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ọ̀tún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:28.422979008Z",
+  "model": "glm-5.3"
+}

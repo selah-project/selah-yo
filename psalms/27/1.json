@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ti David. Yahweh, imọlẹ mi àti ìgbàlà mi — táani ló lè jẹ́ kí n bẹ̀rù? Yahweh, ìdábòkè ayé mi — táani ló lè jẹ́ kí n pagbẹ̀rù?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ti David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "imọlẹ mi"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "àti ìgbàlà mi"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "táani"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "kí n bẹ̀rù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ìdábòkè"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ayé mi"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "táani"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "kí n pagbẹ̀rù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:45.187567823Z",
+  "model": "glm-5.3"
+}

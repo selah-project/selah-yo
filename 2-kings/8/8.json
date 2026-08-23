@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ọba naà sì wí sí Chazael pé: Mu ẹ̀bùn nínú ọwọ́ rẹ, sì lọ láti pàdé ọkùnrin Elohim, sì béèrè ⟨את⟩ Yahweh ⟨את⟩ lọ́dọ̀ rẹ̀ wí pé: Ṣé èmi máa yọ kúrò nínú àìsàn yìí?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba naà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Mu"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nínú ọwọ́ rẹ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ẹ̀bùn"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "sì lọ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "láti pàdé"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "sì béèrè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ lọ́dọ̀ rẹ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "Ṣé èmi máa yọ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "kúrò nínú àìsàn"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:31:05.132705373Z",
+  "model": "glm-5.3"
+}

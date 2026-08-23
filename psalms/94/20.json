@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "Ṣé àjọṣe pọ̀ tì ọ gbé wà yóò sàmọ́ ọ, àga-ìjọba tí ó ń dá wàhálà, tí ó ń ṣe ìṣekúṣe lábé òfin?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "Ṣé àjọṣe pọ̀ tì ọ gbé wà"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "àga-ìjọba"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "tí ó ń dá wàhálà"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "tí ó ń ṣe ìṣekúṣe"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ìṣekúṣe \/ wàhálà"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lábé"
+    },
+    {
+      "surface": "חק",
+      "gloss": "òfin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:07.838264821Z",
+  "model": "glm-5.3"
+}

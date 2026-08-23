@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn Tsidoni ń pè Hermon ní Sirion, àti àwọn Amori ń pè é ní Shenir.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "Àwọn Tsidoni"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ń pè"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "Hermon ní"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Sirion"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "àti àwọn Amori"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ń pè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "é ní"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Shenir"
+    }
+  ],
+  "timestamp": "2026-08-23T05:45:03.135965560Z",
+  "model": "glm-5.3"
+}

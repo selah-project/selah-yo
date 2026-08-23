@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Àwọn ọba Tarshish àti àwọn èrè òkun yóò gbé ìfọ̀kanjẹ padà wá; àwọn ọba Sheba àti Seba yóò mú ẹ̀bùn owó wá.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "àti àwọn èrè òkun"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ìfọ̀kanjẹ (ìsanjà owó)"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "yóò gbé ... padà wá"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "àti Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "ẹ̀bùn owó"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "yóò mú ... wá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:56.746110348Z",
+  "model": "glm-5.3"
+}

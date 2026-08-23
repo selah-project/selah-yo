@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Rechavam sì lọ sí Shekhem, nítorí ní Shekhem ni gbogbo Yisrael ti wá láti fi jẹ́ ọba ⟨את⟩ ọn.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "sì lọ sí"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ti wá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "láti fi jẹ́ ọba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ọn",
+      "marks": "ọn ( Rechavam)"
+    }
+  ],
+  "timestamp": "2026-08-23T01:19:30.398710262Z",
+  "model": "glm-5.3"
+}

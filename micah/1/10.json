@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ní Gat kì ẹ ṣẹ̀rí; kì ẹ sọ́kún; ní Beit-LeAfra, mi ara mi nínú erùpẹ̀.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "ní Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kì ẹ ṣe"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ṣẹ̀rí"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "kì ẹ sọ́kún"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kì ẹ ṣe"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "sọ́kún"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "LeAfra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "erùpẹ̀"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "mi ara mi nínú (erùpẹ̀)"
+    }
+  ],
+  "timestamp": "2026-08-23T03:10:08.790191308Z",
+  "model": "glm-5.3"
+}

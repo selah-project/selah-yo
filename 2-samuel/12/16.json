@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Dawidu béèrè ⟨את⟩ Elohim nítorí ọmọ náà; Dawidu gbé àwẹ̀, ó wọlé, ó sun ibẹ̀, ó fora sílẹ̀ ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "ó béèrè"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ọmọ náà"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "ó gbé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidu"
+    },
+    {
+      "surface": "צום",
+      "gloss": "àwẹ̀"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ó wọlé"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "ó sun ibẹ̀"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ó fora sílẹ̀"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:31.755216679Z",
+  "model": "glm-5.3"
+}

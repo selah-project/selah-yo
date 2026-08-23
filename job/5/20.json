@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Nínú ebi, ó rà ọ́ padà nínu ikú; nínú ogun sì, lọ́wọ́ idà.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "nínú ebi"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "ó rà ọ́ padà"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "nínu ikú"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "àti nínú ogun"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:16:51.893202516Z",
+  "model": "glm-5.3"
+}

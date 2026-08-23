@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ṣùgbọ́n ẹnikẹ́ni, má ṣe bá ẹlòmíràn jà, má ṣe tọ́ ẹlòmíràn ní ìdájọ́; nítorí ìjọ rẹ dà bí àwọn tí wọ́n ń bá adóhùn-ìjọgbàn jà.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ṣùgbọ́n\/dájúdájú"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnikẹ́ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "jà"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti má ṣe"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "tọ́ ní ìdájọ́"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹlòmíràn"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "àti ìjọ rẹ"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "dà bí àwọn tí wọ́n ń jà"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "adóhùn-ìjọgbàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:01:15.525190261Z",
+  "model": "glm-5.3"
+}

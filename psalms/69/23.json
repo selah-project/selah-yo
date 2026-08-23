@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Ki tábìli wọn di ìdìní níwájú wọn, kí ó sì di ọ̀nà-mọ́lé fún ìrọ̀rùn wọn.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ki ó di"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "tábìli wọn"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "níwájú wọn"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "ìdìní"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "kí ó sì fún ìrọ̀rùn wọn"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "di ọ̀nà-mọ́lé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:33.965518034Z",
+  "model": "glm-5.3"
+}

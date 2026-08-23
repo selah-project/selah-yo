@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 4:10",
+  "book": "nehemiah",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì ṣẹlẹ̀ láti ọjọ́ yẹn lọ, ìdá àwọn ọ̀dọ́ mi ń ṣiṣẹ́ iṣẹ́ náà, ìdá wọn sì ń mú ohun ìjà — àwọn ọ̀dà, àwọn ààbò, àwọn ọ̀fà àti àwọn aṣọ-ìjà — àwọn olórí sì wà lẹ́yìn gbogbo ilé Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ìdá"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "àwọn ọ̀dọ́ mi"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ń ṣiṣẹ́"
+    },
+    {
+      "surface": "במלאכה",
+      "gloss": "iṣẹ́ náà"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ìdá wọn sì"
+    },
+    {
+      "surface": "מחזיקים",
+      "gloss": "ń mú ohun ìjà"
+    },
+    {
+      "surface": "והרמחים",
+      "gloss": "àwọn ọ̀dà"
+    },
+    {
+      "surface": "המגנים",
+      "gloss": "àwọn ààbò"
+    },
+    {
+      "surface": "והקשתות",
+      "gloss": "àwọn ọ̀fà"
+    },
+    {
+      "surface": "והשרינים",
+      "gloss": "àwọn aṣọ-ìjà"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-23T05:02:07.054240449Z",
+  "model": "glm-5.3"
+}

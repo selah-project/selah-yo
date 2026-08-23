@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ṣùgbọ́n bí wọ́n ṣe ń fi ẹ̀rù jẹ́ wọ́n, bẹ́ẹ̀ ni wọ́n ń pọ̀ sí i, bẹ́ẹ̀ ni wọ́n sì ń túká kaakiri; wọ́n sì bínú sílẹ̀ nítorí àwọn ọmọ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Ṣùgbọ́n bí wọ́n ṣe"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ń fi ẹ̀rù jẹ́ wọ́n"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "bẹ́ẹ̀ ni wọ́n ń pọ̀ sí i"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "wọ́n ń pọ̀ sí i"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "bẹ́ẹ̀ ni wọ́n sì"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "ń túká kaakiri"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "wọ́n sì bínú sílẹ̀"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:34.198961718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Jordani náà sì ni ó ń pa ⟨את⟩ ó mọ́ ẹnu-ààlà ìlà-oòrùn — èyí ni ètí-òmìnira àwọn ọmọ Binyamin, ní ìkànnì ààlà rẹ̀ káàkiri, fún àwọn ẹbí wọn.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Jordani náà sì ni"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "ó ń pa mọ́"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ó (ilẹ̀ Binyamin)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ẹnu-ààlà"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ìlà-oòrùn"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí ni"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ètí-òmìnira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "ní ìkànnì ààlà rẹ̀"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "káàkiri"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "fún àwọn ẹbí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:28:54.932651818Z",
+  "model": "glm-5.3"
+}

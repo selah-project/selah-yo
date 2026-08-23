@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Yahweh Elohim mi, bí mo bá ṣe nǹkan yìí, bí aṣiṣe bá wà ní ọwọ́ mi;",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mo bá ṣe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nǹkan yìí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bá wà"
+    },
+    {
+      "surface": "עול",
+      "gloss": "aṣiṣe"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "ní ọwọ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:41.706369931Z",
+  "model": "glm-5.3"
+}

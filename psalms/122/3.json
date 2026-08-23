@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 122,
+  "translation": "Yerushalayim, èyí tí a kọ́, bí ìlú tí a so pọ̀ fúnra rẹ̀ ní àjọṣepọ̀.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "èyí tí a kọ́"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "bí ìlú"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "tí a so pọ̀ fúnra rẹ̀"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fúnra rẹ̀"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ní àjọṣepọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:30.843129762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Láti ilẹ̀ yìí ni Ashur jáde, ó sì kọ́ ⟨את⟩ Ninwe, àti ⟨את⟩ Rechovot-Ir, àti ⟨את⟩ Kalach.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Láti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "jáde"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ó sì kọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninwe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Rechovot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rechovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Kalach"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:19.675913892Z",
+  "model": "glm-5.3"
+}

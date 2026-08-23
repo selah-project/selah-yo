@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ẹ má ṣe yípadà sí àwọn òrìṣà òfo, kí ẹ sì má ṣe ṣe àwọn Elohim irin-wú fún ara yín; èmi ni Yahweh, Elohim yín.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "yípadà sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "àwọn òrìṣà òfo"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "àwọn Elohim"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "irin-wú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kí ẹ sì má ṣe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún ara yín"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:51.591900723Z",
+  "model": "glm-5.3"
+}

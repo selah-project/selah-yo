@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 88:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "O ti fi ẹni tí ó fẹ́ mi àti ẹ̀gbọ́n ọrẹ́ síṣẹ̀ jinlẹ̀ kúrò lọ́dọ̀ mi; ìkọ̀kọ̀ mi ni òkùnkùn.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "o ti fi jinlẹ̀ síṣẹ̀"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kúrò lọ́dọ̀ mi"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ẹni tí ó fẹ́ mi"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "àti ẹ̀gbọ́n ọrẹ́"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "àwọn ìmọ̀lọ́rùn mi"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "òkùnkùn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:10.609215793Z",
+  "model": "glm-5.3"
+}

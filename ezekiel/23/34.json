@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 23:34",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ìwọ yóò mu ⟨את⟩ ú, yóò sì mọ́ ọ́ lẹ́ẹ̀kọ̀ọ̀kan; ìwọ yóò sì wọ́ ⟨את⟩ àwọn ìdánimọ̀ rẹ̀ fàáyè, yóò sì fà àwọn ọmú rẹ já. Nítorí èmi bá sọ ọ́, ni Adonai Yahweh wí.",
+  "tokens": [
+    {
+      "surface": "ושתית",
+      "gloss": "yóò sì mu ú"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ú",
+      "marks": "yóò mu ú"
+    },
+    {
+      "surface": "ומצית",
+      "gloss": "yóò sì mọ́ ọ́ lẹ́ẹ̀kọ̀ọ̀kan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìdánimọ̀ rẹ"
+    },
+    {
+      "surface": "חרשיה",
+      "gloss": "àwọn ìdánimọ̀ rẹ"
+    },
+    {
+      "surface": "תגרמי",
+      "gloss": "yóò sì wọ́ fàáyè"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "àwọn ọmú rẹ"
+    },
+    {
+      "surface": "תנתקי",
+      "gloss": "yóò sì fà já"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "bá sọ ọ́"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ní wí"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T02:45:12.970910164Z",
+  "model": "glm-5.3"
+}

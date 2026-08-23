@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ẹ̀wọ̀n kan ni ìpari rẹ̀, ati ẹ̀wọ̀n kan ni fífẹ̀ rẹ̀; ó máa jẹ́ onígun mẹ́rin; ati ẹ̀wọ̀n méjì ni gíga rẹ̀; àwọn ìbọ́ rẹ̀ sì máa jáde láti inú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "ẹ̀wọ̀n kan"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ìpari rẹ̀"
+    },
+    {
+      "surface": "vàאמה",
+      "gloss": "ati ẹ̀wọ̀n kan"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "fífẹ̀ rẹ̀"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "onígun mẹ́rin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ó máa jẹ́"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "ati ẹ̀wọ̀n méjì"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "gíga rẹ̀"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "láti inú rẹ̀"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "àwọn ìbọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:28:24.008469544Z",
+  "model": "glm-5.3"
+}

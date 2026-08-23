@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn ọmọ Yisraẹl sì ṣe ⟨את⟩ búburú ní ojú Yahweh, wọ́n sì gbàgbé ⟨את⟩ Yahweh, Elohim wọn, wọ́n sì sìn ⟨את⟩ àwọn Baal àti ⟨את⟩ àwọn Ashera.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "búburú"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "wọ́n sì gbàgbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wọn"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "wọ́n sì sìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "àwọn Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn Ashera"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "àwọn Ashera"
+    }
+  ],
+  "timestamp": "2026-08-23T00:32:38.943041673Z",
+  "model": "glm-5.3"
+}

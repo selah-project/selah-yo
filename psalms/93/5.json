@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 93,
+  "translation": "Àwọn ẹ̀rí rẹ ṣeé gbọ́kẹ̀ púpọ̀; mímọ́ ni ó tó yẹ sí ilé rẹ, Yahweh, fún ìgbà ọjọ́ pípẹ́.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "Àwọn ẹ̀rí rẹ"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "ṣeé gbọ́kẹ̀"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "sí ilé rẹ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "tó yẹ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "fún ìgbà pípẹ́"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:54.471283611Z",
+  "model": "glm-5.3"
+}

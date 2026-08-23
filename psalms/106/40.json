@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Ìbínú Yahweh sì kún lórí ènìyàn rẹ̀, ó sì kórìíra ⟨את⟩ àyàn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "sì kún (bínú)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ìbínú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "lórí ènìyàn rẹ̀"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "ó sì kórìíra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àyàn rẹ̀"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "àyàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:08.994954810Z",
+  "model": "glm-5.3"
+}

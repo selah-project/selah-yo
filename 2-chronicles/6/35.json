@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ìwọ sì gbọ́ láti ọ̀run ⟨את⟩ adúrà wọn àti ⟨את⟩ ìbẹ̀rẹ̀-pẹpẹ̀ wọn, ìwọ sì ṣe ètò-ìdájọ́ wọn.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Ìwọ sì gbọ́"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adúrà wọn"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "adúrà wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìbẹ̀rẹ̀-pẹpẹ̀ wọn"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ìbẹ̀rẹ̀-pẹpẹ̀ wọn"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ìwọ sì ṣe"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ètò-ìdájọ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:24:02.800692688Z",
+  "model": "glm-5.3"
+}

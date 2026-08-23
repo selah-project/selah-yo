@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Ẹ dupe fún Yahweh, nítorí pé ⟨ó⟩ dára, nítorí pé ìfẹ́ olóòtítọ́ rẹ̀ dúró títí láéláé.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "ẹ dupe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láéláé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:38.400462488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ó sì fọ́ ⟨את⟩ àwọn òpó ìjọ́mímọ́, gé ⟨את⟩ àwọn igi Asherah, ó sì kún ⟨את⟩ àwọn ibi wọn pẹ̀lú egungun ènìyàn.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "ó sì fọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òpó ìjọ́mímọ́"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "àwọn òpó ìjọ́mímọ́"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ó gé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn igi Asherah"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "àwọn igi Asherah"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ó sì kún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ibi wọn"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "àwọn ibi wọn"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "egungun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:38:45.138470106Z",
+  "model": "glm-5.3"
+}

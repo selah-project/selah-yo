@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 93,
+  "translation": "Lọ́rùn omi púpọ̀ àti ìkọ̀ ìjọ òkun tí ó lagbara púpọ̀, Yahweh tí ó wà ní òkè lágbedeomeji ni ó jẹ́ ẹni tí ó lágbára jù lọ.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "lọ́rùn"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "tí ó lagbara púpọ̀"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "ìkọ̀ ìjọ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "òkun"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ẹni tí ó lágbára jù lọ"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "ní òkè lágbedeomeji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:55.542810626Z",
+  "model": "glm-5.3"
+}

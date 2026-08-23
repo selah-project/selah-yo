@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Ìwọ ni ó mú ìyàsẹ́tí lágbára rẹ tú ókun nù; ìwọ fọ́ orí àwọn tannin sí lórí omi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ìwọ"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "ni ó mú ìyàsẹ́tí… tú nù"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "lágbára rẹ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ókun"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ìwọ fọ́"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "orí"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "àwọn tannin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí lórí"
+    },
+    {
+      "surface": "המים",
+      "gloss": "omi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:27.412452Z",
+  "model": "glm-5.3"
+}

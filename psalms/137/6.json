@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 137,
+  "translation": "Kí ahọ́n mi lẹ̀ mọ́ ọ̀run ẹnu mi, tí bá ó jẹ́ pé mo kò rántí ọ́, tí bá ó jẹ́ pé mo kò gbé ⟨את⟩ Yerushalayim sókè lórí ayọ̀ mi tí ó tóbi jù.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "kí ó lẹ̀ mọ́"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ahọ́n mi"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ọ̀run ẹnu mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí bá ó jẹ́ pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "mo rántí ọ́"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí bá ó jẹ́ pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mo gbé sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "ayọ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:08.378943880Z",
+  "model": "glm-5.3"
+}

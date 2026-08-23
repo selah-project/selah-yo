@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ẹ kígoro ayọ̀, ẹni-tó-tọ́, ní Yahweh; fún àwọn ènìyàn tó tọ́níwọ̀nsí, ìyìn ló yẹ.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "Ẹ kígoro ayọ̀"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ẹni-tó-tọ́"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ní Yahweh"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "fún àwọn ènìyàn tó tọ́níwọ̀nsí"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ló yẹ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ìyìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:06.604033340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Nítorí náà, ìgára jẹ́ ilẹ̀kẹ̀ ní ìbùsún wọn; aṣọ ìpalára gbé wọn sójú.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "ó fi ilẹ̀kẹ̀ sí ìbùsún wọn"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ìgára"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "ó gbé (aṣọ) pamọ́"
+    },
+    {
+      "surface": "שית",
+      "gloss": "aṣọ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìpalára"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:41.032119937Z",
+  "model": "glm-5.3"
+}

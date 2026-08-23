@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 19:5",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ẹni tí ó bá lọ ⟨את⟩ sókè pẹ̀lú ọ̀rẹ̀ rẹ̀ sínú igbó láti gé igi, tí ọwọ́ rẹ̀ bá sì rù bọ̀ pẹ̀lú àpáta láti gé ⟨את⟩ igi naa, tí irin naa bá sì yè kúrò nínú igi naa, ó sì bá ⟨את⟩ ọ̀rẹ̀ rẹ̀ lọ, ó sì kú — ẹni náà ni yóò sá sí ọ̀kan nínú àwọn ìlú wọnyí, ó sì yè.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ló"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ sókè pẹ̀lú",
+      "marks": "ọ̀rẹ̀ rẹ̀"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ọ̀rẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "sínú igbó"
+    },
+    {
+      "surface": "לחטב",
+      "gloss": "láti gé"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "igi"
+    },
+    {
+      "surface": "ונדחה",
+      "gloss": "tí ó bá rù"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "בגרזן",
+      "gloss": "pẹ̀lú àpáta"
+    },
+    {
+      "surface": "לכרת",
+      "gloss": "láti gé"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igi naa"
+    },
+    {
+      "surface": "ונשל",
+      "gloss": "tí ó yè kúrò"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "irin naa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igi naa"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "ó sì bá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rẹ̀ rẹ̀"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ọ̀rẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ó sì kú"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ẹni náà"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "yóò sá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ó sì yè"
+    }
+  ],
+  "timestamp": "2026-08-23T00:15:50.168410715Z",
+  "model": "glm-5.3"
+}

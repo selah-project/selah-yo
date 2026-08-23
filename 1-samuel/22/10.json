@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ó sì béèrè ìbéèrè fún un nípasẹ̀ Yahweh, ó sì fún un lóúnjẹ, ó sì sì fún un ni ⟨את⟩ idà Golyat ará Filistia.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "sì béèrè ìbéèrè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nípasẹ̀ Yahweh"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "lóúnjẹ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ó fún"
+    },
+    {
+      "surface": "לו",
+      "gloss": "un"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "idà Golyat ará Filistia"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idà"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ará Filistia"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ó fún"
+    },
+    {
+      "surface": "לו",
+      "gloss": "un"
+    }
+  ],
+  "timestamp": "2026-08-23T00:52:58.236014774Z",
+  "model": "glm-5.3"
+}

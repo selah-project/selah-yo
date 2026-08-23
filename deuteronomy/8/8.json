@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "ilẹ̀ wúràtì àti ọkà-bàbà, ọ̀gẹǹgẹn àti igi ǹnàkí àti rómù; ilẹ̀ ólífì-epo àti oyin.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "wúràtì"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "àti ọkà-bàbà"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "àti ọ̀gẹǹgẹn"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "àti igi ǹnàkí"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "àti rómù"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ólífì"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "àti oyin"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:20.465339167Z",
+  "model": "glm-5.3"
+}

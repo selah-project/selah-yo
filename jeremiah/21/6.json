@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Èmi óò lu ⟨את⟩ àwọn olùgbé ìlú yìí, àti ⟨את⟩ ènìyàn, àti ⟨את⟩ ẹranko; nípa ààrùn tó tóbọ́ ni wọn yóò kú.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "Èmi óò lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn olùgbé ìlú yìí"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "àwọn olùgbé"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ènìyàn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹranko"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nípa ààrùn"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tó tóbọ́"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ni wọn yóò kú"
+    }
+  ],
+  "timestamp": "2026-08-23T02:17:03.589414518Z",
+  "model": "glm-5.3"
+}

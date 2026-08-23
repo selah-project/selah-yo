@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àti àádọ́tún yóò mú ọn wá sí ọ̀dọ̀ pẹpẹ, ó sì pín ⟨את⟩ orí rẹ̀ kúrò, ó sì fi jẹ iná lórí pẹpẹ; èjìò rẹ̀ sì ni a óò tú síta lórí etí pẹpẹ.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "yóò mú ọn wá"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àádọ́tún"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ó pín … kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orí rẹ̀"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "orí rẹ̀"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ó fi jẹ iná"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lórí pẹpẹ"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "a óò tú síta"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "èjìò rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "etí"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:34.006062905Z",
+  "model": "glm-5.3"
+}

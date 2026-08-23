@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ìwọ sì rántí pé ìwọ jẹ́ ẹrú ní Mísraim; ìwọ sì ṣọ́ àwọn òfin wọnyí kí ìwọ sì ṣe ⟨את⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Ìwọ sì rántí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ẹrú"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ìwọ jẹ́"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ní Mísraim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ìwọ sì ṣọ́"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kí ìwọ sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òfin wọnyí"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "àwọn òfin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:12:41.799230537Z",
+  "model": "glm-5.3"
+}

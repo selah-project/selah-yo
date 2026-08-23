@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 19:16",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Yahweh, fi etí rẹ tẹ̀, gbọ́; Yahweh, ṣí ojú rẹ sílẹ̀, wò ó; sì gbọ́ ⟨את⟩ ọ̀rọ̀ Sancherib, èyí tí ó rán án láti pa Ọlọ́hun-alààyè lẹ́bi.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "fi etí rẹ tẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "etí rẹ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ṣí sílẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "sì gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ Sancherib"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ó rán án"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "láti pa lẹ́bi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Ọlọ́hun"
+    },
+    {
+      "surface": "חי",
+      "gloss": "alààyè"
+    }
+  ],
+  "timestamp": "2026-08-23T01:35:18.431372016Z",
+  "model": "glm-5.3"
+}

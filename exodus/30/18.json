@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ìwọ sì ó ṣe kíyyọ́rà tí a fiǹdánù ṣe, àti ìdí rẹ̀ tí a fiǹdánù ṣe, fún ìwẹ̀; ìwọ sì ó gbé ⟨את⟩ e sí àárín ⟨ì⟩ aṣọ ìpàdé àti àárín pẹpẹ yìnbọ́ náà, ìwọ sì ó fi omi sí ibẹ̀.",
+  "tokens": [
+    {
+      "surface": "וְעָשִׂיתָ",
+      "gloss": "ìwọ sì ó ṣe"
+    },
+    {
+      "surface": "כִּיּוֹר",
+      "gloss": "kíyyọ́rà"
+    },
+    {
+      "surface": "נְחֹשֶׁת",
+      "gloss": "tí a fiǹdánù ṣe"
+    },
+    {
+      "surface": "וְכַנּוֹ",
+      "gloss": "àti ìdí rẹ̀"
+    },
+    {
+      "surface": "נְחֹשֶׁת",
+      "gloss": "tí a fiǹdánù ṣe"
+    },
+    {
+      "surface": "לְרָחְצָה",
+      "gloss": "fún ìwẹ̀"
+    },
+    {
+      "surface": "וְנָתַתָּ",
+      "gloss": "ìwọ sì ó gbé e"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩ e",
+      "marks": "e (kíyyọ́rà)"
+    },
+    {
+      "surface": "בֵּין",
+      "gloss": "sí àárín"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "aṣọ ìpàdé"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "וּבֵין",
+      "gloss": "àti àárín"
+    },
+    {
+      "surface": "הַמִּזְבֵּחַ",
+      "gloss": "pẹpẹ yìnbọ́ náà"
+    },
+    {
+      "surface": "וְנָתַתָּ",
+      "gloss": "ìwọ sì ó fi"
+    },
+    {
+      "surface": "שָׁמָּה",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "omi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:52.822347929Z",
+  "model": "glm-5.3"
+}

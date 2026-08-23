@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "A ti ṣẹ̀, a ti ṣe ìkọ̀gbé, a ti ṣe búburú, a ti gbàgbé orí, a ti yẹra kúrò nínú àwọn àṣẹ rẹ àti nínú àwọn òdodo rẹ.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "A ti ṣẹ̀"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "a ti ṣe ìkọ̀gbé"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "a ti ṣe búburú"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "a ti gbàgbé orí"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "a ti yẹra kúrò"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "nínú àwọn àṣẹ rẹ"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "àti nínú àwọn òdodo rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:53:00.388085752Z",
+  "model": "glm-5.3"
+}

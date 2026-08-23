@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Ẹni tí a fi tara jọ làárọ̀-òró ṣe é dùn, ní ilé Elohim ni a fi rin pẹ̀lú ọ̀pọ̀ ènìyàn.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "a fi tara jọ"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "ṣe é dùn"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "làárọ̀-òró"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "a fi rin"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "pẹ̀lú ọ̀pọ̀ ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:13.947027123Z",
+  "model": "glm-5.3"
+}

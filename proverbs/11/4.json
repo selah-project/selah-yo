@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Owó kò ṣe èrè ní ọjọ́ ìbínú; ṣùgbọ́n òdodo gbà (ènìyàn) ní mí kúrò lọ́wọ́ ikú.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "ṣe èrè"
+    },
+    {
+      "surface": "הון",
+      "gloss": "owó"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ìbínú"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ṣùgbọ́n òdodo"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "gbà ní mí kúrò lọ́wọ́"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ikú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:07:09.525255802Z",
+  "model": "glm-5.3"
+}

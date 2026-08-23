@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ó sì fọ ⟨את⟩ ara rẹ̀ ní omi ní ibi mímọ́, ó sì wọ ⟨את⟩ aṣọ rẹ̀, ó sì jáde, ó sì ṣe ⟨את⟩ ẹbúnyàn rẹ̀ àti ⟨את⟩ ẹbúnyàn ìjọ náà, ó sì ṣe ìpẹ̀ ẹ̀ṣẹ̀ fún ara rẹ̀ àti fún ìjọ náà.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "ó sì fọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ara rẹ̀"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ara rẹ̀"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ní omi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ní ibi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ó sì wọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ó sì jáde"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹbúnyàn rẹ̀"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ẹbúnyàn rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹbúnyàn ìjọ náà"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ẹbúnyàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ó sì ṣe ìpẹ̀ ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "fún ara rẹ̀"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "àti fún"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:38.640716603Z",
+  "model": "glm-5.3"
+}

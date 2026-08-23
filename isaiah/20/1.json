@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ní ọdún tí Tartán dé sí Ashdod, nígbà tí Sargon, ọba Ashur, fi rán ⟨את⟩ òun, ó sì ko ogun lódì sí Ashdod, ó sì gba á ní ọwọ́.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Ní ọdún tí"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dé"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartán"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "sí Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "nígbà tí…fi rán"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Sargon"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ó sì ko ogun lódì sí"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ó sì gba á ní ọwọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:54:33.672347818Z",
+  "model": "glm-5.3"
+}

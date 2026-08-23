@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Yahweh, èéfín ti pọ̀ jọ̀wọ́ àwọn ọ̀tá mi; ọ̀pọ̀lọpọ̀ ni wọ́n ń dìde sókè lójú mi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "èéfín"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ti pọ̀ jọ̀wọ́"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọ̀pọ̀lọpọ̀"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "wọ́n ń dìde sókè"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lójú mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:05.474447622Z",
+  "model": "glm-5.3"
+}

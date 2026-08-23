@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ẹ gbẹ́kẹ̀ lé Yahweh láé láé; nítorí pé inú Yah, Yahweh, ni apáta láéláié.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Ẹ gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "láé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "láé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "inú Yah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צור",
+      "gloss": "apáta"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "láéláié"
+    }
+  ],
+  "timestamp": "2026-08-23T01:48:45.315144018Z",
+  "model": "glm-5.3"
+}

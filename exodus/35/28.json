@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Àti ⟨את⟩ àwọn épo-òórùn, àti ⟨את⟩ epo fún ìmọ́lẹ̀, àti fún epo ìmisi, àti fún kétéra àwọn èròjà.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn épo-òórùn"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "àwọn épo-òórùn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "epo"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "fún ìmọ́lẹ̀"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "àti fún epo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ìmisi"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "àti fún kétéra"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "àwọn èròjà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:23.470994594Z",
+  "model": "glm-5.3"
+}

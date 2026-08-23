@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Àti ⟨את⟩ ẹlẹ́dẹ̀, nítorí pé ó ya ìyá ẹsẹ̀, ó sì ya ìyá ẹsẹ̀ ní ìméjì, ṣùgbọ́n kì í gbé ejìná jáde; ó jẹ́ àìmọ́ fún yín.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Àti ⟨את⟩",
+      "marks": "ẹlẹ́dẹ̀"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ẹlẹ́dẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ó ya"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ìyá ẹsẹ̀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "ó sì ya … ní ìméjì"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ìyá"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ìyá ẹsẹ̀"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ṣùgbọ́n ó"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ejìná"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "ń gbé … jáde"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "àìmọ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:48.991846495Z",
+  "model": "glm-5.3"
+}

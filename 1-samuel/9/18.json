@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Shaul sún mọ́ ⟨את⟩ Shemuël ní àárín ọ̀nà-ògùn náà, ó sì wí pé: Sọ fún mi jọ̀wọ́, ibo ni ilé olúfojú náà wà?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "sún mọ́"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ní àárín"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ọ̀nà-ògùn náà"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọ̀wọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ibo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "olúfojú náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:47:27.130113540Z",
+  "model": "glm-5.3"
+}

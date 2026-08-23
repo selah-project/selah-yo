@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 39:40",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "⟨את⟩ àwọn àsìrí ọ̀gba náà, ⟨את⟩ àwọn ogún rẹ̀ àti ⟨את⟩ àwọn ìdí wọn, àti ⟨את⟩ àsìrí ọ̀nà-ọ̀ná ọ̀gba náà, ⟨את⟩ òkùn rẹ̀ àti àwọn òwú-ìmọ̀lẹ̀ rẹ̀, àti ⟨את⟩ gbogbo irinṣẹ́ iṣẹ́ Mishkan náà fún àgọ́ ìpàdé",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àsìrí ọ̀gba náà"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "àwọn àsìrí"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ọ̀gba náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ogún rẹ̀"
+    },
+    {
+      "surface": "עמדיה",
+      "gloss": "àwọn ogún rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìdí wọn"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "àwọn ìdí wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àsìrí ọ̀nà-ọ̀ná ọ̀gba náà"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "àsìrí"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "ọ̀nà-ọ̀ná"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ọ̀gba náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òkùn rẹ̀"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "òkùn rẹ̀"
+    },
+    {
+      "surface": "ויתדתיה",
+      "gloss": "àti àwọn òwú-ìmọ́lẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo irinṣẹ́ iṣẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "irinṣẹ́"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan náà"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "fún àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:51.795012280Z",
+  "model": "glm-5.3"
+}

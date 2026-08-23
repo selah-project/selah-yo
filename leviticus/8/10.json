@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Moshe sì gba ⟨את⟩ epo ìyọ̀nú náà, ó sì yọ ⟨את⟩ tábánáìkù náà nínú rẹ̀ àti ⟨את⟩ gbogbo ohun tí ó wà nínú rẹ̀; ó sì fi yọ ⟨את⟩ wọn ní mímọ́.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "epo ìyọ̀nú náà"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ìyọ̀nú náà"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ó sì yọ nínú rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tábánáìkù náà"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tábánáìkù náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ohun tí ó wà nínú rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ó wà nínú rẹ̀"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ó sì fi yọ ní mímọ́"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:55.657003069Z",
+  "model": "glm-5.3"
+}

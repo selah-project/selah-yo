@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 133,
+  "translation": "Gẹ́gẹ́ bí epo tí ó dára tí ó ń sàn lágbára sí orí, tí ó ń sọ̀kalè sí inú igbà, igbà Aharon, tí ó ń sọ̀kalè sí ẹnu aṣọ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Gẹ́gẹ́ bí epo"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "tí ó dára"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tí ó ń sàn lágbára"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí inú"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "igbà"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "igbà"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "tí ó ń sọ̀kalè"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí ẹnu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu aṣọ"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "aṣọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:25.384952221Z",
+  "model": "glm-5.3"
+}

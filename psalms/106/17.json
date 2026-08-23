@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Ilẹ̀ ṣí, ó sì gbe Dathan mì, ó sì bo ẹ̀gbẹ́ Aviram.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "ó ṣí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ó sì gbe mì"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Dathan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ó sì bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "lóri"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ẹ̀gbẹ́"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Aviram"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:14.941167459Z",
+  "model": "glm-5.3"
+}

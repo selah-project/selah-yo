@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "«Wọ inú, pa ilẹ̀kùn sílẹ̀ lẹ́yìn rẹ àti lẹ́yìn àwọn ọmọ rẹ, ki o sì sọ ọ̀rá náà kún gbogbo àwọn ohun-èlò wọ̀nyí; ẹ̀yí tí ó bá kún, ki o lé kúrò.»",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "wọ inú"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "pa sílẹ̀"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ilẹ̀kùn náà"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "lẹ́yìn rẹ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "àti lẹ́yìn"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ki o sì sọ ó kún"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "àwọn ohun-èlò"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọ̀nyí"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "àti ẹ̀yí tí ó kún"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "ki o lé kúrò"
+    }
+  ],
+  "timestamp": "2026-08-23T01:28:19.345821089Z",
+  "model": "glm-5.3"
+}

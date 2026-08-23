@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 63,
+  "translation": "Àwọn wọnyí, fún ìparun ni wọ́n ń wá okàn mi; wọ́n yóò wọ inú ìsàlẹ̀ ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "àwọn wọnyí"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "fún ìparun"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ń wá"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "okàn mi"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "yóò wọ"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "inú ìsàlẹ̀"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:17.298564057Z",
+  "model": "glm-5.3"
+}

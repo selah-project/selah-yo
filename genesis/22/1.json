@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ó sì ṣẹlẹ̀ lẹ́yìn àwọn ọ̀rọ̀ wọnyí, Elohim sì dán ⟨את⟩ Avraham wò, ó sì sọ fún un pé: Avraham! Ó sì sọ pé: Kíí, mo wà.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim sì"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "dán wò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì sọ fún un pé"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì sọ pé"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Kíí, mo wà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:02:03.266542119Z",
+  "model": "glm-5.3"
+}

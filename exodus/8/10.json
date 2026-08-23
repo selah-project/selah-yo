@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Wọ́n sì kó ⟨את⟩ wọn jọ, sí ikòó, ikòó púpọ̀; ilẹ̀ náà sì bọ́ sún.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Wọ́n sì kó wọn jọ sí"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ikòó, ikòó púpọ̀ (àwọn ọ̀pọ́lọ́ tí ó kú)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "ikòó"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "ikòó púpọ̀"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "sì bọ́ sún"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:21.405569477Z",
+  "model": "glm-5.3"
+}

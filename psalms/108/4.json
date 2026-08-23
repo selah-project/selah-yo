@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 108,
+  "translation": "Ní mo máa dúpẹ́ fún ọ láàárín àwọn ènìyàn, Yahweh; ní mo máa yín-ín fún ọ láàárín àwọn orílẹ̀-èdè.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "mo máa dúpẹ́ fún ọ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "láàárín àwọn ènìyàn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "mo máa yín-ín fún ọ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:57.690980842Z",
+  "model": "glm-5.3"
+}

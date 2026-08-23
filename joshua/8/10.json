@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Joshua sì jókọ ní ìdájí, ó sì ka àwọn ènìyàn ⟨את⟩, ó sì gbé òkè, òun àti àwọn àgbà Yisrael, níwájú àwọn ènìyàn, sí HaAi.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ó sì jókọ ní ìdájí"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Joshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ó sì ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ó sì gbé òkè"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "àti àwọn àgbà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "העי",
+      "gloss": "HaAi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:24:55.449601581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "oba Makkedah, ọ̀kan; oba Bet-El, ọ̀kan;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "oba"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makkedah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "oba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ọ̀kan"
+    }
+  ],
+  "timestamp": "2026-08-23T00:26:32.629065929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Gbọ́ ẹ̀yin ọ̀run, kí ayé sì gbọ́; nítorí Yahweh ti sọ̀rọ̀: àwọn ọmọ ni mo gbé àti mo gbé ga, ṣùgbọ́n wọ́n ṣe àìgbọràn sí mi.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ẹ̀yin ọ̀run"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "kí … sì gbọ́"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ̀rọ̀"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "mo gbé"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "mo gbé ga"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ṣùgbọ́n wọ́n"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ṣe àìgbọràn"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:16.517724805Z",
+  "model": "glm-5.3"
+}

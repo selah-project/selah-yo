@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "A ṣẹ̀ pẹ̀lú àwọn baba wa; a ṣe ìkọ̀, a ṣe búburú.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "A ṣẹ̀"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "àwọn baba wa"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "a ṣe ìkọ̀"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "a ṣe búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:45.074617337Z",
+  "model": "glm-5.3"
+}

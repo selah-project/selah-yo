@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Kí o sì fi ⟨את⟩ pẹpẹ wúrà fún èròjà sí iwájú ágbá ẹ̀rí náà, kí o sì gbé ⟨את⟩ àwẹ̀ ọ̀nà-ìwọle sílẹ̀ fún àgọ́ náà.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "kí o fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pẹpẹ wúrà"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "fún èròjà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sí iwájú"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ágbá"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ẹ̀rí náà"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "kí o sì gbé sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwẹ̀ ọ̀nà-ìwọle"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "àwẹ̀"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ọ̀nà-ìwọle"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "fún àgọ́ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:44.675415499Z",
+  "model": "glm-5.3"
+}

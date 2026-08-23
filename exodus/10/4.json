@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Nítorí pé tí o bà gbà láàyè gbé ⟨את⟩ àwọn ènìyàn mi lọ, kíyèsi i, èmí yóò mú ìkarahun wá ọ̀la sí ìlà-oòrùn ìlà-mìíràn ilẹ̀ rẹ.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí o bà"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "gbà láàyè"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "gbé… lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn mi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "àwọn ènìyàn mi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kíyèsi i, èmí"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "yóò mú… wá"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ọ̀la"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ìkarahun"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "sí ìlà-oòrùn ìlà-mìíràn ilẹ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:29.501355390Z",
+  "model": "glm-5.3"
+}

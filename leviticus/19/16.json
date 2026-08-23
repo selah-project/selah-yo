@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Má ṣe lọ káàkiri gẹ́gẹ́ bí oníròyìn-èébú nínú àwọn ènìyàn rẹ: má ṣe dúró lórí èjè ọ̀rẹ̀ rẹ: èmi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "lọ káàkiri"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "oníròyìn-èébú"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "nínú àwọn ènìyàn rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "דם",
+      "gloss": "èjè"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ọ̀rẹ̀ rẹ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:19.231195927Z",
+  "model": "glm-5.3"
+}

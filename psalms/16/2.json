@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Mo ti sọ fún Yahweh: \"Iwọ ni Adonai mi; rere mi kò sí láìsí rẹ.\"",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Mo ti sọ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Iwọ"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "rere mi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "láìsí rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:45.925435977Z",
+  "model": "glm-5.3"
+}

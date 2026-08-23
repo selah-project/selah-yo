@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àti ilẹ̀ jẹ́ òfo àti ìbú, òkùnkùn sì wà lórí ojú ijò, ẹ̀mí Elohim sì ń bò lórí ojú àwọn omi.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "àti ilẹ̀"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "òfo"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "àti ìbú"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "àti òkùnkùn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ijò"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "àti ẹ̀mí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "ń bò"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "המים",
+      "gloss": "àwọn omi"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:53.194106741Z",
+  "model": "glm-5.3"
+}

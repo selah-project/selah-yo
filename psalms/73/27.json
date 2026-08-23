@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 73:27",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Nít'óótọ́, kíyèsi i, àwọn tí ó jìnnà sí ẹ yóò parun; ìwọ ti pa gbogbo àwọn tí ó ń sẹ́pọ̀ kúrò lọ́dọ̀ rẹ run.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nít'óótọ́"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kíyèsi i"
+    },
+    {
+      "surface": "רחקיך",
+      "gloss": "àwọn tí ó jìnnà sí ẹ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "yóò parun"
+    },
+    {
+      "surface": "הצמתה",
+      "gloss": "ìwọ ti pa… run"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "àwọn tí ó ń sẹ́pọ̀"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kúrò lọ́dọ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:35.539889660Z",
+  "model": "glm-5.3"
+}

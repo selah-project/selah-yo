@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Aharon sì bẹ̀rẹ̀ sísọ ⟨את⟩ gbogbo ọ̀rọ̀ tí Yahweh ti sọ fún Moshe, ó sì ṣe àwọn ìàmì náà níwájú ojú àwọn ènìyàn náà.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sì bẹ̀rẹ̀ sísọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọ̀rọ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "àwọn ìàmì náà"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "níwájú ojú"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:06.359647857Z",
+  "model": "glm-5.3"
+}

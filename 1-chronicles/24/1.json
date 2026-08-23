@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Àwọn ìpín iṣẹ́ sí àwọn ọmọ Aharon: àwọn ọmọ Aharon — Nadab, Abihu, Elazar àti Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "sí àwọn ọmọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "àwọn ìpín iṣẹ́ wọn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "Abihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-08-23T06:13:17.878137161Z",
+  "model": "glm-5.3"
+}

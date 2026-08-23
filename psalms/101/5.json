@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 101,
+  "translation": "Ẹnití ó ń sọ ègún ní ìkọ̀kọ̀ lórí arákùnrin rẹ̀, èmí yóò mú ⟨את⟩ òun mọ́ láìnípẹ̀kun; ẹnití ó ní ojú gíga àti ọkàn tí ó gbòòrò, ⟨את⟩ òun kì í ṣe ohun tí èmí lè faradà.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "ẹnití ó ń sọ ègún"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ní ìkọ̀kọ̀"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "arákùnrin rẹ̀"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "òun"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "èmí yóò mú mọ́ láìnípẹ̀kun"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "gíga"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "àti tí ó gbòòrò"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "òun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "lè faradà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:24.771344423Z",
+  "model": "glm-5.3"
+}

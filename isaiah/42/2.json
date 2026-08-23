@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Kì í yọ àríwo, kì í sì gbé ohun ⟨rẹ̀⟩ sókè, kì í sì fi ohun rẹ̀ hàn níta ìlú.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "yọ àríwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í sì"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "gbé ohun sókè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í sì"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "fi ohun hàn"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "níta ìlú"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ohun rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:56:59.450713971Z",
+  "model": "glm-5.3"
+}

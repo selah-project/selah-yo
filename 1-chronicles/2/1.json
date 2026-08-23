@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àwọn wọnyí ni àwọn ọmọ Yisrael: Reuven, Shimon, Levi, àti Yehudah, Yissachar, àti Zevulun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Àwọn wọnyí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "àti Yehudah"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissachar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "àti Zevulun"
+    }
+  ],
+  "timestamp": "2026-08-23T05:08:19.615406319Z",
+  "model": "glm-5.3"
+}

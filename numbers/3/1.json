@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn wọnyí ni ìran Aharon àti Moshe, ní ọjọ́ tí Yahweh sọ̀rọ̀ ⟨את⟩ Moshe lórí òkè Sinai.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Àwọn wọnyí"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "àti Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́ tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "lórí òkè"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:41.216443512Z",
+  "model": "glm-5.3"
+}

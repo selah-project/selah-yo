@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ó sì ṣẹlẹ̀, nígbà tí Racheli bí ⟨את⟩ Yosefu, Yaakov sì wí fún Labani pé: Fi mí lọ, kí èmi lè lọ sí ibùgbé mi àti sí ilẹ̀ mi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "bí"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Racheli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Fi mí lọ"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "kí èmi lè lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "ibùgbé mi"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "àti sí ilẹ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:05:20.369178200Z",
+  "model": "glm-5.3"
+}

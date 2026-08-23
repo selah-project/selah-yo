@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ọ̀rọ̀ sì yá sí i láti ọ̀dọ̀ Yahweh sí Moshe, tí ó wí pé:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ọ̀rọ̀ sì yá sí i láti ọ̀dọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tí ó wí pé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:12.940399701Z",
+  "model": "glm-5.3"
+}

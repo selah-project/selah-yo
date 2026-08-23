@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "nítorí tí wọn yóò gbọ́ ⟨את⟩ orúkọ rẹ tí ó tóbi, àti ⟨את⟩ ọwọ́ rẹ tí ó lágbára, àti ẹ̀rọ́ rẹ tí ó tè síta, ó sì wá ó sì gbàdùrà sí ilé yìí,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "wọn yóò gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ rẹ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "tí ó tóbi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "tí ó lágbára"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "àti ẹ̀rọ́ rẹ"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "tí ó tè síta"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ó sì wá"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "ó sì gbàdùrà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:17:08.944245070Z",
+  "model": "glm-5.3"
+}

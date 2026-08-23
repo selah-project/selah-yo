@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Tí ẹnití ó ń kọ́ ọ́ báì bú, fún un ní oúnjẹ lájẹ; àti tí ó bá gbọ́n, fún un ní omi lámu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí ... bá"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "bú"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "ẹnití ó ń kọ́ ọ́"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "fún un ní oúnjẹ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lájẹ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "àti tí ... bá"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "gbọ́n"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "fún un ní omi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "lámu"
+    }
+  ],
+  "timestamp": "2026-08-23T04:11:38.985323758Z",
+  "model": "glm-5.3"
+}

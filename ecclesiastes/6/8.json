@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Nítorí kí ni èrè fún ọlọ́gbọ́n ju ẹ̀mí lọ? Kí ni ó wà fún àwọn tí ó mọ̀ láti lọ ṣáájú àwọn tí wọ́n wà láàyè?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "èrè (ju … lọ)"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "fún ọlọ́gbọ́n"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ju … lọ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ẹ̀da"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "fún àwọn (tí ó mọ̀)"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mọ"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "láti lọ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ṣáájú"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "àwọn tí wọ́n wà láàyè"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:22.007453537Z",
+  "model": "glm-5.3"
+}

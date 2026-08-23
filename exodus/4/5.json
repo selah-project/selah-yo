@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Kí wọn lè gba gbọ́ pé Yahweh, Elohim ti àwọn baba wọn — Elohim ti Avraham, Elohim ti Yitschak àti Elohim ti Yaakov — ti farahàn ⟨rẹ⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kí wọn lè"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "gba gbọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ti farahàn"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "àti Elohim ti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:20.329002215Z",
+  "model": "glm-5.3"
+}

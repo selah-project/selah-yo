@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ẹmi si ni mo kọ́ ilé ìgbẹ́mìgbé fún ọ̀, ibi ìgbésẹ̀ fún ìgbà gbogbo láéláé.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ẹmi si ni"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "mo kọ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "ìgbẹ́mìgbé"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ̀"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "ibi ìgbésẹ̀"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "fún ìgbésẹ̀ rẹ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ìgbà gbogbo láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T05:23:17.238776923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ẹ kì í gbọdọ̀ jẹ oúnjẹ tí ó gbé rárà; ní gbogbo àwọn ibi tí ẹ ń gbé, ẹ yóò jẹ oúnjẹ tí kò gbé.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "oúnjẹ tí ó gbé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "rárà"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ẹ kì í gbọdọ̀ jẹ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "àwọn ibi tí ẹ ń gbé"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ẹ yóò jẹ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "oúnjẹ tí kò gbé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:20:08.429673996Z",
+  "model": "glm-5.3"
+}

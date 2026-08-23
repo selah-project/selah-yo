@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ìgbà melo ni wọn fi kògọ́n Òun nínú ijọ̀lẹ̀, wọn sì ń ba Òun ní ìnira nínú ilẹ̀-òkìkí!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "ìgbà melo ni"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "wọn fi kògọ́n Òun"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nínú ijọ̀lẹ̀"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "wọn sì ń ba Òun ní ìnira"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "nínú ilẹ̀-òkìkí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:19.099533013Z",
+  "model": "glm-5.3"
+}

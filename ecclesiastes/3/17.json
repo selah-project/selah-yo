@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Mo wí, emi, nínú ọkàn mi: Elohim yóò dá ⟨את⟩ olóòtítọ́ àti ⟨את⟩ ẹni búburú dájọ́; nítorí tí àkókọ́ wà fún gbogbo ìfẹ́, àti lórí gbogbo iṣẹ́ níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "mo wí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "nínú ọkàn mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olóòtítọ́"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "olóòtítọ́"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹni búburú"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ẹni búburú"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "dá dájọ́"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עת",
+      "gloss": "àkókọ́"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ìfẹ́"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:01.246986587Z",
+  "model": "glm-5.3"
+}

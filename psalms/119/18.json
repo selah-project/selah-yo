@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ṣí ojú mi, kí n lè rí iṣẹ́ ìyanu láti inú òfin rẹ.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "ṣí"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "kí n lè rí"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "iṣẹ́ ìyanu"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "láti inú òfin rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:12.918387825Z",
+  "model": "glm-5.3"
+}

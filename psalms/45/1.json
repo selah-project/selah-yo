@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Fún olùdarí-orin, lórí ⟨àwọn⟩ gbépẹ̀lé; ti àwọn ọmọ Korach; máṣkíl; orin àwọn ìfẹ́.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fún olùdarí-orin"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "gbépẹ̀lé"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ti àwọn ọmọ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "máṣkíl"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "àwọn ìfẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:13.794407530Z",
+  "model": "glm-5.3"
+}

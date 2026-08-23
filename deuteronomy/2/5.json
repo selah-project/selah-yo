@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Má ṣe bá wọn jà, nítorí pé èmi kì yóò fún yín ní nnkan nínú ilẹ̀ wọn, títí dé ibi tí ojú ẹsẹ̀ bá tẹ̀; nítorí pé ìní-dà fún Esav ni mo ti fún un ⟨את⟩ òkè Seir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "bá wọn jà"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "yóò fún"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yín"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "ní nnkan nínú ilẹ̀ wọn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ibi tí … bá tẹ̀"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ẹsẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "ìní-dà"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "fún Esav"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mo ti fún un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òkè Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:39.026111782Z",
+  "model": "glm-5.3"
+}

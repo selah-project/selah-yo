@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 60,
+  "translation": "Ti mi ni Gilad, ti mi ni Menashsheh; Efrayim ni igbẹ́ ti ori mi; Yehudah ni eni-tí-ń-kọ òfin mi.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ti mi ni"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "àti ti mi ni"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "àti Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "igbẹ́"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ti ori mi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "eni-tí-ń-kọ òfin mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:03.425309754Z",
+  "model": "glm-5.3"
+}

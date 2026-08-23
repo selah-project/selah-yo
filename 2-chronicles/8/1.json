@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì ṣẹlẹ̀ ní ìparí ọdún ogún tí Shelomoh ti kọ́ ⟨את⟩ ilé Yahweh àti ⟨את⟩ ilé rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ní ìparí"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ti kọ́"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilé rẹ̀"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:26:13.921285560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó sì fi ìgbìmọ̀ràn ⟨את⟩ ti àwọn àgbà tí wọ́n ti fún un sílẹ̀, ó sì ṣe ìgbìmọ̀ràn pẹ̀lú ⟨את⟩ àwọn ọmọdé tí ó dàgbà pẹ̀lú ⟨את⟩ rẹ̀, àwọn tí ó dúró níwájú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Ó sì fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìgbìmọ̀ràn ti àwọn àgbà"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ìgbìmọ̀ràn"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "wọ́n ti fún un"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ó sì ṣe ìgbìmọ̀ràn pẹ̀lú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọdé"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "àwọn ọmọdé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "dàgbà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pẹ̀lú ⟨את⟩ rẹ̀"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "àwọn tí ó dúró"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "níwájú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:27:23.754973164Z",
+  "model": "glm-5.3"
+}

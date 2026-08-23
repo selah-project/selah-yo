@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "O ti gbé àwọn orílẹ̀-èdè níyà; O ti pa àwọn ènìyàn búburú run; orúkọ wọn ni O ti nu kúrò, títí láé, láéláé.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "O ti gbé níyà"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "O ti pa run"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "àwọn ènìyàn búburú"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "orúkọ wọn"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "O ti nu kúrò"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:00.112022377Z",
+  "model": "glm-5.3"
+}

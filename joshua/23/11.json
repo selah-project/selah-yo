@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ẹ sì ṣọ́ fún ⟨את⟩ ara yín púpọ̀, láti fẹ́ràn ⟨את⟩ Yahweh Elohim yín.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "ẹ sì ṣọ́"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "fún ara yín"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "láti fẹ́ràn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim yín"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:15.028557549Z",
+  "model": "glm-5.3"
+}

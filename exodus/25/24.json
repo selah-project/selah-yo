@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ó gbọ́dọ̀ bò ó pamọ́ pẹ̀lú ⟨את⟩ wúrà mímọ́, ó sì gbọ́dọ̀ ṣe kíki wúrà fún un ní ayéka.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "ó gbọ́dọ̀ bò ó pamọ́ pẹ̀lú"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨⟨את⟩⟩",
+      "marks": "wúrà mímọ́"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ó gbọ́dọ̀ ṣe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "זר",
+      "gloss": "kíki (etí àtẹ)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní ayéka"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:04.144668900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Nítorí náà, nínú Orúkọ Yahweh ni mo pè, wí pé: Jọ̀wọ́, Yahweh, gbà mí nínú ewu, emi mi.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "nínú Orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mo pè"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Jọ̀wọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "gbà mí nínú ewu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "emi mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:54.319124423Z",
+  "model": "glm-5.3"
+}

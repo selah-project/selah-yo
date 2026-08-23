@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Wọn kò gbọdọ̀ fi nǹkan rẹ̀ sílẹ̀ títí di àárọ̀; ẹ̀gbẹ́ rẹ̀ kankan ni wọn kò gbọdọ̀ fó; ní bíi gbogbo òfin Péṣáà ni wọn gbọdọ̀ ṣe ⟨את⟩ ọ́.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "gbọdọ̀ fi sílẹ̀ títí"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nǹkan rẹ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "àárọ̀"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "àti ẹ̀gbẹ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "gbọdọ̀ fó"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ní bíi gbogbo"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "òfin"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Péṣáà"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "gbọdọ̀ ṣe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ọ́ (Péṣáà náà)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:53:31.442212795Z",
+  "model": "glm-5.3"
+}

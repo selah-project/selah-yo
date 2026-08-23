@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalon àti ⟨את⟩ àgbàlá rẹ̀, ⟨את⟩ Gat-Rimon àti ⟨את⟩ àgbàlá rẹ̀; àwọn ìlú mẹ́rin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àgbàlá rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "àgbàlá rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àgbàlá rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "àgbàlá rẹ̀"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mẹ́rin"
+    }
+  ],
+  "timestamp": "2026-08-23T00:29:42.207342400Z",
+  "model": "glm-5.3"
+}

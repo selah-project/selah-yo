@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn ọmọ Aharon sì máa sun ⟨את⟩ ọ̀nà lórí pẹpẹ ìsacrifice, lórí ẹran-ọ̀jọ̀ tí ó wà lórí àwọn igi tí ó sì wà lórí iná — ẹbùn-iná, ìrora ìdùn fún Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "sì máa sun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ọ̀nà",
+      "marks": "àwọn ọmọ Aharon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lórí pẹpẹ ìsacrifice"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹran-ọ̀jọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "àwọn igi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "האש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ẹbùn-iná"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ìrora"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ìdùn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:29.193822463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Tí ẹ bá tún dáwọ́ dúró sí ilẹ̀ yìí, èmi yóò kọ́ ⟨את⟩ yín kọ́, kì í ṣe èmi yóò tú ká; èmi yóò gbìn ⟨את⟩ yín gbìn, kì í ṣe èmi yóò fà ká; nítorí mo ti yanjú lórí búburú tí mo ṣe fún yín.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Tí ẹ bá"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "tún"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "dáwọ́ dúró sí"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "èmi yóò kọ́"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "èmi yóò tú ká"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "èmi yóò gbìn"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אתושׁ",
+      "gloss": "èmi yóò fà ká"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "mo ti yanjú"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mo ṣe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    }
+  ],
+  "timestamp": "2026-08-23T02:29:05.260170022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 66,
+  "translation": "Bukún ni fún Elohim, ẹni tí kò yọ àdúrà mi kúrò, tàí chesed rẹ̀, kúrò lọ́dọ̀ ⟨את⟩ mi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bukún ni fún"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "yọ … kúrò"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "àdúrà mi"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "tàí chesed rẹ̀"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "kúrò lọ́dọ̀ ⟨את⟩ mi",
+      "marks": "chesed rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:42.912765013Z",
+  "model": "glm-5.3"
+}

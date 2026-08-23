@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó sì bí àwọn ọmọkùnrin fún un, ⟨את⟩ Yeush àti ⟨את⟩ Shemaryah àti ⟨את⟩ Zaham.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "àwọn ọmọkùnrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeush"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shemaryah"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Shemaryah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zaham"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zaham"
+    }
+  ],
+  "timestamp": "2026-08-23T05:25:53.296378575Z",
+  "model": "glm-5.3"
+}

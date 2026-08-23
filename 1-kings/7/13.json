@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ọba Shelomoh sì ránṣẹ́, ó sì gbé Chiram láti Tzor wá.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì ránṣẹ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gbé…wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "láti Tzor"
+    }
+  ],
+  "timestamp": "2026-08-23T01:13:33.271167768Z",
+  "model": "glm-5.3"
+}

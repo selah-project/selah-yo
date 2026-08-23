@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 10:25",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Yehoshua sì wí fún wọn pé, Ẹ má ṣe payà, ẹ má ṣi fọ̀ ẹ̀rù; ẹ lẹ́mọ̀ lágbára, ẹ sì mú ẹ̀mí ṣínṣín; nítorí bí èyí ni Yahweh máa ṣe fún gbogbo ọ̀ta yín, ẹ̀yin tí ẹ ń bá wọn jagun ⟨את⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "payà"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ẹ má ṣi"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "fọ̀ ẹ̀rù"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ẹ lẹ́mọ̀ lágbára"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "ẹ sì mú ẹ̀mí ṣínṣín"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "bí èyí"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "máa ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ọ̀ta yín"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "ń bá wọn jagun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:26:53.860925078Z",
+  "model": "glm-5.3"
+}

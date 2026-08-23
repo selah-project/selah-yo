@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Elohim, ìwọ ni, o mọ̀ àìwàṣe mi; àti àṣẹṣe mi, láti ọ̀dọ̀ rẹ kò farapamọ́.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ ni"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o mọ̀"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "àìwàṣe mi"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "àti àṣẹṣe mi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "láti ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "farapamọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:41.603691385Z",
+  "model": "glm-5.3"
+}

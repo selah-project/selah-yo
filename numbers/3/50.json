@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Láti ⟨את⟩ àwọn àkọbí àwọn ọmọ Yisrael ni ó gba ⟨את⟩ owó náà, ẹ̀wà áti òòdúnrún mọ́kànléláàdọ́ta, ní ìwòn sikeli ti ⟨ì mí mọ́⟩",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ láti"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "àkọbí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ó gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "owó náà"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "owó náà"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "márùn-ún"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "àti ìgbàta"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "àti ẹ̀ta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́rún"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "àti ẹgbẹ̀rún"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ní ìwòn sikeli"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti ⟨ì mí mọ́⟩"
+    }
+  ],
+  "timestamp": "2026-08-22T23:48:57.238579233Z",
+  "model": "glm-5.3"
+}

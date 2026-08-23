@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì máa gbé ⟨את⟩ gbogbo ọra rẹ̀ kúrò nínú rẹ̀, ó sì máa sún un ní afúfé lórí pẹpẹ náà.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọra rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "ọra rẹ̀"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ó máa gbé kúrò"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ó sì máa sún ní afúfé"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lórí pẹpẹ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:08.402067779Z",
+  "model": "glm-5.3"
+}

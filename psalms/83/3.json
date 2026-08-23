@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 83,
+  "translation": "Nítorí ṣe, kíyèsi i, àwọn ọ̀tá rẹ ń ru ìru ọ̀tọ̀, àti àwọn tí ó kórìíra rẹ ti gbé orí ga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí ṣe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kíyèsi i"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "àwọn ọ̀tá rẹ"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ń ru ìru ọ̀tọ̀"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "àti àwọn tí ó kórìíra rẹ"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ti gbé orí"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí ga"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:41.151241258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Yahweh ń ṣọ́ ⟨את⟩ gbogbo àwọn olùfẹ́ rẹ̀, ṣùgbọ́n ⟨את⟩ gbogbo àwọn èṣẹ́ ni ó máa pa jọ.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "ń ṣọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn olùfẹ́ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "àwọn olùfẹ́ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn èṣẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "àwọn èṣẹ́"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "ó máa pa jọ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:36.973248687Z",
+  "model": "glm-5.3"
+}

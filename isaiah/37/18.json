@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Óótọ́ ni, Yahweh, àwọn ọba Ashur ti pa ⟨את⟩ gbogbo àwọn ilẹ̀ wọ́nyí, àti ⟨את⟩ ilẹ̀ wọn ní àsọtélẹ̀.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Óótọ́ ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "ti pa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ilẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "àwọn ilẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilẹ̀ wọn"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ilẹ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:53:59.999604938Z",
+  "model": "glm-5.3"
+}

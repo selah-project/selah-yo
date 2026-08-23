@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 53,
+  "translation": "Wọ́n sì fi í sí ìsìnrùn pẹ̀lú ⟨את⟩ àwọn ẹlẹ́ṣẹ̀, àti pẹ̀lú ⟨את⟩ ọlọ́rọ̀ nígbà ikú rẹ̀; nítorí pé ìpalára kò ṣe, àti ẹ̀tan kò sí nínú ẹnu rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wọ́n sì fi í"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ẹlẹ́ṣẹ̀"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn ẹlẹ́ṣẹ̀"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "sí ìsìnrùn rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ọlọ́rọ̀"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "nígbà ikú rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìpalára"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kò sí"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ẹ̀tan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "nínú ẹnu rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:55:36.624154096Z",
+  "model": "glm-5.3"
+}

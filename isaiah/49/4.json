@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Ṣùgbọ́n èmi wí pé, láìsọ̀rọ̀ ni mo ṣiṣẹ́ jáì; sí àìsàn-àyà àti ṣọ́fò ni mo lò agbára mi; ṣùgbọ́n dájúdájú ètò ẹ̀tọ́ mi wà lọ́dọ̀ Yahweh, iṣẹ́ mi sì wà lọ́dọ̀ Elohim mi, ⟨elevated⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mo wí"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "pẹ̀lú ṣọ́fò"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "mo ṣiṣẹ́ jáì"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "sí àìsàn-àyà"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "àti ṣọ́fò"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "agbára mi"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "mo lò"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "dájúdájú"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ètò ẹ̀tọ́ mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "ìṣẹ́ mi sì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:59:10.374255102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Pákòkun náà tí Avraham rà láti ọ̀dọ̀ ⟨את⟩ àwọn ọmọ Het; níbẹ̀ ni a ti sin Avraham àti Sarah aya rẹ̀.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "pákòkun náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "rà"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "láti ọ̀dọ̀ àwọn ọmọ Het"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "a ti sin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "àti Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "aya rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:02:27.681084402Z",
+  "model": "glm-5.3"
+}

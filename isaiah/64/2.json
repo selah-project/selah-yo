@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 64,
+  "translation": "Ní ìgbà tí o ṣe àwọn iṣẹ́ tí ó bu ẹ̀rù, a kò rẹ́rìín rẹ̀; o sọ̀kalẹ̀, níwájú rẹ ni àwọn òkè ti ṣánlẹ̀.",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "ní ìgbà tí o ṣe"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "àwọn iṣẹ́ tí ó bu ẹ̀rù"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "rẹ́rìín"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "o sọ̀kalẹ̀"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "níwájú rẹ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "ṣánlẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:02:48.356021417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ní àárọ̀ òru ni èmí ó tí dìde láti dúpẹ́ lọ́dọ̀ rẹ, nítorí àwọn ìdájọ́ òdodo rẹ.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "àárọ̀ òru"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "(òru)"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "èmí ó dìde"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "láti dúpẹ́"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "àwọn ìdájọ́"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "òdodo rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:39.761546868Z",
+  "model": "glm-5.3"
+}

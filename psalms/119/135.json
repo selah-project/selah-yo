@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Fì ojú rẹ han fún ọ̀dọ̀ rẹ, kí o sì kọ́ mi ⟨את⟩ àwọn òfin ìpinnu rẹ.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "האר",
+      "gloss": "Fì … han"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "fún ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "kí o sì kọ́ mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òfin ìpinnu rẹ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "àwọn òfin ìpinnu rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:26.551077236Z",
+  "model": "glm-5.3"
+}

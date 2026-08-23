@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ẹni tí ó lu ẹranko yóò san-an padà; ẹni tí ó lu ènìyàn yóò kú.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ẹni tí ó lu"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "yóò san-an padà"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "ẹni tí ó lu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "yóò kú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:10.113173712Z",
+  "model": "glm-5.3"
+}

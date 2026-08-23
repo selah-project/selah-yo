@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Kí àwọn àlùfáà gba á fún ara wọn, ọ̀kọ̀ọ̀kan láti ọ̀dọ̀ ⟨את⟩ ẹni tí ó mọ̀ọ́n; ẹ̀wẹ̀, kí wọ́n fún ⟨את⟩ ihò ilé náà múlè, ní gbogbo ibi tí a bá rí ihò.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "kí...gba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún ara wọn"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọ̀kọ̀ọ̀kan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "láti ọ̀dọ̀ ⟨את⟩"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ẹni tí ó mọ̀ọ́n"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ẹ̀wẹ̀, kí wọ́n"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "fún...múlè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihò ilé náà"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ihò"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "a bá rí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ibí"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ihò"
+    }
+  ],
+  "timestamp": "2026-08-23T01:31:34.273688316Z",
+  "model": "glm-5.3"
+}

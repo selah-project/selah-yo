@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Yovel ni ó ṣe, ọdún àádọ́ta ni ó jẹ́ fún yín; ẹ kò gbọ́dọ̀ gbìn, ẹ kò sì gbọ́dọ̀ kọ ⟨את⟩ ohun tí ó gbọ́n sílẹ̀ fúnra rẹ̀, ẹ kò sì gbọ́dọ̀ kó ⟨את⟩ èsó rẹ̀ tí a kò tọ̀.",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "Yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni ó ṣe"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "àádọ́ta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ó jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò gbọ́dọ̀"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "ẹ gbìn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ẹ kò sì gbọ́dọ̀"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "kọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí ó gbọ́n sílẹ̀ fúnra rẹ̀"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "ohun tí ó gbọ́n sílẹ̀ fúnra rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ẹ kò sì gbọ́dọ̀"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "kó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èsó rẹ̀ tí a kò tọ̀"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "èsó rẹ̀ tí a kò tọ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:32.529850542Z",
+  "model": "glm-5.3"
+}

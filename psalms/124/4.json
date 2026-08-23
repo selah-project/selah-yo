@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 124,
+  "translation": "Nígbà náà, àwọn omi bá ti bo wa lórí, odò ńlá bá ti kọjá lé orí ẹ̀mí wa:",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "nígbà náà"
+    },
+    {
+      "surface": "המים",
+      "gloss": "àwọn omi"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "bo wa lórí"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "odò ńlá"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kọjá"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé orí"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ẹ̀mí wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:52.052731864Z",
+  "model": "glm-5.3"
+}

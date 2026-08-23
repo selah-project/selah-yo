@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 8:16",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Mo sì gbọ́ ohùn ẹniyan láàárín Ulayi, ó sì pe, ó sì sọ pé: Gabríeli, fún ẹni yìí ní òye ⟨את⟩ ìrísí náà.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Mo sì gbọ́"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ẹniyan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Ulayi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ó sì pe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì sọ pé"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "Gabríeli"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "fún… ní òye"
+    },
+    {
+      "surface": "להלז",
+      "gloss": "ẹni yìí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìrísí náà"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ìrísí náà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:52:33.779629047Z",
+  "model": "glm-5.3"
+}

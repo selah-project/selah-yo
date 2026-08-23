@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 13:22",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Wọ́n sì sọ̀kè láti gúúsù, wọ́n sì dé Hebron; níbẹ̀ ni Achiman, Sheshai àti Talmai, àwọn ọmọ-bíbí ⟨ha⟩-Anak wà; Hebron sì, ọdún méje ni a kọ́ ọ́ ṣáájú Tsoan ní Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "wọ́n sì sọ̀kè"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "láti gúúsù"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wọ́n sì dé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Achiman"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ותלמי",
+      "gloss": "àti Talmai"
+    },
+    {
+      "surface": "ילידי",
+      "gloss": "àwọn ọmọ-bíbí"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "ha-Anak"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "Hebron sì"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "méje"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "נבנתה",
+      "gloss": "a kọ́ ọ́"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ṣáájú"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ní Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:54:34.602624780Z",
+  "model": "glm-5.3"
+}

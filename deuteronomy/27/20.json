@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ègúèré ni ẹni tí ó bá lọ sùn pẹ̀lú aya baba rẹ̀, nítorí tí ó ti yọ èwù ìkèkè baba rẹ̀; àti gbogbo ènìyàn náà yóò wí, Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Ègúèré ni"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ẹni tí ó bá lọ sùn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ó ti yọ ... fífọ̀"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "èwù ìkèkè"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "yóò sọ wí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-08-23T00:18:26.235754537Z",
+  "model": "glm-5.3"
+}

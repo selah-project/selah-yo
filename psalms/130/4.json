@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 130,
+  "translation": "Nítorí pẹ̀lú rẹ ni ìdaríjí wà, kí a lè bẹ̀rù rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pẹ̀lú rẹ"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ìdaríjí"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí a lè"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "bẹ̀rù rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:05.882348639Z",
+  "model": "glm-5.3"
+}

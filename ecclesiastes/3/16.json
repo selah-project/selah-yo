@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àti mííràn, mo rí lábẹ́ òòrùn: ní ibi ìdájọ́, ìwọ̀ ibẹ̀ ni àṣìṣe wà; àti ní ibi ododo, ìwọ̀ ibẹ̀ ni àṣìṣe wà.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "àti mííràn"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mo rí"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "òòrùn"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ní ibi"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ìwọ̀ ibẹ̀ ni"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "àṣìṣe wà"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "àti ní ibi"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "ododo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ìwọ̀ ibẹ̀ ni"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "àṣìṣe wà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:35.076634637Z",
+  "model": "glm-5.3"
+}

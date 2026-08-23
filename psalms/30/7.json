@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Èmí ìwọ̀ ní, nínú àlàáfíà mi, mo wí pé, èmi kì í ṣe yóò yí kúro láé láé.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Èmí-ìwọ̀-ní"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mo-wí"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "nínú-àlàáfíà-mi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì-í-ṣe"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "yóò-yí-kúro"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "láé-láé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:54.752503277Z",
+  "model": "glm-5.3"
+}

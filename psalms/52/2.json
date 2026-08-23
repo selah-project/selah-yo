@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 52,
+  "translation": "Nígbà tí Doegu ti Edomu dé, ó sì sọ fún Shaulu, ó sì wí fún un pé, Davidi ti dé sí ilé Achimeleki.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Nígbà tí...dé"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doegu"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ti Edomu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ó sì sọ fún"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaulu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí fún un pé"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ti dé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimeleki"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:11.307972267Z",
+  "model": "glm-5.3"
+}

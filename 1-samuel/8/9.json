@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Nísìnú yìí, gbọ́ ohùn wọn; ṣùgbọ́n ṣe ìjìnnà-síra-ẹ̀rí fún wọn, kí o sì sọ ìlànà ọba tí yóò jọba lórí wọn fún wọn.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Nísìnú yìí"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "ohùn wọn"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "העד",
+      "gloss": "ìjìnnà-síra-ẹ̀rí"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "kí o sì sọ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìlànà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "yóò jọba"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lórí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:49:12.892297740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "àyìpẹ̀wọ̀n fún ẹbí rẹ̀, ẹni tí ó súnmọ́ ọ́n: fún ìyá rẹ̀, fún baba rẹ̀, fún ọmọkùnrin rẹ̀, fún ọmọbìnrin rẹ̀, àti fún ará rẹ̀ okunrin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "àyìpẹ̀wọ̀n"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "fún ẹbí rẹ̀"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "tí ó súnmọ́ ọ́n"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ọ́n"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "fún ìyá rẹ̀"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "àti fún baba rẹ̀"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "àti fún ọmọkùnrin rẹ̀"
+    },
+    {
+      "surface": "ו׬תו",
+      "gloss": "àti fún ọmọbìnrin rẹ̀"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "àti fún ará rẹ̀ okunrin"
+    }
+  ],
+  "timestamp": "2026-08-23T06:12:38.342193812Z",
+  "model": "glm-5.3"
+}

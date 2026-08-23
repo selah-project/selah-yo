@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Jọ̀wọ́, kí omi díẹ̀ mú wá, kí ẹ sì fọ ẹsẹ̀ yín, kí ẹ sì gbe lénu lábẹ́ igi náà.",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "kí … mú wá"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọ̀wọ́"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "díẹ̀"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "kí ẹ sì fọ"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "ẹsẹ̀ yín"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "kí ẹ sì gbe lénu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igi náà"
+    }
+  ],
+  "timestamp": "2026-08-22T22:59:43.868488389Z",
+  "model": "glm-5.3"
+}

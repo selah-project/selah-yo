@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 27:21",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Nítorí bí así ni Yahweh Tsevaot, Elohim Israel, ti wí nípa àwọn ohun-èlò tí ó ṣẹ́kú ní ilé Yahweh, àti ní ilé ọba Yehudah, àti ní Yerushalayim:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bí así"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "àwọn ohun-èlò"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "tí ó ṣẹ́kú"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "àti ní ilé"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "àti ní Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T02:19:38.707225780Z",
+  "model": "glm-5.3"
+}

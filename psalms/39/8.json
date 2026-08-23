@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Àti ní báyìí, kí ni mo n retí Adonai? Ìrètí mi ni nípa Rẹ ni.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Àti ní báyìí"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "mo n retí"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "Ìrètí mi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nípa Rẹ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:19.472404009Z",
+  "model": "glm-5.3"
+}

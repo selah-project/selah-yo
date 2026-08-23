@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "àti Yoealah àti Zevadyah, àwọn ọmọ Yerocham, láti Gedoro.",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "àti Yoealah"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "àti Zevadyah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Yerocham"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "Gedoro"
+    }
+  ],
+  "timestamp": "2026-08-23T05:12:59.200980595Z",
+  "model": "glm-5.3"
+}

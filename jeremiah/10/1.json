@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Gbọ́ ⟨את⟩ ọ̀rọ̀ tí Yahweh ti sọ sí yín, ilé Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sí yín"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T02:11:24.747830700Z",
+  "model": "glm-5.3"
+}

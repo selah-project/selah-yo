@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Bí àwọn ènìyàn ⟨ilẹ̀⟩ bá sì farahàn ojú wọn fúnra wọn — pa ojú wọn dé — láti fi ọkùnrin yẹn sílẹ̀, nígbà tí ó fi ọmọ rẹ̀ fún Molek, láì pa á iku iku,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "bí… bá sì"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "fúnra wọn — pa ojú wọn dé"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "farahàn… láti fi… sílẹ̀"
+    },
+    {
+      "surface": "עם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ilẹ̀⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú wọn"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ojú wọn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "nígbà tí ó fi"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fún Molek"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "láì"
+    },
+    {
+      "surface": "המית",
+      "gloss": "pa… iku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "á (ọkùnrin yèn)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:18.891653885Z",
+  "model": "glm-5.3"
+}

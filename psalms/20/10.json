@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Yahweh, gbà wá là! Kí Ad Obá dáhùn wá ní ọjọ́ tí a bá pè é.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "gbà wá là!"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ad Obá"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "dáhùn wá"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́ tí"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "a bá pè é"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:58.216844552Z",
+  "model": "glm-5.3"
+}

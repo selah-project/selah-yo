@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 143,
+  "translation": "Orin Dafid. Yahweh, gbọ́ àdúrà mi, fi etí sí àbẹ̀wọ̀ mi; ní ìgbẹ́mì rẹ dáhùn mi, ní ìdájọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dafid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "àdúrà mi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "fi etí sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "àbẹ̀wọ̀ mi"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "ní ìgbẹ́mì rẹ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "dáhùn mi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ní ìdájọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:09.836310860Z",
+  "model": "glm-5.3"
+}

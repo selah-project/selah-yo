@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Nítorí èyí ni ọkùnrin yóò fi ⟨את⟩ bàbá rẹ̀ sílẹ̀ àti ⟨את⟩ ìyá rẹ̀, yóò sì lọ mọ́ aya rẹ̀ lọ́nà tí ó le, wọ́n sì jẹ́ ẹran ara kan ṣoṣo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "yóò fi… sílẹ̀"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàbá rẹ̀"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bàbá rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìyá rẹ̀"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ìyá rẹ̀"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "yóò sì lọ mọ́… lọ́nà tí ó le"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "aya rẹ̀"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "wọ́n sì jẹ́"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "ẹran ara"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan ṣoṣo"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:16.852172721Z",
+  "model": "glm-5.3"
+}

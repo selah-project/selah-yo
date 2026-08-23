@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ẹrù ìròyìn ní ọ̀rọ̀ Yahweh sí Yisrael, ní ọwọ́ Malaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Ẹrù ìròyìn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ní ọwọ́"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malaki"
+    }
+  ],
+  "timestamp": "2026-08-23T03:21:21.315347347Z",
+  "model": "glm-5.3"
+}

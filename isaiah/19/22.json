@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Yahweh yóò lu ⟨את⟩ Mísraim, lílù àti ìwòsàn; wọn yóò padà sí Yahweh, Òun yóò sì gbọ́ àdúrà wọn, Òun yóò sì wọ̀ wọn.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "yóò lu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mísraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mísraim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "lílù"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "ìwòsàn"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "yóò padà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "yóò gbọ́ àdúrà"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "yóò wọ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:46:14.556809653Z",
+  "model": "glm-5.3"
+}

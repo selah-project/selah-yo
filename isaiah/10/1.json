@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Egún fún àwọn tí ń ṣètò òfin àìṣòtítọ́, àti àwọn akọ̀wé tí ń kọ ìwé ìpèníjà.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Egún"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "àwọn tí ń ṣètò òfin"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "òfin"
+    },
+    {
+      "surface": "און",
+      "gloss": "àìṣòtítọ́"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "àti àwọn akọ̀wé"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ìpèníjà"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "ń kọ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:44:47.672383393Z",
+  "model": "glm-5.3"
+}

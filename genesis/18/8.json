@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 18:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó sì gba bútà àti wara, àti ọmọ ⟨the⟩ màlùù tí ó ṣe, ó sì gbé e sí iwájú wọn; òun sì dúró lé wọn lórí ní abẹ́ ⟨the⟩ igi náà, wọ́n sì jẹ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "bútà"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "àti wara"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "àti ọmọ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "màlùù"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì gbé e sí iwájú"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "òun sì"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lé wọn lórí"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní abẹ́"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igi náà"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "wọ́n sì jẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T22:59:10.582212998Z",
+  "model": "glm-5.3"
+}

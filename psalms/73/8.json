@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Wọn bu ẹ̀gàn láìsọ́tẹ̀lẹ̀, wọn sì ń sọ̀rọ̀ nínú ìbàjẹ́, nípa ìṣẹ́-àìtọ́; láti òkè-òrun ni wọn ti ń sọ̀rọ̀ gíga.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "wọn bu ẹ̀gàn láìsọ́tẹ̀lẹ̀"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "wọn sì ń sọ̀rọ̀"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "nínú ìbàjẹ́"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ìṣẹ́-àìtọ́"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "láti òkè-òrun"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "wọn ń sọ̀rọ̀ (gíga)"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:41.032389234Z",
+  "model": "glm-5.3"
+}

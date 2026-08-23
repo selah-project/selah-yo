@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Ìfẹ́ inú àwọn tí ń bẹ̀rù rẹ̀ ni yóò ṣe, ó sì máa gbọ́ ⟨את⟩ ààrọ̀ wọn, ó sì gbà wọn lárìnjìn.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "ìfẹ́ inú"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "àwọn tí ń bẹ̀rù rẹ̀"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yóò ṣe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ààrọ̀ wọn"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ààrọ̀ wọn"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ó sì máa gbọ́"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ó sì gbà wọn lárìnjìn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:36.973133961Z",
+  "model": "glm-5.3"
+}

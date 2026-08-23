@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 9:20",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Gbogbo àwọn ohun èlò mímu ọba Shelomoh sì jẹ́ wúrà, àti gbogbo àwọn ohun èlò ilẹ̀-igbó Lebanoni jẹ́ wúrà tí a ti yà sọ́tọ̀; kò sí fàdákà tí a kà sí ohun kan nígbà Shelomoh fún nnkan gbogbo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ohun èlò"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "mímu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ohun èlò"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יער",
+      "gloss": "igbó"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanoni"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "tí a ti yà sọ́tọ̀"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "tí a kà"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nígbà"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "למאומה",
+      "gloss": "fún nnkan gbogbo"
+    }
+  ],
+  "timestamp": "2026-08-23T05:26:03.003610245Z",
+  "model": "glm-5.3"
+}

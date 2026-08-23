@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 53,
+  "translation": "Ṣé wọn kò mọ̀, àwọn olùṣẹ́ búburú, àwọn njẹ ⟨את⟩ àwọn ènìyàn mi bí wọn ti njẹ ⟨את⟩ búrẹ́dì? Wọn kò pè Elohim.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ṣé…kò…ni"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "àwọn olùṣẹ́"
+    },
+    {
+      "surface": "און",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "àwọn tí ó ń jẹ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "àwọn ènìyàn mi"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ń jẹ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "búrẹ́dì"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "pè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:06.284431807Z",
+  "model": "glm-5.3"
+}

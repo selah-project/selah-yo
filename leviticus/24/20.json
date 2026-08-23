@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ìfọ́ ní ipò ìfọ́, ojú ní ipò ojú, eyín ní ipò eyín; gẹ́gẹ́ bí ó ti fi ìfarapa sínú ènìyàn, bẹ́ẹ̀ ni a ó fi sínú.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Ìfọ́"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ìfọ́"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "שן",
+      "gloss": "eyín"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "שן",
+      "gloss": "eyín"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ó ti fi"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ìfarapa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sínú ènìyàn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ni a ó fi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sínú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:26.226531480Z",
+  "model": "glm-5.3"
+}

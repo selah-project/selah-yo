@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Wọ́n ti parí àwọn àdúrà David, ọmọ Yishai.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Wọ́n ti parí"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "àwọn àdúrà"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:15.912226538Z",
+  "model": "glm-5.3"
+}

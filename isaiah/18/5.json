@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nítorí kí ìkọ́gbẹ̀ tó, bí ìparí ti ṣẹ́ ⟨the⟩ ìdán, ìrèpò sì ń di òdodo àparo lọ, ni ó gbé àwọn ẹ̀ka wọ́wọ́ kọjá pẹ̀lú àwọn ọ̀bẹ̀ ìkọ́, ó sì yọ ⟨את⟩ àwọn ẹ̀ka tí ó tàn kúrò, ó kọ̀ wọ́n dá.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí kí"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "...tó"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ìkọ́gbẹ̀"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "bí ìparí ti ṣẹ́"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "ìdán"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "ìrèpò"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ń di...lọ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨jẹ́⟩"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "òdodo àparo"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "ó gbé...kọjá"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "àwọn ẹ̀ka wọ́wọ́"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "pẹ̀lú àwọn ọ̀bẹ̀ ìkọ́"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ẹ̀ka tí ó tàn"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "àwọn ẹ̀ka tí ó tàn"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "yọ...kúrò"
+    },
+    {
+      "surface": "התז",
+      "gloss": "kọ̀ dá"
+    }
+  ],
+  "timestamp": "2026-08-23T01:46:47.408511212Z",
+  "model": "glm-5.3"
+}

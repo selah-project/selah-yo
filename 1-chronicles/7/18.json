@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Arábìnrin rẹ̀ Hammoleket bímọ ⟨את⟩ Ishod, àti ⟨את⟩ Aviézer, àti ⟨את⟩ Machlah.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "Arábìnrin rẹ̀"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hammoleket"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "bímọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Aviézer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviézer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Machlah"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Machlah"
+    }
+  ],
+  "timestamp": "2026-08-23T05:11:18.774500648Z",
+  "model": "glm-5.3"
+}

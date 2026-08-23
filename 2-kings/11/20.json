@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Gbogbo ènìyàn ilẹ̀ náà sì dúnu, ìlú náà sì tùtù; ⟨את⟩ Atalyahu sì ni wọ́n pa ní idẹ ní ilé ọba.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "sì dúnu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "èniyàn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ìlú náà sì"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "tùtù"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "wọ́n pa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ní idẹ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T01:32:59.523983287Z",
+  "model": "glm-5.3"
+}

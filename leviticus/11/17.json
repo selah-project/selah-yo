@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "àti ⟨את⟩ kòsì, àti ⟨את⟩ shalach, àti ⟨את⟩ yanshuf;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "kòsì"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kòsì (ẹyẹ orúkọ àṣìṣe)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "shalach"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "yanshuf"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "yanshuf"
+    }
+  ],
+  "timestamp": "2026-08-22T23:38:04.760188193Z",
+  "model": "glm-5.3"
+}

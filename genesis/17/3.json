@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Avram sì dojúkọ lẹ́sẹsẹ, Elohim sì bá ⟨את⟩ ọ̀rọ̀ sọ̀rọ̀ pẹ̀lú rẹ̀, ó wí pé:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ó sì dojúkọ lẹ́sẹsẹ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "על",
+      "gloss": "lóri"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ó sì bá ... sọ̀rọ̀"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó wí pé"
+    }
+  ],
+  "timestamp": "2026-08-22T22:59:59.856546704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Ìyọ̀ tí ó wù ni èròjà ìràpadà ẹ̀mí wọn, ó sì kúrò láélái.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "òwò tí ó wù"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "ìràpadà"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ẹ̀mí wọn"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ó sì kúrò"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "láélái"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:40.151157039Z",
+  "model": "glm-5.3"
+}

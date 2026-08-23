@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ó sì sùn, ó sì fara sìn sábẹ́ igi rotem kan; kińyi, this ní o, angẹli kan kàn án, ó sì wí fún un pé: Dìde, jẹun.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ó sì sùn"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "ó sì fara sìn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sábẹ́"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "igi rotem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kińyi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "this"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "angẹli kan"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "kàn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "án"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Dìde"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "jẹun"
+    }
+  ],
+  "timestamp": "2026-08-23T01:22:26.426211214Z",
+  "model": "glm-5.3"
+}

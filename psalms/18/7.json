@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nínú ìṣòro mi mo pe Yahweh, mo sì bẹ Elohim mi fún ìrànlọ́wọ́; ó sì gbọ́ ohùn mi láti inú tẹmpili rẹ̀, ẹ̀gbe mi sì dé níwájú rẹ̀, títí dé etí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "Nínú ìṣòro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mo pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mo sì... sí"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "ń bẹ fún ìrànlọ́wọ́"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ó gbọ́"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "láti inú tẹmpili rẹ̀"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ẹ̀gbe mi sì"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "níwájú rẹ̀"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "dé"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "títí dé etí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:54.413939410Z",
+  "model": "glm-5.3"
+}

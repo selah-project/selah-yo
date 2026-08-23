@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Òun ni ó fi ìmọ́lẹ̀ búrà bí aṣọ, ó te ọ̀run jáde bí àgọ́ ìṣẹ́.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "ó búrà"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìmọ́lẹ̀"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "bí aṣọ"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "ó te jáde"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "bí àgọ́ ìṣẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:12.428923047Z",
+  "model": "glm-5.3"
+}

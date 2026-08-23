@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Iná-jíjà níde iná-jíjà, ìfarapa níde ìfarapa, ìkọlù níde ìkọlù.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "iná-jíjà"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "níde"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "iná-jíjà"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ìfarapa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "níde"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ìfarapa"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ìkọlù"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "níde"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ìkọlù"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:54.665812979Z",
+  "model": "glm-5.3"
+}

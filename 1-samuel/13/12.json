@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "mo sì wí pé, 'Àwọn Filistini yóò ṣíṣẹ̀ bọ̀ sí ọ̀dọ̀ mi sí Gilgal báyìí, èmi kò sì tíì bá ojú Yahweh bẹ̀ àdúrà'; mo sì fi agbára múra, mo sì sọ ẹbọ inú-jó náà sókè.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mo sì wí pé"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "báyìí"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "yóò ṣíṣẹ̀ bọ̀"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Filistini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "sí Gilgal"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "àti ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "tíì bá ... bẹ̀"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "mo sì fi agbára múra"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "mo sì sọ ... sókè"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbọ inú-jó náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:46:37.414123157Z",
+  "model": "glm-5.3"
+}

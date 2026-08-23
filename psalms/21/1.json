@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Fún olùdarí orin, mizmor fún David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fún olùdarí orin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:15.472679018Z",
+  "model": "glm-5.3"
+}

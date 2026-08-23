@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 70,
+  "translation": "Jẹ́ kí wọ́n dúnbọ̀, kí wọ́n sì yọ̀ nínú rẹ, àwọn gbogbo tí wọ́n ń wá ọ̀; kí wọ́n sì sọ pé nígbà gbogbo: kí Elohim tóbi jù, àwọn olùfẹ́ ìgbàlà rẹ.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "jẹ́ kí wọ́n dúnbọ̀"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "kí wọ́n sì yọ̀"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nínú rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "àwọn gbogbo"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "tí wọ́n ń wá ọ̀"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kí wọ́n sì sọ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "kí … tóbi jù"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "àwọn olùfẹ́"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ìgbàlà rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:27.402300536Z",
+  "model": "glm-5.3"
+}

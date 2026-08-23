@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Wọ́n sì ṣe àwọn ìsún méjì wúrà, àti àwọn ìka méjì wúrà, wọ́n sì fi ⟨את⟩ àwọn ìka méjì sí àwọn etí ẹ̀wù-ayà náà méjì.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "wọ́n sì ṣe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "àwọn ìsún"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "àti àwọn méjì"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "àwọn ìka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "wọ́n sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìka méjì"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "àwọn ìka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "שני",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "àwọn etí"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ẹ̀wù-ayà náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:37.344230053Z",
+  "model": "glm-5.3"
+}

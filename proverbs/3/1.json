@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ọmọ mi, ìlànà míṣe má ṣe gbagbé, àti àwọn àṣẹ mi, ọkàn rẹ yió ṣọ́ ⟨wọn⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ọmọ mi"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ìlànà míṣe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "gbagbé"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "àti àwọn àṣẹ mi"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "yió ṣọ́"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ọkàn rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:16.644201201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "àti ⟨את⟩ àwọn ìàmì rẹ̀, àti ⟨את⟩ àwọn iṣẹ́ rẹ̀, tí ó ṣe láàárín Mitzrayim, fún Pharaoh, ọba Mitzrayim, àti fún ilẹ̀ rẹ̀ gbogbo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìàmì rẹ̀"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "àwọn ìàmì rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "àwọn iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "fún Pharaoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "àti fún gbogbo"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ilẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:38.651695244Z",
+  "model": "glm-5.3"
+}

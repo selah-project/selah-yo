@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Wọ̀nyí ni ìbí ⟨àwọn⟩ ọ̀run àti ayé nígbà tí a dá wọn, ní ọjọ́ tí Yahweh Elohim ṣe ayé àti àwọn ọ̀run.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Wọ̀nyí"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "ìbí"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "àti ayé"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "nígbà tí a dá wọn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "àti àwọn ọ̀run"
+    }
+  ],
+  "timestamp": "2026-08-22T22:53:40.861752710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó sì lọ Eliyahu láti farahàn sí Achav; ìgbà èbí sì le ní Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ó sì lọ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "láti farahàn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "ìgbà èbí sì"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "le"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ní Shomron"
+    }
+  ],
+  "timestamp": "2026-08-23T01:21:49.806764129Z",
+  "model": "glm-5.3"
+}

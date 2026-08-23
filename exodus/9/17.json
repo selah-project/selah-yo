@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ìṣìjí ni ọ tí ń gbé ara ga lórí àwọn ènìyàn mi, kí o má ṣe rán wọn lọ.",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "ìṣìjí ni ọ"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "ń gbé ara ga lórí"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "àwọn ènìyàn mi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kí o má ṣe"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "rán wọn lọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:18.836228922Z",
+  "model": "glm-5.3"
+}

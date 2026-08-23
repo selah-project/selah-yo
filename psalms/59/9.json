@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 59,
+  "translation": "Ìwọ sì, Yahweh, ń gbé yẹ̀ríyẹ̀rísí wọn, ń fi ẹ̀gbin rẹ̀ hàn fún gbogbo àwọn orílẹ̀ède.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ìwọ sì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "ń gbé yẹ̀ríyẹ̀rísí"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "ń fi ẹ̀gbin rẹ̀ hàn"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀ède"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:46.148972382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 113,
+  "translation": "Yahweh ga jùlọ ní àwọn orílẹ̀-èdè gbogbo; ọlá rẹ̀ sì ga ju àwọn ọ̀run lọ.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "ga jùlọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní àwọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "orílẹ̀-èdè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ju...lọ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ọlá rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:53.027363044Z",
+  "model": "glm-5.3"
+}

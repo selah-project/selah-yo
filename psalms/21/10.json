@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Iwọ yóò fi wọ́n sílẹ̀ bí iná ìrọ́rùn nígbà ojú rẹ; Yahweh, ní bínú rẹ̀ ó ó lé wọ́n mi; iná sì yóò jé wọ́n.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "yóò fi wọ́n sílẹ̀"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "bí ìrọ́rùn"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "nígbà"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באpו",
+      "gloss": "ní bínú rẹ̀"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "ó ó lé wọ́n mi"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "sì yóò jé wọ́n"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:11.971372697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Àwọn ènìyàn ilẹ̀ yìí pa ⟨את⟩ gbogbo àwọn olùkọ̀tàn lórí ọba Amon, wọ́n sì fi ẹni ìjọba jọ àwọn ènìyàn ilẹ̀ yìí ⟨את⟩ Yoshiyahu ọmọ rẹ̀ ní ipò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "wọ́n sì pa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Àwọn ènìyàn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn olùkọ̀tàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "àwọn olùkọ̀tàn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "wọ́n sì fi ẹni ìjọba jọ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "àwọn ènìyàn ilẹ̀ yìí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoshiyahu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ní ipò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:36:46.348183770Z",
+  "model": "glm-5.3"
+}

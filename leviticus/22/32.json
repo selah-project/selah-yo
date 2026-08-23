@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ẹ má ṣe sọ ⟨את⟩ orúkọ mímọ́ Mi di aláìmímọ́; ṣùgbọ́n èmi yóò di mímọ́ láàrin àwọn ọmọ Israẹli; èmi ni Yahweh, Ẹni tí ó ń fi yín síṣẹ́ mímọ́.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ẹ má ṣe"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "sọ di aláìmímọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ mímọ́ Mi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mímọ́ Mi"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "èmi yóò di mímọ́"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàrin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "Ẹni tí ó ń fi yín síṣẹ́ mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:36.685754160Z",
+  "model": "glm-5.3"
+}

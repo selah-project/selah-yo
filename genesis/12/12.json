@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ó sì máa wáyé pé, nígbà tí àwọn ará Mitzrayim bá rí ⟨את⟩ìwẹ, wọn á sì wípé: Aya rẹ̀ ni èyí; wọn á sì pa ⟨את⟩mi, ṣùgbọ́n ⟨את⟩ìwẹ ni wọn á gbé láàyè.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ó sì máa wáyé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bá rí"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ìwẹ",
+      "marks": "ìwẹ (ìwọ, fábùní)"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "àwọn ará Mitzrayim"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "wọn á sì wí"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "aya rẹ̀"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "wọn á sì pa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩mi",
+      "marks": "mi"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "ṣùgbọ́n ⟨את⟩ìwẹ",
+      "marks": "ìwẹ (ìwọ)"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "wọn á gbé láàyè"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:47.902568829Z",
+  "model": "glm-5.3"
+}

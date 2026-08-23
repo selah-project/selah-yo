@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Nítorí náà, ènìyàn rẹ̀ yóò padà wá síbi, èyí tí wọ́n bu ọ̀tun omi tó kún fún un ni wọ́n ń mu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "yóò padà wá"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ènìyàn rẹ̀"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "síbi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ati omi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tó kún"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "wọ́n ń mu (bu ọ̀tun)"
+    },
+    {
+      "surface": "למו",
+      "gloss": "fún wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:43.484993601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 18:23",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nítorí náà, jọwọ́, fi ẹ̀dùn-ọrọ̀ sílẹ̀ lọ ba ⟨את⟩ olúwa mi, ⟨את⟩ ọba Ashur — èmi yóò sì fún ẹ ní ẹgbẹ̀run méjì èso, bí o ṣe lè rí àwọn akọ́-èso fún ẹ láti gun wọn.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "fi ẹ̀dùn-ọrọ̀ sílẹ̀"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọwọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olúwa mi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "olúwa mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọba Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "èmi yóò sì fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ẹ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ẹgbẹ̀run méjì"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "èso"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "o lè"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "rí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ẹ"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "àwọn akọ́-èso"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "láti gun wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:35:40.064046458Z",
+  "model": "glm-5.3"
+}

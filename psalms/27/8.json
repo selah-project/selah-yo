@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Sí ọ̀dọ̀ rẹ, ọkàn mi wí pé: 'Ẹ ṣàwárí ojú mi'; ⟨את⟩ ojú rẹ, Yahweh, ni èmi yóò ṣàwárí.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Ẹ ṣàwárí"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú rẹ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "èmi yóò ṣàwárí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:13.795010340Z",
+  "model": "glm-5.3"
+}

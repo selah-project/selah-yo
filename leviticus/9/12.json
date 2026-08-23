@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ó sì pa ⟨את⟩ ẹbẹ ìsún, àwọn ọmọ Aharon sì mú ⟨את⟩ ẹ̀jẹ̀ rẹ̀ wá fún un, ó sì rán rán-an jákè-jákè lórí pẹpẹ́ náà.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ó sì pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹbẹ ìsún"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbẹ ìsún"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "sì mú wá"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀jẹ̀ rẹ̀"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ẹ̀jẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "ó sì rán rán-an"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ́ náà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jákè-jákè"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:15.989501908Z",
+  "model": "glm-5.3"
+}

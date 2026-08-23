@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ẹ fún Yahweh ipọ́ orúkọ rẹ̀; ẹ foríkanlẹ̀ fún Yahweh nínú ìyẹra ìmímọ́.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ẹ fún"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ipọ́"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "ẹ foríkanlẹ̀ fún"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "nínú ìyẹra"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ìmímọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:28.468477736Z",
+  "model": "glm-5.3"
+}

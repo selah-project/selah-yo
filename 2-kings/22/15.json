@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ó sọ sí wọn pé: Bẹ́ẹ̀ ni Yahweh, Elohim Yisrael, ti wí pé, Ẹ sọ fún ⟨ọkùnrin⟩ tí ó fi yín ránṣẹ́ ⟨את⟩ yín sí mi,",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ó sọ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Bẹ́ẹ̀"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ni wí"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Ẹ sọ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "fún ⟨ọkùnrin⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "fi yín ránṣẹ́"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yín — sí mi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:37:47.368723835Z",
+  "model": "glm-5.3"
+}

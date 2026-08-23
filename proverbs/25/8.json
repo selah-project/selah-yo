@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Má ṣe jáde fún ìjà ní kíákíá, kí o má mọ̀ kínni tí ìwọ yóò ṣe ní ìparí rẹ̀, nígbà tí ọrẹ rẹ̀ bá fi ⟨את⟩ ọ ṣe ẹ̀tùtà.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "jáde"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "fún ìjà"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ní kíákíá"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí o má"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kínni"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ìwọ yóò ṣe"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "ní ìparí rẹ̀"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "nígbà tí ó ba ṣe ẹ̀tùtà"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ọ",
+      "marks": "ọ (ìwọ fúnra rẹ)"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ọrẹ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:12:07.220730698Z",
+  "model": "glm-5.3"
+}

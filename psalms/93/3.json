@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 93,
+  "translation": "Òòrùn etí òkun ti gbé sókè, Yahweh; òòrùn etí òkun ti gbé ohùn wọn sókè; òòrùn etí òkun ń gbé ìkọ̀ ìjọ wọn sókè.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "ti gbé sókè"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "òòrùn etí òkun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ti gbé sókè"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "òòrùn etí òkun"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ohùn wọn"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ń gbé sókè"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "òòrùn etí òkun"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "ìkọ̀ ìjọ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:55.542666805Z",
+  "model": "glm-5.3"
+}

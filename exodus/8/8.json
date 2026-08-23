@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Mosheh àti Aharon jáde kúrò lọ́dọ̀ Paroh; Mosheh sì kígbe sí Yahweh nípa ọ̀rọ̀ àwọn ọ̀pọ̀lọ́ tí ó ti ṣe sí Paroh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "jáde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "àti Aharon"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kúrò lọ́dọ̀"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "ó sì kígbe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "àwọn ọ̀pọ̀lọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ó ti ṣe"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "sí Paroh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:57.017352915Z",
+  "model": "glm-5.3"
+}

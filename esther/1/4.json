@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Nígbà tí ó ń fihàn ⟨את⟩ rọ̀rùn ọlá ìjọba rẹ̀ àti ⟨את⟩ iyì ẹwà tóbi rẹ̀ — ọjọ́ púpọ̀, ọgọ́rún ọjọ́ lé mèẹ̀dógún.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "Nígbà tí ó ń fihàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rọ̀rùn ọlá ìjọba rẹ̀"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rọ̀rùn"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ọlá"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ìjọba rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iyì ẹwà tóbi rẹ̀"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "iyì"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ẹwà"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "tóbi rẹ̀"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "mèẹ̀dógún"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "lé ọgọ́rún"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:45:07.907549720Z",
+  "model": "glm-5.3"
+}

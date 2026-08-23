@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Yehoshafat sì wí pé, Ọ̀rọ̀ Yahweh wà lọ́dọ̀ rẹ̀. Ọba Israel, Yehoshafat àti ọba Edom sì sọkalè sí ọ̀dọ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "wà"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "wọ́n sì sọkalè"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sí ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "àti ọba"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-23T01:25:50.870066577Z",
+  "model": "glm-5.3"
+}

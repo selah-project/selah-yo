@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àwọn ọkùnrin Yisraẹl sì jáde sí ogun pẹ̀lú Binyamin, àwọn ọkùnrin Yisraẹl sì ṣètò ⟨את⟩ ogun léte lórí Givaah pẹ̀lú wọn.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ó sì jáde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹl"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sí ogun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "wọ́n sì ṣètò"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ogun (àwọn ọ̀tá — 'pẹ̀lú wọn')"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹl"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "léte lórí"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Givaah"
+    }
+  ],
+  "timestamp": "2026-08-23T00:42:21.870918106Z",
+  "model": "glm-5.3"
+}

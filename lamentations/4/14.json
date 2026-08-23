@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 4:14",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Wọ́n ti rìn káàkiri gẹ́gẹ́ bí olójú-ìfojú lórí ọ̀nà ìlú, wọ́n di àlọ́fò pẹ̀lú ẹ̀jẹ̀, tí wọn kò lè fi ọwọ́ kan aṣọ wọn.",
+  "tokens": [
+    {
+      "surface": "נעו",
+      "gloss": "wọ́n ti rìn káàkiri"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "gẹ́gẹ́ bí olójú-ìfojú"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "lórí ọ̀nà ìlú"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "wọ́n di àlọ́fò"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "pẹ̀lú ẹ̀jẹ̀"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "tí wọn kò"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "lè"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "fi ọwọ́ kan"
+    },
+    {
+      "surface": "בלבשיהם",
+      "gloss": "aṣọ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:37:46.186553509Z",
+  "model": "glm-5.3"
+}

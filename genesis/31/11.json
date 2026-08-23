@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Oṣẹ́ Elohim sì sọ fún mi nínú àlá: Yaakov! Emi sì wí, Kíyèsi i, èmi wà.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ fún"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Oṣẹ́"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "nínú àlá"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Emi sì wí"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Kíyèsi i, èmi wà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:06:13.043090383Z",
+  "model": "glm-5.3"
+}

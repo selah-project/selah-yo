@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 22:27",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Sí ilẹ̀ tí ẹ̀ ń fi ẹ̀mí yín sí láti padà síbẹ̀, síbẹ̀ ni ẹ̀ kì yóò padà sí.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Sí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ẹ̀"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "ń fi...sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí yín"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ẹ̀mí yín"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "láti padà"
+    },
+    {
+      "surface": "שם",
+      "gloss": "síbẹ̀"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "síbẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì yóò"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "padà sí"
+    }
+  ],
+  "timestamp": "2026-08-23T02:15:37.934540990Z",
+  "model": "glm-5.3"
+}

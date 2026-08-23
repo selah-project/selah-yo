@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Elohim mi, lóri mi ni ẹ̀mí mi ń súró; nítorí ìyẹn ni mo ti ń rántí rẹ̀, láti ilẹ̀ Yarden àti àwọn Hermonim, láti òkè Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lóri mi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "ń súró"
+    },
+    {
+      "surface": "על",
+      "gloss": "ló"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nítorí ìyẹn"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "mo ti ń rántí rẹ̀"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "láti ilẹ̀"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "àti àwọn Hermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "láti òkè"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:29.011145483Z",
+  "model": "glm-5.3"
+}

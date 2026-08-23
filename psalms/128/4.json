@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 128,
+  "translation": "Wò ó, nítorí náà ni okùnrin tí ó ń bẹ̀rù̀ Yahweh yóò ti di ìbùkún.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ gan-an"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "yóò ti di ìbùkún"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "okùnrin"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "tí ó ń bẹ̀rù̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:42.443077530Z",
+  "model": "glm-5.3"
+}

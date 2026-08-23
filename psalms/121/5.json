@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 121,
+  "translation": "Yahweh ní olùṣọ́ rẹ; Yahweh ní ìbòójú rẹ ní ọwọ́ ọ̀tún rẹ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "olùṣọ́ rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "ìbòójú rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ọ̀tún rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:01.184978589Z",
+  "model": "glm-5.3"
+}

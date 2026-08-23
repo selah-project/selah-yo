@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Gbogbo àwọn ọ̀rọ̀ jẹ́ ìnira; ẹnìyan kò lè sọ ọ́; ojú kì í kún láti rí, etí kì í sì kún láti gbọ́.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "jẹ́ ìnira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnìyan"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sọ ọ̀rọ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "kún láti kún"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "rí"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í sì"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "kún"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "etí"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "gbọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:47.423094971Z",
+  "model": "glm-5.3"
+}

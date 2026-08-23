@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 6:18",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àti sẹ́gì ni wọ́n fi bo ilé náà sí inú — ìkọ̀là ìgbà àti ìdí-òwú tí ó ti fẹ̀ jáde; gbogbo rẹ̀ ni sẹ́gì; kò sí òkúta tí ó farahàn.",
+  "tokens": [
+    {
+      "surface": "וארז",
+      "gloss": "àti sẹ́gì"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "sí inú"
+    },
+    {
+      "surface": "מקלעת",
+      "gloss": "ìkọ̀là"
+    },
+    {
+      "surface": "פקעים",
+      "gloss": "ìgbà"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "àti ìtí fẹ̀ jáde"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "ìdí-òwú"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "gbogbo rẹ̀"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sẹ́gì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "òkúta"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "tí ó farahàn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:13:15.856560530Z",
+  "model": "glm-5.3"
+}

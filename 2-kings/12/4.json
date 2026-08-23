@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ṣùgbọ́n nìkan, àwọn ibi-òkè kò yọ kúrò; ìjọ enìyàn náà sì tún ń ṣàbọ̀sà àti ń sun yúrà ní àwọn ibi-òkè.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ṣùgbọ́n nìkan"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "àwọn ibi-òkè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "yọ kúrò"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tún"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ enìyàn náà"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ń ṣàbọ̀sà"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ó sì ń sun yúrà"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ní àwọn ibi-òkè"
+    }
+  ],
+  "timestamp": "2026-08-23T01:31:58.223763722Z",
+  "model": "glm-5.3"
+}

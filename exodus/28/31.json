@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ìwọ sì máa ṣe ⟨את⟩ aṣọ̀ ẹ̀wù àgbà ti efodu, pátápátá ti àwọ̀ tẹ̀kílẹ̀ti.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ìwọ sì máa ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aṣọ̀ ẹ̀wù àgbà"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "aṣọ̀ ẹ̀wù àgbà"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodu"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "pátápátá"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "àwọ̀ tẹ̀kílẹ̀ti"
+    }
+  ],
+  "timestamp": "2026-08-22T23:28:05.295976350Z",
+  "model": "glm-5.3"
+}

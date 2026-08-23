@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Èmi óò pa ⟨את⟩ àwọn ibi-gíga yìn run, èmi óò kọ ⟨את⟩ àwọn òpọ́n-oòrùn yìn kúrò, èmi óò so ⟨את⟩ àwọn ẹ̀mi yìn lé lórí àwọn ẹ̀mi àwọn òrìṣà yìn, ẹ̀mí mi sì ni yóò korìíra ⟨את⟩ yín.",
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "èmi óò pa … run"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ibi-gíga yìn"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "àwọn ibi-gíga yìn"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "èmi óò kọ … kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òpọ́n-oòrùn yìn"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "àwọn òpọ́n-oòrùn yìn"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "èmi óò so … lé lórí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ẹ̀mi yìn"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "àwọn ẹ̀mi yìn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "àwọn ẹ̀mi"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "àwọn òrìṣà yìn"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "yóò korìíra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:47:40.421034458Z",
+  "model": "glm-5.3"
+}

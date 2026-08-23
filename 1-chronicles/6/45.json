@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 6:45",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àti láti ìdílé àwọn ọmọ Binjamin: ⟨את⟩ Geba pẹ̀lú àwọn pápá rẹ̀, àti ⟨את⟩ Alemeth pẹ̀lú àwọn pápá rẹ̀, àti ⟨את⟩ Anathoth pẹ̀lú àwọn pápá rẹ̀; gbogbo àwọn ìlú wọn, ìlú mẹ́tàlá nínú àwọn ìdílé wọn.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "àti láti ìdílé"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "àwọn ọmọ Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn pápá rẹ̀"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "àwọn pápá rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Alemeth"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemeth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn pápá rẹ̀"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "àwọn pápá rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Anathoth"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn pápá rẹ̀"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "àwọn pápá rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "àwọn ìlú wọn"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mẹ́tà"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-lá (mẹ́tàlá)"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "במשפחותיהם",
+      "gloss": "nínú àwọn ìdílé wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:10:53.610420542Z",
+  "model": "glm-5.3"
+}

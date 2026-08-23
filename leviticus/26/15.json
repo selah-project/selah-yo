@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "tí ẹ bá sì kọ̀ àwọn òfin mí sílẹ̀, tí ọkàn yín bá sì kórìíra ⟨את⟩ àwọn òdodo mí, láì ṣe ⟨את⟩ gbogbo àwọn àṣẹ mi, láti láṣẹ ⟨את⟩ májẹ̀mú mi fún yín,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tí ẹ bá sì"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "àwọn òfin mí"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "kọ̀ sílẹ̀"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tí ẹ bá sì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òdodo mí"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "àwọn òdodo mí"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "kórìíra"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "ọkàn yín"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "láì ṣe"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn àṣẹ mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "àwọn àṣẹ mi"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "láti láṣẹ fún yín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "májẹ̀mú mi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "májẹ̀mú mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:40.981439480Z",
+  "model": "glm-5.3"
+}

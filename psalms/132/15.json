@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 132,
+  "translation": "Oúnjẹ rẹ̀ ni èèbùkún rere ni mo ó bùkún lé e lóre; àwọn aláìní rẹ̀ ni mo ó sọ́ kún pẹ̀lú búrẹ́dì.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "oúnjẹ rẹ̀"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "mo ó bùkún"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "mo ó bùkún lóre"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "àwọn aláìní rẹ̀"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "mo ó sọ́ kún"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pẹ̀lú búrẹ́dì"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:40.507415797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 121,
+  "translation": "Yahweh yóò ṣọ́ ọ́ kúrò lọ́wọ́ ibi gbogbo; òun yóò pa ⟨את⟩ ẹ̀mí rẹ mọ́.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "yóò ṣọ́ ọ́"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kúrò lọ́wọ́ gbogbo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "yóò pa mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí rẹ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ẹ̀mí rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:01.185268196Z",
+  "model": "glm-5.3"
+}

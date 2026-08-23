@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ìbùkún ni ⟨ìwọ⟩ ní ìlú, ìbùkún sì ni ⟨ìwọ⟩ ní pámọ́.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ìbùkún ni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ní ìlú"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ìbùkún sì ni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ní pámọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:19:28.573703664Z",
+  "model": "glm-5.3"
+}

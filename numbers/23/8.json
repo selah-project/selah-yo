@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Báwo ni mo ti lè ṣe ègún fún ẹni tí El kò ṣe ègún fún? Báwo ni mo ti lè bú ẹni tí Yahweh kò bú?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "báwo ni"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "ṣe ègún fún"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "ṣe ègún fún"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "sì báwo ni"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "bú fún"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "bú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:06.504663463Z",
+  "model": "glm-5.3"
+}

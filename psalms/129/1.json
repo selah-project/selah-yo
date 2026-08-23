@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 129,
+  "translation": "Orin tí ó ń gòkè. Púpọ̀ ni wọ́n ti ṣọ́ mi láti ìgbà èwe mi — kí Yisrael sọ̀rọ̀ báyìí pé:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tí ó ń gòkè"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Púpọ̀"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "wọ́n ti ṣọ́ mi"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "láti ìgbà èwe mi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kí … sọ̀rọ̀"
+    },
+    {
+      "surface": "נא",
+      "gloss": "báyìí pé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:07.146627637Z",
+  "model": "glm-5.3"
+}

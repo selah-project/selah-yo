@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Gẹ́gẹ́ bí gbogbo tí Yahweh pàṣẹ fún Moshe, bẹ́ẹ̀ ni àwọn ọmọ Yisrael ṣe ⟨את⟩ gbogbo iṣẹ́ náà.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "gẹ́gẹ́ bí gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo iṣẹ́ náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "iṣẹ́ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:22.061695974Z",
+  "model": "glm-5.3"
+}

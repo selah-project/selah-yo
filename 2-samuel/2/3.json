@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àwọn ọkùnrin rẹ̀ tí ó wà pẹ̀lú rẹ̀ ni Dawid gbé sókè — ọkùnrin kọ̀ọ̀kan pẹ̀lú ilé rẹ̀ — wọ́n sì gbé nínú àwọn ìlú Hevron.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "àwọn ọkùnrin rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ó gbé sókè"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin kọ̀ọ̀kan"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "pẹ̀lú ilé rẹ̀"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wọ́n sì gbé"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "nínú àwọn ìlú"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    }
+  ],
+  "timestamp": "2026-08-23T00:57:35.870858300Z",
+  "model": "glm-5.3"
+}

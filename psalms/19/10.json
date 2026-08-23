@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ìbẹ̀ru Yahweh mọ́, ó dúró fún ayé tí ó gbẹ̀yìn; ìdájọ́ Yahweh jẹ́ òótọ́, wọ́n ṣe olódodo pọ̀ odidi.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Ìbẹ̀ru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "ó dúró"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "fún ayé tí ó gbẹ̀yìn"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "òótọ́"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ṣe olódodo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pọ̀ odidi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:35.696250824Z",
+  "model": "glm-5.3"
+}

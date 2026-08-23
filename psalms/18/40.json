@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nítorí ìwọ ti ṣe mí ní agbára fún ìjà ogun; ìwọ ti fa àwọn tí ó dìde sí mi mi lábẹ́ mi.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "Ìwò ti fi agbára bọ̀ mí"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "agbára"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "fún ìjà ogun"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "Ìwò ti fọ́ ọ̀fun wọn"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "àwọn tí ó dìde sí mi"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "lábẹ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:26.404336686Z",
+  "model": "glm-5.3"
+}

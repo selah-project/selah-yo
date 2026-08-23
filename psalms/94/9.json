@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "Ẹni tí ó gbin etí, ṣé kì í gbọ́? Ẹni tí ó ṣẹ̀dá ojú, ṣé kì í wo?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Ẹni tí ó gbin"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "etí"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ṣé kì í"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ẹni tí ó"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ṣẹ̀dá"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ṣé kì í"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "wo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:55.089540091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Pẹ̀lú ayọ̀ àti àyàlà ni wọ́n á gbé wọn wá; wọ́n yóò wọ inú àáfín ọba.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "wọ́n á gbé wọn wá"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "pẹ̀lú ayọ̀"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "àti àyàlà"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "wọ́n yóò wọ"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "inú àáfín"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:37.897986349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Ọkàn mi ń yọ̀ ní ọ̀rọ̀ rere; èmi ìwí ⟨àwọn⟩ iṣẹ́ mi fún ọba; ahọ́n mi jẹ́ kìkọ̀-ìkọ̀ ti akọ̀wé tí ó yára.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "ń yọ̀"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ìwí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "iṣẹ́ mi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fún ọba"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ahọ́n mi"
+    },
+    {
+      "surface": "עט",
+      "gloss": "kìkọ̀-ìkọ̀"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "akọ̀wé"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "tí ó yára"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:13.794692507Z",
+  "model": "glm-5.3"
+}

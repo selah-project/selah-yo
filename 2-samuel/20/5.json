@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Amasa sì lọ láti ké ⟨את⟩ Yúdà pò, ó sì kọjá ìgbà tí ó ti pinnu fún un.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "sì lọ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "láti ké pò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yúdà"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yúdà"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "ó sì kọjá"
+    },
+    {
+      "surface": "מן",
+      "gloss": "káàkiri ìgbà"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "ìgbà pinnu náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "ó pinnu fún un"
+    }
+  ],
+  "timestamp": "2026-08-23T01:07:17.682075363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Gbogbo àwọn arábàbí talíà kórìíra rẹ̀; pàápàá jù lọ, àwọn ọ̀rẹ́ rẹ̀ ti jìnà kúrò lọ́dọ̀ rẹ̀; ó ń tọ̀ àwọn ọ̀rọ̀ lẹ́yìn — kò sí wọn.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "àwọn arábàbí"
+    },
+    {
+      "surface": "רש",
+      "gloss": "talíà"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "kórìíra rẹ̀"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pàápàá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jù lọ"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "àwọn ọ̀rẹ́ rẹ̀"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ti jìnà"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kúrò lọ́dọ̀ rẹ̀"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "ń tọ̀ … lẹ́yìn"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:10:02.905799028Z",
+  "model": "glm-5.3"
+}

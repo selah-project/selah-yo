@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àti ⟨את⟩ àwọn ìṣèlẹ̀ méjì, àti ⟨את⟩ ọra tí ó wà lé wọn, tí ó wà lórí àwọn ìpàkọ̀ ẹ̀gbẹ́, àti ⟨את⟩ abala tí ó wà lórí edé, lórí àwọn ìṣèlẹ̀ ni yóò yọ ọ́ kúrò.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìṣèlẹ̀ méjì"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "àwọn ìṣèlẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ọra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "tí ó wà lé wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "על",
+      "gloss": "tí ó wà lórí"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "àwọn ìpàkọ̀ ẹ̀gbẹ́"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "abala"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "abala"
+    },
+    {
+      "surface": "על",
+      "gloss": "tí ó wà lórí"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "edé"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "àwọn ìṣèlẹ̀"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "yóò yọ ọ́ kúrò"
+    }
+  ],
+  "timestamp": "2026-08-22T23:36:02.149838841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Nígbà tí Natan wọ̀ ọ́dọ̀ rẹ̀, ánàṣọ Ọlọ́hun, lẹ́yìn ìgbà tí ó bá wọ̀ ọ̀dọ̀ Bat-Sheva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "nígbà tí… wọ̀"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ọ́dọ̀ rẹ̀"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ánàṣọ Ọlọ́hun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ó bá wọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ọ̀dọ̀"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:14.291287273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "kí wọn má ṣe jẹ́ kí wọn ru ⟨את⟩ ẹ̀ṣẹ̀ àṣẹ̀tíà nígbà tí wọn bá jẹ ⟨את⟩ nǹkan mímọ́ wọn; nítorí pé emi ni Yahweh, Ẹni tí ó ń fún wọn ní mímọ́.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "kí wọn má ṣe jẹ́ kí wọn ru"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀ṣẹ̀ àṣẹ̀tíà"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "àṣẹ̀tíà"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "nígbà tí wọn bá jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nǹkan mímọ́ wọn"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "nǹkan mímọ́ wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "Ẹni tí ó ń fún wọn ní mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:58.767729387Z",
+  "model": "glm-5.3"
+}

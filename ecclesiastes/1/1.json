@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ìròyìn Kohelet, ọmọ Dawidu, ọba ní Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Ìròyìn"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:00.482731475Z",
+  "model": "glm-5.3"
+}

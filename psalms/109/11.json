@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Kí onígbésè pa gbogbo ohun tí ó ní mọ́làẹ́tọ̀, kí àwọn àjèjì sì já iṣẹ́-àrò rẹ̀ lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "kí … pa mọ́làẹ́tọ̀"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "onígbésè"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ó ní"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "kí àwọn … sì já … lọ́wọ́"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "àwọn àjèjì"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "iṣẹ́-àrò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:30.920281888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ìwọ ó sì fọ́ iná-agbon náà sí ojú àwọn ọkùnrin tí ń rin ⟨את⟩ pẹ̀lú rẹ.",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "Ìwọ ó sì fọ́"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "iná-agbon náà"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "sí ojú"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "tí ń rin"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ pẹ̀lú rẹ",
+      "marks": "ìwọ (tí wọn ń bá rin)"
+    }
+  ],
+  "timestamp": "2026-08-23T02:16:13.032127481Z",
+  "model": "glm-5.3"
+}

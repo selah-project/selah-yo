@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 66,
+  "translation": "Ẹ wá, ẹ gbọ́, ẹ gbọ́dọ̀ jọ wá, gbogbo ẹni tí ó ń bẹ̀rù Elohim; èmi yóó sì sọ nípa ohun tí ó ṣe fún ẹ̀mí mi.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ẹ wá"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ẹ gbọ́"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "èmi yóó sì sọ nípa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ẹni tí ó ń bẹ̀rù"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "fún ẹ̀mí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:36.685037203Z",
+  "model": "glm-5.3"
+}

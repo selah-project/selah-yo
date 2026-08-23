@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 41:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Ó sì wáyé ní àárọ̀, ẹ̀mí rẹ̀ bàjẹ́; ó sì ránṣẹ́, ó pé ⟨את⟩ gbogbo àwọn oníṣègùn-orí Mitzrayim àti ⟨את⟩ gbogbo àwọn ọlọgbọ́n rẹ̀; Paroh sì sọ ⟨את⟩ àlá rẹ̀ fún wọn, ṣùgbọ́n kò sí ẹni tí ó lè tú wọn fún Paroh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "bàjẹ́"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ẹ̀mí rẹ̀"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì ránṣẹ́"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ó pé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn oníṣègùn-orí Mitzrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "àwọn oníṣègùn-orí"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ọlọgbọ́n rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "àwọn ọlọgbọ́n rẹ̀"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "sì sọ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àlá rẹ̀"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "àlá rẹ̀"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "פותר",
+      "gloss": "ẹni tí ó lè tú"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "àwọn àlá"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "fún Paroh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:09:38.311424492Z",
+  "model": "glm-5.3"
+}

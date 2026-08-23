@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 25:2",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ó sì jẹ́ pé tí ẹni tí ó ṣe ẹṣẹ̀ bá tọ́ láti lù, adájọ́ ó sì gbé e lẹ́gbẹ́, wọ́n sì lù ú níwájú rẹ̀, gẹ́gẹ́ bí ẹṣẹ̀ rẹ̀ ṣe tó, ní ìṣe ìka",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ó sì jẹ́ pé"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בן",
+      "gloss": "tọ́"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "láti lù"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ẹni tí ó ṣe ẹṣẹ̀"
+    },
+    {
+      "surface": "והפילו",
+      "gloss": "ó sì gbé e lẹ́gbẹ́"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "adájọ́"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "wọ́n sì lù ú"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "níwájú rẹ̀"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "gẹ́gẹ́ bí ... ṣe tó"
+    },
+    {
+      "surface": "רשעתו",
+      "gloss": "ẹṣẹ̀ rẹ̀"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ní ìṣe ìka"
+    }
+  ],
+  "timestamp": "2026-08-23T00:16:44.408224865Z",
+  "model": "glm-5.3"
+}

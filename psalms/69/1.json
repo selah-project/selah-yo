@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Fún olùdarí-orin, lórí Shoshannim; orin ti David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí-orin"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "orin ti David"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:20.996520293Z",
+  "model": "glm-5.3"
+}

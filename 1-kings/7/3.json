@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Wọ́n sì bo ọ́ ní cedar láti ọ̀kẹ̀ lórí àwọn ẹgbẹ́ tí ó wà lórí àwọn colomọ̀nụ náà — mẹ́rindínlógójì àti márùn-ún, márùn-dínlógún ni sáfúár kọ̀ọ̀kan.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "wọ́n sì bo ọ́"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "ní cedar"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "láti ọ̀kẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "àwọn ẹgbẹ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "àwọn colomọ̀nụ náà"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ogójì"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "àti márùn-ún"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "márùn"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dínlógún"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "sáfúár"
+    }
+  ],
+  "timestamp": "2026-08-23T01:13:21.746540443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ìbùkún fún àwọn ọkùnrin rẹ, àti ìbùkún fún àwọn ìránṣẹ́ rẹ wọnyí, tí ó dúró níwájú rẹ nígbà gbogbo, tí ó sì ń gbọ́ ⟨את⟩ ọgbọ́n rẹ.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ìbùkún fún"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "àwọn ọkùnrin rẹ"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "àti ìbùkún fún"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "àwọn ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "tí ó dúró"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "níwájú rẹ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "tí ó sì ń gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbọ́n rẹ"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ọgbọ́n rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T05:27:01.094329685Z",
+  "model": "glm-5.3"
+}

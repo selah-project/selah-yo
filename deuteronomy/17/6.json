@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ní ẹnu àwọn ẹlẹ́rìí méjì tàbí àwọn ẹlẹ́rìí mẹ́ta ni a ó pa ẹni-ikú náà kú; kì í ṣe ní ẹnu ẹlẹ́rìí kan ṣoṣo ni a ó pa á kú.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "àwọn ẹlẹ́rìí"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "àwọn ẹlẹ́rìí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a ó pa … kú"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ẹni-ikú náà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a ó pa … kú"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ẹlẹ́rìí"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan ṣoṣo"
+    }
+  ],
+  "timestamp": "2026-08-23T00:16:06.989461674Z",
+  "model": "glm-5.3"
+}

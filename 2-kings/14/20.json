@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Wọn gbe ⟨את⟩ rえ̀ lórí àwọn ẹṣin, wọn sì sin í ní Yerushalayim pẹ̀lú àwọn baba rẹ̀, ní ìlú Dafidi.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "wọn gbe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rẹ̀ (Amatsjahu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "àwọn ẹṣin"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wọn sin í"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "àwọn baba rẹ̀"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ní ìlú"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:31:53.179716346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó wí pé: Nítorí èmi yóò wà pẹ̀lú rẹ; àti èyí ni ààmì fún ọ̀wọ́ rẹ pé èmi ni ó rán ọ́: nígbà tí o bá ti mú ⟨את⟩ ènìyàn náà jáde kúrò lọ́wọ́ Mitsrayim, ẹ̀yin yóò máa sìn ⟨את⟩ Elohim lórí òkè yìí.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó wí pé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "èmi yóò wà"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pẹ̀lú rẹ"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "àti èyí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ̀wọ́ rẹ"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ààmì"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "ó rán ọ́"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "nígbà tí o bá ti mú ... jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ènìyàn náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kúrò lọ́wọ́ Mitsrayim"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "ẹ̀yin yóò máa sìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:51.829380821Z",
+  "model": "glm-5.3"
+}

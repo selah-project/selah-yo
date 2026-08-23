@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Iwọ óò pa àwọn tó ń sọ irọ́; ẹni-ẹjẹ àti ẹni ìdan, Yahweh ń korira wón.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "ióò pa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "àwọn tó ń sọ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "irọ́"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ẹjẹ"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "àti ìdan"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "ń korira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T06:19:43.995172304Z",
+  "model": "glm-5.3"
+}

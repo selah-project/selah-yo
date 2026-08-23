@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Èmi ⟨ń sọ fún ọ́⟩: ẹnu ọba gbọ́, àti nítorí ìbúra ti Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti nítorí"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "⟨fúnni lábé ìbúra⟩"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "ìbúra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:51.252676564Z",
+  "model": "glm-5.3"
+}

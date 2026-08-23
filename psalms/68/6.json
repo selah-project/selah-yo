@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Baba ti àwọn ọmọ-orí, àti Olùdájọ́ ti àwọn opó, ni Elohim ní ibùgbé mímọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Baba ti"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "àwọn ọmọ-orí"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "àti Olùdájọ́ ti"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "àwọn opó"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "ní ibùgbé"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mímọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:28.329820765Z",
+  "model": "glm-5.3"
+}

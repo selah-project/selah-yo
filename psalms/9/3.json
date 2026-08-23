@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Èmi yóò dùn unequal láti yọ̀, èmi yóò yọ̀ sílẹ̀ nínú rẹ; èmi yóò kọ orin fún orúkọ rẹ, El Elyon.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "èmi yóò dùn ṣe ayọ̀"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "àti èmi yóò yọ̀ sílẹ̀"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nínú rẹ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "èmi yóò kọ orin fún"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon ⟨Ògága jùlọ⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:10.905744914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 4:12",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Wọ́n ó gba ⟨את⟩ gbogbo àwọn irinṣẹ́ iṣẹ́-ìsìn tí wọ́n fi ń ṣe ìsìn ní ààyè mímọ́, wọ́n ó sì fi sí i sínú aṣọ̀ tekelet, wọ́n ó sì bo ⟨את⟩ wọn ní àbọ́ ara tàcháshì, wọ́n ó sì gbé wọn lórí ìká.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Wọ́n ó gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn irinṣẹ́ iṣẹ́-ìsìn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "àwọn irinṣẹ́"
+    },
+    {
+      "surface": "השרת",
+      "gloss": "iṣẹ́-ìsìn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "wọ́n fi ń ṣe ìsìn"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pẹ̀lú wọn"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ní ààyè mímọ́"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "wọ́n ó sì fi sí i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "sínú aṣọ̀"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelet"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "wọ́n ó sì bo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn (àwọn irinṣẹ́ náà)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "ní àbọ́"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ara"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tàcháshì"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "wọ́n ó sì gbé"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "ìká"
+    }
+  ],
+  "timestamp": "2026-08-22T23:50:25.849398948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 6:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ṣe okun ọkàn àwọn ènìyàn yìí, ṣe ẹ̀tí wọn dúró, pa ojú wọn dé; kí wọn má baà rí pẹ̀lú ojú wọn, gbọ́ pẹ̀lú ẹ̀tí wọn, ye ọkàn wọn, yípadà, kí a sì gba là fún wọn.",
+  "tokens": [
+    {
+      "surface": "השמן",
+      "gloss": "Ṣe okun"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "ẹ̀tí wọn sì"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ṣe dúró"
+    },
+    {
+      "surface": "ועיניwu",
+      "gloss": "ojú wọn sì",
+      "note": "typo guard"
+    },
+    {
+      "surface": "השע",
+      "gloss": "pa dé"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí wọn má baà"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rí"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "pẹ̀lú ojú wọn"
+    },
+    {
+      "surface": "ובאזניו",
+      "gloss": "pẹ̀lú ẹ̀tí wọn sì"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "ולבבו",
+      "gloss": "ọkàn wọn sì"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "yípadà"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "kí a sì gba là"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:42:46.298768881Z",
+  "model": "glm-5.3"
+}

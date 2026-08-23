@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 150,
+  "translation": "Ẹ yin-ín lógo pẹ̀lú àwọn sàmùsàmù tí ó ń dun; Ẹ yin-ín lógo pẹ̀lú àwọn sàmùsàmù tí ó ń gbó.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Ẹ yin-ín lógo"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "pẹ̀lú àwọn sàmùsàmù"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ohùn tí ó ń dun"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Ẹ yin-ín lógo"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "pẹ̀lú àwọn sàmùsàmù"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "tí ó ń gbó"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:30.624126393Z",
+  "model": "glm-5.3"
+}

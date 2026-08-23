@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Fún olùdarí-orin, orin-ẹ̀kọ́-ọ̀gbọ́n ti àwọn ọmọ Korach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí-orin"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "orin-ẹ̀kọ́-ọ̀gbọ́n"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ti àwọn ọmọ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:24.122916700Z",
+  "model": "glm-5.3"
+}

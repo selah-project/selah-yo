@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Moshe àti Aharon sì gba ⟨את⟩ àwọn ọkùnrin wọny tí a ti kọ orúkọ wọn sílẹ̀ pẹ̀lú ìkanísọrúkọ",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "sì gba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "àti Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọkùnrin wọny"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "a ti kọ orúkọ wọn sílẹ̀"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "pẹ̀lú ìkanísọrúkọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:48:02.819770964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 83,
+  "translation": "Lóri àwọn ènìyàn rẹ ni wọ́n ń pèsè ìṣèlè pẹ̀lú ọgbọ́n-ìjànìyà, wọ́n sì ń ṣè ìgbìmọ̀ràn lóri àwọn tí o fi pamọ́.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Lóri"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "àwọn ènìyàn rẹ"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "ń pèsè ìṣèlè pẹ̀lú ọgbọ́n-ìjànìyà"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "ìgbìmọ̀ràn-pamọ́"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "wọ́n sì ń ṣè ìgbìmọ̀ràn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lóri"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "àwọn tí o fi pamọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:41.151368176Z",
+  "model": "glm-5.3"
+}

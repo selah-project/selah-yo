@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Ọkùnrin náà sì ṣe bí Yosef ti sọ, àti pé ọkùnrin náà mú ⟨את⟩ àwọn ọkùnrin náà wá sínú ilé Yosef.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "àti pé ó mú … wá"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọkùnrin náà"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "àwọn ọkùnrin náà"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sínú ilé"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-22T23:11:19.744535040Z",
+  "model": "glm-5.3"
+}

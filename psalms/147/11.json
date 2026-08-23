@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Yahweh ṣe àyọ̀ nípa ⟨את⟩ àwọn tí ń bẹ̀rù rẹ̀, ⟨את⟩ àwọn tí ń retí chesed rẹ̀.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "ṣe àyọ̀ nípa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn tí ń bẹ̀rù rẹ̀"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "àwọn tí ń bẹ̀rù rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn tí ń retí chesed rẹ̀"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "àwọn tí ń retí"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "chesed rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:33.012414662Z",
+  "model": "glm-5.3"
+}

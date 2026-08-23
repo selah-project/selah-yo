@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "àti láti ṣe àkóso lórí ọ̀sán àti lórí òru, àti láti sọ́ ìmọ́lẹ̀ àti ìkùù kọ̀ọ̀ lọ́nà ààyè: Elohim sì rí i pé ó dára.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "àti láti ṣe àkóso"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "lórí ọ̀sán"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "àti lórí òru"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "àti láti sọ́ -- lọ́nà ààyè"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ìmọ́lẹ̀"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàárín"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ìkùù"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "sì rí i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ó dára"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:39.622831019Z",
+  "model": "glm-5.3"
+}

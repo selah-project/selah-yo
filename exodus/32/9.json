@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Yahweh sì wí fún Moshe pé: Mo ti rí ⟨את⟩ iṣẹ̀ kan yìí, ki ẹ sì mọ̀ pé ìran ti ó le, tí orúkọ rẹ̀ ni kẹṣẹ-orí, ni wọ́n.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Mo ti rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣẹ̀ kan yìí"
+    },
+    {
+      "surface": "העם",
+      "gloss": "iṣẹ̀ kan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ki ẹ sì mọ̀ pé"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ti ó le"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "kẹṣẹ-orí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni wọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:37.070278299Z",
+  "model": "glm-5.3"
+}

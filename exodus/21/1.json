@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Àwọn òfin-ìdájọ́ wọnyí ni ó gbọ́dọ̀ fi síwájú wọn.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Àwọn òfin-ìdájọ́ wọnyí"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "òfin-ìdájọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ní"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ó gbọ́dọ̀ fi síwájú"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:10.734781514Z",
+  "model": "glm-5.3"
+}

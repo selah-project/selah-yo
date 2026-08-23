@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Àti ⟨את⟩ ìbọ́n-orí ti a ṣe láti inú fáìnsí líìnì, àti ⟨את⟩ àwọn adé-òrí ọlá ti a ṣe láti inú fáìnsí líìnì, àti ⟨את⟩ àwọn aṣọ-ìdí ti a ṣe láti inú líìnì fáìnsí tí a sọ mọ́ra pọ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ìbọ́n-orí"
+    },
+    {
+      "surface": "שש",
+      "gloss": "inú fáìnsí líìnì"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "àwọn adé-òrí ọlá"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "ti a ṣe láti inú fáìnsí líìnì"
+    },
+    {
+      "surface": "שש",
+      "gloss": "fáìnsí líìnì"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "àwọn aṣọ-ìdí"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "líìnì"
+    },
+    {
+      "surface": "שש",
+      "gloss": "fáìnsí"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tí a sọ mọ́ra pọ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:53.875093312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 12:15",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ó sì gbọ́ràn sílẹ̀ fún gbogbo ìjọ — kì í ṣe bẹ́ẹ̀, ọba kò gbọ́ràn sí àwọn ènìyàn nítorí tí ìyípadà wà láti ọ̀dọ̀ Yahweh, nítorí kí ó lè ṣẹ́ àṣẹ rẹ̀ ⟨את⟩ ọ̀rọ̀ rẹ̀, èyí tí Yahweh sọ nípa ọwọ́ Achiyah ará Shilo sí Jeroboam, ọmọ Nebat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kì í ṣe bẹ́ẹ̀ \/ èyí tí kò"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́ràn sí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "סבה",
+      "gloss": "ìyípadà"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "láti ọ̀dọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí kí ó lè"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ṣẹ́ àṣẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nípa ọwọ́"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achiyah"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "ará Shilo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    }
+  ],
+  "timestamp": "2026-08-23T05:52:20.171196888Z",
+  "model": "glm-5.3"
+}

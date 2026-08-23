@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Tí ẹ bá sì sọ pé, Kí ni a óò jẹ nínú ọdún kẹ́je? — kíyèsi, a kì í gbín, a kì í sì kó ⟨את⟩ ikore wa mọ́lé.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Tí ẹ bá sì"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "sọ pé"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kí ni"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "a óò jẹ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "nínú ọdún"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "kẹ́je"
+    },
+    {
+      "surface": "הן",
+      "gloss": "kíyèsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "gbín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í sì"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "kó … mọ́lé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikore wa"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "ikore wa"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:18.862942766Z",
+  "model": "glm-5.3"
+}

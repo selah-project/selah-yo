@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àti ìpilẹ̀ ⟨naa⟩, okúta iyebíye, okúta ńlá — okúta ogún ìgbà-ọwọ́, àti okúta mẹ́jọ ìgbà-ọwọ́.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "àti ìpilẹ̀"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "okúta"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "iyebíye"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "okúta"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "okúta"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ìgbà-ọwọ́"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "àti okúta"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "mẹ́jọ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ìgbà-ọwọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:19.127243478Z",
+  "model": "glm-5.3"
+}

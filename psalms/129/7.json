@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 129,
+  "translation": "Tí ẹ̀ọ̀n oní kò fi kún ọwọ́ rẹ̀, áti ìkóyà rẹ̀ kò kún ẹnu-àpò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "tí … kò"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kún"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ọwọ́ rẹ̀ (ikarahun ọwọ́)"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "ẹ̀ọ̀n oní"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "áti ìkóyà rẹ̀ (ẹnu-àpò rẹ̀)"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "ẹni tí ó ń kó ọ̀kẹ̀ àlùbọ́sà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:10.412539785Z",
+  "model": "glm-5.3"
+}

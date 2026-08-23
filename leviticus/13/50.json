@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Oníṣẹ́ mímọ́ náà kí ó wo ⟨את⟩ arún náà, ó sì kó ⟨את⟩ arún náà pamọ́ fún ọjọ́ méje.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kí ó wo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "oníṣẹ́ mímọ́ náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arún náà"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "arún náà"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ó sì kó pamọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arún náà"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "arún náà"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "méje"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:43:12.877939769Z",
+  "model": "glm-5.3"
+}

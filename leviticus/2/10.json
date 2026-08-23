@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Èyí tí ó kù lára minchah, ní ti Aharon àti tí àwọn ọmọ rẹ̀; ⟨ó jẹ́⟩ mímọ́ àwọn mímọ́, lára àwọn ẹbùn iná Yahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Èyí tí ó kù"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lára"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ní ti Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "àti tí àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "àwọn mímọ́"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "lára àwọn ẹbùn iná"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:02.247616157Z",
+  "model": "glm-5.3"
+}

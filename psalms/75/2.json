@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 75,
+  "translation": "A dúpẹ́ lọ́dọ̀ rẹ, Elohim, a dúpẹ́; orúkọ rẹ sì kú nítòsí; wọ́n sọ ìṣẹ̀-ìyanu rẹ kalẹ̀.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "a dúpẹ́"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "a dúpẹ́"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "sì kú nítòsí"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "wọ́n sọ … kalẹ̀"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ìṣẹ̀-ìyanu rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:43.094113950Z",
+  "model": "glm-5.3"
+}

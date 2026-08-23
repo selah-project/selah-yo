@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Wọ́n sì wà láti wò Yisrael nínú wọn, láti mọ̀ dájúdájú bí wọ́n bá gbọ́ràn sí ⟨את⟩ àwọn àṣẹ Yahweh tí ó pa ⟨את⟩ àwọn baba wọn mọ́ ní ọwọ́ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "wọ́n sì wà"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "láti wò"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wọn nínú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "láti mọ̀ dájúdájú bí"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "wọ́n bá gbọ́ràn sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àṣẹ Yahweh"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "àwọn àṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ó pa … mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn baba wọn"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ní ọwọ́"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-23T00:32:41.922288705Z",
+  "model": "glm-5.3"
+}

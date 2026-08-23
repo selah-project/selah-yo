@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 60,
+  "translation": "O ti fi ohun tí ó le hàn fún àwọn ènìyàn rẹ; O ti mu wa mu wáínì ìrùn-para.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "O ti hàn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "fún àwọn ènìyàn rẹ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ohun tí ó le"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "O ti mu wa mu"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wáínì"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "ìrùn-para"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:51.168966803Z",
+  "model": "glm-5.3"
+}

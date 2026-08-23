@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Fún olùdarí-orin, fún Yedutun; orin-kíkún fún David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí-orin"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "fún Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin-kíkún"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:44.949370017Z",
+  "model": "glm-5.3"
+}

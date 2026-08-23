@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Wọ́n gbé ọ̀rọ̀ àwọn ààmì rẹ̀ lára wọn, àti àwọn ìṣerére ní ilẹ̀ Ham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Wọ́n gbé"
+    },
+    {
+      "surface": "בם",
+      "gloss": "lára wọn"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "àwọn ààmì rẹ̀"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "àti àwọn ìṣerére"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:17.995416502Z",
+  "model": "glm-5.3"
+}

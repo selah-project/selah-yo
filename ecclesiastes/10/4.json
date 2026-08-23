@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Tí ẹ̀mí aláṣẹ bá gbé sókè lórí rẹ, má ṣe fi ipò rẹ sílẹ̀; nítorí ìwọsàn yóò jẹ́ kí ìṣẹ̀ tí ó tóbi balẹ̀.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí … bá"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "aláṣẹ"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "bá gbé sókè"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "lórí rẹ"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "ipò rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "fi sílẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ìwọsàn"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "yóò jẹ́ kí … balẹ̀"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ìṣẹ̀"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "tóbi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:20.340532612Z",
+  "model": "glm-5.3"
+}

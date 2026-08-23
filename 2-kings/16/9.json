@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ọba Ashur sì gbọ́ràn síi; ọba Ashur sì gbé sí Damaseki, ó gba á mú, ó sì kó àwọn ènìyàn rẹ̀ lọ sí Kiiru, ó sì pa ⟨את⟩ Retzin.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "gbọ́ràn síi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "síi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "gbé sí"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaseki"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "gba á mú"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "kó àwọn ènìyàn rẹ̀ lọ sí"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kiiru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retzin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retzin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-08-23T01:35:05.026733080Z",
+  "model": "glm-5.3"
+}

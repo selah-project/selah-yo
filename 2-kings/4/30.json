@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìyá ọmọ náà sì wí: Bí Yahweh ṣe wà láàyè, àti bí ẹ̀mí rẹ ṣe wà láàyè, èmi kì yóò fi ọ sílẹ̀. Ó sì dìde, ó sì tẹ̀lé é.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ó sì wí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ìyá"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ọmọ náà"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wà láàyè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "àti bí... ṣe wà láàyè"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ẹ̀mí rẹ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "kì yóò fi ọ sílẹ̀"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Ó sì dìde"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "tẹ̀lé é"
+    }
+  ],
+  "timestamp": "2026-08-23T01:27:37.462625772Z",
+  "model": "glm-5.3"
+}

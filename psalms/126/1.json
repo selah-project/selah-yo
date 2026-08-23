@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 126,
+  "translation": "Orin tí ó ń gòkè. Nígbà tí Yahweh sọ ⟨את⟩ ìpadà Ọmọ Tsiyon wá, a jẹ́ bí àwọn tí ó ń sùn lálà.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tí ó ń gòkè"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "nígbà tí… sọ… wá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìpadà Ọmọ Tsiyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "ìpadà"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ọmọ Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "a jẹ́"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "bí àwọn tí ó ń sùn lálà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:52.995336650Z",
+  "model": "glm-5.3"
+}

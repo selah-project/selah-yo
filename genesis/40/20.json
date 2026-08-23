@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ó sì sẹ́lẹ̀ ní ọjọ́ kẹta, ọjọ́ ìbí ⟨את⟩ Paroh, ó sì ṣe ayẹyẹ ìmu fún gbogbo iranṣẹ rẹ̀; ó sì gbé ⟨את⟩ orí adarí awakọ̀-ọtí àti ⟨את⟩ orí adarí awọn olùgbẹ́ sókè láàárín iranṣẹ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì sẹ́lẹ̀"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kẹta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "ìbí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ayẹyẹ ìmu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iranṣẹ rẹ̀"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ó sì gbé…sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orí adarí awakọ̀-ọtí"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "שר",
+      "gloss": "adarí"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "awakọ̀-ọtí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "orí adarí awọn olùgbẹ́"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "שר",
+      "gloss": "adarí"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "awọn olùgbẹ́"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iranṣẹ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:10:08.815351126Z",
+  "model": "glm-5.3"
+}

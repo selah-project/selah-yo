@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 75,
+  "translation": "Ẹ má ṣe gbé eṣú yín sókè sí òkè; ẹ má ṣe sọ̀rọ̀ pẹ̀lú ọrùn tí ó dí ru.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "gbé sókè"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "sí òkè"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "eṣú yín"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "ẹ má ṣe sọ̀rọ̀"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "pẹ̀lú ọrùn"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "tí ó dí ru"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:32.226273612Z",
+  "model": "glm-5.3"
+}

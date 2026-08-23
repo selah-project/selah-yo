@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Elohim ọ̀, má jìnnà sí mi; Elohim mi, kí o ṣíjú bọ̀ sí àràbọ̀ mi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jìnnà sí"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "sí àràbọ̀ mi"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "ṣíjú bọ̀ \/ kánráánú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:19.587606360Z",
+  "model": "glm-5.3"
+}

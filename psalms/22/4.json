@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ṣùgbọ́n ìwọ ni mímọ́, ẹni tí ó gbé inú ìyìn Israẹli.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ṣùgbọ́n ìwọ ni"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ẹni tí ó gbé inú"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ìyìn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:11.294550869Z",
+  "model": "glm-5.3"
+}

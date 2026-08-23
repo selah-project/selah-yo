@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 122,
+  "translation": "Ẹ bẹ́ ⟨kí⟩ àlàáfíà fún Yerushalayim; kí àwọn tí ó fẹ́ ẹ́ gba àlàáfíà.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "ẹ bẹ́"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "kí...gba àlàáfíà"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "àwọn tí ó fẹ́ ẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:37.766946167Z",
+  "model": "glm-5.3"
+}

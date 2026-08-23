@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ó sì mú ⟨את⟩ ẹbọ ẹ̀yin-iná wá, ó sì ṣe é gẹ́gẹ́ bí òfin.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ó sì mú wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹbọ ẹ̀yin-iná"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbọ ẹ̀yin-iná"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "ó sì ṣe é"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "gẹ́gẹ́ bí òfin"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:33.624649327Z",
+  "model": "glm-5.3"
+}

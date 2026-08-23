@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 13:12",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Tí èémóò bá tan kálẹ̀ ní àwọ ènìyàn, tí ó sì bo ⟨את⟩ gbogbo awọ ènìyàn àrùn náà, láti orí rẹ̀ títí dé ẹsẹ̀ rẹ̀, ní ojú olùṣẹ́ ìjọsìn gbogbo rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tí"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "tan kálẹ̀"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "bá…tan kálẹ̀"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "èémóò náà"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ní àwọ ènìyàn"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "tí ó sì bo"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "èémóò náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo awọ ènìyàn àrùn náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "awọ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ti arùn náà bá"
+    },
+    {
+      "surface": "מראשו",
+      "gloss": "láti orí rẹ̀"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú olùṣẹ́ ìjọsìn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "olùṣẹ́ ìjọsìn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:39:10.827232320Z",
+  "model": "glm-5.3"
+}

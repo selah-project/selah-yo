@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Nígbà náà ni Adad sá ṣálẹ́, òun àti àwọn ọkùnrin ará Edom, láti àwọn ìránṣẹ́ baba rẹ̀, ⟨את⟩ pẹ̀lú rẹ̀, láti wọ sí Mitzrayim; Hadad sì jẹ́ ọmọdé kékeré.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "sá ṣálẹ́"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Adad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "àti àwọn ọkùnrin"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "ará Edom"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "láti àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pẹ̀lú rẹ̀",
+      "marks": "Adad àti àwọn ọkùnrin ará Edom"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "láti wọ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "Hadad sì"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ọmọdé"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kékeré"
+    }
+  ],
+  "timestamp": "2026-08-23T01:19:00.485607671Z",
+  "model": "glm-5.3"
+}

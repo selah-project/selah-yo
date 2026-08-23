@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ní ọjọ́ Shabat, ní ọjọ́ Shabat ni a ó gbé e sí ìlànà níwájú Yahweh nígbagbogbo; láti ọ̀dọ̀ ⟨את⟩ àwọn ọmọ Yisrael, májẹ̀mú àìnípẹ̀kun.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "ni a ó gbé e sí ìlànà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbagbogbo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "àìnípẹ̀kun"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:51.680548303Z",
+  "model": "glm-5.3"
+}

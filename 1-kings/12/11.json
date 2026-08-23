@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ṣùgbọ́n nísìn yìí, baba mi fi ẹrù tó wúwo lé yín, èmi ó sì ṣàfikún sí ẹrù yín; baba fi ⟨את⟩ yín ṣe ìyà pẹ̀lú àwọn àbọ̀ta, èmi yóò sì fi ⟨את⟩ yín ṣe ìyà pẹ̀lú àwọn akẹ̀kẹ̀.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ṣùgbọ́n nísìn yìí"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba mi"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "fi lé"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "lé yín"
+    },
+    {
+      "surface": "על",
+      "gloss": "ẹrù"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tó wúwo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "èmi ó sì"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ṣàfikún"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ẹrù yín"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "fi ṣe ìyà"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yín"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "pẹ̀lú àwọn àbọ̀ta"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "èmi yóò sì"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ṣe ìyà"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yín"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "pẹ̀lú àwọn akẹ̀kẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:18:55.310884360Z",
+  "model": "glm-5.3"
+}

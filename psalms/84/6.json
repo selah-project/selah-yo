@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 84,
+  "translation": "Ìdàgbà-sókè fún ènìyàn tí ipá rẹ̀ wà nípasẹ̀ rẹ, ọ̀nà ìrìn-àjò sí ìgbà wà nínú ọkàn wọn.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ìdàgbà-sókè fún"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "ipá"
+    },
+    {
+      "surface": "לו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nípasẹ̀ rẹ"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ọ̀nà ìrìn-àjò"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "wà nínú ọkàn wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:49.578868494Z",
+  "model": "glm-5.3"
+}

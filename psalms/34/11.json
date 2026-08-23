@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Àwọn kìnrànjá ń ṣàísàn wọ́n sì ń bíẹ̀, ṣùgbọ́n àwọn tí ó ń wá Yahweh kì í ṣí ohun rere kankan.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "àwọn kìnrànjá"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "ń ṣàísàn"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "wọ́n sì ń bíẹ̀"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "ṣùgbọ́n àwọn tí ó ń wá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣí"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "ṣí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kankan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ohun rere"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:07.213181236Z",
+  "model": "glm-5.3"
+}

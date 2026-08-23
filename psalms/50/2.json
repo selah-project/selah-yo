@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Láti Zioni, ibi-kíkún-ẹwà, Elohim ti tan ìmọ́lẹ̀ jáde.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Láti Zioni"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "ibi-kíkún"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "ẹwà"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "ti tan ìmọ́lẹ̀ jáde"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:22.092579904Z",
+  "model": "glm-5.3"
+}

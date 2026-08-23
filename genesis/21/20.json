@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Elohim sì wà pẹ̀lú ⟨את⟩ ọmọkùnrin náà, ó sì dàgbà, ó sì gbé inú ijù, ó sì di olọ́fà tí ó pọ̀ ijọ̀ ṣiṣẹ́ bẹ́ẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sì wà"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọkùnrin náà"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ọmọkùnrin náà"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "sì dàgbà"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sì gbé"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "inú ijù"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sì di"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "pọ̀ ijọ̀ ṣiṣẹ́"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "olọ́fà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:01:19.251051082Z",
+  "model": "glm-5.3"
+}

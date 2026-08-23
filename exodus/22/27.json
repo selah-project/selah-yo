@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Má ṣe fi ẹnu kà Elohim, àti adarí láwọn ènìyàn rẹ̀, má ṣe ègún.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "fi ẹnu kà"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "àti adarí"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "láwọn ènìyàn rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ègún"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:10.833520391Z",
+  "model": "glm-5.3"
+}

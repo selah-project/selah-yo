@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 34:16",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ṣùgbọ́n ẹ padà sí ẹ̀yìn, ẹ sì sọ ⟨את⟩ orúkọ mi di àìmọ́; ẹ̀yin sì padà gbé ọkọ̀ọ̀kan dá ⟨את⟩ ẹrú rẹ̀, àti ọkọ̀ọ̀kan ⟨את⟩ ọmọ-ọ̀dọ̀ rẹ̀, tí ẹ ti fi lọ lọ́fẹ̀ sí ìfẹ́ ẹ̀mí wọn; ẹ sì mú wọn lẹ́wọ̀n láti jẹ́ tí ẹ̀yin níwọ́n ⟨את⟩ wọn sí jẹ́ àwọn ẹrú àti àwọn ọmọ-ọ̀dọ̀ fún yín.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "ẹ padà sí ẹ̀yìn"
+    },
+    {
+      "surface": "ותחללו",
+      "gloss": "ẹ sì sọ... di àìmọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ mi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "orúkọ mi"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "ẹ sì padà gbé... dá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkọ̀ọ̀kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹrú rẹ̀"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ẹrú rẹ̀"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "àti ọkọ̀ọ̀kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ-ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "ọmọ-ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "ẹ ti fi lọ"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "lọ́fẹ̀"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "sí ìfẹ́ ẹ̀mí wọn"
+    },
+    {
+      "surface": "ותכבשו",
+      "gloss": "ẹ sì mú wọn lẹ́wọ̀n"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn ẹrú àti ọmọ-ọ̀dọ̀)"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "láti jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "àwọn ẹrú"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "àti àwọn ọmọ-ọ̀dọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:24:17.134889805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Nítorí ìfẹ́-ìjìjà ilé rẹ ti jẹ mi, àti àwọn ẹ̀gàn àwọn tí ó ń sọ̀rọ̀-ẹ̀gàn rẹ ti subú lórí mi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ìfẹ́-ìjìjà"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ilé rẹ"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "ti jẹ mi"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "àti àwọn ẹ̀gàn"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "àwọn tí ó ń sọ̀rọ̀-ẹ̀gàn rẹ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ti subú"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:39.501574111Z",
+  "model": "glm-5.3"
+}

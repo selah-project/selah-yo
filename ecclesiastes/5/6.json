@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Nítorí ní ìpọ̀ àlá àti àìṣeédé, ọ̀rọ̀ sì pọ̀; ṣùgbọ́n ẹ bẹ̀rù ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí ní"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ìpọ̀"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "àlá"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "àti àìṣeédé"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ọ̀rọ̀ sì"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "pọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ẹ bẹ̀rù"
+    }
+  ],
+  "timestamp": "2026-08-23T04:43:09.845145245Z",
+  "model": "glm-5.3"
+}

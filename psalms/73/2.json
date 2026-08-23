@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Ṣùgbọ́n èmi, ẹsẹ̀ mi kéré iye kí ó tó yí kúrò; ìgbesẹ̀ mi sì bi aláìní-ipo, tí ó tú kálẹ̀.",
+  "tokens": [
+    {
+      "surface": "ו אני",
+      "gloss": "Ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "kéré iye"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "yí kúrò"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ẹsẹ̀ mi"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "bi aláìní-ipo"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "tú kálẹ̀"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ìgbesẹ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:30.019801214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Moshe sì ń bọ́ ⟨את⟩ àgbo Yitro, ẹ̀gúrò rẹ̀, adarí ti Midian; ó sì darí ⟨את⟩ àgbo náà lẹ́yìn ijù náà, ó sì wọ sí òkè Elohim, Horeb.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Moshe sì"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ń"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgbo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "àgbo"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ẹ̀gúrò rẹ̀"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "adarí"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "ó sì darí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgbo náà"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "àgbo náà"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ijù náà"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì wọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Horeb"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:17.109448016Z",
+  "model": "glm-5.3"
+}

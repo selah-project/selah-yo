@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àti obìnrin tí ó bá sún mọ́ ẹranko kèékèèké láti fi ìdọ̀bálẹ̀ rẹ̀ sí i ⟨את⟩ — ìwọ yóò pa ⟨את⟩ obìnrin náà àti ⟨את⟩ ẹranko náà; ikú ni wọ́n yóò kú; ẹ̀jẹ̀ wọn wà lórí wọn.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "àti obìnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "sún mọ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kèékèèké"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "láti fi ìdọ̀bálẹ̀ rẹ̀ sí i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "i (ẹranko)"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "ìwọ yóò pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obìnrin náà"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "obìnrin náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹranko náà"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ẹranko náà"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "yóò kú"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ẹ̀jẹ̀ wọn"
+    },
+    {
+      "surface": "בם",
+      "gloss": "lórí wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:30.678497418Z",
+  "model": "glm-5.3"
+}

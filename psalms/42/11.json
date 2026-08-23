@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Gẹ́gẹ́ bí ọ̀kàn ẹjì nínú egungún mi, àwọn ọ̀tá mi ń bú mi lọ́wọ́; nígbà tí wọ́n ń sọ fún mi ní ọjọ́ gbogbo pé, Elohim rẹ kò wà níbí?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "gẹ́gẹ́ bí ọ̀kàn ẹjì"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "nínú egungún mi"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "wọ́n ń bú mi lọ́wọ́"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "nígbà tí wọ́n ń sọ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kò wà níbí?"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:46.637658744Z",
+  "model": "glm-5.3"
+}

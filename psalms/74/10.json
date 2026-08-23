@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Títí tí ó ṣe é ṣe, Elohim, ni ọ̀tá yóò fi ń yẹ̀yẹ́ ? Ṣé ọ̀tá yóò fi náàsírí Orúkọ rẹ láláíàìgbà?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "tí ó ṣe é ṣe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "ń yẹ̀yẹ́"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ọ̀tá"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "yóò fi náàsírí"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ọ̀tá"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Orúkọ rẹ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "láláíàìgbà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:16.452485912Z",
+  "model": "glm-5.3"
+}

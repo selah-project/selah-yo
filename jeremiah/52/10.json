@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 52,
+  "translation": "Ọba Babiloni sì pa ⟨את⟩ àwọn ọmọ Tsidkiyahu lójú rẹ̀; ó sì tún pa ⟨את⟩ gbogbo àwọn íjògbọ́n Yehudah ní Riblaha.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "sì pa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babiloni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Tsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "lójú rẹ̀"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ó sì tún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn íjògbọ́n Yehudah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "àwọn íjògbọ́n"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "ní Riblaha"
+    }
+  ],
+  "timestamp": "2026-08-23T05:59:22.573335427Z",
+  "model": "glm-5.3"
+}

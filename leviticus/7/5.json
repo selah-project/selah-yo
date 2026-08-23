@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àti pé aláṣẹ yóó sún wọn lóru lórí pẹ́tùrú-pẹ́tùrú yìí, ẹbùn iná fún Yahweh; ẹbùn-àṣẹ̀ṣe ni.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "yóó sún lóru lórí"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aláṣẹ yìí"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pẹ́tùrú-pẹ́tùrú yìí"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ẹbùn iná"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ẹbùn-àṣẹ̀ṣe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:48.862234607Z",
+  "model": "glm-5.3"
+}

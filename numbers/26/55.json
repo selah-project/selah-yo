@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ṣùgbọ́n nípa ìfọ̀nká nìkan ni ⟨את⟩ ilẹ̀ yóò pín; ní àwọn orúkọ àwọn ẹ̀yà àwọn baba wọn ni wọn yóò gba ogún.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ṣùgbọ́n níkan"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "nípa ìfọ̀nká"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "yóò pín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "ní àwọn orúkọ"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "àwọn ẹ̀yà"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "wọn yóò gba ogún"
+    }
+  ],
+  "timestamp": "2026-08-23T00:01:40.425338011Z",
+  "model": "glm-5.3"
+}

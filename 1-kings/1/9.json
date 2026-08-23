@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 1:9",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Adonijah sì gbé àwọn agbò, màlùù àti ẹran-ọ̀yàbo ṣàjọyọ̀ ní etí ọ̀kúta Zocheleth, tí ó wà ní etí En-Rogel; ó sì pè gbogbo àwọn ará ìyá rẹ̀, àwọn ọmọ ọba, àti gbogbo àwọn ọkùnrin Yehudah, àwọn ìránṣẹ́ ọba.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "sì gbé…ṣàjọyọ̀"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijah"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "àwọn agbò"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "màlùù"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "ẹran-ọ̀yàbo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ní etí"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ọ̀kúta"
+    },
+    {
+      "surface": "הזחלת",
+      "gloss": "Zocheleth"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "wà ní etí"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "Rogel"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ó sì pè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ará ìyá rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "àwọn ará ìyá rẹ̀"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T01:09:50.875491366Z",
+  "model": "glm-5.3"
+}

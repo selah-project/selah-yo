@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Ẹ wo sí Avraham bàbá yín, àti sí Sarah tí ó bí yín; nítorí pé ọ̀kan ni mo pè é, èmi sì bù kún ú, mo sì sọ ọ́ pọ̀.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "ẹ wo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "bàbá yín"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "tí ó bí yín"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "mo pè é"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "mo bù kún ú"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "mo sọ ọ́ pọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:01:08.675455751Z",
+  "model": "glm-5.3"
+}

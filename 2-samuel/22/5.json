@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Nítorí àwọn ìjì ikú yì í ka mi; ìtòsọ̀nà Belial bẹ̀rù mi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "yì í ka mi"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "àwọn ìjì"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "ìtòsọ̀nà"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "bẹ̀rù mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:05:58.770751637Z",
+  "model": "glm-5.3"
+}

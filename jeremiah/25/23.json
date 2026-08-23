@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "àti ⟨את⟩ Dedan, àti ⟨את⟩ Tema, àti ⟨את⟩ Buz, àti ⟨את⟩ gbogbo àwọn tí ó gé kóní orí wọn pé.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Tema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn tí ó gé kóní orí wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "tí ó gé kóní"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "etí orí"
+    }
+  ],
+  "timestamp": "2026-08-23T02:17:14.924581263Z",
+  "model": "glm-5.3"
+}

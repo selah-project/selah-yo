@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Jẹ́ òkè-apátà fún mi, ibi ìgbé tí mo máa ń wọ̀ láìní ìdáni; ìgbésẹ̀ ti o pa làṣẹ láti gbà mí là nítorí ìwọ ni apátà mi àti èdè ìdénà mi.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "òkè-apátà"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ibi ìgbé"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "tí mo máa ń wọ̀"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "láìní ìdáni"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "o pa làṣẹ"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "láti gbà mí là"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "apátà mi"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "àti èdè ìdénà mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ ni"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:49.763971383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Ki wọn dúpe sí Yahweh nítorí ìfẹ́ olóòtítọ́ rẹ̀, àti nítorí àwọn iṣẹ́ ìyanu rẹ̀ sí àwọn ọmọ ènìyàn.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ki wọn dúpe sí"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ̀"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "àti àwọn iṣẹ́ ìyanu rẹ̀"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sí àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:31.990095989Z",
+  "model": "glm-5.3"
+}

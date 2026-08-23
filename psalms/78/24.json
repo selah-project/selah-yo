@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó sì rọ̀ ọ̀jọ́ mánà bò sí wọn láti jẹ, ó sì fún wọn ní àgbàdo ọ̀run.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "Ó sì rọ̀ ọ̀jọ́ bò sí"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mánà"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "láti jẹ"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "àti àgbàdo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ó fún"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wọn ní"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:49.707561329Z",
+  "model": "glm-5.3"
+}

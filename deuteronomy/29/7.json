@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "A sì gba ⟨את⟩ ilẹ̀ wọn, a sì fi jẹ gẹ́gẹ́ bí èrè-ìní fún àwọn Reuveni, àti fún àwọn Gadi, àti fún ìdámẹ̀wàá ẹ̀yà Ménashe.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "A sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ wọn"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ilẹ̀ wọn"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "a sì fi jẹ"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "gẹ́gẹ́ bí èrè-ìní"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "fún àwọn Reuveni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "àti fún àwọn Gadi"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "àti fún ìdámẹ̀wàá"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ẹ̀yà"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Ménashe"
+    }
+  ],
+  "timestamp": "2026-08-23T00:19:48.550195599Z",
+  "model": "glm-5.3"
+}

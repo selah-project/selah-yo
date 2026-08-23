@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Ìwọ sì, ní ìbọ̀wọ̀ tó tọ́ mi, gbà mí lẹ́yìn, ìwọ sì gbé mí dúró níwájú ojú rẹ̀ títí láéláé.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ìwọ sì"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "ní ìbọ̀wọ̀ tó tọ́ mi"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "gbà mí lẹ́yìn"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "ìwọ sì gbé mí dúró"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "níwájú ojú rẹ̀"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:52.465829240Z",
+  "model": "glm-5.3"
+}

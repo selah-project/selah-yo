@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì le ⟨את⟩ Adamu náà kúrò, ó sì gbé ⟨את⟩ àwọn kerubimu dúró ní ìlà-oòrùn ọ̀gbà Eden, àti ⟨את⟩ ìjọná idà náà tí ó ń yí padà, láti ṣọ́ ⟨את⟩ ọ̀nà igi ìyè náà.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "ó sì le kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adamu náà"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adamu náà"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "ó sì gbé dúró"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ní ìlà-oòrùn"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "ọ̀gbà"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn kerubimu"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "àwọn kerubimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọná idà náà"
+    },
+    {
+      "surface": "להט",
+      "gloss": "ìjọná"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "idà náà"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "tí ó ń yí padà"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "láti ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀nà"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ìyè náà"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:11.553111716Z",
+  "model": "glm-5.3"
+}

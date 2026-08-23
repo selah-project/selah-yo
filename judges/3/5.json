@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn ọmọ Yisraẹl sì gbé láàrín ⟨àwọn⟩ Kenaani, ⟨àwọn⟩ Hiti, àti ⟨àwọn⟩ Amori, àti ⟨àwọn⟩ Perizi, àti ⟨àwọn⟩ Hivi, àti ⟨àwọn⟩ Jebusi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Àwọn ọmọ sì"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹl"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "láàrín"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "⟨àwọn⟩ Kenaani"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "⟨àwọn⟩ Hiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "àti ⟨àwọn⟩ Amori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "àti ⟨àwọn⟩ Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "àti ⟨àwọn⟩ Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "àti ⟨àwọn⟩ Jebusi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:32:38.942533569Z",
+  "model": "glm-5.3"
+}

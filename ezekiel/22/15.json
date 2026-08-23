@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Èmi yóò sọ ⟨את⟩ ọ ká sí àwọn orílẹ̀-èdè, èmi yóò tú ọ ká láàárín àwọn ilẹ̀, èmi yóò sì parun àìṣọ̀ọ́ rẹ kúrò lọ́dọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "èmi yóò sọ ọ ká sí"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ọ (iwọ)"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "èmi yóò tú ọ ká láàárín"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "àwọn ilẹ̀"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "èmi yóò sì parun"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "àìṣọ̀ọ́ rẹ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kúrò lọ́dọ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:44:42.854046697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Ọ̀kọ̀ọ̀kan-ìmọ̀ (maschil), ti Eitanu ti Ezrahi.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ọ̀kọ̀ọ̀kan-ìmọ̀"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ti Eitanu"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ti Ezrahi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:14.430185970Z",
+  "model": "glm-5.3"
+}

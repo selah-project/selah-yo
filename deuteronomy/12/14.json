@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 12:14",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "ṣùgbọ́n ní ibi tí Yahweh bá yàn ní ìkan nínú àwọn èyà rẹ, níbẹ̀ ni o ti gbé ìrúbọ́ rẹ sókè, àti níbẹ̀ ni o ti ṣe gbogbo ohun tí èmi ń pa ọ́ lẹ́ṣẹ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ní"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ní ibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "bá yàn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ní ìkan nínú"
+    },
+    {
+      "surface": "שבטיך",
+      "gloss": "àwọn èyà rẹ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "gbé … sókè"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "ìrúbọ́ rẹ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "àti níbẹ̀"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ń pa ọ́ lẹ́ṣẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:12:24.286176581Z",
+  "model": "glm-5.3"
+}

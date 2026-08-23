@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 100,
+  "translation": "Ẹ sìn ⟨את⟩ Yahweh ní ayọ̀; ẹ wá síwájú rẹ̀ ní orin ìjíjì.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Ẹ sìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ní ayọ̀"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ẹ wá"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "síwájú rẹ̀"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "ní orin ìjíjì"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:01.233321791Z",
+  "model": "glm-5.3"
+}

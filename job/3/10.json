@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Nítorí pé kò pa ilẹ̀kùn ìbáradì èmi, kò sì fi ìṣẹ̀ rírú pamọ́ kúrò lọ́wọ́ ojú mi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "ilẹ̀kùn"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ìbáradì èmi"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "kò sì fi pamọ́"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ìṣẹ̀ rírú"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "kúrò lọ́wọ́ ojú mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:15:05.564855558Z",
+  "model": "glm-5.3"
+}

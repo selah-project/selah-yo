@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 18:51",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó ń fún Ọba rẹ̀ ní ìṣègbàsílẹ̀ ńlá, Ó sì ń ṣe chesed fún Mashiach rẹ̀, fún David àti fún ìrùnlẹ̀ rẹ̀ títí láéláé.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "Ó ń fún … ní ńlá"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ìṣègbàsílẹ̀"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "Ọba rẹ̀"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "Ó sì ń ṣe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "fún Mashiach rẹ̀"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "àti fún ìrùnlẹ̀ rẹ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:07.118053976Z",
+  "model": "glm-5.3"
+}

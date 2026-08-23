@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ọkùnrin jáde láàrín àwọn ẹ̀gbẹ́ méjì, láti inú àwọn àgọ́ ogun àwọn Plishtim, Goliath ni orúkọ rẹ̀, láti Gati; ìgàárà rẹ̀ sì jẹ́ ẹ̀wà mẹfà àti ìfọnú.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "sì jáde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "láàrín àwọn ẹ̀gbẹ́ méjì"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "láti inú àwọn àgọ́ ogun"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Plishtim"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliath"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "láti Gati"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ìgàárà rẹ̀"
+    },
+    {
+      "surface": "שש",
+      "gloss": "mẹfà"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ẹ̀wà"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "àti ìfọnú"
+    }
+  ],
+  "timestamp": "2026-08-23T00:49:41.205533127Z",
+  "model": "glm-5.3"
+}

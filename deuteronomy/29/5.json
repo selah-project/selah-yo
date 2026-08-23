@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Búrẹ́dì ẹ kò jẹ, wáínì àti ọtì líle ẹ kò mu, kí ẹ lè mọ̀ pé èmi ni Yahweh, Elohim yín.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Búrẹ́dì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "ẹ kò jẹ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "àti wáínì"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "àti ọtì líle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "ẹ kò mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí ẹ lè"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:19:48.549636566Z",
+  "model": "glm-5.3"
+}

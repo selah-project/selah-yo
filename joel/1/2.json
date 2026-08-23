@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Gbọ́ èyí, àwọn arúgbọ́n, kọ́ ẹ̀tí gbọ́, gbogbo àwọn tí ó ń gbé ilẹ̀ ayé: ṣé èyí ti ṣẹlẹ̀ nínú ọjọ́ yín, tàbí nínú ọjọ́ àwọn baba yín?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "àwọn arúgbọ́n"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "kọ́ ẹ̀tí gbọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "àwọn tí ó ń gbé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "ṣé ... ti ṣẹlẹ̀"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "nínú ọjọ́ yín"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nínú ọjọ́"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "àwọn baba yín"
+    }
+  ],
+  "timestamp": "2026-08-23T03:04:05.617109679Z",
+  "model": "glm-5.3"
+}

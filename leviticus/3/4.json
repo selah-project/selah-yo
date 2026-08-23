@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àti ⟨את⟩ àwọn ìṣú mẹ́jì, àti ⟨את⟩ ọra tí ó wà léra wọn, tí ó sì wà lórí àwọn ẹ̀gbẹ́-ẹyẹ̀; àti ⟨את⟩ èwù ìṣú tí ó wà lórí ẹ̀dọ̀, lórí àwọn ìṣú ni ó gbé e kúrò.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Àti ⟨את⟩",
+      "marks": "àwọn ìṣú mẹ́jì"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mẹ́jì"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "àwọn ìṣú"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ọra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "tó wà léra wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó sì wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "àwọn ẹ̀gbẹ́-ẹyẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "èwù ìṣú"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "èwù ìṣú"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ẹ̀dọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "àwọn ìṣú"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ó gbé e kúrò"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:46.780925711Z",
+  "model": "glm-5.3"
+}

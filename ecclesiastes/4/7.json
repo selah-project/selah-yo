@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Èmi sì padà, mo sì rí ⟨את⟩ ìrẹ́kẹ́kẹ́ lábẹ́ òòrùn.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "èmi sì padà"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mo sì rí"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ìrẹ́kẹ́kẹ́"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "òòrùn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:13.025176726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Èmi kì í ṣe ẹni-rere, aṣẹ́kù ni èmi; ṣùgbọ́n Adonai gbọ́n lọkàn nípa mi; ìrànlọ́wọ́ mi àti olùgbanijàbúrẹ̀ mi ni Iwọ, Elohim mi; ṣàìgbéradùrọ̀.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kì í ṣe ẹni-rere"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "aṣẹ́kù"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "gbọ́n lọkàn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nípa mi"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "ìrànlọ́wọ́ mi"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "olùgbanijàbúrẹ̀ mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Iwọ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "gbéradùrọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:16.538150389Z",
+  "model": "glm-5.3"
+}

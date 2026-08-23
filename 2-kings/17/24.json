@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 17:24",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ọba Ashur sì mú àwọn ènìyàn wá láti Bavel, àti láti Kuta, àti láti Ava, àti láti Hamat, àti láti Sefarvayim, ó sì jẹ́ wọn dúró ní àwọn ìlú Shomron ní ipò àwọn ọmọ Yisrael; wọ́n sì gba ⟨את⟩ Shomron ní dídà, wọ́n sì gbé nínú àwọn ìlú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì mú … wá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "láti Bavel"
+    },
+    {
+      "surface": "ומכותה",
+      "gloss": "àti láti Kuta"
+    },
+    {
+      "surface": "ומעוא",
+      "gloss": "àti láti Ava"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "àti láti Hamat"
+    },
+    {
+      "surface": "וספרוים",
+      "gloss": "àti láti Sefarvayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó sì jẹ́ wọn dúró"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "ní àwọn ìlú"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "wọ́n sì gba … ní dídà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shomron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wọ́n sì gbé"
+    },
+    {
+      "surface": "בעריה",
+      "gloss": "nínú àwọn ìlú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:29.685520882Z",
+  "model": "glm-5.3"
+}

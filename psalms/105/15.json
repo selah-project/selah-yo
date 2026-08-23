@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ẹ má ṣe kàn Mashiach mi, ẹ sì má ṣe ṣe búburú sí àwọn wòlíì mi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kàn"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Mashiach mi"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "ẹ sì má ṣe... sí àwọn wòlíì mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ṣe búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:03.193165069Z",
+  "model": "glm-5.3"
+}

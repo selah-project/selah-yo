@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ẹ padà sí èdè-èkọ́ mi; kíyèsi, èmi ó ṣàn ẹ̀mí mi sí yín, ó ó ṣe àfihàn àwọn ọ̀rọ̀ mi sí ⟨את⟩ yín.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "ẹ padà"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "sí èdè-èkọ́ mi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kíyèsi"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "èmi ó ṣàn jáde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sí yín"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ó ó ṣe àfihàn"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "àwọn ọ̀rọ̀ mi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    }
+  ],
+  "timestamp": "2026-08-23T04:02:07.091123014Z",
+  "model": "glm-5.3"
+}

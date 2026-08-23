@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Àwọn ọmọ Reuven sì kó ⟨את⟩ Cheshbon, àti ⟨את⟩ Elale, àti ⟨את⟩ Kiryataim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Àwọn ọmọ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Kiryataim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryataim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:45:06.727197410Z",
+  "model": "glm-5.3"
+}

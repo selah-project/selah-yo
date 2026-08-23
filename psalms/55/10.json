@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Adonai, gbé wọ́n mi lójú, pín àwọn ètèe wọn níyà, nítorí mo ti rí ìkọlù àti ìjà nínú ìlú náà.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "gbé wọ́n mi lójú"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "pín níyà"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "àwọn ètèe wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mo ti rí"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìkọlù"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "àti ìjà"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nínú ìlú náà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:57.148351296Z",
+  "model": "glm-5.3"
+}

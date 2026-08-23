@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ìwọ kí ó gba ⟨את⟩ àwọn okùn òkúta shoham méjì, kí ó sì gbé àwọn orúkọ àwọn ọmọ Yisrael kalẹ̀ lórí wọn.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kí ó gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn okùn òkúta shoham méjì"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "àwọn òkúta"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "kí ó sì gbé kalẹ̀"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lórí wọn"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "àwọn orúkọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:17.660027195Z",
+  "model": "glm-5.3"
+}

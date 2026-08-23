@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Tamar, iyàwọ ọmọ rẹ̀, bí i ⟨את⟩ Peretz àti ⟨את⟩ Zerach fún un. Àpapọ̀ àwọn ọmọ Yehudah jẹ́ márùn-ún.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "iyàwọ ọmọ rẹ̀"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "bí i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peretz"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Àpapọ̀"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "márùn-ún"
+    }
+  ],
+  "timestamp": "2026-08-23T05:08:19.616039206Z",
+  "model": "glm-5.3"
+}

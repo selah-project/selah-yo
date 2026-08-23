@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó sì ko àwọn ọkùnrin já ara rẹ̀, ó sì di olórí àwọn jagunjagun nígbà tí Davidi ń pa ⟨את⟩ wọn; wọ́n sì lọ sí Damasẹki, wọ́n sì gbé níbẹ̀, wọ́n sì jọba ní Damasẹki.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "sì ko ... já ara rẹ̀"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ara rẹ̀"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sì di"
+    },
+    {
+      "surface": "שר",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "àwọn jagunjagun"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "nígbà tí ... ń pa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wọ́n sì lọ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "sí Damasẹki"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wọ́n sì gbé"
+    },
+    {
+      "surface": "בה",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "wọ́n sì jọba"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "ní Damasẹki"
+    }
+  ],
+  "timestamp": "2026-08-23T01:18:31.269855328Z",
+  "model": "glm-5.3"
+}

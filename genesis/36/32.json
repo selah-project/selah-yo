@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Bela ọmọ Beor jọba ní Edomu; orúkọ ìlú rẹ̀ sì ní Dinhabah.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "jọba"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ní Edomu"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "orúkọ ... sì"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ìlú rẹ̀"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "Dinhabah"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:31.014489937Z",
+  "model": "glm-5.3"
+}

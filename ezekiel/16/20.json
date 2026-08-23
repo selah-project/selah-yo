@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "O gba ⟨את⟩ àwọn ọmọ rẹ àti ⟨את⟩ àwọn ọmọbìnrin rẹ tí ó bí fún mi, o sì fi wọn rú ẹbọ fún wọn láti jẹ; ṣé èye ni, èyí tí ìṣègbèrè rẹ jẹ́?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "o sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọbìnrin rẹ"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "àwọn ọmọbìnrin rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "bí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "o sì fi wọn rú ẹbọ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "láti jẹ"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "ṣé èye ni"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "èyí tí ìṣègbèrè rẹ jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T02:39:43.056298787Z",
+  "model": "glm-5.3"
+}

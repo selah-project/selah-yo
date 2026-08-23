@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 52,
+  "translation": "Iwọ fẹ́ràn búburú ju ti rere lọ, èké ju sísọ òdodo lọ. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Iwọ fẹ́ràn"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ju ti rere lọ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "èké"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ju sísọ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "òdodo lọ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:10.829378850Z",
+  "model": "glm-5.3"
+}

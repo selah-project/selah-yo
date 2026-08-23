@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àti ní báyìí, igbẹ́ ló wà fún ẹ láti inú ilẹ̀, tí ó ti ṣí ẹnu rẹ̀ láti gba ⟨את⟩ ẹjẹ̀ ará rẹ̀ lọ́wọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Àti ní báyìí"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "igbẹ́"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "fún ẹ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti inú"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "ó ti ṣí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹnu rẹ̀"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ẹnu rẹ̀"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "láti gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹjẹ̀ ará rẹ̀"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ẹjẹ̀"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ará rẹ̀"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "lọ́wọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:39:06.278226451Z",
+  "model": "glm-5.3"
+}

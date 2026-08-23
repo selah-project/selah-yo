@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Tí ó bá kọjá, tí ó sì pa ⟨ẹnu⟩ dé, tí ó sì péjọ ⟨iwájọ⟩, ta ni ó lè dáa padà?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "kọjá"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "tí ó sì pa ⟨ẹnu⟩ dé"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "tí ó sì péjọ ⟨iwájọ⟩"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ó lè dáa padà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:18:46.755609854Z",
+  "model": "glm-5.3"
+}

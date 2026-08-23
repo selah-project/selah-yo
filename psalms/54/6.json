@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 54,
+  "translation": "Wò ó, Elohim ni alárànṣe fún mi; Adonai ṣùgbọ́n pẹ̀lú àwọn tí ó ń gbé ẹ̀mí mi ṣe ìtìlẹ́yìn.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "alárànṣe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "ń gbé…ṣe ìtìlẹ́yìn"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:21.441125688Z",
+  "model": "glm-5.3"
+}

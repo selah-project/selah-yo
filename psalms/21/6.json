@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Tóbi ni ìgbéga rẹ̀ nínú ìgbàlà rẹ; ọlá àti ẹ̀yẹ ni O bù ú lé e lórí.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Tóbi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ìgbéga rẹ̀"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "nínú ìgbàlà rẹ"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ọlá"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "àti ẹ̀yẹ"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "O bù ú lé e"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:27.132477882Z",
+  "model": "glm-5.3"
+}

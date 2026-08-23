@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Jẹ́ kí ọ̀rọ̀ ẹnu mi di ohun tí ó yọnu níwájú rẹ, Yahweh, òkúta mi àti Olùgbàlà mi.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "jẹ́ kí ... di"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "ohun tí ó yọnu"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "àti ìròyin inú"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "níwájú rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "òkúta mi"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "àti Olùgbàlà mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:35.203231630Z",
+  "model": "glm-5.3"
+}

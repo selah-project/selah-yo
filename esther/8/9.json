@@ -1,0 +1,185 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 8:9",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Wọ́n sì pé àwọn akọ̀wé ọba nígbà yẹn, ní oṣù kẹta, èyí ni oṣù Sivan, ní ọjọ́ kẹtalélógún rẹ̀; wọ́n sì kọ̀ bí gbogbo tí Mordecai pa àṣẹ sí fún àwọn Yehudi, àti sí àwọn aṣojú-àgbà, àti àwọn gómìnà àti àwọn olórí àwọn ìpínlẹ̀ tí ó wà láti Hodu dé Kush — ìpínlẹ̀ mọ́kàndílélọgọ́rún-ún meje — ìpínlẹ̀ sí ìpínlẹ̀ bí àkọsílẹ̀ rẹ̀ ṣe jẹ́, ènìyàn sí ènìyàn bí èdè wọn ṣe jẹ́, àti sí àwọn Yehudi bí àkọsílẹ̀ wọn àti èdè wọn ṣe jẹ́.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "wọ́n sì pé"
+    },
+    {
+      "surface": "ספרי",
+      "gloss": "àwọn akọ̀wé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nígbà"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ní oṣù"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kẹta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "èyí ni"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "oṣù"
+    },
+    {
+      "surface": "סיון",
+      "gloss": "Sivan"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "ní ọjọ́ kẹta"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "lélógún"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "wọ́n sì kọ̀"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bí gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pa àṣẹ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "àwọn Yehudi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "האחשדרפנים",
+      "gloss": "àwọn aṣojú-àgbà"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "àti àwọn gómìnà"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "àti àwọn olórí"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "àwọn ìpínlẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "láti Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "àti dé"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "meje"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "àti mọ́kàndílélógún"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "àti lélọgọ́rún-ún"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "ìpínlẹ̀"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "ìpínlẹ̀"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "àti ìpínlẹ̀"
+    },
+    {
+      "surface": "ככתבה",
+      "gloss": "bí àkọsílẹ̀ rẹ̀ ṣe jẹ́"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "àti ènìyàn"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "sí ènìyàn"
+    },
+    {
+      "surface": "כלשנו",
+      "gloss": "bí èdè wọn ṣe jẹ́"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "àwọn Yehudi"
+    },
+    {
+      "surface": "ככתבם",
+      "gloss": "bí àkọsílẹ̀ wọn ṣe jẹ́"
+    },
+    {
+      "surface": "וכלשונם",
+      "gloss": "àti bí èdè wọn ṣe jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:48:46.466211435Z",
+  "model": "glm-5.3"
+}

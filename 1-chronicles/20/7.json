@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ó sì bu ẹ́nu àtẹ̀ ⟨את⟩ Yisrael; Yehonatan, ọmọ Shimea arā̀ Dawid, sì lu ú ⟨i⟩.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "ó sì bu ẹ́nu àtẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "sì lu ú"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "arā̀"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-23T05:16:19.972565360Z",
+  "model": "glm-5.3"
+}

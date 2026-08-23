@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 7:15",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Èmi sì ni yóò sọ yín kúrò lójú mi, gẹ́gẹ́ bí mo ti sọ kúrò gbogbo àwọn ará-mẹ́kun-yín, ⟨את⟩ gbogbo ìrìnpọ̀ Efrayim.",
+  "tokens": [
+    {
+      "surface": "והשלכתי",
+      "gloss": "èmi sì ni yóò sọ yín kúrò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kúrò lójú"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "mo ti sọ kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ìrìnpọ̀ Efrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "àwọn ará-mẹ́kun-yín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ìrìnpọ̀ Efrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ìrìnpọ̀"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T02:09:22.247102960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Malú ìdíwọ̀n mọ́ olùrànọ́ rẹ̀, ẹyẹ-kekeke sì mọ́ àgọ́ olú rẹ̀; Yisrael kò mọ́, ènìyàn mi kò dá lóye.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Malú ìdíwọ̀n"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "olùrànọ́ rẹ̀"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ẹyẹ-kekeke sì"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "olú rẹ̀"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ènìyàn mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "dá lóye"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:16.517892864Z",
+  "model": "glm-5.3"
+}

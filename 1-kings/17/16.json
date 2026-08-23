@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Kẹ̀rẹ́gbẹ́ yàrá àtẹ kì í yà, àti àpákọ yàrá òróró kì í dín kù, gẹ́gẹ́ bí ọ̀rọ̀ Yahweh tí ó sọ nípa ọwọ́ Eliyahu.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "kẹ̀rẹ́gbẹ́ yàrá"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "yàrá àtẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "yà"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "àti àpákọ yàrá"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yàrá òróró"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "dín kù"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "gẹ́gẹ́ bí ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nípa ọwọ́"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-23T01:20:57.121122033Z",
+  "model": "glm-5.3"
+}

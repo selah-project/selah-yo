@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 82,
+  "translation": "Wọn kò mọ̀, wọn kò làákàyẹ; nínú òkùnkùn ni wọ́n ń rìn kírì; gbogbo àwọn ìpilẹ̀ṣẹ̀ ayé yóò yí padà\/mú.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wọn mọ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wọn kò"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "làákàyẹ"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "nínú òkùnkùn"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "wọ́n ń rìn kírì"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "yóò yí padà\/mú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "àwọn ìpilẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:11.166464596Z",
+  "model": "glm-5.3"
+}

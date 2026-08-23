@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ó sì wá sí ọ̀dọ̀ Hagar, ó sì lóyún; nígbà tí ó rí i pé ó ti lóyún, ó sì fi ọ̀gá rẹ̀ hàn lórílẹ̀ ní ojú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ó sì wá sí ọ̀dọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ó sì lóyún"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "nígbà tí ó rí i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "ó ti lóyún"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "ó sì fi ... hàn lórílẹ̀"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "ọ̀gá rẹ̀"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "ní ojú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T22:58:53.274702401Z",
+  "model": "glm-5.3"
+}

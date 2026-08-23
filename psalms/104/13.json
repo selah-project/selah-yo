@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Òun ń fi omi kọ àwọn òkè láti àwọn yàrá-òkè rẹ̀; láti èso iṣẹ́ rẹ ni ayé ń yó.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "ń fi omi kọ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "láti àwọn yàrá-òkè rẹ̀"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "láti èso"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "iṣẹ́ rẹ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ń yó"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:26.169895302Z",
+  "model": "glm-5.3"
+}

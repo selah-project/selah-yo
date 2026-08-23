@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Nítorí, wò ó, àwọn ọba pàdé ara wọn; wọ́n kọjá papọ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "pàdé ara wọn"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "wọ́n kọjá"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "papọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:17.010539262Z",
+  "model": "glm-5.3"
+}

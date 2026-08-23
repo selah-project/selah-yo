@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ó máa gba ìbùkún látọ̀dọ̀ Yahweh, àti òdodo látọ̀dọ̀ Elohim ìgbàlà rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ó máa gba"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ìbùkún"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "látọ̀dọ̀ ⟨את⟩",
+      "marks": "ìbùkún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "àti òdodo"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "látọ̀dọ̀ Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ìgbàlà rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:52.725951070Z",
+  "model": "glm-5.3"
+}

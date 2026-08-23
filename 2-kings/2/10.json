@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì wí pé: O béèrè nkan tí ó le; ṣùgbọ́n bí o bá rí ⟨את⟩ mi nígbà tí wọ́n bá gbá mi lọ láti ọ̀dọ̀ rẹ ⟨את⟩, ó jẹ́ bẹ́ẹ̀ fún ẹ; ṣùgbọ́n bí kò bá rí i, kì í ṣe bẹ́ẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "o béèrè nkan tí ó le"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "láti béèrè"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí o bá"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "rí"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gbá mi lọ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ láti ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ó jẹ́"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ẹ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ṣùgbọ́n bí kò bá"
+    },
+    {
+      "surface": "אין",
+      "gloss": "rí i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bẹ́ẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:26:06.076785821Z",
+  "model": "glm-5.3"
+}

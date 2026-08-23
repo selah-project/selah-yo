@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Wọ́n gun ⟨àwọn⟩ ọ̀run, wọ́n sì sọ̀rọ̀ sí àwọn omi-jìnà; ẹ̀mí wọn ń tú nínú ìrùburù.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "Wọ́n gun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨àwọn⟩ ọ̀run"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "wọ́n sì sọ̀rọ̀ sí"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "àwọn omi-jìnà"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ẹ̀mí wọn"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nínú ìrùburù"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "ń tú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:22.082216593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Wọ́n yóò sì ṣe ⟨את⟩ ẹfọdi: wúrà, tẹkẹlẹt, árgaman, kọ̀gún-èèbí àti línìn-pẹki tí a fi mọ́ dáadáa — iṣẹ́ oníṣẹ́-ọgbọ́n.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Wọ́n yóò ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹfọdi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ẹfọdi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tẹkẹlẹt"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "árgaman"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "kọ̀gún-èèbí"
+    },
+    {
+      "surface": "שני",
+      "gloss": "(àwọ̀ pupa)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "àti línìn-pẹki"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tí a fi mọ́ dáadáa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "oníṣẹ́-ọgbọ́n"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:52.348654667Z",
+  "model": "glm-5.3"
+}

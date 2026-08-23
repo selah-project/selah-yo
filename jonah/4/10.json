@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Yahweh sì wí: Ìwọ ṣe àánú lórí etí náà, tí ì kò ṣiṣẹ́ lára rẹ̀, tí ì sì kò gbé e dàgbà; ẹniti ó jẹ́ ọmọ òru kan, ó sì jẹ́ ọmọ òru kan ní ó ṣègbé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "ṣe àánú"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "etí náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "ṣiṣẹ́ lára"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sì kò"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "gbé e dàgbà"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "ọmọ òru kan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "sì ọmọ òru kan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ṣègbé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:10:44.932246585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 132,
+  "translation": "Dídẹ, Yahweh, sí ibi ìsinmi rẹ, ìwọ àti àrkì ti ipá rẹ.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Dídẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "sí ibi ìsinmi rẹ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "àti àrkì"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ti ipá rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:56.449040127Z",
+  "model": "glm-5.3"
+}

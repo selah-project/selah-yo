@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 22:2",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ó sì wí fún wọn pé: Ẹ̀yin ti pa ⟨את⟩ gbogbo ohun tí Moshe, ẹrú Yahweh, pàṣẹ fún yín mọ́, ẹ sì ti gbọ́nù gbé ⟨ohùn⟩ mi fún gbogbo ohun tí mo pàṣẹ fún yín.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Ẹ̀yin"
+    },
+    {
+      "surface": "שמרתם",
+      "gloss": "ti pa… mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ohun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ fún yín"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ẹrú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותשמעו",
+      "gloss": "ẹ sì ti gbọ́nù gbé"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mo pàṣẹ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ fún yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:30:36.456918009Z",
+  "model": "glm-5.3"
+}

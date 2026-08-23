@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ó sì pa ⟨את⟩ gbogbo àwọn àlùfáà ìgbìmọ̀ra ẹ̀mí tí ó wà níbẹ̀ lórí àwọn pẹpẹ náà, ó sì sun egungun ènìyàn lórí wọn, ó sì padà sí Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Ó sì pa… àjẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn àlùfáà ìgbìmọ̀ra ẹ̀mí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ìgbìmọ̀ra ẹ̀mí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ó wà níbẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "àwọn pẹpẹ náà"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ó sì sun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egungun ènìyàn"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "egungun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lórí wọn"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó sì padà sí"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T01:38:02.488642511Z",
+  "model": "glm-5.3"
+}

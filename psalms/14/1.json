@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Fún olùdarí-orin. Orin ti David kọ. Ọmọlọ́yàn wí nínú ọkàn rẹ̀ pé kò sí Elohim; wọ́n ti ṣègbé, wọ́n ti ṣe búburú; kò sí ẹni tí ó ń ṣe rere.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí-orin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Orin ti David kọ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Ọmọlọ́yàn"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "nínu ọkàn rẹ̀"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "wọ́n ti ṣègbé"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "wọ́n ti ṣe búburú"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ẹni tí ó ń ṣe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:56.661777178Z",
+  "model": "glm-5.3"
+}

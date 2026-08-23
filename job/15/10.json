@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Pẹ̀lú iya àti pẹ̀lú arúgbọ́n nínú wa — ẹni tí ó ṣàgbà jù baba rẹ lọ ní ọjọ́.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "שב",
+      "gloss": "iya (aláwọ̀-ẹyẹ)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "arúgbọ́n"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nínú wa"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "ṣàgbà jù lọ"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "baba rẹ lọ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ní ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:20:32.001013499Z",
+  "model": "glm-5.3"
+}

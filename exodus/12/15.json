@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 12:15",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Fún ọjọ́ méje ni ẹ̀yin yóò jẹ àkàrà-àísù; ní pàtàkì ní ọjọ́ kìíní ẹ̀yin yóò fò ìdàgbà kúrò nínú àwọn ilé yín; nítorí ẹnikéni tí ó bá jẹ àkàrà ìgbọ́n, láti ọjọ́ kìíní dé ọjọ́ keje, ẹ̀mí yẹn yóò ge kúrò lára Yisrael.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "méje"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "àkàrà-àísù"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ẹ̀yin yóò jẹ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ní pàtàkì"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kìíní"
+    },
+    {
+      "surface": "תשביתו",
+      "gloss": "ẹ̀yin yóò fò"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ìdàgbà"
+    },
+    {
+      "surface": "מבתיכם",
+      "gloss": "kúrò nínú àwọn ilé yín"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "tí ó bá jẹ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "àkàrà ìgbọ́n"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "yóò ge kúrò"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "lára Yisrael"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "láti ọjọ́"
+    },
+    {
+      "surface": "הראשן",
+      "gloss": "kìíní"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "keje"
+    }
+  ],
+  "timestamp": "2026-08-22T23:20:28.058669348Z",
+  "model": "glm-5.3"
+}

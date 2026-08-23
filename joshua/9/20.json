@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Èyí ni a ó ṣe sí wọn: a ó sì jẹ́ kí wọn yè ⟨את⟩ wọn, kí bíbọ́ kí ó máì wà lórí wa nítorí àun ìbúra tí a ti búra ti wọn.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "a ó ṣe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "a ó sì jẹ́ kí wọn yè"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn Giv'on)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí ó máì"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "lórí wa"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "bíbọ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "àun ìbúra náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "a ti búra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ti wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:25:51.571010499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àwọn ọ̀pọ̀lọ́ yóò sì yẹra kúrò lọ́dọ̀ rẹ, àti nínú àwọn ilé rẹ, àti lọ́dọ̀ àwọn ìránṣẹ́ rẹ, àti lọ́dọ̀ ènìyàn rẹ; nínú odò nìkan ni wọn yóò yòókù.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "yóò yẹra kúrò"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "àwọn ọ̀pọ̀lọ́"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "àti nínú àwọn ilé rẹ"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "àti lọ́dọ̀ àwọn ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "àti lọ́dọ̀ ènìyàn rẹ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nìkan"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "nínú odò"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "wọn yóò yòókù"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:57.017080842Z",
+  "model": "glm-5.3"
+}

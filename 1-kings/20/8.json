@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Gbogbo àwọn àgbà náà àti gbogbo ìjọ náà sì wí fún un pé: Má ṣe gbọ́, má sì ṣe faramọ́.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "àwọn àgbà náà"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "má sì ṣe"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "faramọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:23:14.618255208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àti ⟨את⟩ Chashavyah, àti ⟨את⟩ pẹ̀lú rẹ̀ Yeshayah, láti ọ̀dọ̀ àwọn ọmọ Merari, ará rẹ̀ àti àwọn ọmọ wọn, ogún.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Chashavyah"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Chashavyah"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "àti ⟨את⟩ pẹ̀lú rẹ̀",
+      "marks": "Yeshayah"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yeshayah"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "láti ọ̀dọ̀ àwọn ọmọ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ará rẹ̀"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "àti àwọn ọmọ wọn"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    }
+  ],
+  "timestamp": "2026-08-23T05:00:49.717282216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ṣé ohun-èlò ni gbogbo ènìyàn fún El, tàbí ṣé ohun-èlò ni ọlọgbọ́n fún ⟨ra⟩ rẹ̀?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "fún El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ṣé ohun-èlò ni"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tàbí ṣé"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ohun-èlò ni"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "fún ⟨ra⟩ rẹ̀"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ọlọgbọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T04:23:11.216829352Z",
+  "model": "glm-5.3"
+}

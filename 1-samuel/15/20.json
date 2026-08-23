@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Shaúl sì wí fún Shemuel pé, Nítorí mo gbọ́n tẹ́tẹ́ sí ohùn Yahweh, mo sì rìn lọ́nà tí Yahweh fi rán mi, mo sì mú ⟨את⟩ Agag ọba Amalek wá, mo sì pa ⟨את⟩ Amalek run dáadáa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mo gbọ́n tẹ́tẹ́"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sí ohùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "mo sì rìn"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lọ́nà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "fi rán mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "mo sì mú… wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag ọba Amalek"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "mo sì pa… run dáadáa"
+    }
+  ],
+  "timestamp": "2026-08-23T00:48:50.518694325Z",
+  "model": "glm-5.3"
+}

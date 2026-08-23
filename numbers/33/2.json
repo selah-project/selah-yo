@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Moshe sì kọ ⟨את⟩ ìjádẹ wọn ní ìrìnàjò wọn sílẹ̀, ní ẹnu Yahweh; àwọn wọnyí ni ìrìnàjò wọn ní ìjádẹ wọn.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "sì kọ sílẹ̀"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjádẹ wọn"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "ìjádẹ wọn"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "ní ìrìnàjò wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "àwọn wọnyí sì"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "ìrìnàjò wọn"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "ní ìjádẹ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:05:32.151546714Z",
+  "model": "glm-5.3"
+}

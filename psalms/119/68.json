@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ìwọ dára, ìwọ sì ń ṣe ohun rere; Ẹ kọ́ mi àwọn òfin Rẹ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "ìwọ sì ń ṣe ohun rere"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "Ẹ kọ́ mi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "àwọn òfin Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:08.540528553Z",
+  "model": "glm-5.3"
+}

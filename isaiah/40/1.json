@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ẹ ní ìtùrà, ẹ ní ìtùrà fún àwọn ènìyàn mi, Yahweh, Elohim yín, wí pé.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "ẹ ní ìtùrà"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "ẹ ní ìtùrà"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "àwọn ènìyàn mi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-23T01:56:18.632605339Z",
+  "model": "glm-5.3"
+}

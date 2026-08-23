@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ẹnikẹ́ni àjèjì kò gbọ́dọ̀ jẹ oúnjẹ mímọ́; àlejò adarí-èrò kan, tàbí olùṣẹ́-íṣẹ́-ówó, kì í ṣe ó lè jẹ ⟨את⟩ oúnjẹ mímọ́ náà.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ẹnikẹ́ni"
+    },
+    {
+      "surface": "זר",
+      "gloss": "àjèjì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "gbọ́dọ̀ jẹ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "oúnjẹ mímọ́"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "àlejò adarí-èrò"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "(ti) adarí-èrò"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "olùṣẹ́-íṣẹ́-ówó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ó lè jẹ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "oúnjẹ mímọ́ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:44.898729685Z",
+  "model": "glm-5.3"
+}

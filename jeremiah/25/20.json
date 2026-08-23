@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "àti ⟨את⟩ gbogbo àwọn ènìyàn tí wọ́n papọ̀, àti ⟨את⟩ gbogbo àwọn ọba ilẹ̀ Utz, àti ⟨את⟩ gbogbo àwọn ọba ilẹ̀ Pelishtim, àti ⟨את⟩ Ashkelon, àti ⟨את⟩ Azzah, àti ⟨את⟩ Ekron, àti ⟨את⟩ àwọn tí ó ṣẹ́kú lára Ashdod.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ènìyàn tí wọ́n papọ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "àwọn ènìyàn tí wọ́n papọ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ọba ilẹ̀ Utz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "Utz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ọba ilẹ̀ Pelishtim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Azzah"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn tí ó ṣẹ́kú lára Ashdod"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "àwọn tí ó ṣẹ́kú"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    }
+  ],
+  "timestamp": "2026-08-23T02:19:12.886400458Z",
+  "model": "glm-5.3"
+}

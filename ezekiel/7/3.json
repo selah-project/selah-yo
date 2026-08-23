@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 7:3",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Nísinsin yìí, òpin náà dé bá ọ; èmi óó rán bínú mi sí ọ, èmi óó dájọ́ ọ gẹ́gẹ́ bí àwọn ọ̀nà rẹ, èmi óó fi ⟨את⟩ gbogbo ìkórìíra rẹ sí ọ lórí.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nísinsin yìí"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "òpin náà"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dé bá ọ"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "èmi óó rán"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "bínú mi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sí ọ"
+    },
+    {
+      "surface": "ושפטתיך",
+      "gloss": "èmi óó dájọ́ ọ"
+    },
+    {
+      "surface": "כדרכיך",
+      "gloss": "gẹ́gẹ́ bí àwọn ọ̀nà rẹ"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "èmi óó fi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sí ọ lórí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ìkórìíra rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "ìkórìíra rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T05:59:42.620794230Z",
+  "model": "glm-5.3"
+}

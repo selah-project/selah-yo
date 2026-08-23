@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Gẹ́gẹ́ bí ìmọ̀ yín ni mo mọ̀, èmi náà; kì í ṣe pé mo kéré ju yín lọ.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "Gẹ́gẹ́ bí ìmọ̀ yín"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mo mọ̀"
+    },
+    {
+      "surface": "גם",
+      "gloss": "náà"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe pé"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "mo kéré ju"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ju yín lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:44.652446748Z",
+  "model": "glm-5.3"
+}

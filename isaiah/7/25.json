@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 7:25",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àti gbogbo àwọn òkè tí a ń fi àkọ̀ fi kọ ilẹ̀, ẹnikẹ́ni kì yóò wá síbẹ̀ nítorí ẹ̀rù àwọn òùrọ̀ kíkì àti ẹ̀gbin; ó sì jẹ́ fún híhó máálù àti fún fífi àgùntàn tẹ̀ ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "במעדר",
+      "gloss": "ní fi àkọ̀ fi kọ ilẹ̀"
+    },
+    {
+      "surface": "יעדרון",
+      "gloss": "a ń kọ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "yóò wá"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "síbẹ̀"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ẹ̀rù"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "òùrọ̀ kíkì (shamir)"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "àti ẹ̀gbin"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ó sì jẹ́"
+    },
+    {
+      "surface": "למשלח",
+      "gloss": "fún híhó \/ fún ìfilọ̀"
+    },
+    {
+      "surface": "שור",
+      "gloss": "máálù"
+    },
+    {
+      "surface": "ולמרמס",
+      "gloss": "àti fún fífi tẹ̀ ilẹ̀"
+    },
+    {
+      "surface": "שה",
+      "gloss": "àgùntàn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:40:53.119194582Z",
+  "model": "glm-5.3"
+}

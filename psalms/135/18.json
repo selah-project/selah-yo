@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Bíi wọn ni àwọn tí ó ṣe wọn yóò jẹ́; gbogbo àwọn tí ó gbẹ́yàn lé wọn lọ́rùn bẹ́ẹ̀ gẹ́gẹ́.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "bíi wọn"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "àwọn tí ó ṣe wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "gbẹ́yàn lé wọn lọ́rùn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bẹ́ẹ̀ gẹ́gẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:08.261440745Z",
+  "model": "glm-5.3"
+}

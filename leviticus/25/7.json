@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "àti fún ẹran ọ̀sìn rẹ, àti fún ẹranko igbó tí ó wà nínú ilẹ̀ rẹ — gbogbo èso rẹ̀ yóò jẹ́ fún jíjẹ.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "àti fún ẹran ọ̀sìn rẹ"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "àti fún ẹranko igbó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ninú ilẹ̀ rẹ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "èso rẹ̀"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "fún jíjẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:54.340967954Z",
+  "model": "glm-5.3"
+}

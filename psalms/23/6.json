@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Dájúdájú, ore àti chesed ni yóò máa lé mi lọ́gbọ̀n fún gbogbo ọjọ́ ìyè mi; èmi yóò sì gbé nínú ilé Yahweh fún ìgbà ọjọ́ pípẹ́.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Dájúdájú"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ore"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "àti chesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "yóò máa lé mi lọ́gbọ̀n"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ìyè mi"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "èmi yóò sì gbé"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nínú ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "fún ìgbà"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́ pípẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:19.650748177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Wọ́n sì ṣe ⟨את⟩ àwọn okuta shoham, tí wọ́n yí wọrán mọ́ ìfilọ̀ wúrà, wíwọ́ bí wíwọ ìgbaradi ní orí àwọn orúkọ àwọn ọmọ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Wọ́n sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn okuta shoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "àwọn okuta"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "tí wọ́n yí wọrán mọ́"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "ìfilọ̀"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "wíwọ́"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "bí wíwọ"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ìgbaradi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní orí"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "àwọn orúkọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:34.729670876Z",
+  "model": "glm-5.3"
+}

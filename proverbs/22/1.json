@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Orúkọ tí a yan ju ọrọ̀ pọ̀ lọ; ìfaradà rere ju fàdákà àti wúrà lọ.",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "tí a yan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ju ọrọ̀"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pọ̀ lọ"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "ju fàdákà"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "àti wúrà lọ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ìfaradà"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    }
+  ],
+  "timestamp": "2026-08-23T04:10:46.387471445Z",
+  "model": "glm-5.3"
+}

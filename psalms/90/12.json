@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 90,
+  "translation": "Kọ́ wa láti ka àwọn ọjọ́ wa báyìí, kí a lè sọ ọkàn wá dé ọgbọ́n.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "láti ka"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "àwọn ọjọ́ wa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "báyìí"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "Kọ́ wa"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "kí a lè wá dé"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ọgbọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:27.070309374Z",
+  "model": "glm-5.3"
+}

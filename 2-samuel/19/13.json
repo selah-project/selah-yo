@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 19:13",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Àwọn ará mi ni ẹ̀yin, egungun mi àti ẹran ara mi ni ẹ̀yin; ìwílòó ni kí ẹ jẹ́ ìkẹyìn láti da ⟨את⟩ ọba padà?",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "àwọn ará mi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin ni"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "egungun mi"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "àti ẹran ara mi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin ni"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ìwílòó ni kí"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ẹ jẹ́"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ìkẹyìn"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "láti da ... padà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T01:05:44.856823982Z",
+  "model": "glm-5.3"
+}

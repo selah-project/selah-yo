@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Wọ́n bí i sọmọ — ọmọkùnrin méje àti ọmọbìnrin mẹ́ta.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "wọ́n bí i sọmọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "méje"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ọmọkùnrin"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "àti mẹ́ta"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ọmọbìnrin"
+    }
+  ],
+  "timestamp": "2026-08-23T04:16:02.905992556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àṣìṣe fún pa-ẹni, àti àṣìṣe fún ìwọsàn; àṣìṣe fún fọ́, àti àṣìṣe fún kíkọ́.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "àṣìṣe"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "fún pa-ẹni"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "àti àṣìṣe"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "fún ìwọsàn"
+    },
+    {
+      "surface": "עת",
+      "gloss": "àṣìṣe"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "fún fọ́"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "àti àṣìṣe"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "fún kíkọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:28.717486590Z",
+  "model": "glm-5.3"
+}

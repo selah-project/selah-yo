@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 17:19",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Yahweh, nítorí ìránṣẹ rẹ, àti gẹ́gẹ́ bí ọkàn rẹ, ni ìwọ ti ṣe ⟨את⟩ gbogbo ìgbéga yìí, láti fi ⟨את⟩ gbogbo àwọn ìgbéga hàn.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ rẹ"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "àti gẹ́gẹ́ bí ọkàn rẹ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ìwọ ti ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ìgbéga yìí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ìgbéga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "להדיע",
+      "gloss": "láti fi hàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ìgbéga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "àwọn ìgbéga"
+    }
+  ],
+  "timestamp": "2026-08-23T05:16:03.726274058Z",
+  "model": "glm-5.3"
+}

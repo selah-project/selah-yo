@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ẹ gbé Yahweh ga pẹ̀lú ⟨את⟩ mi; ẹ jẹ́ kí a gbé orúkọ rẹ̀ ga lọ́nà àpapọ̀.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Ẹ gbé ... ga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pẹ̀lú mi"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "ẹ jẹ́ kí a gbé ... ga"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "lọ́nà àpapọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:23.561791480Z",
+  "model": "glm-5.3"
+}

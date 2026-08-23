@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 76,
+  "translation": "Ó sì wà ní Shalem, àgọ́ rẹ̀, àti ibùgbó rẹ̀ ní Tsiyon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wà"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "ní Shalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "àgọ́ rẹ̀"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "àti ibùgbó rẹ̀"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ní Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:54.754435349Z",
+  "model": "glm-5.3"
+}

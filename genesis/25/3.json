@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Yokshan sì bí ⟨את⟩ Sheva àti ⟨את⟩ Dedan; àwọn ọmọ Dedan sì jẹ́ Ashurim àti Letushim àti Leummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Yokshan sì"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sì jẹ́"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "àti Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "àti Leummim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:03:12.322099474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Davidi sì ń lọ, ó sì ń padà láti ọ̀dọ̀ Shaúl láti lọ bọ́ ⟨את⟩ àwọn aguntán baba rẹ̀ ní Bet-lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Davidi sì"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ń lọ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ó sì ń padà"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "láti ọ̀dọ̀"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "láti lọ bọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn aguntán"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "àwọn aguntán"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lechem"
+    }
+  ],
+  "timestamp": "2026-08-23T00:49:36.812927667Z",
+  "model": "glm-5.3"
+}

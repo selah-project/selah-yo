@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àti lórí gbogbo àwọn òkè tí ó ga, àti lórí gbogbo àwọn ori-ilẹ̀ tí ó gbàga;",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "tí ó ga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "àwọn ori-ilẹ̀"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "tí ó gbàga"
+    }
+  ],
+  "timestamp": "2026-08-23T01:38:17.238498801Z",
+  "model": "glm-5.3"
+}

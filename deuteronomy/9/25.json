@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Nígbà náà ni mo dojúkọ sórí ilẹ̀ níwájú Yahweh fún ⟨את⟩ ọjọ́ mèrìnlélógójì àti ⟨את⟩ ọ̀sán mèrìnlélógójì, tí mo dojúkọ sórí ilẹ̀ yìí, nítorí Yahweh ti sọ pé òun yóò pa ⟨את⟩ yín run.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "mo dojúkọ sórí ilẹ̀"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọjọ́ mèrìnlélógójì"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mèrìnlélógójì"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọ̀sán mèrìnlélógójì"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mèrìnlélógójì"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ọ̀sán"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "mo dojúkọ sórí ilẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "yóò pa yín run"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:10.340211990Z",
+  "model": "glm-5.3"
+}

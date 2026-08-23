@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Èmi yóò sì ránṣẹ́ ⟨את⟩ afọ́n ṣáájú rẹ, ó sì yọ ⟨את⟩ Hivi, ⟨את⟩ Kenaani àti ⟨את⟩ Hiti kúrò níwájú rẹ.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "èmi yóò sì ránṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afọ́n"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "afọ́n"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ṣáájú rẹ"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "ó sì yọ kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hiti"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "kúrò níwájú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:11.297787535Z",
+  "model": "glm-5.3"
+}

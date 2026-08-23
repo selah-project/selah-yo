@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Òun sì ló dígrá lẹ́yìn rẹ̀ Yair ará Giléadi, ó sì fi ⟨את⟩ Yisrael lẹ́jọ́ fún ọdún ọ̀kànlélógún.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dígrá"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "lẹ́yìn rẹ̀"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "ará Giléadi"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "ó sì fi … lẹ́jọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "àti èjì"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    }
+  ],
+  "timestamp": "2026-08-23T05:48:27.774170252Z",
+  "model": "glm-5.3"
+}

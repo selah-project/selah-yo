@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Yaakov sì gbé nínú ilẹ̀ ìsàgbàsílẹ̀ baba rẹ̀, nínú ilẹ̀ Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "sì gbé"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nínú ilẹ̀"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "ìsàgbàsílẹ̀"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nínú ilẹ̀"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-23T05:40:05.054203790Z",
+  "model": "glm-5.3"
+}

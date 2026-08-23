@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "El yóò gbọ́, Ó sì dá wọn lẹ́bi — Ẹni tí ó jókòó láti ìgbà átijọ́ — Selah — nítorí tí kò sí ìyípadà nípa wọn, wọ́n sì kì í bẹru Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "yóò gbọ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "Ó sì dá wọn lẹ́bi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Ẹni tí ó jókòó"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "láti ìgbà átijọ́"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "ìyípadà"
+    },
+    {
+      "surface": "למו",
+      "gloss": "nípa wọn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bẹru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:02.224497595Z",
+  "model": "glm-5.3"
+}

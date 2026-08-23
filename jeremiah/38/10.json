@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 38:10",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Ọba náà sì pa Ebed-Melek ará Kushi lọ́nà pé: Mu ọgbọ̀n ènìyàn ní ọwọ́ rẹ̀ kúrò ní ibì yìí, kí o sì gbé ⟨את⟩ Yirmeyahu wòlíì sókè kúrò ní ihò-omi, ṣáájú kí ó tó kú.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "sì pa lọ́nà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ebed-Melek ará Kushi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Melek"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "ará Kushi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Mu"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ní ọwọ́ rẹ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kúrò ní ibì yìí"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ọgbọ̀n"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "kí o sì gbé sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu wòlíì"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "wòlíì"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò ní"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "ihò-omi"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ṣáájú kí ó tó"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kú"
+    }
+  ],
+  "timestamp": "2026-08-23T02:25:36.302026011Z",
+  "model": "glm-5.3"
+}

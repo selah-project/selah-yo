@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ó sì máa ṣe ⟨את⟩ ọ̀kan nínú àwọn tùrùtìrà, tàbí ọ̀kan nínú àwọn ọmọ ẹyẹ adàbà, èyí tí ọwọ́ rẹ̀ ba lè dé.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Ó sì máa ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀kan nínú àwọn tùrùtìrà"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nínú"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "àwọn tùrùtìrà"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nínú"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ẹyẹ adàbà"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "ba lè dé"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:39:49.716527396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ẹ ó pè ⟨את⟩ mi, ẹ ó rin, ẹ ó sì àdúà sí mi, èmi yóò sì gbọ́ tàrí yín.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "ẹ ó pè"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "ẹ ó rin"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "ẹ ó sì àdúà"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "èmi yóò sì gbọ́"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "tàrí yín"
+    }
+  ],
+  "timestamp": "2026-08-23T02:20:04.230834797Z",
+  "model": "glm-5.3"
+}

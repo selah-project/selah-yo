@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì bí nípa Hodesh, aya rẹ̀, ⟨את⟩ Yovav àti ⟨את⟩ Tzivya àti ⟨את⟩ Mesha àti ⟨את⟩ Malkam.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Ó sì bí"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Hodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "aya rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Tzivya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tzivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Mesha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-08-23T05:10:34.112224185Z",
+  "model": "glm-5.3"
+}

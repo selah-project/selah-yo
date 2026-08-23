@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àlùfáà ó sì tẹ ⟨את⟩ ìka ọwọ́ rẹ̀ nínú ẹjẹ́, ó sì rán díẹ̀ nínú ẹjẹ́ náà ní ìgbà méje níwájú Yahweh, ⟨את⟩ ojú pàróòkè mímọ́ náà.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ó sì tẹ mọ́"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìka ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ìka ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "nínú ẹjẹ́"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ó sì rán"
+    },
+    {
+      "surface": "מן",
+      "gloss": "díẹ̀ nínú"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ẹjẹ́ náà"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "méje"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ní ìgbà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú pàróòkè mímọ́ náà"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "pàróòkè"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "mímọ́ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:36:56.727715728Z",
+  "model": "glm-5.3"
+}

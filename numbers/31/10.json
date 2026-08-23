@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Àti ⟨את⟩ gbogbo àwọn ìlú wọn ní ibi tí wọ́n ń gbé, àti ⟨את⟩ gbogbo àwọn abúlé-ẹni wọn, wọ́n sì sun pẹ̀lú iná.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ìlú wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "àwọn ìlú wọn"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "ní ibi tí wọ́n ń gbé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn abúlé-ẹni wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "àwọn abúlé-ẹni wọn"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "wọ́n sì sun"
+    },
+    {
+      "surface": "באש",
+      "gloss": "pẹ̀lú iná"
+    }
+  ],
+  "timestamp": "2026-08-23T00:03:23.270523354Z",
+  "model": "glm-5.3"
+}

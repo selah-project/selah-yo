@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Àwọn ọmọbìrin àwọn ọba wà lára àwọn tí ó gbajúmọ̀ lọ́dọ̀ rẹ; iyàwó ọba dúró sí ẹ̀tù́ ọ̀tún rẹ, pẹ̀lú wúrà Ophir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "Àwọn ọmọbìrin"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "lára àwọn tí ó gbajúmọ̀ lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "iyàwó ọba"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "sí ẹ̀tù́ ọ̀tún rẹ"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "pẹ̀lú wúrà"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ophir"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:55.837419556Z",
+  "model": "glm-5.3"
+}

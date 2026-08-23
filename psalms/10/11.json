@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó sọ nínú ọkàn rẹ̀ wí pé, 'El ti gbàgbé; Ó fi ojú rẹ̀ pamọ́; kì yóò haàn rí rírí ní àìpẹ́.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "nínú ọkàn rẹ̀"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ti gbàgbé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "Ó fi … pamọ́"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì yóò haàn"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rí rírí"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ní àìpẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:46.139172088Z",
+  "model": "glm-5.3"
+}

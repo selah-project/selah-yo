@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ẹrù òdò ìranran: Kí ló ṣẹlẹ̀ fún ẹ ní báyìí, tí ẹ gbogbo yìn ti gun orí àtàlàrí ilé?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Ẹrù"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "òdò"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "ìranran"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ló ṣẹlẹ̀ fún ẹ"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ní báyìí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ti gun"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "ẹ gbogbo yìn"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "orí àtàlàrí ilé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:47:26.227249396Z",
+  "model": "glm-5.3"
+}

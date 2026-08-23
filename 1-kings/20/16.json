@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 20:16",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Wọ́n sì jáde ní ìwọ̀ oòrùn; Ben-Hadad sì ń mu ọti tí ó ti yá nínu àwọn ágọ́ ìdáabọbọ, òun àti àwọn ọba, ọgbọ̀n àti méjì, àwọn ọba tí ń ràn án lọ́wọ́ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Wọ́n sì jáde"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "ní ìwọ̀ oòrùn"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ń mu ọti"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "tí ó ti yá"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "nínu àwọn ágọ́ ìdáabọbọ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "àti àwọn ọba"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ọgbọ̀n"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "àti méjì"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "tí ń ràn án lọ́wọ́"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "àn (Ben-Hadad)"
+    }
+  ],
+  "timestamp": "2026-08-23T01:23:08.689120736Z",
+  "model": "glm-5.3"
+}

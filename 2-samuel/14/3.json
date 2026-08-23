@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ki o sí wá sọ́dọ̀ ọba, kí o sì bá ọ̀rọ̀ rẹ̀ sọ bí ọ̀rọ̀ yìí; Yoav sì fi ⟨את⟩ àwọn ọ̀rọ̀ sí nú ẹnu rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "ki o sì wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sọ́dọ̀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "kí o sì bá ... sọ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "bí ọ̀rọ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì fi ... sí"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "nú ẹnu rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:02:21.297903766Z",
+  "model": "glm-5.3"
+}

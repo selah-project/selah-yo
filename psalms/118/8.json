@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Ó dára láti sá sí Yahweh, ju láti gbẹ́kẹ̀ lé ènìyàn lọ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ó dára"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "láti sá sí"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "láti gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sí ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:04.381314805Z",
+  "model": "glm-5.3"
+}

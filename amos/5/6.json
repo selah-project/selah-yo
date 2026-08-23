@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ẹ wáá wá ⟨את⟩ Yahweh kí ẹ sì lè wà láàyè; kí ó má baà yọ́ sílẹ̀ bíi iná ní ilé Yosef, kí ó sì jẹ ẹ́ lọ, tí kò sì sí ẹni tí yóò pa á fún Beit-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "ẹ wáá wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "kí ẹ sì lè wà láàyè"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí ó má baà"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "yọ́ sílẹ̀"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "bíi iná"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "kí ó sì jẹ ẹ́ lọ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tí kò sì sí"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "ẹni tí yóò pa á"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fún ilé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-23T03:08:07.253103798Z",
+  "model": "glm-5.3"
+}

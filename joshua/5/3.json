@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Yehoshua sì ṣe ìdà àpáta fún ra rẹ, ó sì mọ ⟨את⟩ àwọn ọmọ Yisrael ní orí òkè Àwọn-Òbó.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún ra rẹ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ìdà"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "àpáta"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "ó sì mọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ní"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "orí òkè"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "Àwọn-Òbó"
+    }
+  ],
+  "timestamp": "2026-08-23T00:24:50.416545065Z",
+  "model": "glm-5.3"
+}

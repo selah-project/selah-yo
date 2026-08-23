@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Fún ìgbà tí kò ní opín, èmi kì yóò gbagbé àwọn ìpàṣẹ̀ rẹ, nítorí nípa wọn ni ìwọ ti ṣè mí ìyè.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "fún ìgbà tí kò ní opín"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "èmi kì yóò gbagbé"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "àwọn ìpàṣẹ̀ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nípa wọn"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ìwọ ti ṣè mí ìyè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:46.800093541Z",
+  "model": "glm-5.3"
+}

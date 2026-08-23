@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Yahweh, ṣe àánú fún wa; sí ọ̀ ni a ti retí; jẹ́ ìka rẹ ní àwọn òwúrọ̀, bákan náà jẹ́ ìgbàlà wa nígbà ìṣòro.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "ṣe àánú fún wa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sí ọ̀"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "ni a ti retí"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "ìka rẹ"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ní àwọn òwúrọ̀"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "ìgbàlà wa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nígbà"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ìṣòro"
+    }
+  ],
+  "timestamp": "2026-08-23T01:51:59.058872400Z",
+  "model": "glm-5.3"
+}

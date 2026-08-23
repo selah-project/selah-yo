@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ẹ̀mí mi gbẹ̀ láti mu Elohim, láti mu El ti ó jọ́; nígbàwo ni èmi yóò wá, kí n lè rí ojú Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "gbẹ̀ láti mu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "láti mu Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "láti mu El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ti ó jọ́"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nígbàwo"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "èmi yóò wá"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "kí n lè rí"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:24.123495971Z",
+  "model": "glm-5.3"
+}

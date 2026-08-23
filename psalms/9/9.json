@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Nígbà náà ni ⟨ó⟩ máa ń dájọ́ ayé nínú òdodo, ó máa ń ṣe ìdájọ́ fún àwọn orílẹ̀-èdè nínú ìdúró-ṣíṣe.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "nígbà náà ni ⟨ó⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "máa ń dájọ́"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "nínú òdodo"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ó máa ń ṣe ìdájọ́"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "fún àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "nínú ìdúró-ṣíṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:31.930384903Z",
+  "model": "glm-5.3"
+}

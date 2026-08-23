@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 2:14",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Nígbà náà Daniel dáhùn pẹ̀lú ìgbìmọ̀rà àti ọgbọ́n sí Aryok, olórí àwọn asọ́ọ̀jà ti ọba, tí ó ti jáde láti pa àwọn ọmọ ogbón ti Babeli.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Nígbà náà"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "התיב",
+      "gloss": "dáhùn"
+    },
+    {
+      "surface": "עטא",
+      "gloss": "pẹ̀lú ìgbìmọ̀rà"
+    },
+    {
+      "surface": "וטעם",
+      "gloss": "àti ọgbọ́n"
+    },
+    {
+      "surface": "לאריוך",
+      "gloss": "sí Aryok"
+    },
+    {
+      "surface": "רב",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "טבחיא",
+      "gloss": "àwọn asọ́ọ̀jà"
+    },
+    {
+      "surface": "די",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "די",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נפק",
+      "gloss": "ó jáde"
+    },
+    {
+      "surface": "לקטלה",
+      "gloss": "láti pa"
+    },
+    {
+      "surface": "לחכימי",
+      "gloss": "àwọn ọmọ ogbón"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ti Babeli"
+    }
+  ],
+  "timestamp": "2026-08-23T04:47:56.572391858Z",
+  "model": "glm-5.3"
+}

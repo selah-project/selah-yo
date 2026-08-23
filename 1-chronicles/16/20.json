@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Wọ́n sì rìn kiri láti orílẹ̀-èdè sí orílẹ̀-èdè, àti láti ìjọba kan sí ènìyàn mìíràn.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "Wọ́n sì rìn kiri"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "láti orílẹ̀-èdè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "orílẹ̀-èdè"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "àti láti ìjọba kan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mìíràn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:13:51.964730324Z",
+  "model": "glm-5.3"
+}

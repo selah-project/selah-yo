@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ìṣírí bàbá rẹ àti ìṣírí ìyá rẹ, ọ kò gbọdọ́ fi hàn; ìyá rẹ ni ⟨ó⟩; ọ kò gbọdọ́ fi ìṣírí rẹ̀ hàn.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ìṣírí"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bàbá rẹ"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "àti ìṣírí"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ìyá rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò gbọdọ́"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ọ fi ... hàn"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ìyá rẹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni ⟨ó⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò gbọdọ́"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ọ fi ... hàn"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ìṣírí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:28.035433107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ìwọ ó sì gbé ⟨את⟩ wọn sínú àpata kan ṣoṣo, ó sì mú ⟨את⟩ wọn wá nínú àpata náà, pẹ̀lú ⟨את⟩ àgbò náà àti ⟨את⟩ àgbọ̀nrin méjì náà.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ìwọ ó gbé sí"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "sínú\/lórí"
+    },
+    {
+      "surface": "סל",
+      "gloss": "àpata"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan ṣoṣo"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "ó sì mú wá"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "nínú àpata náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "àgbò náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "àgbọ̀nrin náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:28:25.266060309Z",
+  "model": "glm-5.3"
+}

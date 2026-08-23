@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Nítorí ohùn ọ̀tá, nítorí ìpọ̀njú ẹlẹ́ṣẹ̀; nítorí wọ́n fi gbogbo ìkọ̀ búburú ránṣẹ́ sí mi, wọ́n sì ń kórìíra mi nínú bínú.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "nítorí ohùn"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ọ̀tá"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nítorí (níwájú)"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "ìpọ̀njú"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ẹlẹ́ṣẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "wọ́n fi ... ránṣẹ́ (sọ rúbọ́)"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sí mi (lórí mi)"
+    },
+    {
+      "surface": "און",
+      "gloss": "gbogbo ìkọ̀ búburú"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "pẹ̀lú bínú"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "wọ́n ń kórìíra mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:50.775118173Z",
+  "model": "glm-5.3"
+}

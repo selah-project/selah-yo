@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 24:23",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "\"Nísìn yìí, ẹ yọ ⟨את⟩ àwọn ọlọ́run àjèjì tí ó wà nínú yín kúrò, kí ẹ sì fi ọkàn yín sọ́nù sí Yahweh, Elohim Israẹli.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "nísìn yìí"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "ẹ yọ kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọlọ́run àjèjì"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "àwọn ọlọ́run"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "àjèjì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ó wà nínú yín"
+    },
+    {
+      "surface": "והטו",
+      "gloss": "ẹ sì sọ́nù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn yín"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ọkàn yín"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:02.186531132Z",
+  "model": "glm-5.3"
+}

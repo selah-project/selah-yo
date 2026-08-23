@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ẹ rántí àwọn iṣé-ìyanu rẹ̀ tí ó ṣe, àwọn ìtànjẹ rẹ̀ àti àwọn ìdájọ́ ẹnu rẹ̀.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ẹ rántí"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "àwọn iṣé-ìyanu rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "àwọn ìtànjẹ rẹ̀"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "àti àwọn ìdájọ́"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ẹnu rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:00.176398291Z",
+  "model": "glm-5.3"
+}

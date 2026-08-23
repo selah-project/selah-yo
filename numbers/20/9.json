@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Moshe sì gba ⟨את⟩ ọ̀tún náà láti ojú Yahweh, gẹ́gẹ́ bí ó ti pàṣẹ ẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "sì gba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀tún náà"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ọ̀tún náà"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "láti ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ó ti pàṣẹ ẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:58:19.538623422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Yahweh sì wí fún Kayin, wàhá ló bínú, àti wàhá ló súbú ojú rẹ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "wàhá"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ló bínú"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rẹ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "àti wàhá"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ló súbú"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:04.871756564Z",
+  "model": "glm-5.3"
+}

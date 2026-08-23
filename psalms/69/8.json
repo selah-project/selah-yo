@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Nítorí nítorí rẹ ni mo fi gbé egbé; ìtijú bo ojú mi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nítorí rẹ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mo fi gbé"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "egbé"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ìtijú"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:41.603985340Z",
+  "model": "glm-5.3"
+}

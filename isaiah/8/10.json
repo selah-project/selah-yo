@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ẹ pèsè ìmọ̀ràn, ó máa sì fó; ẹ sọ ọ̀rọ̀, kí ó má dúró; nítorí El wà pẹ̀lú wa.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "ẹ pèsè"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ìmọ̀ràn"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "ó máa sì fó"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ẹ sọ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí ó má"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "wà pẹ̀lú wa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-23T01:42:09.018331394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 5:16",
+  "book": "song-of-songs",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ẹnu rẹ̀ dùn gan-an, gbogbo rẹ̀ sì jẹ́ ìfẹ́-ọkàn; èyí ni olùfẹ́ mi, èyí ni ẹlẹgbọ́n mi, àwọn ọmọbìrin Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "חכו",
+      "gloss": "Ẹnu rẹ̀"
+    },
+    {
+      "surface": "ממתקים",
+      "gloss": "dùn gan-an"
+    },
+    {
+      "surface": "וכלו",
+      "gloss": "gbogbo rẹ̀ sì"
+    },
+    {
+      "surface": "מחמדים",
+      "gloss": "jẹ́ ìfẹ́-ọkàn"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ni olùfẹ́ mi"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "èyí sì"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "ni ẹlẹgbọ́n mi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "àwọn ọmọbìrin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T04:32:09.502822248Z",
+  "model": "glm-5.3"
+}

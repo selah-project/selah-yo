@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ó sì mú àwọn ènìyàn rẹ̀ jáde pẹ̀lú ayọ̀, pẹ̀lú orin, ⟨את⟩ àwọn tí ó yàn.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Ó sì mú … jáde"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "àwọn ènìyàn rẹ̀"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "pẹ̀lú ayọ̀"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "pẹ̀lú orin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn tí ó yàn"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "àwọn tí ó yàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:05.494366563Z",
+  "model": "glm-5.3"
+}

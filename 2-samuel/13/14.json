@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ṣùgbọ́n òun kò fẹ́ gbọ́rọ̀ sí ohùn rẹ̀, ó sì le ju ú lọ, ó sì pa á lágbára, ó sì bá ú sùn ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n kò"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "fẹ́"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "gbọ́rọ̀"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "sí ohùn rẹ̀"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ó sì le"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ju ú lọ"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "ó sì pa á lágbára"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ó sì bá ú sùn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ú (Tamar)"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:56.720321742Z",
+  "model": "glm-5.3"
+}

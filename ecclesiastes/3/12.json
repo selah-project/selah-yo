@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Mo mọ̀ pé kò sí rere nínú wọn, bí kò ṣe láti dùn láyọ àti láti ṣe rere ní ìgbà ayé wọn.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Mo mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nínú wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kò ṣe"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "láti dùn láyọ"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "àti láti ṣe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "ní ìgbà ayé wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:41.307441964Z",
+  "model": "glm-5.3"
+}

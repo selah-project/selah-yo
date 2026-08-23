@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 9:11",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Igi figi sì wí fún wọn pé: Ṣé èmi ó fi ⟨את⟩ didùn mi àti ⟨את⟩ èso mi tí ó dára sílẹ̀, nítorí tí èmi ó lọ ṣàgágà lórí àwọn igi?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "התאנה",
+      "gloss": "igi figi"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "ṣé èmi ó fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didùn mi"
+    },
+    {
+      "surface": "מתקי",
+      "gloss": "didùn mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "èso mi tí ó dára"
+    },
+    {
+      "surface": "תנובתי",
+      "gloss": "èso mi"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "tí ó dára"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "nítorí tí èmi ó lọ"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "ṣàgágà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "àwọn igi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:35:26.214699779Z",
+  "model": "glm-5.3"
+}

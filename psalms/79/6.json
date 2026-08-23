@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 79,
+  "translation": "Dá ìbínú rẹ sílẹ̀ lórí ⟨àwọn⟩ orílẹ̀-èdè tí kò mọ̀ ọ́, àti lórí ⟨àwọn⟩ ìjọba tí kò pè orúkọ rẹ.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Dá…sílẹ̀"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ìbínú rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨àwọn⟩ orílẹ̀-èdè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "mọ̀ ọ́"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "⟨àwọn⟩ ìjọba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "pè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:48.836066927Z",
+  "model": "glm-5.3"
+}

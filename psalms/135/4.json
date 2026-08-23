@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Nítorí pé Yah dílẹ̀ Yaakov fúnra rẹ̀, Israẹl fún ìṣúra tirẹ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "dílẹ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fúnra rẹ̀"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "fún ìṣúra tirẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:06.615041898Z",
+  "model": "glm-5.3"
+}

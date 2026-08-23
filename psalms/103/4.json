@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "⟨Eni tí⟩ ó ra ẹ̀mí rẹ̀ là nípa ìparun, ⟨eni tí⟩ ó fi àwọ̀ àjàṣe kún rẹ̀ — chesed àti àwọn àánú.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "⟨Eni tí⟩ ó ra … là"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "nípa ìparun"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "ẹ̀mí rẹ̀"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "⟨eni tí⟩ ó fi àwọ̀ àjàṣe kún rẹ̀"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "àti àwọn àánú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:27.861491353Z",
+  "model": "glm-5.3"
+}

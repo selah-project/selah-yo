@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Kíyèsi i, òtítọ́ ni ìwọ́ fẹ́ ní àárín inú; nínú ibi ìkọkọ́ ìwọ́ sì ń fi ọgbọ́n mọ̀ mí.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kíyèsi i"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "òtítọ́"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ìwọ́ fẹ́"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "ní àárín inú"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "àti ní ibi ìkọkọ́"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ọgbọ́n"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "ìwọ́ fi mọ̀ mí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:22.417679267Z",
+  "model": "glm-5.3"
+}

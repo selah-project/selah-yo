@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 20:11",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ọkùnrin kan dúró lẹ́gbẹ́ rẹ̀, láti àwọn ọmọdé Yoav, ó sì wí pé, \"Ta tí ó fẹ́ Yoav, àti ta tí ó wà fún David, kí ó tẹ̀lé Yoav!\"",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ọkùnrin kan sì"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lẹ́gbẹ́ rẹ̀"
+    },
+    {
+      "surface": "מנערי",
+      "gloss": "láti àwọn ọmọdé"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ó fẹ́"
+    },
+    {
+      "surface": "ביואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "àti ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    }
+  ],
+  "timestamp": "2026-08-23T01:07:19.759500285Z",
+  "model": "glm-5.3"
+}

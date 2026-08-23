@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Yọ ara rẹ kúrò nínú ìbínú, kí o sì fi ìbínú gbọ́n sílẹ̀; má ṣe bínu, nítorí èyí kò jẹ́ kúnrẹ́rẹ láti ṣe búburú.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Yọ ara rẹ kúrò"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "nínú ìbínú"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "fi … sílẹ̀"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ìbínú gbọ́n"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "bínu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kúnrẹ́rẹ"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "láti ṣe búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:38.188921265Z",
+  "model": "glm-5.3"
+}

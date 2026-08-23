@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ọba sọ wí pé, Ẹ mu idà wá fún mi; wọ́n sì mú idà náà wá níwájú ọba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sọ wí pé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ẹ mu … wá"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idà"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wọ́n sì mú … wá"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "idà náà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:56.655740215Z",
+  "model": "glm-5.3"
+}

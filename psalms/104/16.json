@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Àwọn igi Yahweh ń yó, àwọn cèdà ti Lebanoni, èyí tí ó gbìn.",
+  "tokens": [
+    {
+      "surface": "יִשְׂבְּעוּ",
+      "gloss": "ń yó"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "àwọn igi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "àwọn cèdà"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ti Lebanoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "ó gbìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:26.170443465Z",
+  "model": "glm-5.3"
+}

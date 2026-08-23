@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "David kò sì yọ ⟨את⟩ ágùntan-ìjà ọrún naa kúrò lọ sí ọ̀dọ̀ rẹ̀, sí ìlú David; ó sì yì ọ́ padà sí ilé Oved-Edom ara Gati.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "yọ…kúrò"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ágùntan-ìjà ọrún naa"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ágùntan-ìjà ọrún naa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sí ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "ó sì yì ọ́ padà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ara Gati"
+    }
+  ],
+  "timestamp": "2026-08-23T05:13:48.104531832Z",
+  "model": "glm-5.3"
+}

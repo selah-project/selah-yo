@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ìrọ́ ni mo kórìíra, èmi sì nírẹ́rùín rẹ̀; òfin rẹ ni mo fẹ́ràn.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ìrọ́"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mo kórìíra"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "èmi sì nírẹ́rùín rẹ̀"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "òfin rẹ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mo fẹ́ràn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:46.569538220Z",
+  "model": "glm-5.3"
+}

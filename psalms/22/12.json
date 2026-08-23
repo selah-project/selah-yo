@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Má jìnnà sí mi; nítorí tí ìṣòro sunmọ́; nítorí tí alárànṣe kò sí.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jìnnà"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ìṣòro"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "sunmọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "alárànṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:58.929926390Z",
+  "model": "glm-5.3"
+}

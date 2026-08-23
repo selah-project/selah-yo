@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 95,
+  "translation": "Wá, ẹ jẹ́ kí a foríbalẹ̀, kí a lẹ̀gbonù, kí a dúbúlẹ̀ níwájú Yahweh, Òun tí ó dá wa.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Wá"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "ẹ jẹ́ kí a foríbalẹ̀"
+    },
+    {
+      "surface": "וונכרעה",
+      "gloss": "kí a lẹ̀gbonù"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "kí a dúbúlẹ̀"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "Òun tí ó dá wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:38.637721144Z",
+  "model": "glm-5.3"
+}

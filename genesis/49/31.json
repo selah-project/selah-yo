@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Níbẹ̀ ni wọ́n ti sin ⟨את⟩ Avraham àti ⟨את⟩ Sarah aya rẹ̀; níbẹ̀ ni wọ́n ti sin ⟨את⟩ Yitschak àti ⟨את⟩ Rivka aya rẹ̀; níbẹ̀ sì ni mo ti sin ⟨את⟩ Lea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "níbẹ̀ ni wọ́n ti"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "sin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "aya rẹ̀"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "níbẹ̀ ni wọ́n ti"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "sin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "aya rẹ̀"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "níbẹ̀ sì ni mo ti"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "sin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:35.422894769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "ó sì kò béèrè lọ́dọ̀ Yahweh; nítorí náà ⟨He⟩ pa á ikú, ó sì yí ⟨את⟩ ìjọba sílẹ̀ fún David, ọmọ Yishai.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ó sì kò"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "béèrè lọ́dọ̀"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "⟨He⟩ pa á ikú"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ó sì yí sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọba"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "fún David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-08-23T05:11:50.519783404Z",
+  "model": "glm-5.3"
+}

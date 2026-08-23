@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 17:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ó sì jẹ́ bí ìkójọpọ̀ iṣú-ìgù ìgí kẹ́yìn, ẹ̀ka rẹ̀ sì máa ń kọ́ àwọn ìkà-bìtì; ó sì jẹ́ bí ẹni tí ń kò àwọn ìkà-bìtì lọ́nà ní ijùlásángbòye Rəfaim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ó sì jẹ́ bí"
+    },
+    {
+      "surface": "כאסף",
+      "gloss": "ìkójọpọ̀"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ikore"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "ìsú-ìgù ìgí kẹ́yìn"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ẹ̀ka rẹ̀ sì"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "àwọn ìkà-bìtì"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "máa ń kọ́"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ó sì jẹ́ bí"
+    },
+    {
+      "surface": "כמלקט",
+      "gloss": "ẹni tí ń kò"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "àwọn ìkà-bìtì"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ní ijùlásángbòye"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Rəfaim"
+    }
+  ],
+  "timestamp": "2026-08-23T01:46:39.624539726Z",
+  "model": "glm-5.3"
+}

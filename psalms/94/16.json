@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "Ta ni yóò dìde fún mi láti bá àwọn ènìyàn búburú jà? Ta ni yóò dúróṣinṣin fún mi láti bá àwọn olṣe ìṣẹ́ búburú jà?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "yóò dìde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "láti bá … jà"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "àwọn ènìyàn búburú"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "yóò dúróṣinṣin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "láti bá … jà"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "àwọn olṣe"
+    },
+    {
+      "surface": "און",
+      "gloss": "ìṣẹ́ búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:17.975011272Z",
+  "model": "glm-5.3"
+}

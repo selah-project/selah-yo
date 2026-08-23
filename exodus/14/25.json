@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ó sì yọ ⟨את⟩ kẹ̀rẹ̀kẹ̀rẹ̀ àwọn ẹṣin-ogun rẹ̀ kúrò, wọ́n sì fi wọn rin irin-àjò pẹ̀lú ìṣòro, Mitsrayim sì wí pé: Ẹ jẹ́ ká sá kúrò ní ojú Israẹli, nítorí Yahweh ń bá wọn jagun lódì sí Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ó sì yọ kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẹ̀rẹ̀kẹ̀rẹ̀"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "kẹ̀rẹ̀kẹ̀rẹ̀"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "àwọn ẹṣin-ogun rẹ̀"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "wọ́n sì fi wọn rin irin-àjò"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "pẹ̀lú ìṣòro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "ẹ jẹ́ ká sá"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kúrò ní ojú"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ń jagun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "lódì sí Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:20:38.344487271Z",
+  "model": "glm-5.3"
+}

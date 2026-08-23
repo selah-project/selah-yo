@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ọmọ mi, tí ẹlẹ́ṣẹ̀ bá ti rọ̀ ọ́ ní gbọ̀ngàn, má ṣe faramọ́.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ọmọ mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "bá ti rọ̀ ọ́ ní gbọ̀ngàn"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ẹlẹ́ṣẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "faramọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:22.927689776Z",
+  "model": "glm-5.3"
+}

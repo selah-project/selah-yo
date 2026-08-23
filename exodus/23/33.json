@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Wọn kì í gbé ní ilẹ̀ rẹ, kí wọn má baà jẹ́ kí o ṣẹ̀ ⟨את⟩ ẹ sí Mi, nítorí pé bí o bá ṣínṣin ⟨את⟩ àwọn ọlọ́run wọn, èyí yóò di ọ̀nà-ìdà fún ọ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ní ilẹ̀ rẹ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí wọn má baà"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "jẹ́ kí o ṣẹ̀"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ẹ",
+      "marks": "ẹ (ìfarakọra sí 'sí Mi')"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sí Mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ṣínṣin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọlọ́run wọn"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "àwọn ọlọ́run wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò di"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "ọ̀nà-ìdà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:04.762030204Z",
+  "model": "glm-5.3"
+}

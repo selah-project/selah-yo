@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Wọ́n sì mú ⟨את⟩ irú wara mẹ́wàá yìí lọ fún adarígun ogun ẹgbẹ̀run náà; kí o sì wọ àwọn ará rẹ léérè nípa àlàáfíà wọn, kí o sì gba ⟨את⟩ èrìí wọn gbà.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "irú wara mẹ́wàá yìí"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "irú wara"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "wara"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "kí o mú…lọ"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "fún adarígun ogun"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "ẹgbẹ̀run náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ará rẹ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "àwọn ará rẹ"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "kí o wọ…léérè"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nípa àlàáfíà wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "èrìí wọn"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "èrìí wọn"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kí o gba…gbà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:49:51.149780810Z",
+  "model": "glm-5.3"
+}

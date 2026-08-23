@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ẹ̀gún ni ẹnu rẹ̀ kún sí, pẹ̀lú ègàn àti ètan-àṣẹ́; lábẹ́ ahọ́n rẹ̀ ni iṣẹ́ láàyà àti àìṣọ̀-òdodo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ẹ̀gún"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ẹnu rẹ̀"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kún sí"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "pẹ̀lú ègàn"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "àti ètan-àṣẹ́"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "ahọ́n rẹ̀"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "iṣẹ́ láàyà"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "àti àìṣọ̀-òdodo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:27.750500466Z",
+  "model": "glm-5.3"
+}

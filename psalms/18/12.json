@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó fi òkùnkùn ṣe ibi ìpamọ́ rẹ̀, àgbálẹ̀ rẹ̀ sì yí i ká; òkùnkùn omi, kún omi kíkún àwọn sánmánmán.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "Ó fi... ṣe"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "òkùnkùn"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "ibi ìpamọ́ rẹ̀"
+    },
+    {
+      "surface": "סביבותiyu סביבותיו",
+      "gloss": "yí i ká"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "àgbálẹ̀ rẹ̀"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "òkùnkùn"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "kún... kíkún"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "àwọn sánmánmán"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:30.811891607Z",
+  "model": "glm-5.3"
+}

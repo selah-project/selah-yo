@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ìwọ̀ní, Ohun-Ojo-Àpapọ̀, mo jẹ́ ọba lórí Yisrael ni Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Ohun-Ojo-Àpapọ̀"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mo jẹ́"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ni Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T04:39:59.539814371Z",
+  "model": "glm-5.3"
+}

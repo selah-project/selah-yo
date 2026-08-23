@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Òun ń sọ ìparí láti ìbẹ̀rẹ̀, àti láti ìgbà àtijọ́ nǹkan tí a kò tíì ṣe; ó ń wí pé, ìmọ̀ràn mi yóò dúró, àti gbogbo ìfẹ́ tińbẹ̀ ni mo ó ṣe.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Òun ń sọ"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "láti ìbẹ̀rẹ̀"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ìparí"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "àti láti ìgbà àtijọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nǹkan tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "tíì ṣe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ó ń wí pé"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "ìmọ̀ràn mi"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "yóò dúró"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ìfẹ́ tińbẹ̀"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mo ó ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T01:57:29.944797979Z",
+  "model": "glm-5.3"
+}

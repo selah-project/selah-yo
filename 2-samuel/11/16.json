@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó sì wáyé, nígbà tí Yoavu ń ṣọ̀ ilu náà, ó sì fi ⟨את⟩ Uriah sí ibi tí ó mọ̀ pé àwọn ènìyàn alágbára wà níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wáyé"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "nígbà tí ó ń ṣọ̀"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ilu náà"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "fi sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ó mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:00:50.797693973Z",
+  "model": "glm-5.3"
+}

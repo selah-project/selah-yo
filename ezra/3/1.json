@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ìgbà tí oṣù kéje dé, àwọn ọmọ Yisrael sì wà ní àwọn ìlú, àwọn ènìyàn já ara wọn jọ gẹ́gẹ́ bí ọkùnrin kan sí Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "dé"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "oṣù"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "kéje"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "àti àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "ní àwọn ìlú"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "wọ́n sì já ara wọn jọ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "gẹ́gẹ́ bí ọkùnrin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T04:57:39.714170969Z",
+  "model": "glm-5.3"
+}

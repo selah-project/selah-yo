@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Laban sì kó gbogbo àwọn ọkùnrin ibẹ̀ pọ̀, ó sì ṣe àlejò ìmu.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "sì kó… pọ̀"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ọkùnrin ibẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ibẹ̀ ⟨the⟩"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "àlejò ìmu"
+    }
+  ],
+  "timestamp": "2026-08-22T23:03:57.220535618Z",
+  "model": "glm-5.3"
+}

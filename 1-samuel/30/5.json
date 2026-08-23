@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Àwọn aya méjì David sì di ẹrú — Achinoam, ará Yizreeli, àti Avigayil, iyawo Navalu, ará Karmeli.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "méjì sì"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "àwọn aya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ti David"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "di ẹrú"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Achinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "ará Yizreeli"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "àti Avigayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "iyawo"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ti Navalu"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ará Karmeli"
+    }
+  ],
+  "timestamp": "2026-08-23T00:54:55.218354750Z",
+  "model": "glm-5.3"
+}

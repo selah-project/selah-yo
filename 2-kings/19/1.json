@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ó sì ṣẹlẹ̀, nígbà tí ọba Chizkiyahu gbọ́ rẹ̀, ó ya ⟨את⟩ aṣọ rẹ̀, ó sì bọ́ ara rẹ̀ ní aṣọ aláwọ̀ funfun-àìdídarùn (sáákè), ó sì wá sí inú ilé Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nígbà tí ó gbọ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ó sì ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "ó sì bọ́ ara rẹ̀ ní"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "sáákè (aṣọ ìbànújẹ́)"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì wá sí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T01:35:32.756237985Z",
+  "model": "glm-5.3"
+}

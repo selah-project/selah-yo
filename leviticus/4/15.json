@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àwọn àgbà ìjọ náà sì fi ⟨את⟩ ọwọ́ wọn lé orí màlúù náà síwájú Yahweh; a sì pa ⟨את⟩ màlúù náà lílà síwájú Yahweh",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "sì fi ... lé"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ wọn"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ọwọ́ wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé ... lórí"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "màlúù náà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "a sì pa ... lílà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "màlúù náà"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "màlúù náà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:50.792893681Z",
+  "model": "glm-5.3"
+}

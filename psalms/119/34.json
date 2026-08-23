@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Fún mi ní òye, kí èmi sì pa ⟨את⟩ òfin rẹ mọ́, kí èmi sì ṣọ́ ọ́ pẹ̀lú gbogbo ọkàn.",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "Fún mi ní òye"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "kí èmi sì pa mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òfin rẹ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "òfin rẹ"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "kí èmi sì ṣọ́ ọ́"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:39.334148160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Kí ó má ṣe jé kí ó fa èmí mi lọ bí kìínìní, tí ó ń fẹ́ e lọ́fà, tí kò sì sí ènìyàn tí ó ń gbà là.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kí ó má ṣe jé kí"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "ó fa lọ"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "bí kìínìní"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "èmi mi"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "tí ó ń fẹ́ e lọ́fà"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tí kò sì sí"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ẹnìyàn tí ó ń gbà là"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:41.706141515Z",
+  "model": "glm-5.3"
+}

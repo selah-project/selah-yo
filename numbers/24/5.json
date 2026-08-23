@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Bíi ṣeéṣe ti ó dára — àwọn àgámà rẹ, Yaakov; àwọn ibùgbé rẹ, Yisrael!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bíi ṣeéṣe"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "ó dára"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "àwọn àgámà rẹ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "àwọn ibùgbé rẹ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-22T23:59:59.519496957Z",
+  "model": "glm-5.3"
+}

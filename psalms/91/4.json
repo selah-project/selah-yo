@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Pẹ̀lú ìyẹ́ rẹ̀ ni yóò fi bò ọ́, àti ní abẹ́ ìyẹ́ rẹ̀ ni ìwọ yóò sà lọ sí; ilẹ̀kẹ̀ ìdáàbò bo àti àsìdà ni òtítọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "pẹ̀lú ìyẹ́ rẹ̀"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "yóò fi bò"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ́"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "àti ní abẹ́"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "ìyẹ́ rẹ̀"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "ìwọ yóò sà lọ sí"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ilẹ̀kẹ̀ ìdáàbò bo"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "àti àsìdà"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "òtítọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:40.016565703Z",
+  "model": "glm-5.3"
+}

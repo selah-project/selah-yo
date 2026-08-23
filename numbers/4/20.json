@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "ṣùgbọ́n kí wọn má ṣe wọ inú láti rí ⟨את⟩ ìmímọ́ náà bí ó ṣe ń bá wọn ran, kí wọn má baà kú.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n kí wọn má ṣe"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "wọ inú"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "láti rí"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "bí ó ṣe ń bá wọn ran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìmímọ́ náà"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ìmímọ́ náà"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "kí wọn má baà kú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:59.078261871Z",
+  "model": "glm-5.3"
+}

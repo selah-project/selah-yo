@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Kì í ṣe nípa ẹbọ ìpè rẹ ni Èmí bá ọ̀ṣẹ̀; ẹbọ ẹ̀túnpín rẹ sì wà níwájú Mi nígbà gbogbo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kì í ṣe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "ẹbọ ìpè rẹ"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "Èmí bá ọ̀ṣẹ̀"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "ẹbọ ẹ̀túnpín rẹ"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "níwájú Mi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbà gbogbo"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:24.760922345Z",
+  "model": "glm-5.3"
+}

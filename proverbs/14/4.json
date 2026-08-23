@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Níbi tí kò sí màlúù ni ibi-ọ̀gbìn ᲻ṣọ́; ṣùgbọ́n èso púpọ̀ wà ní ipa lágbára tí màlúù.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "níbi tí kò sí"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "màlúù"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "ibi-ọ̀gbìn"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ṣọ́"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ṣùgbọ́n èso púpọ̀ wà"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "èso"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ní ipa lágbára"
+    },
+    {
+      "surface": "שור",
+      "gloss": "tí màlúù"
+    }
+  ],
+  "timestamp": "2026-08-23T04:07:18.530285401Z",
+  "model": "glm-5.3"
+}

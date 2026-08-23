@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Láti gbogbo ìṣẹ̀ mí gbà mí là; àbùkù ènìyàn àìgbọ́ràn, má ṣe ṣe mi síi.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "láti gbogbo"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ìṣẹ̀ mí"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "gbà mí là"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "àbùkù"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ènìyàn àìgbọ́ràn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "ṣe mi síi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:49.968555345Z",
+  "model": "glm-5.3"
+}

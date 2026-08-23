@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Ẹ gbọ́n, ẹ jọwọ́, kí ẹ sọ èyí lóòótọ́ — ẹyin àwọn tí ń gbagbé Eloah; kí n má baà wọ́ lú yín pátápátá, tí kò sí ẹnití ó gbà yín là.",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "ẹ gbọ́n"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ẹ jọwọ́"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "ẹyin àwọn tí ń gbagbé"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí... má baà"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "èmi wọ́ lú pátápátá"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tí kò sí"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ẹnití ó gbà là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:04.162769130Z",
+  "model": "glm-5.3"
+}

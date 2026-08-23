@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Yahweh, Elohim Israẹli, ó gbọ́ràn, láti ìgbà láéláé títí dé ìgbà láéláé. Amin, àti Amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ó gbọ́ràn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "láti ìgbà láéláé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ìgbà láéláé"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "àti Amin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:52.466186808Z",
+  "model": "glm-5.3"
+}

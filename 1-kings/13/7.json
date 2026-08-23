@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ọba sì bá ìránṣẹ́ Ọlọ́run sọ̀rọ̀ pé: wá pẹ̀lú ⟨את⟩ mi sí ilé, jẹun kí o sì tún ara rẹ kún, èmi yóò sì fún ọ̀ ní ẹ̀bùn.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sì bá ... sọ̀rọ̀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ìránṣẹ́"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Ọlọ́run"
+    },
+    {
+      "surface": "באה",
+      "gloss": "wá"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "pẹ̀lú ⟨את⟩ mi"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "sí ilé"
+    },
+    {
+      "surface": "וסעדה",
+      "gloss": "jẹun kí o sì tún ara rẹ kún"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "èmi yóò sì fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ̀"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "ẹ̀bùn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:19:46.897695189Z",
+  "model": "glm-5.3"
+}

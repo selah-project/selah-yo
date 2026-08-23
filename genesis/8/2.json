@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àwọn orísun ti jinlẹ̀ ìkun sì tí pa, àti àwọn ìlejà ọ̀run sì tí pa; òjò sì dá dúró láti ọ̀run.",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "sì tí pa"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "àwọn orísun ti"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "jinlẹ̀ ìkun"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "àti àwọn ìlejà"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "sì dá dúró"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "òjò"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:18.616423897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Àti ẹni tí ó bú baba rẹ̀ àti ìyá rẹ̀ — dájúdájú ni wọn ó pa á ní ikú.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "Àti ẹni tí ó bú"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "àti ìyá rẹ̀"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ní ikú"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dájúdájú ni wọn ó pa á"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:48.346112536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "ó sì lọ, ó sì ṣe ìjọsín fún àwọn elò míràn, ó sì kúnlù fún wọn, àti fún òòrùn, tàbí fún òsùpà, tàbí fún gbogbo ọmọ-ogun ọ̀run, tí èmi kò ṣe àṣẹ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ó sì ṣe ìjọsín fún"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "àwọn elò"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "míràn"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ó sì kúnlù fún"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "àti fún òòrùn"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "fún òsùpà"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ọmọ-ogun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ṣe àṣẹ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:15:56.924571995Z",
+  "model": "glm-5.3"
+}

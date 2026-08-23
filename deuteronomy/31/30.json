@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Moshe sì sọ ⟨את⟩ ọ̀rọ̀ orin yìí ní etí gbogbo àpapọ̀ Israẹli, títí di ìpari rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sì sọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ní etí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "àpapọ̀"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ orin yìí"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "orin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ìpari rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:20:20.017368396Z",
+  "model": "glm-5.3"
+}

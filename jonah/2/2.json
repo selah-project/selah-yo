@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Jonah sì gbàdúrà sí Yahweh, Elohim rẹ̀, láti inú ikùn ẹja náà.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "sì gbàdúrà"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim rẹ̀"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "láti inú ikùn"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ẹja náà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:10:25.456116946Z",
+  "model": "glm-5.3"
+}

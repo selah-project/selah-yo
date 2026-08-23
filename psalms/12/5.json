@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Awọn tí wọ́n ti wí pé, Nípa ahọ́n wa ni a ó gbéga; ètè wa ⟨את⟩ wà pẹ̀lú wa: ta ni Olúwa fún wa?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "wọ́n wí"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "nípa ahọ́n wa"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "a ó gbéga"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "ètè wa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ wà pẹ̀lú wa",
+      "marks": "ètè wa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Olúwa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:25.149478220Z",
+  "model": "glm-5.3"
+}

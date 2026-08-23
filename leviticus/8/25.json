@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 8:25",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì gba ⟨את⟩ ìrora náà, àti ⟨את⟩ ẹnu-ìrora, àti ⟨את⟩ gbogbo ìrora tí ó wà lórí inú-ara, àti ⟨את⟩ abala èjiká, àti ⟨את⟩kidney méjì àti ⟨את⟩ ìrora wọn, àti ⟨את⟩ ẹsè ọ̀tún;",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ó sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìrora náà"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ìrora náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹnu-ìrora"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ẹnu-ìrora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ìrora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ìrora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "על",
+      "gloss": "ó wà lórí"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "inú-ara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "abala èjiká"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "abala"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "èjiká"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "kidney méjì"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kidney"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìrora wọn"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "ìrora wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹsè ọ̀tún"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ẹsè"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ọ̀tún"
+    }
+  ],
+  "timestamp": "2026-08-22T23:38:32.328408562Z",
+  "model": "glm-5.3"
+}

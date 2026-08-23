@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àti Akitub bí ⟨את⟩ Tsadok, àti Tsadok bí ⟨את⟩ Akimaats.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "àti Akitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "àti Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akimaats"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Akimaats"
+    }
+  ],
+  "timestamp": "2026-08-23T05:09:58.606359755Z",
+  "model": "glm-5.3"
+}

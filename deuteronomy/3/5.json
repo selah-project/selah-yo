@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Gbogbo àwọn ìlú yìí jẹ́ ìlú tí a fi ìgbẹ́ tì, pẹ̀lú ogiri tí ó ga, ilẹ̀kùn àti ẹ̀wọ̀n, yàtọ̀ sí àwọn ìlú olúkùlùkù tí kò ní ogiri, púpọ̀ gidigandi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn yìí"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "tí a fi ìgbẹ́ tì"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "ogiri"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "tí ó ga"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "ilẹ̀kùn"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "àti ẹ̀wọ̀n"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "yàtọ̀ sí"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "olúkùlùkù tí kò ní ogiri"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gidigandi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:51.989362670Z",
+  "model": "glm-5.3"
+}

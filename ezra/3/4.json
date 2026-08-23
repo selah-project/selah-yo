@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Wọ́n sì ṣe ⟨את⟩ ọdún àgbá-lágbà gẹ́gẹ́ bí a ti kọ ọ́, àti ẹbọ-óógyẹ ti ọjọ́ lọ́jọ́ ní ìye, gẹ́gẹ́ bí òfin ṣe tọ́ka sí iṣẹ́ ọjọ́ kọ̀ọ̀kan nínú ọjọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "wọ́n sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọdún àgbá-lágbà"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "àgbá-lágbà"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "gẹ́gẹ́ bí a ti kọ ọ́"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "àti ẹbọ-óógyẹ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ti ọjọ́"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "lọ́jọ́"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ní ìye"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "gẹ́gẹ́ bí òfin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "nínú ọjọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:57:39.714741887Z",
+  "model": "glm-5.3"
+}

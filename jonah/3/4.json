@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Yonah sì bẹ̀rẹ̀ sí í wọ inú ìlú náà, ìrìn-àjọ ọjọ́ kan; ó sì ké, ó sì wí pé, Sí i ọjọ́ mèrìnládàgbà ní Nineveh yóò dà wó.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "sì bẹ̀rẹ̀ sí í"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "wọ inú"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ìrìn-àjọ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ó sì ké"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Sí i"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mèrìnládàgbà"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "yóò dà wó"
+    }
+  ],
+  "timestamp": "2026-08-23T03:09:29.805246277Z",
+  "model": "glm-5.3"
+}

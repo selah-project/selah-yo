@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "⟨את⟩ tí ó jẹ́ ẹni tí ìwọ ti sọ ọ̀rọ̀ wọnyí fún? ẹ̀mí tí ó ti jáde láti ọ̀dọ̀ rẹ̀ jẹ́ ti tàbí?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tí ó jẹ́ ẹni (מי — ẹni tí)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ti sọ ọ̀rọ̀ fún"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ọ̀rọ̀ wọnyí"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "àti ẹ̀mí"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "ti jáde"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "láti ọ̀dọ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:24:21.689509736Z",
+  "model": "glm-5.3"
+}

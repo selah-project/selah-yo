@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Àti láti kọ́ nípa ⟨את⟩ àwọn ọmọ Yisrael ⟨את⟩ gbogbo àwọn ofin tí Yahweh ti sọ̀rọ̀ sí wọn nípa ọwọ́ Moshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "Àti láti kọ́ nípa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ofin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "àwọn ofin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nípa ọwọ́"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:59.012747804Z",
+  "model": "glm-5.3"
+}

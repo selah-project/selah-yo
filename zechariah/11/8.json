@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Èmi sì pa ⟨את⟩ àwọn olùṣọ́-àgùntàn mẹ́ta rẹ́ nínú oṣù kan; ọkàn mi sì kúrò ní wọn, ọkàn wọn sì kórìíra mi.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "èmi sì pa rẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn olùṣọ́-àgùntàn mẹ́ta"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "àwọn olùṣọ́-àgùntàn náà"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "nínú oṣù"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "sì kúrò ní"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sì"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ọkàn wọn"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "kórìíra"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:21:18.052387946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 57,
+  "translation": "Ọkàn mi dúróṣinṣin, Elohim; ọkàn mi dúróṣinṣin; yóòò, emi yóò kọrin, yóòò, emi yóò oriṣiríṣi-orin-kíkun.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "dúróṣinṣin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "dúróṣinṣin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "emi yóò kọrin"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "yóò, emi yóò oriṣiríṣi-orin-kíkun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:12.675024930Z",
+  "model": "glm-5.3"
+}

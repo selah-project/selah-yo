@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Bẹ́ẹ̀ ni Yahweh wí: bẹ́ẹ̀ gan-an ni èmi yóò ṣègbé ⟨את⟩ ìgbéraga Yehudah, àti ⟨את⟩ ìgbéraga Yerushalayim tó tóbi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "bẹ́ẹ̀ gan-an"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "yóò ṣègbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìgbéraga"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ìgbéraga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìgbéraga"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ìgbéraga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "tó tóbi"
+    }
+  ],
+  "timestamp": "2026-08-23T02:13:23.821779750Z",
+  "model": "glm-5.3"
+}

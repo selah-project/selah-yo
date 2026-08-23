@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ọkùnrin kan sì rí i, ó sì sọ́ fún Yoav, ó sì wí pé, kíyèsi, mo rí ⟨את⟩ Avshalom tí ó dókè ní igi eléyà.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rí i"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "sì sọ́ fún"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kíyèsi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mo rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "tó dókè"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "ní igi eléyà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:05:04.538083718Z",
+  "model": "glm-5.3"
+}

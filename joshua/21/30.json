@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Àti láti inú ẹ̀yà Asher ⟨את⟩ Mishal àti ⟨את⟩ àgbèèrù rẹ̀, ⟨את⟩ Avdon àti ⟨את⟩ àgbèèrù rẹ̀",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "àti láti inú ẹ̀yà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àgbèèrù rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "àgbèèrù rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àgbèèrù rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "àgbèèrù rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:30:06.080188489Z",
+  "model": "glm-5.3"
+}

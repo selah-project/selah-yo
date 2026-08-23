@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ọba náà sì sọ fún Tsadok wípé, \"Padà ⟨את⟩ ágbà Elohim wá sí ìlú náà; tí mo bá rí oore-ìfaradà nínú ojú Yahweh, Ó máa padà mí wá, Ó sì máa fi hàn mi ⟨את⟩ ágbà yìí àti ⟨את⟩ ibùgbé rẹ̀.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba náà"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "fún Tsadok"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Padà wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ágbà Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ágbà"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sí ìlú náà"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "mo bá rí"
+    },
+    {
+      "surface": "חן",
+      "gloss": "oore-ìfaradà"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nínú ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "Ó máa padà mí wá"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "Ó sì máa fi hàn mi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ágbà yìí",
+      "marks": "ágbà náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibùgbé rẹ̀"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "ibùgbé rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:04:27.580263933Z",
+  "model": "glm-5.3"
+}

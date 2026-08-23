@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ngbàkan tí mo gbọ́ ⟨את⟩ àwọn ìkọ̀rìnrora àwọn ọmọ Yisrael; bá wọn sọ̀rọ̀ pé: Láàárín ìrọ̀lẹ́ ẹ yóò jẹ ẹran, àti ní àárọ̀ ẹ yóò kún lórúkọ àkàrà yín, èyí tí ẹ yóò mọ̀ pé emi ni Yahweh, Elohim yín.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "mo gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìkọ̀rìnrora àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "àwọn ìkọ̀rìnrora"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bá … sọ̀rọ̀"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "בין",
+      "gloss": "Láàárín"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ìrọ̀lẹ́"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ẹ yóò jẹ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ẹran"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "àti ní àárọ̀"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "ẹ yóò kún"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "àkàrà"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ẹ yóò mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:09.532890050Z",
+  "model": "glm-5.3"
+}

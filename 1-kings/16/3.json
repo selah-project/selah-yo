@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Kií, èmi ń pa áṣẹ jẹ́ lẹ́yìn Baasha àti lẹ́yìn ilé rẹ̀, èmi sì máa fi ⟨את⟩ ilé rẹ̀ bí ilé Yarobeamu ọmọ Nẹbati.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "kií, èmi"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "ń pa áṣẹ jẹ́"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "sì lẹ́yìn"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "èmi sì máa fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé rẹ̀"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "bí ilé"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nẹbati"
+    }
+  ],
+  "timestamp": "2026-08-23T01:21:22.430447401Z",
+  "model": "glm-5.3"
+}

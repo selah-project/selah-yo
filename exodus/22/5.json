@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Nígbà tí iná jáde wá, sì bá àwọn ọ̀yà pọ̀, a sì jẹ ìkọ̀ yàrá tàbí irè tí ó díde tàbí pápá náà — san ní pẹ̀pẹ̀ ni ẹni tí ó mú iná jáde yóò san ⟨את⟩ ìjọna náà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nígbà tí"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "jáde wá"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "sì bá ... pọ̀"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "àwọn ọ̀yà"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "a sì jẹ"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "ìkọ̀ yàrá"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "irè tí ó díde"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pápá náà"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "san"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ní pẹ̀pẹ̀"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "ẹni tí ó mú iná jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọna náà"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "ìjọna náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:30.576808441Z",
+  "model": "glm-5.3"
+}

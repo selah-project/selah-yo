@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 60,
+  "translation": "Nígbà tí ó ń bá Aram-Naharaim ja, àti ⟨את⟩ Aram-Tsoba, Joab sì padà, ó sì lu ⟨את⟩ Edom ní ibi ìsàlẹ̀ yọ̀ọ̀ — ẹgbẹ̀rin lé lọ́nà mọ́kànlá (ìwọ̀n ẹgbàájọ) — ọ̀kẹ́ mọ́kànlá (méjìlá ńlá).",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Nígbà tí ó ń bá … ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Naharaim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "ìwọ̀n",
+      "gloss": "⟨את⟩",
+      "notes": "placeholder"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:28.994632596Z",
+  "model": "glm-5.3"
+}

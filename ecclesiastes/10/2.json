@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ọkàn ọlọgbọ́n wà ní ọwọ́ ọ̀tún rẹ̀, ṣùgbọ́n ọkàn àṣiwèrè sí ní ọwọ́ òsì rẹ̀.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ọlọgbọ́n"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "wà ní ọwọ́ ọ̀tún rẹ̀"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ṣùgbọ́n ọkàn"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "àṣiwèrè"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "ní ọwọ́ òsì rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:20.340278154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Àti ọkùnrin kọ̀ọ̀kan ní ilé Yisrael, àti láti àlè tí ó ń sábé láàárín wọn, tí ó bá jẹ ẹjẹ yàtọ̀ọ̀rẹ̀ — èmi yóò sì dojú kọ ⟨the⟩ nefesh tí ó jẹ ⟨את⟩ ẹjẹ náà, a ó sì kọ́ ọ́ kúrò láti àárín ènìyàn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "àti ọkùnrin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "àti láti"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "àlè náà"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "tí ó ń sábé"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "láàárín wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ó bá jẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yàtọ̀ọ̀rẹ̀"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ẹjẹ"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "èmi yóò sì fi sí"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kọ nefesh"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "tí ó jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹjẹ náà"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ẹjẹ náà"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "a ó sì kọ́"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "láti àárín"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "láti àárín"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ènìyàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:55.336603198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 6:5",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ẹ sì máa ṣe àwọn àwòrán ìbú ẹyin yín, àti àwọn àwòrán àwọn èku yín tí ó ń pa ⟨את⟩ ilẹ̀ náà ru, ẹ sì máa fún Elohim ti Yisrael ní ọlá — ó lé jẹ́ pé òun yóò ṣe ⟨את⟩ ọwọ́ rẹ̀ kẹ́kẹ́ kúrò lọ́dọ̀ yín, àti lọ́dọ̀ àwọn ọlọ́run yín, àti lọ́dọ̀ ilẹ̀ yín.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "ẹ sì máa ṣe"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "àwọn àwòrán"
+    },
+    {
+      "surface": "עפליכם",
+      "gloss": "ìbú ẹyin yín"
+    },
+    {
+      "surface": "וצלמי",
+      "gloss": "àti àwọn àwòrán"
+    },
+    {
+      "surface": "עכבריכם",
+      "gloss": "àwọn èku yín"
+    },
+    {
+      "surface": "המשחיתם",
+      "gloss": "tí ó ń pa ru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ẹ sì máa fún ní"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "fún Elohim ti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ọlá"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ó lé jẹ́ pé"
+    },
+    {
+      "surface": "יקל",
+      "gloss": "yóò ṣe kẹ́kẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "kúrò lọ́dọ̀ yín"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "àti lọ́dọ̀"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "àwọn ọlọ́run yín"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "àti lọ́dọ̀"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ilẹ̀ yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:45:15.625674398Z",
+  "model": "glm-5.3"
+}

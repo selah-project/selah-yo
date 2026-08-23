@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "àti ⟨את⟩ páláńtí ìmọ́lẹ̀ náà, àti ⟨את⟩ àwọn ohun-èlò rẹ̀, àti ⟨את⟩ àwọn fitílà rẹ̀, àti ⟨את⟩ epo ti a fi ń mọ́ ìmọ́lẹ̀ náà;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "páláńtí ìmọ́lẹ̀ náà"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "páláńtí"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ìmọ́lẹ̀ náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "àwọn ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn fitílà rẹ̀"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "àwọn fitílà rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "epo ìmọ́lẹ̀ náà"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ìmọ́lẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:16.096716353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ọkùnrin kì í gbà ⟨את⟩ iyàwó baba rẹ̀, àti kì í ṣí etí aṣọ baba rẹ̀.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "gbà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyàwó baba rẹ̀"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "iyàwó"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kì í"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ṣí"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "etí aṣọ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:17:15.942218615Z",
+  "model": "glm-5.3"
+}

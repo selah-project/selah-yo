@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 56,
+  "translation": "Nínú Elohim ni èmi yóò yọ́ ọ̀rọ̀ rẹ̀; nínú Elohim ni mo ti gbẹ́kẹ̀ lé; èmi kì ní paya irú ohun ti ẹran ara lè ṣe sí mi.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "nínú Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "yóò yọ́"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nínú Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mo ti gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ní paya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "irú ohun"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "lè ṣe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ẹran ara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:38.680839469Z",
+  "model": "glm-5.3"
+}

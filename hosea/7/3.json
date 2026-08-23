@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Pẹ̀lú búburú wọn wọ́n ń fun ọba yọ, àti pẹ̀lú ìtàn wọn wọ́n ń fun àwọn ìjòyè yọ.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "pẹ̀lú búburú wọn"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "wọ́n ń fun ... yọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "àti pẹ̀lú ìtàn wọn"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "àwọn ìjòyè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:02:10.742144970Z",
+  "model": "glm-5.3"
+}

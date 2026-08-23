@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 17:3",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Kí n sì padà gbé gbogbo àwọn ènìyàn náà wá bá ọ; gẹ́gẹ́ bí tí gbogbo padà — ẹni tí ìwọ ń wà, ṣùgbọ́n nìkan — gbogbo àwọn ènìyàn yóò wà ní àlàáfíà.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "kí n padà gbé … wá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bá ọ"
+    },
+    {
+      "surface": "כשוב",
+      "gloss": "gẹ́gẹ́ bí tí padà"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ń wà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ní àlàáfíà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:04:06.333894472Z",
+  "model": "glm-5.3"
+}

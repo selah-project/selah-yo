@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó pèsè ọ̀nà fún ìbínú rẹ̀; kò dáàbò bò ẹ̀mí wọn ní ìkú, ó sì fi ìyè wọn lé ìjàmbá-àrùn lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Ó pèsè"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "fún ìbínú rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dáàbò bò"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ní ìkú"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ẹ̀mí wọn"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "àti ìyè wọn"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "fún ìjàmbá-àrùn"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "ó fi lé lọ́wọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:37.620118392Z",
+  "model": "glm-5.3"
+}

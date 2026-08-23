@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Kushu sì bí ⟨את⟩ Nimrod; òun ni ó bẹ̀rẹ̀ láti di ẹní-agbára lórí ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kushu sì"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "החל",
+      "gloss": "bẹ̀rẹ̀"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "láti di"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ẹní-agbára"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lórí ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:54.703720987Z",
+  "model": "glm-5.3"
+}

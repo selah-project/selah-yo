@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Àwọn tí ó ń bẹ̀rù rẹ yóò rí mi, wọn yóò sì yọ̀; nítorí tí mo gbẹ́yin ìròyin rẹ dúró.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "àwọn tí ó ń bẹ̀rù rẹ"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "yóò rí mi"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "wọn yóò sì yọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "nípa ọ̀rọ̀ rẹ"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "mo gbẹ́yin dúró"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:46.640255225Z",
+  "model": "glm-5.3"
+}

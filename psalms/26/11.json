@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ìgboyà mi ni pé, èmi yóò máa rìn nínú òtítọ́ mi; ra mià, kí o sì ṣàánú fún mi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ìgboyà mi ni pé, èmi"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "nínú òtítọ́ mi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "yóò máa rìn"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ra mi"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "kí o sì ṣàánú fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:06.090063912Z",
+  "model": "glm-5.3"
+}

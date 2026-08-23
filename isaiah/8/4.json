@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Nítòótọ́, ṣáájú kí ọmọdé náà tó mọ èyítí ó ń pe baba rẹ̀ àti ìyá rẹ̀, yóò gba ⟨את⟩ ọrọ̀ Damaseki àti ⟨את⟩ ọrọ̀ ìjíǹgbè Shomron lọ́wọ́, níwájú ọba Ashur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ṣáájú kí… tó"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ọmọdé náà"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "àti ìyá rẹ̀"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "yóò gba… lọ́wọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrọ̀ Damaseki"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ọrọ̀"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaseki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọrọ̀ ìjíǹgbè Shomron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ọrọ̀ ìjíǹgbè"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-23T01:42:22.404323710Z",
+  "model": "glm-5.3"
+}

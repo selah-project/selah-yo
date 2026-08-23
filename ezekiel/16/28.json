@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 16:28",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "O sì ṣe ìwà àgbèrè pẹ̀lú àwọn ọmọ Ashur, nítorí pé ìrọ́rùn kò kan ọ́, o sì tún ṣe ìwà àgbèrè, ìrọ́rùn sì kò kan ọ́ rárá.",
+  "tokens": [
+    {
+      "surface": "ותזני",
+      "gloss": "o sì ṣe ìwà àgbèrè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "מבלתי",
+      "gloss": "nítorí pé ... kò"
+    },
+    {
+      "surface": "שבעתך",
+      "gloss": "ìrọ́rùn kan ọ́"
+    },
+    {
+      "surface": "ותזנים",
+      "gloss": "o sì tún ṣe ìwà àgbèrè"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò ... rárá"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ìrọ́rùn kan ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T02:39:08.981881631Z",
+  "model": "glm-5.3"
+}

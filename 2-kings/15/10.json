@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 15:10",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Shallum ọmọ Yavesh sì pọ́ sílẹ̀ sí i lórí, ó sì lu ú níwájú ⟨wọn⟩ àwọn ènìyàn, ó sì pa á, ó sì jọba ní ipò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "sì pọ́ sílẹ̀ sí i"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ó sì lu ú"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "עם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ó sì pa á"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ó sì jọba"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ní ipò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:31:53.714650324Z",
+  "model": "glm-5.3"
+}

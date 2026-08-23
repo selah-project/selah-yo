@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 115,
+  "translation": "Àwọn tí ó ṣe wọn yóò jọ wọn; gbogbo ẹni tí ó gbẹ́kẹ̀ lé wọn.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "jọ wọn"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "àwọn tí ó ṣe wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:28.383723036Z",
+  "model": "glm-5.3"
+}

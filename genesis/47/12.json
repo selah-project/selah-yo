@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Yosef sì pèsè oúnjẹ fún ⟨את⟩ baba rẹ̀ àti ⟨את⟩ àwọn ará rẹ̀ àti ⟨את⟩ gbogbo ilé baba rẹ̀, gẹ́gẹ́ bí ẹnu àwọn ọmọ kékeré.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "sì pèsè oúnjẹ fún"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba rẹ̀"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ará rẹ̀"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "àwọn ará rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ilé baba rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "gẹ́gẹ́ bí ẹnu"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "àwọn ọmọ kékeré"
+    }
+  ],
+  "timestamp": "2026-08-22T23:13:26.147857619Z",
+  "model": "glm-5.3"
+}

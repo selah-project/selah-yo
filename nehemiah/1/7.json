@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "A ṣẹ̀ gidigidi sí ọ́, a kò sì ṣọ́ ⟨את⟩ àwọn àṣẹ̀, àti ⟨את⟩ àwọn òfin, àti ⟨את⟩ àwọn òdọ́dọ́ tí o pàṣẹ ⟨את⟩ Moshe, ìránṣẹ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "gidigidi"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "a ṣẹ̀"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sí ọ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a kò sì"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àṣẹ̀"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "àwọn àṣẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn òfin"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "àwọn òfin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn òdọ́dọ́"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "àwọn òdọ́dọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "o pàṣẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T05:01:39.593790704Z",
+  "model": "glm-5.3"
+}

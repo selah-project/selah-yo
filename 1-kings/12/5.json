@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ó sì wí fún wọn pé, Ẹ lọ sí ⟨ìṣẹ́jú⟩ ⟨àámú⟩ ọjọ́ méta, kí ẹ sì padà wá sọ̀dọ̀ mi; àwọn ènìyàn sì lọ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ẹ lọ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sí ⟨ìṣẹ́jú⟩ ⟨àámú⟩"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "méta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "kí ẹ sì padà"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "wá sọ̀dọ̀ mi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "sì lọ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:18:19.947508121Z",
+  "model": "glm-5.3"
+}

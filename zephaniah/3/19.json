@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zephaniah 3:19",
+  "book": "zephaniah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Wò ó, mo ń ṣe ⟨את⟩ gbogbo àwọn tó ń tọ̀ ọ́ jẹ́ ní àsìkò yẹn; èmi sì gbà ⟨את⟩ ẹni tí ó ṣì lọ́pàlọ̀pàlọ̀, àti ẹni tí a sọ̀ lọ ni mo máa kó jọ pọ̀; mo sì fi wọn sílẹ̀ gẹ́gẹ́ bí ìyìn àti orúkọ ní gbogbo ilẹ̀ ayé, nípa ìtìjú wọn.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mo ń ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn tó ń tọ̀ ọ́ jẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מעניך",
+      "gloss": "àwọn tó ń tọ̀ ọ́ jẹ́"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ní àsìkò"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "èmi sì gbà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹni tí ó ṣì lọ́pàlọ̀pàlọ̀"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "ẹni tí ó ṣì lọ́pàlọ̀pàlọ̀"
+    },
+    {
+      "surface": "והנדחה",
+      "gloss": "àti ẹni tí a sọ̀ lọ"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "mo máa kó jọ pọ̀"
+    },
+    {
+      "surface": "ושמתים",
+      "gloss": "mo sì fi wọn sílẹ̀"
+    },
+    {
+      "surface": "לתהלה",
+      "gloss": "gẹ́gẹ́ bí ìyìn"
+    },
+    {
+      "surface": "ולשם",
+      "gloss": "àti orúkọ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "nípa ìtìjú wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:04.956669426Z",
+  "model": "glm-5.3"
+}

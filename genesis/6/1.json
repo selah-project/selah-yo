@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ó sì ṣẹlẹ̀, nígbà tí àwọn ènìyàn bẹ̀rẹ̀ láí pọ̀ sí i ní ojú ilẹ̀ ayé, àwọn ọmọbìnrin sì bí wọn fúnra wọn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "החל",
+      "gloss": "bẹ̀rẹ̀"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "láí pọ̀ sí i"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "àwọn ọmọbìnrin sì"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "bí wọn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fúnra wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:56.698883168Z",
+  "model": "glm-5.3"
+}

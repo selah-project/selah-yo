@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "àti láti ṣe èrò-ọnà, láti ṣe iṣẹ́ ní wúrà, ní fàdákà, àti ní idọ.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "àti láti ṣe èrò"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "èrò-ọnà"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "ní wúrà"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ní fàdákà"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "àti ní idọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:38.472990482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ọba náà sì búwọ̀, ó wí pé, Yahweh ti wà láàyè, ẹni tí ó rà ⟨את⟩ ẹ̀mí mi kúrò nínú gbogbo ìṣòro.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "sì búwọ̀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó wí pé"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ti wà láàyè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "rà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí mi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kúrò nínú gbogbo"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ìṣòro"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:51.930053787Z",
+  "model": "glm-5.3"
+}

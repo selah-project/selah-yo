@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Ṣùgbọ́n ìwọ, Yahweh, ṣe àánú fún mi, kí ì dìde, èmi yóò san wọn lẹ́san.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ṣùgbọ́n ìwọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ṣe àánú fún mi"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "kí ì dìde"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "èmi yóò san lẹ́san"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:30.033919628Z",
+  "model": "glm-5.3"
+}

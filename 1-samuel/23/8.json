@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Sha'ul sì pè ⟨את⟩ gbogbo àwọn ènìyàn nípa ìjà, láti dọ̀ sí Keilah, láti fi ìkọ̀lù yí Dawid àti àwọn ọkọ rẹ pó.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "sì pè"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ènìyàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "nípa ìjà"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "láti dọ̀ sí"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "láti fi ìkọ̀lù yí…pó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "",
+      "notes": ""
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "àwọn ọkọ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:52:34.133673436Z",
+  "model": "glm-5.3"
+}

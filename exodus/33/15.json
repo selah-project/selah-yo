@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ó sì sọ wí sí i pé, 'Bí ìfarahàn rẹ kò bá ń rìn, má ṣe gbé wa lọ kúrò ní ibí yìí.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì sọ wí"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò bá"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ìfarahàn rẹ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ń rìn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תעללנו",
+      "gloss": "gbé wa lọ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kúrò ní ibí yìí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:29:40.880904482Z",
+  "model": "glm-5.3"
+}

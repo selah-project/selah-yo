@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 83,
+  "translation": "Fi àwọn olóyè wọn bíi Oreb àti bíi Zeeb; àti bíi Zevach àti bíi Tzalmunna, gbogbo àwọn adarí wọn.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Fi"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "àwọn olóyè wọn"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "bíi Oreb"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "àti bíi Zeeb"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "àti bíi Zevach"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "àti bíi Tzalmunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "àwọn adarí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:52.221597050Z",
+  "model": "glm-5.3"
+}

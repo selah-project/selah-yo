@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ìwọ kì í gbé ⟨את⟩ ojú-iṣẹ́-ìdárí-jín ìkẹ̀sí lórí ⟨את⟩ àpótì ìjíròrò, ní ibi mímọ́ tí ó mímọ́ jù.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ìwọ kì í gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú-iṣẹ́-ìdárí-jín ìkẹ̀sí"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ojú-iṣẹ́-ìdárí-jín ìkẹ̀sí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "àpótì"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ìjíròrò"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ní ibi mímọ́"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "tí ó mímọ́ jù"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:15.297841006Z",
+  "model": "glm-5.3"
+}

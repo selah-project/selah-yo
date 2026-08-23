@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Má ṣe ṣe ohun ìwọ̀nrọ̀ fún ra rẹ, àti àwòrán ìrísí gbogbo, ti ó wà nínú ọ̀run lókè, ti ó wà nínú ilẹ̀ lábẹ́, ti ó sì wà nínú omi lábẹ́ ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ra rẹ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ohun ìwọ̀nrọ̀"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "àwòrán ìrísí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti ó wà"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nínú ọ̀run"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "lókè"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ti ó wà"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nínú ilẹ̀"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ti ó sì wà"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nínú omi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:07.412028124Z",
+  "model": "glm-5.3"
+}

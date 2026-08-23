@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ẹ sì ṣọ́ ⟨את⟩ ọ̀rọ̀ yìí gẹ́gẹ́ bí òfin fún yín àti fún àwọn ọmọ yín títí láéláé.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ẹ sì ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ yìí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "gẹ́gẹ́ bí òfin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "àti fún àwọn ọmọ yín"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "láéláé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:59.909914537Z",
+  "model": "glm-5.3"
+}

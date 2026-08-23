@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Ìbéèrò ẹlẹ́yà, nígbà tí ⟨ó⟩ bá rù búburú, kí ó sì ṣàn ìjíròò rẹ̀ níwájú Yahweh.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "ìbéèrò"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ẹlẹ́yà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "bá rù búburú"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "kí ó sì … níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ṣàn"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ìjíròò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:02.733774139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 34:5",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Nífẹ́-ọkàn ni iwọ yóò kú, àti gẹ́gẹ́ bí ìsún-iná tí a sún fún àwọn baba rẹ, àwọn ọba àkọ́kọ́ tí ó wà ṣáájú rẹ, bẹ́ẹ̀ ni wọn yóò sún iná fún rẹ, àti wọn yóò kọ̀ọ́ fún rẹ, wí pé, 'Hàà, olúwa!' nítorí tí ọ̀rọ̀ ni èmi ti sọ — ìsọ́nípa Yahweh.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "nífẹ́-ọkàn"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "iwọ yóò kú"
+    },
+    {
+      "surface": "וכמשרפות",
+      "gloss": "àti bí ìsún-iná"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "àwọn baba rẹ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "àkọ́kọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wà"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ṣáájú rẹ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "wọn yóò sún iná"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún rẹ"
+    },
+    {
+      "surface": "והוי",
+      "gloss": "àti 'Hàà!'"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "olúwa"
+    },
+    {
+      "surface": "יספדו",
+      "gloss": "wọn yóò kọ̀ọ́-ọ̀kú"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ìsọ́nípa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T02:23:27.881985075Z",
+  "model": "glm-5.3"
+}

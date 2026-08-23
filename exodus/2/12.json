@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì yẹ ẹ̀wọ̀n kiri bí ó ti wù ú, ó sì rí pé ẹni kan kò sí; ó sì lu ⟨את⟩ ará Egipti náà, ó sì fi pamọ́ ẹ nínú yàrá ìdánwò̀ àlà.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ó sì yẹ ẹ̀wọ̀n kiri"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bí èyí"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "sì bẹ́gẹ́gẹ́"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ó sì rí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni kan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ó sì lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ará Egipti náà"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "ará Egipti náà"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "ó sì fi pamọ́ ẹ"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "nínú yàlá"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:58.626037777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Èmi ó sì fi iná ránṣẹ́ sí ogiri Tsor, ó sì jẹ áwọn àárín-ogún rẹ̀",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Èmi ó sì fi…ránṣẹ́"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "sí ogiri"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ó sì jẹ"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "àárín-ogún rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:05:14.234623632Z",
+  "model": "glm-5.3"
+}

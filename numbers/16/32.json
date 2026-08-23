@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ilẹ̀ sì pa ⟨את⟩ ẹnu rẹ̀ sílẹ̀, ó sì mì wọ́n mí, àti ⟨את⟩ àwọn ilé wọn, àti ⟨את⟩ gbogbo àwọn ènìyàn tí ó wà fún Korah, àti ⟨את⟩ gbogbo ohun ìní wọn.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "sì pa … sílẹ̀"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Ilẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹnu rẹ̀"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ẹnu rẹ̀"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ó sì mì wọ́n mí"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ilé wọn"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "àwọn ilé wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ènìyàn tí ó wà fún Korah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "fún Korah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ohun ìní wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "ohun ìní wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:44:12.995326704Z",
+  "model": "glm-5.3"
+}

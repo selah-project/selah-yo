@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó sì wáyé pé Shaul di olódì sí ⟨את⟩ Davidi, láti ọjọ́ yẹn lọ síwájú.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé pé"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "di olódì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "láti ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "lọ síwájú"
+    }
+  ],
+  "timestamp": "2026-08-23T00:50:44.178872845Z",
+  "model": "glm-5.3"
+}

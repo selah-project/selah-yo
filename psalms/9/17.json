@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Yahweh ti di mọ̀níláàyè, ó ṣe ⟨ìdájọ́⟩; níbi iṣẹ́ owọ́ rẹ̀ ni wọ́n fi ọ̀nà mú ẹni-burúkú. Higgaion. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "ti di mọ̀níláàyè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨ìdájọ́⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "níbi iṣẹ́"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "owọ́ rẹ̀"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "wọ́n fi ọ̀nà mú"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ẹni-burúkú"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgaion"
+    },
+    {
+      "surface": "סלah",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:57.293063464Z",
+  "model": "glm-5.3"
+}

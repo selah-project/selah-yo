@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Nígbà náà Yehoshua pa ⟨את⟩ àwọn aṣáájú ènìyàn náà nị́ lọ́wọ́, ó sì wí pé:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ó sì pa nị́ lọ́wọ́"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn aṣáájú ènìyàn náà"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "àwọn aṣáájú"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó sì wí pé"
+    }
+  ],
+  "timestamp": "2026-08-23T00:22:55.851081076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 8:12",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àwọn Lewi yóò sì fi ⟨את⟩ ọwọ́ wọn lé lórí orí àwọn màlúù; kí o sì ṣe ⟨את⟩ ọ̀kan sílẹ̀ gẹ́gẹ́ bí ẹbùn ẹ̀ṣẹ̀, àti ⟨את⟩ ọ̀kan sílẹ̀ gẹ́gẹ́ bí ẹbùn tí a jó sókè fún Yahweh, láti ṣe ìdààmú fún àwọn Lewi.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "Àwọn Lewi yóò sì"
+    },
+    {
+      "surface": "יסמכו",
+      "gloss": "fi… lé lórí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ wọn"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ọwọ́ wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "הפרים",
+      "gloss": "àwọn màlúù"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kí o sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀kan (ẹbùn ẹ̀ṣẹ̀)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ẹbùn ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọ̀kan (ẹbùn tí a jó sókè)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ẹbùn tí a jó sókè"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "láti ṣe ìdààmú"
+    },
+    {
+      "surface": "על",
+      "gloss": "fún"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "àwọn Lewi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:52:28.040619603Z",
+  "model": "glm-5.3"
+}

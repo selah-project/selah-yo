@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 8:7",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Nítorí náà, kíyèsi, Adonai ń gbé ⟨את⟩ àwọn omi odò ńlá náà, àwọn tí ó lágbára tí ó sì pọ̀ jù — ⟨את⟩ ọba Ashur àti ⟨את⟩ gbogbo ọlá rẹ̀ — sókè lórí wọn; yóò sì gbé sókè lórí gbogbo àwọn odo-èhìnmẹ́ẹ̀wá rẹ̀, yóò sì rìn lórí gbogbo etí odò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kíyèsi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ń gbé sókè"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lórí wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn omi odò ńlá náà"
+    },
+    {
+      "surface": "מי",
+      "gloss": "àwọn omi"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "odò ńlá náà"
+    },
+    {
+      "surface": "העצומים",
+      "gloss": "tí ó lágbára"
+    },
+    {
+      "surface": "והרבים",
+      "gloss": "tí ó sì pọ̀ jù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọba Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ọlá rẹ̀"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "yóò sì gbé sókè"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אפיקיו",
+      "gloss": "àwọn odo-èhìnmẹ́ẹ̀wá rẹ̀"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "yóò sì rìn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "גדותיו",
+      "gloss": "etí odò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:43:12.242633083Z",
+  "model": "glm-5.3"
+}

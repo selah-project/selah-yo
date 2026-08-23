@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 23:14",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "David sì wà ní ìgbà yẹn ní àgbàlá ìdènimọ̀; ìdógun Pelishtim sì wà ní ìgbà yẹn ní Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "David sì"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ní ìgbà yẹn"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "ní àgbàlá ìdènimọ̀"
+    },
+    {
+      "surface": "ומצב",
+      "gloss": "ìdógun sì"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ní ìgbà yẹn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-23T01:09:17.357214893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Èmi sì máa mú inira bọ ⟨את⟩ irú-ọmọ Dawodu nítorí èyí; níkan, kì í ṣe fún gbogbo ọjọ́.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "èmi sì máa mú inira bọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irú-ọmọ Dawodu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "irú-ọmọ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawodu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "אך",
+      "gloss": "níkan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:18:37.641338557Z",
+  "model": "glm-5.3"
+}

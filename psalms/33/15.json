@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ẹni tí ó ṣẹ̀dá ọkàn wọn pọ̀ lápapọ̀, Ẹni tí ó dá lójú gbogbo iṣẹ́ wọn.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Ẹni tí ó ṣẹ̀dá"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pọ̀ lápapọ̀"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ọkàn wọn"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "Ẹni tí ó dá lójú"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "iṣẹ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:56.521466293Z",
+  "model": "glm-5.3"
+}

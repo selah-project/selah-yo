@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "nítorí pé wọ́n ń fún àwọn tí ń ṣe iṣẹ́ náà lọ́wọ́ lọ́wọ́, tí wọ́n sì ń fi ṣe àtìlẹyìn ⟨את⟩ ilé Yahweh",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "fún àwọn tí ń ṣe"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "iṣẹ́ náà"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "wọ́n ń fún lọ́wọ́"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "tí wọ́n sì ń ṣe àtìlẹyìn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T01:32:13.320078047Z",
+  "model": "glm-5.3"
+}

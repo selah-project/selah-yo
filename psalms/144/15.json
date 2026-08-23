@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 144,
+  "translation": "Ìdùnnú fún ìjọ náà tí ó rí bẹ́ẹ̀; ìdùnnú fún ìjọ náà tí Yahweh jé Elohim rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ìdùnnú fún"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "tí ó rí bẹ́ẹ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ìdùnnú fún"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "tí Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "jé Elohim rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:53.423656932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Ṣé o le pa olè-èjìká lọ́wọ́ rẹ, Eloah? Ẹnyin àwọn ọkùnrin ẹ̀jẹ̀, ẹ kúrò ní ọ̀dọ̀ mi!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ṣé o le"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "pa ... lọ́wọ́ rẹ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "olè-èjìká"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ti ẹ̀jẹ̀"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "ẹ kúrò"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ní ọ̀dọ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:22.548184781Z",
+  "model": "glm-5.3"
+}

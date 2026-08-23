@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 66,
+  "translation": "Fún olùdarí-orin: orin kíkọ, mizmor. Ẹ gbé ohùn sókè sí Elohim, gbogbo ⟨ilẹ̀ ayé⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí-orin"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin kíkọ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ẹ gbé ohùn sókè"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sí Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:00.802073965Z",
+  "model": "glm-5.3"
+}

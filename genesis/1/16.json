@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Elohim sì ṣe ⟨את⟩ àwọn míṣe mélọ̀ọ̀ méjì, ⟨את⟩ míṣe ńlá fún ìjọba ọjọ́, àti ⟨את⟩ míṣe kékeré fún ìjọba òru, àti ⟨את⟩ àwọn ìràwẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn míṣe mélọ̀ọ̀ méjì"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mélọ̀ọ̀ méjì"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "àwọn míṣe"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "míṣe ńlá"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "míṣe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "fún ìjọba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "míṣe kékeré"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "míṣe"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kékeré"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "fún ìjọba"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìràwẹ̀"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "àwọn ìràwẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:10.509242748Z",
+  "model": "glm-5.3"
+}

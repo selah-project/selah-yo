@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Yahweh Elohim rẹ yóò sọ ⟨את⟩ gbogbo ẹ̀gún tí ó wù wọ̀n yìí lé àwọn ọ̀tá rẹ lórí, àti lé àwọn tí ó kórìíra rẹ lórí, tí ó gbé ẹ lẹ́sẹ̀kẹsẹ̀.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "yóò sọ lé lórí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ẹ̀gún wọ̀nyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "ẹ̀gún"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tí ó wù wọ̀n yìí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé lórí"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "àwọn ọ̀tá rẹ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lé lórí"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "àwọn tí ó kórìíra rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "ó gbé ẹ lẹ́sẹ̀kẹsẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:19:50.131174034Z",
+  "model": "glm-5.3"
+}

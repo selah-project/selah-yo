@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 92,
+  "translation": "Láti sọ ìfẹ́ olóòtítọ́ rẹ ṣẹ́ ní àárọ̀, àti ìgbẹ́gbọ́ rẹ ní àwọn òru.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "láti sọ ... ṣẹ́"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "àti ìgbẹ́gbọ́ rẹ"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ní àwọn òru"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:50.746249461Z",
+  "model": "glm-5.3"
+}

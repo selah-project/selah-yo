@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ṣọ́ ahọ́ rẹ kúrò lọ́wọ́ búburú, àti èté rẹ kúrò lọ́wọ̀ ọ̀rọ̀ èké.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Ṣọ́ … kúrò"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ahọ́ rẹ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "lọ́wọ́ búburú"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "àti èté rẹ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kúrò lọ́wọ̀ ọ̀rọ̀"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "èké"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:06.048965646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Jẹ́ kí wọn jẹ́ ti ìwọ̀ nìkan, kí ó má sì jẹ́ ti àwọn àjèjì ⟨pẹ̀lú rẹ̀⟩.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "jẹ́ kí wọn jẹ́"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti ìwọ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "nìkan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kí ó má sì jẹ́"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "ti àwọn àjèjì"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pẹ̀lú rẹ̀",
+      "marks": "pẹ̀lú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:03:55.540168433Z",
+  "model": "glm-5.3"
+}

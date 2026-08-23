@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Ẹ kọ orin sí Elohim, ẹ kọ orin; ẹ kọ orin sí Ọba wa, ẹ kọ orin.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Ẹ kọ orin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sí Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ẹ kọ orin"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ẹ kọ orin"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "sí Ọba wa"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ẹ kọ orin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:37.035742924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Èmi yóò ṣe ìrántí orúkọ rẹ ní gbogbo ìrúnpọ̀ndà, àti ní ìrúnpọ̀ndà míràn; nítorí náà ni àwọn orílẹ̀-èdè yóò ti dupe ọ́ sínú àìnípẹ̀kun, àti nígbà tí kò ní ṣí sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "èmi yóò ṣe ìrántí"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ìrúnpọ̀ndà"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "àti ní ìrúnpọ̀ndà míràn"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "náà"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "yóò dupe ọ́"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "sínú àìnípẹ̀kun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "àti nígbà tí kò ní ṣí sílẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:53.597276269Z",
+  "model": "glm-5.3"
+}

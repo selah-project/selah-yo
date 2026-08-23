@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 10:33",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Láti Yardeni, ní ìlà-oòrùn oòrùn, ⟨את⟩ gbogbo ilẹ̀ Giladi, ti àwọn Gadi, àti ti àwọn Reuveni, àti ti àwọn Menashe, láti Aroer tí ó wà lórí odò Arnoni, àti Giladi àti Bashan.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ní ìlà-oòrùn"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "oòrùn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ilẹ̀ Giladi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "ti àwọn Gadi"
+    },
+    {
+      "surface": "והראובני",
+      "gloss": "àti ti àwọn Reuveni"
+    },
+    {
+      "surface": "והמנשי",
+      "gloss": "àti ti àwọn Menashe"
+    },
+    {
+      "surface": "מערער",
+      "gloss": "láti Aroer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "odò"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnoni"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "àti Giladi"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "àti Bashan"
+    }
+  ],
+  "timestamp": "2026-08-23T01:30:32.258849730Z",
+  "model": "glm-5.3"
+}

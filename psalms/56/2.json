@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 56,
+  "translation": "Ṣààní mi, Elohim, nítorí enosh ń gbé mi mímú; nígbà gbogbo ọjọ́, ó ń jagun, ó ń tẹ mi lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ṣààní mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "ń gbé mi mímú"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "enosh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ó ń jagun"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "ó ń tẹ mi lọ́wọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:04.223688936Z",
+  "model": "glm-5.3"
+}

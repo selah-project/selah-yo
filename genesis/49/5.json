@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Shimon àti Levi, ará ìbátan; ìdà wọn ni ohun ìjàmbára-ìpaniyan.",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "àti Levi"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ará ìbátan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ohun ìjàmbára"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìpaniyan"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "ìdà wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:47.094136472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ẹni tí ó ń pa ojú ṣẹ́ṣẹ́ ń fi ìrora fúnni, ẹni aìgbọ́n tí ẹnu rẹ̀ pọ̀ yóò ṣubú.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "ẹni tí ó ń pa ojú ṣẹ́ṣẹ́"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ń fi … fúnni"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "ìrora"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ṣùgbọ́n ẹni aìgbọ́n"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "tí ẹnu rẹ̀ pọ̀"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "yóò ṣubú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:05:27.638243829Z",
+  "model": "glm-5.3"
+}

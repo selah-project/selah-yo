@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ilẹ̀ ayé ń búnú, ó sì ń lọ́wọ́; gbogbo àgbáyé ń rẹwẹ́, ó sì ń lọ́wọ́; àwọn tí ó ga lára àwọn ènìyàn ilẹ̀ ayé ń rẹwẹ́.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "ń búnú"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ń lọ́wọ́"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Ilẹ̀ ayé"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ń rẹwẹ́"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ń lọ́wọ́"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "gbogbo àgbáyé"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ń rẹwẹ́"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "àwọn tí ó ga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:49:35.755179076Z",
+  "model": "glm-5.3"
+}

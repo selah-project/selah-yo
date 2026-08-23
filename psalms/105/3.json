@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ẹ yọ̀nu ⟨ninu⟩ oruko mimọ́ Rẹ, ọkàn àwọn tí wọn ń wa Yahweh yóò dúpo.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Ẹ yọ̀nu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ninu oruko"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mimọ́ Rẹ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "yóò dúpo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "àwọn tí wọn ń wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:25.333927094Z",
+  "model": "glm-5.3"
+}

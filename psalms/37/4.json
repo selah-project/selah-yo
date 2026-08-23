@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Dùn lára nínú Yahweh, ó sì jẹ́ kí ó fún ọ ní àwọn béèrè ọkàn rẹ.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Dùn lára nínú"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì jẹ́ kí ó fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "àwọn béèrè"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ọkàn rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:22.885907219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Wọ́n sì gba ⟨את⟩ ẹ̀ẹ̀kún wọn, sì sìnkún wọn sí abẹ́ igi esel ní Yavesh, wọ́n sì wọ́ ọ̀jọ̀ méje.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "wọ́n sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀ẹ̀kún wọn"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ẹ̀ẹ̀kún wọn"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "sì sìnkún wọn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sí abẹ́"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "igi esel"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "ní Yavesh"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "wọ́n sì wọ́"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ọ̀jọ̀ méje"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọ̀jọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:56:34.968462459Z",
+  "model": "glm-5.3"
+}

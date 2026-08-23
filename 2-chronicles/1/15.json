@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ọba sì fi ⟨את⟩ fàdàkà àti ⟨את⟩ wúrà dá sí Yerushalayim bí àwọn òkúta, ó sì fi ⟨את⟩ àwọn igi cedar fún bí àwọn igi ìràwé tí ó wà ní àfonífojì, ní púpọ̀.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ọba sì fi … dá"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fàdàkà"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fàdàkà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "wúrà"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sí Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "bí àwọn òkúta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ó sì fi ⟨את⟩",
+      "marks": "àwọn igi cedar"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "àwọn igi cedar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "bí àwọn igi ìràwé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "àfonífojì"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ní púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:21:24.439974842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Ó sì ṣàfikún sí i mọ́, ó sì bí ọmọkùnrin kan, ó sì pè ⟨את⟩ orúkọ rẹ̀ Shelah; ó sì wà ní Chezib nígbà tí ó bí i ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "ó sì ṣàfikún sí i"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọkùnrin kan"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ó sì pè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ó sì wà"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "ní Chezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "nígbà tí ó bí i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "i"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:55.989626666Z",
+  "model": "glm-5.3"
+}

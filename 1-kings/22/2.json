@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ó sì sẹ́yìn ní ọdún kẹ́ta, Yehoshafat, ọba Judah, sì sọ̀rọ̀-lórí bọ́ sí ọ̀dọ̀ ọba Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì sẹ́yìn"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ní ọdún"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "kẹ́ta"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "sì sọ̀rọ̀-lórí bọ́ sí"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judah"
+    },
+    {
+      "surface": "אל",
+      "gloss": " sí ọ̀dọ̀"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-23T05:52:33.291515910Z",
+  "model": "glm-5.3"
+}

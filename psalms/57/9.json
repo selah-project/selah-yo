@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 57,
+  "translation": "Jí, ògo mi, jí, hàrà àti kínra; èmi yóò ji áṣalẹ́ ⟨dawn⟩ dúró.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ògo mi"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "hàrà"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "àti kínra"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "èmi yóò ji"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "áṣalẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:29.521191628Z",
+  "model": "glm-5.3"
+}

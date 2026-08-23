@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Dára àti tọ́ ni Yahweh; nítorí náà ni ó ti ń kọ́ àwọn ẹ̀ṣẹ̀ lọ́nà.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Dára"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "àti tọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "náà"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ń kọ́"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "àwọn ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lọ́nà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:17.428548349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Èmi ⟨ni⟩ Yahweh, Elohim rẹ, ẹnití ó mú ọ jáde kúrò nínú ilẹ̀ Mitsrayim, kúrò nínú ilé ẹrú.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹnití"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "mú ọ jáde"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kúrò nínú ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kúrò nínú ilé"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ẹrú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:07.411702026Z",
+  "model": "glm-5.3"
+}

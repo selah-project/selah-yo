@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "O sì máà pa ⟨את⟩ ọ̀dọ̀-malùù náà níwájú Yahweh, ní ẹnu-àgọ̀ ìpàdé náà.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "o sì máà pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀dọ̀-malùù náà"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ọ̀dọ̀-malùù"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ẹnu-àgọ̀"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:32.103398367Z",
+  "model": "glm-5.3"
+}

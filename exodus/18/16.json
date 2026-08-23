@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nítorí pé nígbà tí ohun ìṣẹlẹ̀ bá wà lọ́wọ́ wọn, ó ń bọ̀ sọ́dọ̀ mi, èmi sì ń dá èjọ́ láàrin ọkùnrin kan àti ẹlòmíràn rẹ̀, èmi sì ń ṣe wọn mọ̀ ⟨את⟩ àwọn òfin Elohim àti ⟨את⟩ òfin rẹ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí pé"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bá wà"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lọ́wọ́ wọn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ohun ìṣẹlẹ̀"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ń bọ̀"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sọ́dọ̀ mi"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "èmi sì ń dá èjọ́"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàrin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin kan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ẹlòmíràn rẹ̀"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "èmi sì ń ṣe wọn mọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òfin Elohim"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "àwọn òfin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "òfin rẹ̀"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "òfin rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:38.301307487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ó sì rán ⟨את⟩ Elyakim, tí ó ń ṣàkóso ilé náà, àti Shevna akọ̀wé, àti ⟨את⟩ àwọn àgbà àwọn àlùfáà, wọ́n sì bọ́ ara wọn ní àwọn sáákè, sí ọ̀dọ̀ Yeshayahu wòlíì, ọmọ Amots.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì rán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "על",
+      "gloss": "tí ó ń ṣàkóso lórí"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "àti Shevna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "akọ̀wé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àgbà àwọn àlùfáà"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "wọ́n sì bọ́ ara wọn ní"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "àwọn sáákè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "wòlíì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-08-23T01:35:32.756499307Z",
+  "model": "glm-5.3"
+}

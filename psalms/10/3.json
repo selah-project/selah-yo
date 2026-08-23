@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Nítorí ẹni-ìkà ń gbé ga lórí ìfẹ́ ọkàn rẹ̀, ẹni tí ó yọ fún ìgbéraga ń bùkún ararẹ̀, ó sì nsọ̀ Yahweh ni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "ń gbé ga"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ẹni-ìkà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ìfẹ́"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "ẹni tí ó yọ fún ìgbéraga"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ń bùkún ararẹ̀"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "nsọ̀ ... ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:27.232553923Z",
+  "model": "glm-5.3"
+}

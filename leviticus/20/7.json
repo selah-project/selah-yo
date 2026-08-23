@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ẹ sọ ara yín di mímọ́ nítorí náà, ẹ sì jẹ́ mímọ́; nítorí pé èmi ni Yahweh, Elohim yín.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "ẹ sọ ara yín di mímọ́"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ẹ sì jẹ́"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:37.791862699Z",
+  "model": "glm-5.3"
+}

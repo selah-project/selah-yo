@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Àwọn ẹlẹ́rìí ìwà-ipá yóò dìde; ohun tí èmi kò mọ̀ ni wọ́n ń béèrè lọ́dọ̀ mi.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "yóò dìde"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "àwọn ẹlẹ́rìí"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìwà-ipá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mo mọ̀"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "wọ́n ń béèrè lọ́dọ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:56.228255606Z",
+  "model": "glm-5.3"
+}

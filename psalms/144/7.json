@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 144,
+  "translation": "Fi ọwọ́ rẹ̀ ránṣẹ́ láti òkè òkun; gbà mí là, kí o sì gbà mí là láti inú omi púpọ̀, láti ọwọ́ àwọn ọmọ àjèjì.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Fi ... ránṣẹ́"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "láti òkè òkun"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "gbà mí là"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "kí o sì gbà mí là"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "láti inú omi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "láti ọwọ́"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "àjèjì"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:07.969559496Z",
+  "model": "glm-5.3"
+}

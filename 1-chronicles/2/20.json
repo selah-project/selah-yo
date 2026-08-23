@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ḥur sì bí ⟨את⟩ Uri; Uri sì bí ⟨את⟩ Betzalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Ḥur sì"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "Uri sì"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betzalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betzalel"
+    }
+  ],
+  "timestamp": "2026-08-23T05:08:17.528989997Z",
+  "model": "glm-5.3"
+}

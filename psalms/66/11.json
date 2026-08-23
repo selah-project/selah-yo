@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 66,
+  "translation": "Ìwọ mú wa wá sí inú àṣọ̀rọ̀gè; ìwọ gbé ìpalára sílẹ̀ lórí ìdí wa.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "Ìwọ mú wa wá"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "sí inú àṣọ̀rọ̀gè"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ìwọ gbé … sílẹ̀"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "ìpalára"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "lórí ìdí wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:19.783483493Z",
+  "model": "glm-5.3"
+}

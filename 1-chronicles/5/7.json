@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 5:7",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àwọn ará rẹ̀ sí, nípa ìdílé wọn, nígbà tí a ń kọ ìkọ ìran wọn sílẹ̀: Yeieli ni olórí, àti Zekaryahu.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "Àwọn ará rẹ̀ sí"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "nípa ìdílé wọn"
+    },
+    {
+      "surface": "בהתיחש",
+      "gloss": "nígbà tí a ń kọ ìkọ ìran sílẹ̀"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "ìran wọn"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Yeieli"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "àti Zekaryahu"
+    }
+  ],
+  "timestamp": "2026-08-23T05:10:12.432946934Z",
+  "model": "glm-5.3"
+}

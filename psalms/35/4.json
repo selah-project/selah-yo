@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Jẹ́ kí àwọn tí ń ṣe ìwádìí ẹ̀mí mi lọ̀ darí; jẹ́ kí wọn yẹ̀ sẹ́yìn, kí wọn sì tì ṣẹ̀ àwọn tí ń rò ìkọ̀ lórí mi.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "lọ̀ darí"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "kí wọn sì tì ṣẹ̀"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "àwọn tí ń ṣe ìwádìí"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "yẹ̀ sẹ́yìn"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "sẹ́yìn"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "kí wọn sì tì ṣẹ̀"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "àwọn tí ń rò"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ìkọ̀ lórí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:04.183567521Z",
+  "model": "glm-5.3"
+}

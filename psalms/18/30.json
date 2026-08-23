@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nítorí tí pẹ̀lú rẹ ni mo ń ṣáṣà kọjá ẹgbẹ́ ológun, àti pẹ̀lú Elohim mi ni mo ń fọ́wọ́ kan àtètè kọjá ogiri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pẹ̀lú rẹ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mo ń ṣáṣà"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ẹgbẹ́ ológun"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "àti pẹ̀lú Elohim mi"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "mo ń fọ́wọ́ kan àtètè kọjá"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ogiri"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:06.829392181Z",
+  "model": "glm-5.3"
+}

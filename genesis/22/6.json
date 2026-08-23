@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Avraham sì gba ⟨את⟩ àwọn igi fún òòré ìsọ́-sínú-iná, ó sì gbé lé Yitschak ọmọ rẹ̀ lórí; ó sì gba ⟨את⟩ iná náà ní ọwọ́ rẹ̀ àti ⟨את⟩ ọbọ̀ náà; àwọn mejì sì ń lọ pọ̀.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn igi fún òòré ìsọ́-sínú-iná"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "àwọn igi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "òòré ìsọ́-sínú-iná"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì gbé lé"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ní ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iná náà"
+    },
+    {
+      "surface": "האש",
+      "gloss": "iná náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọbọ̀ náà"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "ọbọ̀ náà"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "sì ń lọ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "àwọn mejì"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pọ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:00:55.263782038Z",
+  "model": "glm-5.3"
+}

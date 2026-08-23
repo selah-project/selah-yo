@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-samuel 17:52",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Àwọn ọkùnrin Yisrael àti Yehuda sì dìde, wọ́n sì kígbe, wọ́n sì lé ⟨את⟩ àwọn Filiṣítí, títí tí ó fi dé ìlà-odò, àti títí dé ìlú-ọnà Ekron; àwọn tí wọ́n ti pa nínú àwọn Filiṣítí sì ṣubú lọ́nà Shaarayim, títí dé Gat àti títí dé Ekron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "sì dìde"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Àwọn ọkùnrin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "àti Yehuda"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "wọ́n sì kígbe"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "wọ́n sì lé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Filiṣítí"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "àwọn Filiṣítí"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "tí ó fi dé"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ìlà-odò"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "àti títí dé"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ìlú-ọnà"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "sì ṣubú"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "àwọn tí wọ́n ti pa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "nínú àwọn Filiṣítí"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lọ́nà"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "Shaarayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "àti títí dé"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    }
+  ],
+  "timestamp": "2026-08-23T00:52:05.211324043Z",
+  "model": "glm-5.3"
+}

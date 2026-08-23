@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Naomi sì gba ⟨את⟩ omọ náà, ó sì sọ ọ́ sínú ìdìbàjẹ́ rẹ̀, ó sì di ómọ̀-ọ́lọ́gbọ́n rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omọ náà"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "omọ náà"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "ó sì sọ ọ́ sínú ìdìbàjẹ́ rẹ̀"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "sínú ìdìbàjẹ́ rẹ̀"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ó sì di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "ómọ̀-ọ́lọ́gbọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T04:34:44.462351170Z",
+  "model": "glm-5.3"
+}

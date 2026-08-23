@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 11:14",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ìwọ sì, má gbàdọ̀ fún ìjọ yìí, àti má gbé ìkígun àti ìgbàdọ̀ gbé fún wọn; nítorí èmi kò ní gbọ́ nígbà tí wọ́n bá pè ⟨sí⟩ èmi, nítorí ìrùburù wọn.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ìwọ sì"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "gbàdọ̀"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "fún"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti má"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "gbé gbé"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ìkígun"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "àti ìgbàdọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "èmi kò"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nígbà"
+    },
+    {
+      "surface": "קראם",
+      "gloss": "wọ́n bá pè"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ìrùburù wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:11:07.126804587Z",
+  "model": "glm-5.3"
+}

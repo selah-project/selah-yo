@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Gẹ́gẹ́ bí orúkọ Rẹ, Elohim, bẹ́ẹ̀ ni iyìn Rẹ dé ìgbà-òpin ayé; ọ̀títọ́ ti kún ọwọ́ ọ̀tún Rẹ.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "gẹ́gẹ́ bí orúkọ Rẹ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "iyìn Rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "dé"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "ìgbà-òpin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ọ̀títọ́"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ti kún"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ọwọ́ ọ̀tún Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:04.729293910Z",
+  "model": "glm-5.3"
+}

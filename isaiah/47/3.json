@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Èèwọ̀ rẹ yóò fi hàn, bẹ́ẹ̀ gẹ́gẹ́ ni àìníìtẹ́ rẹ yóò fi hàn; ègbèrú ni mo máa gbà, kì í ṣe bí ènìyàn ni mo bá ń pàdé.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "yóò fi hàn"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "èèwọ̀ rẹ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bẹ́ẹ̀ gẹ́gẹ́ ni"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "yóò fi hàn"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "àìníìtẹ́ rẹ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ègbèrú"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "mo máa gbà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "mo bá ń pàdé"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bí ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:59:08.743633212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 108,
+  "translation": "Gòkè, Elohim, lórí àwọn ọ̀run, àti ògo rẹ lórí gbogbo ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Gòkè"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ògo rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:18.196411411Z",
+  "model": "glm-5.3"
+}

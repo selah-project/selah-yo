@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Kí èmi sì sọ̀rọ̀ nípa àwọn ẹ̀rìí rẹ níwájú àwọn ọba, kí èmi sì má ṣe tìrí.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "Kí èmi sì sọ̀rọ̀"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "nípa àwọn ẹ̀rìí rẹ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí èmi sì má ṣe"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "tìrí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:20.282066866Z",
+  "model": "glm-5.3"
+}

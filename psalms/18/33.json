@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "El, tí ó ń mi mí mọ́ra ní ipá, ó sì ń ṣe pé ọ̀nà mi.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "tí ó ń mi mí mọ́ra"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ní ipá"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì ń fún"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ṣe pé"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ọ̀nà mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:49.373003682Z",
+  "model": "glm-5.3"
+}

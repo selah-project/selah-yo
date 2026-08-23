@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 96,
+  "translation": "Ẹ fúnni ní Yahweh ògo orúkọ rẹ̀; ẹ gbé ẹ̀bùn ìpèsè sókè, ẹ wọ inú ààfin rẹ̀.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ẹ fúnni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ní Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ògo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "ẹ gbé sókè"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ẹ̀bùn ìpèsè"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "àti ẹ wọ"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "inú ààfin rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:20.452407613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ó sì ka ⟨את⟩ àwọn ọmọdé tí ó jẹ́ ti àwọn olórí ìjọba ìbẹ̀rẹ̀ wọ́n sì jẹ́ ọgọ́rùn-ún méjì lé ogójì; lẹ́yìn wọn ó ka ⟨את⟩ gbogbo àwọn ènìyàn náà, gbogbo àwọn ọmọ Israẹli, ẹgbẹ̀rin méje.",
+  "tokens": [
+    {
+      "surface": "ותפקד",
+      "gloss": "Ó sì ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọdé"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "àwọn ọmọdé"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "tí ó jẹ́ ti àwọn olórí"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "ìjọba ìbẹ̀rẹ̀"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wọ́n sì jẹ́"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ọgọ́rùn-ún méjì"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "lé ogójì"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "lẹ́yìn wọn"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ó ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ènìyàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "méje"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ẹgbẹ̀rin"
+    }
+  ],
+  "timestamp": "2026-08-23T01:23:08.688968357Z",
+  "model": "glm-5.3"
+}

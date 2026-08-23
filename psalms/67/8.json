@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 67,
+  "translation": "Ki Elohim ṣe ìbùkún fún wa; ki gbogbo ìgbèbí ayé bẹ̀rù ⟨את⟩ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "ki Elohim ṣe ìbùkún fún wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ki wọ́n bẹ̀rù"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ìgbèbí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:07.718971434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Mú ⟨את⟩ àwọn ará yín, dìde, padà sí ọ̀dọ̀ ⟨the⟩ olùkúlùkù náà.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "àwọn ará yín",
+      "marks": "àwọn ará yín"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "mú"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "dìde"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "padà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "olùkúlùkù náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:12:14.131249462Z",
+  "model": "glm-5.3"
+}

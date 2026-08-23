@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Mo wí pé, El mi, má ṣe gbé mi lọ ní àárín ọjọ́ mi; nítorí odún rẹ kò ní ìpẹ́ ní àwọn ìrúndúnlọ́gbọ̀n ⟨the⟩ ìrúndúnlọ́gbọ̀n àwọn ọjọ́ orun.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Mo wí pé"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "gbé mi lọ"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ní àárín"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́ mi"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ní àwọn ìrúndúnlọ́gbọ̀n"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ìrúndúnlọ́gbọ̀n àwọn ọjọ́ orun"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "odún rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:48.665176493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ó sì mú kí árinàá Yahweh kà ⟨את⟩ ìlú náà kíkà ìgbà kan; wọ́n sì wá sí pápá-ogun náà, wọ́n sì sun lọ́nà ní pápá-ogun náà.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ó sì mú kí…kà"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "árinàá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìlú náà"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "kíkà"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "ìgbà"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wọ́n sì wá sí"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "pápá-ogun náà"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "wọ́n sì sun lọ́nà"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ní pápá-ogun náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:24:08.724880252Z",
+  "model": "glm-5.3"
+}

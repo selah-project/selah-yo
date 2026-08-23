@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 87,
+  "translation": "Àwọn olórin àti àwọn oníṣeré yóò sọ pé: gbogbo orísun omi mi wà lára rẹ.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "àwọn olórin"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "àti àwọn oníṣeré"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "orísun omi mi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wà lára rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:28.082952687Z",
+  "model": "glm-5.3"
+}

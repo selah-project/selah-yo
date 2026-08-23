@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 5:5",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ṣùgbọ́n ojú Elohim wọn wà lórí àwọn àgbà Yehuda, wọn kò sì lè dá wọn dúró títí tí ọ̀rọ̀ ìdájọ́ náà kò fi dé Daryavesh; lẹ́yìn náà ni wọ́n fi dáhùn padà nípa lẹ́tà nípa èyí.",
+  "tokens": [
+    {
+      "surface": "ועין",
+      "gloss": "ṣùgbọ́n ojú"
+    },
+    {
+      "surface": "אלההם",
+      "gloss": "Elohim wọn"
+    },
+    {
+      "surface": "הות",
+      "gloss": "wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "בטלו",
+      "gloss": "dá dúró"
+    },
+    {
+      "surface": "המו",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí tí"
+    },
+    {
+      "surface": "טעמא",
+      "gloss": "ọ̀rọ̀ ìdájọ́"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "sí Daryavesh"
+    },
+    {
+      "surface": "יהך",
+      "gloss": "dé"
+    },
+    {
+      "surface": "ואדין",
+      "gloss": "lẹ́yìn náà"
+    },
+    {
+      "surface": "יתיבון",
+      "gloss": "dáhùn padà"
+    },
+    {
+      "surface": "נשתונא",
+      "gloss": "lẹ́tà"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "èyí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:59:25.258256316Z",
+  "model": "glm-5.3"
+}

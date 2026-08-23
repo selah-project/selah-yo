@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Èmi ni Yahweh, Elohim rẹ, Ẹni tí ó mú ọ jáde kúrò ní ilẹ̀ Mitsrayim, kúrò ní ilé ẹrú.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ẹni tí"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "ó mú ọ jáde"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kúrò ní ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kúrò ní ilé"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ẹrú"
+    }
+  ],
+  "timestamp": "2026-08-23T00:08:03.007330715Z",
+  "model": "glm-5.3"
+}

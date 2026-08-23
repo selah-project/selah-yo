@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ègúèré ni ẹni tí ó ń fi afọ́jú ṣẹ̀ṣẹ̀ lọ́nà; àti gbogbo ènìyàn náà yóò wí, Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Ègúèré ni"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "ẹni tí ó ń fi ... ṣẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "עור",
+      "gloss": "afọ́jú"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lọ́nà"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "yóò sọ wí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-08-23T00:18:26.235301480Z",
+  "model": "glm-5.3"
+}

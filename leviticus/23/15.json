@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ẹ sì ka fún yín, láti ọ̀sán lẹ́yìn Shabbat, láti ọjọ́ tí ẹ mú ⟨את⟩ omer ìgúnlájọ wá: Shabbat méje tó pé níye ni yóò jẹ́.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "ẹ sì ka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "láti ọ̀sán (lẹ́yìn)"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "láti ọjọ́"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "tí ẹ mú wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer ìgúnlájọ"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "ìgúnlájọ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "méje"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "tó pé níye"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ni yóò jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:19.461714647Z",
+  "model": "glm-5.3"
+}

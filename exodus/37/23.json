@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ó sì ṣe ⟨את⟩ àwọn atupa rẹ̀, mẹ́je, àti àwọn ìjà́bọ̀ rẹ̀, àti àwọn àpamọ́ rẹ̀ — wúrà mímọ́.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn atupa rẹ̀"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "àwọn atupa rẹ̀"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "mẹ́je"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "àti àwọn ìjà́bọ̀ rẹ̀"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "àti àwọn àpamọ́ rẹ̀"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:45.682482098Z",
+  "model": "glm-5.3"
+}

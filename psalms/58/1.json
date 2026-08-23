@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 58,
+  "translation": "Fún olúṣàkóso; Má ṣe pa òrùṣọ́ náà run; Orin Dafidi; Miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olúṣàkóso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Má ṣe"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "pa òrùṣọ́ náà run"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dafidi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:28.327722182Z",
+  "model": "glm-5.3"
+}

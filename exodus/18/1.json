@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ìtirò Yitro, álùfáà ti Midiyan, ẹni-ìyàwó ti Moshe, gbọ́ ⟨את⟩ gbogbo ohun tí Elohim ṣe fún Moshe àti fún Yisrael, ènìyàn rẹ̀, nítorí pé Yahweh mú Yisrael jáde kúrò lọ́dọ̀ Mísírà.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "álùfáà"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyan"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ẹni-ìyàwó"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ohun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "fún Moshe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "àti fún Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ènìyàn rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "mú … jáde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kúrò lọ́dọ̀ Mísírà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:11.530028708Z",
+  "model": "glm-5.3"
+}

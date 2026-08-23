@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ṣùgbọ́n tí ó baá fi ⟨את⟩ pápá tí ó rà, tí kì í ṣe ti pápá di sánsán rẹ̀, fún Yahweh láàyè mímọ́,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ṣùgbọ́n tí ó baá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pápá"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pápá"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "tí ó rà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "ti pápá"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "di sánsán rẹ̀"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "fún Yahweh láàyè mímọ́"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:48:08.284673547Z",
+  "model": "glm-5.3"
+}

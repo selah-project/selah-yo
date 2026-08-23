@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ọmọ ènìyàn, ṣé ilé Yisrael, ilé ìgbọràn-áìgbọ́ràn, kò ṣe sọ fún ọ pé, Kí ni ìwọ ń ṣe?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ṣé…kò"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "wọn ṣe sọ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "ìgbọràn-áìgbọ́ràn"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kí ni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T02:36:49.787465285Z",
+  "model": "glm-5.3"
+}

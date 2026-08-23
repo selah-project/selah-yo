@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 149,
+  "translation": "Kí Yisrael ṣe ayò nínú Dáa-rẹ̀, kí àwọn ọmọ Tsiyyon yọ̀ sínu nínú ọba wọn.",
+  "tokens": [
+    {
+      "surface": "יִשְׂמַח",
+      "gloss": "kí … ṣe ayò"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בְּעֹשָׂיו",
+      "gloss": "nínú Dáa-rẹ̀"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "צִיּוֹן",
+      "gloss": "Tsiyyon"
+    },
+    {
+      "surface": "יָגִילוּ",
+      "gloss": "kí … yọ̀ sínu"
+    },
+    {
+      "surface": "בְמַלְכָּם",
+      "gloss": "nínú ọba wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:20.166022129Z",
+  "model": "glm-5.3"
+}

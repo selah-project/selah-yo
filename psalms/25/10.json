@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Gbogbo àwọn ọ̀nà Yahweh ni chesed àti òtítọ́, fún àwọn tí ó ń pa májẹ̀mú rẹ̀ mọ́ àti àwọn ẹ̀rì́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "àwọn ọ̀nà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "àti òtítọ́"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "fún àwọn tí ó ń pa mọ́"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "májẹ̀mú rẹ̀"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "àti àwọn ẹ̀rì́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:14.348020169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Yahweh, ní agbára rẹ ni ọba yọ̀; àti ní ìgbàlà rẹ, èègbọ̀n ni kí ó ṣe yọ̀!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ní agbára rẹ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "yọ̀"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "àti ní ìgbàlà rẹ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "èègbọ̀n ni"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "ó ṣe yọ̀"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:15.472934405Z",
+  "model": "glm-5.3"
+}

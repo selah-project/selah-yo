@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Nítorí tí mo ti wí pé, ìfẹ́ olóòtítọ́ (chesed) ni a máa kọ́ fún ayérayé; àwọn ọ̀run ni ìwọ máa fi ìgbẹ́kẹ̀lé rẹ̀ dúró ṣinṣin sí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mo ti wí pé"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fún ayérayé"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ìfẹ́ olóòtítọ́"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "a máa kọ́"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ìwọ máa fi dúró ṣinṣin"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ìgbẹ́kẹ̀lé rẹ̀"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:14.430546836Z",
+  "model": "glm-5.3"
+}

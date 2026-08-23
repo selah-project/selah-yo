@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nítorí ta ni Elohu yàtọ̀ sí Yahweh? Àti ta ni òkúta ìdásílẹ̀ yàtọ̀ sí Elohim wa?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohu"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "yàtọ̀ sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "àti ta ni"
+    },
+    {
+      "surface": "צור",
+      "gloss": "òkúta ìdásílẹ̀"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "yàtọ̀ sí"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:06.829748255Z",
+  "model": "glm-5.3"
+}

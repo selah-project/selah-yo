@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 29:3",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Òun, ní ọdún àkọ́kọ́ ìjọba rẹ̀, ní oṣù àkọ́kọ́, ṣí ilẹ̀kùn ⟨את⟩ yàrá Yahweh, ó sì fún wọn lágbára.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Òun"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ní ọdún"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "àkọ́kọ́"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "ìjọba rẹ̀"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ní oṣù"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "àkọ́kọ́"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ṣí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀kùn"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ilẹ̀kùn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yàrá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "ó sì fún wọn lágbára"
+    }
+  ],
+  "timestamp": "2026-08-23T05:33:56.775626844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Mágbọ́n mi wà lórí Elohim, olùgbàlà àwọn ẹni tó ń ní ọkàn tó tọ́.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "mágbọ́n mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "olùgbàlà"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "àwọn ẹni tó ń ní ọkàn tó tọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:03.185966708Z",
+  "model": "glm-5.3"
+}

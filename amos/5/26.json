@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ẹ̀yin sì gbé ⟨את⟩ Sikkut ọba yín àti ⟨את⟩ Kiyyun, àwọn àwòrán yín, ìràwọ̀ àwọn ẹlọ́run yín, èyí tí ẹ̀yin ṣe fún ara yín.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "ẹ̀yin sì gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkut ọba yín"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikkut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "ọba yín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kiyyun àwọn àwòrán yín"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiyyun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "àwọn àwòrán yín"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "ìràwọ̀"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "àwọn ẹlọ́run yín"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ẹ̀yin ṣe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún ara yín"
+    }
+  ],
+  "timestamp": "2026-08-23T03:07:12.304301921Z",
+  "model": "glm-5.3"
+}

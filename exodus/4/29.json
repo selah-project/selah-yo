@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Moshe àti Aharon sì lọ, wọ́n sì já ⟨את⟩ gbogbo àwọn àgbà ti àwọn ọmọ YisraEl kún jọ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "sì lọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "àti Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "wọ́n sì kún jọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn àgbà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "YisraEl"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:06.359372197Z",
+  "model": "glm-5.3"
+}

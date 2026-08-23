@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ṣé èmi óò gba ⟨את⟩ búrẹ́dí mi, àti ⟨את⟩ omi mi, àti ⟨את⟩ ẹran tí mo pa fún àwọn olúṣẹ́ mi fúnràmi, kí n sì fún àwọn okùnrin tí èmi kò mọ̀ ibi tí wọ́n ti wá ní?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "ṣé èmi óò gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "búrẹ́dí mi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "búrẹ́dí mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "omi mi"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "omi mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹran tí mo pa"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ẹran tí mo pa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "mo pa"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "fún àwọn olúṣẹ́ mi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kí n sì fún"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "àwọn okùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mo mọ̀"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "tí wọ́n ti wá"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T00:53:43.225310746Z",
+  "model": "glm-5.3"
+}

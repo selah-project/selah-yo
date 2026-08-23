@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ìwọ sì fún mi ní ààbò ìgbàlà Rẹ, ọwọ́ ọ̀tún Rẹ sì ń gbà mí lẹ́yìn, ìrọ̀rùn Rẹ sì mú mi gbilẹ̀.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Ìwọ sì fún"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ààbò"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ìgbàlà Rẹ"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "ọwọ́ ọ̀tún Rẹ"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "ń gbà mí lẹ́yìn"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "ìrọ̀rùn Rẹ"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "mú mi gbilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:49.373568733Z",
+  "model": "glm-5.3"
+}

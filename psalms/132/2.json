@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 132,
+  "translation": "Ẹni tí ó búra sí Yahweh, tí ó sì ṣe ìlérí sí Abírì Yaakov.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ẹni tí"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ó búra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ṣe ìlérí"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "sí Abírì"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:20.078496332Z",
+  "model": "glm-5.3"
+}

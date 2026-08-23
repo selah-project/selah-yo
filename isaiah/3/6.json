@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 3:6",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Nítorí ènìyàn yóò mú ará rẹ̀ níyà àti baba rẹ̀, wọ́n ní: Àṣọ lílẹ̀! Jẹ́ olórí fún wa, kí ìṣubú yìí wà lábẹ́ ọwọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יתפש",
+      "gloss": "yóò mú"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "ará rẹ̀"
+    },
+    {
+      "surface": "בית",
+      "gloss": "níyà"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "àti baba rẹ̀"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "àṣọ lílẹ̀"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "fún"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa"
+    },
+    {
+      "surface": "והמכשלה",
+      "gloss": "àti ìṣubú yìí"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wà"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:48.033015354Z",
+  "model": "glm-5.3"
+}

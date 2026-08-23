@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Lọ́dọ̀ Rẹ wọ́n kígbé, wọ́n sì là; nínú Rẹ wọ́n gbẹ́kẹ̀ lé, wọ́n kò sì ṣèrí.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Lọ́dọ̀ Rẹ"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "wọ́n kígbé"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "wọ́n sì là"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nínú Rẹ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "wọ́n gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wọ́n kò sì"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "ṣèrí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:21.449399376Z",
+  "model": "glm-5.3"
+}

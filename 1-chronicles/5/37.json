@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Azarjah sì bí ⟨את⟩ Amarjah, Amarjah sì bí ⟨את⟩ Achitub.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "sì bí"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "Amarjah sì"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achitub"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitub"
+    }
+  ],
+  "timestamp": "2026-08-23T05:09:32.302898313Z",
+  "model": "glm-5.3"
+}

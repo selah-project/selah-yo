@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì di ìrọ̀lẹ́, ó sì di àárọ̀; ọjọ́ kẹta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì di"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ìrọ̀lẹ́"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì di"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "àárọ̀"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "kẹta"
+    }
+  ],
+  "timestamp": "2026-08-23T05:38:54.806368566Z",
+  "model": "glm-5.3"
+}

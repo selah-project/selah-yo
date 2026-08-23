@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Elohim ń mú àwọn olùkọ̀ọ̀kan gbé nílé, ó ń gbé àwọn ẹrú ìdíde jáde sí nnkan rere; ṣùgbọ́n àwọn àìgbọràn gbé inú ilẹ̀ gbígbẹ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "ń mú ... gbé nílé"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "àwọn olùkọ̀ọ̀kan"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nílé"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "ń gbé ... jáde"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "àwọn ẹrú ìdíde"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "sí nnkan rere"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "àwọn àìgbọràn"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "inú ilẹ̀ gbígbẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:03.679210674Z",
+  "model": "glm-5.3"
+}

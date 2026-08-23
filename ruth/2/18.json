@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì gbé e, ó sì wá sínú ìlú, ìyá-ọkọ rẹ̀ sì rí ⟨את⟩ èyí tí ó ti kò; ó sì jáde wá, ó sì fún un ní ⟨את⟩ èyí tí ó kù lẹ́yìn tí ó ti inún jẹ́.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "ó sì gbé e"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ó sì wá sínú"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ó sì rí"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "ìyá-ọkọ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èyí tí ó ti kò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "ó ti kò"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "ó sì jáde wá"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "ó sì fún un ní"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èyí tí ó kù"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "ó kù"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "lẹ́yìn tí ó ti inún jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:35:55.406199119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Yehoachaz sì bẹ́ Yahweh lójú, Yahweh sì gbọ́ ti rẹ̀, nítorí tí ó rí ⟨את⟩ ìpọnjú Yisrael, nítorí tí ọba Aram ti pọ́n ⟨אתם⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ó sì bẹ́… lójú"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lójú Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lójú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ó sì gbọ́"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ti rẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ó rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìpọnjú Yisrael"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ìpọnjú"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ti pọ́n"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-23T01:33:15.816731655Z",
+  "model": "glm-5.3"
+}

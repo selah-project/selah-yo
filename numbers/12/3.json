@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ọkùnrin Moshe sì jẹ́ olórẹ̀ẹ gan-an, ju gbogbo ènìyàn lọ tí ó wà lórí ojú ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "ọkùnrin náà sì"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ólólọ́rẹ̀ẹ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gan-an"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ju gbogbo lọ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:55:22.137077805Z",
+  "model": "glm-5.3"
+}

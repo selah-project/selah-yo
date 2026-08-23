@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 90,
+  "translation": "Nítorí àwa parun nínú ìbínú rẹ, àti nínú ìjínú rẹ ni a ti sọ́ru búburú.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "àwa parun"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "nínú ìbínú rẹ"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "àti nínú ìjínú rẹ"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "a ti sọ́ru búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:41.335650022Z",
+  "model": "glm-5.3"
+}

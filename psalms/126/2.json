@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 126:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 126,
+  "translation": "Nígbà náà ni ẹnu wa kún fún ìrírín-ẹrí, èdè wa sì kún fún orin ayọ̀; nígbà náà ni wọ́n sọ nínú àwọn orílẹ̀-èdè pé, Yahweh ti ṣe nǹlá pẹ̀lú àwọn wọnyí.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "nígbà náà ni"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "kún fún"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "ìrírín-ẹrí"
+    },
+    {
+      "surface": "פינו",
+      "gloss": "ẹnu wa"
+    },
+    {
+      "surface": "ולשוננו",
+      "gloss": "èdè wa sì"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "orin ayọ̀"
+    },
+    {
+      "surface": "אז",
+      "gloss": "nígbà náà ni"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wọ́n sọ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nínú àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "ti ṣe nǹlá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ti ṣe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọnyí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:52.995559877Z",
+  "model": "glm-5.3"
+}

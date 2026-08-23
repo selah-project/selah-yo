@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Dafidi sì fi àwọn aṣá-ríràn rántí ránṣẹ́, ó sì mọ̀ dáadáa pé Shaul ti dé ní ìṣotitọ́.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì ránṣẹ́"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "àwọn aṣá-ríràn rántí"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ó sì mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ti dé"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ní"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ìṣotitọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:49:38.267560858Z",
+  "model": "glm-5.3"
+}

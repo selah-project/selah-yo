@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Yahweh sì fi sùúlù àti iná rọ̀ lórí Sedomu àti lórí Amora, láti ọ̀dọ̀ ⟨את⟩ Yahweh, láti inú ọ̀run.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh sì"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "fi... rọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "sùúlù"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "àti iná"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti ọ̀dọ̀"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "inú ọ̀run"
+    }
+  ],
+  "timestamp": "2026-08-22T23:00:04.965115912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "David sì wà nígbà náà nínú àgbàlá-ìmọ̀lẹ̀; ìkọ̀-ààbọ̀ àwọn Filisiti sì wà nígbà náà ní Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "David sì"
+    },
+    {
+      "surface": "אז",
+      "gloss": "nígbà náà"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "nínú àgbàlá-ìmọ̀lẹ̀"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "ìkọ̀-ààbọ̀"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Filisiti"
+    },
+    {
+      "surface": "אז",
+      "gloss": "nígbà náà"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ní Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-23T06:13:58.074358411Z",
+  "model": "glm-5.3"
+}

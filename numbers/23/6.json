@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 23:6",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ó sì padà sí ọ̀dọ̀ rẹ̀, kí ó tó wò, ⟨òun⟩ dúró lórí ẹbúnyà rẹ̀, òun pẹ̀lú gbogbo àwọn íjòyè Moav.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "padà sí"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kí ó tó wò"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ẹbúnyà rẹ̀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨òun⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "àwọn íjòyè"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:06.504202809Z",
+  "model": "glm-5.3"
+}

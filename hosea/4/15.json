@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 4:15",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìwọ Yisrael, bí o ti jẹ́ pé ìwọ ń ṣe àgbèrè, má jẹ́ kí Yehuda ṣe ẹ̀ṣẹ̀; ẹ má ṣe wá sí Gilgali, ẹ má sì gbé e sókè sí Beti-Aveni, ẹ má sì búra pé 'Yahweh ṣe àyàyà.'",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "bí o ti jẹ́ pé"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "ń ṣe àgbèrè"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "ṣe ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ẹ má sì"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "wá"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgali"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ẹ má sì"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "gbé e sókè"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aveni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ẹ má sì"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "búra"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ṣe àyàyà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:01:37.034646262Z",
+  "model": "glm-5.3"
+}

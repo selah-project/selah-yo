@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "àti ⟨את⟩ Arvadi, àti ⟨את⟩ Zemari, àti ⟨את⟩ Hamati; lẹ́yìn ìgbà náà ni àwọn ẹbí Kenaani tàn káàkiri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Arvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Zemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Zemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Hamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "lẹ́yìn ìgbà náà"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "tàn káàkiri"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "àwọn ẹbí"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:14.308015320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ṣé ewé tí ó sọ̀ rù ni ìwọ ń pa ìrù́ lẹ́nu? Àti ⟨את⟩ ẹ̀gbí tí ó gbẹ̀, ìwọ ń lé?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "ewé"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "tí ó sọ̀ rù"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "ìwọ ń pa ìrù́ lẹ́nu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀gbí tí ó gbẹ̀"
+    },
+    {
+      "surface": "קש",
+      "gloss": "ẹ̀gbí"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "tí ó gbẹ̀"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ìwọ ń lé"
+    }
+  ],
+  "timestamp": "2026-08-23T04:20:00.558631918Z",
+  "model": "glm-5.3"
+}

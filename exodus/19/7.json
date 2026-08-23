@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Moshe sì wá, ó pé àwọn àgbà ti ⟨את⟩ ìjọ náà, ó sì fi gbogbo àwọn ọ̀rọ̀ wọnyí tí Yahweh ti pàṣẹ fún un sọ́nù wọn.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì wá"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ó pé"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "àwọn àgbà ti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sọ́nù wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ọ̀rọ̀ wọnyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ti pàṣẹ fún un"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:28.024858744Z",
+  "model": "glm-5.3"
+}

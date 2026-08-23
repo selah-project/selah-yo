@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 141,
+  "translation": "Nítorí náà, ojú mi wà sí ọ́, Yahweh Adonai; lọ́dọ̀ rẹ ni mo gbẹ́mí lé; má ṣe fi nefesh mi sílẹ̀ aláìní ohun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mo gbẹ́mí lé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תער",
+      "gloss": "fi… sílẹ̀ aláìní ohun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:20.793878735Z",
+  "model": "glm-5.3"
+}

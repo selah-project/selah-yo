@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 58,
+  "translation": "Àwọn ènìyàn búburú ti yà kúrò láti inú ikúnra; wọ́n ti ṣì láti ìbímọ, wọ́n ń sọ irọ́.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "ti yà kúrò"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Àwọn ènìyàn búburú"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "láti inú ikúnra"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ti ṣì"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "láti ìbímọ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ń sọ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "irọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:28.328243140Z",
+  "model": "glm-5.3"
+}

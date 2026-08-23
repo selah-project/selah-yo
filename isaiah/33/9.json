@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ilẹ̀ ṣọ̀fọ́, ó gbẹ̀; Lebanoni ti tìjí, ó gbẹ̀ kú; Sharoni di bíi ijù; Bashani àti Karmeli sì ń yọ eso wọn ṣúté.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "ṣọ̀fọ́"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ó gbẹ̀"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "ti tìjí"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanoni"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "ó gbẹ̀ kú"
+    },
+    {
+      "surface": "היה",
+      "gloss": "di"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Sharoni"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "bíi ijù"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ń yọ eso ṣúté"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashani"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "àti Karmeli"
+    }
+  ],
+  "timestamp": "2026-08-23T01:50:01.353836595Z",
+  "model": "glm-5.3"
+}

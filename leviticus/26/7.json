@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ẹ yóò lé ⟨את⟩ ọ̀tá yín lẹ́yìn, wọn yóò sì ṣubú níwájú yín sí idà.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "Ẹ yóò sì lé lẹ́yìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀tá yín"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ọ̀tá yín"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "wọn yóò sì ṣubú"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "níwájú yín"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sí idà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:32.806471014Z",
+  "model": "glm-5.3"
+}

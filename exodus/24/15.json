@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Moshe sì gun sí ⟨òkè⟩ náà; àwọ̀sánmá sì bo ⟨את⟩ òkè náà.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "sì gun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "òkè náà"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "sì bo"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "àwọ̀sánmá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òkè náà"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "òkè náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:31.164949788Z",
+  "model": "glm-5.3"
+}

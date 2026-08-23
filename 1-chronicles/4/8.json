@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Koṣ bí ⟨את⟩ Anub àti ⟨את⟩ HaTsovhevah, àti àwọn ẹbí Acharachel, ọmọ Harum.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Koṣ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "HaTsovhevah"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "HaTsovhevah"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "àti àwọn ẹbí"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Acharachel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harum"
+    }
+  ],
+  "timestamp": "2026-08-23T05:09:39.741915508Z",
+  "model": "glm-5.3"
+}

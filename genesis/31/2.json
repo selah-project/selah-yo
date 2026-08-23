@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Yaakov sì rí ⟨את⟩ ojú Laban, kíyèsi, kò bá a mu mọ́ bí ó ti wà ní àná àti ẹ̀talọ́jọ́.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rí"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kíyèsi"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "kò bá a mu mọ́"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "bí àná"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ẹ̀talọ́jọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:06:01.563993372Z",
+  "model": "glm-5.3"
+}

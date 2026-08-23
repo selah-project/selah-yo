@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Chazaeli, ọba Aramu, sì kú; Ben-Hadadi, ọmọ rẹ̀, sì jọba ní ipò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "sì kú"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "sì jọba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ní ipò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:31:51.717922452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "àti ⟨את⟩ aṣọ iṣẹ́-ìjọ, àti ⟨את⟩ aṣọ́ ìmímọ́ fún Aharon adóhùn, àti ⟨את⟩ aṣọ àwọn ọmọ rẹ̀, láti dóhùn —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "aṣọ iṣẹ́-ìjọ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aṣọ"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "iṣẹ́-ìjọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "aṣọ́ ìmímọ́"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aṣọ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ìmímọ́"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "fún Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adóhùn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "aṣọ àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aṣọ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "láti dóhùn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:01.214044199Z",
+  "model": "glm-5.3"
+}

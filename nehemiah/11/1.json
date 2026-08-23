@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 11:1",
+  "book": "nehemiah",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Àwọn olórí àwọn ènìyàn sì gbé ní Yerushalayim; ìdíwọ̀n (ìpín) sì ni àwọn ènìyàn yòókù subẹ́, láti mú ọ̀kan nínú ẹ̀wá wá láti gbé ní Yerushalayim, ìlú mímọ́ náà, nígbà tí ẹ̀sán ìdíwọ̀n (ìpín) gbé ní àwọn ìlú yòókù.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "sì gbé"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "ìdíwọ̀n (ìpín) sì ni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn yòókù"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "subẹ́"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "ìdíwọ̀n (ìpín)"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "láti mú wá"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nínú"
+    },
+    {
+      "surface": "העשרה",
+      "gloss": "ẹ̀wá"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "láti gbé"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "mímọ́ náà"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "nígbà tí ẹ̀sán"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "ìdíwọ̀n (ìpín)"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "ní àwọn ìlú yòókù"
+    }
+  ],
+  "timestamp": "2026-08-23T06:12:10.203390673Z",
+  "model": "glm-5.3"
+}

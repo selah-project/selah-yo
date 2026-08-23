@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 110,
+  "translation": "Yahweh yió rán ọ̀pá agbára rẹ̀ láti Tsion: “Ṣe ìjọba lọ́wọ́ láàárín àwọn ọ̀tá rẹ.”",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "ọ̀pá"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "agbára rẹ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "Yahweh yió rán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "láti Tsion"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "ṣe ìjọba lọ́wọ́"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "àwọn ọ̀tá rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:42.709303232Z",
+  "model": "glm-5.3"
+}

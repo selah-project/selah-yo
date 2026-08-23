@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Ki ojú wọn dì kúrò láti ríran, kí ìpákò wọn sì máa rùn àìróra nígbà gbogbo.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "Ki ... dì kúrò"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ojú wọn"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "láti ríran"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "àti ìpákò wọn"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "máa rùn àìróra"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:33.965642187Z",
+  "model": "glm-5.3"
+}

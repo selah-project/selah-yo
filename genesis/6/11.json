@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ayé sì bàjẹ́ níwájú Elohim, ayé sì kún fún ìkọlù.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "sì bàjẹ́"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "sì kún fún"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìkọlù"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:48.691877527Z",
+  "model": "glm-5.3"
+}

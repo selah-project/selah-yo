@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Dídé, Yahweh! El, gbé ọwọ́ rẹ̀ sókè; má ṣe gbàgbé àwọn aláìnígba.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Dídé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "gbé … sókè"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "gbàgbé"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "àwọn aláìnígba"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:46.139292883Z",
+  "model": "glm-5.3"
+}

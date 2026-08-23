@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ọkùnrin kọ̀ọ̀kan, sí gbogbo ẹ̀jìní ara rẹ̀, ẹ kò gbọdọ́ sún mọ́ kí ẹ lè fi ìṣírí hàn; èmi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kọ̀ọ̀kan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ẹ̀jìní"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ara rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò gbọdọ́"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "ẹ sún mọ́"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "kí ẹ lè fi ... hàn"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "ìṣírí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:28.035254749Z",
+  "model": "glm-5.3"
+}

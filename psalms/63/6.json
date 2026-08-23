@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 63,
+  "translation": "Bíi ọra àti ẹ̀wẹ̀ oró ni nefesh mi ti máa kún fún; ẹnu mi sì ti máa yìn fún ọ̀gọ̀rọ̀ àwọn orin ayọ̀ lórí èté mi.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "bíi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ọra"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "àti ẹ̀wẹ̀ oró"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ti máa kún fún"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh mi"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "àti èté mi"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "ọ̀gọ̀rọ̀ orin ayọ̀"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "ti máa yìn"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:19.081721877Z",
+  "model": "glm-5.3"
+}

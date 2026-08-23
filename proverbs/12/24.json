@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ọwọ́ àwọn tí ó ń ṣiṣẹ́ takuntakun ni yóò jọba lórí; ṣùgbọ́n ẹni tí kò ní ṣiṣẹ́ ni yóò wà lábẹ́ ìjọba ẹrú.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "àwọn tí ó ń ṣiṣẹ́ takuntakun"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "yóò jọba lórí"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "ṣùgbọ́n ìṣẹ́ tí kò pẹ́ (ìkọ̀-ṣiṣẹ́)"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "למס",
+      "gloss": "ní ìjọba ẹrú (fún ìsanwó)"
+    }
+  ],
+  "timestamp": "2026-08-23T04:06:15.596362916Z",
+  "model": "glm-5.3"
+}

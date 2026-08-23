@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Ẹran ara mi ti parun, ọkàn mi gbàgbé; ṣùgbọ́n òmíràn ti ọkàn mi ni Elohim, èrẹ́ mi, títí láéláé.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "ti parun"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "ẹran ara mi"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "òmíràn ti"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "èrẹ́ mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:35.539756771Z",
+  "model": "glm-5.3"
+}

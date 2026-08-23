@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Yahweh sì wí fún Yehoshua wí pé, wo, èmi ti fi ⟨את⟩ Yericho àti ⟨את⟩ ọba rẹ̀ sílẹ̀ ní ọwọ́ rẹ — àwọn jagunjagun alágbára.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "èmi ti fi sílẹ̀"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ní ọwọ́ rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yericho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọba rẹ"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ọba rẹ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "àwọn jagunjagun"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "alágbára"
+    }
+  ],
+  "timestamp": "2026-08-23T00:24:32.932675631Z",
+  "model": "glm-5.3"
+}

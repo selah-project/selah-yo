@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Sátáan sì dáhùn ⟨את⟩ Yahweh, ó sì wí pé: Ṣé lásán ni Iyobu ń bẹ̀rù Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "sì dáhùn"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Sátáan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "lásán"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ń bẹ̀rù"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T04:16:02.430595874Z",
+  "model": "glm-5.3"
+}

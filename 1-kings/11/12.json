@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ṣùgbọ́n ní ọjọ́ rẹ èmi kì í ṣe é ṣe, nítorí Dawidi baba rẹ; láti ọwọ́ ọmọ rẹ ni èmi yóò ya-án.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "ní ọjọ́ rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "èmi ó ṣe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba rẹ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "láti ọwọ́"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ọmọ rẹ"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "èmi yóò ya-án"
+    }
+  ],
+  "timestamp": "2026-08-23T05:52:42.145382902Z",
+  "model": "glm-5.3"
+}

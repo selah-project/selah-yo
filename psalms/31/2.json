@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Nínú rẹ, Yahweh, ni mo ti sá lábẹ́ ìdàbọbọ; má ṣe jẹ́ kí nípa tíra pàdánù rírì àìbalòrìyè láéláé; nínú ìdájọ́ rẹ, gbà mí lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Nínú rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mo ti sá lábẹ́ ìdàbọbọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "jẹ́ kí nípa tíra pàdánù rírì àìbalòrìyè"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "láéláé"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nínú ìdájọ́ rẹ"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "gbà mí lọ́wọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:09.575071819Z",
+  "model": "glm-5.3"
+}

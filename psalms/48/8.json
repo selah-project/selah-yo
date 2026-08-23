@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Pẹ̀lú afẹ́fẹ̀ ìlà-oòrùn, Iwọ ń fọ àwọn ọkọ̀ ojú-omi Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "pẹ̀lú afẹ́fẹ̀"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ìlà-oòrùn"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "Iwọ ń fọ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "àwọn ọkọ̀ ojú-omi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:17.011162349Z",
+  "model": "glm-5.3"
+}

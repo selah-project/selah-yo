@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 112,
+  "translation": "Igé búburú kì yóò bẹ̀rù; ọkàn rẹ̀ dúróṣinṣin, ó gbẹ́yìn lé Yahweh.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "igé"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í — kò"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "bẹ̀rù"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "dúróṣinṣin"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ó gbẹ́yìn lé"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:55.031932235Z",
+  "model": "glm-5.3"
+}

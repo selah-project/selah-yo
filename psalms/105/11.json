@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ó wí pé, 'Íwọ ni èmi yóò fún ní ⟨את⟩ ilẹ̀ Kenaan, gẹ́gẹ́ bí ipín ìdílé yín.'",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Ó wí pé"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Íwọ ni"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "èmi yóò fún ní"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "gẹ́gẹ́ bí ipín"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ìdílé yín"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:43.886082700Z",
+  "model": "glm-5.3"
+}

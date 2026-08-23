@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ra ọgbọ́n, ra ìyèlá; má ṣe gbàgbé, kí o sì má ṣe yẹ kúrò nínú àwọn ọ̀rọ̀ ẹnu Mi.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Ra"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ọgbọ́n"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ra"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ìyèlá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "gbàgbé"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí o sì má ṣe"
+    },
+    {
+      "surface": "תט",
+      "gloss": "yẹ kúrò"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "nínú àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu Mi"
+    }
+  ],
+  "timestamp": "2026-08-23T06:08:00.357059614Z",
+  "model": "glm-5.3"
+}

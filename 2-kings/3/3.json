@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ṣùgbọ́n ó gbé lẹ́yìn ẹ̀ṣẹ̀ Yarov'am, ọmọ Nevat, tí ó ṣe jẹ́ kí Yisra'el ṣẹ̀ ṣí; kì í yọ kúrò nínú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ó ṣe jẹ́ kí ó ṣẹ̀ ṣí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "ó gbé lẹ́yìn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "סר",
+      "gloss": "yọ kúrò"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "nínú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:26:41.259603551Z",
+  "model": "glm-5.3"
+}

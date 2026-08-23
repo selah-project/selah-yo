@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Kí ahọ́n mi ó dúró gẹ́gẹ́ bí ohun-orin nípa ọ̀rọ̀ rẹ, nítorí gbogbo àwọn àṣẹ rẹ jẹ́ òdodo.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "kí ó dúró gẹ́gẹ́ bí ohun-orin (dáhùn)"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ahọ́n mi"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ọ̀rọ̀ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "àwọn àṣẹ rẹ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jẹ́ òdodo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:03.543967783Z",
+  "model": "glm-5.3"
+}

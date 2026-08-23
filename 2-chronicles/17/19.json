@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 17:19",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Àwọn wọ̀nyí ni àwọn olùṣẹ́ tí ó ń sin ⟨את⟩ ọba, àfi àwọn tí ọba fi sílẹ̀ nínú àwọn ìlú ọ̀nà ìdènà nípa Yehuda gbogbo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọ̀nyí"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "àwọn olùṣẹ́ tí ó ń sin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "àfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "fi sílẹ̀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "nínú àwọn ìlú"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "ọ̀nà ìdènà"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nípa gbogbo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-23T05:27:45.669699498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 2:4",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ẹ ba ìyá yín jà, ẹ ba a jà, nítorí tí ì kì í ṣe aya mi, èmi kì í ṣe ọkọ rẹ̀; kí ó sì yọ ìwà àgbèrè rẹ̀ kúrò lójú rẹ̀, àti ìwà aláṣẹ́kúta rẹ̀ kúrò láàárín ìbọn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ריבו",
+      "gloss": "ẹ ba ... jà"
+    },
+    {
+      "surface": "באמכם",
+      "gloss": "pẹ̀lú ìyá yín"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "ẹ ba a jà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "aya mi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ọkọ rẹ̀"
+    },
+    {
+      "surface": "ותסר",
+      "gloss": "kí ó sì yọ ... kúrò"
+    },
+    {
+      "surface": "זנוניה",
+      "gloss": "ìwà àgbèrè rẹ̀"
+    },
+    {
+      "surface": "מפניה",
+      "gloss": "lójú rẹ̀"
+    },
+    {
+      "surface": "ונאפופיה",
+      "gloss": "àti ìwà aláṣẹ́kúta rẹ̀"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "kúrò láàárín"
+    },
+    {
+      "surface": "שדיה",
+      "gloss": "ìbọn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:01:23.953282818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Ṣe ìwádìí mi, El, ki o sì mọ́ ọkàn mi; dán mi wò, ki o sì mọ́ ìrònu mi.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "ṣe ìwádìí mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ki o sì mọ́"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "dán mi wò"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ki o sì mọ́"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "ìrònu mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:35.163668594Z",
+  "model": "glm-5.3"
+}

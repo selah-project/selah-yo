@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Àwọn márùn-ún lára yín yóò lé àwọn ọgọ́rùn-ún lẹ́yìn, àwọn ọgọ́rùn-ún lára yín yóò sì lé àwọn ẹ̀édẹ́gbàjì lẹ́yìn; ọ̀tá yín yóò sì ṣubú níwájú yín sí idà.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "yóò sì lé lẹ́yìn"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "lára yín"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "àwọn márùn-ún"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "àwọn ọgọ́rùn-ún"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "àwọn ọgọ́rùn-ún sì"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "lára yín"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "àwọn ẹ̀édẹ́gbàjì"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "yóò lé lẹ́yìn"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "yóò sì ṣubú"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ọ̀tá yín"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "níwájú yín"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sí idà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:32.806647228Z",
+  "model": "glm-5.3"
+}

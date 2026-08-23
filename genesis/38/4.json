@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Ó sì ṣe àjàbọ̀ lẹ́ẹ̀kansí, ó sì bí ọmọkùnrin kan; ó sì pè ⟨את⟩ orúkọ rẹ̀ Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ó sì ṣe àjàbọ̀"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lẹ́ẹ̀kansí"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọkùnrin kan"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ó sì pè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-22T23:09:00.776699055Z",
+  "model": "glm-5.3"
+}

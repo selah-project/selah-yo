@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Àwọn olóṣẹ́-ẹja yóò ṣọ̀fọ̀, gbogbo àwọn tí ń fi ọ́kọ̀ sọ́nù sínú odò yóò bánù-jẹ́, àwọn tí ń tẹ àwọn-nà sí ojú òmi yóò súnú mọ́.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "yóò ṣọ̀fọ̀"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "àwọn olóṣẹ́-ẹja"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "yóò bánù-jẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "àwọn tí ń fi … sọ́nù"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "sínú odò"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "ọ́kọ̀"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "àwọn tí ń tẹ"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "àwọn-nà"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí ojú"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "מים",
+      "gloss": "òmi"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "yóò súnú mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:45:54.632856821Z",
+  "model": "glm-5.3"
+}

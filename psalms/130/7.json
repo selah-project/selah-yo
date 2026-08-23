@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 130,
+  "translation": "Kí Yisrael retí Yahweh; nítorí pẹ̀lú Yahweh ni chesed, àti pẹ̀lú Òun ni ìràpadà púpọ̀.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Kí ... retí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "àti púpọ̀"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú Òun"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "ìràpadà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:29.720410786Z",
+  "model": "glm-5.3"
+}

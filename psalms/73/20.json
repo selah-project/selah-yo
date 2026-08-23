@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Gẹ́gẹ́ bí ala tí ọ̀kan sọ́dọ̀ ìjísílẹ̀, Adonai, ní ìgbà tí O jí, Ìwọ máa kẹ́dù ìrísí wọn.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Gẹ́gẹ́ bí ala"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "tí ọ̀kan sọ́dọ̀ ìjísílẹ̀"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ní ìgbà tí O jí"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "ìrísí wọn"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "Ìwọ máa kẹ́dù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:51.220287923Z",
+  "model": "glm-5.3"
+}

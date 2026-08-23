@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Nítorí Yahweh ni ẹni ọ̀títọ́, ó fẹ́ ìdájọ́ ọ̀títọ́; àwọn tí wọ́n dí déédé ṣe yóò gbọ́dán ojú Rẹ̀ wò.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ẹni ọ̀títọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ìdájọ́ ọ̀títọ́"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ó fẹ́"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "àwọn tí wọ́n dí déédé ṣe"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "yóò gbọ́dán wò"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "ojú Rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:09.100392518Z",
+  "model": "glm-5.3"
+}

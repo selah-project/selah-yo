@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Wọn ṣe àìṣòtítọ́ sí Yahweh, nítorí wọn bí àwọn ọmọ àjèjì; nísinsin yìí osù yóò jẹ wọn pẹ̀lú ⟨את⟩ ipin wọn dúró.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "wọn ṣe àìṣòtítọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "àjèjì"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "wọn bí"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nísinsin yìí"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "yóò jẹ wọn"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "osù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipin wọn"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "ipin wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:00:49.473560655Z",
+  "model": "glm-5.3"
+}

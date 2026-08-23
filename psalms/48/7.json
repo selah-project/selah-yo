@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Ìṣẹ̀lẹ̀ gbá wọn mú níbẹ̀, ìrora bíi ti obìnrin tí ó ń bí.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "ìṣẹ̀lẹ̀"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "gbá wọn mú"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ìrora"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "bíi ti obìnrin tí ó ń bí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:17.011005323Z",
+  "model": "glm-5.3"
+}

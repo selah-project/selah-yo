@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ẹni tí ó ní ọkàn ẹlẹ́gàn kò ní rìí rere; ẹni tí ó yí padà ní èède rẹ̀ yóò ṣubú nínú búburú.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "ẹlẹ́gàn"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ní rìí"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "tí ó yí padà"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "ní èède rẹ̀"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "yóò ṣubú"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nínú búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:08:45.720698486Z",
+  "model": "glm-5.3"
+}

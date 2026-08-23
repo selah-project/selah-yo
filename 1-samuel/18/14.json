@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "David sì ń ṣe gbogbo ọ̀nà rẹ̀ pẹ̀lú Ọgbọ́n; Yahweh sì wà pẹ̀lú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wà"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pẹ̀lú Ọgbọ́n"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:50:35.702106617Z",
+  "model": "glm-5.3"
+}

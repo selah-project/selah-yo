@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 34:11",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ní gbogbo àwọn àmì àti ìwọ̀ ìyanu tí Yahweh rán án láti ṣe ní ilẹ̀ Mitzrayim, sí Paro, àti sí gbogbo ìránṣẹ́ rẹ̀, àti sí gbogbo ilẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "àwọn àmì"
+    },
+    {
+      "surface": "והמופתים",
+      "gloss": "àti ìwọ̀ ìyanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "rán án"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "sí Paro"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "àti sí gbogbo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "àti sí gbogbo"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ilẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:22:41.373119083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ó sì wáyé ní àárò alẹ́, awọn ẹyẹ selu sì gòórì, wọ́n sì bo ⟨את⟩ ìpàdé-ogun; ní òwúrọ̀ sí, ìdòwọ́ omi-tùtù tí ó rọ̀ sì wà láàárín ìpàdé-ogun.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wáyé"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ní àárò alẹ́"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ó sì gòórì"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "awọn ẹyẹ selu"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ó sì bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìpàdé-ogun"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ìpàdé-ogun"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ní òwúrọ̀ sí"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "sì wà"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ìdòwọ́ tí ó rọ̀"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "omi-tùtù"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ìpàdé-ogun"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:32.864734213Z",
+  "model": "glm-5.3"
+}

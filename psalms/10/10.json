@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó nẹ, ó forí jinlẹ̀, láti jẹ́ kí àwọn aláìsègùn ṣubú lábẹ́ agbára rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ó nẹ"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "ó forí jinlẹ̀"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "láti jẹ́ kí … ṣubú"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "lábẹ́ agbára rẹ̀"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "àwọn aláìsègùn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:46.139058547Z",
+  "model": "glm-5.3"
+}

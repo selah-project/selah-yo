@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 130,
+  "translation": "Orin ìgìlẹ̀. Láti inú ijù kúkú ní mo pè ọ́, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ìgìlẹ̀"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Láti inú ijù"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mo pè ọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:05.881789546Z",
+  "model": "glm-5.3"
+}

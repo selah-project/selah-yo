@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àti pé aláṣẹ tí ó bá mú ⟨את⟩ ẹbùn-ìsọ́ ti ẹni tí ó kúnra; awọ ẹbùn-ìsọ́ tí ó mu wá fún aláṣẹ náà, ti òun ni ó jẹ́.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Àti pé aláṣẹ"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "tí ó bá mú wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹbùn-ìsọ́ ti ẹni tí ó kúnra"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ẹbùn-ìsọ́ (ìrúbọ́ ẹ̀gbé-mí-mọ́lé)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni tí ó kúnra"
+    },
+    {
+      "surface": "עור",
+      "gloss": "awọ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbùn-ìsọ́ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ó mu wá"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "fún aláṣẹ náà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ti òun"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ni ó jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:48.862879425Z",
+  "model": "glm-5.3"
+}

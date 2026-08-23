@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "⟨את⟩ àjèjì iṣẹ́ ibi ìgbà ní ìbá pèsè lọ́nà ti ó dara, àti ohun tí ó bá wà fún ẹ pẹ̀lú ⟨את⟩ ará rẹ yóò gba ìyọ̀fúnni-íṣẹ́ ọwọ́ rẹ sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àjèjì"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "àjèjì"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "iṣẹ́ ibi ìgbà ní ìbá pèsè lọ́nà ti ó dara"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "àti ohun tí"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ó bá wà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ará rẹ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ará rẹ"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "yóò gba ìyọ̀fúnni-íṣẹ́ sílẹ̀"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:13:20.616200215Z",
+  "model": "glm-5.3"
+}

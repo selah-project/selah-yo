@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ìgùn ọjọ́ wà ní ọwọ́ ọ̀tún rẹ̀; ní ọwọ́ òsì rẹ̀, ọrọ̀ àti ọlá.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Ìgùn"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "ní ọwọ́ ọ̀tún rẹ̀"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "ní ọwọ́ òsì rẹ̀"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ọrọ̀"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "àti ọlá"
+    }
+  ],
+  "timestamp": "2026-08-23T04:03:08.562245302Z",
+  "model": "glm-5.3"
+}

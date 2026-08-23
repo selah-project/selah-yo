@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Haman sì sọ fún ọba pé, Fún ọkùnrin tí ọba fẹ́ láti bu ọlá fún,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "fẹ́"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "láti bu ọlá fún"
+    }
+  ],
+  "timestamp": "2026-08-23T04:44:55.305242011Z",
+  "model": "glm-5.3"
+}

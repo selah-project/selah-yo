@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "ó sì ka ⟨את⟩ ọdún títà rẹ̀, ó sì da ⟨את⟩ èyí tí ó kù padà fún ọkùnrin tí ó tà á fún, ó sì padà sí ohun-ìní rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "ó sì ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọdún títà rẹ̀"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "títà rẹ̀"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ó sì da padà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èyí tí ó kù"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "èyí tí ó kù"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "fún ọkùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "òun tà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ó sì padà sí"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "ohun-ìní rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:39.439334308Z",
+  "model": "glm-5.3"
+}

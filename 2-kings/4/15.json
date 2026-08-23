@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó wí pé, Pè é. Ó pè é, ó sì dúró ní ọ̀nà-ìwọlé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó wí"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Pè é"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Ó pè é"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ó sì dúró"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "ní ọ̀nà-ìwọlé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:27:27.990922283Z",
+  "model": "glm-5.3"
+}

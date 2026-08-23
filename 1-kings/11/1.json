@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ọba Shelomoh sì fẹ́ràn àwọn obìnrin òkèrè púpọ̀, pẹ̀lú ⟨את⟩ ọmọbìnrin Paroh — àwọn obìnrin Moavu, àwọn obìnrin Amoni, àwọn obìnrin Edomi, àwọn obìnrin Sidoni àti àwọn obìnrin Hiti.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ọba náà sì"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "fẹ́ràn"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "àwọn obìnrin"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "òkèrè"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọbìnrin Paroh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbìnrin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "àwọn obìnrin Moavu"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "àwọn obìnrin Amoni"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "àwọn obìnrin Edomi"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "àwọn obìnrin Sidoni"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "àwọn obìnrin Hiti"
+    }
+  ],
+  "timestamp": "2026-08-23T01:19:54.806817060Z",
+  "model": "glm-5.3"
+}

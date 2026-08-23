@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 131,
+  "translation": "Orin ìgòkè, ti David. Yahweh, ọkàn mi kò gòkè, àwọn ojú mi kò ga, bẹ́ẹ̀ ni èmi kò rìn nínú àwọn nǹn̄ tó tóbi láìṣe ti mi, tàbí àwọn nǹn̄ ìyanu tí ó ju mi lọ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ìgòkè"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "gòkè"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bẹ́ẹ̀ ni … kò"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "àwọn ojú mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "èmi rìn"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "nínú àwọn nǹn̄ tó tóbi"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "tàbí àwọn nǹn̄ ìyanu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tí ó ju mi lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:35.816895778Z",
+  "model": "glm-5.3"
+}

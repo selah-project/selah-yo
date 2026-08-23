@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì lọ́ omí-èmi ìfẹ̀mi ní orí Aharon, ó sì fẹ̀mi ⟨את⟩ í láti fí mú ní mímọ́.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "Ó sì lọ́"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "omí-èmi ìfẹ̀mi"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ìfẹ̀mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní orí"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ó sì fẹ̀mi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ í",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "láti fí mú ní mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:48.984651916Z",
+  "model": "glm-5.3"
+}

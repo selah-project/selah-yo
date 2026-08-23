@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Má ṣe fi ẹ̀mí adírẹ́ rẹ lọ́wọ́ ẹranko ìdíwọ̀n; ẹranko àwọn tí ó kọ̀ rẹ̀ má ṣe gbàgbé nígbà gbogbo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Má ṣe"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "fi… lọ́wọ́"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "lọ́wọ́ ẹranko ìdíwọ̀n"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "adírẹ́ rẹ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "àwọn tí ó kọ̀ rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "gbàgbé"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "nígbà gbogbo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:20.749269814Z",
+  "model": "glm-5.3"
+}

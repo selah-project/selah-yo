@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Yahweh, Elohim mi, ìwọ ⟨ni⟩; ni mo máa gbé ⟨i⟩ ga, mo máa yọ̀rí orúkọ rẹ, nítorí tí o ti ṣe iṣẹ́ ìyanu; ìmọ̀ràn ti ó jiǹ, ìgbẹ́gà tí ó pé, Òótọ́ ⟨ni⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "mo máa gbé ⟨i⟩ ga"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "mo máa yọ̀rí"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o ti ṣe"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "iṣẹ́ ìyanu"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "ìmọ̀ràn"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ti ó jiǹ"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ìgbẹ́gà tí ó pé"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Òótọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:49:08.349217222Z",
+  "model": "glm-5.3"
+}

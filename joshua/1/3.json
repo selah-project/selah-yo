@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Gbogbo ibi tí ẹsẹ̀ yín bá tẹ̀ lu, èmi ti fún ẹ̀ ní — gẹ́gẹ́ bí mo ti sọ fún Moshe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ẹsẹ̀ yín bá tẹ̀ lu"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ìtànná"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "ẹsẹ̀ yín"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún ẹ̀"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "èmi ti fún ẹ̀ ní"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mo ti sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-23T00:24:03.460995431Z",
+  "model": "glm-5.3"
+}

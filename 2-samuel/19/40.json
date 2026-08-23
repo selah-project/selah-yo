@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Gbogbo àwọn ènìyàn sì kọjá ⟨את⟩ Yorudani, ọba sì kọjá; ọba sì fún Barzilai ìfẹ́-ẹnu, o sì bùkún un, ó sì padà sí ibùdó rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "sì kọjá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorudani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudani"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ọba sì"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kọjá"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "sì fún ìfẹ́-ẹnu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Barzilai"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "o sì bùkún un"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó sì padà"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "sí ibùdó rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:05:35.224089782Z",
+  "model": "glm-5.3"
+}

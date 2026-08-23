@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Moshe sì sọ̀kè láti orí òkè náà wá sí ọ̀dọ̀ ènìyàn náà, ó sì yọ ⟨את⟩ ènìyàn náà ṣọ́, wọ́n sì fọ àwọn aṣọ wọn.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "sì sọ̀kè wá"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "òkè náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "sì yọ... ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ènìyàn náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "sì fọ"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "àwọn aṣọ wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:07.943164739Z",
+  "model": "glm-5.3"
+}

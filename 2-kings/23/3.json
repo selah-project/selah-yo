@@ -1,0 +1,157 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 23:3",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ó sì dúró, ọba náà, lórí pílláà̀, ó sì gé ⟨את⟩ májẹ̀mọ̀ níwájú Yahweh, láti rìn lẹ́yìn Yahweh, kí ó sì ṣọ́ àṣẹ rẹ̀, àti ⟨את⟩ ẹ̀rí rẹ̀, àti ⟨את⟩ ofin rẹ̀, pẹ̀lú gbogbo ọkàn àti pẹ̀lú gbogbo ẹ̀mí, láti mú ⟨את⟩ ọ̀rọ̀ májẹ̀mọ̀ yìí dúró ṣinṣin — àwọn tí a kọ sínú ìwé yìí; gbogbo ènìyàn sì dúró nínú májẹ̀mọ̀ náà.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ó sì dúró"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "pílláà̀"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ó sì gé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "májẹ̀mọ̀"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "májẹ̀mọ̀"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "láti rìn"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "kí ó sì ṣọ́"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "àṣẹ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹ̀rí rẹ̀"
+    },
+    {
+      "surface": "עדותיו",
+      "gloss": "ẹ̀rí rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ofin rẹ̀"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "ofin rẹ̀"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "àti pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "láti mú dúró ṣinṣin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ májẹ̀mọ̀ yìí"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "májẹ̀mọ̀"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "הכתבים",
+      "gloss": "àwọn tí a kọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sínú"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ìwé"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "sì dúró"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "nínú májẹ̀mọ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:54:22.842454423Z",
+  "model": "glm-5.3"
+}

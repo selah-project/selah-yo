@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ẹ sì mú ⟨את⟩ ará ẹ yín tí ó kéré jùlọ wá bá mi, kí ọ̀rọ̀ yín lè jẹ́ ìgbanilẹ̀tì, kí ẹ kì í kú. Wọ́n sì ṣe bẹ́ẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ará ẹ yín tí ó kéré jùlọ"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ará ẹ yín"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "tí ó kéré jùlọ"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "ẹ mú ... wá bá mi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bá mi"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "kí ... lè jẹ́ ìgbanilẹ̀tì"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ọ̀rọ̀ yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí ẹ kì í"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "kú"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "Wọ́n sì ṣe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:11:06.702119668Z",
+  "model": "glm-5.3"
+}

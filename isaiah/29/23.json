@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Nítorí tí ó bá rí àwọn ọmọ rẹ̀, iṣẹ́ ọwọ́ Mi, láàárín rẹ̀, wọn yóò yọ Orúkọ Mi mọ́, wọn yóò yí Qédosh Yaakov mọ́ ⟨את⟩, wọn yóò bẹrù Elohim ti Yisrael ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "ó bá rí"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ Mi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "láàárín rẹ̀"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "wọn yóò yọ … mọ́"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Orúkọ Mi"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "wọn yóò yí … mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qédosh Yaakov"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Qédosh (Mímọ́)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Elohim ti Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "wọn yóò bẹrù"
+    }
+  ],
+  "timestamp": "2026-08-23T01:50:58.096407054Z",
+  "model": "glm-5.3"
+}

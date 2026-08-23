@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 64:6",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 64,
+  "translation": "Àti pé ẹnikẹ́ni kò gbọ́n lé orúkọ rẹ, ẹnikẹ́ni kò jí sí láti mú ọ́ lọ́wọ́; nítorí tí o fi ojú rẹ pamọ́ kúrò lọ́dọ̀ wa, o sì pa wá nípasẹ̀ ẹ̀ṣẹ̀ wa.",
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "àti pé ẹnikẹ́ni kò"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "gbọ́n lé"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "מתעורר",
+      "gloss": "jí sí"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "láti mú lọ́wọ́"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "o fi pamọ́"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kúrò lọ́dọ̀ wa"
+    },
+    {
+      "surface": "ותמוגנו",
+      "gloss": "o sì pa wá"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nípasẹ̀"
+    },
+    {
+      "surface": "עוננו",
+      "gloss": "ẹ̀ṣẹ̀ wa"
+    }
+  ],
+  "timestamp": "2026-08-23T05:56:38.583274373Z",
+  "model": "glm-5.3"
+}

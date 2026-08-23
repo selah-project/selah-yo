@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Kì í ṣe bẹ́ẹ̀ ni àwọn aláìtọ́; ṣùgbọ́n wọ́n dà bí èébú tí afẹ́fẹ́ ń fọ́nà.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kì í ṣe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "àwọn aláìtọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ìyẹn ẹ̀yìn-ìdí"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "bí èébú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ń fọ́nà"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "afẹ́fẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:23:33.652607621Z",
+  "model": "glm-5.3"
+}

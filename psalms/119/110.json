@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Àwọn aláṣẹ́-búburú fi ọ̀wọ́n sílẹ̀ fún mi, ṣùgbọ́n kúrò nínú àṣẹ rẹ emi kò tì kúrò.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "wọn fi sílẹ̀"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn aláṣẹ́-búburú"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ọ̀wọ́n"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "ṣùgbọ́n kúrò nínú àṣẹ rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "emi tì kúrò"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:56.154161591Z",
+  "model": "glm-5.3"
+}

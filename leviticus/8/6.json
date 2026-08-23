@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Moshe sì mú Aharon wá pẹ̀lú ⟨את⟩ àwọn ọmọ rẹ̀, ó sì wẹ̀ ⟨את⟩ wọ́n nínú omi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ó sì mú wá"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pẹ̀lú ⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "ó sì wẹ̀"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọ́n"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nínú omi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:41.506951703Z",
+  "model": "glm-5.3"
+}

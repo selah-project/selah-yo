@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àgọ̀ yóò wà gẹ́gẹ́ bí ìdíbọ̀ ní ọ̀sán kúrò nínú oorun, àti gẹ́gẹ́ bí ibi ààbọ̀ àti ibi ìpamọ́ kúrò nínú afẹ́fẹ́ burúkú àti kúrò nínú òjò.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "àgọ̀"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "gẹ́gẹ́ bí ìdíbọ̀"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ní ọ̀sán"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kúrò nínú oorun"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "àti gẹ́gẹ́ bí ibi ààbọ̀"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "àti ibi ìpamọ́"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "kúrò nínú afẹ́fẹ́ burúkú"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "àti kúrò nínú òjò"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:15.917881225Z",
+  "model": "glm-5.3"
+}

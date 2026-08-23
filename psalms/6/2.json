@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Yahweh, má ṣe ju mi lẹ́bi ní ìbínú rẹ, àti má ṣe fi oúnú búrúkú rẹ jìyà mi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ní ìbínú rẹ"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ju mi lẹ́bi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti má ṣe"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "ní oúnú búrúkú rẹ"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "jìyà mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:46.502868453Z",
+  "model": "glm-5.3"
+}

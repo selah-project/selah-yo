@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ìwọ ti rí nǹkan púpọ̀ ṣùgbọ́n ìwọ kò gbẹ́ tíítí; etí tí a ti ṣí ṣùgbọ́n kò gbọ́.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "ìwọ ti rí"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "nǹkan púpọ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n ìwọ kò"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "gbẹ́ tíítí"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "tí a ti ṣí"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "etí"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n kò"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "gbọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:56:43.659032667Z",
+  "model": "glm-5.3"
+}

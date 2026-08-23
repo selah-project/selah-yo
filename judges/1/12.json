@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Kalev sì wí pé, Ẹni tí ó bá lu ⟨את⟩ Kiryat-Sefer, tí ó sì gba á gbà, èmi óò fún un ní ⟨את⟩ Akhsa, ọmọbìnrin mi, níyàwó.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí ó bá"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "tí ó sì gba á gbà"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "èmi óò fún ní"
+    },
+    {
+      "surface": "לו",
+      "gloss": "un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ọmọbìnrin mi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "níyàwó"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:19.471985691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 87,
+  "translation": "Nípa Tsiyyon ni a ó sọ pé, ènìyàn kan àti ènìyàn kan ni a bí nínú rẹ̀; ìfaigbà Elyon fúnra rẹ̀ ni yóò gbẹ́ òkúta rẹ̀ lélẹ̀.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "nípa Tsiyyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a ó sọ pé"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ènìyàn kan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "àti ènìyàn kan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ni a bí"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ìfaigbà òun fúnra rẹ̀"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "yóò gbẹ́ òkúta rẹ̀ lélẹ̀"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:28.082568706Z",
+  "model": "glm-5.3"
+}

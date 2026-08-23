@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Wò ó, lórí àwọn ọwọ́ mi ni mo ti kọ ọ nínú; ìdí ipá rẹ̀ wà níwájú mi nígbà gbogbo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "àwọn ọwọ́ mi"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "mo ti kọ ọ nínú"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "ìdí ipá rẹ̀"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "níwájú mi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbà gbogbo"
+    }
+  ],
+  "timestamp": "2026-08-23T01:58:42.181190157Z",
+  "model": "glm-5.3"
+}

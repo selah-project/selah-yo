@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Balak ọmọ Tsipor sì rí ⟨את⟩ gbogbo tí Yisrael ṣe fún àwọn Emori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "sì rí"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsipor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "fún àwọn Emori"
+    }
+  ],
+  "timestamp": "2026-08-22T23:59:30.404488194Z",
+  "model": "glm-5.3"
+}

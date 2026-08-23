@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ẹni burúkú ń yàwọ́n láyè láti san padà, ṣùgbọ́n ẹni olóòótọ́ ń ṣe àánú, ó sì ń fúnni.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "ń yàwọ́n láyè"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ẹni burúkú"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "san padà"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ṣùgbọ́n ẹni olóòótọ́"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ń ṣe àánú"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "ń fúnni"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:15.196358662Z",
+  "model": "glm-5.3"
+}

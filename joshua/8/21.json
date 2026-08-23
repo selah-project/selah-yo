@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 8:21",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Yehoshua sì àti gbogbo Israẹl rí pé àwọn akọ̀dá ti gba ⟨את⟩ ìlú náà, àti pé èjìká ìlú náà ti gorí; wọ́n sì padà, wọ́n sì lu ⟨את⟩ àwọn ọkùnrin Ai.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "Yehoshua sì"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "rí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ti gba"
+    },
+    {
+      "surface": "הארב",
+      "gloss": "àwọn akọ̀dá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìlú náà"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "àti pé"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ti gorí"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "èjìká"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wọ́n sì padà"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wọ́n sì lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọkùnrin Ai"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai"
+    }
+  ],
+  "timestamp": "2026-08-23T00:25:35.128958268Z",
+  "model": "glm-5.3"
+}

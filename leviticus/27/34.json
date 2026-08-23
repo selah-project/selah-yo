@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ìwọn-àṣẹ wọnyí ni Yahweh pàṣẹ fún ⟨את⟩ Moshe, sí àwọn ọmọ Yisrael, lórí òkè Sinai.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ìwọn-àṣẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "lórí òkè"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-22T23:47:06.564706116Z",
+  "model": "glm-5.3"
+}

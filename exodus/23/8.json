@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Àti èrè-ọ̀fẹ́ má ṣe gbà; nítorí èrè-ọ̀fẹ́ ń fọjú dí àwọn tí ó ní ojú-inú, àti ń yí ọ̀rọ̀ àwọn ọ̀dọ́ran yí padà.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "èrè-ọ̀fẹ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "gbà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "èrè-ọ̀fẹ́"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "ń fọjú dí"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "àwọn tí ó ní ojú-inú"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ń yí ... padà"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "àwọn ọ̀dọ́ran"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:14.925169915Z",
+  "model": "glm-5.3"
+}

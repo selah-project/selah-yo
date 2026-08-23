@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ṣùgbọ́n ìwọ, Yahweh, má ṣe jìnnà sí mi; agbára mi, ṣíjárà láti ràn mí lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ṣùgbọ́n ìwọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jìnnà sí mi"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "agbára mi"
+    },
+    {
+      "surface": "לעזrתי",
+      "gloss": "láti ràn mí lọ́wọ́"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ṣíjárà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:18.995042730Z",
+  "model": "glm-5.3"
+}

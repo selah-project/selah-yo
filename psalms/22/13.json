@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Àwọn màlúù pọ̀ ti yí mi ká, àwọn alágbára ti Bashan ti kó mi léte.",
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "wọ́n yí mi ká"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "àwọn màlúù"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pọ̀"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "àwọn alágbára"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ti Bashan"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "wọ́n kó mi léte"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:02.043390117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Nígbà náà ni Yaakov dìde, ó sì gbé ⟨את⟩ àwọn ọmọ rẹ̀ àti ⟨את⟩ àwọn aya rẹ̀ lórí àwọn kámélù náà.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dìde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ó sì gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn aya rẹ̀"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "àwọn aya rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "àwọn kámélù náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:38:56.197521465Z",
+  "model": "glm-5.3"
+}

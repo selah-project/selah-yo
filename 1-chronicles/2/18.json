@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Kalebu, ọmọ Ḥetsron, sì bí ⟨את⟩ Azuba, obìnrin, àti ⟨את⟩ Yeriot; àwọn ọmọ rẹ̀ sì ⟨ni⟩ wọnyí: Yesher, àti Shobab, àti Ardon.",
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "Kalebu sì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Ḥetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azuba"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azuba"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "obìnrin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yeriot"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "Yeriot"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "àwọn wọnyí sì"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Yesher"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "àti Shobab"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "àti Ardon"
+    }
+  ],
+  "timestamp": "2026-08-23T05:08:17.528700781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "àti ⟨את⟩ Adorajim, àti ⟨את⟩ Lakish, àti ⟨את⟩ Azekah;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Adorajim"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Adorajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Lakish"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Azekah"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekah"
+    }
+  ],
+  "timestamp": "2026-08-23T05:25:33.542292270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "deuteronomy 28:60",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ó sì yóò gbé ⟨את⟩ gbogbo àìsàn Mitsrayim, èyí tí o bẹ́ru níwájú wọn, da padà sí ọ̀dọ̀ rẹ, wọ́n sì yóò lẹ̀mọ́ ọ́ mọ́ra.",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "yóò da padà"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àìsàn Mitsrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מדוה",
+      "gloss": "àìsàn"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "יגרת",
+      "gloss": "o bẹ́ru"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "níwájú wọn"
+    },
+    {
+      "surface": "ודבקו",
+      "gloss": "wọ́n yóò lẹ̀mọ́ mọ́ra"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:18:49.826093237Z",
+  "model": "glm-5.3"
+}

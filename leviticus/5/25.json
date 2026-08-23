@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ó sì gbé ⟨את⟩ ẹ̀bi rẹ̀ wá fún Yahweh — àgùntàn màlè̀ láti ara ọ̀tá, ní ìwọ̀n ìdàgbà rẹ, gẹ́gẹ́ bí ẹ̀bi, sí ọ̀dọ̀ aláṣẹ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀bi rẹ̀"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ẹ̀bi rẹ̀"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "ó gbé… wá"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "איל",
+      "gloss": "àgùntàn màlè̀"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "màlè̀"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ara ọ̀tá"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "ní ìwọ̀n ìdàgbà rẹ"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "gẹ́gẹ́ bí ẹ̀bi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aláṣẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:03.660609027Z",
+  "model": "glm-5.3"
+}

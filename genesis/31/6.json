@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Ẹ yìí mọ̀ pé mo ṣiṣẹ́ fún baba yín pẹ̀lú gbogbo agbára mi, èmi tí mo ṣiṣẹ́ fún ⟨את⟩ baba yín.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ẹ yìí"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "mọ̀ pé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "agbára mi"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "mo ṣiṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba yín"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "fún baba yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:06:17.421847760Z",
+  "model": "glm-5.3"
+}

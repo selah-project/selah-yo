@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Aram láti ìwájú, àti Filistia láti ẹ̀yìn; wọ́n jẹ ⟨את⟩ Israeli pẹ̀lú ẹnu gbángban. Nínú gbogbo èyí ìbínú rẹ̀ kò yípadà, ọwọ́ rẹ̀ sì tíì gẹrẹ síta.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "láti ìwájú"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "àti Filistia"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "láti ẹ̀yìn"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "wọ́n jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nínú gbogbo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שב",
+      "gloss": "yípadà"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ìbínú rẹ̀"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "sì tíì"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "gẹrẹ síta"
+    }
+  ],
+  "timestamp": "2026-08-23T01:43:56.503839165Z",
+  "model": "glm-5.3"
+}

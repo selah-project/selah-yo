@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ọwọ́ Yahweh sì tún wà ní wọn, láti pa wọn run kúrò nínú ilẹ̀-ogun náà, títí wọ parun.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "sì tún"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ní wọn"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "láti pa wọn run"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ilẹ̀-ogun náà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "wọ parun"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:15.294800690Z",
+  "model": "glm-5.3"
+}

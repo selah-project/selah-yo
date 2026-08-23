@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ẹ̀yin yóò wá ⟨את⟩ mi, ẹ̀yin yóò sì rí mi, nítorí tí ẹ̀yin ń wà mí ní gbogbo ọkàn yín.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "ẹ̀yin yóò sì wá"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mi",
+      "marks": "mi"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "ẹ̀yin yóò sì rí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "ẹ̀yin ń wà mí"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ọkàn yín"
+    }
+  ],
+  "timestamp": "2026-08-23T02:21:18.021570789Z",
+  "model": "glm-5.3"
+}

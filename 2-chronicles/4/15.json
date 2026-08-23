@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "⟨את⟩ omi ìbù kan ṣoṣo, àti ⟨את⟩ àwọn màlúù méjìlá ní àsàlẹ̀ rẹ̀",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omi ìbù kan ṣoṣo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "omi ìbù"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan ṣoṣo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ àti",
+      "marks": "àwọn màlúù méjìlá"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "àwọn màlúù"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ẹ̀wá"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ní àsàlẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:23:24.306193529Z",
+  "model": "glm-5.3"
+}

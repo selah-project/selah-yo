@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Légbẹ̀ẹ́ ìlàjá náà ni àwọn ìyọ̀rí wà — ⟨wọn⟩ jẹ́ ibi-ìdún fún àwọn ọ̀pá láti gbígbé ⟨את⟩ tábìlì náà.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "légbẹ̀ẹ́"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "ìlàjá náà"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨wọn⟩ jẹ́"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "àwọn ìyọ̀rí"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ibi-ìdún"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "fún àwọn ọ̀pá"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "láti gbígbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tábìlì náà"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tábìlì náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:07.485816744Z",
+  "model": "glm-5.3"
+}

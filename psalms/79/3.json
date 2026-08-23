@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 79,
+  "translation": "Wọ́n ṣàn ẹ̀jẹ́ wọn lẹ́rú bí omi ní ìkàlé Yerushalayim, kò sí ẹnìkẹ́ni tí ó ń sin wọ́n.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "wọ́n ṣàn lẹ́rú"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ẹ̀jẹ́ wọn"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "bí omi"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ní ìkàlé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "ẹnìkẹ́ni tí ó ń sin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:44.058135883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 21:30",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Bí owó-ìgbàlà bá gbé e lórí, ó sì fun ⟨ìgbàlá-ẹ̀mí⟩ fún èmi rẹ̀, gégé bí gbogbo tí a bá gbé e lórí.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "owó-ìgbàlà"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "bá gbé…lórí"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí i"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ó sì fun"
+    },
+    {
+      "surface": "פדין",
+      "gloss": "ìgbàlá-ẹ̀mí"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "fún èmi rẹ̀"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gégé bí gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "a bá gbé"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lé e lórí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:54.248458635Z",
+  "model": "glm-5.3"
+}

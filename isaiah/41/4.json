@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Tàí ni ó ṣe àti gbé i ṣe, ń pe àwọn ìràn láti ìbẹ̀rẹ̀? Emi ni, Yahweh, ìbí; àti ⟨את⟩ àwọn ìkẹyìn — emi ni.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "tàí"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "àti gbé i ṣe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ń pe"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "àwọn ìràn"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "láti ìbẹ̀rẹ̀"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ìbí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìkẹyìn"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "àwọn ìkẹyìn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-23T01:56:59.395569369Z",
+  "model": "glm-5.3"
+}

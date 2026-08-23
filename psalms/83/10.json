@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 83,
+  "translation": "Ṣe fún wọn bíi ti ⟨àwọn⟩ Midian, bíi ti Sisera, bíi ti Yabin, ní odò Kishon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ṣe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "bíi ti Midian"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "bíi ti Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "bíi ti Yabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ní odò"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:52.221293426Z",
+  "model": "glm-5.3"
+}

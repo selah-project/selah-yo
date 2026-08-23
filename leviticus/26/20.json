@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Agbára yín yóò sì parun lásán; ilẹ̀ yín kì yóò sì fún ⟨את⟩ èso rẹ̀, igi ilẹ̀ náà kì yóò sì fun ní èso rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "yóò sì parun"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "lásán"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "agbára yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì yóò sì"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ilẹ̀ yín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èso rẹ̀"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "èso rẹ̀"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ìgì"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì yóò sì"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "fun ní"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "èso rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:47:43.930220807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 92,
+  "translation": "Nítorí tí O sọ mí dí ayọ̀, Yahweh, nínú iṣẹ́ rẹ, nípa àwọn iṣẹ́ ọwọ́ rẹ ni mo máa ń kọrin sí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "O sọ mí dí ayọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "nínú iṣẹ́ rẹ"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "nípa àwọn iṣẹ́"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "mo máa ń kọrin sí"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:14.260059435Z",
+  "model": "glm-5.3"
+}

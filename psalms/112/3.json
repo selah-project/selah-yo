@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 112,
+  "translation": "Ọrọ̀ àti àlàáfíà wà nínú ilé rẹ̀; ìdájọ́-ododo rẹ̀ dúró títí láéláé.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ọrọ̀"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "àti àlàáfíà-ọrọ̀"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nínú ilé rẹ̀"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "àti ìdájọ́-ododo rẹ̀"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "títí láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:35.925927782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 76,
+  "translation": "Iwọ, Ẹni-tí-a-ń-bẹ̀rù̀ ni Ẹ; ta lè dúró níwájú rẹ láti ìgbà ìbínú rẹ?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwọ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "Ẹni-tí-a-ń-bẹ̀rù̀"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ni Ẹ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ta lè"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "níwájú rẹ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "láti ìgbà"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ìbínú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:17.437254898Z",
+  "model": "glm-5.3"
+}

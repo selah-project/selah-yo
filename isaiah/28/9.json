@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "⟨את⟩ táni a gbọ́n kọ́ ní ìmọ̀? Àti ⟨את⟩ táni a lè mú oyè ìròyìn? Ẹnití a ti wẹ́ jáde kúrò lọ́mù, ẹnití a ti yọ kúrò lọ́mú.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "táni"
+    },
+    {
+      "surface": "מי",
+      "gloss": "táni"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "a gbọ́n kọ́"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ìmọ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "táni"
+    },
+    {
+      "surface": "מי",
+      "gloss": "táni"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "a lè mú oyè"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ìròyìn"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "a ti wẹ́ jáde"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "kúrò lọ́mù"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "a ti yọ"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "lọ́mú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:48:47.725094938Z",
+  "model": "glm-5.3"
+}

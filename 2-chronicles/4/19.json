@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 4:19",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Shelomoh sì ṣe ⟨את⟩ gbogbo àwọn irinṣẹ́ tí o wà nínú ilé Elohim, àti ⟨את⟩ pẹpẹ wúrà náà, àti ⟨את⟩ àwọn táàbílì náà, àti búrẹ́dì ojú tí ó wà lórí wọn.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn irinṣẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "àwọn irinṣẹ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "pẹpẹ wúrà náà"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn táàbílì náà"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "àwọn táàbílì náà"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "àti lórí wọn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "búrẹ́dì"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ojú"
+    }
+  ],
+  "timestamp": "2026-08-23T05:23:06.544292154Z",
+  "model": "glm-5.3"
+}

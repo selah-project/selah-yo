@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ẹni tí ń fẹ ⟨את⟩ àwọn ọ̀run ní àìní-ẹlẹ́gbẹ́, tí ń rìn orí ìgbì òkun.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "Ẹni tí ń fẹ (tí ń tẹ̀ àárín)"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ní àìní-ẹlẹ́gbẹ́"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "tí ń rìn orí"
+    },
+    {
+      "surface": "על",
+      "gloss": "orí"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "ìgbì (gíga)"
+    },
+    {
+      "surface": "ים",
+      "gloss": "òkun"
+    }
+  ],
+  "timestamp": "2026-08-23T04:18:13.661642292Z",
+  "model": "glm-5.3"
+}

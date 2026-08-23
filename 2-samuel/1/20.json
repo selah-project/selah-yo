@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 1:20",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ẹ má ṣe kéde ìròyìn náà ní Gat, ẹ má ṣe ìkéde ní àwọn ọ̀nà Ashkelon; kí àwọn ọmọbìnrin ti àwọn Filisti kí ó má baà yọ̀, kí àwọn ọmọbìnrin àwọn aláwọ̀-kọ̀ kí ó má baàṣe yọ̀ ṣeré.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "kéde ìròyìn náà"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ní Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תבשרו",
+      "gloss": "ìkéde"
+    },
+    {
+      "surface": "בחוצת",
+      "gloss": "ní àwọn ọ̀nà"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí ó má baà"
+    },
+    {
+      "surface": "תשמחנה",
+      "gloss": "yọ̀"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "àwọn ọmọbìnrin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ti àwọn Filisti"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí ó má baàṣe"
+    },
+    {
+      "surface": "תעלזנה",
+      "gloss": "yọ̀ ṣeré"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "àwọn ọmọbìnrin"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "àwọn aláwọ̀-kọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:56:59.142814832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 61,
+  "translation": "Ṣàfikún ọjọ́ lórí ọjọ́ ọba; kí àwọn ọdún rẹ̀ jẹ́ bíi ìràn lẹ́yìn ìràn.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ṣàfikún"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "àwọn ọdún rẹ̀"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bíi"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ìràn"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "àti ìràn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:18.698067126Z",
+  "model": "glm-5.3"
+}

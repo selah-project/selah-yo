@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 138,
+  "translation": "Ti David. Èmi ó dúpẹ́ lọ́dọ̀ rẹ pẹ̀lú gbogbo ọkàn mi; níwájú Elohim ni èmi ó fi orin yín ọ́.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ti David"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "èmi ó dúpẹ́ lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "èmi ó fi orin yín ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:49.322579237Z",
+  "model": "glm-5.3"
+}

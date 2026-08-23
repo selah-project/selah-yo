@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 143,
+  "translation": "Mo rántí ⟨àwọn⟩ ọjọ́ ìṣájọ, mo ń ṣe àyẹ̀wò nípa gbogbo iṣẹ́ rẹ, lórí iṣẹ́ ọwọ́ rẹ ni mo ń ṣe ìjíròrò.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "mo rántí"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "⟨àwọn⟩ ọjọ́"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ìṣájọ"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "mo ń ṣe àyẹ̀wò"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nípa gbogbo"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "iṣẹ́ rẹ"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "lórí iṣẹ́"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "mo ń ṣe ìjíròrò"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:22.304680322Z",
+  "model": "glm-5.3"
+}

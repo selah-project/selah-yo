@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Yahweh yóò sì jẹ́ onídájọ́, yóò sì dá̀jọ̀ láàárín mi àti ìwọ; yóò sì rí i, yóò sì ja ẹjọ́ ⟨את⟩ ìjà mi, yóò sì gbà mi là ní ọwọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "yóò sì jẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "onídájọ́"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "yóò sì dá̀jọ̀"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "láàárín mi"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "àti láàárín rẹ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yóò sì rí i"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "yóò sì ja ẹjọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjà mi"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ìjà mi"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "yóò sì gbà mi là"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ní ọwọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:53:14.821319409Z",
+  "model": "glm-5.3"
+}

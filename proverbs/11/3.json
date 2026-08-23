@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ìmọ́lẹ́-ọkàn ti àwọn olódọ́tun ni ó ń tọ̀ wọ́n lọ́nà; ṣùgbọ́n aṣìṣe ti àwọn àiṣòótọ́ yóò pa wọ́n run.",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "Ìmọ́lẹ́-ọkàn"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "àwọn olódọ́tun"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "ń tọ̀ wọ́n lọ́nà"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "ṣùgbọ́n aṣìṣe"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "àwọn àiṣòótọ́"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "yóò pa wọ́n run"
+    }
+  ],
+  "timestamp": "2026-08-23T04:07:09.525141869Z",
+  "model": "glm-5.3"
+}

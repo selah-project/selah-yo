@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ilé ayẹyẹ ijẹ́un náà, má ṣe wọ ọ láti jọkọ sí ⟨את⟩ wọn, láti jẹ àti láti mu.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Ilé"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ayẹyẹ ijẹ́un"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wọ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "láti jọkọ sí"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "láti jẹ"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "àti láti mu"
+    }
+  ],
+  "timestamp": "2026-08-23T02:13:44.216533544Z",
+  "model": "glm-5.3"
+}

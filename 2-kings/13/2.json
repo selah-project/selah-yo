@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ó ṣeé burú ní ojú Yahweh, ó sì tẹ̀lé ẹ̀ṣẹ̀ Yarovam, ọmọ Nevat, ẹni tí ó ṣé jẹ́ ⟨את⟩ Yisrael kí ó ṣẹ̀; kò yẹra kúrò nínú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "burú"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì tẹ̀lé"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ó ṣé jẹ́ kí ó ṣẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "סר",
+      "gloss": "yẹra"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kúrò nínú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:33:15.816426517Z",
+  "model": "glm-5.3"
+}

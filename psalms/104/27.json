@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Gbogbo wọn ń dúro de Iwọ, láti lè fún wọn ní oúnjẹ ní àkókò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "gbogbo wọn"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "de Iwọ"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "ń dúro (ní ìrètí)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "láti lè fún"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ní oúnjẹ"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ní àkókò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:15.699632915Z",
+  "model": "glm-5.3"
+}

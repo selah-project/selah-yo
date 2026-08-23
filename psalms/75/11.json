@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 75,
+  "translation": "Èmi yóò gé gbogbo ìdí àwọn olèṣẹ́ kúrò; ìdí àwọn olódodo ni yóò gbé sókè.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ìdí"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn olèṣẹ́"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "Èmi yóò gé"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "yóò gbé sókè"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ìdí"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "àwọn olódodo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:25.473384851Z",
+  "model": "glm-5.3"
+}

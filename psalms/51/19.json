@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Ìrúbọ tí Elohim ń gbà ni ẹ̀mí tí ó ti fọ́, ọkàn tí ó ti fọ́ àti tí ó dàrú, Elohim kì í ṣe èye ni ó kọ̀ síi.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "ìrúbọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "tí ó ti fọ́"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "tí ó ti fọ́"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "àti tí ó dàrú"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "ó kọ̀ síi (ó ṣe èye)"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:49.272361553Z",
+  "model": "glm-5.3"
+}

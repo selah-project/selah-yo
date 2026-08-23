@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ojú mi nigbagbogbo wà sí Yahweh, nítorí Òun ni yóó ja ẹsẹ̀ mi jáde nínú ìpa.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Ojú mi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nigbagbogbo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wà sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Òun ni"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "yóó ja … jáde"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "nínú ìpa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ẹsẹ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:31.977420878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Ó sọ ọ́, ó sì dúró fún ìjì afẹ́, ó sì gbé àwọn òfuufú rẹ̀ sókè.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sọ ọ́"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ó sì dúró fún"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "afẹ́"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ìjì"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "ó sì gbé sókè"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "àwọn òfuufú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:22.082026761Z",
+  "model": "glm-5.3"
+}

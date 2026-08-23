@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Ọ̀nà mi àti ìgùnlè mi, ìwọ ti yọ wọn ká; gbogbo ọ̀nà mi, ìwọ mọ ọ́n dáadáa.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "ọ̀nà mi"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "àti ìgùnlè mi"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "ìwọ ti yọ wọn ká"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ọ̀nà mi"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "ìwọ mọ ọ́n dáadáa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:22.759223366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ṣùgbọ́n àwọn ẹlẹ́yìn-ìdíle Levi, má ṣe kà ⟨את⟩ wọn, àti ⟨את⟩ orí wọn, iwo kò ní gbé sókè láàrin àwọn ọmọ Yisrael.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹlẹ́yìn-ìdíle Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ẹlẹ́yìn-ìdíle"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "kà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "orí wọn"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "orí wọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò ní"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "gbé sókè"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàrin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-22T23:47:37.641511298Z",
+  "model": "glm-5.3"
+}

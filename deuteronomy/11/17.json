@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 11:17",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Kí ìbínú Yahweh má ba a tì yín lọ́nà ìbínú, kí ó sì ti ⟨את⟩ àwọn ọ̀run dé, kí ojò ó má sì wà, ilẹ̀ náà sì kò ní fi ⟨את⟩ èso rẹ̀, ẹ sì ti parun kíákíá lórí ilẹ̀ rere tí Yahweh ń fún yín.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "kí ìbínú ó má ba a tì"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ìmú́-ìbínú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "tì yín"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "kí ó sì ti dé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀run"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí ó má sì"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ojò"
+    },
+    {
+      "surface": "והאדמה",
+      "gloss": "ilẹ̀ náà sì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èso rẹ̀"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "èso rẹ̀"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "ẹ sì parun"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "kíákíá"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "rere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ń fún"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:28.973693815Z",
+  "model": "glm-5.3"
+}

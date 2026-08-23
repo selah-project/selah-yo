@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "O sì ṣe àwọn òpá ti igi shittim, o sì fi bò ⟨את⟩ wọn wúrà.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o sì ṣe"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "àwọn òpá"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ti igi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "o sì fi bò"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:25:45.668470882Z",
+  "model": "glm-5.3"
+}

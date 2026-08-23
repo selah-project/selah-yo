@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ẹ sì ka ⟨את⟩ àwọn ilé Yerushalayim, ẹ sì kó àwọn ilé náà rú láti fi ṣe ìmúláradí ìdíwọ̀ náà.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ilé"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "àwọn ilé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "ẹ sì ka"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "ẹ sì kó rú"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "àwọn ilé náà"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "láti fi ṣe ìmúláradí"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ìdíwọ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:46:37.813873112Z",
+  "model": "glm-5.3"
+}

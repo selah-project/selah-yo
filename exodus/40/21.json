@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ó sì mú ⟨את⟩ ákàn náà wọ inú àgọ́ ìdílé náà, ó sì gbé ⟨את⟩ àsè ìboju náà sílẹ̀, ó sì bo ákàn ẹ̀rí náà, bí Yahweh ti pàṣẹ ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì mú … wọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ákàn náà"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ákàn náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inú"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "àgọ́ ìdílé náà"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì gbé … sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àsè ìboju náà"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "àsè ìboju"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ìboju náà"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "ó sì bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "orí"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ákàn"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ẹ̀rí náà"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí … ti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:22.425209196Z",
+  "model": "glm-5.3"
+}

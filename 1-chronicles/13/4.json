@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Gbogbo àpapọ̀ sì sọ wí pé kí a ṣe bẹ́ẹ̀; nítorí ọ̀rọ̀ ⟨náà⟩ mú ṣíṣe ní ojú gbogbo àwọn ènìyàn.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "sì sọ wí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "àpapọ̀ ⟨na⟩"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kí a ṣe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "mú ṣíṣe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:15:09.634700960Z",
+  "model": "glm-5.3"
+}

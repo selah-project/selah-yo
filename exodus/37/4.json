@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ó sì ṣe àwọn ọ̀pá igi shitim, ó sì fi wúrà bọ ⟨את⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "àwọn ọ̀pá"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "igi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ó sì fi wúrà bọ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:34.485935243Z",
+  "model": "glm-5.3"
+}

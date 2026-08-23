@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 108,
+  "translation": "Elohim ti sọ̀rọ̀ nínú mímọ́ rẹ; èmi yóò dùn ún ayò, èmi yóò pín Shekem, àti odò Sukkot èmi yóò ṣe ìwọ̀n.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ̀rọ̀"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "nínú mímọ́ rẹ"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "èmi yóò dùn ún ayò"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "èmi yóò pín"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "àti odò"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "èmi yóò ṣe ìwọ̀n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:18.196730264Z",
+  "model": "glm-5.3"
+}

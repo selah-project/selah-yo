@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Àti agbára ìṣẹ́ tí ó ń fọ́kàn daru Rẹ ni wọn yóò sọ̀rọ̀ nípa rẹ̀, àti ìtobi Rẹ ni èmi yóò kà sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "àti agbára"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "ìṣẹ́ tí ó ń fọ́kàn daru Rẹ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wọn yóò sọ̀rọ̀ nípa rẹ̀"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "àti ìtobi Rẹ"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "èmi yóò kà sílẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:02.630434542Z",
+  "model": "glm-5.3"
+}

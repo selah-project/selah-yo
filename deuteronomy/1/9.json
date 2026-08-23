@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Mo sì sọ fún yín nígbà yẹn wípé: Èmi kò lè ní ṣoṣo gbà ⟨את⟩ yín.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mo sì sọ"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nígbà"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wípé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ní ṣoṣo"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "gbà"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:13.205691964Z",
+  "model": "glm-5.3"
+}

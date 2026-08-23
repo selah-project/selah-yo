@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Ẹ wá, ẹ rí iṣẹ́ Yahweh, ẹni tí ó ṣe ìparun ní ayé.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ẹ wá"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ẹ rí"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ìparun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:01.445977408Z",
+  "model": "glm-5.3"
+}

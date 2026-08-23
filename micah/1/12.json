@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Nítorí pé olùgbé Maroth ń retí rere; nítorí pé ìbàjẹ́ ti sọ̀kalẹ̀ láti ọ̀dọ̀ ⟨את⟩ Yahweh, títí dé ilẹ̀kùn Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ń retí"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "olùgbé"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Maroth"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ti sọ̀kalẹ̀"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ìbàjẹ́"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "láti ọ̀dọ̀ ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "dé ilẹ̀kùn"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:10:08.790493690Z",
+  "model": "glm-5.3"
+}

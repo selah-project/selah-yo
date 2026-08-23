@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àti ⟨את⟩ Yeuts àti ⟨את⟩ Sekhya àti ⟨את⟩ Mirmah; àwọn wọ̀nyí ni àwọn ọmọ rẹ̀, àwọn olórí àwọn baba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Àti ⟨את⟩",
+      "marks": "Yeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Sekhya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Sekhya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọ̀nyí"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "àwọn baba"
+    }
+  ],
+  "timestamp": "2026-08-23T05:10:34.112484764Z",
+  "model": "glm-5.3"
+}

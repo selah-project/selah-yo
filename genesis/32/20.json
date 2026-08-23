@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Ó sì pàṣẹ fún ⟨את⟩ èkejì, fún ⟨את⟩ ẹ̀kẹta, àti fún ⟨את⟩ gbogbo àwọn tí ó ń tẹ̀ lé àwọn ẹ̀dà náà pé, Bí ọ̀rọ̀ yìí ni ẹ ó sọ fún Esav, nígbà tí ẹ bá rí ⟨את⟩ ọn.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ó sì pàṣẹ fún"
+    },
+    {
+      "surface": "גם",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èkejì"
+    },
+    {
+      "surface": "השני",
+      "gloss": "èkejì"
+    },
+    {
+      "surface": "גם",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀kẹta"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ẹ̀kẹta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "àti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn tí ó ń tẹ̀ lé àwọn ẹ̀dà náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "àwọn tí ó ń tẹ̀ lé"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "àwọn ẹ̀dà náà"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "Bí ọ̀rọ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "ẹ ó sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "nígbà tí ẹ bá rí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:06:57.165786310Z",
+  "model": "glm-5.3"
+}

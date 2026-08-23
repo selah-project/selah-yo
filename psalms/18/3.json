@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Yahweh, àpáta mi, àti ilé-ààbọ̀ mi, àti olùgbà-mí-là mi; El mi, ọkúta mi, mo fi gbé nínú rẹ̀; ààbọ̀ mi, àti ìwọ̀ ìgbàlà mi, òkè-gíga mi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "àpáta mi"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "àti ilé-ààbọ̀ mi"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "àti olùgbà-mí-là"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mi"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ọkúta mi"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "mo fi gbé"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ààbọ̀ mi"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "àti ìwọ̀"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ìgbàlà mi"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "òkè-gíga mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:33.235147606Z",
+  "model": "glm-5.3"
+}

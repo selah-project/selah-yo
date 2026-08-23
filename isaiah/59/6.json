@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 59,
+  "translation": "Àwọ̀ wọn kì í lè di aṣọ, wọ́n kì í lè fi iṣẹ́ wọn dé ara; iṣẹ́ wọn ni iṣẹ́ àṣìṣe, ìṣẹ̀ ìkọlù sì wà nínú àwọ̀ ọwọ́ wọn.",
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "àwọ̀ wọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í lè"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "di"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "aṣọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kì í lè"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "wọ́n fi dé ara"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "pẹ̀lú iṣẹ́ wọn"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "iṣẹ́ wọn"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "און",
+      "gloss": "àṣìṣe"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "àti ìṣẹ̀"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìkọlù"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "nínú àwọ̀ ọwọ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:56:07.879389080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Nítorí ọmọ ni mo tí jẹ́ sí baba mi, èjìká ẹlẹ́wọ̀n sí, ọ̀kan ṣoṣo níwájú ìyá mi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mo tí jẹ́"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "sí baba mi"
+    },
+    {
+      "surface": "רך",
+      "gloss": "èjìká ẹlẹ́wọ̀n sí"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "ọ̀kan ṣoṣo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ìyá mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:03:28.042630013Z",
+  "model": "glm-5.3"
+}

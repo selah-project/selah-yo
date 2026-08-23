@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ravshakeh sì padà, ó sì rí ⟨את⟩ ọba Ashur ń jagun lọ́dọ̀ Libnah; nítorí tí ó gbọ́ pé ó ti kúrò ní Lachish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "sì padà"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ó sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọba Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ń jagun"
+    },
+    {
+      "surface": "על",
+      "gloss": "lọ́dọ̀"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ó gbọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ó ti kúrò"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lachish"
+    }
+  ],
+  "timestamp": "2026-08-23T01:53:53.290577915Z",
+  "model": "glm-5.3"
+}

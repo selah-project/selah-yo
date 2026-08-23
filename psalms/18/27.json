@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Pẹ̀lú ẹni mímọ́, Iwọ ń fi mímọ́ hàn; ṣùgbọ́n pẹ̀lú ẹni tí ó yí ara rẹ̀ padà, Iwọ ń yí ⟨padà pẹ̀lú ìlọ́po⟩.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "ẹni mímọ́"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "Iwọ ń fi mímọ́ hàn"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ṣùgbọ́n pẹ̀lú"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ẹni tí ó yí ara rẹ̀ padà"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "Iwọ ń yí padà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:11.932497009Z",
+  "model": "glm-5.3"
+}

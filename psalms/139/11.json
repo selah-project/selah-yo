@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Mo sì wí pé, ṣé òkúkú ni yóò bò mí; ṣùgbọ́n ìru ibi ti ṣe ìmọ́lẹ̀ nítorí mi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mo sì wí pé"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ṣé"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "òkúkú"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "yóò bò mí"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "sùgbọ́n ìru"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ti ṣe ìmọ́lẹ̀"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "nítorí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:52.590791673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Ṣé Elohim kì í ṣe ṣe ìwádìí ⟨nǹkan⟩ yìí? Nítorí òun mọ́ ìkọkọ́ ⟨ti⟩ ọkàn.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ṣé … kì í ṣe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ń ṣe ìwádìí"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨nǹkan⟩ yìí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "ìkọkọ́"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:20.246142866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Pá ẹ̀gbá ènìyàn-búburú àti ìkà; bẹ̀ wò ìkà rẹ̀ — kí ó má baà ṣe é rí mọ́.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Pá"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ẹ̀gbá"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ènyàn-búburú"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "àti ìkà"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "bẹ̀ wò"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "ìkà rẹ̀"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kí ó má baà ṣe é"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "rí i mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:16.747514895Z",
+  "model": "glm-5.3"
+}

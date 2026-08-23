@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àti láti ọmọ ọdún àádọ́ta, yóò padà kúrò nínú iṣẹ́ ogun iṣẹ́ ìsinmi, kò níì ṣiṣẹ́ mọ́.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "àti láti ọmọ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "àádọ́ta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "yóò padà"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "kúrò nínú iṣẹ́ ogun"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "iṣẹ́ ìsinmi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò níì"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ṣiṣẹ́"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:52:21.621124800Z",
+  "model": "glm-5.3"
+}

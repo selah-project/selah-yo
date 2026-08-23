@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 83,
+  "translation": "Wọ́n ṣègbé ní En-Dor; wọ́n di adírọ́ fún ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Wọ́n ṣègbé"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ní"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "En-Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wọ́n di"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "adírọ́"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "fún ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:52.221446105Z",
+  "model": "glm-5.3"
+}

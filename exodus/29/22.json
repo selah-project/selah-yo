@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 29:22",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Íwọ ó sì gba lára ìrọ̀rà ọ̀gbẹ́ náà, ìrọ̀rà-ẹ̀yin rẹ̀, àti ⟨את⟩ ìrọ̀rà tí ó bo ìfun, ⟨את⟩ etí ẹ̀dọ̀, ⟨את⟩ àwọn ikúnrẹ̀ méjì, àti ⟨את⟩ ìrọ̀rà tí ó wà lórí wọn, àti ⟨את⟩ ẹ̀sẹ̀ ọ̀tún — nítorí tí ọ̀gbẹ́ ìpàdé ìfi-lógo-jẹ ni.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "íwọ ó sì gba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lára"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ọ̀gbẹ́ náà"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ìrọ̀rà"
+    },
+    {
+      "surface": "והאליה",
+      "gloss": "ìrọ̀rà-ẹ̀yin rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ìrọ̀rà tí ó bo ìfun"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ìrọ̀rà"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "tí ó bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìfun"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ìfun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "etí ẹ̀dọ̀"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "etí"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ẹ̀dọ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ikúnrẹ̀ méjì"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "àwọn ikúnrẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ìrọ̀rà tí ó wà lórí wọn"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ìrọ̀rà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ó wà lórí wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀sẹ̀ ọ̀tún"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ẹ̀sẹ̀"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ọ̀tún"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ọ̀gbẹ́"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ìpàdé ìfi-lógo-jẹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:28:28.823742661Z",
+  "model": "glm-5.3"
+}

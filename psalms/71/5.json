@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Nítorí ìwọ ni ìrètí mi, Adonai Yahweh, ìgbẹ́kẹ̀ mi láti ìgbà èwe mi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ ni"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ìrètí mi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "ìgbẹ́kẹ̀ mi"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "láti ìgbà èwe mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:07.631088261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Àwọn baba wa ní Mitzrayim kò gbọ́n mọ́ ⟨את⟩ àwọn iyanu Rẹ, kò ranti ⟨את⟩ ìpọ̀njù chesed Rẹ; wọ́n yà wọ́n kọ̀ ní ódò — ní odò Suph.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Àwọn baba wa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ní Mitzrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "gbọ́n mọ́"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "àwọn iyanu Rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ranti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìpọ̀njù chesed Rẹ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ìpọ̀njù"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "chesed Rẹ"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "wọ́n yà wọ́n kọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ódò"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ní odò"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:45.074805996Z",
+  "model": "glm-5.3"
+}

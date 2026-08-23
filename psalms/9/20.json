@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Dìde, Yahweh; jẹ́ kí ènìyàn-ikú kí ó lè má ṣe gbéraga; jẹ́ kí a dájọ́ gbogbo àwọn orílẹ̀-èdè níwájú ojú rẹ.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Dìde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jẹ́ kí ó má ṣe"
+    },
+    {
+      "surface": "יָעֹז",
+      "gloss": "gbéraga"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "ènìyàn-ikú"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "jẹ́ kí a dájọ́"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gbogbo àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "על",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:57.293519432Z",
+  "model": "glm-5.3"
+}

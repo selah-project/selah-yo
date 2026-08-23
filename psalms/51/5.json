@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Nítorí pé mo mọ ìwọ̀-búra mi, ẹ̀ṣẹ̀ mi sì wà níwájú mi nígbà gbogbo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí pé"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ìwọ̀-búra mi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mọ"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "àti ẹ̀ṣẹ̀ mi"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "níwájú mi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbà gbogbo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:22.417149632Z",
+  "model": "glm-5.3"
+}

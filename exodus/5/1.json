@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 5:1",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Lẹ́yìn ìgbà náà, Moshe àti Aharon wá, wọ́n sì wí fún Paroh bíi èyí: Báyìí ni Yahweh, Elohim ti Israẹl, wí: Ṣàṣẹ ìjọ mi, kí wọn lè ṣe àjọ̀dún fún mi ní ìdanú.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "lẹ́yìn ìgbà náà"
+    },
+    {
+      "surface": "באו",
+      "gloss": "wá"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "àti Aharon"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bíi èyí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ṣàṣẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọ mi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ìjọ mi"
+    },
+    {
+      "surface": "ויחגו",
+      "gloss": "kí wọn lè ṣe àjọ̀dún"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní ìdanú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:10.603468673Z",
+  "model": "glm-5.3"
+}

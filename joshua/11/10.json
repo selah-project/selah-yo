@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Yehoshua sì padà ní àkókò yẹn, ó sì gba ⟨את⟩ Hatsor, ó sì lu ⟨את⟩ ọba rẹ̀ pẹ̀lú idà; nítorí Hatsor, tẹ́lẹ̀tẹ́lẹ̀, ni ó jẹ́ orí gbogbo àwọn ìjọba wọnyí.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ó sì padà"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ní àkókò"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọba rẹ̀"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ọba rẹ̀"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ó lu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "pẹ̀lú idà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "tẹ́lẹ̀tẹ́lẹ̀"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ní"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "àwọn ìjọba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:27:02.698477406Z",
+  "model": "glm-5.3"
+}

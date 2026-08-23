@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Kí Yisrael mú ⟨את⟩ gbogbo àwọn ìlú wọnyí, kí Yisrael sì gbé nínú gbogbo àwọn ìlú HaEmori, ní Cheshbon àti ní gbogbo àwọn ìlú kéékèèke rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kí Yisrael mú"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ìlú wọnyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "àwọn ìlú wọnyí"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kí Yisrael sì gbé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nínú gbogbo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "HaEmori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "ní Cheshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "àti ní gbogbo"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "àwọn ìlú kéékèèke rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:58:48.703388120Z",
+  "model": "glm-5.3"
+}

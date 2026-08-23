@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Nítorí tí ìránṣẹ́ mi ni wọ́n, àwọn tí mo mú ⟨את⟩ wọn jáde kúrò ní ilẹ̀ Mitzrayim; kì í ṣe bíi ìtà ìránṣẹ́ ni a lè ta wọn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ìránṣẹ́ mi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni wọ́n"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "àwọn tí"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "mo mú jáde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kúrò ní ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "ni a lè ta wọn"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "bíi ìtà"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ìránṣẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:54.929725609Z",
+  "model": "glm-5.3"
+}

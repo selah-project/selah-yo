@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Iyob sì wà láàyè lẹ́yìn èyí ọdún ọgọ́rùn-ún àti mèrìnlélógójì, ó sì rí ⟨את⟩ àwọn ọmọ rẹ̀ àti ⟨את⟩ àwọn ọmọ àwọn ọmọ rẹ̀, ìran mẹ́rin.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "sì wà láàyè"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ọgọ́rùn-ún"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "àti mèrìnlélógójì"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ó sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "mẹ́rin"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "ìran"
+    }
+  ],
+  "timestamp": "2026-08-23T04:32:38.503417763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Yoktan sì bí ⟨את⟩ Almodad, àti ⟨את⟩ Sheleph, àti ⟨את⟩ Chattsermaveth, àti ⟨את⟩ Yerach.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Yoktan sì"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Sheleph"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Sheleph"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Chattsermaveth"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chattsermaveth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerach"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:12.495741422Z",
+  "model": "glm-5.3"
+}

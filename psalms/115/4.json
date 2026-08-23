@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 115,
+  "translation": "Àwọn òrìṣà wọn — fàdákà àti wúrà, iṣẹ́ ọwọ́ ènìyàn.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Àwọn òrìṣà wọn"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "àti wúrà"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:50.027960885Z",
+  "model": "glm-5.3"
+}

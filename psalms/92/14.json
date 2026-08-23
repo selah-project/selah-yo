@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 92,
+  "translation": "Wọ́n gbìn wọ́n sínú ilé Yahweh, nínú àárín-ọ̀nà Elohim wa ni wọ́n ti ń ṣàn lásàn.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "wọ́n gbìn wọ́n"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sínú ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "nínú àárín-ọ̀nà"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "wọ́n ń ṣàn lásàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:29.222567376Z",
+  "model": "glm-5.3"
+}

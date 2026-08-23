@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Iwọ sì gbọ́dọ̀ gbé ⟨את⟩ Àpótí-Ìjẹ́wọ́ síbẹ̀, iwọ sì gbọ́dọ̀ bo Àpótí náà nípasẹ̀ ⟨את⟩ àwò.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Iwọ sì gbọ́dọ̀ gbé … síbẹ̀"
+    },
+    {
+      "surface": "שם",
+      "gloss": "síbẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Àpótí-Ìjẹ́wọ́"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Àpótí"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "Ìjẹ́wọ́"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "iwọ sì gbọ́dọ̀ bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní orí"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Àpótí náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwò"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "àwò"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:28.198305753Z",
+  "model": "glm-5.3"
+}

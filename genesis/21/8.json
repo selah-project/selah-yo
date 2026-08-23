@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ọmọ náà sì dàgbà, a sì fi ọmú sílẹ̀ fún un; Avraham sì ṣe àsè ńlá ní ọjọ́ tí wọ́n fi ọmú sílẹ̀ fún ⟨את⟩ Yitschak.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "sì dàgbà"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "Ọmọ náà"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "a sì fi ọmú sílẹ̀ fún un"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "àsè"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "tí wọ́n fi ọmú sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-22T23:00:24.596270104Z",
+  "model": "glm-5.3"
+}

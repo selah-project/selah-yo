@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ṣùgbọ́n ìnífẹ̀ẹ̀ rẹ̀ ni nínú Tọ́rà Yahweh, nínú Tọ́rà rẹ̀ ló ń ṣe èrò-ọkàn láọ́sán àti lóru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ṣùgbọ́n"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ìyẹn ẹ̀yìn-ìdí"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "nínú Tọ́rà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "ìnífẹ̀ẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "nínú Tọ́rà rẹ̀"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ń ṣe èrò-ọkàn"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "láọ́sán"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "àti lóru"
+    }
+  ],
+  "timestamp": "2026-08-23T03:23:33.652330568Z",
+  "model": "glm-5.3"
+}

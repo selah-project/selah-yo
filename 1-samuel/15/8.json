@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ó sì mú ⟨את⟩ Agag ọba Amalek lààyè, ó sì fi ⟨את⟩ gbogbo ènìyàn náà léṣe ní ẹnu idà.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "sì mú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag ọba Amalek"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lààyè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ènìyàn náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "fi... léṣe"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ní ẹnu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:48:40.787274086Z",
+  "model": "glm-5.3"
+}

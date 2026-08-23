@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ẹ sọ ⟨את⟩ ògo rẹ̀ jáde láàárín àwọn orílẹ̀-èdè; láàárín gbogbo àwọn ènìyàn, iṣẹ́ ìyanu rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "ẹ sọ jáde"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "láàárín àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ògo rẹ̀"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ògo rẹ̀"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "láàárín gbogbo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "iṣẹ́ ìyanu rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:13:54.735311708Z",
+  "model": "glm-5.3"
+}

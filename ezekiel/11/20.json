@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 11:20",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Kí wọn lè máa rìn nínú òfin mi, kí wọn sì pa ⟨את⟩ àwọn òdodo mi mọ́, kí wọn sì ṣe wọn; wọn yóò sì jẹ́ ènìyàn mi, èmi yóò sì jẹ́ Elohim wọn.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kí wọn lè"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "nínú òfin mi"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "máa rìn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sì",
+      "marks": "àwọn òdodo mi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "àwọn òdodo mi"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "kí wọn pa mọ́"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "kí wọn sì ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "wọn yóò sì jẹ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "èniyàn mi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "èmi yóò sì"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:38:44.461350535Z",
+  "model": "glm-5.3"
+}

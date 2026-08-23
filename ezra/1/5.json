@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Wọ́n sì díde — àwọn olórí baba ní Yehuda àti Binyamin, àti àwọn àlùfáà, àti àwọn Lefi, gbogbo ẹni tí Elohim gbé ⟨את⟩ ẹ̀mí rẹ̀ dúró sí láti gbé yọ láti kó ⟨את⟩ ilé Yahweh tí ó wà ní Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Wọ́n sì díde"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ní Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "àti Binyamin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "àti àwọn àlùfáà"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "àti àwọn Lefi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "gbé dúró sí"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí rẹ̀"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ẹ̀mí rẹ̀"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "láti gbé yọ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "láti kó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T04:55:59.691050265Z",
+  "model": "glm-5.3"
+}

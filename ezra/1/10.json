@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àwọn kọ́fọ́rẹ̀ wúrà, ọgbọ̀n; àwọn kọ́fọ́rẹ̀ fàdákà, èjìkéjì, ọgọ́rùn-ún mẹ́rin àti mẹ́wàá; àwọn ohun-èlò míràn, ẹgbẹ̀ta kan.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "àwọn kọ́fọ́rẹ̀"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ọgbọ̀n"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "àwọn kọ́fọ́rẹ̀"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "èjìkéjì"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mẹ́rin"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́rùn-ún"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "àti mẹ́wàá"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "àwọn ohun-èlò"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "míràn"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbẹ̀ta kan"
+    }
+  ],
+  "timestamp": "2026-08-23T04:55:24.382337310Z",
+  "model": "glm-5.3"
+}

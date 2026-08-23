@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Fá ìfẹ́-olóòtítọ́ rẹ já sí àwọn tí ó mọ̀ ọ́, àti ṣẹdá rẹ sí àwọn tí ọkàn wọn ṣe óótọ́.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "fá ... já"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ìfẹ́-olóòtítọ́ rẹ"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "sí àwọn tí ó mọ̀ ọ́"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "àti ṣẹdá rẹ"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "sí àwọn tí ó tọ́"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:39.764229786Z",
+  "model": "glm-5.3"
+}

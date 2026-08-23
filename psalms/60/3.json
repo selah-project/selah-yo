@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 60,
+  "translation": "Elohim, O ti sọ wa nù, O ti fọ wá, O ti bínú; jẹ́ kí O pada sí ọ̀dọ̀ wa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "O ti sọ wa nù"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "O ti fọ wá"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "O ti bínú"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "jẹ́ kí O pada"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sí ọ̀dọ̀ wa"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:04.500208164Z",
+  "model": "glm-5.3"
+}

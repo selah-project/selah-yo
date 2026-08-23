@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 58,
+  "translation": "Ṣáájú kí ìkòkò yín tó mọ̀ ìgbà àtẹ́gùn, ó máa fi gbigbá gbé wọn pẹ̀lú ìjínigbe nínú ìbínú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "ṣáájú kí"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "tó mọ̀"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "ìkòkò yín"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "ìgbà àtẹ́gùn"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bí"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gbigbá"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bí"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ìjínigbe nínú ìbínú"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "ó máa fi ... gbé wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:29.189176417Z",
+  "model": "glm-5.3"
+}

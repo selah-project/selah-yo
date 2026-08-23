@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Shemuël sì pe ⟨את⟩ àwọn ènìyàn náà sí Yahweh sí Mitzpah.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ó sì pe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpah náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:46:10.207725815Z",
+  "model": "glm-5.3"
+}

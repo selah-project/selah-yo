@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Yahweh sì wí pé, Ojú-ìwọ ti rí i gangan, ìrùsẹ̀ gbogbo ènìyàn mi tí ó wà ní Mitzrayim; ọ́ ti gbọ́ ìkigbe wọn nítorí àwọn amùgbọ̀ntọrẹ̀ wọn, nítorí èmo tí wọ́n ń ṣe lọ́wọ́, mo ti mọ̀ ọ́.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ojú-ìwọ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ti rí i gangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìrùsẹ̀"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ìrùsẹ̀"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ènìyàn mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìkigbe wọn"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "ìkigbe wọn"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mo ti gbọ́"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "àwọn amùgbọ̀ntọrẹ̀ wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mo ti mọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èmo tí wọ́n ń ṣe lọ́wọ́"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "èmo tí wọ́n ń ṣe lọ́wọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:28.423496406Z",
+  "model": "glm-5.3"
+}

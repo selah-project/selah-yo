@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "àti ⟨את⟩ Baalat àti ⟨את⟩ Tamar ní àgbẹ̀dé, ní ilẹ̀ náà.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní àgbẹ̀dé"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:16:10.507102503Z",
+  "model": "glm-5.3"
+}

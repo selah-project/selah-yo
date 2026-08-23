@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Fún àwọn ọmọ Yosef — fún Efrayim, Elishama, ọmọ Amihud; fún Menasheh, Gamliel, ọmọ Pedah-tsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Fún àwọn ọmọ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "fún Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "fún Menasheh"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedah-tsur"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:55.204560137Z",
+  "model": "glm-5.3"
+}

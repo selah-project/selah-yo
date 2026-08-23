@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Ó sì bùkún wọn ní ọjọ́ yẹn, ó sì wí pé, Nípasẹ̀ rẹ ni Israẹli yóò fi bùkún, wí pé, Ki Elohim sọ ọ́ di bíi Efrayim àti bíi Menashe. Ó sì gbé ⟨את⟩ Efrayim síwájú Menashe.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "Ó sì bùkún wọn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Nípasẹ̀ rẹ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "yóò fi bùkún"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "Ki … sọ ọ́ di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "bíi Efrayim"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "àti bíi Menashe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "Ó sì gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:13:58.468644010Z",
+  "model": "glm-5.3"
+}

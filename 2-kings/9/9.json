@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Èmi yóò sì fi ⟨את⟩ ilé Ahab dá bíi ilé Yarovam, ọmọ Nevat, àti bíi ilé Baasha, ọmọ Achiyah.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Èmi yóò sì fi…dá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "bíi ilé"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "àti bíi ilé"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achiyah"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:45.937410499Z",
+  "model": "glm-5.3"
+}

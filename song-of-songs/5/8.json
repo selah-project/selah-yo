@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Mo bùrá pa yín mọ́ ⟨את⟩ yín, àwọn ọmọbìnrin Yerushalayim: tí ẹ bá rí ⟨את⟩ olùfẹ́ mi, kí ni ẹ ó sọ fún un? — pé èmi ṣe àìsàn ìfẹ́.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Mo bùrá pa ... mọ́"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "àwọn ọmọbìnrin Yerushalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "àwọn ọmọbìnrin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí ẹ bá"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "ẹ rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olùfẹ́ mi"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "olùfẹ́ mi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ẹ ó sọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "mo ṣe àìsàn"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ìfẹ́"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:33:32.211812590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Nítorí tí ìròyìn Mi kì í ṣe ìròyìn yín, àti pé ọ̀nà yín kì í ṣe ọ̀nà Mi, wí ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "ìròyìn Mi"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "ìròyìn yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti pé… kì í ṣe"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ọ̀nà yín"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ọ̀nà Mi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wí ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T02:00:11.790809172Z",
+  "model": "glm-5.3"
+}

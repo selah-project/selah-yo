@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "David sì fi ⟨את⟩ àwọn ọ̀rọ̀ yìí sí inú ọkàn rẹ̀, ó sì bẹ̀rù púpọ̀ níwájú Akish, ọba Gath.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "sì fi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀rọ̀ yìí"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "inú ọkàn rẹ̀"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ó sì bẹ̀rù"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    }
+  ],
+  "timestamp": "2026-08-23T00:52:44.051352819Z",
+  "model": "glm-5.3"
+}

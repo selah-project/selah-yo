@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Ó sì ṣe ⟨את⟩ àwọn igi ìgun, fún tíàbúnàkà náà — ọgbọ̀n-dín-méjì (ogún) igi ìgun ní ìhà gúúsù, tí ó sì tọ̀ sí gúúsù jùlọ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn igi ìgun"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "àwọn igi ìgun"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "fún tíàbúnàkà náà"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "igi ìgun"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ní ìhà"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "gúúsù"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "tí ó sì tọ̀ sí gúúsù jùlọ"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:38.857004620Z",
+  "model": "glm-5.3"
+}

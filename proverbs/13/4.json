@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ọkàn aláìṣiṣẹ́ ń fẹ́ ṣùgbọ́n kò ní; ṣùgbọ́n ọkàn àwọn alára máa pon dára.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "ń fẹ́"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ṣùgbọ́n kò ní"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "aláìṣiṣẹ́"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ṣùgbọ́n ọkàn"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "àwọn alára"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "máa pon dára"
+    }
+  ],
+  "timestamp": "2026-08-23T04:06:58.605449509Z",
+  "model": "glm-5.3"
+}

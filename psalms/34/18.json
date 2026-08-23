@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Wọ́n kígbe, Yahweh gbọ́, Ó sì gbà wọn là nípa gbogbo ìṣòro wọn.",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "wọ́n kígbe"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "sì nípa gbogbo"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "ìṣòro wọn"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "Ó gbà wọn là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:15.199009273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 4:13",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Mordecai sọ láti dáhùn sí Ester: má ṣe rò nínú ⟨ẹ̀mí⟩ rẹ pé iwọ lè ṣàlà ní ilé ọba jù gbogbo àwọn Yehudi lọ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sọ wí"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "láti dáhùn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תדמי",
+      "gloss": "ró"
+    },
+    {
+      "surface": "בנפשך",
+      "gloss": "nínú ẹ̀mí rẹ"
+    },
+    {
+      "surface": "להמלט",
+      "gloss": "láti ṣàlà"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "jù gbogbo"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "àwọn Yehudi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:44:12.443863896Z",
+  "model": "glm-5.3"
+}

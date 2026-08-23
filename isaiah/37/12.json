@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ṣé àwọn elohim àwọn orílẹ̀-èdè náà, tí àwọn baba mi ti pa run — ⟨את⟩ Gozan àti ⟨את⟩ Charan, àti Retzef àti àwọn ọmọ Eden, tí ó wà ní Telassar — ṣe gba ⟨את⟩ wọn là?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "ṣé … gba wọn là"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọn"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "àwọn elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ti àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ti pa run"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "àwọn baba mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "àti Retzef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "àti àwọn ọmọ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "wà ní Telassar"
+    }
+  ],
+  "timestamp": "2026-08-23T01:53:00.911726806Z",
+  "model": "glm-5.3"
+}

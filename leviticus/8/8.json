@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì fi ⟨את⟩ àkànṣe ọkàn róri rẹ̀, ó sì fi ⟨את⟩ Urim àti ⟨את⟩ Thummim sí àkànṣe ọkàn náà.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "róri rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àkànṣe ọkàn"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "àkànṣe ọkàn"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "àkànṣe ọkàn náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Thummim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Thummim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:41.507335061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ẹni tí ó ń yọrí àwọn òkúta yóò ṣàrùn nípa wọn; ẹni tí ó ń pèlà àwọn igi yóò fara ṣeé nípa wọn.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "ẹni tí ó ń yọrí"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "àwọn òkúta"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "yóò ṣàrùn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nípa wọn"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "ẹni tí ó ń pèlà"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "àwọn igi"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "yóò fara ṣeé"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nípa wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:28.929518017Z",
+  "model": "glm-5.3"
+}

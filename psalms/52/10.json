@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 52,
+  "translation": "Ṣùgbọ́n èmi, bí òlíífù èépẹ́ ní ilé Elohim, mo gbẹ́yìn nínú chesed Elohim, títí láé láé.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "bí òlíífù"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "èépẹ́"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mo gbẹ́yìn"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "nínú chesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "títí láé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "láé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:57.891388087Z",
+  "model": "glm-5.3"
+}

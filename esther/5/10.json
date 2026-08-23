@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ṣùgbọ́n Haman fi agbára pẹ́ ara rẹ̀, ó sì wá sí ilé rẹ̀; ó sì ránṣẹ́, ó gbé ⟨את⟩ àwọn ọrẹ́ rẹ̀ àti ⟨את⟩ Zeresh aya rẹ̀ wá.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "fi agbára pẹ́ ara rẹ̀"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ó wá sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ó ránṣẹ́"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó gbé…wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọrẹ́ rẹ̀"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "àwọn ọrẹ́ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "aya rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:09:56.354324586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Kí ẹ sì ṣọ́ ⟨את⟩ àwọn òfin ìpinnu mi àti ⟨את⟩ àwọn ìdájọ́ mi, èyítí ènìyàn gbọdọ́ ṣe ⟨את⟩ wọn tí ó sì jẹ́ láàyè nínú wọn; èmi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kí ẹ sì ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òfin ìpinnu mi"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "àwọn òfin ìpinnu mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìdájọ́ mi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "àwọn ìdájọ́ mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyítí"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gbọdọ́ ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "tí ó sì jẹ́ láàyè"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nínú wọn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:28.034992988Z",
+  "model": "glm-5.3"
+}

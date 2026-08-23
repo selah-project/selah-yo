@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Pẹ̀lú ọfà àti pẹ̀lú bọ́ọ̀ṣì ni ẹni yóò wàá wọ ibẹ̀; nítorí òkùnta àti ẹ̀gún ni gbogbo ilẹ̀ náà yóò di.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "pẹ̀lú ọfà"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "àti pẹ̀lú bọ́ọ̀ṣì"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "yóò wàá wọ ibẹ̀"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "òkùnta"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "àti ẹ̀gún"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yóò di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:56.133486913Z",
+  "model": "glm-5.3"
+}

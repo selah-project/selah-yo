@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àti ẹni tí kò gbé ọkàn rẹ̀ sí ọ̀rọ̀ Yahweh fi ⟨את⟩ àwọn ìránṣẹ́ rẹ̀ àti ⟨את⟩ ẹran-ọ̀sìn rẹ̀ sílẹ̀ ní pápá.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Àti ẹni tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹran-ọ̀sìn rẹ̀"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ẹran-ọ̀sìn rẹ̀"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ní pápá"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:33.726860824Z",
+  "model": "glm-5.3"
+}

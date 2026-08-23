@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ṣe ìyàtọ̀ míràn ní àwọn ìfẹ́ olóòtítọ́ rẹ, Olùgbàlà àwọn tí ó ń gbàbọ́ lọ́dọ̀ rẹ, láti àwọn tí ó dìde sí wọn, ní ọwọ́ ọ̀tún rẹ.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "Ṣe ìyàtọ̀ míràn"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "àwọn ìfẹ́ olóòtítọ́ rẹ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Olùgbàlà"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "àwọn tí ó ń gbàbọ́ lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "láti àwọn tí ó dìde sí wọn"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "ní ọwọ́ ọ̀tún rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:15.415663543Z",
+  "model": "glm-5.3"
+}

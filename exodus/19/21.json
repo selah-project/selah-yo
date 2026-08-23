@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 19:21",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Yahweh sọ fún Moshe: dà sílẹ̀, fi ẹ̀rí kọ́ àwọn ènìyàn, kí wọn má baà ṣí ṣíṣẹ́ sí Yahweh láti wò Ó, kí ó má baà ṣubú lórí wọn púpọ̀.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "רד",
+      "gloss": "dà sílẹ̀"
+    },
+    {
+      "surface": "העד",
+      "gloss": "fi ẹ̀rí kọ́"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí wọn má baà"
+    },
+    {
+      "surface": "יהרסו",
+      "gloss": "ṣíṣẹ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "láti wò"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "kí ó ṣubú"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "lórí wọn"
+    },
+    {
+      "surface": "רב",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:12.960084381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Tí ẹ bá fi ẹran-ìṣọ̀fọ̀ àlàáfíà sí Yahweh, fún ìfọwọ́sí yín ni ẹ gbọdọ̀ pa á.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "tí ẹ bá"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ẹ gbọdọ̀ pa á"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ẹran-ìṣọ̀fọ̀"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "fún ìfọwọ́sí yín"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "ẹ gbọdọ̀ pa á"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:22.113300948Z",
+  "model": "glm-5.3"
+}

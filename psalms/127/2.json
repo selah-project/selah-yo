@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 127,
+  "translation": "Ní àìṣe ni fún yín, àwọn tí ń jí kí wón dìde, tí ń gbẹ̀yìn jókóò, tí ń jẹ búrẹ́dì ti ìnira; bẹ́ẹ̀ ni ó fi ń fún ẹni tí ó fẹ́ràn rẹ̀ ní sùn.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "ní àìṣe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "àwọn tí ń jí kí oòrùn"
+    },
+    {
+      "surface": "קום",
+      "gloss": "dìde"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "tí ń gbẹ̀yìn"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "jókóò"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "tí ń jẹ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "búrẹ́dì"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "ti ìnira"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ó ń fún"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "ẹni tí ó fẹ́ràn rẹ̀"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "sùn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:50.313478822Z",
+  "model": "glm-5.3"
+}

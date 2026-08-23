@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Yóò dúpẹ́ fún Ẹ, Yahweh, gbogbo iṣẹ́ Rẹ; àwọn olùfọkàn-tínlọ̀ Rẹ yóò bùkún Ẹ.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "yóò dúpẹ́ fún Ẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "iṣẹ́ Rẹ"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "àwọn olùfọkàn-tínlọ̀ Rẹ"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "yóò bùkún Ẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:17.821371716Z",
+  "model": "glm-5.3"
+}

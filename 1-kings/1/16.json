@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Bat-Sheva sì forí kìlẹ̀, ó sì sùn mọ́lẹ̀ fún ọba náà; ọba náà sì wí pé, Kí ló wà fún ọ?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "sì forí kìlẹ̀"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ó sì sùn mọ́lẹ̀ fún un"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fún ọba náà"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kí ló wà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:01.323131975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Àwọn akọrin wà níwájú, àwọn olùlà orin ń tẹ̀ lé, láàárín àwọn ọmọbìnrin agbèga tí ó ń lu ṣàkárà.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "wà níwájú"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "àwọn akọrin"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ń tẹ̀ lé"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "àwọn olùlà orin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "àwọn ọmọbìnrin agbèga"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "tí ó ń lu ṣàkárà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:38.989388442Z",
+  "model": "glm-5.3"
+}

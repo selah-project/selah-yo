@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 9:3",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ní ọjọ́ kẹrìnlá oṣù yìí, láàárín àwọn ìrọ́lẹ́, ẹ jọwọ́ ṣe ⟨את⟩ ẹ́ ní àkókò rẹ̀ tí a yàn; gẹ́gẹ́ bí gbogbo òfin rẹ̀ àti gbogbo ìdájọ́ rẹ̀ ni ẹ ti ṣe ⟨את⟩ ẹ́.",
+  "tokens": [
+    {
+      "surface": "בארבעה",
+      "gloss": "ní … kẹrin"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lá (kẹrìnlá)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "oṣù"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "àwọn ìrọ́lẹ́"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ẹ ṣe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ẹyọ-ìrántí Pésaḣ"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "ní àkókò rẹ̀ tí a yàn"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gẹ́gẹ́ bí gbogbo"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "òfin rẹ̀"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "àti gẹ́gẹ́ bí gbogbo"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ìdájọ́ rẹ̀"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ẹ ti ṣe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ẹyọ-ìrántí Pésaḣ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:53:37.559922461Z",
+  "model": "glm-5.3"
+}

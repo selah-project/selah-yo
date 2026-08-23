@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Ayé gbóná sílẹ̀, bẹ́ẹ̀ ni ọ̀run rọ̀ omi ìṣan sílẹ̀, níwájú Elohim — Sinai yìí gan-an — níwájú Elohim, Elohim ti Israẹli.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Ayé"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "gbóná sílẹ̀"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "rọ̀ omi ìṣan sílẹ̀"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yìí gan-an"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:48.447897750Z",
+  "model": "glm-5.3"
+}

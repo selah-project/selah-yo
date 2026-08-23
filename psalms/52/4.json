@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 52,
+  "translation": "Ìbàjẹ́ ni ahọ́n rẹ ń ṣèrò dà; bí abẹ́ títí lásán ni, ẹni tí ó ń ṣe ìdanúdànu.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Ìbàjẹ́"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ń ṣèrò dà"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ahọ́n rẹ"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "bí abẹ́"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "títí lásán"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ìdanúdànu"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:11.308248767Z",
+  "model": "glm-5.3"
+}

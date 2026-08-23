@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ṣùgbọ́n nísinsìnyí, èyí tí ó ń gbé ní Yerushalayim àti ọkùnrin Yehudah, ẹ dájọ́, ẹ bá mi ṣe, láàárín mi àti ilẹ̀-oko mi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ṣùgbọ́n nísinsìnyí"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "èyí tí ó ń gbé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ní Yerushalayim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "àti ọkùnrin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ẹ dájọ́"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ẹ bá mi ṣe"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "láàárín mi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ilẹ̀-oko mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:42:36.956894471Z",
+  "model": "glm-5.3"
+}

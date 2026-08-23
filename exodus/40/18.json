@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 40:18",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Moṣe sì gbé ⟨the⟩ Mishkan dìde, ó sì fi ⟨את⟩ àwọn ipilẹ̀ rẹ̀, ó sì gbé ⟨את⟩ àwọn páńpálà rẹ̀ sí ipò, ó sì fi ⟨את⟩ àwọn ẹ̀wọn rẹ̀, ó sì gbé ⟨את⟩ àwọn òógun rẹ̀ dìde.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ó sì gbé ... dìde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ipilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "àwọn ipilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì gbé ... sí ipò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn páńpálà rẹ̀"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "àwọn páńpálà rẹ̀"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ẹ̀wọn rẹ̀"
+    },
+    {
+      "surface": "בריחיו",
+      "gloss": "àwọn ẹ̀wọn rẹ̀"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ó sì gbé ... dìde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òógun rẹ̀"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "àwọn òógun rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:42.140002399Z",
+  "model": "glm-5.3"
+}

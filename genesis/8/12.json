@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì dúró síi, ọjọ́ méje míràn, ó sì rán ⟨את⟩ adàbà náà lọ; ó kò sì tún padà sí ọ̀dọ̀ rẹ̀ rárá mọ́.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "ó sì dúró"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "síi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "méje"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "míràn"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì rán … lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adàbà náà"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "adàbà náà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "tún … mọ́"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "padà"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sí ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "rárá"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:18.070165772Z",
+  "model": "glm-5.3"
+}

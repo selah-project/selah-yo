@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Bí wọ́n ṣe ń fò ká lọ́wọ́ èémí, bẹ́ẹ̀ ni kí ó sọ wọ́n ká; bí ìṣàn tí ń ṣàn lọ́wọ́ iná, bẹ́ẹ̀ ni kí àwọn èṣèṣẹ̀ parun níwájú Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "bí wọ́n ṣe ń fò ká lọ́wọ́ èémí"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "èémí"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "kí ó sọ wọ́n ká"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "bí ìṣàn tí ń ṣàn"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "òòyà"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "kí àwọn èṣèṣẹ̀ parun"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn èṣèṣẹ̀"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:55.939996346Z",
+  "model": "glm-5.3"
+}

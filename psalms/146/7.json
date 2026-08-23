@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 146,
+  "translation": "Ẹni tí ó ń ṣe ìdájọ́ fún àwọn tí wọ́n ń tẹ̀ ẹ̀ lábẹ̀, Ẹni tí ó ń fúnni ní oúnjẹ fún àwọn tí ebi ń pa; Yahweh ń tu àwọn tí wọ́n fi ẹ̀wọ̀n pa mọ́ sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ẹni tí ó ń ṣe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "fún àwọn tí wọ́n ń tẹ̀ lábẹ̀"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Ẹni tí ó ń fúnni ní"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "fún àwọn tí ebi ń pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "ń tu sílẹ̀"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "àwọn tí wọ́n fi ẹ̀wọ̀n pa mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:52.767460429Z",
+  "model": "glm-5.3"
+}

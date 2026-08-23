@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Mo líle tán pẹ̀lú ìgbe ìbànújẹ́ mi; gbogbo òru ni mo ṣe kí ilẹ̀ orun mi ó wúwù; mo fi ẹ̀rọ̀ mi fi rọ àga-orun mi.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "mo líle tán"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "pẹ̀lú ìgbe ìbànújẹ́ mi"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "mo ṣe kí ó wúwù"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "ilẹ̀ orun mi"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "pẹ̀lú ẹ̀rọ̀ mi"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "àga-orun mi"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "mo fi rọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:40.194696417Z",
+  "model": "glm-5.3"
+}

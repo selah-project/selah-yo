@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ẹ má ṣe gun, nítorí Yahweh kò sí nínú yín, kí ẹ má baà ṣègbé níwájú àwọn ọ̀tá yín.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "gun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "nínú yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí ẹ má baà"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "ṣègbé"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "àwọn ọ̀tá yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:55:49.701630534Z",
+  "model": "glm-5.3"
+}

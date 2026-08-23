@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Achaz sì bí ⟨את⟩ Jaarah; Jaarah sì bí ⟨את⟩ Alemeth, àti ⟨את⟩ Azmaveth, àti ⟨את⟩ Zimri; Zimri sì bí ⟨את⟩ Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaarah"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Jaarah"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "Jaarah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemeth"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemeth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Azmaveth"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmaveth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-08-23T05:12:33.650407984Z",
+  "model": "glm-5.3"
+}

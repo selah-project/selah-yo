@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Gẹ́gẹ́ bákan náà, àwọn òwe Shlomoh ni àwọn wọ̀nyí, tí àwọn ọkùnrin Chizkiyahu, ọba Yehudah, gbé ṣàtúnkọ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gẹ́gẹ́ bákan náà"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọ̀nyí"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "àwọn òwe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "gbé ṣàtúnkọ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-23T06:08:07.675455986Z",
+  "model": "glm-5.3"
+}

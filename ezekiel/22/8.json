@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Àwọn ohun mímọ́ Mi ni o ṣàìfúnní-lọ́lá sí, àti ⟨את⟩ àwọn ọjọ́-ìsinmi Mi ni o di aláìmímọ́.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Àwọn ohun mímọ́ Mi"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "o ṣàìfúnní-lọ́lá sí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọjọ́-ìsinmi Mi"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "àwọn ọjọ́-ìsinmi Mi"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "o di aláìmímọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T02:43:21.451083045Z",
+  "model": "glm-5.3"
+}

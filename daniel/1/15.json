@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 1:15",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ní ìparí ọjọ́ mẹ́wàá, ojú wọn farahan dáradára, wọ́n sì sanra ju gbogbo àwọn ọmọdé tí ń je ⟨את⟩ oúnjẹ ọba lọ.",
+  "tokens": [
+    {
+      "surface": "ומקצת",
+      "gloss": "ní ìparí"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "farahan"
+    },
+    {
+      "surface": "מראיהם",
+      "gloss": "ojú wọn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dáradára"
+    },
+    {
+      "surface": "ובריאי",
+      "gloss": "wọ́n sì sanra ju … lọ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ju … lọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "àwọn ọmọdé"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "tí ń je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oúnjẹ ọba"
+    },
+    {
+      "surface": "פתבג",
+      "gloss": "oúnjẹ iṣerere"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T04:46:32.663130304Z",
+  "model": "glm-5.3"
+}

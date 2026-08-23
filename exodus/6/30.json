@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Moshe sì wí níwájú Yahweh pé, Wo, èmi kò ní èrò ẹnu; báwo ni Paroh ṣe máa gbọ́ ti mi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "kò ní èrò"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "báwo ni"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "máa gbọ́"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ti mi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:26.883423483Z",
+  "model": "glm-5.3"
+}

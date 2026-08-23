@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ní oṣù ⟨ì⟩kíní, ní ọjọ́ kẹrìnlá tí oṣù, láàárín ìrọ̀lẹ́ méjì, ⟨ì⟩jẹ́ Pesach fún Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "ní oṣù"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "⟨ì⟩kíní"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ní mẹ́rin"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-lá (ẹ̀wá)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "tí oṣù"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ìrọ̀lẹ́ méjì"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:19.446935953Z",
+  "model": "glm-5.3"
+}

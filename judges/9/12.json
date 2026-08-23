@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àwọn igi sì wí fún igi àjàgbọn pé: Wá, ìwọ, jẹ́ ọba lórí wa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "àwọn igi"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "fún igi àjàgbọn"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "jẹ́ ọba"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "lórí wa"
+    }
+  ],
+  "timestamp": "2026-08-23T00:35:26.214811058Z",
+  "model": "glm-5.3"
+}

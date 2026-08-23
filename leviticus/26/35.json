@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Gbogbo ọjọ́ tí ó gbé ní ìwọ́fufo ilẹ̀ yóò sìn, ⟨את⟩ ohun tí kò sìn ní àwọn àláàbọ̀ yín, nígbà tí ẹ̀yin ń gbé lé e lórí.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "ìwọ́fufo"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "yóò sìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí kò sìn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "ó sìn"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "ní àwọn àláàbọ̀ yín"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "nígbà tí ẹ̀yin ń gbé"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "lé e lórí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:47:39.269014756Z",
+  "model": "glm-5.3"
+}

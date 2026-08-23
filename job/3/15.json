@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 3:15",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "tàbí pẹ̀lú àwọn íjògbọ́n tí wọ́n ní wúrà, àwọn tí wọ́n ń kún àwọn ilé wọn ní fàdákà.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "àwọn íjògbọ́n"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "הממלאים",
+      "gloss": "àwọn tí wọ́n ń kún"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "àwọn ilé wọn"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdákà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:15:30.517181765Z",
+  "model": "glm-5.3"
+}

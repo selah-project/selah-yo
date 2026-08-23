@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àwọn ènìyàn tí ó ń rìn nínú òkùnkùn ti rí ìmọ́lẹ̀ tó tóbi; àwọn tí ó ń gbé nínú ilẹ̀ ìkú-òkùnkùn, ìmọ́lẹ̀ ti fẹ̀ ló lórí wọn.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "tí ó ń rìn"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "nínú òkùnkùn"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wọ́n ti rí"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìmọ́lẹ̀"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn tí ó ń gbé"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nínú ilẹ̀"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ìkú-òkùnkùn"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìmọ́lẹ̀"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "ti fẹ̀ ló"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lórí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:43:18.766073711Z",
+  "model": "glm-5.3"
+}

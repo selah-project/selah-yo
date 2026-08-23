@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Mo óò ṣe ẹ̀ṣẹ́ Yahweh pẹ̀pẹ̀ pẹ̀lẹ́ ẹnu mi; láárin ọ̀pọ̀lọpọ̀ ènìyàn ni mo óò yìn ọ́ gbọ́.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "mo óò ṣe ẹ̀ṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pẹ̀pẹ̀"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "pẹ̀lẹ́ ẹnu mi"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "láárin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọ̀pọ̀lọpọ̀ ènìyàn"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "mo óò yìn ọ́ gbọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:22.435273774Z",
+  "model": "glm-5.3"
+}

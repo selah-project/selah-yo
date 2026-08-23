@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Èyí tí Yahweh Sabaoth ṣe ìbùkún fún, tí ó wí pé, A dúbọ́, Egypt íjọ mi, àti Ashur iṣẹ́ ọwọ́ mi, àti Israel ìjọba-ìní mi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Èyí tí"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ṣe ìbùkún fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaoth"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tí ó wí pé"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "A dúbọ́"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ìjọ mi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypt"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "àti iṣẹ́"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "àti ìjọba-ìní mi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-23T01:45:22.130420332Z",
+  "model": "glm-5.3"
+}

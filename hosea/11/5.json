@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Kí òun má ṣe padà sí ilẹ̀ Mitzrajim; Ashur, ìgbaradì ni ó jẹ́ ọba rẹ̀, nítorí pé wọn kọ̀ láti padà.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kí… má ṣe"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "padà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrajim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "Ashur, ìgbaradì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "ọba rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "wọn kọ̀"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "láti padà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:04:16.552764014Z",
+  "model": "glm-5.3"
+}

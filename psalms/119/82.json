@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ojú mi ti parí fún ọ̀rọ̀ rẹ, ní wí pé: ìgbà wo ni ìwọ yóò ṣe ìtùrí fún mi?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ti parí"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "fún ọ̀rọ̀ rẹ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ní wí pé"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ìgbà wo ni"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "ìwọ yóò ṣe ìtùrí fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:50.999179710Z",
+  "model": "glm-5.3"
+}

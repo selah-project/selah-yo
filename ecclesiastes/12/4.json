@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Àti pé àwọn ilẹ̀kùn yóò tì sí ọ̀nà ìlú, nígbà tí ohùn ìlọ yóò dínkù; ọ̀kan yóò sì jí sí ohùn ẹyẹ, gbogbo àwọn ọmọbìrin orin yóò sì kún.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "yóò tì"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "àwọn ilẹ̀kùn"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "sí ọ̀nà ìlú"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "yóò dínkù"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "ìlọ"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "yóò sì jí"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sí ohùn"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ẹyẹ"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "yóò sì kún"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "àwọn ọmọbìrin"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "orin"
+    }
+  ],
+  "timestamp": "2026-08-23T04:43:59.647505271Z",
+  "model": "glm-5.3"
+}

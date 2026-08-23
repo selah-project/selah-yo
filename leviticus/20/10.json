@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àti ọkùnrin tí ó bá lọ pẹ̀lú ⟨את⟩ aya ọkùnrin miíràn, tí ó bá lọ pẹ̀lú ⟨את⟩ aya ẹlẹgbẹ́ rẹ̀, ikú ni a ó fa wọn jẹ; aláṣekọ̀ àti aláṣekọ̀bìnrin.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "àti ọkùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "lọ pẹ̀lú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aya ọkùnrin"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "aya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin miíràn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "lọ pẹ̀lú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aya ẹlẹgbẹ́ rẹ̀"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "aya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ẹlẹgbẹ́ rẹ̀"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ni a ó fa jẹ"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "aláṣekọ̀"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "àti aláṣekọ̀bìnrin"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:57.423763075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ó sì wáyé ní òpin ogún ọdún tí Shlomoh kọ́ ⟨את⟩ ilé méjèèjì, ⟨את⟩ ilé Yahweh àti ⟨את⟩ ilé ọba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wáyé"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ní òpin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kọ́"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé méjèèjì"
+    },
+    {
+      "surface": "שני",
+      "gloss": "méjèèjì"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilé ọba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T01:15:32.622277838Z",
+  "model": "glm-5.3"
+}

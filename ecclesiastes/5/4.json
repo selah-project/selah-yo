@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ó dára kí ó má ṣe ṣe ìlérí rárá, ju kí ó ṣe ìlérí tí ó kò bá sàn án lọ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Ó dára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kí ó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe rárá"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ṣe ìlérí"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ju kí ó ṣe ìlérí"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tí ó kò bá"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "sàn án"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:21.438919234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Moshe, Aharon àti àwọn ọmọ rẹ̀ sì maǎa wẹ ⟨את⟩ ọwọ́ wọn àti ⟨את⟩ ẹsẹ̀ wọn nínú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "sì maǎa wẹ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "àti àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ wọn"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ọwọ́ wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹsẹ̀ wọn"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ẹsẹ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:13.321663989Z",
+  "model": "glm-5.3"
+}

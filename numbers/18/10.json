@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nínú ⟨ìgbà⟩ mímọ́ jùlọ ni iwọ yóò jẹ ⟨את⟩ ẹ; ọkùnrin gbogbo lè jẹ ọ; mímọ́ ni yóò jẹ́ fún ọ.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "nínú ⟨ìgbà⟩ mímọ́"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "jùlọ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "iwọ yóò jẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "lè jẹ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ (ounjẹ mímọ́ náà)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:57:37.210776256Z",
+  "model": "glm-5.3"
+}

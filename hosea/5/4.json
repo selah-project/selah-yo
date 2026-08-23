@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ìṣe wọn kò jẹ́ kí wọn padà sí ọ̀dọ̀ Elohim wọn; nítorí ẹ̀mí àgbèrè wà ní àárín wọn, wọn kò sì mọ ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "jẹ́ kí"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ìṣe wọn"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "padà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "àgbèrè"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "wà ní àárín wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:01:55.138961710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 2:33",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ṣùgbọ́n àwọn Leviti kò ṣe àkànṣe láàrin àwọn ọmọ Yisrael, gẹ́gẹ́ bí Yahweh ti pa Moshe ⟨את⟩ lọ́rọ̀.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "ṣùgbọ́n àwọn Leviti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "ṣe àkànṣe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàrin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pa lọ́rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:48:53.396850100Z",
+  "model": "glm-5.3"
+}

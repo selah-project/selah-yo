@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 32:20",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Tí ìwọ ti fi àwọn ìàmì àti ìṣẹ̀lẹ̀ ìyanu sílẹ̀ ní ilẹ̀ Mitsrayim títí di ọjọ́ yìí, àti ní Yisrael, àti ní àwọn ènìyàn; ìwọ sì ṣe orúkọ rẹ fúnra rẹ, gẹ́gẹ́ bí ọjọ́ yìí.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ìwọ ti fi... sílẹ̀"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "àwọn ìàmì"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "àti ìṣẹ̀lẹ̀ ìyanu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ובישראל",
+      "gloss": "àti ní Yisrael"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "àti ní àwọn ènìyàn"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "ìwọ sì ṣe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fúnra rẹ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "gẹ́gẹ́ bí ọjọ́"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T02:23:06.382105942Z",
+  "model": "glm-5.3"
+}

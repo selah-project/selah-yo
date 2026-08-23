@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Yaakov sì gbọ́ pé ó ti di ẹ̀ṣẹ̀ ⟨את⟩ Dinah ọmọbìnrin rẹ̀, nígbà tí àwọn ọmọ rẹ̀ wà pẹ̀lú ⟨את⟩ ẹran-ọ̀sìn rẹ̀ ní pápá; Yaakov sì dáhùn-dàínù títí wọn fi dé.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakov sì"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ó ti di ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ọmọbìnrin rẹ̀"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹran-ọ̀sìn rẹ̀"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ẹran-ọ̀sìn rẹ̀"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ní pápá"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "sì dáhùn-dàínù"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "באם",
+      "gloss": "wọn fi dé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:08.624621756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Ẹ̀wọ̀n mi kò farapamọ́ dẹ̀ ìwọ, nígbà tí a ṣe mi ní àìfi hàn, nígbà tí a fí òwú àti aṣọ rán mi sẹ́, ní ipò tí ó jinlẹ̀ jù lára ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "farapamọ́ dẹ̀"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "Ẹ̀wọ̀n mi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "a ṣe mi"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ní àìfi hàn"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "a fí òwú àti aṣọ rán mi sẹ́"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ní ipò tí ó jinlẹ̀ jù lára"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:29.646102655Z",
+  "model": "glm-5.3"
+}

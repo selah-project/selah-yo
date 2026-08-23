@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ó sì wí pé: wo, mo ti pẹ́ jù, èmi kò sì mọ ọjọ́ ikú mi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọ̀wọ́"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "mo ti pẹ́ jù"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "èmi … mọ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ikú mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:03:44.438916272Z",
+  "model": "glm-5.3"
+}

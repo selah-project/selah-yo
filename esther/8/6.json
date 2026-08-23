@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Nítorí báwo ni mo ṣe lè, kí n rí ìbàjẹ́ tí yóò ṣẹlẹ̀ sí ⟨את⟩ ènìyàn mi? àti báwo ni mo ṣe lè, kí n rí ìparun ìbí mi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "báwo ni mo ṣe"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "kí n rí"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ìbàjẹ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "yóò ṣẹlẹ̀ sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ènìyàn mi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ènìyàn mi"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "àti báwo ni mo ṣe"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "kí n rí"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "ìparun"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "ìbí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:47:35.077059485Z",
+  "model": "glm-5.3"
+}

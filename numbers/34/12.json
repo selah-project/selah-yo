@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 34:12",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ìpín-ìlà sì máa sọ̀rọ̀ lọ sókè sí Yordanà, ìpari rẹ̀ sì máà wáyé ní òkun iyọ̀; ilẹ̀ yìí ni yóò jẹ́ tiyín, pẹ̀lú àwọn ìpìn-ìlà rẹ̀ niyípo rere.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "sì máa sọ̀rọ̀ lọ sókè"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "ìpín-ìlà"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "sí Yordanà"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "sì máà wáyé"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "ìpari rẹ̀"
+    },
+    {
+      "surface": "ים",
+      "gloss": "òkun"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "iyọ̀"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ni yóò jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tiyín"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "pẹ̀lú àwọn ìpìn-ìlà rẹ̀"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "niyípo rere"
+    }
+  ],
+  "timestamp": "2026-08-23T00:05:03.079744048Z",
+  "model": "glm-5.3"
+}

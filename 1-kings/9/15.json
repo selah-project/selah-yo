@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Èyí ni ìṣiró iṣẹ́-ìgbẹ́ tí Shlomo ọba gbé kalẹ̀ láti lè kọ́ ilé Yahweh, àti ilé rẹ̀ fúnra rẹ̀, àti Milo, àti ogiri Yerushalayim, àti Hatzor, àti Megido, àti Gezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Èyí ni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ìṣiró"
+    },
+    {
+      "surface": "המס",
+      "gloss": "iṣẹ́-ìgbẹ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "gbé kalẹ̀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "láti lè kọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilé rẹ̀ fúnra rẹ̀"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀ fúnra rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ogiri Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ogiri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Hatzor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Hatzor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Megido"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megido"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-23T01:17:07.058506839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ó sì mú ⟨את⟩ àwọn àlùfáà wá àti ⟨את⟩ àwọn Lefi, ó sì kó wọn jọ sí àárín ìlà-oòrùn.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ó sì mú … wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àlùfáà"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn Lefi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "àwọn Lefi"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "ó sì kó wọn jọ"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "sí àárín"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "ìlà-oòrùn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:33:56.775755386Z",
+  "model": "glm-5.3"
+}

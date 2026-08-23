@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Ó sì ṣe ⟨את⟩ efodi náà — wúrà, tèkélétì, àti árgámánì, àti tólá'atì ti kòkòrọ̀rán-àwọ̀ẹ̀lẹ́gbẹ́, àti fìtàlì mẹ́jọ-mẹ́jọ tí a ṣè mọ́.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodi náà"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi náà"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tèkélétì"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "àti árgámánì"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "àti tólá'atì"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ti kòkòrọ̀rán-àwọ̀ẹ̀lẹ́gbẹ́"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "àti fìtàlì"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mẹ́jọ-mẹ́jọ tí a ṣè mọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:47.535822310Z",
+  "model": "glm-5.3"
+}

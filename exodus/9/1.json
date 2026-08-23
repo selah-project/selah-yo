@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Yahweh sì wí fún Moshe: «Wọ inú ọ̀dọ̀ Paroh, kí o sì bá ọ̀ sọ̀rọ̀ pé: Bẹ́ẹ̀ ni Yahweh, Elohim ti àwọn Hebrew, wí pé: Ṣàì fi ⟨את⟩ ènìyàn mi sílẹ̀, kí wọ́n lè sìn mí.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inú ọ̀dọ̀"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "kí o sì bá ọ̀ sọ̀rọ̀"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ti àwọn Hebrew"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ṣàì fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èniyàn mí"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "èniyàn mi"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "kí wọ́n sìn mí"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:31.564613729Z",
+  "model": "glm-5.3"
+}

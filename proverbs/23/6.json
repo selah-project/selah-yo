@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Má ṣe jẹ ⟨את⟩ oúnjẹ ẹni tí ojú rẹ̀ burú, kì í ṣe ìwọ kùn rẹ̀ láti fẹ́ àwọn oúnjẹ ìgbàdùn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oúnjẹ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "burú"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kì í ṣe ìwọ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "rẹ̀ láti fẹ́"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "àwọn oúnjẹ ìgbàdùn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:12:09.571086752Z",
+  "model": "glm-5.3"
+}

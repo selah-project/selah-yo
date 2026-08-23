@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Moshe sì paṣẹ fún ⟨את⟩ wọn wí pé: Ní ìparí ọdún méje, ní àkókò tí Ọdún Ìsímí (shemittah) ń bọ̀, nínú àjọ̀dún Sukkot,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ó sì paṣẹ fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn (àwọn àlùfáà àti àgbà)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ní ìparí"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "méje"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "ní àkókò"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "Ọdún"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "Ìsímí (shemittah)"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "nínú àjọ̀dún"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukkot"
+    }
+  ],
+  "timestamp": "2026-08-23T00:21:58.513921337Z",
+  "model": "glm-5.3"
+}

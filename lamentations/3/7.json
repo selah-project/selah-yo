@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó di mi mọ́ ìdíwọ̀n kí n má lè jáde; ó ṣe ìdẹ idì mi wúwo.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Ó di mi mọ́ ìdíwọ̀n"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí n má lè"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "jáde"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ó ṣe wúwo"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "ìdẹ idì mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:36:31.863687660Z",
+  "model": "glm-5.3"
+}

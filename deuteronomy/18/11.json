@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Àti ẹni tí ó ń pa ìgbésí àpapọ̀, ẹni tí ó ń béèrè lọ́wọ́ ènìyàn-ẹ̀mí, ẹni tí ó ń mọ̀ nípa ẹ̀mí, àti ẹni tí ó ń wá ohun tí ó wà níbẹ̀ láti ọ̀dọ̀ àwọn òkú.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Àti ẹni tí ó ń pa ìgbésí àpapọ̀"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "àpapọ̀"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "ẹni tí ó ń béèrè"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "ènìyàn-ẹ̀mí"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "ẹni tí ó ń mọ̀ nípa ẹ̀mí"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "ẹni tí ó ń wá ohun tí ó wà níbẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "láti ọ̀dọ̀"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "àwọn òkú"
+    }
+  ],
+  "timestamp": "2026-08-23T00:14:58.201630391Z",
+  "model": "glm-5.3"
+}

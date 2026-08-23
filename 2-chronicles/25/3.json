@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ó sì wáyé bí ìjọba ti múlè fún un, ó pa á ⟨את⟩ àwọn ọmọ-ọ̀dọ̀ rẹ̀, àwọn tí ó lu ⟨את⟩ ọba baba rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wáyé"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "múlè"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ó pa á"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ-ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ọmọ-ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "àwọn tí ó lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọba baba rẹ̀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:32:57.513461798Z",
+  "model": "glm-5.3"
+}

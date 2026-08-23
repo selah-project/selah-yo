@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Wò ó, Mo ti fi ⟨את⟩ ojú rẹ ṣe lágbára lódí sí ojú wọn, àti ⟨את⟩ ìràwọ̀ rẹ lágbára lódí sí ìràwọ̀ wọn.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Mo ti fi … ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú rẹ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "lágbára"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "lódí sí"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ojú wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìràwọ̀ rẹ"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "ìràwọ̀ rẹ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "lágbára"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "lódí sí"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "ìràwọ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:35:18.810341021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Adonai sì jí bí ẹni tí ó sùn, bí ẹní gbó-gbó tí ó ń ké láti ara èmú-ọ̀fun.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "sì jí"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "bí ẹni tí ó sùn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "bí ẹní gbó-gbó"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "tí ó ń ké"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "láti ara èmú-ọ̀fun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:15.845527563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Iwọ ń fún wọn lóúnjẹ, wọ́n ń kó o jọ; Iwọ ń ṣí ọwọ́ Rẹ sílẹ̀, wọ́n ń kún fún rẹ̀ pẹ̀lú ohun rere.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Iwọ ń fún"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "wọ́n ń kó o jọ"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "Iwọ ń ṣí sílẹ̀"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ Rẹ"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "wọ́n ń kún fún rẹ̀"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pẹ̀lú ohun rere"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:15.699749483Z",
+  "model": "glm-5.3"
+}

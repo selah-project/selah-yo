@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Meltzar sì ń gbe ⟨את⟩ oúnjẹ iṣerere wọn àti fàdákà wọn dánú, ó ń fún wọn ní ẹ̀wà àti èso-igbó.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sì"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "Meltzar"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ń gbe … dánú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oúnjẹ iṣerere wọn"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "oúnjẹ iṣerere wọn"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "àti fàdákà"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "òun mu wọn"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ó ń fún"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "ẹ̀wà àti èso-igbó"
+    }
+  ],
+  "timestamp": "2026-08-23T04:46:32.663256240Z",
+  "model": "glm-5.3"
+}

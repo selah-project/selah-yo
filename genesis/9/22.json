@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Cham, bàbá Kenaan, sì rí ⟨את⟩ iranti àwọn ìṣíṣe bàbá rẹ̀, ó sì sọ fún àwọn aráaburú rẹ̀ méjì ní ìta.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "o sì rí"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babá"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iranti awon iṣiṣe babá rẹ̀"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "iranti awon iṣiṣe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babá rẹ̀"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "o sì sọ fún"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "awon araaburú rẹ̀ meji"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "aràbúrú rẹ̀"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ní ìta"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:47.976506688Z",
+  "model": "glm-5.3"
+}

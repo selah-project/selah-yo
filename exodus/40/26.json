@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ó sì gbé ⟨את⟩ pẹpẹ wúrà sí inú àgọ̀ ìpàdé, níwájú àwò yàà.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "gbé sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pẹpẹ wúrà"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sí inú àgọ̀"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "àwò yàà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:25.391883687Z",
+  "model": "glm-5.3"
+}

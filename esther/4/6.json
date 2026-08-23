@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Hatach sì jáde lọ sí ọ̀dọ̀ Mordecai, sí pápá tí ìlú náà, tí ó wà níwájú ọ̀nà-ìbùgbé ti ọba náà.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "sì jáde lọ"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "pápá tí"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọ̀nà-ìbùgbé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ọba náà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:45:00.391801610Z",
+  "model": "glm-5.3"
+}

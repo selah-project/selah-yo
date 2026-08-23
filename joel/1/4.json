@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Èyí tí gazam fi sílẹ̀, aràbà jẹ ẹ́; èyí tí aràbà fi sílẹ̀, yeleq jẹ ẹ́; èyí tí yeleq fi sílẹ̀, jẹ́ hasil jẹ ẹ́.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Èyí tí ... fi sílẹ̀"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "gazam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jẹ ẹ́"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "aràbà"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "èyí tí ... fi sílẹ̀"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "aràbà"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jẹ ẹ́"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yeleq"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "èyí tí ... fi sílẹ̀"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yeleq"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jẹ ẹ́"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "hasil"
+    }
+  ],
+  "timestamp": "2026-08-23T03:04:05.617354960Z",
+  "model": "glm-5.3"
+}

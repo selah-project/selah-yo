@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 115,
+  "translation": "Kì í ṣe fún wa, Yahweh, kì í ṣe fún wa, ṣùgbọ́n fún orúkọ rẹ fún ìgbéga — nítorí chesed rẹ, nítorí òtítọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n … nítorí"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "fún orúkọ rẹ"
+    },
+    {
+      "surface": "תן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ìgbéga"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "òtítọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:50.027363817Z",
+  "model": "glm-5.3"
+}

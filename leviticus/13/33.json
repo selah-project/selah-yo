@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ó sì máa fi ara rẹ̀ wú, ṣùgbọ́n kì í gbọ́dọ̀ wú ⟨את⟩ èdìdì náà; àlùfáà sì yóò sọ ⟨את⟩ èdìdì náà di mọ́ fún ọjọ́ méje lẹ́ẹ̀kẹ̀jì.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "ó sì máa fi ara rẹ̀ wú"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "èdìdì náà"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "èdìdì náà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í gbọ́dọ̀"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "wú"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "yóò sọ … di mọ́"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èdìdì náà"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "èdìdì náà"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "fún … méje"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "lẹ́ẹ̀kẹ̀jì"
+    }
+  ],
+  "timestamp": "2026-08-22T23:39:30.858327462Z",
+  "model": "glm-5.3"
+}

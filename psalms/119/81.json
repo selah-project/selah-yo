@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Parí fún ìgbàlà rẹ ni ẹ̀mí mi; fún ọ̀rọ̀ rẹ ni mo ti retí.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "parí"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "fún ìgbàlà rẹ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "fún ọ̀rọ̀ rẹ"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "mo ti retí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:50.998975981Z",
+  "model": "glm-5.3"
+}

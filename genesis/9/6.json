@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ẹnití ó bá ṣàjẹ́ ẹjẹ̀ ènìyàn, láti ọwọ́ ènìyàn ni ẹjẹ̀ rẹ̀ yóò ṣàjẹ́; nítorí ní ìwọ̀ní Elohim ni ó ti ṣẹ́da ⟨את⟩ ènìyàn.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Ẹnití ó bá ṣàjẹ́"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ẹjẹ̀"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "láti ọwọ́ ènìyàn"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ẹjẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "yóò ṣàjẹ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ní ìwọ̀ní"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣẹ́da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ènìyàn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:54.532548791Z",
+  "model": "glm-5.3"
+}

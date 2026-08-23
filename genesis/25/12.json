@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Àwọn wọnyí ni ìran Yishmael ọmọ Avraham, tí Hagar ti Egypti, ẹrú níbí Sarah, bí fún Avraham.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "àwọn wọnyí"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "bí"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "ti Egypti"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ẹrú níbí"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "fún Avraham"
+    }
+  ],
+  "timestamp": "2026-08-22T23:02:27.681422112Z",
+  "model": "glm-5.3"
+}

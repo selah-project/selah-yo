@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Mọra, àti aloe, kasia — gbogbo aṣọ rẹ; láti inú àwọn àáfin eyín, àwọn ohun èlò òkùn ni ó ti ṣe èrè-ìdùn fún ẹ.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "Mọra"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "àti aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kasia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "aṣọ rẹ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "àwọn àáfin"
+    },
+    {
+      "surface": "שן",
+      "gloss": "eyín"
+    },
+    {
+      "surface": "מני",
+      "gloss": "àwọn ohun èlò òkùn"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "ti ṣe èrè-ìdùn fún ẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:55.837158646Z",
+  "model": "glm-5.3"
+}

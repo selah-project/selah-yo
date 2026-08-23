@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Tí mo bá ṣẹ̀, ègún fún mi; tí mo bá jẹ́ ẹni tí ó tọ́, èmi kò ní gbé ori mi sókè; mo kún fún ìtìjú, wo ìpèníjà mi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí mo bá"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "ṣẹ̀"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "ègún"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "tí mo bá jẹ́ ẹni tí ó tọ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "èmi … gbé"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ori mi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mo kún"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ìtìjú"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ìpèníjà mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:34.937779177Z",
+  "model": "glm-5.3"
+}

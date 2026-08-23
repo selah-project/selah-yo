@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Kí àwa náà lè jẹ́ bí àwọn orílẹ̀-èdè gbogbo; ọba wa ni yóò dá wa lẹ́jọ́, ó sì máa jáde níwájú wa, ó sì máa jagun ⟨את⟩ àwọn ogun wa.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "Kí àwa lè jẹ́"
+    },
+    {
+      "surface": "גם",
+      "gloss": "náà"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "àwa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bí gbogbo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "ni yóò dá wa lẹ́jọ́"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ọba wa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ó sì máa jáde"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "níwájú wa"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "ó sì máa jagun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ogun wa"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "àwọn ogun wa"
+    }
+  ],
+  "timestamp": "2026-08-23T00:43:34.914070265Z",
+  "model": "glm-5.3"
+}

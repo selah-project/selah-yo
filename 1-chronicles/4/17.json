@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àwọn ọmọ Ezrah: Yeter, Mered, Efer, Yalon; ó sì bí ⟨את⟩ Miryam, àti ⟨את⟩ Shammai, àti ⟨את⟩ Yishbach, baba Eshtemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Àwọn ọmọ"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Shammai"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shammai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yishbach"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yishbach"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    }
+  ],
+  "timestamp": "2026-08-23T05:09:50.381863215Z",
+  "model": "glm-5.3"
+}

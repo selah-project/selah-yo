@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Ó sì fi wọ́n sí orí èjìká ẹfodu náà, láti jẹ́ àwọn okuta ìrántí fún àwọn ọmọ Yisrael, bí Yahweh ti pàṣẹ ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Ó sì fi wọ́n sí"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "orí èjìká ẹfodu náà"
+    },
+    {
+      "surface": "על",
+      "gloss": "orí"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "èjìká"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ẹfodu náà"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "àwọn okuta"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ìrántí"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:34.730523919Z",
+  "model": "glm-5.3"
+}

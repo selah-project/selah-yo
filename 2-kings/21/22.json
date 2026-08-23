@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 21:22",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ó sì fi Yahweh, Elohim ti àwọn baba rẹ̀ sílẹ̀, ó kò sì rìn ní ọ̀nà Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Ó sì fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "àwọn baba rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ó kò sì"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "rìn"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ní ọ̀nà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T01:36:08.631784221Z",
+  "model": "glm-5.3"
+}

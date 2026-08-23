@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Èmi sì, wò ó, èmi ń mú ⟨את⟩ ọkàn Mitzrayim le, kí wọn lè tẹ̀lé wọn; èmi yóò sì fi ọlá mi ṣe Farao, àti gbogbo ọmọ-ogun rẹ̀, ní àwọn ọkọ̀-ogun rẹ̀ àti ní àwọn olùṣọ́-ẹṣin rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Èmi sì"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "ń mú … le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kí wọn lè tẹ̀lé"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "lẹ́yìn wọn"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "èmi yóò sì fi ọlá mi ṣe"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ọmọ-ogun rẹ̀"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "ní àwọn ọkọ̀-ogun rẹ̀"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "àti ní àwọn olùṣọ́-ẹṣin rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:20:47.445248771Z",
+  "model": "glm-5.3"
+}

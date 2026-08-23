@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Àti ènìyàn, tí ó bá lu èmi ènìyàn gbogbo, niyí: ikú ni wọ́n gbọdọ̀ pa á.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Àti ènìyàn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "lu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ni wọ́n gbọdọ̀ pa á"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:26.226010171Z",
+  "model": "glm-5.3"
+}

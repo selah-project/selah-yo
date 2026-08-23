@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 83,
+  "translation": "Bíi ti Ashur náà, wọ́n darapọ̀ mọ́ wọn; wọ́n jẹ́ ọ̀wọ́ fún àwọn ọmọ Lot. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bíi ti"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "wọ́n darapọ̀"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "mọ́ wọn"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wọ́n jẹ́"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ọ̀wọ́"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:52.221018930Z",
+  "model": "glm-5.3"
+}

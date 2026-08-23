@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó sì sọ: 'Má ṣe fi ⟨את⟩ wa sílẹ̀, jọ̀wọ́, nítorí ìwọ mọ̀ bí a ṣe máa ń kó àgbàlà wa ní ijù, ìwọ yóò sì jẹ́ ojú fún wa.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọ̀wọ́"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "kí o fi wa sílẹ̀"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ wa",
+      "marks": "wa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "על",
+      "gloss": "torí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ìyẹn"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ìwọ mọ̀"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "bí a ṣe máa ń kó àgbàlà wa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní ijù"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ìwọ yóò jẹ́"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "ojú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:53:33.255686343Z",
+  "model": "glm-5.3"
+}

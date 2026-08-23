@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Gẹ́gẹ́ bí ẹbùn, èso àkọ́kọ́, ẹ lè mú ⟨את⟩ wọn wá fún Yahweh; ṣùgbọ́n wọn kì í gbé sórí pẹpẹ náà fún ìrora tó tù mí.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "ẹbùn (karban)"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "èso àkọ́kọ́"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ẹ mú wá"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ṣùgbọ́n sí"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ náà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "wọn gbé sórí"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "fún ìrora"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "tó tù mí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:02.247951441Z",
+  "model": "glm-5.3"
+}

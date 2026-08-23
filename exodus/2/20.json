@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì wí fún àwọn ọmọ-bìnrin rẹ̀ pé, Níbo ni ó wà? Èyí yálẹ̀ni, kí nìdí tí ẹ fi sí ọkùnrin náà sílẹ̀? Ẹ pè é, kí ó lè jẹ oúnjẹ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "àwọn ọmọ-bìnrin rẹ̀"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "Níbo ni ó wà?"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kí nìdí tí"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí yálẹ̀ni"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "ẹ fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkùnrin náà"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "ẹ pè é"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ró"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "kí ó lè jẹ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ọúnjẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:06.659447801Z",
+  "model": "glm-5.3"
+}

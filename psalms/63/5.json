@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 63,
+  "translation": "Bẹ́ẹ̀ ni mo ti máa ń bùkúnnrán ⟨rẹ⟩ nígbà ìyè mi; ní orúkọ rẹ ni mo ti máa gbé ọwọ́ mi sókè.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "mo ti máa ń bùkúnnrán rẹ"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "nígbà ìyè mi"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ní orúkọ rẹ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mo ti máa gbé … sókè"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ọwọ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:19.081503761Z",
+  "model": "glm-5.3"
+}

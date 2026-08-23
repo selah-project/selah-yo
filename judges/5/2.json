@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 5:2",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Nígbà tí àwọn olórí ṣe ìfẹhintí láìṣe ìjọba-deede ní Yisrael, nígbà tí ènìyàn ṣe ìfaradà ara wọn ní ìtọ́nilójú, ẹ yín Yahweh lógo.",
+  "tokens": [
+    {
+      "surface": "בפרע",
+      "gloss": "ṣe ìfẹhintí láìṣe ìjọba-deede"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ní Yisrael"
+    },
+    {
+      "surface": "בהתנדב",
+      "gloss": "ṣe ìfaradà ara wọn ní ìtọ́nilójú"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ẹ yín … lógo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:33:30.998268423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Nígbà tí Adonai ba ti fọ ⟨את⟩ èèwù àwọn obìnrin Tsiyon kọ́, ó sì ba ti yo ⟨את⟩ èjè Yerushalayim kúrò nínú rẹ̀, pẹ̀lú ẹ̀mí ìdájọ́ àti pẹ̀lú ẹ̀mí ìjìna.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "ó ba ti fọ kọ́"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èèwù àwọn obìnrin Tsiyon"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "èèwù"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "àwọn obìnrin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "èjè Yerushalayim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "èjè"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "ó ba ti yo kúrò"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "pẹ̀lú ẹ̀mí"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "àti pẹ̀lú ẹ̀mí"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ìjìna"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:54.400407161Z",
+  "model": "glm-5.3"
+}

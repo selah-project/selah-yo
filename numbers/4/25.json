@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Wọ́n máa ru ⟨את⟩ àwọn àtẹ ìtàtà ti àgọ́ náà, àti ⟨את⟩ àgọ́ ìpàdé, bò rẹ̀, àti bò tí ó wá lára ara erankúnún tí ó wà lórí rẹ̀ lókè, àti ⟨את⟩ àsè ọ̀nà-ìwọlé ti àgọ́ ìpàdé.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "wọ́n máa ru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àtẹ ìtàtà ti àgọ́ náà"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "àwọn àtẹ ìtàtà"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti àgọ́ náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àgọ́ ìpàdé"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "bò rẹ̀"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "àti bò"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "tí ó wá lára ara erankúnún"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ó wà lórí rẹ̀"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "lókè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àsè ọ̀nà-ìwọlé ti àgọ́ ìpàdé"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "àsè"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọ̀nà-ìwọlé"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ti àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:50:01.742618833Z",
+  "model": "glm-5.3"
+}

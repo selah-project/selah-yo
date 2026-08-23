@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ọba náà àti gbogbo àwọn ènìyàn sì ń ṣe ẹbùn-ìkọ́ níwájú Yahweh.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ọba náà…sì"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ń ṣe ẹbùn-ìkọ́"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ẹbùn-ìkọ́"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T05:24:43.124457771Z",
+  "model": "glm-5.3"
+}

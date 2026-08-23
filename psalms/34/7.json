@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Aṣẹ̀yẹ̀ wọ̀nyí pe, Yahweh sì gbọ́, ó sì gbà á là kúrò nínú gbogbo ìṣòro rẹ̀.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "wọ̀nyí"
+    },
+    {
+      "surface": "עני",
+      "gloss": "Aṣẹ̀yẹ̀"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh sì"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ó sì gbà á là kúrò nínú gbogbo"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ìṣòro rẹ̀"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "ó sì gbà á là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:07.659438611Z",
+  "model": "glm-5.3"
+}

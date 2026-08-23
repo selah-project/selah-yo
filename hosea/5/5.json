@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ìgbéraga Yisraeli yóò dáhùn ní ojú rẹ̀; Yisraeli àti Efrayim yóò ṣubú nínú ìwà ẹ̀ṣẹ̀ wọn; Yehuda naa yóò ṣubú pẹ̀lú wọn.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "yóò dáhùn"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ìgbéraga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "ní ojú rẹ̀"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "yóò ṣubú"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "nínú ìwà ẹ̀ṣẹ̀ wọn"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "ṣubú"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "pẹ̀lú wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:00:49.473140643Z",
+  "model": "glm-5.3"
+}

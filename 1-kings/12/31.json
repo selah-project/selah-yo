@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ó sì ṣe ⟨את⟩ ilẹ̀ àwọn bamot, ó sì ṣe àwọn adarí-ẹbọ láti àwọn ìpele ìjọ ènìyàn, tí kì í ṣe ti àwọn ọmọ Lewi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ àwọn bamot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "במות",
+      "gloss": "àwọn bamot"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "àwọn adarí-ẹbọ"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "láti àwọn ìpele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ ènìyàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wọ́n jẹ́"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ti àwọn ọmọ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:19:12.914135973Z",
+  "model": "glm-5.3"
+}

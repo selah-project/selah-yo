@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Mizmor, orin ìyì ìṣẹ̀dá ilé, ti Dawid.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "ìṣẹ̀dá ìyì"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨the⟩ ilé"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:35.327633414Z",
+  "model": "glm-5.3"
+}

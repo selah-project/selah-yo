@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 112,
+  "translation": "Alágbára ní ayé ni irú-ọmọ rẹ̀ yóò jẹ́; ìran àwọn olódodo ni yóò bùkún.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ayé"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "irú-ọmọ rẹ̀"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "àwọn olódodo"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ni yóò bùkún"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:35.925761056Z",
+  "model": "glm-5.3"
+}

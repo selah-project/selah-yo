@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Yahweh sọ fún mi pé: \"Gba ọ̀nà ìkọ̀ tó tóbi fún ra rẹ, kọ sí i pẹ̀lú pẹ́nẹ̀ ẹniyan: Maher-Shalal-Chash-Baz.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sọ fún mi pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "קח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ra rẹ"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "ọ̀nà ìkọ̀"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "kọ sí i"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lára rẹ̀"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "pẹ̀lú pẹ́nẹ̀"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ẹniyan"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Maher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Chash"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz"
+    }
+  ],
+  "timestamp": "2026-08-23T01:42:22.403751133Z",
+  "model": "glm-5.3"
+}

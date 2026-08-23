@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Araunah sì darí kiri, ó sì rí ⟨את⟩ ọba àti ⟨את⟩ àwọn ìránṣẹ́ rẹ̀ tí wọ́n ń kọjá lọ́dọ̀ rẹ̀; Araunah sì jáde, ó sì forí kí ṣàárọ̀ fún ọba, ojú rẹ̀ sí ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "sì darí kiri"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Araunah"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ó sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tí wọ́n ń kọjá"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lọ́dọ̀ rẹ̀"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "sì jáde"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Araunah"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ó sì forí kí ṣàárọ̀"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fún ọba"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sí ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:09:21.657081611Z",
+  "model": "glm-5.3"
+}

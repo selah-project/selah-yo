@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó sì pàṣẹ fún àwọn sánmà láti ọ̀kè, ó sì ṣí àwọn ìlẹ̀kùn ọ̀run.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ó sì pàṣẹ fún"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "àwọn sánmà"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "láti ọ̀kè"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "àti àwọn ìlẹ̀kùn"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ó ṣí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:49.707447677Z",
+  "model": "glm-5.3"
+}

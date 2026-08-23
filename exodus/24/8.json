@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Moshe sì gba ⟨את⟩ ẹjẹ̀ náà, ó sì rọ́ ọ̀n lórí àwọn ènìyàn náà, ó sì wí pé:Kí ẹ lérò, ẹjẹ̀ ìmọ̀ràn yìí ni, tí Yahweh ti ṣe pẹ̀lú yín nítorí gbogbo ọ̀rọ̀ wọnyí.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹjẹ̀ náà"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ẹjẹ̀ náà"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "rọ́ ọ̀n"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kí ẹ lérò"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ẹjẹ̀"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ìmọ̀ràn yìí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ṣe (ká)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pẹ̀lú yín"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:15.398723322Z",
+  "model": "glm-5.3"
+}

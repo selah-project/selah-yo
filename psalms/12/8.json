@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ìwọ, Yahweh, ni yóò ṣọ́ wọn; ìwọ yóò gbà á pamọ́ láti ara ìran yìí fún ìgbà àìnípẹ̀kun.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ìwọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "yóò ṣọ́ wọn"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "yóò gbà á pamọ́"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti ara"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ìran yìí"
+    },
+    {
+      "surface": "זו",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "fún ìgbà àìnípẹ̀kun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:25.149969506Z",
+  "model": "glm-5.3"
+}

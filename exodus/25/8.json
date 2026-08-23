@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Wọ́n ó sì ṣe fún Mi mikdash; Èmi ó sì gbé láàárín wọn.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Wọ́n ó sì ṣe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún Mi"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "mikdash (ibi mímọ́)"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "Èmi ó sì gbé"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "láàárín wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:25:14.408671644Z",
+  "model": "glm-5.3"
+}

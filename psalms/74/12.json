@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Ṣùgbọ́n Elohim ni ọba mi láti ìgbà pípẹ́, Ẹni tí ó ń ṣiṣẹ́ ìgbàlà láàárín ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "ṣùgbọ́n Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ọba mi"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "láti ìgbà pípẹ́"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "Ẹni tí ó ń ṣiṣẹ́"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:16.452834534Z",
+  "model": "glm-5.3"
+}

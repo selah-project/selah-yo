@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ìdánwò mí, Yahweh, ó sì dá mi wò; fi inú ìdánwò ṣe àwọn kidinrì mi àti ọkàn mi.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Ìdánwò mí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "ó sì dá mi wò"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "fi inú ìdánwò ṣe"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "àwọn kidinrì mi"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "àti ọkàn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:43.065735835Z",
+  "model": "glm-5.3"
+}

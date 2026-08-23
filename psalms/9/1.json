@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Fún olùdarí orin, lórí 'Alámọ́kùú lábẹ́n' — orin-ìdílí fún David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fún olùdarí orin"
+    },
+    {
+      "surface": "עלמות לבן",
+      "gloss": "lórí 'Alámọ́kùú lábẹ́n'"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin-ìdílí"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:10.905366768Z",
+  "model": "glm-5.3"
+}

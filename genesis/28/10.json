@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Yaakov sì jáde kúrò ní Be'er-Sheva, ó sì rìn lọ sí Charan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ó sì jáde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "kúrò ní"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Be'er-Sheva"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì rìn lọ"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "sí Charan"
+    }
+  ],
+  "timestamp": "2026-08-22T23:04:20.300269309Z",
+  "model": "glm-5.3"
+}

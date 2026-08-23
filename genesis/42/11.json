@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Gbogbo wa ni àwọn ọmọ ọkùnrin kan ṣoṣo; èníyàn olóòtítọ́ ni àwa; ìránṣẹ́ rẹ kì í ṣe àwọn afìmọ̀lẹ̀.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "gbogbo wa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan ṣoṣo"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "èníyàn olóòtítọ́"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "àwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨jẹ́⟩"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "àwọn afìmọ̀lẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:10:47.615680834Z",
+  "model": "glm-5.3"
+}

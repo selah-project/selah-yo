@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ní ọjọ́ kíní, ìpè mímọ́ ni yóò wà fún yín; iṣẹ́ ìṣẹ̀nwọ̀n gbogbo, ẹ kò ní ṣe.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kíní"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ìpè mímọ́ (àpapọ̀ pẹ̀lú ọ̀rọ̀ tó kàn)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ìṣẹ̀nwọ̀n"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ẹ ṣe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:19.447308190Z",
+  "model": "glm-5.3"
+}

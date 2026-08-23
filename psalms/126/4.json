@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 126,
+  "translation": "Dà wá padà, Yahweh, ⟨את⟩ ìròyìn-ìpàdà wa, bí ìsàn omi ní agbègbè gbigbẹ Negev.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Dà wá padà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìròyìn-ìpàdà wa"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "ìròyìn-ìpàdà wa"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "bí ìsàn omi"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "ní agbègbè gbigbẹ Negev"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:52.995807872Z",
+  "model": "glm-5.3"
+}

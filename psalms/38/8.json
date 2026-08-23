@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Nítorí pé ìbàdí mi kún fáàájọ iná; kò sí ìlára tí ó pé ní ara mi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí pé"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "ìbàdí mi"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "kún"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "fáàájọ iná"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ìlára tí ó pé"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "ní ara mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:12.992717549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 41:11",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Yohanan ọmọ Kareaḥ àti gbogbo àwọn adarí jagunjagun tí ó wà ⟨את⟩ pẹ̀lú rẹ̀ sì gbọ́ ⟨את⟩ gbogbo ìbúburu tí Yishmael ọmọ Netanyahu ṣe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "sì gbọ́"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yohanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kareaḥ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "àwọn adarí"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "àwọn jagunjagun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ìbúburu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ìbúburu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netanyahu"
+    }
+  ],
+  "timestamp": "2026-08-23T02:26:28.491632559Z",
+  "model": "glm-5.3"
+}

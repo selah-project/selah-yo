@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Èmi yóò sọ̀rọ̀ sí Eloah: Má ṣe kẹ́ mi lẹ́bi; fún mi lìmọ̀ nípa kíni tí ìwọ fi ń takora dẹ̀ mi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "yóò sọ̀rọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "kẹ́ mi lẹ́bi"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "fún mi lìmọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kíni"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "ìwọ ń takora dẹ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:20:07.376823047Z",
+  "model": "glm-5.3"
+}

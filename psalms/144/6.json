@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 144,
+  "translation": "Fọ̀n áná, kí o sì tà wọ́n ká; fi ⟨àwọn⟩ ọ̀ta rẹ̀ ránṣẹ́, kí o sì dí wọ́n búburú.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "Fọ̀n áná"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "áná"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "kí o sì tà wọ́n ká"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "fi ... ránṣẹ́"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "ọ̀ta rẹ̀"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "kí o sì dí wọ́n búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:07.969412557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 82,
+  "translation": "Ẹ gbà aláilára àti aláìní là, ẹ gbà wọn là lọ́wọ́ àwọn olèṣẹ́.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Ẹ gbà ... là"
+    },
+    {
+      "surface": "דל",
+      "gloss": "aláilára"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "àti aláìní"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn olèṣẹ́"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ẹ gbà wọn là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:52.091398840Z",
+  "model": "glm-5.3"
+}

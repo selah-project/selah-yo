@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 37:20",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Nítorí náà báyìí, Yahweh Ọlọ́hun wa, gbà wà ní ọwọ́ rẹ̀ láàbọ̀, kí àwọn ìjọba gbogbo ilẹ̀ ayé lè mọ̀ pé ìwọ ni Yahweh, ìwọ nìkan ṣoṣo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Nítorí náà báyìí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Ọlọ́hun wa"
+    },
+    {
+      "surface": "הושיענו",
+      "gloss": "gbà wà ní ọwọ́ rẹ̀ láàbọ̀"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "sọ́ọ̀rọ̀ ọwọ́ rẹ"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "kí ... lè mọ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "àwọn ìjọba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ìwọ nìkan ṣoṣo"
+    }
+  ],
+  "timestamp": "2026-08-23T01:53:59.999873222Z",
+  "model": "glm-5.3"
+}

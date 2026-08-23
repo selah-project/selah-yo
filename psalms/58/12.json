@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 58,
+  "translation": "Nígbà náà ni ènìyàn ó ti wí pé, dájọdájọ̀ ṣe é ṣe ère fún ẹni tí ó tọ́; dájọdájò ni Elohim tí ó ń dájọ́ ilẹ̀ ayé wà.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nígbà náà ni ènìyàn ó ti wí pé"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dájọdájọ̀ ṣe é ṣe"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "èrè"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "fún ẹni tí ó tọ́"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dájọdájò ni"
+    },
+    {
+      "surface": "יש",
+      "gloss": "wà"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "tí ó ń dájọ́"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:29.189440353Z",
+  "model": "glm-5.3"
+}

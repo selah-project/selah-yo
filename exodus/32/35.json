@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Yahweh sì fi ìjàapa ńá lu ⟨את⟩ ìjọ náà, nítorí wọ́n ṣe ⟨את⟩ màlúù ìṣẹ̀wọ̀ náà, èyítí Aharon ṣe.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "sì fi ìjàapa ńá lu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọ náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wọ́n ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "màlúù ìṣẹ̀wọ̀ náà"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "màlúù ìṣẹ̀wọ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyítí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-22T23:29:09.580934644Z",
+  "model": "glm-5.3"
+}

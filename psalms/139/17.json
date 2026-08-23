@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Sípò mi, Eloah, ìròye rẹ ṣe gígbọ́n púpọ̀! Ìsọdì wọn ti pọ̀ tó bi àpapọ̀!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "Sípò mi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bi"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "ṣe gígbọ́n púpọ̀"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ìròye rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מה",
+      "gloss": "tààrà"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ti pọ̀ tó"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "àpapọ̀ ìsọdì wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:22.547691149Z",
+  "model": "glm-5.3"
+}

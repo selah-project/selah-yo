@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ìwọ ni O ti pàṣẹ àwọn òfin ìdásílẹ̀ Rẹ, láti ṣọ́ wọ́n gidigidi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ìwọ"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "O ti pàṣẹ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "àwọn òfin ìdásílẹ̀ Rẹ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "láti ṣọ́ wọ́n"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gidigidi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:06.909157911Z",
+  "model": "glm-5.3"
+}

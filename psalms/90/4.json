@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 90,
+  "translation": "Nítorí ẹgbẹ̀rún ọdún ní ojú rẹ̀ ni bí ọjọ́ àná tí ó ti Ṣẹ̀dá-lọ̀, àti bí ìṣọ́̀ ọ̀sán ní òru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbẹ̀rún"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ní ojú rẹ̀"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bí ọjọ́"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "àná"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tí ó ti Ṣẹ̀dá-lọ̀"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": ""
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "àti bí ìṣọ́ òru"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ní òru"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:38.406370670Z",
+  "model": "glm-5.3"
+}

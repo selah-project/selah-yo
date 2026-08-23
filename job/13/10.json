@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Dájúdájú ni ó máa gbé ⟨את⟩ yín níyànjú, tí ẹ bá ń gbé ojú fún ènìyàn ní ìkọkọ́.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "dájúdájú"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ó máa gbé níyànjú"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí ẹ bá"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ní ìkọkọ́"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "ẹ gbé fún ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:34.712411357Z",
+  "model": "glm-5.3"
+}

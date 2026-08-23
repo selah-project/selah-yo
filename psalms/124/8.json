@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 124,
+  "translation": "Ìrànlọ́wọ́ wa wà nínú orúkọ Yahweh, ẹni tí ó ṣe ọ̀run àti ayé.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "ìrànlọ́wọ́ wa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nínú orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ẹni tí ó ṣe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "àti ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:51.433148022Z",
+  "model": "glm-5.3"
+}

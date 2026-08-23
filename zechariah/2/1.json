@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Mo gbé ⟨את⟩ ojú mi sókè, mo sì rí i, kiye sí i — àwọn ìbon mẹrin.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Mo gbé ... sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú mi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "mo sì rí i"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kiye sí i"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mẹrin"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "àwọn ìbon"
+    }
+  ],
+  "timestamp": "2026-08-23T03:18:39.317565988Z",
+  "model": "glm-5.3"
+}

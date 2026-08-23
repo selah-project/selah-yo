@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Gbà àwọn ènìyàn Rẹ, kí o sì bùkún ⟨את⟩ ìjọ rẹ; ṣe adarí fún wọn, kí o sì gbé wọn sókè títí tí ó fi ní pípé.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Gbà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn Rẹ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "àwọn ènìyàn Rẹ"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "kí o sì bùkún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọ rẹ"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ìjọ rẹ"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "ṣe adarí fún wọn"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "kí o sì gbé wọn sókè"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí tí"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "pípé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:52.877609540Z",
+  "model": "glm-5.3"
+}

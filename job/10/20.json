@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ṣé ọjọ́ mí kò pọ̀? Dájúdájú, fi mi sílẹ̀, kí n lè fẹ̀rẹ̀ tú bàlàlá díẹ̀.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ṣé…kò"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pọ̀ (díẹ̀ nítorí náà)"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́ mí"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "dájúdájú fi mi sílẹ̀ (dákúnó)"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "fi sílẹ̀ (jọ sí ipò kan)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ואবליגה",
+      "gloss": "kí n lè fẹ̀rẹ̀ tú bàlàlá"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "díẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:17.685712501Z",
+  "model": "glm-5.3"
+}

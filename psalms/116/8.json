@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Nítorí tí O gbà ọkàn mi là kúrò nínú ikú, ⟨את⟩ ojú mi kúrò nínú èjìká, ⟨את⟩ ẹsẹ̀ mi kúrò lọ́nà ìṣubú.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "O gbà ⟨là⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kúrò nínú ikú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú mi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "èjìká"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹsẹ̀ mi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ẹsẹ̀ mi"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "kúrò lọ́nà ìṣubú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:58.778034791Z",
+  "model": "glm-5.3"
+}

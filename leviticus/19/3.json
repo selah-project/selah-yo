@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ẹnì kọ̀ọ̀kan ẹ bọ̀rà sí ìyá rẹ̀ àti baba rẹ̀, kí ẹ sì pa ⟨את⟩ àwọn ọjọ́ ìsinmi mi mọ́; èmi ni Yahweh, Elohim yín.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ẹnì kọ̀ọ̀kan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ìyá rẹ̀"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "àti baba rẹ̀"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ẹ bọ̀rà sí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọjọ́ ìsinmi mi"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "àwọn ọjọ́ ìsinmi mi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ẹ pa mọ́"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:51.591700201Z",
+  "model": "glm-5.3"
+}

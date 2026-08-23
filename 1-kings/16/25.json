@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 16:25",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Omri sì ṣe búburú ní ojú Yahweh, ó sì búburú ju gbogbo àwọn tí ó wà ṣáájú rẹ̀ lọ.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "ó sì búburú ju"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "wà ṣáájú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:20:20.042989479Z",
+  "model": "glm-5.3"
+}

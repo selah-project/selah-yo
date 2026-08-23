@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ní àwọn ọjọ́ wọ̀nyí, nígbà tí ọba Achashverosh ń jókòó lórí àga-ìjọba rẹ̀, tí ó wà ní Shushan ⟨ìlú-òde àgbà⟩ naa.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Ní àwọn ọjọ́"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "wọ̀nyí"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "nígbà tí... ń jókòó"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "àga-ìjọba"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ìjọba rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ní Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "⟨ìlú-òde àgbà⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T04:45:07.907057336Z",
+  "model": "glm-5.3"
+}

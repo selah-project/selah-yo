@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Gbogbo Yavesh Giléadi sì gbọ́ ⟨את⟩ gbogbo tí àwọn Pelishti ṣe sí Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "wọ́n sì gbọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giléadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo tí àwọn Pelishti ṣe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Pelishti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "sí Shaul"
+    }
+  ],
+  "timestamp": "2026-08-23T05:12:43.546293391Z",
+  "model": "glm-5.3"
+}

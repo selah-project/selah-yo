@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Kí èmi lè sọ gbogbo ìyìn rẹ nínú àwọn ilẹ̀kùn ti ọmọbìnrin Tsiyon; èmi yóò dùn ún lára nínú ìgbàlà rẹ.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kí èmi lè"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "ìyìn rẹ"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "nínú àwọn ilẹ̀kùn"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ti ọmọbìnrin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "dùn ún lára"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "nínú ìgbàlà rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:06.679235885Z",
+  "model": "glm-5.3"
+}

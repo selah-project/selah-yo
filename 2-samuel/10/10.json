@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó sì fi ⟨את⟩ ìkúyà àwọn ènìyàn náà sí ọwọ́ Avishai arágbára rẹ̀, ó sì ṣe ìṣetí láti dojú kọ àwọn ọmọ Ammon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ó sì fi ⟨את⟩",
+      "marks": "ìkúyà àwọn ènìyàn náà"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ìkúyà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ó fi sí"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sí ọwọ́"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arágbára rẹ̀"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ó sì ṣe ìṣetí"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "láti dojú kọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-23T01:00:55.531981361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Láti rí oore àwọn tí O dílà, láti yọ̀ nínú ayọ̀ orílẹ̀-èdè Rẹ, láti gbéga pẹ̀lú èrè Rẹ.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "láti rí"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "nínú oore"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "àwọn tí O dílà"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "láti yọ̀"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "nínú ayọ̀"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "orílẹ̀-èdè Rẹ"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "láti gbéga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "èrè Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:45.074371897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ní àkókò yẹn, ìwásù Yahweh ni pé, wọn ó mú ⟨את⟩ egungun àwọn ọba Yehudah, àti ⟨את⟩ egungun àwọn íjòyè rẹ̀, àti ⟨את⟩ egungun àwọn àlùfáà, àti ⟨את⟩ egungun àwọn wòlíì, àti ⟨את⟩ egungun àwọn olùgbé Yerushalayim jáde kúrò nínú sìkísíkí wọn.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Ní àkókò yẹn"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ìwásù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "wọn ó mú…jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egungun àwọn ọba Yehudah"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "egungun"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "egungun àwọn íjòyè rẹ̀"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "egungun"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "àwọn íjòyè rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "egungun àwọn àlùfáà"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "egungun"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "egungun àwọn wòlíì"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "egungun"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "àwọn wòlíì"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "egungun àwọn olùgbé Yerushalayim"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "egungun"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "àwọn olùgbé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "kúrò nínú sìkísíkí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:11:40.565081796Z",
+  "model": "glm-5.3"
+}

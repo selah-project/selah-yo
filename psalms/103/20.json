@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Ẹ bukún Yahweh, àwọn tí ó ránṣẹ́ rẹ̀, àwọn alágbára lágbára, àwọn tí ó ń ṣe ọ̀rọ̀ rẹ̀, nípa títẹ́tí gbọ́ ohùn ọ̀rọ̀ rẹ̀",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "ẹ bukún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "àwọn tí ó ránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "àwọn alágbára"
+    },
+    {
+      "surface": "כח",
+      "gloss": "lágbára"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "àwọn tí ó ń ṣe"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "nípa títẹ́tí gbọ́"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ọ̀rọ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:36.530367428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Abiathar sọ fún David pé Shaúl ti pa ⟨את⟩ àwọn alùfáà Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "sọ fún"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ti pa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn alùfáà Yahweh"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "àwọn alùfáà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:52:37.424961388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Yahweh ni aláàánú àti olùfọkàn-tìnu, èrò orí-ìbínú rẹ̀ gun, ó sì pọ̀ nínú chesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "aláàánú"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "àti olùfọkàn-tìnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "gun"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "èrò orí-ìbínú"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ó sì pọ̀"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:17.552261506Z",
+  "model": "glm-5.3"
+}

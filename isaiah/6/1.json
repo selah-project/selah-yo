@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ní ọdún tí ọba Uzzijah kú ni mo rí ⟨את⟩ Adonai tí ó jọkọ lórí àga-ìjọba, tí ó ga, tí ó sí gòkè; ìdí àwọ̀ rẹ̀ sì kún ⟨את⟩ ⟨the⟩ temple.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Ní ọdún tí"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kú"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzzijah"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mo rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tí ó jọkọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "àga-ìjọba"
+    },
+    {
+      "surface": "רם",
+      "gloss": "tí ó ga"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "tí ó sí gòkè"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "ìdí àwọ̀ rẹ̀"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "kún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temple"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "⟨the⟩ temple"
+    }
+  ],
+  "timestamp": "2026-08-23T05:54:08.988400929Z",
+  "model": "glm-5.3"
+}

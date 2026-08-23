@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 10:19",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Yahweh sì yìí afẹ́fẹ́ òkun padà, tí ó le púpọ̀, ó sì gbé ⟨את⟩ àwọn ẹyẹ akún-lẹ̀rẹ́ sórí, ó sì lé e sí òkun aláwọ̀-ewé; ẹyẹ akún-lẹ̀rẹ́ kan ò ku ní ààlà Mitsrayim gbogbo.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "Yahweh sì yìí…padà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "afẹ́fẹ́"
+    },
+    {
+      "surface": "ים",
+      "gloss": "òkun"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "tí ó le"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ó sì gbé…sóri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ẹyẹ akún-lẹ̀rẹ́"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "àwọn ẹyẹ akún-lẹ̀rẹ́"
+    },
+    {
+      "surface": "ויתקעהו",
+      "gloss": "ó sì lé e sí"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "sí òkun"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "aláwọ̀-ewé (sufo)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ò"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ẹyẹ akún-lẹ̀rẹ́"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní…gbogbo"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ààlà"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:41.542226883Z",
+  "model": "glm-5.3"
+}

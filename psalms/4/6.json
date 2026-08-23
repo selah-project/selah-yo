@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ẹ rúbọ̀ àwọn rúbọ̀ olódodo, kí ẹ sì gbẹ́yìn lé Yahweh.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "ẹ rúbọ̀"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "àwọn rúbọ̀"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "olódodo"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "kí ẹ sì gbẹ́yìn lé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:34.389618879Z",
+  "model": "glm-5.3"
+}

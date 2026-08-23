@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ṣé ènìyàn lè dé Elohim lọ́rà? Nítorí ẹ̀yin ń dé ⟨אתי⟩ lọ́rà, ẹ sì wí pé, Ní ohun wo ni a ti dé Ọ lọ́rà? Nínú èye-ọ̀rọ̀ àti àwọn ẹ̀bùn-oró.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "ṣé … lè dé … lọ́rà"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "ń dé … lọ́rà"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "ẹ sì wí pé"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ní ohun wo"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "a ti dé Ọ lọ́rà"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "èye-ọ̀rọ̀"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "àti àwọn ẹ̀bùn-oró"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:43.013846171Z",
+  "model": "glm-5.3"
+}

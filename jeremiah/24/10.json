@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Èmi yóò sì ránṣẹ́ sí wọn ⟨את⟩ idà, ⟨את⟩ ebi àti ⟨את⟩ ààrùn, títí wọn fi di àìní tán kúrò lórí ilẹ̀ tí èmi ti fún wọn àti fún àwọn baba wọn.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Èmi yóò sì ránṣẹ́"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idà"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "idà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebi"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ebi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ààrùn"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ààrùn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "wọn fi di àìní tán"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kúrò lórí"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "èmi ti fún"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "àti fún àwọn baba wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:17:22.409367252Z",
+  "model": "glm-5.3"
+}

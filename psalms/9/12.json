@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ẹ kọ orin sí Yahweh, Ẹni tí ó ń gbé ibùgbé Tsiyon; ẹ sọ ìṣẹ́ rẹ̀ sí àwọn ènìyàn hàn.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ẹ kọ orin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "Ẹni tí ó ń gbé ibùgbé"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "ẹ sọ…hàn"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sí àwọn ènìyàn"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ìṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:31.930914674Z",
+  "model": "glm-5.3"
+}

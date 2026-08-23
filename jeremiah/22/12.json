@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Nítorí pé níbi tí wọ́n fi ⟨את⟩ oun gbé lọ sí ìgbègbè, síbẹ̀ ni ó máa kú, ⟨את⟩ ilẹ̀ yìí sì ni ó kì í ní rí mọ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "níbi tí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "wọ́n fi gbé lọ sí ìgbègbè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "oun (Shallum)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "síbẹ̀"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ó máa kú"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rí"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T02:16:35.597252409Z",
+  "model": "glm-5.3"
+}

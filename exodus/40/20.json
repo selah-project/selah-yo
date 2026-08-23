@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ó sì gba, ó sì fi ⟨את⟩ ẹ̀rí náà sínú arákìì, ó sì gbé ⟨את⟩ àwọn ọ̀pá náà sí orí ⟨the⟩ arákìì, ó sì fi ⟨את⟩ ojú-arákìì lórí ⟨the⟩ arákìì lókè.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ó sì gba"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀rí náà"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ẹ̀rí náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sínú"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arákìì"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì gbé ... sí orí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀pá náà"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "àwọn ọ̀pá náà"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arákìì"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú-arákìì"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ojú-arákìì"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arákìì"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "lókè"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:42.140354536Z",
+  "model": "glm-5.3"
+}

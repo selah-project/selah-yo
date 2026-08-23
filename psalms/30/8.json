@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Yahweh, nínú ìfẹ́ rẹ, ìwọ gbé òkè mi dó lásán lágbara; ìwọ pamọ́ ojú rẹ̀, èmi sì di ẹnì tí ń bẹ̀rù títí.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "nínú-ìfẹ́-rẹ"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "ìwọ-gbé-dó"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "fún-òkè-mi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "lágbara"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "ìwọ-pamọ́"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú-rẹ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "èmi-di"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "ẹnì-tí-ń-bẹ̀rù-títí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:54.752643290Z",
+  "model": "glm-5.3"
+}

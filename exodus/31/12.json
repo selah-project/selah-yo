@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Yahweh sì sọ fún Moshe, wí pé:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:01.214383328Z",
+  "model": "glm-5.3"
+}

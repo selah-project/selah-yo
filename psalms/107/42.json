@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Àwọn dọ́gídọ́gi máa rí ⟨i⟩, wọ́n sì máa yọ̀; gbogbo àṣìṣe sì ti ẹnu rẹ̀ pa.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "máa rí"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "àwọn dọ́gídọ́gi"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "wọ́n sì máa yọ̀"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "àṣìṣe"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "ti pa"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ẹnu rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:16.206947333Z",
+  "model": "glm-5.3"
+}

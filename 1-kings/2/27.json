@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 2:27",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Shelomoh sì lé ⟨את⟩ Evyatar kúrò níbí tí ó ti jẹ́ àlùfáà fún Yahweh, láti mú ⟨את⟩ ọ̀rọ̀ Yahweh ó ṣe, ọ̀rọ̀ tí ó sọ lórí ilé Eli ní Shiloh.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "ó sì lé…kúrò"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Evyatar"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "níbí tí ó ti jẹ́"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "láti mú…ó ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ (ọ̀rọ̀ Yahweh)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "ní Shiloh"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:42.287714200Z",
+  "model": "glm-5.3"
+}

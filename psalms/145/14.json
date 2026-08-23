@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Yahweh ń gbé gbogbo àwọn tí ó ṣubú lọ́kẹ̀, ó sì ń gbé gbogbo àwọn tí ó kùnnù lẹ́gàn sókè.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "ń gbé lọ́kẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "àwọn tí ó ṣubú"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "ó sì ń gbé… sókè"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "àwọn tí ó kùnnù lẹ́gàn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:15.141984658Z",
+  "model": "glm-5.3"
+}

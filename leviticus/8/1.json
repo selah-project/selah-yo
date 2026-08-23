@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Yahweh sì sọ fún Moshe, wí pé,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sì sọ fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:36:46.236685499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nahum 3:18",
+  "book": "nahum",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn olùṣọ́-àgùntàn rẹ̀ sùn lọ́wọ́, Ọba Ashshur; àwọn ọmọ ológo rẹ̀ sùn pẹ̀dẹ̀; àwọn ènìyàn rẹ̀ túká sórí àwọn òkè, kò sì ẹni tí ó lè kọ̀ wọ́n pọ̀.",
+  "tokens": [
+    {
+      "surface": "נמו",
+      "gloss": "sùn lọ́wọ́"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "àwọn olùṣọ́-àgùntàn rẹ̀"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "sùn pẹ̀dẹ̀"
+    },
+    {
+      "surface": "אדיריך",
+      "gloss": "àwọn ọmọ ológo rẹ̀"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "túká"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "àwọn ènìyàn rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "sóri"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "ẹni tí ó lè kọ̀ wọ́n pọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:12:35.885814113Z",
+  "model": "glm-5.3"
+}

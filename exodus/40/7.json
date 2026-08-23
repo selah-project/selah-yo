@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Kí o sì fi ⟨את⟩ ìdọ̀ ìwẹ̀ náà sí àárín àgọ́ ìpàdé àti pẹpẹ náà, kí o sì da omi síbẹ̀.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "kí o sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdọ̀ ìwẹ̀ náà"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ìdọ̀ ìwẹ̀ náà"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sí àárín"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ náà"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kí o sì da"
+    },
+    {
+      "surface": "שם",
+      "gloss": "síbẹ̀"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:44.675887590Z",
+  "model": "glm-5.3"
+}

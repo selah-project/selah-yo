@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 62,
+  "translation": "Lórí Elohim ni ìgbàlà mi àti ọlá mi wà; apata agbára mi, ibi ààbò mi, ⟨wà⟩ nínú Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Lórí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ìgbàlà mi"
+    },
+    {
+      "surface": "וכבודí",
+      "gloss": "àti ọlá mi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "apata"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "agbára mi"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ibi ààbò mi"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nínú Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:41.549436071Z",
+  "model": "glm-5.3"
+}

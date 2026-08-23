@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 27:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Òun tabí kí ó mú ipa mi mu, kí ó le ṣe àlàáfíà fún mi; àlàáfíà ni ó máa ṣe fún mi.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Òun tabí"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "kí ó mú … mu"
+    },
+    {
+      "surface": "במעוזי",
+      "gloss": "ipa mi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kí ó le ṣe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ó máa ṣe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:48:22.666874082Z",
+  "model": "glm-5.3"
+}

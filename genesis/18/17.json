@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Yahweh sọ pé, Ṣé èmi óo fi nǹkan tí mo ń ṣe pamọ́ fún Avraham?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sọ pé"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ṣé èmi óo pamọ́"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "fún Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    }
+  ],
+  "timestamp": "2026-08-22T22:59:36.987195850Z",
+  "model": "glm-5.3"
+}

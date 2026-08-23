@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Yahweh sì da ⟨את⟩ ìgbà-ipadà ti Iyob pada, nígbà tí ó ń gbà adúrà fún àwọn ọrẹ́ rẹ̀; Yahweh sì fi ⟨את⟩ gbogbo tí ó wà fún Iyob kún, sí ìgbedì-mejì.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh sì"
+    },
+    {
+      "surface": "שב",
+      "gloss": "da… pada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìgbà-ipadà ti Iyob"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ìgbà-ipadà"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ti Iyob"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "nígbà tí ó ń gbà adúrà"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "fún"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "àwọn ọrẹ́ rẹ̀"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "sì fi… kún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo tí ó wà fún Iyob"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "fún Iyob"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "sí ìgbedì-mejì"
+    }
+  ],
+  "timestamp": "2026-08-23T04:33:19.366512624Z",
+  "model": "glm-5.3"
+}

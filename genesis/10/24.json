@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Arfachshad sì bí ⟨את⟩ Shelach, Shelach sì bí ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arfachshad sì"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "Shelach sì"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:09.358850177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Yahweh sì yìínú padà pé ó ti dá ⟨את⟩ ẹ̀dá ní ayé, ó sì banú jẹ́ sí ọkàn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "sì yìínú padà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ti dá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀dá"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ẹ̀dá"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ayé"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "ó sì banú jẹ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:22.851463292Z",
+  "model": "glm-5.3"
+}

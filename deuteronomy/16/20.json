@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Òdodo, òdodo ni ẹ gbọ́dọ̀ lépa, kí ẹ lè wà lààyè, kí ẹ sì lè jogún ⟨את⟩ ilẹ̀ náà tí Yahweh Elohim rẹ ń fún ọ́.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Òdodo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "òdodo"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ẹ gbọ́dọ̀ lépa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí ẹ lè"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "wà lààyè"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "kí ẹ sì lè jogún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ń fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:13:29.031303379Z",
+  "model": "glm-5.3"
+}

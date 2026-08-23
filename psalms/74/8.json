@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Wọ́n wí nínú ọkàn wọn pé, \"Ẹ jẹ́ ká pa wọn run jọ\"; wọ́n sì sun gbogbo àwọn ibi-ìpàdé El ní ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "wọ́n wí"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "nínú ọkàn wọn"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "ká pa wọn run"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "jọ"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "wọ́n sun (ọ́)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "àwọn ibi-ìpàdé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:13.157263727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Yaakov sì bùkún ⟨את⟩ Paroh, ó sì jáde kúrò níwájú Paroh.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "sì bùkún"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "sì jáde"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kúrò níwájú"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:13:26.147457235Z",
+  "model": "glm-5.3"
+}

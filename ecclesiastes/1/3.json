@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Èrè wo ni tí ó wà fún ènìyàn nínú gbogbo iṣẹ́ rẹ̀ tí ó ń ṣiṣẹ́ lábẹ́ òòrùn?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "èrè"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "fún ènìyàn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nínú gbogbo"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "tí ó ń ṣiṣẹ́"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "òòrùn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:00.483102091Z",
+  "model": "glm-5.3"
+}

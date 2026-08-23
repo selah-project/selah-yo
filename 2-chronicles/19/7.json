@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 19:7",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Nítorí náà nísinsin yìí, ẹrù Yahweh kí ó wà lórí yín; ẹ ṣọ́ ẹ sì ṣe i, nítorí pé ìkọ̀ràn kò sí pẹ̀lú Yahweh, Elohim wa, bẹ́ẹ̀ ni ìgbà-gbájú-ẹni-kan, àti gbígba ègbé.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "nítorí náà nísinsin yìí"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kí ó wà"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ẹrù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "lórí yín"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ẹ ṣọ́ ẹ"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "sì ṣe i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ìkọ̀ràn"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "bẹ́ẹ̀ ni ìgbà-gbájú-ẹni-kan"
+    },
+    {
+      "surface": "פנים",
+      "gloss": ""
+    },
+    {
+      "surface": "ומקח",
+      "gloss": "àti gbígba"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ègbé"
+    }
+  ],
+  "timestamp": "2026-08-23T05:30:41.718526671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Ìjìnnà-rere, bí aṣọ ni Ì bo ilẹ̀; omi dúró lé lórí àwọn òkè.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Ìjìnnà-rere"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "bí aṣọ"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "Ì bo ilẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé lórí"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:06.440606593Z",
+  "model": "glm-5.3"
+}

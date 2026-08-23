@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 95,
+  "translation": "Ẹni tí ó ní nínú ọwọ́ rẹ̀ ìsàlẹ̀ jìnjà ilẹ̀ ayé, àti ipò gíga àwọn òkè.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ẹni tí"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nínú ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "ìsàlẹ̀ jìnjà"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "àti ipò gíga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ní"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:24.827144177Z",
+  "model": "glm-5.3"
+}

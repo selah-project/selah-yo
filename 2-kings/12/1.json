@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ọmọdún méje ni Yehoash, ní ìgbà tí ó bẹ̀rẹ̀ ⟨ìjọba rẹ̀⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "méje"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ní ìgbà ìjọba rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:31:58.223278823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 136,
+  "translation": "Ẹni tí ó rántí wa ní ìpò ìsàlẹ̀ wa, nítorípẹ́lẹ́kọ̀ àánú rẹ̀ ń pẹ́ títí ayé.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "ní ìpò ìsàlẹ̀ wa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Ẹni tí ó rántí"
+    },
+    {
+      "surface": "לנu",
+      "gloss": "wa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorípé"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí ayé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "àánú rẹ̀ ń pẹ́ lẹ́kọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:44.588151333Z",
+  "model": "glm-5.3"
+}

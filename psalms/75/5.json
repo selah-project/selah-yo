@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 75,
+  "translation": "Mo wí fún àwọn olókìkí, ẹ má ṣe kíkí ara yín; àti fún àwọn èṣẹ́, ẹ má ṣe gbé eṣú soké.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "mo wí"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "fún àwọn olókìkí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "kíkí ara yín"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "àti fún àwọn èṣẹ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "gbé sókè"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "eṣú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:32.226087879Z",
+  "model": "glm-5.3"
+}

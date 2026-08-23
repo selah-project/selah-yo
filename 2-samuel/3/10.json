@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "láti yí ⟨the⟩ ìjọba kúrò nínú ilé Shaúl, àti láti gbé ⟨את⟩ àga-ìjọba David sókè lórí Yisrael àti lórí Yehuda, láti Dan dé Beer-Sheva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "láti yí ... kúrò"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nínú ilé"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "àti láti gbé ... sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àga-ìjọba David"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "àga-ìjọba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "láti Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-23T00:57:21.115501088Z",
+  "model": "glm-5.3"
+}

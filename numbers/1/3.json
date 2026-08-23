@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Láti ọmọ ọdún ogún lọ sókè, gbogbo ẹni tí ó ń jáde sí ogun ní Yisrael, ẹ kàn wọn nípa àwọn ẹgbẹ́-ogun wọn; ìwọ àti Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "láti ọmọ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ló sókè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "tí ó ń jáde sí"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ní Yisrael"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "ẹ kàn wọn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn ẹni tí ó ń jáde sí ogun)"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "nípa àwọn ẹgbẹ́-ogun wọn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "ווהרן",
+      "gloss": "àti Aharon"
+    }
+  ],
+  "timestamp": "2026-08-22T23:48:26.327436219Z",
+  "model": "glm-5.3"
+}

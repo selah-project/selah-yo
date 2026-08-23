@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 108,
+  "translation": "Kí àwọn olùfẹ́ rẹ lè là, ṣàlàbà pẹ̀lú ọwọ́ ọ̀tún rẹ, kí o sì dáhùn mi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kí…lè"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "là"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "àwọn olùfẹ́ rẹ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ṣàlàbà"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "pẹ̀lú ọwọ́ ọ̀tún rẹ"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "kí o sì dáhùn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:18.196539531Z",
+  "model": "glm-5.3"
+}

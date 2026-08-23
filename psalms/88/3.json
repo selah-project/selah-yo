@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Kí adúrà mi wà níwájú rẹ; kí o tú ẹnu-eti rẹ sí ìkígbe mi.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "kí ó wà"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "níwájú rẹ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "adúrà mi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "kí o tú"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ẹnu-eti rẹ"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "sí ìkígbe mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:14.190813760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Ó rán ọ̀rọ̀ rẹ̀ tí ó sì í wọn láìsàn, ó sì gba wọn là láti inú àwọn ìdarapadà wọn.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ó rán"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "ó sì í wọn láìsàn"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ó sì gba wọn là"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "láti inú àwọn ìdarapadà wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:00.072789936Z",
+  "model": "glm-5.3"
+}

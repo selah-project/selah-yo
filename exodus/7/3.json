@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ìwọ èmi yóò le ⟨את⟩ ọkàn Paro, èmi yóò sì pọ̀ ⟨את⟩ àwọn àmì mi àti ⟨את⟩ àwọn ìyanu mi sílẹ̀ nínú ilẹ̀ Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ìwọ èmi"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "yóò le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "èmi yóò sì pọ̀… sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àmì mi"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "àwọn àmì mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìyanu mi"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "àwọn ìyanu mi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nínú ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:00.056632820Z",
+  "model": "glm-5.3"
+}

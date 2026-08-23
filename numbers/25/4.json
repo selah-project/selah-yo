@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Yahweh sì wí fún Moshe pé, Gba ⟨את⟩ gbogbo àwọn olórí àwọn ènìyàn mú, kí o sì fi wọn hàn gan-an sí Yahweh níwájú òòrùn, kí inú bbínú Yahweh lè da pada kúrò lọ́dọ̀ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pé \/ sí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Gba…mú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn olórí àwọn ènìyàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "sì fi wọn hàn gan-an sí"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "àwọn olórí náà (fún Yahweh)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "òòrùn"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kí…lè da pada"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "inú bbínú tí ó ń jó"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ìmú-ìbínú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kúrò lọ́dọ̀ Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:41.199967598Z",
+  "model": "glm-5.3"
+}

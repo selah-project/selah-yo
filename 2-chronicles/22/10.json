@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 22:10",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Atalyahu ìyá Ahaziahu sì rí i pé ọmọ rẹ̀ ti kú, ó sì dìde, ó sì pa ⟨את⟩ gbogbo irú-ọmọ ìjọba ilé Yehuda.",
+  "tokens": [
+    {
+      "surface": "ועתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ìyá"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziahu"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "rí i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ti kú"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ó dìde"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ó pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo irú-ọmọ ìjọba ilé Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "irú-ọmọ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-23T05:31:59.998817726Z",
+  "model": "glm-5.3"
+}

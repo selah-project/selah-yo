@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Jẹ́ kí chesed Rẹ, Yahweh, wà lórí wa, gẹ́gẹ́ bí a ṣe retí Ọ̀dọ̀ Rẹ.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Jẹ́ kí … wà"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed Rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "lórí wa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "a retí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ọ̀dọ̀ Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:56.874475416Z",
+  "model": "glm-5.3"
+}

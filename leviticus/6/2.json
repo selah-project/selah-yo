@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Pàṣẹ fún ⟨את⟩ Aharon àti ⟨את⟩ àwọn ọmọ rẹ̀, wí pé: Èyí ni Torah ti ẹ̀bùn ìsún; èyí ni ẹ̀bùn ìsún, tí ń jónà lórí igi-iná rẹ̀ lórí pẹpẹ, gbogbo òru títí di òwúrọ̀; ìná pẹpẹ yóò máa jó nínú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Pàṣẹ fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah ti"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹ̀bùn ìsún"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "èyí ni"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹ̀bùn ìsún"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "igi-iná rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "òwúrọ̀"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ìná"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "yóò máa jó"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nínú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:00.114539339Z",
+  "model": "glm-5.3"
+}

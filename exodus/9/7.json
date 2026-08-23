@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Paroh sì ránṣẹ̣, ki ó sì rí i pé ẹyọ kan kì í kú lára ẹran-ọ̀sìn Yisrael; ọkàn Paroh sì jágbó, ó kò sì fi ⟨את⟩ àwọn ènìyàn náà lọ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì ránṣẹ̣"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ki ó sì rí i pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kú"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "lára ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ẹyọ kan"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "sì jágbó"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ó kò sì"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "fi...lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:20.170228005Z",
+  "model": "glm-5.3"
+}

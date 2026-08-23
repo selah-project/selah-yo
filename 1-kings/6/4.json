@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ó sì ṣe fún ilé náà àwọn fèrèsé tí wọ́n dán wò lọ́nà tí kò ṣí síta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fún ilé náà"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "àwọn fèrèsé"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "tí wọ́n dán wò"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "tí kò ṣí síta"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:33.636872507Z",
+  "model": "glm-5.3"
+}

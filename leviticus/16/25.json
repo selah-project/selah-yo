@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ó sì yóò fi ⟨את⟩ ẹ̀rọ́ ẹran ẹ̀ṣẹ̀ náà sọ di móòwó lórí ⟨the⟩ pẹpẹ ìsọ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀rọ́ ẹran ẹ̀ṣẹ̀ náà"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ẹ̀rọ́ ẹran"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ẹ̀ṣẹ̀ náà"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "sọ di móòwó"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pẹpẹ ìsọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:36.383855946Z",
+  "model": "glm-5.3"
+}

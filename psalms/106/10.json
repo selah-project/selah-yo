@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Ó gbà wọn là láti ọwọ́ ẹni tí ó kórìíra wọn, ó sì ra wọn padà láti ọwọ́ ọ̀tá.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Ó gbà wọn là"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "láti ọwọ́"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ẹni tí ó kórìíra wọn"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "ó sì ra wọn padà"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "láti ọwọ́"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ọ̀tá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:09.656808737Z",
+  "model": "glm-5.3"
+}

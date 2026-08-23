@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Nínú ìṣòro ti àwọn ènìyàn-mọ́tọ́, wọn kò sí; àti pẹ̀lú àwọn ènìyàn, wọn kò ní ìnira rárá.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "nínú ìṣòro"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "àwọn ènìyàn-mọ́tọ́"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "wọn kò sí"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "àti pẹ̀lú àwọn ènìyàn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "ní ìnira"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:41.031670318Z",
+  "model": "glm-5.3"
+}

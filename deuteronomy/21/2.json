@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Àwọn àgbà rẹ àti àwọn adájọ́ rẹ yóò jáde, wọ́n sì máa dín ìwọ̀n sí àwọn ìlú tí ó wà ní ìkàlẹ̀ ẹni tí a pa.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "yóò jáde"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "àwọn àgbà rẹ"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "àwọn adájọ́ rẹ"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "wọ́n sì máa dín ìwọ̀n"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "tí ó wà ní ìkàlẹ̀"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "ẹni tí a pa"
+    }
+  ],
+  "timestamp": "2026-08-23T00:16:21.223312609Z",
+  "model": "glm-5.3"
+}

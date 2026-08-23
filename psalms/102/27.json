@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Àwọn yóò parun, ṣùgbọ́n ìwọ yóò dúró; àti gbogbo wọn yóò sẹ bí aṣọ; gẹ́gẹ́ bí èwù ìwọ yóò pa wọn dà, wọ́n sì yóò yí padà.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Àwọn"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "yóò parun"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ṣùgbọ́n ìwọ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "yóò dúró"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "àti gbogbo wọn"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "bí aṣọ"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "yóò sẹ"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "gẹ́gẹ́ bí èwù"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "ìwọ yóò pa wọn dà"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "wọ́n sì yóò yí padà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:48.665648436Z",
+  "model": "glm-5.3"
+}

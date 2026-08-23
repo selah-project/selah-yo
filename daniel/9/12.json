@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 9:12",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ó sì mú ⟨את⟩ ọ̀rọ̀ rẹ̀ tí ó sọ sókè wa àti sókè àwọn adájọ́ wa tí ó dá wa lẹ́bi dúró, láti mú búburu tó pọ̀ jù wá wá wa lórí, èyí tí a kò ti rí ṣe rí lábẹ́ gbogbo ọ̀run, bí a ti ṣe rí ní Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ó sì mú dúró"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sókè wa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti sókè"
+    },
+    {
+      "surface": "שפטינו",
+      "gloss": "àwọn adájọ́ wa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שפטונו",
+      "gloss": "wọ́n dá wa lẹ́bi"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "láti mú"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "wá wa lórí"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "búburu"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "tó pọ̀ jù"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a kò ti"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "rí ṣe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "ti ṣe rí"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T04:52:24.414303348Z",
+  "model": "glm-5.3"
+}

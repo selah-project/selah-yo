@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ẹ̀yin sì, ẹ gbọ́ ọ̀rọ̀ Yahweh, gbogbo àwọn ènìyàn ìgbìmọ̀ràǹ-de tí mo fi Yerushalayim lọ sí Babeli.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ẹ̀yin sì"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ẹ gbọ́"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "àwọn ènìyàn ìgbìmọ̀ràǹ-de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mo fi"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushalayim lọ"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "sí Babeli"
+    }
+  ],
+  "timestamp": "2026-08-23T02:20:30.482002622Z",
+  "model": "glm-5.3"
+}

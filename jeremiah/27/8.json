@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 27:8",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ó sì jẹ́ pé orílẹ̀-èdè àti ìjọba tí kò ní jọ́sin fún ⟨את⟩ ⟨את⟩ Nevukadnetstsar, ọba Bavel, àti tí kò ní fi ⟨את⟩ ọ̀run rẹ̀ sínu ẹ̀wọn ọba Bavel — ní ọ̀dààni, ní ebi, ní èrùnkàn-àrùn ni èmi yóò fi ṣàbẹ̀wọ̀ orílẹ̀-èdè bẹ́ẹ̀, ìgboyà Yàhwè ni, títí di ìgbà tí mo fi ọwọ́ rẹ̀ bá á pa tán.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ó sì jẹ́ pé"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "orílẹ̀-èdè"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "àti ìjọba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò ní"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "jọ́sin fún"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "⟨את⟩ Nevukadnetstsar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nevukadnetstsar, ọba Bavel"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ àti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò ní"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "fi … sínu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀run rẹ̀"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "ọ̀run rẹ̀"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "sínu ẹ̀wọn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ní ọ̀dààni"
+    },
+    {
+      "surface": "וברעב",
+      "gloss": "ní ebi"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "ní èrùnkàn-àrùn"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "yóò fi ṣàbẹ̀wọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "orílẹ̀-èdè bẹ́ẹ̀"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ìgboyà … ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yàhwè"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di ìgbà tí"
+    },
+    {
+      "surface": "תמי",
+      "gloss": "… pa tán"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bá á (obj)"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ní ọwọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:19:42.155928992Z",
+  "model": "glm-5.3"
+}

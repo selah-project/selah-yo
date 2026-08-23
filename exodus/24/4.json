@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Moshe sì kọ ⟨את⟩ gbogbo ọ̀rọ̀ Yahweh; ó sì jí ní àárọ̀, ó sì kọ́ pẹpẹ sílẹ̀ ní abẹ́ òkè náà, àti àwọn òpó méjìlá fún àwọn ẹ̀yà méjìlá ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "kọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọ̀rọ̀ Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "jí"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "kọ́ sílẹ̀"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní abẹ́"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "òkè náà"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lá"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "àwọn òpó"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "fún àwọn ẹ̀yà méjì"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lá"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ẹ̀yà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:47.574448264Z",
+  "model": "glm-5.3"
+}

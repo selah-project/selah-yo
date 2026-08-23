@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Yahweh tó tóbi, ó sì tó iyìn púpọ̀; ìtobi rẹ̀ sì, kò sí ìwádìí ⟨tí le⟩ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "tóbi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "tó iyìn púpọ̀"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "ìtobi rẹ̀ sì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ìwádìí ⟨tí le⟩ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:33.835392035Z",
+  "model": "glm-5.3"
+}

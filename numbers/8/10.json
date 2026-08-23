@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Kí o sì fi ⟨את⟩ àwọn Lewi dúró níwájú Yahweh, kí àwọn ọmọ Yisrael sì fi ⟨את⟩ ọwọ́ wọn lé lórí àwọn Lewi.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "kí o sì fi… dúró níwájú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Lewi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "àwọn Lewi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "kí… sì fi… lé lórí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ wọn"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ọwọ́ wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "àwọn Lewi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:52:28.040185645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Tí ẹṣẹ̀ tí ẹjọ́ iku sọ di ẹ̀wọ̀n bá ṣẹlẹ̀ nínú ọkùnrin kan, wọ́n sì pa á, ìwọ sì fi ⟨את⟩ ropo lórí igi.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "tí ... bá ṣẹlẹ̀"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ó jẹ́"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "nínú ọkùnrin"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ẹṣẹ̀"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ẹjọ́"
+    },
+    {
+      "surface": "מות",
+      "gloss": "iku"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "wọ́n sì pa á"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "ìwọ sì fi ropo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ropo (ènìyàn náà)"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:15:57.821269771Z",
+  "model": "glm-5.3"
+}

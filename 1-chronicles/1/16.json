@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "àti ⟨את⟩ Ha'arvadi, àti ⟨את⟩ Hatsmari, àti ⟨את⟩ Ḥamati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Ha'arvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Ha'arvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Hatsmari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Hatsmari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Ḥamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Ḥamati"
+    }
+  ],
+  "timestamp": "2026-08-23T05:07:44.691907579Z",
+  "model": "glm-5.3"
+}

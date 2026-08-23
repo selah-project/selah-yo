@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Orin, Mizmór fún àwọn ọmọ Korach; fún olùdarí, lórí Machalat, fún ìdáhùn; Maskil fún Heiman ará Ezrachi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmór"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "fún olùdarí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "fún ìdáhùn"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "fún Heiman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ará Ezrachi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:14.190401444Z",
+  "model": "glm-5.3"
+}

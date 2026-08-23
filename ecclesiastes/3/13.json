@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àti pé gbogbo ènìyàn láti jẹ àti mú omi mu, àti láti rí rere nínú gbogbo iṣẹ́ rẹ̀ — ẹ̀bùn Elohim ni ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "àti pé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "láti jẹ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "àti mú omi mu"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "àti láti rí"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nínú gbogbo"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "ẹ̀bùn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni ⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:35.076038710Z",
+  "model": "glm-5.3"
+}

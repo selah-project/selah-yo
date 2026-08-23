@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Yahweh sì sọ̀rọ̀ sí Moshe, wí pé:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sì sọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:52.406506039Z",
+  "model": "glm-5.3"
+}

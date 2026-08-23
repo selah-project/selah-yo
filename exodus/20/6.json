@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àti ṣíṣe chesed fún àwọn ẹgbẹ̀rún, fún àwọn tí ó fẹ́ràn mi, àti fún àwọn tí ó ń pa àwọn àṣẹ mi mọ́.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "àti ṣíṣe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "fún àwọn ẹgbẹ̀rún"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "fún àwọn tí ó fẹ́ràn mi"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "àti fún àwọn tí ó ń pa mọ́"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "àwọn àṣẹ mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:16.357623801Z",
+  "model": "glm-5.3"
+}

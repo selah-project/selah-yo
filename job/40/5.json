@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ẹ̀kan ní mo ti sọ, ṣùgbọ́n ní mo kò ní í dáhùn; lẹ́ẹ̀mejì, ṣùgbọ́n ní èmi kò ní í fi kún.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "ẹ̀kan"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mo ti sọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n ní mo kò"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "dáhùn"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "lẹ́ẹ̀mejì"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n ní èmi kò"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "fi kún"
+    }
+  ],
+  "timestamp": "2026-08-23T04:29:36.500285225Z",
+  "model": "glm-5.3"
+}

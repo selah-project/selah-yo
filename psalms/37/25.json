@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Mo ti jẹ́ ọmọdé, èmi naa ti di arúgbọ́, níṣóíṣóí mo kò rí ẹni tí ó tọ́ tí a fi sílẹ̀, tàbí ìrúnmọ̀ rẹ̀ ń bẹ́ẹ̀wẹ́ oúnjẹ.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "ọmọdé"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mo ti jẹ́"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naa"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "mo ti di arúgbọ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "íṣóíṣóí mo kò"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mo rí"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ẹni tí ó tọ́"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "tí a fi sílẹ̀"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "tàbí ìrúnmọ̀ rẹ̀"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ń bẹ́ẹ̀wẹ́"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "oúnjẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:00.277921730Z",
+  "model": "glm-5.3"
+}

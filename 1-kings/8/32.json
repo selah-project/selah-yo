@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ìwọ á sì gbọ́ láti àwọn ọ̀run, O sì ṣe, O sì dájọ́ ⟨את⟩ àwọn ìránṣẹ Rẹ, láti da ẹlẹ́ṣẹ̀ lẹ́bi, láti fi ọ̀nà rẹ̀ sí orí rẹ̀, àti láti da olóòótọ́ lọ́tọ́, láti fún un ní gẹ́gẹ́ bí òdodo rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ìwọ á sì"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "láti àwọn ọ̀run"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "O sì ṣe"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "O sì dájọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìránṣẹ Rẹ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "àwọn ìránṣẹ Rẹ"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "láti da lẹ́bi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ẹlẹ́ṣẹ̀ (ẹni búburú)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "láti fi"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sí orí rẹ̀"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "àti láti da lọ́tọ́"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olóòótọ́"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "láti fún"
+    },
+    {
+      "surface": "לו",
+      "gloss": "un"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "ní gẹ́gẹ́ bí òdodo rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:16:46.382062901Z",
+  "model": "glm-5.3"
+}

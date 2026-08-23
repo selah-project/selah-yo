@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Yahweh sì wí fún Moshe pé, \"Okàn Paroh tí ṣípàn, ó kọ̀ láti fi àwọn ènìyàn náà lọ.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ṣípàn"
+    },
+    {
+      "surface": "לב",
+      "gloss": "okàn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "kọ̀"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "láti fi lọ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:15.872435824Z",
+  "model": "glm-5.3"
+}

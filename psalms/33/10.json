@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Yahweh sọ ìgbìmọ̀ àwọn orílẹ̀-èdè di égbé, ó sì sọ èrò àwọn ìran di asán.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "ó sọ … di égbé"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ìgbìmọ̀"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "ó sọ … di asán"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "èrò"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn ìran"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:08.317399505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Nígbà tí ẹ̀mí mi ń ṣẹ́wọ̀n lórí mi, mo rántí ⟨את⟩ Yahweh; àdúrà mi sì dé sí ọ̀dọ̀ rẹ, sí yàrá ìmúle mímọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "nígbà tí ń ṣẹ́wọ̀n"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "mo rántí"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "sì ó dé"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "àdúrà mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "yàrá ìmúle"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "mímọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:10:03.540464828Z",
+  "model": "glm-5.3"
+}

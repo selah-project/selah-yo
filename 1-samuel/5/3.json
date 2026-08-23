@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 5:3",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àwọn ará Ashdod sì jí kú àárọ̀ ọjọ́ ìsíjọ, kíyèsi i, Dagon bálẹ̀ ejíka sílẹ̀ sí ilẹ̀ níwájú ágbá Yahweh; wọ́n sì mú ⟨את⟩ Dagon, wọ́n sì dá a padà sí ipò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישכמו",
+      "gloss": "wọ́n sì jí kú àárọ̀"
+    },
+    {
+      "surface": "אשדודים",
+      "gloss": "Àwọn ará Ashdod"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ọjọ́ ìsíjọ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kíyèsi i sì"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "bálẹ̀ ejíka sílẹ̀"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ejíka rẹ̀ sí"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sí ilẹ̀"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ágbá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "wọ́n sì mú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dagon"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wọ́n sì dá a padà sí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-rẹ̀",
+      "marks": "ipò rẹ̀"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "ipò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:45.079830814Z",
+  "model": "glm-5.3"
+}

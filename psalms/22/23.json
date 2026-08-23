@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Èmi yóò sọ orúkọ rẹ kalẹ̀ fún àwọn ará mi; ní àárín àpapọ̀ ènìyàn ni èmi yóò yín rẹ.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Èmi yóò sọ ... kalẹ̀"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "fún àwọn ará mi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ní àárín"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "àpapọ̀ ènìyàn"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "èmi yóò yín rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:06.488609305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì wí pé, Èdẹ̀ wo ni a gbọ́dọ̀ gbé láti lọ sókè? Ó sì wí pé, Ọ̀nà ijù Edomu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí pé"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Èdẹ̀ wo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "a gbọ́dọ̀ gbé láti lọ sókè"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí pé"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ijù"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-08-23T05:51:42.930029201Z",
+  "model": "glm-5.3"
+}

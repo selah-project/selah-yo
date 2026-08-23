@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ṣùgbọ́n gbogbo ṣeretsi ti ẹyẹ tí ó ní ẹsẹ mẹrin — sheketsi ni fún yín.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ṣùgbọ́n gbogbo"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ṣeretsi"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ti ẹyẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó ní"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ó⟩"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ẹsẹ mẹrin"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ẹsẹ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "sheketsi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ní⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:23.654282982Z",
+  "model": "glm-5.3"
+}

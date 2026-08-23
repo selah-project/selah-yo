@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 34:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Gbogbo omo-ogun ọ̀run yóò rú, ọ̀run yóò wọ́ bí iwé ìkọ̀wé; gbogbo omo-ogun wọn yóò sẹ́ bí èpà tí ó sẹ́ láti inú àjàrà, àti bí èso figi tí ó sẹ́.",
+  "tokens": [
+    {
+      "surface": "ונמקו",
+      "gloss": "yóò rú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "omo-ogun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "ונגלו",
+      "gloss": "yóò wọ́"
+    },
+    {
+      "surface": "כספר",
+      "gloss": "bí iwé ìkọ̀wé"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "omo-ogun wọn"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "yóò sẹ́"
+    },
+    {
+      "surface": "כנבל",
+      "gloss": "bí èpà tí ó sẹ́"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "èso èpà"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "láti inú àjàrà"
+    },
+    {
+      "surface": "וכנבלת",
+      "gloss": "àti tí ó sẹ́"
+    },
+    {
+      "surface": "מתאנה",
+      "gloss": "figi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:53:04.696595094Z",
+  "model": "glm-5.3"
+}

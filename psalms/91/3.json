@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Nítorí òun ni yóò gbà ọ lọ kúrò nínú ẹ̀wọ̀n olẹ́rọ́ ẹyẹ àti kúrò lọ́wọ́ àrùn ègbé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "yóò gbà ọ lọ"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "kúrò nínú ẹ̀wọ̀n"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "olẹ́rọ́ ẹyẹ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "àti kúrò lọ́wọ́ àrùn"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ègbé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:40.016447011Z",
+  "model": "glm-5.3"
+}

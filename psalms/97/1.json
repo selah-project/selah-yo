@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 97,
+  "translation": "Yahweh ti gorí oyè, kí ilẹ̀ yò ayọ̀, kí ⟨àwọn⟩ erékùṣù púpọ̀ ṣe ìbùyọ̀.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti gorí oyè"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "kí ... yò ayọ̀"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "kí ... ṣe ìbùyọ̀"
+    },
+    {
+      "surface": "איים",
+      "gloss": "erékùṣù"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:05.138411464Z",
+  "model": "glm-5.3"
+}

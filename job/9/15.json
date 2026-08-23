@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Tí mo bá tọ́, èmi kì í ṣe dáhùn; fún ọ̀dájọ́ mi ni mo bẹ́ bẹ́ẹ̀.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Tí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bá"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "mo tọ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "dáhùn"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "fún ọ̀dájọ́ mi"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "mo bẹ́ bẹ́ẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:17:59.540417596Z",
+  "model": "glm-5.3"
+}

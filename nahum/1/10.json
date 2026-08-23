@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Nítorí tí wọ́n ṣọ̀kan bíi ẹ̀gbá, tí wọ́n sì ti sayú pẹ̀lú ọ̀tí wọn, wọn yóò jẹ tán bíi ọ̀gbọ̀n tí ó gbẹ gan-an.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí tí"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "ẹ̀gbá"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "wọ́n ṣọ̀kan"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "àti pẹ̀lú ọ̀tí wọn"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "wọ́n ti sayú"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "wọn yóò jẹ tán"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "bíi ọ̀gbọ̀n"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "tí ó gbẹ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "gan-an"
+    }
+  ],
+  "timestamp": "2026-08-23T03:12:06.620034141Z",
+  "model": "glm-5.3"
+}

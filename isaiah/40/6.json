@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ohùn kan sọ pé, Ké órùn. Ó sì sọ pé, Kí ni mo ó ké? Gbogbo ẹran ara ni koró oko, gbogbo ìfẹ́-olóòtítọ́ rẹ̀ sì dàbí èso òdò ⟨oko⟩ náà.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sọ pé"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ké órùn"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "sì sọ pé"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mo ké"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ẹran ara náà"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "koró oko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ìfẹ́-olóòtítọ́ rẹ̀"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "dàbí èso òdò"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "oko náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:55:33.025594888Z",
+  "model": "glm-5.3"
+}

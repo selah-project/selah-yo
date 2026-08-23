@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì lọ kúrò lọ́dọ̀ rẹ̀, ó ti ilẹ̀kùn kọ́ ní ẹ̀gbẹ́ rẹ̀ àti ní ẹ̀gbẹ́ àwọn ọmọ rẹ̀; àwọn ọmọ náà ń mú ihìn wá sọ́dọ̀ rẹ̀, ìyàwó náà sì ń kún epo wọ inú wọn.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ lọ́dọ̀ rẹ̀",
+      "marks": "lọ́dọ̀ rẹ̀ (ọ̀dọ̀ Elisha)"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "ó ti ilẹ̀kùn kọ́"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ilẹ̀kùn"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "ní ẹ̀gbẹ́ rẹ̀"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "àti ní ẹ̀gbẹ́"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "ń mú ihìn wá"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sọ́dọ̀ rẹ̀"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ìyàwó náà sì"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "ń kún epo wọ inú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:28:15.738551618Z",
+  "model": "glm-5.3"
+}

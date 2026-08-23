@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Tí wọ́n bá sọ ọ́ síta dé ìgbà-òpin ọ̀run, láti ibẹ̀ ni Yahweh Ọlọ́run rẹ yóò kó ọ́ papọ̀, láti ibẹ̀ ni ó yóò sì mú ọ́ wá.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Tí … bá"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨bá wà⟩"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "sọ ọ́ síta"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "dé ìgbà-òpin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "משם",
+      "gloss": "láti ibẹ̀"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "yóò kó ọ́ papọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Ọlọ́run rẹ"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "láti ibẹ̀ sì"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "yóò mú ọ́ wá"
+    }
+  ],
+  "timestamp": "2026-08-23T05:47:18.750958376Z",
+  "model": "glm-5.3"
+}

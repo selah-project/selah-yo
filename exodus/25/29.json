@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 25:29",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "O sì máa ṣe àwọn àjà rẹ̀, àwọn ìgbìmọ̀ rẹ̀, àwọn ìbojú rẹ̀, àti àwọn mùrú rẹ̀, tí a fi ń fi ohun rọ̀nú — wúrà mímọ́ ni o gbọ́dọ̀ fi ṣe ⟨את⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o sì máa ṣe"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "àwọn àjà rẹ̀"
+    },
+    {
+      "surface": "וכפתיו",
+      "gloss": "àwọn ìgbìmọ̀ rẹ̀"
+    },
+    {
+      "surface": "וקשותיו",
+      "gloss": "àwọn ìbojú rẹ̀"
+    },
+    {
+      "surface": "ומנקיתיו",
+      "gloss": "àwọn mùrú rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "a fi ń rọ̀nú"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "pẹ̀lú wọn"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o gbọ́dọ̀ fi ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:29.662059456Z",
+  "model": "glm-5.3"
+}

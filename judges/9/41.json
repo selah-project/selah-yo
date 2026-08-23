@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Abimelekh sì gbé ní Arumah; Zebul sì yọ Gaal àti ⟨את⟩ àwọn ará rẹ̀ kúrò ní míímú dígbó láti máa gbé ní Shekhem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "sì gbé ní"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekh"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "ní Arumah"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "sì yọ kúrò"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaal"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ará rẹ̀"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "àwọn ará rẹ̀"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "ní míímú dígbó láti máa gbé"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "ní Shekhem"
+    }
+  ],
+  "timestamp": "2026-08-23T00:36:23.273617809Z",
+  "model": "glm-5.3"
+}

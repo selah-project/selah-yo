@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Nítorí ìbùkún rere ni O ṣáájú rẹ tí; ìgèlégèlé góòlù didá O gbé lé orí rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "O ṣáájú rẹ tí"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ìbùkún"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "O gbé lé"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "orí rẹ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ìgèlégèlé"
+    },
+    {
+      "surface": "פז",
+      "gloss": "góòlù didá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:15.473271562Z",
+  "model": "glm-5.3"
+}

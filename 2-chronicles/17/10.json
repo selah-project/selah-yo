@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 17:10",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ẹ̀rù Yahweh sì ṣubú lórí gbogbo àwọn ìjọba ti àwọn ilẹ̀ tí ó wà ní àlàáyè Yehudah, wọn kò sì ja ogun pẹ̀lú Yehoshafat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sì ṣubú"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ẹ̀rù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "àwọn ìjọba"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ti àwọn ilẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ní àlàáyè"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wọn kò sì"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "ja ogun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    }
+  ],
+  "timestamp": "2026-08-23T06:14:26.328239705Z",
+  "model": "glm-5.3"
+}

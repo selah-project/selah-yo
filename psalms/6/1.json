@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Fún olùdarí orin, pẹ̀lú àwọn ohun èlò okun, lórí Sheminit — mizmor, fún David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí orin"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "pẹ̀lú àwọn ohun èlò okun"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "Sheminit (ìgun kẹjọ)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (orin)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:46.502658842Z",
+  "model": "glm-5.3"
+}

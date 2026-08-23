@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ní ọ̀rọ̀ Yahweh ni àwọn ọ̀run wà níṣẹ́ẹ̀ṣe; àti ní ẹ̀mí ẹnu rẹ̀, gbogbo ẹgbẹ́ wọn.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Ní ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "wà níṣẹ́ẹ̀ṣe"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "àti ní ẹ̀mí"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ẹnu rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ẹgbẹ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:28.574056147Z",
+  "model": "glm-5.3"
+}

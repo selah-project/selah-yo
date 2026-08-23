@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ní ọjọ́ yẹn Paroh pa àṣẹ fún ⟨את⟩ àwọn olórí iṣẹ́ ẹrù tí ó wà láàárín àwọn ènìyàn náà, àti ⟨את⟩ àwọn akọ̀wé wọn, pé:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ó pa àṣẹ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn olórí iṣẹ́ ẹrù"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "àwọn olórí iṣẹ́ ẹrù"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "láàárín àwọn ènìyàn náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn akọ̀wé wọn"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "àwọn akọ̀wé rẹ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:18.271526518Z",
+  "model": "glm-5.3"
+}

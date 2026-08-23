@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Paroh sì wí: Ta ni Yahweh, tí mo gbọ́rọ̀ rẹ̀ láti ṣàṣẹ ⟨את⟩ Israẹl? Emi kò mọ ⟨את⟩ Yahweh, àti ⟨את⟩ Israẹl náà èmi kì yóò ṣàṣẹ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Paroh sì wí"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "mo gbọ́rọ̀ rẹ̀"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ohun rẹ̀"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "láti ṣàṣẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israẹl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mo mọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti... náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israẹl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì yóò"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ṣàṣẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:10.603761827Z",
+  "model": "glm-5.3"
+}

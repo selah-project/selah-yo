@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Yahweh yóò jáde gẹ́gẹ́ bí alágbára; gẹ́gẹ́ bí okunrin ogun ni ó ń gbe ìjà-gbóná sóke; ó máa kígbe, bẹ́ẹ̀ sì ni ó máa kígbe líle; lóri àwọn ọ̀tá rẹ̀ ni ó ti fi agbára gbé ga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "gẹ́gẹ́ bí alágbára"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yóò jáde"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "gẹ́gẹ́ bí okunrin"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "ń gbe sóke"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ìjà-gbóná"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "máa kígbe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bẹ́ẹ̀ sì ni"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "máa kígbe líle"
+    },
+    {
+      "surface": "על",
+      "gloss": "lóri"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "àwọn ọ̀tá rẹ̀"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "fi agbára gbé ga"
+    }
+  ],
+  "timestamp": "2026-08-23T01:56:52.450534541Z",
+  "model": "glm-5.3"
+}

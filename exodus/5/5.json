@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Paroh sọ wí pé: Ẹ rí, ọ̀pọ̀lọpọ̀ ni àwọn ènìyàn ilẹ̀ náà ní àkókò yìí, ẹ̀yin sì ń dá ⟨את⟩ wọn dúró láti iṣẹ́ ẹrù wọn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sọ wí pé"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ẹ rí"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọ̀pọ̀lọpọ̀"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ní àkókò yìí"
+    },
+    {
+      "surface": "עם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "ẹ̀yin ń dá wọ́n dúró"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn ènìyàn ilẹ̀ náà)"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "láti iṣẹ́ ẹrù wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:18.271229146Z",
+  "model": "glm-5.3"
+}

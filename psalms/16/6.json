@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Àwọn okun ìwọ̀n ṣubú lí mi ní àwọn ibi ìdànu; bẹ́ẹ̀ gẹ́gẹ́, ètò-ogún tí ó ń fọ́nkán wà lórí mi.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "àwọn okun ìwọ̀n"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ṣubú"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lí mi"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "ní àwọn ibi ìdànu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bẹ́ẹ̀ gẹ́gẹ́"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ètò-ogún"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "tí ó ń fọ́nkán"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:49.980553113Z",
+  "model": "glm-5.3"
+}

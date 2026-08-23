@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 65,
+  "translation": "Ẹni tí ó fi ẹnu pa ìgbàjá àwọn òkun, ìgbàjá ìfu òfurufú wọn, àti àpapọ̀ àwọn orílẹ̀-èdè.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "fi ẹnu pa"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ìgbàjá"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "àwọn òkun"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ìgbàjá"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ìfu òfurufú wọn"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "àti àpapọ̀"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:28.295516152Z",
+  "model": "glm-5.3"
+}

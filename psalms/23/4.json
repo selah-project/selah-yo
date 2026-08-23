@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Bákan náà, bí mo bá rin láàárín ìdípọ̀ iparun-òkú, èmi kì yóò bẹ̀rù búburú; nítorí ìwọ wà pẹ̀lú mi; ọ̀pá rẹ àti ìka-ọ̀pá rẹ, wọ́n ni wọ́n ń tù mí lọ́kàn.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bákan náà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bí"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mo bá rin"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "láàárín ìdípọ̀"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "iparun-òkú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "yóò bẹ̀rù"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "wà pẹ̀lú mi"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "ọ̀pá rẹ"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "àti ìka-ọ̀pá rẹ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọ́n ni"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "wọ́n ń tù mí lọ́kàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:34.587976962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Iwọ ti rí i, Yahweh; má ṣe dá dé; Adonai, má ṣe jìnà sí mi.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Iwọ ti rí i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "dá dé"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jìnà sí"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:30.393538570Z",
+  "model": "glm-5.3"
+}

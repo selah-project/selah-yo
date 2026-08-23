@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ọ̀rọ̀ èké ẹni tí ó tọ́ ní ó kórìíra; ṣùgbọ́n ẹni búburú yóò ba àwọn ènìyàn jẹ́, yóò sì ti ipa wúwo.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "èké"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ó kórìíra"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ẹni tí ó tọ́"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ṣùgbọ́n ẹni búburú"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "yóò ba àwọn ènìyàn jẹ́"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "yóò sì ti ipa wúwo"
+    }
+  ],
+  "timestamp": "2026-08-23T04:05:49.990295874Z",
+  "model": "glm-5.3"
+}

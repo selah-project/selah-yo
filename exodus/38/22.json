@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 38:22",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Betsalel ọmọ Uri, ọmọ Chur, láti ẹ̀yà Yehuda, ṣe ⟨את⟩ gbogbo nǹkan tí Yahweh pàṣẹ ⟨ti⟩ ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ובצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "láti ẹ̀yà"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo nǹkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo nǹkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:19.415808981Z",
+  "model": "glm-5.3"
+}

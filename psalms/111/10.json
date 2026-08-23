@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 111,
+  "translation": "Ìbẹ̀rẹ̀ ọgbọ́n ni ẹ̀rù Yahweh; ìmọ̀ ọgbọ́n dára sí àwọn tó ń ṣe wọ́n; ọ̀pẹ́ rẹ̀ dúró fún ayé.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Ìbẹ̀rẹ̀"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ọgbọ́n"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ẹ̀rù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "ìmọ̀ ọgbọ́n"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sí àwọn"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "tó ń ṣe wọ́n"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ọ̀pẹ́ rẹ̀"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "fún ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:14.364574058Z",
+  "model": "glm-5.3"
+}

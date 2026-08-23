@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ṣe gẹ́gẹ́ bí oye rẹ, kí ìwọ kì í sọ ipọ́ rẹ̀ jábọ́ sínu àlàáfíà, sí Sheol.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ṣe"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "gẹ́gẹ́ bí oye rẹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí ìwọ kì í"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "sọ…jàbọ́"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "ipọ́ rẹ̀"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "sínu àlàáfíà"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "sí Sheol"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:46.426685759Z",
+  "model": "glm-5.3"
+}

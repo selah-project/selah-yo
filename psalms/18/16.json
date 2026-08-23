@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Àwọn ojú-omi sì farahàn, àwọn ipilẹ̀ ayé sì yẹ̀ wò mídí ìbínú rẹ̀, Yahweh, látì ààrín-èémí ọ̀rà ṣíṣe rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "sì farahàn"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "àwọn ojú-omi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "(omi)"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "sì yẹ̀ wò mídí"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "àwọn ipilẹ̀"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "ìbínú rẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "látì ààrín-èémí"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "(èémí)"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ọ̀rà ṣíṣe rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:35.110991502Z",
+  "model": "glm-5.3"
+}

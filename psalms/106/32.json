@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Wọ́n sì bínú jẹ́ ẹ̀pẹ̀ fún Òun ní omi Merivah, kò sì dára fún Moshe nítorí wọn.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "wọ́n sì bínú jẹ́ ẹ̀pẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "fún"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ní omi"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Merivah"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "kò sì dára"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "fún Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "nítorí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:55.716612857Z",
+  "model": "glm-5.3"
+}

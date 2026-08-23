@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ó sì wí: fi ⟨את⟩ ògo rẹ hàn fún mi, jọ̀wọ́.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "fi hàn fún mi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọ̀wọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ògo rẹ"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "ògo rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:29:11.606902028Z",
+  "model": "glm-5.3"
+}

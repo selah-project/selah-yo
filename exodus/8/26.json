@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Moshe sì jáde kúrò lọ́dọ̀ Paroh, ó sì bẹ̀ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ó sì jáde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kúrò lọ́dọ̀"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ó sì bẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:03.997028672Z",
+  "model": "glm-5.3"
+}

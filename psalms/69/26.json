@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Jẹ́ kí àgọ̀ wọn di ìfofó; kí ènìyàn máa gbé nínú àgámọ̀ wọn.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Jẹ́ kí ... di"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "àgọ̀ wọn"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ìfofó"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "nínú àgámọ̀ wọn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kí ... máa"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Jẹ́ kí"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ènìyàn ... gbé"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:56.327170626Z",
+  "model": "glm-5.3"
+}

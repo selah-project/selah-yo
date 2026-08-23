@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 52,
+  "translation": "Àwọn olódodo yóò rí i, wọn yóò bẹ̀rù, wọn yóò sì sère lóríi rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "wọn yóò rí i"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "àwọn olódodo"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "wọn yóò bẹ̀rù"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "lóríi rẹ̀"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "wọn yóò sì sère"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:10.829854048Z",
+  "model": "glm-5.3"
+}

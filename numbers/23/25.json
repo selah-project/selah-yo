@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Balak sì wí fún Bilam pé: “Má ṣe kóbà án rára, kì í ṣe kóbà; má ṣe bùkún án rara, kì í ṣe bùkún.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rara"
+    },
+    {
+      "surface": "קב",
+      "gloss": "kóbà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "kóbà án"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rara"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bùkún"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "bùkún án"
+    }
+  ],
+  "timestamp": "2026-08-22T23:59:55.445063265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ó sì pé ọjọ́ méje lẹ́yìn tí Yahweh lu ⟨את⟩ odò Náìlì.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ó sì pé"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "méje"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn tí"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "lu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odò Náìlì"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "odò Náìlì"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:43.973790527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Nínú Rẹ, àwọn baba wa gbẹ́kẹ̀ lé; wọ́n gbẹ́kẹ̀ lé, ìwọ sì gbà wọn là.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Nínú Rẹ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "àwọn baba wa"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "wọ́n gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "ìwọ sì gbà wọn là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:21.449147124Z",
+  "model": "glm-5.3"
+}

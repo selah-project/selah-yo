@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 115,
+  "translation": "Eti wọ́n ní, ṣùgbọ́n wọn kò gbọ́;ímú wọ́n ní, ṣùgbọ́n wọn kò fara mọ́nnkan.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "eti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọ́n ní"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n wọn kò"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ímú"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọ́n ní"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n wọn kò"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "fara mọ́nnkan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:28.383375596Z",
+  "model": "glm-5.3"
+}

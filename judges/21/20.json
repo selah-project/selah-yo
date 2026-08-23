@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Wọ́n sì pàṣẹ fún ⟨את⟩ àwọn ọmọ Binyamin pé: Ẹ lọ, ẹ farapamọ́ sínú àwọn àwọ̀n ọ̀gẹ̀dẹ̀ wẹ́wẹ́.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Wọ́n sì pàṣẹ fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Binyamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ẹ lọ"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "ẹ farapamọ́"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "sínú àwọn àwọ̀n ọ̀gẹ̀dẹ̀ wẹ́wẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:41:42.536127784Z",
+  "model": "glm-5.3"
+}

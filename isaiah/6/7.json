@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ó sì kàn sí ẹnu mi, ó sì wí: Wò ó, èyí ti kàn sí èté rẹ; àṣìṣe rẹ ti yọ kúrò, a sì ti rà ẹ̀ṣẹ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "Ó sì kàn sí"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ti kàn sí"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "èté rẹ"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ti yọ kúrò"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "àṣìṣe rẹ"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "ẹ̀ṣẹ̀ rẹ sì"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "a ti rà ẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:42:44.298265520Z",
+  "model": "glm-5.3"
+}

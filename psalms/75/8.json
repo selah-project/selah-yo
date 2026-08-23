@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 75,
+  "translation": "Nítorí Elohim ni onídájọ́; ẹni yìí, ó ń lè lásàlẹ̀, ẹni yìí sì, ó ń gbé sókè.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "onídájọ́"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ẹni yìí"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "ó ń lè lásàlẹ̀"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ẹni yìí sì"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ó ń gbé sókè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:32.226485136Z",
+  "model": "glm-5.3"
+}

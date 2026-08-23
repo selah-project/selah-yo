@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Àwọn ẹ̀ka rẹ̀ yóò tàn, ògo rẹ̀ yóò jẹ́ bí igi-òlí, ìrora rẹ̀ sì yóò jẹ́ bí Lebanoni.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "yóò tàn"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "Àwọn ẹ̀ka rẹ̀"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "bí igi-òlí"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ògo rẹ̀"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "ìrora rẹ̀ sì"
+    },
+    {
+      "surface": "לו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "bí Lebanoni"
+    }
+  ],
+  "timestamp": "2026-08-23T03:03:39.021556708Z",
+  "model": "glm-5.3"
+}

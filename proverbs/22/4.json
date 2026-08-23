@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Èrè ìrọ̀rùn àti ẹ̀rù Yahweh: ọrọ̀, ọlá àti ìyè.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "Èrè"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "ìrọ̀rùn"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ẹ̀rù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ọrọ̀"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ọlá"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "àti ìyè"
+    }
+  ],
+  "timestamp": "2026-08-23T04:10:46.387923582Z",
+  "model": "glm-5.3"
+}

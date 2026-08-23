@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ó fún ọ́ ní ìfẹ́ ọkàn rẹ, ó sì parọ́n gbogbo ìmọ̀ràn rẹ.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Ó fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ́"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "ní ìfẹ́ ọkàn rẹ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ó sì parọ́n gbogbo"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "ìmọ̀ràn rẹ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "parọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:49.506944299Z",
+  "model": "glm-5.3"
+}

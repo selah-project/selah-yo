@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "⟨את⟩ Yahweh, Elohim rẹ, ni iwọ ó gbọ́dọ̀ bẹ̀rù; ⟨את⟩ òun ni iwọ ó gbọ́dọ̀ sìn, àti ní òun ni iwọ ó gbọ́dọ̀ lẹ́mọ́lẹ́mọ́, àti ní orúkọ rẹ̀ ni iwọ ó gbọ́dọ̀ búra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh, Elohim rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "iwọ ó gbọ́dọ̀ bẹ̀rù"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ òun",
+      "marks": "iwọ ó gbọ́dọ̀ sìn (òun)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "iwọ ó gbọ́dọ̀ sìn"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "àti ní òun"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "iwọ ó gbọ́dọ̀ lẹ́mọ́lẹ́mọ́"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "àti ní orúkọ rẹ̀"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "iwọ ó gbọ́dọ̀ búra"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:26.082393924Z",
+  "model": "glm-5.3"
+}

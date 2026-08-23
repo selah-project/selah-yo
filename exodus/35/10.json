@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "àti gbogbo ẹni tí ọgbọ́n bẹ nínú ọkàn rẹ̀ lára yín, jẹ́ kí wọ́n wá, kí wọ́n sì ṣe ⟨את⟩ gbogbo ohun tí Yahweh pàṣẹ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ẹni tí ọgbọ́n bẹ nínú"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "lára yín"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kí wọ́n wá"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "kí wọ́n sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ohun tí Yahweh pàṣẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:29:53.984081214Z",
+  "model": "glm-5.3"
+}

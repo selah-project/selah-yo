@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Gbogbo àwọn àgbà Yisrael sì wá, àwọn Lefi sì gbé ⟨את⟩ árkì náà sókè.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "sì wá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "sì gbé sókè"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "àwọn Lefi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "árkì náà"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "árkì náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:24:33.158520486Z",
+  "model": "glm-5.3"
+}

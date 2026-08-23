@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Wọ́n sì wí fún un pé: Rárá, Adonai mi; ìránṣẹ́ rẹ ni a ti wá láti rà ounjẹ.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "לא",
+      "gloss": "rárá"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai mi"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "a ti wá"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "láti rà"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ounjẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:10:47.615515120Z",
+  "model": "glm-5.3"
+}

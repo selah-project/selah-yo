@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 111,
+  "translation": "Iṣẹ́ ọwọ́ rẹ̀ ni òtítọ́ àti ìdájọ́; gbogbo àṣẹ rẹ̀ dúró ṣinṣin.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "òtítọ́"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "àti ìdájọ́"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "dúró ṣinṣin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "àṣẹ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:03.966379993Z",
+  "model": "glm-5.3"
+}

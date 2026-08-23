@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì wí pé, nígbà tí ẹ bá mú àwọn obìrin Hébérù bí, tí ẹ bá rí wọn lórí àwọn òkúta-ìbí: bí ó bá jẹ́ ọmọkùnrin, ẹ pa á; bí ó bá sì jẹ́ obìrin, kí ó ṣe àyè.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "nígbà tí ẹ bá mú bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn obìrin Hébérù"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "àwọn obìrin Hébérù"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "ẹ bá rí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "àwọn òkúta-ìbí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọkùnrin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "ẹ pa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "á (ọmọkùnrin náà)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "bí ó bá sì"
+    },
+    {
+      "surface": "בת",
+      "gloss": "obìrin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "kí ó ṣe àyè"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:55.564983308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "àti ⟨את⟩ Tsorah, àti ⟨את⟩ Ajalon, àti ⟨את⟩ Hebron, tí ó wà ní Yehudah àti ní Binyamin — àwọn ìlú odi-ìdáàbòbò.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Hebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ní Yehudah"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "àti ní Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "odi-ìdáàbòbò"
+    }
+  ],
+  "timestamp": "2026-08-23T05:25:33.542606575Z",
+  "model": "glm-5.3"
+}

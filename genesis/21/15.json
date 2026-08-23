@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Omi sì tán kúrò nínú àpò náà, ó sì sọ ⟨את⟩ ọmọ náà sí abẹ́ ọ̀kan nínú àwọn kọ́gágá.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "sì tán"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Omi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "àpò náà"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ó sì sọ ... sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ náà"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ọmọ náà"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sí abẹ́"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ọ̀kan nínú"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "àwọn kọ́gágá"
+    }
+  ],
+  "timestamp": "2026-08-22T23:01:35.932128664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ọ̀rọ̀ kan ni Adonai rán sí Yaakov, ó sì ṣubú lórí Yisrael.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "rán"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "sí Yaakov"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "sì ṣubú"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "lórí Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T01:44:38.771880332Z",
+  "model": "glm-5.3"
+}

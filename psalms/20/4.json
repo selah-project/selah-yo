@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ki ó rántí gbogbo ẹbùn-ìfọkànbáṣe rẹ, kí ó sì fọwọ́ sí ẹjọ-ìsọ rẹ. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Ki ó rántí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "ẹbùn-ìfọkànbáṣe rẹ"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "kí ó sì … ẹjọ-ìsọ rẹ"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "fọwọ́ sí"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:22.458282759Z",
+  "model": "glm-5.3"
+}

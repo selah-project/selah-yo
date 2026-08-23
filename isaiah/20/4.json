@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "bẹ́ẹ̀ gẹ́gẹ́ ni ọba Ashur yóò gbé ⟨את⟩ ẹrú Mitzrayim àti ⟨את⟩ ìsọ̀rí-òkúèwè Kush jáde — àwọn ọmọdé àti àwọn agba, lóòrùn àti èètọ̀ ẹsẹ̀, pẹ̀lú ìṣíwọ́ ìbàdí — ìwọ̀ Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ gẹ́gẹ́"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "yóò gbé…jáde"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹrú Mitzrayim"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ẹrú"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ìsọ̀rí-òkúèwè Kush"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "ìsọ̀rí-òkúèwè"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "àwọn ọmọdé"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "àwọn agba"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "lóòrùn"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "èètọ̀ ẹsẹ̀"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "pẹ̀lú ìṣíwọ́"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ìbàdí"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ìwọ̀"
+    },
+    {
+      "surface": "مצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:54:27.739572329Z",
+  "model": "glm-5.3"
+}

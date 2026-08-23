@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "bí wọ́n bá sì ba òfin àṣẹ mi ṣe é, tí wọ́n kò sì ṣọ́ àṣẹ mi —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "bí … bá sì"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "òfin àṣẹ mi"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "wọ́n bá ba … ṣe é"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "àti àṣẹ mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "wọ́n ṣọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:05.249878228Z",
+  "model": "glm-5.3"
+}

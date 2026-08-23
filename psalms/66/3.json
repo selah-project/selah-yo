@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 66,
+  "translation": "Ẹ sọ fún Elohim: “Ìwọ tí ó mú ẹ̀rù bá ń bẹ nínú iṣẹ́ rẹ! Nípasẹ̀ púpọ̀ agbára rẹ, àwọn ọ̀tá rẹ̀ yió parọ́-tẹ́wọ́gbà fún ẹ̀.”",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ẹ sọ fún"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ìwọ tí"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "tí ó mú ẹ̀rù bá"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "iṣẹ́ rẹ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nípasẹ̀ púpọ̀"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "agbára rẹ"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "yió parọ́-tẹ́wọ́gbà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ẹ̀"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "àwọn ọ̀tá rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:00.802385243Z",
+  "model": "glm-5.3"
+}

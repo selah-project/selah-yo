@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ẹni tí ó ń jọkòó ní àwọn ọrun sì ń rínìn, Adonai sì ń fi wọn ṣe yẹ̀.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Ẹni tí ó ń jọkòó"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ní àwọn ọrun"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ń rínìn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "ń fi wọn ṣe yẹ̀"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:18.995741570Z",
+  "model": "glm-5.3"
+}

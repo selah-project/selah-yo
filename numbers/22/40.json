@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Balak sì pa máalẹ̀ àti àwọn ẹran-ọ̀yàn lẹ́bọ, ó sì fi ránṣẹ́ sí Bilam àti sí àwọn olóyè tí ó wà ⟨את⟩ pẹ̀lú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "sì pa...lẹ́bọ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "máalẹ̀"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "àwọn ẹran-ọ̀yàn"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì fi ránṣẹ́ sí"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "àwọn olóyè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pẹ̀lú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:01.649626412Z",
+  "model": "glm-5.3"
+}

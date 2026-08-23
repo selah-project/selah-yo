@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 12:9",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Efraim wí pé: \"Dájúdájú mo ti di olówó, mo ti rí owó fúnra mi; gbogbo iṣẹ́ mi — wọn kì íò rí ìwà búburú kankan lọ́dọ̀ mi, èyí tí ó jẹ́ ẹ̀ṣẹ̀.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sọ wí"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dájúdájú"
+    },
+    {
+      "surface": "עשרתי",
+      "gloss": "mo ti di olówó"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "mo ti rí"
+    },
+    {
+      "surface": "און",
+      "gloss": "owó"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fúnra mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "יגיעי",
+      "gloss": "iṣẹ́ mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "wọn rí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lọ́dọ̀ mi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ìwà búburú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ẹ̀ṣẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:02:41.666698890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Gẹ́gẹ́ bí àìmọ́-mímọ́ wọn àti gẹ́gẹ́ bí ìṣẹ̀gbẹ́ wọn ni mo ṣe ⟨את⟩ wọn, èmi sì fi ojú mi pamọ́ kúrò lọ́dọ̀ wọn.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "Gẹ́gẹ́ bí àìmọ́-mímọ́ wọn"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "àti gẹ́gẹ́ bí ìṣẹ̀gbẹ́ wọn"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ni mo ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "èmi sì fi … pamọ́"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kúrò lọ́dọ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:54:09.553961531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 112,
+  "translation": "Ọkùnrin rere ń ṣànà, ó sì ń yá fún ènìyàn lówó; ó ń ṣèṣe ètò rẹ̀ ní ìdájọ́.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ń ṣànà"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "ó sì ń yá fún ènìyàn lówó"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "ó ń ṣèṣe"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ètò rẹ̀"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ní ìdájọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:55.031406937Z",
+  "model": "glm-5.3"
+}

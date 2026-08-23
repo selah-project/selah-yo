@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Obadyahu sì lọ láti pàdé Ahab, ó sì jẹ́ kí ó mọ̀ ọ́; Ahab sì lọ láti pàdé Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "láti pàdé"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ó sì jẹ́ kí ó mọ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ọ́"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "láti pàdé"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-23T01:22:09.936621527Z",
+  "model": "glm-5.3"
+}

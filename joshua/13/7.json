@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Nísinsin yìí, pín ilẹ̀ yìí ⟨את⟩ ní ìjogún fún àwọn ewéṣù mẹ́sàn-án, àti ìdají ewéṣù Menashe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Nísinsin yìí"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "pín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "ní ìjogún"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "fún àwọn ewéṣù mẹ́sàn-án"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "àwọn ewéṣù"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "àti ìdají"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "ewéṣù"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menashe"
+    }
+  ],
+  "timestamp": "2026-08-23T00:27:22.627192256Z",
+  "model": "glm-5.3"
+}

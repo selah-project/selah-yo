@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ohùn Yahweh ń mú ⟨àwọn⟩ ewúrẹ́-ágbo yọ omọ, ó ń yọ ⟨àwọn⟩ igbó l'éégún; nílé ìdíè rẹ̀, gbogbo nǹkan ń wí pé: Ògo!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ohùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "ń mú yọ omọ"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ewúrẹ́-ágbo"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "ó ń yọ l'éégún"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "àwọn igbó"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "nílé ìdíè rẹ̀"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "gbogbo nǹkan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ń wí"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Ògo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:58.405062955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ní fífẹ́ oogún ọ̀gbà, ní ìhà-ìlà-oòrùn, níwájú ibi-ìyàsọtọ̀ àti níwájú ilé-ìkọ́lé — àwọn yàrá.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "ní fífẹ́"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "oogún"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ọ̀gbà"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ní ìhà-ìlà-oòrùn"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ìlà-oòrùn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ní"
+    },
+    {
+      "surface": "פני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "ibi-ìyàsọtọ̀"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti ní"
+    },
+    {
+      "surface": "פני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "ilé-ìkọ́lé"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "àwọn yàrá"
+    }
+  ],
+  "timestamp": "2026-08-23T02:54:28.665483204Z",
+  "model": "glm-5.3"
+}

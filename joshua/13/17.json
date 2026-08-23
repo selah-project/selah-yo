@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 13:17",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Cheshbon àti gbogbo àwọn ìlú rẹ̀ tí ó wà ní pẹ́tẹ́lẹ̀ naa; Dibon, Bamoth-Baal, àti Beth-Baal-Meon.",
+  "tokens": [
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "àwọn ìlú rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "ní pẹ́tẹ́lẹ̀"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Dibon"
+    },
+    {
+      "surface": "ובמות",
+      "gloss": "Bamoth"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "àti Beth"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "-Meon"
+    }
+  ],
+  "timestamp": "2026-08-23T00:26:50.170476541Z",
+  "model": "glm-5.3"
+}

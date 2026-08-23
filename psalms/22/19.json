@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Wọ́n pín aṣọ mi sí ara wọn, àti lórí aṣọ ìrora mi wọ́n sọ ìpín lásán.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "wọ́n pín"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aṣọ mi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sí ara wọn"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "aṣọ ìrora mi"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "wọ́n sọ (ìpín)"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ìpín lásán"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:18.994889732Z",
+  "model": "glm-5.3"
+}

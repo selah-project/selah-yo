@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Àwọn ìbúra mi ni mo ń san fún Yahweh, níwájú gbogbo ènìyàn rẹ̀ ní báyìí.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "àwọn ìbúra mi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "mo ń san (jáde)"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ní báyìí"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ènìyàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:45.708693427Z",
+  "model": "glm-5.3"
+}

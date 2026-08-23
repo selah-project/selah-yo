@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Bàbá rẹ̀ kò tíì jẹ́ kí ó ṣànàn rárá láti ìgbà ìgbéyàwó rẹ̀, nípa wí pé, \"Èé tí o ṣe báyìí?\" Ó sì tún jẹ́ ẹni tí ó rí rárá lójú; ìyá rẹ̀ sì bí ⟨את⟩ i lẹ́yìn Avshalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "jẹ́ kí ó ṣànàn"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "Bàbá rẹ̀"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "láti ìgbà ìgbéyàwó rẹ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nípa wí pé"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Èé"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "báyìí"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tí o ṣe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sì tún"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ó"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rí rárá"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "lójú"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "i (Adonijah)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "bí"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-23T01:09:41.913020848Z",
+  "model": "glm-5.3"
+}

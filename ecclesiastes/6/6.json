@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ẹni tí yóò máa ló ẹ̀mí ọgọ́rùn-ún ọdún lẹ́ẹ̀mejì, tí kò sì rí rere; ṣé gbogbo wọn kò lọ sí ibi kan ṣoṣo bíi?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "ẹni tí yóò máa ló"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ẹ̀mí (máa ló)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "lẹ́ẹ̀mejì"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "tí kò sì rí rere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rí"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ṣé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan ṣoṣo"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "gbogbo wọn"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:22.007187767Z",
+  "model": "glm-5.3"
+}

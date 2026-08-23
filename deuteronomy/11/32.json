@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ẹ̀yin yóò sì ṣọ́ láti ṣe ⟨את⟩ gbogbo àwọn òfin àti ⟨את⟩ àwọn ìdájọ́ tí emi ń fi síwájú yín lónìí.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ẹ̀yin yóò sì ṣọ́"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn òfin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "àwọn òfin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìdájọ́"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "àwọn ìdájọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "emi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ń fi"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "síwájú yín"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:02.169859517Z",
+  "model": "glm-5.3"
+}

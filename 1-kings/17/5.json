@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ó sì lọ, ó sì ṣe bí ọ̀rọ̀ Yahweh ti wí; ó sì lọ, ó sì gbé inú odò Kerith, tí ó wà ní ojú ṣísẹ Jordan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "bí ọ̀rọ̀ ti wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó sì gbé"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "inú odò"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerith"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú ṣísẹ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "⟨odò⟩ Jordan"
+    }
+  ],
+  "timestamp": "2026-08-23T05:51:51.105184770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ohùn Yahweh wà lórí ⟨àwọn⟩ omi; El ti ipọ́ ń dun árá; Yahweh wà lórí omi púpọ̀.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ohùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨àwọn⟩ omi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ti ipọ́"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ń dun árá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:28.468664360Z",
+  "model": "glm-5.3"
+}

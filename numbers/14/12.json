@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Èmi ó lu wọn pẹ̀lú ààrùn, èmi ó sì ran wọn kúrò, èmi ó sì ṣe ⟨את⟩ ọ dí ìjọ tó tóbi, tó sì le ju wọn lọ.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "èmi ó lu wọn"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "pẹ̀lú ààrùn"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "èmi ó sì ran wọn kúrò"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "èmi ó sì ṣe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ọ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "dí ìjọ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "tó sì le"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ju wọn lọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:54:58.384791096Z",
+  "model": "glm-5.3"
+}

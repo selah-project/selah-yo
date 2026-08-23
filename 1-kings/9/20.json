@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Gbogbo àwọn ènìyàn tí ó kù lára àwọn Emori, àwọn Hiti, àwọn Perizi, àwọn Hivi àti àwọn Yevusi, tí wọn kì í ṣe àwọn ọmọ Yisrael ni wọn.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "tí ó kù"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lára"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "àwọn Emori"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "àwọn Hiti"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "àwọn Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "àwọn Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "àti àwọn Yevusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:16:10.507486185Z",
+  "model": "glm-5.3"
+}

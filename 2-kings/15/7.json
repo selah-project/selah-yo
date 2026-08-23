@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Azaraya sì sùn pẹ̀lú àwọn baba rẹ̀, wọ́n sì sin í pẹ̀lú àwọn baba rẹ̀ ní ìlú Davida; Yotamu ọmọ rẹ̀ sì jẹ́ ọba ní ipò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "sì sùn"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaraya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "àwọn baba rẹ̀"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "wọ́n sì sin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ í",
+      "marks": "í (Azaraya)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "àwọn baba rẹ̀"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ní ìlú"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "sì jẹ́ ọba"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotamu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ní ipò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:33:00.222032014Z",
+  "model": "glm-5.3"
+}

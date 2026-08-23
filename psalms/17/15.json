@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Èmi, ní òdodo, èmi ó rí ojú rẹ; èmi ó kún nígbà tí èmi bá jí, ní àwòrán rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ní òdodo"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "èmi ó rí"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "èmi ó kún"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "nígbà tí èmi bá jí"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "ní àwòrán rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:48.244686974Z",
+  "model": "glm-5.3"
+}

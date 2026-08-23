@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Elohim, nígbà tí o ń jade níwájú ènìyàn rẹ, nígbà tí o ń rìn káàkiri ijù igbó náà — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "nígbà tí o ń jade"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ènìyàn rẹ"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "nígbà tí o ń rìn káàkiri"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "ijù igbó náà"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:03.679444642Z",
+  "model": "glm-5.3"
+}

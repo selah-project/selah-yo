@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 14:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Nítorí pé Yahweh yió ṣe àánú fún ⟨את⟩ Yaakov, yió sì tún yàn Yisrael, yió sì fi wọn sinmi ní ilẹ̀ wọn; àjèjì yió darapọ̀ mọ́ wọn, wọn yió sì lè mọ́ ilé Yaakov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "yió ṣe àánú fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "yió sì tún yàn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tún"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "yió sì fi wọn sinmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ilẹ̀ wọn"
+    },
+    {
+      "surface": "ונלוה",
+      "gloss": "yió darapọ̀"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "àjèjì"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mọ́ wọn"
+    },
+    {
+      "surface": "ונספחו",
+      "gloss": "wọn yió sì lè mọ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-23T01:45:10.032180605Z",
+  "model": "glm-5.3"
+}

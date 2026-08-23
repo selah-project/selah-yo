@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ihájọ ilẹ̀ ni iwọ máa ṣe fún mi, iwọ sì máa rúbọ lórí i ⟨את⟩ èrúbọ iná rẹ, àti ⟨את⟩ ẹbọ àlàáfíà rẹ, ⟨את⟩ àgùntàn rẹ àti ⟨את⟩ màlúù rẹ; ní gbogbo ibi tí mo bá fi ⟨את⟩ orúkọ mi létí, ni mo máa wá bá ọ̀, mo sì máa bùkún ọ́.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "ihájọ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "máa ṣe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "sì máa rúbọ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èrúbọ iná rẹ"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "èrúbọ iná rẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹbọ àlàáfíà rẹ"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "ẹbọ àlàáfíà rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgùntàn rẹ"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "àgùntàn rẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "màlúù rẹ"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "màlúù rẹ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "mo bá fi ... létí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ mi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "orúkọ mi"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "mo máa wá"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bá ọ̀"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "sì máa bùkún ọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:41.040269721Z",
+  "model": "glm-5.3"
+}

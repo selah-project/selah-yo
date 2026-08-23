@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àwọn igi sì wí fún igi figi pé: Wá, ìwọ, jẹ́ ọba lórí wa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "àwọn igi"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "fún igi figi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "jẹ́ ọba"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "lórí wa"
+    }
+  ],
+  "timestamp": "2026-08-23T00:35:26.214550055Z",
+  "model": "glm-5.3"
+}

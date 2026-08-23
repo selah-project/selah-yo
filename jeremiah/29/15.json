@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Nítorí tí ẹ̀yin ti wí pé, 'Yahweh ti gbé àwọn wòlíì dìde fún wa ní Bavel.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "ẹ̀yin ti wí"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ó ti gbé ... dìde"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "àwọn wòlíì"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ní Bavel"
+    }
+  ],
+  "timestamp": "2026-08-23T02:21:18.021940826Z",
+  "model": "glm-5.3"
+}

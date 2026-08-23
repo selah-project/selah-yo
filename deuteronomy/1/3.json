@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì wáyé ní ọdún méjìlélógójì, ní oṣù kọkànlá, ní ọjọ́ kìíní oṣù náà, Moshe bẹ̀rẹ̀ sí í sọ̀rọ̀ fún àwọn ọmọ Israẹli, gẹ́gẹ́ bí gbogbo ohun tí Yahweh pàṣẹ fún ⟨את⟩ un nípa wọn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "ní ọdún méjìlélógójì"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "ní oṣù kọkànlá (ìkọ̀kọ̀)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kọkànlá (ẹ̀wá)"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "oṣù"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ní ọjọ́ kìíní"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "oṣù náà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sọ̀rọ̀"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gẹ́gẹ́ bí gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ un",
+      "marks": "un"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nípa wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:26.229601310Z",
+  "model": "glm-5.3"
+}

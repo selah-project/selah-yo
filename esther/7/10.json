@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Wọ́n sì gùn ⟨את⟩ Haman lórí igi tí ó ti pèsè fún Mordekai, ìbínú ọba sì balẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Wọ́n sì gùn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ti pèsè"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "fún Mordekai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "ìbínú"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "sì balẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:46:17.804667999Z",
+  "model": "glm-5.3"
+}

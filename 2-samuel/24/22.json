@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 24:22",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Aravnah sì wí fún Dafidi, kí olúwa mi ọba gba, kí ó sì gbé e lé environment lórí, ohun tí ó dára lójú rẹ̀; wò ohun — àwọn màlúù náà fún ẹbùn-ìsọná, àti àwọn ohun èlè lílọ̀, àti àwọn ohun èlè àwọn màlúù fún igi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kí ó gba"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kí ó sì gbé e lé environment lórí"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "olúwa mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ohun tí ó dára"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "lójú rẹ̀"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wò"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "àwọn màlúù náà"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "fún ẹbùn-ìsọná"
+    },
+    {
+      "surface": "והמרגים",
+      "gloss": "àti àwọn ohun èlè lílọ̀"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "àti àwọn ohun èlè"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "àwọn màlúù"
+    },
+    {
+      "surface": "לעצים",
+      "gloss": "fún igi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:09:16.175543687Z",
+  "model": "glm-5.3"
+}

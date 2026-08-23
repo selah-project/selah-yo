@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Gẹ́gẹ́ bákan náà nínu ìmọ̀ rẹ, má ṣe bú ọba; àti nínu yàrá ìbùsùn rẹ, má ṣe bú ẹni lọ́rọ̀; nítorí ẹyẹ ojú ọ̀run ni yóò gbé ⟨את⟩ ohùn náà lọ, àti olùní apá yóò sọ ọ̀rọ̀ náà jáde.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Gẹ́gẹ́ bákan náà"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "nínu ìmọ̀ rẹ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "bú"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "àti nínu yàrá"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "ìbùsùn rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "bú"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ẹni lọ́rọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ẹyẹ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ojú ọ̀run"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "yóò gbé … lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohùn náà"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "ohùn náà"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "àti olùní"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "apá"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "yóò sọ … jáde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:21.333593336Z",
+  "model": "glm-5.3"
+}

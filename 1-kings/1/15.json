@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Bat-Sheva sì wá sí ọ̀dọ̀ ọba náà, sí inú yàrá rẹ̀; ọba náà sì ti gbà àgbà púpọ̀; Avishag ará Shunem sì ń ṣe ìránṣẹ́ fún ⟨את⟩ ọba náà.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "sì wá"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "sí inú yàrá rẹ̀"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ọba náà sì"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ti gbà àgbà"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "Avishag sì"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "ará Shunem"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ń ṣe ìránṣẹ́ fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọba náà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:01.323001439Z",
+  "model": "glm-5.3"
+}

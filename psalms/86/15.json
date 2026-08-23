@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 86,
+  "translation": "Ṣùgbọ́n Ìwọ, Adonai, El tí ó bábinu-inú, tí ó sì ṣàánú láilài-nínú-bínú, tí ó pọ̀ ní chesed àti ní òtítọ́.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ṣùgbọ́n Ìwọ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "tí ó bábinu-inú"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "tí ó sì ṣàánú"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "láilài-nínú-bínú"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "láilài-nínú-bínú"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "tí ó pọ̀ ní"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "àti ní òtítọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:19.373040870Z",
+  "model": "glm-5.3"
+}

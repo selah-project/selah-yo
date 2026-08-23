@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Nígbà tí mo bá rí àwọn ọ̀run rẹ, iṣẹ́ owó-ìka rẹ, oṣùpá àti àwọn ìràwọ́, tí ìwọ ti fi ṣẹ́dà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "mo bá rí"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "àwọn ọ̀run rẹ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "owó-ìka rẹ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "oṣùpá"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "àti àwọn ìràwọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "ìwọ ti fi ṣẹ́dà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:23:19.916349686Z",
+  "model": "glm-5.3"
+}

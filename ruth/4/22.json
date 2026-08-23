@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Oved sì bí ⟨את⟩ Yishai, Yishai sì bí ⟨את⟩ David.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Oved sì"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "Yishai sì"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-23T04:33:52.971170999Z",
+  "model": "glm-5.3"
+}

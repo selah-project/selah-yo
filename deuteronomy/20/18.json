@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 20:18",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Kí wọn má ṣe kọ́ yín láti ṣe gbogbo ìkórìíra wọn, èyítí wọn ṣe sí àwọn elohim wọn, kí ẹ̀ má bà ṣẹ̀ sí Yahweh Elohim yín.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kí wọn má ṣe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "kọ́"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תועבתם",
+      "gloss": "ìkórìíra wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyítí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wọn ṣe"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "sí àwọn elohim wọn"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "kí ẹ̀ má bà ṣẹ̀"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:16:09.455599169Z",
+  "model": "glm-5.3"
+}

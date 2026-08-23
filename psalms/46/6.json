@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Elohim wà láàárín rẹ̀ — kì í ṣe yóò sún; Elohim yóò ràn án lọ́wọ́ ní ìrọ̀lẹ́ àárọ̀.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "wà láàárín rẹ̀"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "yóò sún"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "yóò ràn án lọ́wọ́"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "ní ìrọ̀lẹ́"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "àárọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:52.091603462Z",
+  "model": "glm-5.3"
+}

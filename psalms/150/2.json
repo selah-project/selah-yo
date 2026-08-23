@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 150,
+  "translation": "Ẹ ṣe ìyìn fún ⟨olú-òun⟩ nítorí ìṣe ìjàgbara rẹ̀; ẹ ṣe ìyìn fún ⟨olú-òun⟩ gẹ́gẹ́ bí i bíbi tí ó gbà.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ẹ ṣe ìyìn fún ⟨olú-òun⟩"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "nítorí ìṣe ìjàgbara rẹ̀"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ẹ ṣe ìyìn fún ⟨olú-òun⟩"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "gẹ́gẹ́ bí i"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "bíbi tí ó gbà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:49.168540551Z",
+  "model": "glm-5.3"
+}

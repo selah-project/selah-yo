@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 120,
+  "translation": "Kí ni ⟨a ó⟩ fún ọ́, àti kí ni ⟨a ó⟩ fi àfikún fún ọ́, ètè ẹlẹ́rìí-ìkẹ̀?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ́"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "àti kí ni"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "àfikún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ́"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ètè"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ẹlẹ́rìí-ìkẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:30.131120947Z",
+  "model": "glm-5.3"
+}

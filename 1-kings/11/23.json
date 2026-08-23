@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Elohim sì gbé agbojáde fún un: satan kan, Rezon ọmọ Eliyada, ẹni tí ó sásalẹ́ lọ kúrò lọ́dọ̀ ⟨את⟩ Hadadezer, ọba Sobah, olúwa rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sì gbé ... agbojáde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "satan kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eliyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "sásalẹ́ lọ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kúrò lọ́dọ̀ ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Sobah"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "olúwa rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:18:31.269707689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Elohim jẹ́ ibi ààbò fún wa, àti ipá, ìrànlọ́wọ́ nínú ìṣòro tí a ń rí bá ṣiṣẹ́ púpọ̀.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "ibi ààbò"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "àti ipá"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "ìrànlọ́wọ́"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "nínú ìṣòro"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "tí a ń rí bá"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ṣiṣẹ́ púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:30.414339059Z",
+  "model": "glm-5.3"
+}

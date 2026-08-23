@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Láti ọ̀dọ̀ àwọn àgbà ni mo yegeo ju; nítorí pé mo ti ṣọ́ àwọn àṣẹ rẹ.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "láti ọ̀dọ̀ àwọn àgbà"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "mo yegeo ju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "àwọn àṣẹ rẹ"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "mo ti ṣọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:21.137568595Z",
+  "model": "glm-5.3"
+}

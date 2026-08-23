@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Ìwọ ó tú wọn ká, afẹ́fẹ́ sì gbé wọn lọ, ìjì-agbóná sì tú wọn ká ⟨אתם⟩; ìwọ ó dókun ayò ní Yahweh, ìwọ sì fìdí hò nínú Mímọ́ ti Israẹli.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "Ìwọ ó tú wọn ká"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "afẹ́fẹ́ sì"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "gbé wọn lọ"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "ìjì-agbóná sì"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "tú wọn ká"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn òkè àti àwọn òkè kékeré)"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ìwọ sì"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "dókun ayò"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ní Yahweh"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "nínú Mímọ́"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "fìdí hò"
+    }
+  ],
+  "timestamp": "2026-08-23T05:55:01.996134728Z",
+  "model": "glm-5.3"
+}

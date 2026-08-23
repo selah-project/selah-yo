@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 137,
+  "translation": "Rántí, Yahweh, sí àwọn ọmọ Edomu, ⟨את⟩ ọjọ́ Yerushalayim, àwọn tí ó wí pé: Ẹ dà á lú, ẹ dà á lú, títí dé ìpilẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Rántí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sí àwọn ọmọ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọjọ́"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "àwọn tí ó wí pé"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ẹ dà á lú"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ẹ dà á lú"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "ìpilẹ̀"
+    },
+    {
+      "surface": "בה",
+      "gloss": "rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:08.379126149Z",
+  "model": "glm-5.3"
+}

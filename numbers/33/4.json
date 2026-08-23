@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Àwọn ará Mitsrayim sì ń sin ⟨את⟩ àwọn tí Yahweh kọlu nínú wọn — gbogbo akọbí — nígbà tí Yahweh ṣe ìdájọ́ lórí àwọn ọlọ́run wọn.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "àwọn ará Mitsrayim sì"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "ń sin (okú)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn tí Yahweh kọlu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "kọlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nínú wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "akọbí"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "àti lórí àwọn ọlọ́run wọn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ìdájọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:05:32.152125077Z",
+  "model": "glm-5.3"
+}

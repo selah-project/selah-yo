@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Nítorí pé bí wọn bá ṣubú, ẹyọkan yóò gbé ⟨את⟩ ẹlọ́míràn rẹ̀ dìde; ṣùgbọ́n wọ́ fún ẹyọkan tí ó bá ṣubú, tí kò sí kejì láti gbé e dìde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "wọn bá ṣubú"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ẹyọkan"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "yóò gbé … dìde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹlọ́míràn rẹ̀"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ẹlọ́míràn rẹ̀"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "ṣùgbọ́n wọ́ fún"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ẹyọkan"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "tí ó bá ṣubú"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tí kò sí"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kejì"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "láti gbé e dìde"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:31.583223196Z",
+  "model": "glm-5.3"
+}

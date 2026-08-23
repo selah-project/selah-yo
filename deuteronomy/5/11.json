@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Má ṣe gba ⟨את⟩ orúkọ Yahweh, Elohim rẹ, ní àṣìṣe; nítorí tí Yahweh kì í yọ eni tí ó bá gba ⟨את⟩ orúkọ rẹ̀ ní àṣìṣe là.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "gba…ní"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ní àṣìṣe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "yọ…là"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eni tí ó bá gba orúkọ rẹ̀ ní àṣìṣe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ní àṣìṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:54.252077724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 21:23",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Nísì í, ṣèrè ilérí fún mi níbí nípa Elohim, kí ì má ṣe parọ́ mi, tàbí ìran mi, tàbí ọmọ-ọmọ mi; gẹ́gẹ́ bí oore-òfé tí mo ṣe fún ẹ ni kí ì ṣe fún mi àti fún ilẹ̀ tí ì ti ńṣe àlejò níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Nísì í"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "ṣèrè ilérí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nípa Elohim"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "níbí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kí ì má ṣe"
+    },
+    {
+      "surface": "תשקר",
+      "gloss": "parọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ולניני",
+      "gloss": "tàbí ìran mi"
+    },
+    {
+      "surface": "ולנכדי",
+      "gloss": "tàbí ọmọ-ọmọ mi"
+    },
+    {
+      "surface": "כחסד",
+      "gloss": "gẹ́gẹ́ bí oore-òfé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mo ṣe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "fún ẹ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ì ṣe"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "àti fún"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "גרתה",
+      "gloss": "ì ti ńṣe àlejò"
+    },
+    {
+      "surface": "בה",
+      "gloss": "níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:00:33.858831878Z",
+  "model": "glm-5.3"
+}

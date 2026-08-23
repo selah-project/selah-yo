@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 9:22",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Shemuel gba ⟨את⟩ Shaul àti ⟨את⟩ ọmọ-ọ̀dọ̀ rẹ̀, ó sì mú wọn wá sí yàrá ìsìnà, ó sì fún wọn ní ipò ní àríwá àwọn tí a pè; wọn ìgboro yìí sì tó ọgbọ̀n ènìyàn.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọmọ-ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "ọmọ-ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ó mú wọn wá sí"
+    },
+    {
+      "surface": "לשכתה",
+      "gloss": "yàrá ìsìnà"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fún"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ní àríwá"
+    },
+    {
+      "surface": "הקרואים",
+      "gloss": "àwọn tí a pè"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "wọn ìgboro yìí"
+    },
+    {
+      "surface": "כשלשים",
+      "gloss": "tó ọgbọ̀n"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:46:26.949283394Z",
+  "model": "glm-5.3"
+}

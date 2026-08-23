@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àwọn ọmọ ìgbìmọ̀ sì ṣe ⟨את⟩ Pásíkà ní ọjọ́ kẹrìnlá oṣù kìíní.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "wọ́n sì ṣe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ìgbìmọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pásíkà"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pásíkà"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ní ọjọ́ kẹrìn"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lá"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "oṣù"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kìíní"
+    }
+  ],
+  "timestamp": "2026-08-23T04:58:45.441866271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ìwọ yóò sì fi ⟨את⟩ àwọn ìsọ̀ ìwọ̀wọ̀ méjì wúrà náà sí lórí ìgboyà méjì náà, ní òpin àpètè ààyà náà.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Ìwọ yóò sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìsọ̀ ìwọ̀wọ̀ méjì wúrà náà"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "àwọn ìsọ̀ ìwọ̀wọ̀"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà náà"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí lórí"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ìgboyà náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ní"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "òpin"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "àpètè ààyà náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:08.486338825Z",
+  "model": "glm-5.3"
+}

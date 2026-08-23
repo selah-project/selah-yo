@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 26:16",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Àwọn olórí òkun yóò sì sọ̀kalẹ̀ kúrò lórí àwọn oyè-ìjọba wọn, gbogbo wọn; wọn yóò yọ ⟨את⟩ àwọn èwù àgbà wọn kúrò, wọn yóò yọ ⟨את⟩ àwọn aṣọ aláròbinrin wọn kálẹ̀; wọn yóò wọ̀ aṣọ-ìrọ̀run, wọn yóò jọkọ sí lórí ilẹ̀, wọn yóò sì rọ̀run nígbà gbogbo, wọn yóò sì ya wéré sí ọ lọ.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "yóò sì sọ̀kalẹ̀"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kúrò lórí"
+    },
+    {
+      "surface": "כסאותם",
+      "gloss": "àwọn oyè-ìjọba wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "הים",
+      "gloss": "òkun"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "wọn yóò yọ…kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn èwù àgbà wọn"
+    },
+    {
+      "surface": "מעיליהם",
+      "gloss": "àwọn èwù àgbà wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn aṣọ aláròbinrin wọn"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "àwọn aṣọ"
+    },
+    {
+      "surface": "רקמתם",
+      "gloss": "aláròbinrin wọn"
+    },
+    {
+      "surface": "יפשטו",
+      "gloss": "wọn yóò yọ…kálẹ̀"
+    },
+    {
+      "surface": "חרדות",
+      "gloss": "aṣọ-ìrọ̀run"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "wọn yóò wọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí lórí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "wọn yóò jọkọ"
+    },
+    {
+      "surface": "וחרדו",
+      "gloss": "wọn yóò sì rọ̀run"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "wọn yóò sì ya wéré"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sí ọ lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:47:51.800106651Z",
+  "model": "glm-5.3"
+}

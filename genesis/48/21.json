@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Israẹli sì wí fún Yosefu: Wọ̀nyí ni, èmi ń kú, Elohim yóò sì wà pẹ̀lú yín, ó sì máa da ⟨את⟩ yín padà sí ilẹ̀ àwọn baba yín.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Wọ̀nyí ni"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ń kú"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "yóò sì wà"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pẹ̀lú yín"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ó sì máa da padà"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín (àwọn ọmọ Israẹli)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "àwọn baba yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:06.451616188Z",
+  "model": "glm-5.3"
+}

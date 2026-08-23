@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "A ti di àwọn ọmọ tí ó sọnù baba; láìní baba ni; àwọn ìyá wa bí àwọn opó.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "àwọn ọmọ tí ó sọnù baba"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "a ti di"
+    },
+    {
+      "surface": "אין",
+      "gloss": "láìní"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "àwọn ìyá wa"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "bí àwọn opó"
+    }
+  ],
+  "timestamp": "2026-08-23T04:39:39.880698503Z",
+  "model": "glm-5.3"
+}

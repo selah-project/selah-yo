@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 59,
+  "translation": "Wò ó, ọ̀rọ̀ ń bọ́ jáde nínú ẹnu wọn; idà sì wà nínú èté wọn; nítorí — ta ni ó ń gbọ́?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "ọ̀rọ̀ ń bọ́ jáde"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "nínú ẹnu wọn"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "idà"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "nínú èté wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ń gbọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:47.744221735Z",
+  "model": "glm-5.3"
+}

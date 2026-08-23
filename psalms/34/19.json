@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Yahweh súnmọ́ àwọn tí okàn wọn ti fọ́, Ó sì ń gbà ⟨àwọn⟩ tí ẹ̀mí wọn ti lọ́ gìlàgbìlà.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "súnmọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "àwọn tí ... ti fọ́"
+    },
+    {
+      "surface": "לב",
+      "gloss": "okàn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn tí ẹ̀mí wọn ti lọ́ gìlàgbìlà"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "àwọn tí wọn ti lọ́ gìlàgbìlà"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "Ó ń gbà là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:15.199193693Z",
+  "model": "glm-5.3"
+}

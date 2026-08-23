@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 58,
+  "translation": "Ẹni tí ó tọ́ máa yọ̀ nítorí tí ó rí ìṣẹ̀lẹ̀ ìdájọ́ ìdanìyàn; ẹsẹ̀ rẹ̀ ni yóò wẹ̀ nínú ẹjẹ́ ẹni tí ó búburú.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "máa yọ̀"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ẹni tí ó tọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ó rí"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ìṣẹ̀lẹ̀ ìdájọ́ ìdanìyàn"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "yóò wẹ̀"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "nínú ẹjẹ́"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ẹni tí ó búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:29.189321701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "⟨את⟩ àwọn agbònràn wọn, àti ⟨את⟩ àwọn málùù wọn, àti ⟨את⟩ àwọn kẹ́tẹ́kẹ́tẹ́ wọn, àti ⟨את⟩ ohun tí ó wà nínú ìlú náà, àti ⟨את⟩ ohun tí ó wà nínú ọ̀nà àwọn máalẹ̀, wọ́n gbé gbà.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn agbònràn wọn"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "àwọn agbònràn wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn málùù wọn"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "àwọn málùù wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn kẹ́tẹ́kẹ́tẹ́ wọn"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "àwọn kẹ́tẹ́kẹ́tẹ́ wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí ó wà nínú ìlú náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí ó wà"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nínú ìlú náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí ó wà nínú ọ̀nà àwọn máalẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí ó wà"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nínú ọ̀nà àwọn máalẹ̀"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "wọ́n gbé gbà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:15.944437315Z",
+  "model": "glm-5.3"
+}

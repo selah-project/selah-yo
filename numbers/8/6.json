@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Gba ⟨את⟩ awọn ará Levi kúrò láàárín àwọn ọmọ Yisrael, kí o sì ṣe ⟨את⟩ wọn ní mọ́.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awọn ará Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "awọn ará Levi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kúrò láàárín"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "kí o sì ṣe wọn ní mọ́"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:52:51.968950966Z",
+  "model": "glm-5.3"
+}

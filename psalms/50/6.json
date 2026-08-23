@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Wọ́n sì kéde òdodo rẹ̀ ní ọ̀run; nítorí pé Elohim ní Adájọ́ òun fúnra rẹ̀. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Wọ́n sì kéde"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "òdodo rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Adájọ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun fúnra rẹ̀"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:10.326093065Z",
+  "model": "glm-5.3"
+}

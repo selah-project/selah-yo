@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Lẹ́yìn rẹ̀, Elonu ará Zevuluni dá yẹ̀wò ⟨את⟩ Israẹli; ó sì dá yẹ̀wò ⟨את⟩ Israẹli fún ọdún mẹ́wàá.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dá yẹ̀wò"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "Lẹ́yìn rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israẹli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elonu"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "ará Zevuluni"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "ó sì dá yẹ̀wò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israẹli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    }
+  ],
+  "timestamp": "2026-08-23T00:37:14.462715346Z",
+  "model": "glm-5.3"
+}

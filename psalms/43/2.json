@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Nítorí tí ìwọ ni Elohim, àgbámúsọ́ mi — kí ló dé tí o fi mi sílẹ̀? Kí ló dé tí mo ń rìn nínú ìbànújẹ́, nítorí ìpànìyàn òtá?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "àgbámúsọ́ mi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kí ló dé"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "tí o fi mi sílẹ̀"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kí ló dé"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nínú ìbànújẹ́"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "mo ń rìn"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "nítorí ìpànìyàn"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "òtá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:08.703407507Z",
+  "model": "glm-5.3"
+}

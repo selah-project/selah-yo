@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "El, tí a bẹ̀rù púpọ̀ nínu ìgbìmọ̀ àṣírí àwọn mímọ́, ó ń pa ẹ̀rù lóri gbogbo àwọn tí wọ́n wà ní ayíka rẹ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "tí a bẹ̀rù"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "nínu ìgbìmọ̀ àṣírí"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "àwọn mímọ́"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ó ń pa ẹ̀rù"
+    },
+    {
+      "surface": "על",
+      "gloss": "lóri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "àwọn tí wọ́n wà ní ayíka rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:08.717097893Z",
+  "model": "glm-5.3"
+}

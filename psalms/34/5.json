@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Mo wá Yahweh, ó sì dá mi lóhùn, ó sì gbà mí là kúrò nínú gbogbo ìrọ̀rùn ẹ̀rù mi.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Mo wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ó sì dá mi lóhùn"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ó sì gbà mí là kúrò nínú gbogbo"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "ìrọ̀rùn ẹ̀rù mi"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ó sì gbà mí là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:07.659110520Z",
+  "model": "glm-5.3"
+}

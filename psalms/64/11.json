@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 64,
+  "translation": "Ọmọlẹ́kẹ̀kẹ́ ṣe ayò ní Yahweh, ó sì gbé ibẹ̀ lábẹ́ ìdàbòbò Rẹ̀; gbogbo ẹni tí ọkàn rẹ̀ tọ́ náà yóò gbé ara ga.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "yóò ṣe ayò"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ọmọlẹ́kẹ̀kẹ́"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ní Yahweh"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "ó sì gbé lábẹ́ ìdàbòbò"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ín"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "gbogbo wọn sì yóò gbé ara ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ẹni tí ọkàn rẹ̀ tọ́"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:39.686376798Z",
+  "model": "glm-5.3"
+}

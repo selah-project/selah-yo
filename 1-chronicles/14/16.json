@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Dawidi sì ṣe bí Elohim ti pàṣẹ fún un; wọ́n sì lu ⟨את⟩ àwọn ogun Filistini, láti Giv'on dé Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ti pàṣẹ fún un"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wọ́n sì lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ogun Filistini"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "àwọn ogun"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistini"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "láti Giv'on"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-23T05:14:22.195714820Z",
+  "model": "glm-5.3"
+}

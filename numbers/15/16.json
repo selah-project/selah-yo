@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Òfin kan àti ètò kan ni yóò wà fún yín, àti fún àlejò tí ó ń gbé ⟨את⟩ pẹ̀lú yín.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "òfin"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "àti ètò"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "àti fún àlejò"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "àlejò tí ó ń gbé"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pẹ̀lú yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:56:38.888160264Z",
+  "model": "glm-5.3"
+}

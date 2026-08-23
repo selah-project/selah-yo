@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Davidi sì tún kó ⟨את⟩ gbogbo àwọn tí wọ́n yàn ní Yisrael jọ, ẹgbẹ̀rún ọgbọ̀n.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "sì tún kó jọ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tún"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn tí wọ́n yàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "àwọn tí wọ́n yàn"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ní Yisrael"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ọgbọ̀n"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbẹ̀rún"
+    }
+  ],
+  "timestamp": "2026-08-23T01:00:21.427562724Z",
+  "model": "glm-5.3"
+}

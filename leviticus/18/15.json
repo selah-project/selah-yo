@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ihòhò ara ìyàwó ọmọ rẹ, mà ṣe fò ọ́; ìyàwó ọmọ rẹ ni; mà ṣe fò ihòhò ara rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ihòhò ara"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "ìyàwó ọmọ rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mà ṣe"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "fò"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ìyàwó"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ọmọ rẹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mà ṣe"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "fò"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ihòhò ara rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:47.458567161Z",
+  "model": "glm-5.3"
+}

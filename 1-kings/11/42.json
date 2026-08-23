@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Àwọn ọjọ́ tí Shelomoh jọba ní Yerushalayim lórí gbogbo Yisrael ni ogójì ọdún.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "Àwọn ọjọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "jọba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ogójì"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    }
+  ],
+  "timestamp": "2026-08-23T01:18:01.995012892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 113,
+  "translation": "Òun ló ń mú dìde láti erùpẹ̀ olúfo, láti ibù jànján ó ń gbé ebiyán ga.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "ń mú dìde"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "láti erùpẹ̀"
+    },
+    {
+      "surface": "דל",
+      "gloss": "olúfo"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "láti ibù jànján"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ń gbé ga"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ebiyán"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:16.902743010Z",
+  "model": "glm-5.3"
+}

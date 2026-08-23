@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ìnira wọn máa pọ̀ sí i — àwọn tí ó ń yára lé ọ̀kan mìíràn lẹ́yìn; èmi kì í ṣàjọ àwọn ètùtù ti ẹ̀jẹ̀ ti wọn, èmi kì í sì gbé ⟨את⟩ àwọn orúkọ wọn sórí ètè mi.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "máa pọ̀ sí i"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "ìnira wọn"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ọ̀kan mìíràn lẹ́yìn"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "tí ó ń yára lé"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "ṣàjọ"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "àwọn ètùtù ti wọn"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ti ẹ̀jẹ̀"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "èmi kì í sì"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn orúkọ wọn"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "àwọn orúkọ wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "sórí"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ètè mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:45.925776450Z",
+  "model": "glm-5.3"
+}

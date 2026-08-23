@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì dúró, ó sì bùkún fún ⟨את⟩ gbogbo àpapọ̀ ènìyàn Yisrael, ohùn rara ni, ó wí pé:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ó sì dúró"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ó sì bùkún fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àpapọ̀ ènìyàn Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "àpapọ̀ ènìyàn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "rara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó wí pé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:16:51.113599044Z",
+  "model": "glm-5.3"
+}

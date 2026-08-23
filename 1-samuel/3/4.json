@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Yahweh sì pè Shemuël; ó sì wí: «Kíyèsi, mo wà.»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "… sì pè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Kíyèsi, mo wà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:43:18.687304503Z",
+  "model": "glm-5.3"
+}

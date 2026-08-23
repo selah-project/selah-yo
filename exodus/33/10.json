@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Gbogbo ìjọ náà sì rí ⟨את⟩ ôpó kẹ̀rẹ̀ tí ó dúró ní ẹnu-ọ̀nà àgọ́ náà; gbogbo ìjọ náà sì dìde, wọ́n sì foríbalẹ̀, ẹni kọ̀ọ̀kan ní ẹnu-ọ̀nà àgọ́ ara rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "sì rí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ôpó kẹ̀rẹ̀"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ôpó"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "kẹ̀rẹ̀"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tí ó dúró"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ní ẹnu-ọ̀nà"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "àgọ́ náà"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "sì dìde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "wọ́n sì foríbalẹ̀"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni kọ̀ọ̀kan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ní ẹnu-ọ̀nà"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "àgọ́ ara rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:06.945084035Z",
+  "model": "glm-5.3"
+}

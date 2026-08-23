@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Nítorí ìgbèré, àwọn òkè ń gbé e lọ́wọ́; gbogbo ẹranko àwọn pápá ń ṣeré ibẹ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "בול",
+      "gloss": "ìgbèré"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ń gbé lọ́wọ́"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "àwọn pápá"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ń ṣeré"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ibẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:31:04.744062514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Nítorí tí ọ̀tá wí pé, àwọn tí ń pa ìwọ̀nwọ̀ nípa ẹ̀mí mi gbàpọ̀ ṣe ìmọ̀ràn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ọ̀tá mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nípa mi"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "àwọn tí ń pa ìwọ̀nwọ̀"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ṣe ìmọ̀ràn"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "gbàpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:19.587369217Z",
+  "model": "glm-5.3"
+}

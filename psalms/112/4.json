@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 112,
+  "translation": "Ìmọ́lẹ̀ bérẹ̀ sí í tan nínú òkùnkùn fún àwọn olódodo; aládàábòbò-ẹnu-àánú, aláàánú, àti olódodo ni.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "bérẹ̀ sí í tan"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "nínú òkùnkùn"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìmọ́lẹ̀"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "fún àwọn olódodo"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "aládàábòbọ̀-ẹnu-àánú"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "àti aláàánú"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "àti olódodo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:35.926081062Z",
+  "model": "glm-5.3"
+}

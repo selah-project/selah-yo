@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Ìkọ́ni fún Asaf. Nítorí kí ni, Elohim, ìwọ ti kọ̀ wá sílẹ̀ fún láéláé? ìbínú rẹ ń bú sí àwọn àgùntàn pásútọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Ìkọ́ni"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "fún Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nítorí kí ni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ìwọ ti kọ̀ sílẹ̀"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "fún láéláé"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "ń bú"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ìbínú rẹ"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "sí àwọn àgùntàn"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "pásútọ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:54.663268737Z",
+  "model": "glm-5.3"
+}

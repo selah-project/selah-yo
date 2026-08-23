@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Bákan náà, a ó gbé ⟨את⟩ lọ sí Assur gẹ́gẹ́ bí ẹ̀bùn-ìṣe fún ọba Yarev; ìtiju yóò gba Efraim, Yisrael sì yóò tirú nínú ìmọ̀ràn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Lọ sí Assur"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "sí Assur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "a ó gbé e lọ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ẹ̀bùn-ìṣe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fún ọba"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yarev"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ìtiju"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "yóò gba"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "yóò tirú"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "nínú ìmọ̀ràn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:02:48.950347623Z",
+  "model": "glm-5.3"
+}

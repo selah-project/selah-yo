@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Gbà wọ́ ní ìgbàlà, Yahweh, nítorí pé ẹni tí ó bọ́ tí ó sì mú ìgbọràn ṣe ti parun; nítorí pé àwọn olóòtítọ́ ti ṣẹ́fára lára àwọn ọmọ ènìyàn.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Gbà wọ́ ní ìgbàlà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ti parun"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ẹni tí ó bọ́ tí ó sì mú ìgbọrãn ṣe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "ti ṣẹ́fára"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "àwọn olóòtítọ́"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "lára àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:39.174618083Z",
+  "model": "glm-5.3"
+}

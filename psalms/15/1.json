@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Mizmor ti Davíd kọ: Yahweh, ta ni yóò ṣùgbé sínú àgọ́ rẹ? Ta ni yóò gbé lórí òkè mímọ́ rẹ?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (orin-kínní)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Davíd kọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "yóò ṣùgbé"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "sínú àgọ́ rẹ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "yóò gbé"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "lórí òkè"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "mímọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:05.237510510Z",
+  "model": "glm-5.3"
+}

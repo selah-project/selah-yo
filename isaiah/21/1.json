@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ẹrù ijọ́-ìwọ̀-òkun: bí àwọn ìjì afẹ́fẹ́ ní Gúúsù ṣe ń ṣàn kọjá, bẹ́ẹ̀ láti ìjọ́ ni ó ń wá, láti ilẹ̀ èrù.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Ẹrù"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ijọ́"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ìwọ̀-òkun"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "bí àwọn ìjì afẹ́fẹ́"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "ní Gúúsù"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "ń ṣàn kọjá"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "láti ìjọ́"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ń wá"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "láti ilẹ̀"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "èrù"
+    }
+  ],
+  "timestamp": "2026-08-23T01:46:35.752965936Z",
+  "model": "glm-5.3"
+}

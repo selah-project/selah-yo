@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 84,
+  "translation": "Wọ́n ń lọ láti ipá sí ipá, ẹni kọ̀ọ̀kan yóò farahàn níwájú Elohim ní Zion.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Wọ́n ń lọ"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "láti ipá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ipá"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "yóò farahàn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ní Zion"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:49.579185674Z",
+  "model": "glm-5.3"
+}

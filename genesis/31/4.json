@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Yaakov sì ránṣẹ, ó sì pè Racheli àti Lea sí oko, sí ẹran-ọ̀sìn rẹ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ránṣẹ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "pè"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Racheli"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "àti Lea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sí oko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "ẹran-ọ̀sìn rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:06:01.564314621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 124,
+  "translation": "Orin ti àwọn ìgòkè, ti Dawidu. Tí Yahweh kò bá ṣe tí ó ṣe fún wa — kí Yisrael jọ̀wọ́ sọ̀ọ̀",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ti àwọn ìgòkè"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawidu"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "tí kò bá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ṣe tí ó ṣe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kí... sọ̀ọ̀"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọ̀wọ́"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:52.052279700Z",
+  "model": "glm-5.3"
+}

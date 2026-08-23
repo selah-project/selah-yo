@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àwọn tí a ka wọn, sí àwọn ẹbí wọn, sí ilé àwọn baba wọn, jẹ́ ẹgbẹ̀rún méjì, ọgọ́rùn-ún mẹfa, àti ogójì.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "Àwọn tí a ka wọn"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sí àwọn ẹbí wọn"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sí ilé"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ẹgbẹ̀rún méjì"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "àti mẹfa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́rùn-ún"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "àti ogójì"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:57.759579305Z",
+  "model": "glm-5.3"
+}

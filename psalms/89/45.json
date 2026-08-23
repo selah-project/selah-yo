@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "O mú ìmọ́lẹ̀ rẹ̀ parun, O sì suba ìgbonasọ̀ rẹ̀ sí ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "O mú…parun"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "ìmọ́lẹ̀ rẹ̀"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ìgbonasọ̀ rẹ̀"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sí ilẹ̀"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "O suba"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:58.198538999Z",
+  "model": "glm-5.3"
+}

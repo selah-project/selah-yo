@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Àwọn ni ⟨את⟩ ìwọ ni iṣẹ́ tí ó gbé omi iyì gbé, omi tehom ńlá, tí ó ṣe ìjìnà fun ni ibi jìnà ìgboro láti kọjá fún àwọn ènìyàn tí a rà padà?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "àwọn ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìwọ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ìwọ ni"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "iṣẹ́ tí ó gbé omi iyì gbé"
+    },
+    {
+      "surface": "ים",
+      "gloss": "iyì"
+    },
+    {
+      "surface": "מי",
+      "gloss": "omi"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "tí ó ṣe"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "ibi jìnà ìgboro"
+    },
+    {
+      "surface": "ים",
+      "gloss": "iyì"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ìjìnà fun"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "láti kọjá"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "àwọn ènìyàn tí a rà padà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:59:57.001394474Z",
+  "model": "glm-5.3"
+}

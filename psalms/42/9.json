@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ní ọ̀sán, Yahweh máa ń pa chesed rẹ̀ ní àṣẹ, ní ọ̀sán bọ́ lántárín, orin kan sì wà pẹ̀lú mi — ìgbàlà sí El tí ó jẹ́ ìṣèmi mi.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ní ọ̀sán"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "máa ń pa ní àṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed rẹ̀"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ní ọ̀sán bọ́ lántárín"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "orin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pẹ̀lú mi"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sí El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ìṣèmi mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:46.637177975Z",
+  "model": "glm-5.3"
+}

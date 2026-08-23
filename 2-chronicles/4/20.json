@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àti ⟨את⟩ àwọn mọ́nà àti àwọn fitílà wọn láti jó wọn gẹ́gẹ́ bí òfin, níwájú ibi ìpàdé ìjókò mímọ́ náà — wúrà tí a yà sọ́tọ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn mọ́nà"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "àwọn mọ́nà"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "àti àwọn fitílà wọn"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "láti jó wọn"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "gẹ́gẹ́ bí òfin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "ibi ìpàdé ìjókò mímọ́ náà"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "tí a yà sọ́tọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:23:06.544442188Z",
+  "model": "glm-5.3"
+}

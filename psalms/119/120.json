@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ẹran ara mí gorí dó nítorí ẹ̀rù rẹ; mo sì bẹ̀ru ìdájọ rẹ.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "gorí dó"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "nítorí ẹ̀rù rẹ"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ẹran ara mí"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "mo sì bẹ̀ru ... rẹ"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "bẹ̀ru"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:16.403666830Z",
+  "model": "glm-5.3"
+}

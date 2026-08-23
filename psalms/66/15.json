@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 66,
+  "translation": "Èmi yóó gbé ẹranko-ìsún ọrà sílẹ̀ fún ọ, pẹ̀lú èròjà-ìtọ́ àwọn àgùntàn ìrántì; èmi yóó ṣe àwọn màlúù pẹ̀lú àwọn ewúré akẹ̀mbọ. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "ẹranko-ìsún"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "ọrà"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Èmi yóó gbé sílẹ̀"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "èròjà-ìtọ́"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "àwọn àgùntàn ìrántì"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "èmi yóó ṣe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "àwọn màlúù"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "àwọn ewúré akẹ̀mbọ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:36.684912329Z",
+  "model": "glm-5.3"
+}

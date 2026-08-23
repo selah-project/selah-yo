@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 92,
+  "translation": "Láti kéde pé Yahweh ṣe ọ̀tọ̀, òkèta mi ni, kò sí ìwọ̀ ipá nínú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "láti kéde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ṣe ọ̀tọ̀ \/ yíyanjú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "òkèta mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ìwọ̀ ipá \/ àìṣeọ̀tọ̀"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ninú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:29.222819429Z",
+  "model": "glm-5.3"
+}

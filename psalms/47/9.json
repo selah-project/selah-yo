@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Elohim ń jinlẹ̀ lórí àwọn orílẹ̀-èdè; Elohim jókòó lórí àga-ìjínlẹ̀ ìmímọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ń jinlẹ̀"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jókòó"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "àga-ìjínlẹ̀"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ìmímọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:36.568170924Z",
+  "model": "glm-5.3"
+}

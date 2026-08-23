@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Nítorí pé Avraham gbọ́ ohùn mi, ó sì pa ìṣọ́ mi mọ́, àwọn àṣẹ mi, àwọn òfin mi, àti àwọn tòrà mi.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ó sì pa mọ́"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ìṣọ́ mi"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "àwọn àṣẹ mi"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "àwọn òfin mi"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "àti àwọn tòrà mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:03:26.328495015Z",
+  "model": "glm-5.3"
+}

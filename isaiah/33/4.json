@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ìwọ̀ yín yóò kó jọ gẹ́gẹ́ bí ìkójọpọ̀ ìkorokoro; bí ti ṣíṣàáré ẹ̀wùnjì ni wọn ń ṣàáré sórí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "yóò kó jọ"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "ìwọ̀ yín"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ìkójọpọ̀"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "ìkorokoro"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "bí ti ṣíṣàáré"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ẹ̀wùnjì"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "ń ṣàáré"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sórí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:51:59.059156715Z",
+  "model": "glm-5.3"
+}

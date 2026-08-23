@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ó sì ṣe ìwọ̀n ⟨את⟩ fífẹ́ ibi ìtẹ́ ⟨the⟩ ẹnu-ọ̀nà ní àwọn ẹ̀kún ún mẹ́wàá, ìgùn ⟨the⟩ ẹnu-ọ̀nà sì jẹ́ àwọn ẹ̀kún ún mẹ́tàlá.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ó sì ṣe ìwọ̀n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fífẹ́ ibi ìtẹ́"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "fífẹ́"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ti ibi ìtẹ́"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ẹnu-ọ̀nà"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "àwọn ẹ̀kún ún"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ìgùn"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ẹnu-ọ̀nà"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dínlá"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "àwọn ẹ̀kún ún"
+    }
+  ],
+  "timestamp": "2026-08-23T02:54:48.083271021Z",
+  "model": "glm-5.3"
+}

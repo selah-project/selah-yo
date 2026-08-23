@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ní Yerushalayim sì ni wọ́n ti gbé — lára àwọn ọmọ Yehudah, àti lára àwọn ọmọ Binyamin, àti lára àwọn ọmọ Efrayim àti Menasheh.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "Ní Yerushalayim sì"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "wọ́n ti gbé"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lára"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "àti lára"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "àti lára"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "àti Menasheh"
+    }
+  ],
+  "timestamp": "2026-08-23T05:12:47.734368737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ó ka ⟨את⟩ ọkàn gbogbo ọkùnrin Yehuda sí ọkàn ẹyọ kan; wọ́n sì ránṣẹ́ sí ọba pé: Pada àwọn ẹ̀yin àti gbogbo iranṣẹ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ó ka ... sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sí ọkàn ẹyọ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "wọ́n sì ránṣẹ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Pada"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "àwọn ẹ̀yin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "iranṣẹ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:05:44.857256569Z",
+  "model": "glm-5.3"
+}

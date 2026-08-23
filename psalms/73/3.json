@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Nítorí mo kórìí ìṣòro nítorí àwọn ayàrá-ẹnu-mọ́lẹ̀, nígbà tí mo rí àlàáfíà àwọn èḾbùburú.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "mo kórìí ìṣòro"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "nítorí àwọn ayàrá-ẹnu-mọ́lẹ̀"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn èḾbùburú"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "mo rí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:30.019944825Z",
+  "model": "glm-5.3"
+}

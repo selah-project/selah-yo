@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 39:30",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Àwọn ọmọ-ẹyẹ rẹ̀ gbé ẹ̀jẹ̀ mu, níbi tí àwọn ènìyàn tí wọ́n pa wíwọ́ wà, ibẹ̀ ni ó wà.",
+  "tokens": [
+    {
+      "surface": "ואפרחו",
+      "gloss": "Àwọn ọmọ-ẹyẹ rẹ̀"
+    },
+    {
+      "surface": "יעלעו",
+      "gloss": "gbé ... mu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ẹ̀jẹ̀"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "níbi tí"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "àwọn ènìyàn tí wọ́n pa wíwọ́"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni ó wà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:29:56.667406316Z",
+  "model": "glm-5.3"
+}

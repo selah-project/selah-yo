@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Àti ⟨את⟩ àwọn ọmọkùnrin méjì rẹ̀, tí orúkọ ẹni àkọ́kọ́ ń jẹ́ Gershom, nítorí pé ó wí pé, \"Àjèjì ni mo ti wà ní ilẹ̀ ìlànà àjèjì.\"",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọkùnrin méjì rẹ̀"
+    },
+    {
+      "surface": "שני",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "àwọn ọmọkùnrin rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ẹni àkọ́kọ́"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ó wí pé"
+    },
+    {
+      "surface": "גר",
+      "gloss": "àjèjì"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mo ti wà"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ìlànà àjèjì"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:11.530580538Z",
+  "model": "glm-5.3"
+}

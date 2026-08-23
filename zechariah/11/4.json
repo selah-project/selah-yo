@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Báyìí ni Yahweh Ọlọ́run mi ṣe sọ pé: Ṣàgbà ⟨את⟩ àwọn ẹran ìpàjẹ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Báyìí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ọlọ́run mi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Ṣàgbà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ẹran ìpàjẹ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "àwọn ẹran"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "ìpàjẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:03:50.161890784Z",
+  "model": "glm-5.3"
+}

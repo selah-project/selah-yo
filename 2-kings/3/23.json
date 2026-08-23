@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Wọ́n sì wí pé, Ẹjẹ̀ ni èyí! Àwọn ọba ti parun patapata, wọ́n ti lu ẹni kọ̀ọ̀kan ⟨את⟩ ọrẹ̀ rẹ̀; nǹisí, Moab, ẹ sọ ànyàn yín sí èrè-ogun!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí"
+    },
+    {
+      "surface": "דם",
+      "gloss": "Ẹjẹ̀"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ti parun patapata"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "wọ́n ti parun"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wọ́n lu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni kọ̀ọ̀kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrẹ̀ rẹ̀"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ọrẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "nǹisí"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "sí èrè-ogun"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-23T01:27:10.585172590Z",
+  "model": "glm-5.3"
+}

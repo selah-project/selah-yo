@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Èmi si ni Yahweh, Elohim rẹ, láti ilẹ̀ Mitzrajim; èmi yóò sì tún gbé ọ sínu àgọ́ mọ́, bí ọjọ́ ayẹyẹ ìpàdé.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "èmi sì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "láti ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrajim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tún"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "óún gbé ọ sínu"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "bí ọjọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ayẹyẹ ìpàdé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:02:41.666940183Z",
+  "model": "glm-5.3"
+}

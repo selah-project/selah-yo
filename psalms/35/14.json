@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Gẹ́gẹ́ bí ọ̀rẹ́, gẹ́gẹ́ bí arákùnrin mi, ni mo ń rìn káàkiri; bí ẹni tí ó ń bánu fún ìyá rẹ̀ ni mo faradà, mo kún fún ìbánújẹ́.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "gẹ́gẹ́ bí ọ̀rẹ́"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "gẹ́gẹ́ bí arákùnrin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "mo ń rìn káàkiri"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "bí ẹni tí ó ń bánu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ìyá"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "mo kún fún ìbánújẹ́"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "mo faradà mọ́lẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:40.720793982Z",
+  "model": "glm-5.3"
+}

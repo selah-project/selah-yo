@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Àti ní báyìí, orí mi gbé ga láórí àwọn ọ̀tá mi tí ó yì í ká; èmi ó ṣe ẹbọ àríyànjiyan ayọ̀ nínu àgọ́ ìgì rẹ̀; mo ó kọrin, mo ó lu ohùn orin fún Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Àti ní báyìí"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "gbé ga"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "orí mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "láórí"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "tí ó yì í ká"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "èmi ó ṣe ẹbọ"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "nínu àgọ́ ìgì rẹ̀"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ẹbọ"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "àríyànjiyan ayọ̀"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "mo ó kọrin"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "mo ó lu ohùn orin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:13.794741846Z",
+  "model": "glm-5.3"
+}

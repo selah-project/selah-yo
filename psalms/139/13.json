@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Nítorí tí ìwọ ti dá ⟨àwọn⟩ kidínì mi, ìwọ mi ì pá mi mọ́ nínú́ ikún ìyá mi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí tí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "ti dá"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "⟨àwọn⟩ kidínì mi"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "ìwọ mi ì pá mi mọ́"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "nínú́ ikún"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ìyá mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:29.645730562Z",
+  "model": "glm-5.3"
+}

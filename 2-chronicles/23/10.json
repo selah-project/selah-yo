@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ó sì ṣe kí gbogbo ⟨את⟩ àwọn ènìyàn dúró, ẹní-ọ̀kọ̀kan pẹ̀lú ohun-ìjà rẹ̀ nínú ọwọ́ rẹ̀, láti èjìká ọ̀tún ilé náà dé èjìká ìwòsán ilé náà, ní ẹ̀gbẹ́ pẹ̀tẹ́lẹ́ àti ilé náà, líìgbà tí wọ́n yí Ọba náà ká.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Ó sì ṣe kí… dúró"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ènìyàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ẹní-ọ̀kọ̀kan"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ohun-ìjà rẹ̀"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nínú ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "láti èjìká"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ọ̀tún"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "èjìká"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ìwòsán"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ní ẹ̀gbẹ́ pẹ̀tẹ́lẹ́"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "àti ní ilé"
+    },
+    {
+      "surface": "על",
+      "gloss": "tí ó wà lórí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "yí… ká"
+    }
+  ],
+  "timestamp": "2026-08-23T05:30:38.822246886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Ó lọ́wọ́ lójú Yahweh, ikú àwọn ẹni-ìfẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "ó lọ́wọ́ (iyì)"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "lójú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "ikú ti"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "fún àwọn ẹni-ìfẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:45.708805276Z",
+  "model": "glm-5.3"
+}

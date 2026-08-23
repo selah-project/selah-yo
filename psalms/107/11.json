@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Nítorí tí wọ́n gbéyẹ̀rẹ̀ ọ̀rọ̀ El, wọ́n sì fi ẹ̀yà kàn ìgbìmọ̀ràn Ẹni-Gíga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "wọ́n gbéyẹ̀rẹ̀"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "wọ́n sì fi ẹ̀yà kàn ìgbìmọ̀ràn"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ẹni-Gíga"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "wọ́n fi ẹ̀yà kàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:16.199428129Z",
+  "model": "glm-5.3"
+}

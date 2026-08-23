@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Dafidi sì mọ̀ pé Shaúl ń pinnu ìkọ̀gbà pẹ̀lú àìsọ̀rọ̀ lórí rẹ̀; ó sì wí fún Eviyatar àlùfáà pé, \"Mu efodu náà wá.\"",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "sì mọ̀"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "ń pinnu pẹ̀lú àìsọ̀rọ̀"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ìkọ̀gbà"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Eviyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà náà"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Mu… wá"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodu náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:52:29.568936817Z",
+  "model": "glm-5.3"
+}

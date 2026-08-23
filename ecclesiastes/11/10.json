@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Kí o sì yọ ìbínú kúrò lọ́kàn rẹ, kí o sì fi búburú kúrò lára rẹ; nítorí pé ìgbà ọmọdé àti ìrísí ọ̀dọ́ ⟨ni⟩ afọ̀fọ́.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "kí o sì yọ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ìbínú"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "kúrò lọ́kàn rẹ"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "kí o sì fi kúrò"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "lára rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "ìgbà ọmọdé"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "àti ìrísí ọ̀dọ́"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "afọ̀fọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:43:37.249804785Z",
+  "model": "glm-5.3"
+}

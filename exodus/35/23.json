@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 35:23",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Ẹni gbogbo tí ó bá ri ⟨את⟩ ara rẹ̀ ní àwọ̀ aró-dúdú, àwọ̀ èkúnnú, àwọ̀ èèpupa-ìdúdú kèké, aṣọ fàdàkà, abọ́ ewúrẹ́, awọ àgbọ̀nràn tí a fi ẹ̀jẹ̀-òpó kọ́ àti awọ tachash — wọ́n gbé wọn wá.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ẹni gboglo sì"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ó bá ri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ara rẹ̀",
+      "marks": "àwọn ohun-èlò tí ó bá ri"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "àwọ̀ aró-dúdú"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "àwọ̀ èkúnnú"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "èèpupa-ìdúdú kèké"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ìdúdú kèké"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "aṣọ fàdàkà"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "abọ́ ewúrẹ́"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "awọ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "àgbọ̀nràn"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "tí a fi ẹ̀jẹ̀-òpó kọ́"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "àti awọ"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tachash"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "wọ́n gbé … wá"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:06.697683195Z",
+  "model": "glm-5.3"
+}

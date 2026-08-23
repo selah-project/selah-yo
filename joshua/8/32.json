@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì kọ ọ́ síbẹ̀ lórí àwọn àpáta náà — ⟨את⟩ ẹ̀dà Torá ti Moshe — èyí tí ó kọ níwájú àwọn ọmọ Israẹli.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Ó sì kọ ọ́"
+    },
+    {
+      "surface": "שם",
+      "gloss": "síbẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "àwọn àpáta náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀dà Torá ti Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ẹ̀dà"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torá"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "kọ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    }
+  ],
+  "timestamp": "2026-08-23T00:26:19.533454767Z",
+  "model": "glm-5.3"
+}

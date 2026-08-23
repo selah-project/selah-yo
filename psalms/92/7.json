@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 92,
+  "translation": "Ọkùnrin olóḍìí kò mọ̀, àti ọmọ-àṣiwèrè kò gbọ́n ⟨את⟩ èyí.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ọkùnrin"
+    },
+    {
+      "surface": "בער",
+      "gloss": "olóḍìí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "àti ọmọ-àṣiwèrè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "gbọ́n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èyí"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:24.860496225Z",
+  "model": "glm-5.3"
+}

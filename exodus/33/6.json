@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Nígbà náà ni àwọn ọmọ Yisrael fi ⟨את⟩ àṣọ-ìyebíye wọn sílẹ̀ ní òkè Chorev.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "wọ́n fi sílẹ̀"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àṣọ-ìyebíye wọn"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "àṣọ-ìyebíye wọn"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ní òkè"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Chorev"
+    }
+  ],
+  "timestamp": "2026-08-22T23:29:20.526647241Z",
+  "model": "glm-5.3"
+}

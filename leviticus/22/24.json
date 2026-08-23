@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 22:24",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ẹran tí a ti tà, tí a ti lu, tí a ti fà kúrò, tàbí tí a ti gé — ẹ̀yin kò gbọ́dọ̀ mú wá fún Yahweh; kì í ṣe nínú ilẹ̀ yín ni ẹ ó ṣe èyí.",
+  "tokens": [
+    {
+      "surface": "ומעוך",
+      "gloss": "tí a ti tà"
+    },
+    {
+      "surface": "וכתות",
+      "gloss": "tí a ti lu"
+    },
+    {
+      "surface": "ונתוק",
+      "gloss": "tí a ti fà kúrò"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "tàbí tí a ti gé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò gbọ́dọ̀"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ẹ̀yin … mú wá"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "ובארצכם",
+      "gloss": "nínú ilẹ̀ yín"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ẹ ó ṣe èyí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:20.820855340Z",
+  "model": "glm-5.3"
+}

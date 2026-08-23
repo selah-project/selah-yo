@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Wọ́n pa á lórun; Moshe sì ṣàn ⟨את⟩ ẹjẹ́ rẹ̀ lé ojú pẹpẹ́ náà lọ́wọ́ gbogbo.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "wọ́n pa á lórun"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ó sì ṣàn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹjẹ́ rẹ̀"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ẹjẹ́ rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ́ náà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "lọ́wọ́ gbogbo"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:36.763393750Z",
+  "model": "glm-5.3"
+}

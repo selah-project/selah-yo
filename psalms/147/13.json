@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Nítorí tí ó mú àwọn paṣipáṣí ọ̀nà ìṣẹ́lẹ̀ rẹ lágbára; ó ṣọ̀ṣẹ̀ àwọn ọmọ rẹ ní àárín rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí tí"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mú … lágbára"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "àwọn paṣipáṣí"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ọ̀nà ìṣẹ́lẹ̀ rẹ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ṣọ̀ṣẹ̀"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ní àárín rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:09.154375927Z",
+  "model": "glm-5.3"
+}

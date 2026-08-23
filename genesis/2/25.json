@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àwọn mejì wọn wà ní ihòoho, HaAdam àti aya rẹ̀, kì í ṣe wọn ṣe tíwà.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "wọn wà"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "àwọn mejì wọn"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "ní ihòoho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "HaAdam"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "àti aya rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "wọn ṣe tíwà"
+    }
+  ],
+  "timestamp": "2026-08-22T22:53:56.924932746Z",
+  "model": "glm-5.3"
+}

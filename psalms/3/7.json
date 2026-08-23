@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "N ò kì í ṣeẹ́rú níwọn ọ̀kànléwàájọ ènìyàn, tí wọ́n fi ara ránṣẹ́ sí mi ní ìkàlẹ̀.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ṣeẹ́rú"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "níwọn ọ̀kànléwàájọ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní ìkàlẹ̀"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "wọ́n fi ara ránṣẹ́"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:08.314965337Z",
+  "model": "glm-5.3"
+}

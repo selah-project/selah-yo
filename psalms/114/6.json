@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 114,
+  "translation": "Àwọn òkè, ẹ gbọ́n tí ẹ fọkàn tàraka bí àwọn agùntànúnrà, àwọn òkè kéékèèké, bí àwọn ọmọ agùntàn?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "ẹ gbọ́n tí ẹ fọkàn tàraka"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "bí àwọn agùntànúnrà"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "àwọn òkè kéékèèké"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "bí àwọn ọmọ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "agùntàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:43.162153590Z",
+  "model": "glm-5.3"
+}

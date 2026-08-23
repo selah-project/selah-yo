@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Wò ó, mo ti mọ́ ọ́ fún ìyẹsẹ́, ṣùgbọ́n kì í ṣe bíi fàdákà; mo ti yan ọ́ nínú àfun iná ìpònyù.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "mo ti mọ́ ọ́ fún ìyẹsẹ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n kì í ṣe"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "bíi fàdákà"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "mo ti yan ọ́"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "nínú àfun iná"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ìpònyù"
+    }
+  ],
+  "timestamp": "2026-08-23T01:57:45.418484073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Kò sí ìrántí fún àwọn tí ó kọ́kọ́ wà; bẹ́ẹ̀ gẹ́gẹ́ ni fún àwọn tí yóò wà lẹ́yìn — kò ní sí ìrántí fún wọn pẹ̀lú àwọn tí yóò wà ní ìparí.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ìrántí"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "fún àwọn tí ó kọ́kọ́ wà"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "bẹ́ẹ̀ gẹ́gẹ́ ni"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "fún àwọn tí yóò wà lẹ́yìn"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "tó ń bọ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò ní sí"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ìrántí"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "tí yóò wà"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "ní ìparí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:39:59.539699937Z",
+  "model": "glm-5.3"
+}

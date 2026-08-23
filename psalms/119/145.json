@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Mo pè pẹ̀lú gbogbo ọkàn; dáhùn mi, Yahweh; èékọ́ọ̀ rẹ ni èmi yóò ṣọ́.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "Mo pè"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "dáhùn mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "èékọ́ọ̀ rẹ"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "èmi yóò ṣọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:23.114832846Z",
+  "model": "glm-5.3"
+}

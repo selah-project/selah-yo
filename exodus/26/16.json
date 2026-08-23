@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Mẹ̀wá àmà ni ìgùn pápákú náà; àmà kan àti ìdájì àmà náà ni ìfúnpá pápákú kan náà.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "mẹ̀wá"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "àmà"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ìgùn"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "pápákú náà"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "àti àmà"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "àti ìdájì"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "àmà náà"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ìfúnpá"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "pápákú náà"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kan náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:25:54.435246115Z",
+  "model": "glm-5.3"
+}

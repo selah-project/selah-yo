@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ó sì ṣẹlẹ̀, lẹ́yìn ọjọ́ díẹ̀, odò náà gbé; nítorí pé kò sí òjò ní ilẹ̀ yìí.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "lẹ́yìn ọjọ́ díẹ̀"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "odò náà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sí"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "òjò"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀ yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T05:51:35.717000260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ìran kan ń lọ, ìran kan mbọ̀; ayé sì dúró títí láéláé.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ìran kan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ń lọ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ìran kan sì"
+    },
+    {
+      "surface": "בא",
+      "gloss": "mbọ̀"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ayé sì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láéláé"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "dúró"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:00.483224520Z",
+  "model": "glm-5.3"
+}

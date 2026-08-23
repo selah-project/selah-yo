@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 101,
+  "translation": "Ẹnití ó ń ṣe ìtanirẹ̀ kì í gbé nínú ilé mi; ẹnì tí ó ń bọ̀rọ̀ irọ́ kì í ṣẹ́ ṣinṣin níwájú ojú mi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nínú"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ilé mi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ìtanirẹ̀"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ń bọ̀rọ̀"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "irọ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ṣẹ́ ṣinṣin"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:24.771756930Z",
+  "model": "glm-5.3"
+}

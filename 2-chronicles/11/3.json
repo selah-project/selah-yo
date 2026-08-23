@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Wí fún Rehavamu, ọmọ Shelomo, ọba Yehuda, àti fún gbogbo Yisrael tí ó wà ní Yehuda àti ní Veniyamin, wípé:",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Wí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti fún"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ní Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "àti ní Veniyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wípé"
+    }
+  ],
+  "timestamp": "2026-08-23T05:26:29.959898013Z",
+  "model": "glm-5.3"
+}

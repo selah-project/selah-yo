@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àwọn onísẹ́gùrọ̀nnú sì ṣe bẹ́ẹ́ pẹ̀lú ìṣerébà wọn láti mú ⟨את⟩ àwọn kínnínní jáde, ṣùgbọ́n wọn kò lè; kínnínní sì wà lára ènìyàn àti lára ẹranko.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "wọ́n sì ṣe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ́"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "àwọn onísẹ́gùrọ̀nnú"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "pẹ̀lú ìṣerébà wọn"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "láti mú jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn kínnínní"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "àwọn kínnínní"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n … kò"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "wọn lè"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ó sì wà"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kínnínní"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "lára ènìyàn"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "àti lára ẹranko"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:53.977720968Z",
+  "model": "glm-5.3"
+}

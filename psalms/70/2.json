@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 70,
+  "translation": "Elohim, láti gbà mí là; Yahweh, láti ìrànlọ́wọ́ mi, ṣeíkánkán.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "láti gbà mí là"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "láti ìrànlọ́wọ́ mi"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ṣeíkánkán"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:51.812198190Z",
+  "model": "glm-5.3"
+}

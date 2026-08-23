@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àwọn òpó ilẹ̀kọ̀nnu sì tìrera nítorí ohùn ẹni tí ó ń kígbe, ilé náà sì kún èémí-èérùndú.",
+  "tokens": [
+    {
+      "surface": "וַיָּנֻ֨עוּ֙",
+      "gloss": "sì tìrera"
+    },
+    {
+      "surface": "אַמּ֣וֹת",
+      "gloss": "àwọn òpó ilẹ̀kọ̀nnu"
+    },
+    {
+      "surface": "הַסִּפִּ֔ים",
+      "gloss": "⟨ilẹ̀kọ̀nnu⟩"
+    },
+    {
+      "surface": "מִקּ֖וֹל",
+      "gloss": "nítorí ohùn"
+    },
+    {
+      "surface": "הַקּוֹרֵ֑א",
+      "gloss": "ẹni tí ó ń kígbe"
+    },
+    {
+      "surface": "וְהַבַּ֖יִת",
+      "gloss": "ilé náà sì"
+    },
+    {
+      "surface": "יִמָּלֵ֥א",
+      "gloss": "kún"
+    },
+    {
+      "surface": "עָשָֽׁן",
+      "gloss": "èémí-èérùndú"
+    }
+  ],
+  "timestamp": "2026-08-23T05:54:08.137046845Z",
+  "model": "glm-5.3"
+}

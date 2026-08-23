@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Nítorí tí Ó ma fi mi pamọ́ sínú àgọ́ ìgì ní ọjọ́ ìgbà ibi, Ó fi mi pamọ́ nínú ìkọkọ́ àgọ́ ìgì rẹ̀, lóríọ̀wọ́ òkúta Ó gbé mi ga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí tí"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "Ó ma fi mi pamọ́"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "sínú àgọ́ ìgì"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ìgbà ibi"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "Ó fi mi pamọ́"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nínú ìkọkọ́"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "àgọ́ ìgì rẹ̀"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "lóríọ̀wọ́ òkúta"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "Ó gbé mi ga"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:13.794462732Z",
+  "model": "glm-5.3"
+}

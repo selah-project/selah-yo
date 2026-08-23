@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Mu ẹ̀yà Lévi sún mọ́, kí o sì dá wọn dúró níwájú Aharon adarí-ẹ̀mí-ṣíṣẹ́, kí wọ́n lè sin í;",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Mu…sún mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀yà Lévi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ẹ̀yà"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lévi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "kí o sì dá…dúró"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-wọn",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adarí-ẹ̀mí-ṣíṣẹ́"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "kí wọ́n lè sin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-ín",
+      "marks": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:17.302456030Z",
+  "model": "glm-5.3"
+}

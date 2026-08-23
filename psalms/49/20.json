@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Ìṣẹ̀lẹ̀ yóò dé ìran àwọn baba rẹ̀; títí láéláé ni wọn kì ní rí ìmọ́lẹ̀.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "yóò dé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "àwọn baba rẹ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "láéláé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "róò rí"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìmọ́lẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:22.604380679Z",
+  "model": "glm-5.3"
+}

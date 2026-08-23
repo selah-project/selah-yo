@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Bákan náà, ní ọ̀nà, bí àṣiwèrè bá ń rìn, ọkàn rẹ̀ kúrà, ó sì ń sọ fún gbogbo ènìyàn pé àṣiwèrè ni.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ní ọ̀nà"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "bí àṣiwèrè bá"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ń rìn"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kúrà"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ó sì ń sọ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo ènìyàn"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "àṣiwèrè"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:20.340393520Z",
+  "model": "glm-5.3"
+}

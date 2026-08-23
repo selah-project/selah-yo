@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 85,
+  "translation": "Mo gbọ́ ohun tí El Yahweh yóò sọ: nítorí tí ó sọ shalom sí àwọn ènìyàn rẹ̀, àti sí àwọn chasid rẹ̀; kí wọ́n má ṣe padà sí ìwà ọ̀ránjù.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "Mo gbọ́"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "yóò sọ"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "àwọn ènìyàn rẹ̀"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "àwọn chasid rẹ̀"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí … má ṣe"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "wọ́n padà"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "sí ìwà ọ̀ránjù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:20.554810581Z",
+  "model": "glm-5.3"
+}

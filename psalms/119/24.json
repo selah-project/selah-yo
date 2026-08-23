@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Bákan náà ni àwọn ẹ̀rí Rẹ jẹ́ ìdùnnú mi, àwọn ènìyàn ìmọ̀ràn mi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bákan náà ni"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "àwọn ẹ̀rí Rẹ"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "ìdùnnú mi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "ìmọ̀ràn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:27.089278424Z",
+  "model": "glm-5.3"
+}

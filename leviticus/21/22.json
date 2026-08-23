@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Oúnjẹ Elohim rẹ̀ — láti àwọn nǹkan mímọ́ jùlọ àti láti àwọn nǹkan mímọ́ — ni ó lè jẹ.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Oúnjẹ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim rẹ̀"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "láti àwọn nǹkan mímọ́"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "mímọ́ jùlọ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "àti láti"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "àwọn nǹkan mímọ́"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ni ó lè jẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:03.337428794Z",
+  "model": "glm-5.3"
+}

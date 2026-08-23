@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 77,
+  "translation": "Sé Adonai yóò sọ ⟨ènìyàn⟩ nù fún ayé àìlópin, kò sì yóò fẹ́ wọn mọ́ rárá?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "Sé fún ayé àìlópin"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "yóò sọ nù"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì yóò"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "tẹ̀síwájú"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "láti fẹ́ wọn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:03.575427870Z",
+  "model": "glm-5.3"
+}

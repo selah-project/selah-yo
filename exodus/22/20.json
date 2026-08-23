@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Àti pé ọmọ ìlú àjèjì, má ṣe ṣe ọ̀nà burú kírúkírú; àti pé má ṣe tì mọ́ lára rẹ̀ — nítorí pe àjèjì ni ẹ̀yin ti wà ní ilẹ̀ Mitzrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "àti pé ọmọ ìlú àjèjì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "ṣe ọ̀nà burú kírúkírú"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti pé má ṣe"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "tì mọ́ lára rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pe"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "àjèjì"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ẹ̀yin ti wà"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrajim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:26.221936105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Hatakh sì wá, ó sì sọ fún Ester ⟨את⟩ ọ̀rọ̀ Mordekai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "sì wá"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatakh"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ó sì sọ fún"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ Mordekai"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    }
+  ],
+  "timestamp": "2026-08-23T04:43:55.096432945Z",
+  "model": "glm-5.3"
+}

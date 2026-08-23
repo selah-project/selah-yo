@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 93,
+  "translation": "Àga-ìjọba rẹ ti dúró ṣinṣin láti ìgbà ìsẹlẹ̀; ọ̀dọ̀ rẹ ni láti ìgbà tí ó ti pẹ́ jù lọ.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ti dúró ṣinṣin"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "àga-ìjọba rẹ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "láti ìgbà ìsẹlẹ̀"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "làti ìgbà tí ó ti pẹ́ jù lọ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ọ̀dọ̀ rẹ ni"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:55.542516771Z",
+  "model": "glm-5.3"
+}

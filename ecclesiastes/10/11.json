@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Tí ejìkà bá gbani láìsí ìkìlọ̀-ohùn, kò sí ìgbéga fún olóhun-èèrù.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "bá gbani"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ejìkà"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "láìsí"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ìkìlọ̀-ohùn"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ìgbéga"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "fún olóhun"
+    },
+    {
+      "surface": "הלששון",
+      "gloss": "èèrù"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:28.929972818Z",
+  "model": "glm-5.3"
+}

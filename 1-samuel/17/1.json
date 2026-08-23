@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Àwọn Plishtim sì kó ⟨את⟩ àwọn ológun-ìpàdé wọn sí ìjà, wọ́n sì kó ara wọn jáde sí Sokoh, tí ó wà ní Yehudah, wọ́n sì kó àgọ́ ogun lásìkò láàárín Sokoh àti láàárín Azekah, ní Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "sì kó ara wọn jáde sí"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Plishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ológun-ìpàdé wọn"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "àwọn ológun-ìpàdé wọn"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sí ìjà"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "wọ́n sì kó ara wọn jáde sí"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wọ́n sì kó àgọ́ ogun lásìkò"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàárín"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "ní Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-08-23T00:49:41.205036705Z",
+  "model": "glm-5.3"
+}

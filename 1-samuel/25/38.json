@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ó sì ṣẹlẹ̀ lẹ́yìn ọjọ́ mẹ́wàá, Yahweh sì lu ⟨את⟩ Naval, ó sì kú.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "lẹ́yìn ọjọ́ mẹ́wàá"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "ó sì lu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naval"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ó sì kú"
+    }
+  ],
+  "timestamp": "2026-08-23T00:55:24.023793009Z",
+  "model": "glm-5.3"
+}

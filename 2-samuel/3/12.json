@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 3:12",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Avner sì rán àwọn ìjábọ̀ sí ọ̀dọ̀ David lọ́dọ̀ rẹ̀ tí wọ́n wí pé, Ta ni ó ní ilẹ̀ yìí? tí wọ́n sì tún wí pé, Ṣe ⟨את⟩ májẹ̀mú rẹ̀ pẹ̀lú mi, kiẹsi, ọwọ́ mi wà pẹ̀lú rẹ, láti mú ⟨את⟩ gbogbo Yisrael wá sí ọ̀dọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì rán"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "àwọn ìjábọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "lọ́dọ̀ rẹ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tí wọ́n wí pé"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tí wọ́n sì tún wí pé"
+    },
+    {
+      "surface": "כרתה",
+      "gloss": "Ṣe"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "májẹ̀mú rẹ̀"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pẹ̀lú mi",
+      "marks": "mi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kiẹsi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wà pẹ̀lú rẹ"
+    },
+    {
+      "surface": "להסב",
+      "gloss": "láti mú ... wá"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T00:57:21.115866813Z",
+  "model": "glm-5.3"
+}

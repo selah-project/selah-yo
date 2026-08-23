@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ó sì padà pẹ̀lú ⟨את⟩ rẹ̀, ó sì jẹ búrẹ́dì ní ilé rẹ̀, ó sì mu omi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ó sì padà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pẹ̀lú ⟨את⟩ rẹ̀",
+      "marks": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ó sì jẹ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "búrẹ́dì"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ní ilé rẹ̀"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ó sì mu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:19:05.754687411Z",
+  "model": "glm-5.3"
+}

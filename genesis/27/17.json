@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ó sì fi ⟨את⟩ oúnjẹ tó dùn ún àti ⟨את⟩ búrẹ́dì tí ó ṣe sí ọwọ́ Yaakov ọmọ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Ó sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oúnjẹ tó dùn ún"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "oúnjẹ tó dùn ún"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "búrẹ́dì"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "búrẹ́dì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sí ọwọ́"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ọmọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:04:29.828305587Z",
+  "model": "glm-5.3"
+}

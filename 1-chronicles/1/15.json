@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "àti ⟨את⟩ Ḥivi, àti ⟨את⟩ Ha'arki, àti ⟨את⟩ Hasini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Ḥivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Ḥivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Ha'arki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Ha'arki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Hasini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Hasini"
+    }
+  ],
+  "timestamp": "2026-08-23T05:07:44.691802454Z",
+  "model": "glm-5.3"
+}

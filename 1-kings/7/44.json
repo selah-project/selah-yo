@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "àti ⟨את⟩ odò kan ṣoṣo, àti ⟨את⟩ àwọn màlúù méjìlá tí ó wà lábẹ́ odò náà;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "odò"
+    },
+    {
+      "surface": "הים",
+      "gloss": "odò"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kan ṣoṣo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn màlúù"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "àwọn màlúù"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lá"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "הים",
+      "gloss": "odò náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:38.370173883Z",
+  "model": "glm-5.3"
+}

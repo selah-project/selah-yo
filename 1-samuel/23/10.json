@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Dafidi sì wí pé, \"Yahweh, Elohim ti Israẹli, ìránṣẹ́ rẹ gbọ́ dáadáa pé Shaúl ń wá láti wá sí Keila, láti pa ìlú náà run nítorí mi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dáadáa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ń wá"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "láti wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "láti pa… run"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "nítorí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:52:29.569274989Z",
+  "model": "glm-5.3"
+}

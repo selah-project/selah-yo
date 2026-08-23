@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Yahweh ń dán wò ⟨enì〉 ọ̀títọ́-ṣe; ṣùgbọ́n ẹ̀ṣẹ̀-ṣe àti ẹni tí ó fẹ́ ìkọlù — ẹ̀mí Rẹ̀ kórìíra ⟨wọ́n〉.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ọ̀títọ́-ṣe"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "ń dán wò"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ṣùgbọ́n ẹ̀ṣẹ̀-ṣe"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "àti ẹni tí ó fẹ́"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìkọlù"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "kórìíra"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ẹ̀mí Rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:09.099921200Z",
+  "model": "glm-5.3"
+}

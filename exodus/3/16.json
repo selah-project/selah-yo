@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Lọ, kó àwọn àgbà Yisrael jọ, kí o sì wí fún wọn pé, Yahweh, Elohim ti àwọn baba yín — Elohim ti Avraham, ti Yitschak, àti ti Yaakov — ti farahàn sí mi, ó sì wí pé, Ní ṣíṣe àyè wo, mo ti ṣe àyè wo yín, àti ⟨את⟩ ohun tí wọ́n ń ṣe sí yín ní Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "kí o sì kó jọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àgbà Yisrael"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "kí o sì wí"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "àwọn baba yín"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ó ti farahàn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "àti Yaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ní ṣíṣe àyè wo"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "mo ti ṣe àyè wo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ohun tí wọ́n ń ṣe sí yín ní Mitzrayim"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "ohun tí a ṣe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sí yín"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ní Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:55.729371305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 13:9",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Shaul sì wí pé, \"Ẹ mú ẹbọ inú-jó àti ẹbọ àlàáfíà wá sí ọ̀dọ̀ mi\"; ó sì sọ ẹbọ inú-jó náà sókè.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הגשו",
+      "gloss": "ẹ mú ... wá"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbọ inú-jó"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "àti ẹbọ àlàáfíà"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ó sì sọ ... sókè"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbọ inú-jó náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:46:37.413462193Z",
+  "model": "glm-5.3"
+}

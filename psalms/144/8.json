@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 144,
+  "translation": "Ẹnití ẹnu wọn ń bẹ̀rọ̀ ìparun, ọwọ́ ọ̀tún wọn sì ⟨jẹ́⟩ ọwọ́ ọ̀tún èké.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ẹnití"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ẹnu wọn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ń bẹ̀rọ̀"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ìparun"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ọwọ́ ọ̀tún wọn sì"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ọwọ́ ọ̀tún"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "èké"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:07.969699642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Erù Baveli, èyí tí Yeshayahu ọmọ Amotsi rí.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Erù"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baveli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "rí"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotsi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:44:50.787542227Z",
+  "model": "glm-5.3"
+}

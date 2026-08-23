@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Naval sì dáhùn ⟨את⟩ àwọn ìránṣẹ́ Davíd lọ́wọ́, ó sì wí pé, Ta ló jẹ́ Davíd? Ta ló jẹ́ ọmọ Yishai? Òní, àwọn ìránṣẹ́ pọ̀ tí ń yapa síta, okùnrin kọ̀ọ̀kan ló ń sálọ kúrò lọ́wọ́ olúwa rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ó sì dáhùn"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìránṣẹ́ Davíd"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "tàbí ta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "òní"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "wọ́n pọ̀"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "tí ń yapa síta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "okùnrin kọ̀ọ̀kan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kúrò lọ́wọ́"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "olúwa rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:53:43.225091958Z",
+  "model": "glm-5.3"
+}

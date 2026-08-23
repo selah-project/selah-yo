@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 6:3",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Aláṣẹ yóò wọ aṣọ híhọ rẹ̀, ó sì máa wọ ìràwọ̀ híhọ lórí ara rẹ̀; ó sì gbé ⟨את⟩ eérú tí iná ti jẹ ⟨את⟩ ẹ̀bùn ìsún náà lórí pẹpẹ yọ, ó sì gbé e sí ẹ̀gbẹ̀ pẹpẹ náà.",
+  "tokens": [
+    {
+      "surface": "ולבש",
+      "gloss": "yóò wọ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aláṣẹ"
+    },
+    {
+      "surface": "מדו",
+      "gloss": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "בד",
+      "gloss": "híhọ"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "àti ìràwọ̀"
+    },
+    {
+      "surface": "בד",
+      "gloss": "híhọ"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "ó máa wọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ara rẹ̀"
+    },
+    {
+      "surface": "והרים",
+      "gloss": "ó sì gbé yọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eérú"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "eérú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ti jẹ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ìná"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀bùn ìsún náà"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹ̀bùn ìsún"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ó sì gbé e sí"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ẹ̀gbẹ̀"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:00.114785609Z",
+  "model": "glm-5.3"
+}

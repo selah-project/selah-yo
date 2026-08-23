@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Nítorí tí ìwọ, Yahweh, ni ibi àbòbo mi, Ẹlẹ́gíga-jùlọ ni ìwọ fi sílẹ̀ ní ibùgbé rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ibi àbòbo mi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ẹlẹ́gíga-jùlọ"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ìwọ fi sílẹ̀"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "ní ibùgbé rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:11.490900602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Şamueli wí fún ⟨àwọn⟩ ènìyàn náà pé, Yahweh ni ènìyàn tí ó ṣe ⟨את⟩ Moshe àti ⟨את⟩ Aharon, àti ènìyàn tí ó gbé ⟨את⟩ àwọn baba yín sókè láti ilẹ̀ Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Şamueli wí"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Şamueli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨àwọn⟩ ènìyàn náà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "àti tí"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ó gbé sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn baba yín"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "àwọn baba yín"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "láti ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T00:45:53.219513852Z",
+  "model": "glm-5.3"
+}

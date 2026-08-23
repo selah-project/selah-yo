@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ìrọ̀rùn ni ọ̀rọ̀ ẹnu ọ̀gbọ́n; ṣùgbọ́n èté àwọn ọmọ-àṣiwèèrè ní ó máa gbẹ́ mi lóùn.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ọ̀gbọ́n"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ìrọ̀rùn"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ṣùgbọ́n èté"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "àwọn ọmọ-àṣiwèèrè"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ní ó máa gbẹ́ mi lóùn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:28.930098724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Ṣé a ń sọ ìfẹ́ olóòtítọ́ rẹ nínú síúlù? Ṣé ìgbẹ́kẹ̀ rẹ ní Abaddon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "ṣé a ń sọ"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "nínú síúlù"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ìgbẹ́kẹ̀ rẹ"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "ní Abaddon"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:28.293950651Z",
+  "model": "glm-5.3"
+}

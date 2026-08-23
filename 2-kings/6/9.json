@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Okùnrin Elohim sì ránṣẹ́ sí ọba Israẹli, ó sì wí pé, Ṣọ̀ kí o má ṣe kọjá níbẹ̀, nítorí tí àwọn ará Aramu ń gbé ibẹ̀ pamọ́.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì ránṣẹ́ sí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "okùnrin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Ṣọ̀"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kí o má ṣe kọjá"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "níbí"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "àwọn ará Aramu"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "ń gbé pamọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:28:48.825329081Z",
+  "model": "glm-5.3"
+}

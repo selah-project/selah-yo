@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 48:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Àwọn ọmọ tí ó bá tú, tí o bá bí lẹ́yìn wọn — ti rẹ ni wọn; ní orúkọ àwọn ará wọn ni wọn yóò pè wọn nínú ogún ilẹ̀ wọn.",
+  "tokens": [
+    {
+      "surface": "ומולדתך",
+      "gloss": "àwọn ọmọ tí ó bá tú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "tí o bá bí"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "lẹ́yìn wọn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti rẹ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ni wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "àwọn ará wọn"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "wọn yóò pè wọn"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "nínú ogún ilẹ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:05.799577420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Achab sì ránṣẹ́ sí gbogbo àwọn ọmọ Ísráẹ̀lì, ó sì ko ⟨את⟩ àwọn wòlíí jọ sí òkè Karmelu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì ránṣẹ́"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sí gbogbo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísráẹ̀lì"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ó sì ko… jọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn wòlíí"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "àwọn wòlíí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelu"
+    }
+  ],
+  "timestamp": "2026-08-23T01:22:43.737900614Z",
+  "model": "glm-5.3"
+}

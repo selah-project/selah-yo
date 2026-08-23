@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Wo ọ̀tá mi, nítorí wọ́n pọ̀ jọ; ìkórìíra ìwà-ipá ni wọ́n fi ń kọ́ mi ni ìkórìíra.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ọ̀tá mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "wọ́n pọ̀ jọ"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "àti ìkórìíra"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìwà-ipá"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "wọ́n ń kọ́ mi ni ìkórìíra"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:13.965572136Z",
+  "model": "glm-5.3"
+}

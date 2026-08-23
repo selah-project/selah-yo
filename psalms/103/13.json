@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Gẹ́gẹ́ bí baba ṣe ń ṣàánú fún àwọn ọmọ rẹ̀, bẹ́ẹ̀ ni Yahweh ṣàánú fún àwọn tí ń bẹ̀rù òun.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "gẹ́gẹ́ bí ṣe ń ṣàánú"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "על",
+      "gloss": "fún"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ṣàánú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "fún"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "àwọn tí ń bẹ̀rù òun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:18.180839570Z",
+  "model": "glm-5.3"
+}

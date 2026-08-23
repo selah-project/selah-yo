@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 7:1",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ó sì ṣẹlẹ̀ ní ọjọ́ tí Moshe parí ṣíṣẹ́ gbígbẹ́ ⟨את⟩ àgọ́ naa, ó sì fi òróró ṣe ⟨את⟩ ìyẹ́, ó sì fiyẹ́ ⟨את⟩ ìyẹ́ àti ⟨את⟩ gbogbo irinṣẹ́ rẹ̀, àti ⟨את⟩ pẹpẹ ìsacrífíìsì náà àti ⟨את⟩ gbogbo irinṣẹ́ rẹ̀, ó sì fi òróró ṣe wọn, ó sì fiyẹ́ ⟨את⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́ tí"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "parí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ṣíṣẹ́ gbígbẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgọ́ naa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "àgọ́ naa"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ó sì fi òróró ṣe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ìyẹ́",
+      "marks": "àgọ́ naa"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ó sì fiyẹ́"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ìyẹ́",
+      "marks": "àgọ́ naa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "pẹpẹ ìsacrífíìsì náà"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ ìsacrífíìsì náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "וימשחם",
+      "gloss": "ó sì fi òróró ṣe wọn"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ó sì fiyẹ́"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:50:44.316750850Z",
+  "model": "glm-5.3"
+}

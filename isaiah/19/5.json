@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Òmi yóò parun kúrò lọ́dọ̀ òkun, odò yóò sì yẹ̀, yóò sì gbẹ̀.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "yóò parun"
+    },
+    {
+      "surface": "מים",
+      "gloss": "òmi"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "kúrò lọ́dọ̀ òkun"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "odò sì"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "yóò yẹ̀"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "yóò sì gbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:45:54.632316806Z",
+  "model": "glm-5.3"
+}

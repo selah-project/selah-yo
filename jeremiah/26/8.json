@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 26:8",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ó sì ṣẹlẹ̀, nígbà tí Yirmiyahu parí ìsọ ⟨את⟩ gbogbo ohun tí Yahweh pàṣẹ láti sọ fún gbogbo ènìyàn, tí àwọn àlùfáà àti àwọn wòlíì àti gbogbo ènìyàn mú ⟨את⟩ ì gbé, wọ́n wí pé, 'Iwọ gbọ́dọ̀ kú, dájúdájú iwọ ó kú.'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "nígbà tí… parí"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyahu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ìsọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ohun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "láti sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "èníyàn"
+    },
+    {
+      "surface": "ויתפשו",
+      "gloss": "wọ́n sì mú"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ì gbé",
+      "marks": "wọ́n mú Yirmiyahu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "àti àwọn wòlíì"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "èníyàn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wọ́n wí pé"
+    },
+    {
+      "surface": "מות",
+      "gloss": "iwọ gbọ́dọ̀ kú, dájúdájú"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "iwọ ó kú"
+    }
+  ],
+  "timestamp": "2026-08-23T02:18:27.481140163Z",
+  "model": "glm-5.3"
+}

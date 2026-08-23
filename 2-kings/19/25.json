@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ṣé o kò gbọ́ láti ọ̀nà jijìn? ⟨את⟩-rẹ̀ ni mo ṣe láti ọjọ́ àtijọ́, mo sì yọ ọ́ dá; ní báyìí mo mú ú wá, ó sì di láti wó di òkúta aáyán ti ó gbé, àwọn ìlú àgbára.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ṣé o kò"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "láti ọ̀nà jijìn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-rẹ̀",
+      "marks": "rẹ̀ (iṣẹ́ tí mo ṣe)"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mo ṣe"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "láti ọjọ́"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "àtijọ́"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "mo sì yọ ọ́ dá"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ní báyìí"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "mo mú ú wá"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ó sì di"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "láti wó di aáyán"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "òkúta aáyán"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "ti ó gbé"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "àgbára"
+    }
+  ],
+  "timestamp": "2026-08-23T05:53:46.813090351Z",
+  "model": "glm-5.3"
+}

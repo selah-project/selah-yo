@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Olórí àwọn jagunjagbà sì mú ⟨את⟩ Serayah, àlùfáà olórí, àti ⟨את⟩ Tsefanyahu, àlùfáà kejì, àti ⟨את⟩ àwọn olùṣọ́ ìlèkùn mẹ́ta náà.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "sì mú"
+    },
+    {
+      "surface": "רב",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "àwọn jagunjagbà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Tsefanyahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kejì"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn olùṣọ́ ìlèkùn mẹ́ta"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "àwọn olùṣọ́"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ìlèkùn náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:40:40.007468242Z",
+  "model": "glm-5.3"
+}

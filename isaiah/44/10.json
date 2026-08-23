@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Ta ni ó dá El, tí ó sì rò pèsélẹ̀, tí kò ní ànfààní rárá?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "dá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "àti pèsélẹ̀"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "rò"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "tí kò"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ní ànfààní rárá"
+    }
+  ],
+  "timestamp": "2026-08-23T01:57:42.603747553Z",
+  "model": "glm-5.3"
+}

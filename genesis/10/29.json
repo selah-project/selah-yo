@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "àti ⟨את⟩ Ophir, àti ⟨את⟩ Chavilah, àti ⟨את⟩ Yovav; gbogbo wọnyí ni àwọn ọmọ Yoktan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ophir"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "Ophir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Chavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktan"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:12.964582124Z",
+  "model": "glm-5.3"
+}

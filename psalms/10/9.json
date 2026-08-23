@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó ń pa ìkọ̀kọ̀ọ́-ọ̀dọ̀ dá ni wọ́n bí kìnìún nínú àgbọn rẹ̀; ó ń pa ìkọ̀kọ̀ọ́-ọ̀dọ̀ láti mú aláìnígba; ó mú aláìnígba nígbà tí ó bá fà á ní ẹ̀wùn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "ó ń pa ìkọ̀kọ̀ọ́-ọ̀dọ̀ dá"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "ni wọ́n"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "bí kìnìún"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "nínú àgbọn rẹ̀"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "ó ń pa ìkọ̀kọ̀ọ́-ọ̀dọ̀"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "láti mú"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aláìnígba"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "ó mú"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aláìnígba"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "nígbà tí ó bá fà á"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "ní ẹ̀wùn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:46.138870300Z",
+  "model": "glm-5.3"
+}

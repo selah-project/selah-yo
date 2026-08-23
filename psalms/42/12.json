@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ìwọ tí ó ń sinkù, ẹ̀mí mi, àti ìwọ tí ó ń kigbe lórí mi? Ṣe ìrètí sí Elohim; nítorí èmi yóò tún dupẹ́ fún-un — ìgbàlà ojú mi, àti Elohim mi.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ìwọ tí ó…?"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "ń sinkù"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "àti ìwọ tí ó…?"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "ń kigbe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "ṣe ìrètí"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sí Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tún"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "èmi yóò dupẹ́ fún-un"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "àti Elohim mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:46.637836070Z",
+  "model": "glm-5.3"
+}

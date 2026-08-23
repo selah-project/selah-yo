@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Àwọn ènìyàn ilẹ̀ yìí sì gba Yehoachaz ọmọ Yeshiyahu, wọ́n sì jẹ́ kí ó jẹ́ oyè ọba ní ipò baba rẹ̀ ní Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "wọ́n sì gba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yeshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "wọ́n sì jẹ́ kí ó jẹ́ oyè ọba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:38:13.607438712Z",
+  "model": "glm-5.3"
+}

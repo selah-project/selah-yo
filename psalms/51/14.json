@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Dá padà fún mi ayò ìgbàlà rẹ, kí ẹ̀mí tí ó ṣetán sì gbé mi.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "dá padà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ayò"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ìgbàlà rẹ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "kí ẹ̀mí"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "tí ó ṣetán"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "sì gbé mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:38.494458884Z",
+  "model": "glm-5.3"
+}

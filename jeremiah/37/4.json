@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Yirmeyahu sì ń wọ̀ọ́ wá, ń bọ́ọ́ wá, láàárín àwọn ènìyàn náà, nítorí pé wọn kò ti fi ⟨את⟩ í sílẹ̀ sínú ilé ẹ̀wọ̀n.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Yirmeyahu sì"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ń wọ̀ọ́ wá"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ń bọ́ọ́ wá"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nítorí pé … kò ti"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "fi sílẹ̀ sínú"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ í",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "ẹ̀wọ̀n"
+    }
+  ],
+  "timestamp": "2026-08-23T02:24:33.660351715Z",
+  "model": "glm-5.3"
+}

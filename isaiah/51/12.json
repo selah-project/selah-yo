@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Ìwọ ni, ìwọ ni, èmi ni ẹni tí ń tù wọ́n lọ́rẹ̀; ta ni ⟨את⟩ ìwọ tí ó bẹ̀rù ènìyàn tí yóò kú, àti ọmọ Adam tí a fi wé kòró ilẹ̀?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ìwọ ni, ìwọ ni"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "—"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "èmi ni ẹni"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "tí ń tù wọ́n lọ́rẹ̀"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìwọ"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "tí ó bẹ̀rù"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "tó yóò kú"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "àti ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "kòró ilẹ̀"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "tí a fi wé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:59:57.001726433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àwọn orúkọ àwọn ọmọ Gershom ni àwọnyí: Livni àti Shim-i.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "àwọnyí ni"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "àwọn orúkọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Livni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "àti Shimei"
+    }
+  ],
+  "timestamp": "2026-08-23T05:10:09.812659051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "David sì firanṣẹ́, ó sì léèwò nípa obinrin naa; wọ́n sì wí pé, Ṣé kì í ṣe eleyí ni Bat-Sheba, ọmọbibin Eliamu, iyawo Uriya ará Heti?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì firanṣẹ́"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "ó sì léèwò nípa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "obinrin naa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wọ́n sì wí pé"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ṣé kì í ṣe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "eleyí"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbibin"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bat-Sheba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbibin"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eliamu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "iyawo"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ará Heti"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:44.948181499Z",
+  "model": "glm-5.3"
+}

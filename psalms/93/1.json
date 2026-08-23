@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 93,
+  "translation": "Yahweh ti jọba, ó wọ ⟨ìyó⟩ ògo; Yahweh wọ agbára, ó fi agbára ra ara rẹ̀ mọ́ra; bẹ́ẹ̀ ni ayé dúró ṣinṣin, kì í gbére láì pọ́n.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti jọba"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ògo"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ó wọ"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "wọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "agbára"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "ó ra ara rẹ̀ mọ́ra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "dúró ṣinṣin"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "gbére láì pọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:55.542314035Z",
+  "model": "glm-5.3"
+}

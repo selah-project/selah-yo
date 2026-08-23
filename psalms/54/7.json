@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 54,
+  "translation": "Ìbúburú yóò padà sí àwọn ọ̀tá mi; ní òtítọ́ rẹ di wọn jù.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "yóò padà sí"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "Ìbúburú"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ní òtítọ́ rẹ"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "di wọn jù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:21.441268597Z",
+  "model": "glm-5.3"
+}

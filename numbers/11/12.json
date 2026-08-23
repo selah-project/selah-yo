@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 11:12",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ṣé èmi ló gbé ⟨את⟩ gbogbo àwọn ènìyàn yìí lóyún? Ṣé èmi ló bí wọn, tí ìwọ ń wí fún mi pé: Gbé wọn ní ìdì rẹ, bí olùtọ́jú-ọmọ tí í gbé ⟨את⟩ ọmọ-oyún, sí ilẹ̀ tí ìwọ ti búra fún àwọn baba wọn?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "Ṣé èmi ló"
+    },
+    {
+      "surface": "הריתי",
+      "gloss": "gbé… lóyún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ènìyàn yìí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ṣé"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi ló"
+    },
+    {
+      "surface": "ילדתיהו",
+      "gloss": "bí wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ń wí"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "Gbé wọn"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "ní ìdì rẹ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "האמן",
+      "gloss": "olùtọ́jú-ọmọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ-oyún"
+    },
+    {
+      "surface": "הינק",
+      "gloss": "ọmọ-oyún"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "ti búra"
+    },
+    {
+      "surface": "לאבתיו",
+      "gloss": "fún àwọn baba wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:55:40.739866703Z",
+  "model": "glm-5.3"
+}

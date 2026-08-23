@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Kò ṣe sí wa gẹ́gẹ́ bí ẹ̀ṣẹ̀ wa, kò sì ṣànà fún wa gẹ́gẹ́ bí àìṣẹ̀tútù wa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "gẹ́gẹ́ bí ẹ̀ṣẹ̀ wa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sí wa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "gẹ́gẹ́ bí àìṣẹ̀tútù wa"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ṣànà fún"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:22.269027421Z",
+  "model": "glm-5.3"
+}

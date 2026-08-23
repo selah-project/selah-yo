@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Èso ìdọ̀ mi àti ọmọ ilẹ̀-ìdọ̀ mi: èyí tí mo gbọ́ láti ọ̀dọ̀ Yahweh Sabaoth, Elohim Israẹli, ni mo ti sọ fún yín.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Èso ìdọ̀ mi"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "àti ọmọ"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "ilẹ̀-ìdọ̀ mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mo gbọ́"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "láti ọ̀dọ̀ Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaoth"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "mo ti sọ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    }
+  ],
+  "timestamp": "2026-08-23T05:54:54.958326069Z",
+  "model": "glm-5.3"
+}

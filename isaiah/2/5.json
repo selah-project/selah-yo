@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ile Yaakov, ẹ wá, kí a lọ nínú ìmọ́lẹ̀ Yahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Ile"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ẹ wá"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "kí a lọ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "nínú ìmọ́lẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T01:38:40.732887888Z",
+  "model": "glm-5.3"
+}

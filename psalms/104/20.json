@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Ìwọ dá òkùnkùn, ó sì jẹ́ òru; nínú rẹ̀ gbogbo ẹranko igbó ń kó kíríkírí.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Ìwọ dá"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "òkùnkùn"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì jẹ́"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ń kó kíríkírí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "יער",
+      "gloss": "igbó"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:56.114502643Z",
+  "model": "glm-5.3"
+}

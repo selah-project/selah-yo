@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Nítorí náà, èmi yóò fi ⟨את⟩ àwọn aya wọn fún àwọn míràn, àti àwọn pámà wọn fún àwọn tí yóò jogún; nítorí tí láti kékeré dé ẹ̀gbàágbà, gbogbo wọn ń ṣe ègbé; láti wòlíì dé àlùfáà, gbogbo wọn ń ṣe ìtan.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "èmi yóò fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn aya wọn"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "àwọn aya wọn"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "fún àwọn míràn"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "àwọn pámà wọn"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "fún àwọn tí yóò jogún"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "láti kékeré"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ẹ̀gbàágbà"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "gbogbo wọn"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ń ṣe ègbé"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ègbé"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "láti wòlíì"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "gbogbo wọn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ìtan"
+    }
+  ],
+  "timestamp": "2026-08-23T02:10:18.283135116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ati Shuppimu, ati Huppimu, àwọn ọmọ Iri; Ḥushimu, àwọn ọmọ Aḥer.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "ati Shuppimu"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ati Huppimu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Iri"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Ḥushimu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Aḥer"
+    }
+  ],
+  "timestamp": "2026-08-23T05:10:35.149741825Z",
+  "model": "glm-5.3"
+}

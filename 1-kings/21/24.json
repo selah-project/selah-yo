@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ẹnití ó bá kú fún Ahab ní ìlú, àwọn ajá yóò jẹ ⟨i⟩ ẹ́; ẹnití ó sì bá kú ní pápá, ẹyẹ ọ̀run yóò jẹ ⟨i⟩ ẹ́.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "ẹnití ó bá kú"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "fún Ahab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ní ìlú"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yóò jẹ"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "àwọn ajá"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ẹnití ó sì bá kú"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ní pápá"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yóò jẹ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ẹyẹ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    }
+  ],
+  "timestamp": "2026-08-23T01:22:32.577197179Z",
+  "model": "glm-5.3"
+}

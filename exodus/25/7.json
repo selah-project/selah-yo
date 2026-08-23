@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Okuta shoham, àti àwọn okuta ìsẹ́-ǹ-ṣíṣe fún ephod, àti fún choshen.",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "okuta"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "àti àwọn okuta"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ìsẹ́-ǹ-ṣíṣe (miluim)"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "fún ephod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "àti fún choshen"
+    }
+  ],
+  "timestamp": "2026-08-22T23:25:14.408495532Z",
+  "model": "glm-5.3"
+}

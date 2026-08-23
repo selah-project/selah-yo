@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 17:10",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Wọ́n sì gbé kalẹ̀ fúnra wọn àwọn ọ̀ṣọ́-òkúta àti àwọn Ashera, lórí gbogbo òkè gígà, àti ní ìsàlẹ̀ gbogbo igi tí ó ń so ewé.",
+  "tokens": [
+    {
+      "surface": "ויצבו",
+      "gloss": "wọ́n sì gbé kalẹ̀"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fúnra wọn"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "àwọn ọ̀ṣọ́-òkúta (matsevot)"
+    },
+    {
+      "surface": "ואשרים",
+      "gloss": "àti àwọn Ashera"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "gígà"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "àti ní ìsàlẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ń-so-ewé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:18.695579664Z",
+  "model": "glm-5.3"
+}

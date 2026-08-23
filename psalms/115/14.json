@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 115,
+  "translation": "Yahweh lè ṣàfikún sí yín — sí yín, àti sí àwọn ọmọ yín.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "lè ṣàfikún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sí yín"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sí yín"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "àwọn ọmọ yín"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:11.741556947Z",
+  "model": "glm-5.3"
+}

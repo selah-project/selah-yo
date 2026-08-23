@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ìjọba máa ń tì ẹ̀yàn lu ẹ̀yàn — ènìyàn lórí ènìyàn, àti ènìyàn lórí alákànṣe rẹ̀; ọmọdé yóò gbéyàwó fún arúgbọ́n, àti ẹni tí a ṣòfò fún ẹni ìgbà-láyè.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "wọ́n máa ń tì ẹ̀yàn lu ẹ̀yàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "lórí ènìyàn"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "àti ènìyàn"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "lórí alákànṣe rẹ̀"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "yóò gbéyàwó"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ọmọdé"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "fún arúgbọ́n"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "àti ẹni tí a ṣòfò"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "fún ẹni ìgbà-láyè"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:48.032743512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 7:4",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Bẹ́ẹ̀ ni Adonai Yahweh fi hàn fún mi; kíyèsi i, Adonai Yahweh ń pe ìdanwọ̀ nípa iná, ó sì jẹ ⟨את⟩ iho ìjìnla tó tóbi, ó sì jẹ ⟨את⟩ ìpín ⟨ti⟩ ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "fi hàn fún mi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kíyèsi i"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ń pe"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ìdanwọ̀"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nípa iná"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ó sì jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iho ìjìnla"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "iho ìjìnla"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ó sì jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìpín ilẹ̀"
+    },
+    {
+      "surface": "החלק",
+      "gloss": "ìpín ⟨ti⟩ ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:09:03.348693816Z",
+  "model": "glm-5.3"
+}

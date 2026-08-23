@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 132,
+  "translation": "títí tí èmi fi í rí ibi fún Yahweh, àwọn ibùgbé fún Abír Yaakov.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "títí tí"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "èmi fi í rí"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "àwọn ibùgbé"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "fún Abír"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:56.448556430Z",
+  "model": "glm-5.3"
+}

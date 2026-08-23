@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àwọn ọ̀tún ilé wa ni àwọn `cedar`, àwọn páńélì wa sì ni àwọn `cypress`.",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "àwọn ọ̀tún (ilé)"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ilé wa"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "àwọn `cedar`"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "àwọn páńélì wa"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "àwọn `cypress`"
+    }
+  ],
+  "timestamp": "2026-08-23T06:10:25.521274529Z",
+  "model": "glm-5.3"
+}

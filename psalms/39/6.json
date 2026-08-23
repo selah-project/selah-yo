@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 39:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Wò ó, tẹ́fà ọwọ́ ni O fi ṣe ọjọ́ mi, àti ìgbà ayé mi dàbí àìní níwájú Rẹ; ṣe ódọ̀dan, ènìyàn gbogbo ⟨ṣe⟩ àsán; ní àìní ni ó dúró. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "טפחות",
+      "gloss": "tẹ́fà ọwọ́"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "O fi ṣe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́ mi"
+    },
+    {
+      "surface": "וחלדי",
+      "gloss": "àti ìgbà ayé mi"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "dàbí àìní"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "níwájú Rẹ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ṣe ódọ̀dan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "àsán"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ó dúró"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:19.472107420Z",
+  "model": "glm-5.3"
+}

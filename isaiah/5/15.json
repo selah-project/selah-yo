@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ẹnìyàn sùn-ka, ọkùnrin sì wà lọ̀ dàbàbá; ojú àwọn tí ó ga ara sílẹ̀ sì túká.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "sùn-ka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ẹnìyàn"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "wà lọ̀ dàbàbá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "ו עיני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "àwọn tí ó ga ara sílẹ̀"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "sì túká"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:33.913688925Z",
+  "model": "glm-5.3"
+}

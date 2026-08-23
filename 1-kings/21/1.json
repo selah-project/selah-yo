@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 21:1",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ó sì ṣẹlẹ̀ lẹ́yìn àwọn ọ̀rọ̀ wọnyí pé, igbo ọnà kan wà fún Navot, ara Yizreeli, tí ó wà ní Yizreeli, ní etí ààfin Achav, ọba Shomeron.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "igbo ọnà"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "לנבות",
+      "gloss": "fún Navot"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "ara Yizreeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "ní Yizreeli"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ní etí"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ààfin"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-23T01:24:04.256804125Z",
+  "model": "glm-5.3"
+}

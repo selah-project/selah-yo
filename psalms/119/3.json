@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Bẹ́ẹ̀ ni, wọn kò ṣe àìtọ́; nínú ọ̀nà Rẹ̀ ni wọn ti ń rìn.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "wọn ṣe"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "àìtọ́"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "nínú ọ̀nà Rẹ̀"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "wọn ti ń rìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:06.909026904Z",
+  "model": "glm-5.3"
+}

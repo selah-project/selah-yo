@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Wọ́n óó jẹ́wọ́ ⟨את⟩ ẹ̀ṣẹ̀ wọn, àti ⟨את⟩ ẹ̀ṣẹ̀ àwọn baba wọn, ní ìṣẹ́gílẹẹ̀ tí wọ́n fi ṣẹ́gílẹ̀ lọ́dọ̀ mi, àti pé wọ́n ti rìn pẹ̀lú mi ní ìṣẹ́gún-ìtẹ́lé.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "wọ́n óó jẹ́wọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀ṣẹ̀ wọn"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ẹ̀ṣẹ̀ wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹ̀ṣẹ̀ àwọn baba wọn"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "ní ìṣẹ́gílẹẹ̀ wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "wọ́n fi ṣẹ́gílẹ̀"
+    },
+    {
+      "surface": "בי",
+      "gloss": "lọ́dọ̀ mi"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "àti pé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "wọ́n ti rìn"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pẹ̀lú mi"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ní ìṣẹ́gún-ìtẹ́lé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:47:45.771526457Z",
+  "model": "glm-5.3"
+}

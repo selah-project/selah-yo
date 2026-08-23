@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Gbogbo àwọn àsọ ìdènà ti àgbàlá, ní ayíká, ⟨jẹ́⟩ asọ funfun tí a kún.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "àwọn àsọ ìdènà"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ti àgbàlá"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní ayíká"
+    },
+    {
+      "surface": "שש",
+      "gloss": "asọ funfun"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tí a kún"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:41.858269474Z",
+  "model": "glm-5.3"
+}

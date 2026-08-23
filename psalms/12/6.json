@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Nítorí ìṣẹ̀ àwọn aláìsúnù, nítorí ẹ̀kúnrẹrẹ àwọn aláìní, níìsinsìí ni mo ó dìde, Yahweh sọ; mo ó fi sílẹ̀ sí ìràpadà fún ẹni tí ó ń sànlẹ̀ fún un.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "ìṣẹ̀"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "àwọn aláìsúnù"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "ẹ̀kúnrẹrẹ"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "àwọn aláìní"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "níìsinsìí"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "mo ó dìde"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mo ó fi sílẹ̀ sí"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "ìràpadà"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "ó ń sànlẹ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:25.149716233Z",
+  "model": "glm-5.3"
+}

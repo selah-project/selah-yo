@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Yahweh sọ fún Moshe, wípé:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wípé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:38:27.975006102Z",
+  "model": "glm-5.3"
+}

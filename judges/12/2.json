@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 12:2",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Yiftach sì wí fún wọn pé, Ènìyàn ìjà púpọ̀ ni mo ti jẹ́ — èmi àti ènìyàn mi — pẹ̀lú àwọn ọmọ Ammon; mo sì ké sí ⟨את⟩ yín, ẹ kò sì gbà ⟨את⟩ mi là láti ọwọ́ wọn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftach"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "èniyàn"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ìjà"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mo ti jẹ́"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "àti ènìyàn mi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "pẹ̀lú àwọn ọmọ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "ואזעק",
+      "gloss": "mo sì ké sí"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "הושעתם",
+      "gloss": "ẹ gbà... là"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "láti ọwọ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:39:05.585408802Z",
+  "model": "glm-5.3"
+}

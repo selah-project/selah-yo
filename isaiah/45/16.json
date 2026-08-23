@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 45:16",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Wọ́n ti tì yẹ̀ẹ̀ sílẹ̀, wọ́n sì ti ṣẹ̀ bi ẹni ègbé — gbogbo wọn; papọ̀ ni wọ́n fi ń rìn nínú ègbé, àwọn aṣẹ̀dá ère òrìṣà.",
+  "tokens": [
+    {
+      "surface": "בושו",
+      "gloss": "wọ́n ti tì yẹ̀ẹ̀ sílẹ̀"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti bákan náà"
+    },
+    {
+      "surface": "נכלמו",
+      "gloss": "wọ́n ti ṣẹ̀ bi ẹni ègbé"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "gbogbo wọn"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "papọ̀"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "wọ́n ń rìn"
+    },
+    {
+      "surface": "בכלמה",
+      "gloss": "nínú ègbé"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "àwọn aṣẹ̀dá"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "èrè òrìṣà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:58:17.833202159Z",
+  "model": "glm-5.3"
+}

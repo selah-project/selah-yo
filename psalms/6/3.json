@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ṣe àánú fún mi, Yahweh, nítorí tí mo kéré agbára; wò mi dá, Yahweh, nítorí tí egungun mi ti yàtù.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ṣe àánú fún mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "mo kéré agbára"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "wò mi dá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ti yàtù"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "egungun mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:46.502997987Z",
+  "model": "glm-5.3"
+}

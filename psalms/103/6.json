@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Yahweh ń ṣe àwọn iṣẹ́ ìdájọ́ onítọ́ àti ìdájọ́ fún gbogbo àwọn tí wọ́n ń tẹ̀ ẹ́ lọ́rùn.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "àwọn iṣẹ́ ìdájọ́ onítọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "àti ìdájọ́"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "àwọn tí wọ́n ń tẹ̀ ẹ́ lọ́rùn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:17.551982189Z",
+  "model": "glm-5.3"
+}

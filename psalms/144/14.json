@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 144,
+  "translation": "Àwọn màlúù wa ń ru èrù ⟨wọn⟩; kò sí ìṣí àti kò sí ìjáde, àti kò sí kíkìkí nínú àwọn páláńgbà wa.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "àwọn màlúù wa"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "ń ru èrù"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ìṣí"
+    },
+    {
+      "surface": "ו אין",
+      "gloss": "àti kò sí"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "ìjáde"
+    },
+    {
+      "surface": "ו אין",
+      "gloss": "àti kò sí"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "kíkìkí"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "nínú àwọn páláńgbà wa"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:53.423489352Z",
+  "model": "glm-5.3"
+}

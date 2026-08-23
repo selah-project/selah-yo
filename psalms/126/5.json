@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 126,
+  "translation": "Àwọn tí ń gbín ní ẹ̀ṣẹ̀jú ni yóò kẹ́kọ̀ọ́ ní orin ayọ̀.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "àwọn tí ń gbín"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "ní ẹ̀ṣẹ̀jú"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ní orin ayọ̀"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "yóò kẹ́kọ̀ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:22.826206326Z",
+  "model": "glm-5.3"
+}

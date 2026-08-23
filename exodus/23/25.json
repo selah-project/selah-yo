@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ẹ̀yin yóò sìn ⟨את⟩ Yahweh, Elohim yín, ó sì yọ ìbùkún fún búrẹ́dì rẹ àti omi rẹ; èmi yóò sì yọ àìsàn kúrò ní àárín rẹ.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "ẹ̀yin yóò sìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ó sì yọ ìbùkún fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "búrẹ́dì rẹ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "búrẹ́dì rẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "omi rẹ"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "omi rẹ"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "èmi yóò sì yọ kúrò"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "àìsàn"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ní àárín rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:11.296795854Z",
+  "model": "glm-5.3"
+}

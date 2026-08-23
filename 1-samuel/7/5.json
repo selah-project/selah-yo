@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Shemuël sì wí pé: \"Kó gbogbo Israẹli jọ sí Mitzpa, èmi yóò sì gbà àdúrà nítorí yín sí Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "kó…jọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo Israẹli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "sí Mitzpa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "èmi yóò sì gbà àdúrà"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "nítorí yín"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T05:48:36.685997917Z",
+  "model": "glm-5.3"
+}

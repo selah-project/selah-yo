@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Rántí àwọn àánú rẹ, Yahweh, àti àwọn chesed rẹ, nítorí wọn ni wọ́n ti wà láti ìgbà ìgbà.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Rántí"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "àwọn àánú rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "àti àwọn chesed rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "láti ìgbà ìgbà"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọ́n ni"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:17.428170683Z",
+  "model": "glm-5.3"
+}

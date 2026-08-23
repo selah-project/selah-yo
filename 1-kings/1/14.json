@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Wò ó, tó o tí ń bá ọba náà sọ̀rọ̀ níbẹ̀, èmi yóò sì wá lẹ́yin rẹ, èmi yóò sì paró ⟨את⟩ ọ̀rọ̀ rẹ ṣe é pé.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "tó o tí"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "ń bá...sọ̀rọ̀"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "yóò wá"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "lẹ́yin rẹ"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "èmi yóò sì paró...ṣe é pé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ rẹ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ọ̀rọ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:01.322828840Z",
+  "model": "glm-5.3"
+}

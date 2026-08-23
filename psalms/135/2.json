@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Ẹyin tí ń dúró nínú ilé Yahweh, nínú àwọn ọ̀nà ìṣẹ̀lẹ̀ ilé Elohim wa.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "tí ń dúró"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nínú ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "nínú àwọn ọ̀nà ìṣẹ̀lẹ̀"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:06.614823367Z",
+  "model": "glm-5.3"
+}

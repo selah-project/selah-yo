@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 108,
+  "translation": "Tími ni Gilad, tími ni Menashsheh, Efrayim ni igbá ìdàbòbo orí mi, Yehudah ni olùṣe àṣẹ mi.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "tími ni"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tími ni"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "àti Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "igbá ìdàbòbo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "orí mi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "olùṣe àṣẹ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:37.000782662Z",
+  "model": "glm-5.3"
+}

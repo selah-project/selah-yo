@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Ọjọ́ mí dà bíi òjìká tí ó tẹ̀ sí, èmi sì gbẹ bíi koríko.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́ mí"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "bíi òjìká"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "tí ó tẹ̀ sí"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "èmi sì"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "bíi koríko"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "gbẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:20.766568784Z",
+  "model": "glm-5.3"
+}

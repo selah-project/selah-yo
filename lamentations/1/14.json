@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 1:14",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Wọ́n ti mó ẹ̀wọ̀n ìṣẹ̀ mi sí ọwọ́ rẹ̀; wọ́n kan wọn pó, wọ́n sì gòógòò sórí ọ̀rùn mi; Ó jẹ́ kí agbára mi ṣubú; Adonai fi mi lé lọ́wọ́ àwọn tí èmi kò lè dìde lọ́dọ̀.",
+  "tokens": [
+    {
+      "surface": "נשקד",
+      "gloss": "wọ́n ti mó"
+    },
+    {
+      "surface": "על",
+      "gloss": "ẹ̀wọ̀n"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ìṣẹ̀ mi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sí ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ישתרגו",
+      "gloss": "wọ́n kan wọn pó"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "wọ́n gòógòò"
+    },
+    {
+      "surface": "על",
+      "gloss": "sórí"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "ọ̀rùn mi"
+    },
+    {
+      "surface": "הכשיל",
+      "gloss": "Ó jẹ́ kí ó ṣubú"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "agbára mi"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "Ó fi mi lé"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "lọ́wọ́ àwọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "קום",
+      "gloss": "dìde"
+    }
+  ],
+  "timestamp": "2026-08-23T04:38:31.256786403Z",
+  "model": "glm-5.3"
+}

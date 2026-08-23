@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ìyè ni ó béèrè lọ́dọ̀ rẹ, O fún un; gígun ọjọ́, láé títí láé.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Ìyè"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ó béèrè"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "O fún"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ún"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "gígun"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "láé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí láé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:27.132164432Z",
+  "model": "glm-5.3"
+}

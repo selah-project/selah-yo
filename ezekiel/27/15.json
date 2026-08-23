@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 27:15",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Àwọn ọmọ Dedani, àwọn olùṣòwò rẹ; ọ̀pọ̀lọ́pọ̀ erékùṣù ni ibi ojà ọwọ́ rẹ; wọ́n ṣètùfọ̀ sí ọ pẹ̀lú ìbon ìyẹ́ ìgbín àti edùn dúdú gẹ́gẹ́ bí owó-ìyìn rẹ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Àwọn ọmọ"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedani"
+    },
+    {
+      "surface": "רכליך",
+      "gloss": "àwọn olùṣòwò rẹ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "erékùṣù"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọ̀pọ̀lọ́pọ̀"
+    },
+    {
+      "surface": "סחרת",
+      "gloss": "ibi ojà"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ìbon"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ìyẹ́ ìgbín"
+    },
+    {
+      "surface": "והובנים",
+      "gloss": "àti edùn dúdú"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "wọ́n ṣètùfọ̀ sí ọ"
+    },
+    {
+      "surface": "אשכרך",
+      "gloss": "owó-ìyìn rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:47:37.867459742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Wọ́n gùn àwọn olóyè sí àwọn ọwọ́ wọn; wọ́n kò gbà ojú àwọn àgbà lọ́lá.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "àwọn olóyè"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "sí àwọn ọwọ́ wọn"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "wọ́n gùn"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "wọ́n kò gbà ... lọ́lá"
+    }
+  ],
+  "timestamp": "2026-08-23T04:39:40.502939629Z",
+  "model": "glm-5.3"
+}

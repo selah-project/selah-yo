@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Ẹ̀wẹ̀, wọ́n rí i; nítorí náà wọ́n ya wúrà, wọ́n bẹ̀rù, wọ́n sá sá.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ẹ̀wẹ̀"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wọ́n rí i"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "wọ́n ya wúrà"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "wọ́n bẹ̀rù"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "wọ́n sá sá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:17.010839118Z",
+  "model": "glm-5.3"
+}

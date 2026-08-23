@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àwọn ọba ayé kò gbàgbọ́, àti gbogbo àwọn tí ó ń gbé lágbàáyé, pé ọ̀tá àti ọ̀ta-èlò le wọ àwọn ọ̀nà-ìràwọ̀le Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "gbàgbọ́"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn tí ó ń gbé"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lágbàáyé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "le wọ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ọ̀tá"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "àti ọ̀ta-èlò"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "àwọn ọ̀nà-ìràwọ̀le"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T04:37:26.718184264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Wọ́n sì yọ ara wọn mọ́ Baal-Peor, wọ́n sì jẹ àwọn ẹbọ àwọn òkú.",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "sì yọ ara wọn mọ́"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "sí Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "sì jẹ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "àwọn ẹbọ"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "àwọn òkú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:13.494936847Z",
+  "model": "glm-5.3"
+}

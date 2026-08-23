@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ọba sì wí pé: Ìwọ, Achimelek, gbọ́dọ̀ kú lójú ikú — ìwọ àti gbogbo ilé baba rẹ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "תמו׿",
+      "gloss": "gbọ́dọ̀ kú"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:53:57.925932012Z",
+  "model": "glm-5.3"
+}

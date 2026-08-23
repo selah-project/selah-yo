@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Nítorí ojú yín ni ó ti rí ⟨את⟩ gbogbo iṣẹ́ nlá Yahweh, tí Ó ṣe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ojú yín"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ó ti rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo iṣẹ́ nlá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nlá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ó ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:07.113869028Z",
+  "model": "glm-5.3"
+}

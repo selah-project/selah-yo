@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Wọ́n sì gbé ⟨את⟩ àwọn ọra náà sí orí àwọn ẹ̀jẹ́ ara, ó sì jọ́ná àwọn ọra náà lórí pẹpẹ́ náà.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Wọ́n sì gbé … sí orí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọra náà"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "àwọn ọra náà"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "àwọn ẹ̀jẹ́ ara"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ó sì jọ́ná"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "àwọn ọra náà"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lórí pẹpẹ́ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:57.184868855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ọwọ́ Midiyan sì lè Yisrael lọ́wọ́; nítorí Midiyan ni àwọn ọmọ Yisrael ṣe ṣe ⟨את⟩ àwọn ohun-ìṣàgbéjáde inú òkè, àti ⟨את⟩ àwọn ihò òkè, àti ⟨את⟩ àwọn ààfin-ìdíde fún ara wọn.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "sì lè... lọ́wọ́"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyan"
+    },
+    {
+      "surface": "על",
+      "gloss": "lóri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nítorí ti níwájú"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wọ́n ṣe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún ara wọn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ohun-ìṣàgbéjáde inú òkè"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "àwọn ohun-ìṣàgbéjáde inú òkè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "inú òkè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ihò òkè"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "àwọn ihò òkè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ààfin-ìdíde"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "àwọn ààfin-ìdíde"
+    }
+  ],
+  "timestamp": "2026-08-23T00:34:19.878691468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ó sì wáyé, nígbà tí Shelomah parí kíkọ́ ⟨את⟩ ilé Yahweh àti ⟨את⟩ ilé ọba, àti ⟨את⟩ gbogbo ìfẹ́-ọkàn Shelomah tí ó fẹ́ láti ṣe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "nígbà tí ó parí"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kíkọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilé"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ìfẹ́-ọkàn"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ó fẹ́"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T01:16:24.761315989Z",
+  "model": "glm-5.3"
+}

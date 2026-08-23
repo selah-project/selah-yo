@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ó yọ ⟨את⟩ àwọn pẹpẹ ìṣẹ̀bọ̀ àjèjì kúrò, àti àwọn bàmọ̀; ó fọ́ ⟨את⟩ àwọn òpó mọ́ nǹkan, ó gé ⟨את⟩ àwọn Ashera lù.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Ó yọ kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn pẹpẹ ìṣẹ̀bọ̀ àjèjì"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "àwọn pẹpẹ ìṣẹ̀bọ̀"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "àjèjì"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "àti àwọn bàmọ̀"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ó fọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òpó"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "àwọn òpó"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "ó gé lù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "àwọn Ashera"
+    }
+  ],
+  "timestamp": "2026-08-23T05:28:19.198787565Z",
+  "model": "glm-5.3"
+}

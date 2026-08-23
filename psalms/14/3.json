@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Gbogbo wọn ti yẹ kúrò, pọ̀ ní pọ̀ ló ti di olófo; kò sí ẹni tí ó ń ṣe rere, kò sí rí bẹ́ẹ̀ ní ẹyọ kan.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Gbogbo wọn"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ti yẹ kúrò"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pọ̀ ní pọ̀"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ó ti di olófo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ẹni tí ó ń ṣe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rí bẹ́ẹ̀ ní"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ẹyọ kan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:56.662155494Z",
+  "model": "glm-5.3"
+}

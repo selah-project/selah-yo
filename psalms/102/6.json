@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Nítorí ohùn ìgbọ́nù mi, egungun mi di ara mi mọ́.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "nítorí ohùn"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "ìgbọ́nù mi"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "di … mọ́"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "egungun mi"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "ara mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:16.882104933Z",
+  "model": "glm-5.3"
+}

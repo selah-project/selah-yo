@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Wọ́n sì ka á fún un ní ṣe òdodo, láti ìràn dé ìràn, títí láéláé.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "wọ́n sì ka á"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "ní ṣe òdodo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "láti ìràn"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dé ìràn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:55.716493995Z",
+  "model": "glm-5.3"
+}

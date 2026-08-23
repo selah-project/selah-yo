@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ṣùgbọ́n máàlù̀ tàbí àgbò tí ọ̀kan nínú ẹ̀yà-ara rẹ̀ gùn ju tàbí kúrù ju — ẹ lè fi ṣe ẹ̀bùn ìfẹ̀ẹ́-ara-ẹni ⟨את⟩ nìyẹn; ṣùgbọ́n fún ìbúra kì í ṣe èyí tí a gbà.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "máàlù̀"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "àgbò"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "tí ẹ̀yà-ara rẹ̀ gùn ju"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "tàbí kúrù ju"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "ẹ̀bùn ìfẹ̀ẹ́-ara-ẹni"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ẹ lè fi … ṣe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀bùn ìfẹ̀ẹ́-ara-ẹni náà"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "fún ìbúra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "èyí tí a gbà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:20.820714064Z",
+  "model": "glm-5.3"
+}

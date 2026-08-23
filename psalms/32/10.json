@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Ìrẹ̀jẹ̀ púpọ̀ sí àwọn aláṣẹ̀-èso; ṣùgbọ́n ẹni tí ó gbẹ́kẹ̀ lé Yahweh — ⟨chesed⟩ yóò yí i ká.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "ìrẹ̀jẹ̀"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "sí àwọn aláṣẹ̀-èso"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "ṣùgbọ́n ẹni tí ó gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "yóò yí i ká"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:28.658883024Z",
+  "model": "glm-5.3"
+}

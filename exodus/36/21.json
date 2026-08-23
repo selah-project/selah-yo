@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Ẹ̀wà ọ̀gọ́rọ̀ ni gígà ⟨the⟩ kérésì náà, ó sì jẹ́ gbangba ọ̀gọ́rọ̀ kan àti ìdajì ⟨the⟩ gbangba kérésì kan ṣoṣo.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ẹ̀wà"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ọ̀gọ́rọ̀"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "gígà"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "kérésì náà"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "àti ọ̀gọ́rọ̀ kan"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "àti ìdajì"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ọ̀gọ́rọ̀ náà"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "gbangba"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "kérésì náà"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kan ṣoṣo"
+    }
+  ],
+  "timestamp": "2026-08-23T05:43:11.661721398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ẹsẹ̀ mi dúró lórí ilẹ̀ tó tọ́; nínú àwọn ìpàdé órun yóò sì ní mo bùkún Yahweh.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "ẹsẹ̀ mi"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "lórí ilẹ̀ tó tọ́"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "nínú àwọn ìpàdé"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "yóò ní mo bùkún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:06.090184648Z",
+  "model": "glm-5.3"
+}

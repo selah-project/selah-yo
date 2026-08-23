@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 10:3",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ṣé ó dára fún ọ̀wọ́ nínú rẹ pé ìwọ ń ṣàájọbí? Pé ìwọ kọ̀ iṣẹ́ ìpamọ́ ti ọwọ́ rẹ sílẹ̀, pé ìwọ sì fi ìmọ́lẹ̀ han lórí ìgbìmọ̀ ti àwọn olẹ́bi?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "ṣé ó dára"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ̀wọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "ìwọ ń ṣàájọbí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "ìwọ kọ̀ sílẹ̀"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "iṣẹ́ ìpamọ́ ti"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ìgbìmọ̀ ti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn olẹ́bi"
+    },
+    {
+      "surface": "הופעת",
+      "gloss": "ìwọ fi ìmọ́lẹ̀ han"
+    }
+  ],
+  "timestamp": "2026-08-23T04:20:07.376955987Z",
+  "model": "glm-5.3"
+}

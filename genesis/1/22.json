@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Elohim sì bùkún ⟨את⟩ wọn, wí pé: Ẹ ṣe ọ̀pọ̀lọ́pọ̀ ọmọ, ẹ pọ̀ sí i, ẹ kún ⟨את⟩ àwọn omi nílí àwọn òkun, kí ẹyẹ naa lè pọ̀ sí i ní ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "sì bùkún"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "Elohim (àwọn tí ó ń bùkún)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ẹ ṣe ọ̀pọ̀lọ́pọ̀ ọmọ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ẹ pọ̀ sí i"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ẹ kún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn omi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "àwọn omi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nílí àwọn òkun"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ki ẹyẹ naa"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "lè pọ̀ sí i"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:20.668042602Z",
+  "model": "glm-5.3"
+}

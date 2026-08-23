@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Pẹ̀lú gígùn ọjọ́ ni èmi yóò kún án lábẹ́ inú; èmi yóò sì fi ìgbàlà mi hàn án.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "gígùn"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "èmi yóò kún án lábẹ́ inú"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "èmi yóò sì fi hàn án"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "nínú ìgbàlà mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:45.430984510Z",
+  "model": "glm-5.3"
+}

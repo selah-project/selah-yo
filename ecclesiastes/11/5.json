@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Bí o ṣe kò mọ̀ ọ̀nà rúùáchì, bí àwọn ẹ̀ẹ̀gún ṣe rọ̀ọ́ nínú ìkún ìyá tí ó lóyún, bẹ́ẹ̀ gẹ́gẹ́ ni o kò ní mọ̀ ⟨את⟩ iṣẹ́ Elohim, ẹni tí ó ń ṣe ⟨את⟩ gbogbo nǹkan.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "bí o ṣe"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "rúùáchì"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "bí àwọn ẹ̀ẹ̀gún ṣe"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "nínú ìkún"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "ìyá tí ó lóyún"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "bẹ́ẹ̀ gẹ́gẹ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ní mọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣẹ́"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo nǹkan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "gbogbo nǹkan"
+    }
+  ],
+  "timestamp": "2026-08-23T04:43:30.889246997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Gbogbo ogun àwọn Kasdi tí ó wà pẹ̀lú Nebuzaradan, olórí àwọn ológun-ìdájọ́, sì tú ⟨את⟩ àwọn ogiri Yerushalayim tí ó yí i ká sókè.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sì tú ⟨את⟩",
+      "marks": "àwọn ogiri"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "àwọn ogiri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tí ó yí i ká"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "sì tú … sókè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "àwọn Kasdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "רב",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "àwọn ológun-ìdájọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:39.338353630Z",
+  "model": "glm-5.3"
+}

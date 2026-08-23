@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Yahweh sì wí fún Moshe pé: Ṣẹ́da ejò-iná fún ara rẹ, kí o sì gbé ⟨את⟩ i sórí àsìá; ó sì jẹ́ pé gbogbo ẹni tí ejò bá pon, tí ó bá rí ⟨את⟩ i, yóò yè.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣẹ́da"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ara rẹ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ejò-iná"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "kí o sì gbé"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "i (ejò-iná náà)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sórí"
+    },
+    {
+      "surface": "נס",
+      "gloss": "àsìá"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ó sì jẹ́ pé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "ẹni tí ejò bá pon"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "tí ó bá rí i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "i (ejò-iná náà)"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "yóò yè"
+    }
+  ],
+  "timestamp": "2026-08-22T23:59:34.994075542Z",
+  "model": "glm-5.3"
+}

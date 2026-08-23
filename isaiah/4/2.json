@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ní ọjọ́ yẹn, ẹ̀wẹ̀n Yahweh yóò wà fún ìfẹ́kùfẹ̀ àti fún ôlá; èso ilẹ̀ ⟨naá⟩ yóò wà fún ọ̀lá àti fún ẹ̀yẹ, fún àwọn tí ó sá ṣàlà lára Yisrael.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "ẹ̀wẹ̀n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "fún ìfẹ́kùfẹ̀"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "àti fún ôlá"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "àti èso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ⟨naá⟩"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "fún ọ̀lá"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "àti fún ẹ̀yẹ"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "fún àwọn tí ó sá ṣàlà lára"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:54.400105773Z",
+  "model": "glm-5.3"
+}

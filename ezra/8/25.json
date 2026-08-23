@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Mo sì sọ wọ́n wọ́n fún wọn: ⟨את⟩ fàdàkà àti ⟨את⟩ wúrà àti ⟨את⟩ àwọn ohun-èlò, èbù ilé Elohim wa, tí ọba àti àwọn aṣojú rẹ̀ àti àwọn ìjòyè rẹ̀ àti gbogbo Israẹli tí wọ́n bá rí, gbé.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "Mo sì sọ wọ́n wọ́n fún wọn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fàdàkà"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fàdàkà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "wúrà"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ohun-èlò"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "àwọn ohun-èlò"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "èbù"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "àti àwọn aṣojú rẹ̀"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "àti àwọn ìjòyè rẹ̀"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "tí wọ́n bá rí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:59:33.380201454Z",
+  "model": "glm-5.3"
+}

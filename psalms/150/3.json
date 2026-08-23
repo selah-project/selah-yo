@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 150,
+  "translation": "Ẹ ṣe ìyìn fún ⟨olú-òun⟩ pẹ̀lú ohùn ẹ̀kùn àgbọ́nran; ẹ ṣe ìyìn fún ⟨olú-òun⟩ pẹ̀lú àgbàọ̀n àti ìlù kọ̀rọ̀kọ̀rọ̀.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ẹ ṣe ìyìn fún ⟨olú-òun⟩"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "pẹ̀lú ohùn"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ẹ̀kùn àgbọ́nran"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ẹ ṣe ìyìn fún ⟨olú-òun⟩"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "pẹ̀lú àgbàọ̀n"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "àti ìlù kọ̀rọ̀kọ̀rọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:49.168693653Z",
+  "model": "glm-5.3"
+}

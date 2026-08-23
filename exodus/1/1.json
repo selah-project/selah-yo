@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àwọn orúkọ wọnyí ni ti àwọn ọmọ Yisrael tí ó wá sí Mitzrayim; ⟨את⟩ Yaakov, ọkọ̀ọ̀kan àti ilé rẹ̀, ní wọ́n ti wá.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Àwọn wọnyí"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "tí ó wá"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "sí Mitzrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkọ̀ọ̀kan"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "àti ilé rẹ̀"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ní wọ́n ti wá"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:43.506733634Z",
+  "model": "glm-5.3"
+}

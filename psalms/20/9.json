@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àwọn wọn yìí kúnlẹ̀, wọ́n sì ṣubú; ṣùgbọ́n àwa, a dìde, a sì dúró ṣinṣin.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Àwọn wọn yìí"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "kúnlẹ̀"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "wọ́n sì ṣubú"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ṣùgbọ́n àwa"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "a dìde"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "a sì dúró ṣinṣin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:58.216520621Z",
+  "model": "glm-5.3"
+}

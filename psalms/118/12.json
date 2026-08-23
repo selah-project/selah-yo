@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Wọ́n yí mi ká bíi àwọn oyín-ṣíṣe; wọ́n kú bíi iná àwọn ẹ̀ẹ́gbẹ́; dájúdájú, nípa orúkọ Yahweh ni mo ti máa gé wọn pamí.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "wọ́n yí mi ká"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "bíi àwọn oyín-ṣíṣe"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "wọ́n kú"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "bíi iná"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "àwọn ẹ̀ẹ́gbẹ́"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nípa orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dájúdájú"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "mo ti máa gé wọn pamí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:46.931862597Z",
+  "model": "glm-5.3"
+}

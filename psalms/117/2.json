@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 117,
+  "translation": "Nítorí ìfẹ́ olóòtítọ́ ti májẹ̀mú rẹ̀ tí ó ṣe gbàá lórí wa, àti òtítọ́ Yahweh ⟨wà⟩ títí talái; ẹ sọ Yah mímọ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ó ṣe gbàá lórí"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "lórí wa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ìfẹ́ olóòtítọ́ ti májẹ̀mú rẹ̀"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "àti òtítọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí talái"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ẹ sọ … mímọ́"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:58.119297746Z",
+  "model": "glm-5.3"
+}

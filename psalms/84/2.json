@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 84,
+  "translation": "Bí o ti lẹ́wọ̀ gbóná — máa ṣe àwọn ìtẹ́ àgbà rẹ, fúnra rẹ, ṣeé gbọ́ nínú ilé rẹ — bí wọn ti lẹ́wọ̀ gbóná, máa ṣe àwọn ìtẹ́ rẹ, Yahweh ti àwọn ogun!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Bí o ti"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "lẹ́wọ̀ gbóná — máa"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "ṣe àwọn ìtẹ́ rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti àwọn ogun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:42.953314339Z",
+  "model": "glm-5.3"
+}

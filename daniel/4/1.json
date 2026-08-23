@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìwọ, Nebukadnessar, ń sinmi ní ilé mi, kíkọ́ sílẹ̀ sílẹ̀ ní ààfin mi.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ìwọ, èmi"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnessar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "ń sinmi"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "mo wà"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "ní ilé mi"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "kíkọ́ sílẹ̀ sílẹ̀"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "ní ààfin mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:51:11.958754290Z",
+  "model": "glm-5.3"
+}

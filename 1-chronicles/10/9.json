@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Wọ́n sì tú u nù, wọ́n sì gbé ⟨את⟩ orí rẹ̀ àti ⟨את⟩ irinṣẹ́ ìgbèjá rẹ̀, wọ́n sì ránṣẹ́ sí ilẹ̀ Pelishti ní gbogbo àyíká, láti sọ ìròyín fún ⟨את⟩ àwọn òrìṣà wọn àti fún ⟨את⟩ àwọn ènìyàn náà.",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "wọ́n sì tú u nù"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "wọ́n sì gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orí rẹ̀"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "orí rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "irinṣẹ́ ìgbèjá rẹ̀"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "irinṣẹ́ ìgbèjá rẹ̀"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "wọ́n sì ránṣẹ́ sí"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sí ilẹ̀"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní gbogbo àyíká"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "láti sọ ìròyín fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òrìṣà wọn"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "àwọn òrìṣà wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti fún ⟨את⟩",
+      "marks": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:12:43.545700210Z",
+  "model": "glm-5.3"
+}

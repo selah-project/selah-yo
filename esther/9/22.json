@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "esther 9:22",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Gẹ́gẹ́ bí àwọn ọjọ́ tí àwọn Yehuda sùn-rest lára láti ọ̀dọ̀ àwọn ọ̀tá wọn, àti oṣù tí ó yí padà fún wọn láti ìbànújẹ́ sí ayọ̀, àti láti ọ̀kọ̀-ọ̀kan sí ọjọ́ rere; láti ṣe wọn ní ọjọ́ ajẹ́un ìgbéraájọ̀ àti ayọ̀, àti lífi ohun-ẹjẹ́ ránṣẹ́ ẹnikẹ́ni sí ọ̀rẹ́ rẹ̀, àti ìfunni sí àwọn aláìní.",
+  "tokens": [
+    {
+      "surface": "כימים",
+      "gloss": "Gẹ́gẹ́ bí àwọn ọjọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נחו",
+      "gloss": "sùn-rest lára"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ní wọn"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "àwọn Yehuda"
+    },
+    {
+      "surface": "מאויביהם",
+      "gloss": "láti ọ̀dọ̀ àwọn ọ̀tá wọn"
+    },
+    {
+      "surface": "והחדש",
+      "gloss": "àti oṣù"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "yí padà"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "מיגון",
+      "gloss": "láti ìbànújẹ́"
+    },
+    {
+      "surface": "לשמחה",
+      "gloss": "sí ayọ̀"
+    },
+    {
+      "surface": "ומאבל",
+      "gloss": "àti láti ọ̀kọ̀-ọ̀kan"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sí ọjọ́"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọn"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ajẹ́un ìgbéraájọ̀"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "àti ayọ̀"
+    },
+    {
+      "surface": "ומשלוח",
+      "gloss": "àti lífi ránṣẹ́"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "ohun-ẹjẹ́"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnikẹ́ni"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sí ọ̀rẹ́ rẹ̀"
+    },
+    {
+      "surface": "ומתנות",
+      "gloss": "àti ìfunni"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "sí àwọn aláìní"
+    }
+  ],
+  "timestamp": "2026-08-23T04:47:06.386852381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Ó sì ṣe àwọn ìgbà rẹ̀ lórí àwọn ìgún mẹ́rin rẹ̀; láti ara rẹ̀ ni wọ́n ti jẹ́ àwọn ìgbà rẹ̀; ó sì bo ⟨את⟩ ọ́ pẹ̀lú dupẹ́.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "àwọn ìgbà rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mẹ́rin"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "àwọn ìgún rẹ̀"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "láti ara rẹ̀"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wọ́n jẹ́"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "àwọn ìgbà rẹ̀"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ó sì bo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ọ́",
+      "marks": "dupẹ́ (òwú-ìdúdú)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "dupẹ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:14.777752333Z",
+  "model": "glm-5.3"
+}

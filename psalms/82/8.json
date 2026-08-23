@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 82,
+  "translation": "Dìde, Elohim, ṣe ìdájọ́ ⟨the⟩ ayé; nítorí ìwọ ni yóò jogún gbogbo àwọn orílẹ̀-èdè.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Dìde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ṣe ìdájọ́"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "yóò jogún"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:11.166954124Z",
+  "model": "glm-5.3"
+}

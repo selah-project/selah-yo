@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 1:11",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Natan sì sọ fún Bat-Sheva, ìyá Shelomoh, wí pé, Ìgbọ́rànsẹ́ ni bóyá o ti gbọ́ pé Adonijah, ọmọ Haggith, ti jọba, tí Dafidi olúwa wa si kò mọ̀ ọ́?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ fún…wí pé"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ìyá"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ìgbọ́rànsẹ́ ni"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "o ti gbọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti jọba"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Haggith"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "olúwa wa sì"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ̀ ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:09:50.875893675Z",
+  "model": "glm-5.3"
+}

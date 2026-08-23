@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Yahweh Adonai wa, mọ̀ọ́kọ̀ mí dára orúkọ Rẹ ní gbogbo ayé!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai wa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mọ̀ọ́kọ̀ mí"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "dára"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ Rẹ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:21.179495719Z",
+  "model": "glm-5.3"
+}

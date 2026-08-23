@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 80,
+  "translation": "Elohim, jí kí o da wa padà, kí o sì mú ojú rẹ̀ mú ìmọ́lẹ̀, kí a lè gbà.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "jí kí o da wa padà"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "kí o sì mú… mú ìmọ́lẹ̀"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "kí a lè gbà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:22.434986969Z",
+  "model": "glm-5.3"
+}

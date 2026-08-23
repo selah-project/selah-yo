@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Yahweh sì bá Moshe sọ̀rọ̀ wí pé:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì sọ̀rọ̀ wí pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bá"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:50:44.317523249Z",
+  "model": "glm-5.3"
+}

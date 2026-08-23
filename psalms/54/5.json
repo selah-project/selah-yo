@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 54,
+  "translation": "Nítorí àwọn àjèjì dìde lóri mi, àwọn ènìyàn ipákan ń wá ẹ̀mí mi; wọn kò sì fi Elohim sí iwájú wọn. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "àwọn àjèjì"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "dìde"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lóri mi"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "àwọn ènìyàn ipákan"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ń wá"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "fi…sí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "iwájú wọn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:21.440900959Z",
+  "model": "glm-5.3"
+}

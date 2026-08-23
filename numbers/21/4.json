@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Wọ́n si kúrò lórí̀ òkè Hor, nípa ọ̀nà odò Yam Suf, láti ka ilẹ̀ Edom ká; ọkàn àwọn ènìyàn sì kúrú nítorí ọ̀nà náà.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "wọ́n si kúrò (fọ̀nà)"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "lórí̀"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "ים",
+      "gloss": "odò (Yam)"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "láti ka...ká"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ Edom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "kúrú (díẹ̀ẹ̀ràn)"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ọkàn (nefesh)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nítorí ọ̀nà náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:59:08.040366901Z",
+  "model": "glm-5.3"
+}

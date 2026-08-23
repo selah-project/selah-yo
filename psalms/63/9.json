@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 63,
+  "translation": "Okàn mi ń tọ̀ ọ lẹ́gbẹ́; ọwọ́ ọ̀tún rẹ ló ń gbẹ́ mi lẹ́yìn.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ń tọ̀...lẹ́gbẹ́"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "okàn mi"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "rẹ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ín mi"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "ń gbẹ́...lẹ́yìn"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ọwọ́ ọ̀tún rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:17.298301855Z",
+  "model": "glm-5.3"
+}

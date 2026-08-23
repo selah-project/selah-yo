@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Gbogbo àwọn orílẹ̀-èdè ni yóò jọ́sin fún ⟨את⟩ un, àti ⟨את⟩ ọmọ rẹ̀, àti ⟨את⟩ ọmọ ọmọ rẹ̀, títí di ìgbà tí ìgbà ilẹ̀ rẹ̀ yóò ti dé, òun náà pẹ̀lú; àwọn orílẹ̀-èdè púpọ̀ àti àwọn ọba tó tóbi ni yóò sì fi jọ́sin rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "yóò jọ́sin fún"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ un",
+      "marks": "Gbogbo àwọn orílẹ̀-èdè (obj)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọmọ ọmọ rẹ̀"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yóò ti dé"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ìgbà"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun náà"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "yóò sì fi jọ́sin rẹ̀"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "àti àwọn ọba"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "tó tóbi"
+    }
+  ],
+  "timestamp": "2026-08-23T02:19:42.155601057Z",
+  "model": "glm-5.3"
+}

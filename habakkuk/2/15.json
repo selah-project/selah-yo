@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 2:15",
+  "book": "habakkuk",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ègún fún ẹni tí ó ń fún ọ̀rẹ́ rẹ̀ lómi mu, tí ó ń ṣàfikún apò-òmi rẹ̀, ó sì ń mú u sayìsayì, láti lè wo ìwòṣe wọn.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ègún fún"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "ń fún ... lómi mu"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ọ̀rẹ́ rẹ̀"
+    },
+    {
+      "surface": "מספח",
+      "gloss": "ń ṣàfikún"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "apò-òmi rẹ"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "àti ìbínú rẹ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ń mú u sayìsayì"
+    },
+    {
+      "surface": "למען",
+      "gloss": "láti lè"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "wo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "מעוריהם",
+      "gloss": "ìwòṣe wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:14:06.528434627Z",
+  "model": "glm-5.3"
+}

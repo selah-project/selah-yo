@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 101,
+  "translation": "Nnkan tí kò ní òye míì kì í ṣe ní mo ó gbé síwájú ojú mi; iṣẹ́ àwọn tí ó ṣẹ̀yìn lẹ́yìn, mo kórìíra; kì í ṣe ní yóò mọ́ mọ́ mí.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe ní"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mo ó gbé síwájú"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nnkan"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "tí kò ní òye míì"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "àwọn tí ó ṣẹ̀yìn lẹ́yìn"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mo kórìíra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe ní"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "yóò mọ́ mọ́"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:50.802783035Z",
+  "model": "glm-5.3"
+}

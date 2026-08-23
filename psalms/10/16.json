@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Yahweh ni ọba fún láé láé, àti fún àìpin; àwọn orílẹ̀-èdè ti ṣègbé kúrò nínú ilẹ̀ Rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fún láé láé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "àti fún àìpin"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "ti ṣègbé"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "kúrò nínú ilẹ̀ Rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:16.747685948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó sì firánrán àwọn ọ̀fà rẹ̀ jáde, ó sì tà wọn ká; ó sì pa ìmọ́lẹ̀ mọ́lẹ̀ lápapọ̀ pọ̀, ó sì da wọn lójú.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì firánrán jáde"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "àwọn ọ̀fà rẹ̀"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "sì tà wọn ká"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "sì pa ìmọ́lẹ̀ mọ́lẹ̀"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lápapọ̀ pọ̀"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "sì da wọn lójú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:35.110805560Z",
+  "model": "glm-5.3"
+}

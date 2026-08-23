@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ilé tí ọba Shelomoh kọ́ fún Yahweh — ọgọ́rùn-ún àti ogún àmà ni gígún rẹ̀, ogún ni fífẹ̀ rẹ̀, ọgbọ̀n àmà ni gíga rẹ̀.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kọ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ọgọ́rùn-ún àti ogún"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "àmà"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "gígún rẹ̀"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "fífẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ọgbọ̀n"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "àmà"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "gíga rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:33.636535586Z",
+  "model": "glm-5.3"
+}

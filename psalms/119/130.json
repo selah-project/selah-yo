@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ìṣí ọ̀rọ̀ rẹ ṣe ìmọ́lẹ̀; ó ń fún àwọn ayọrọ̀ ni óye.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ìṣí"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ọ̀rọ̀ rẹ"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ṣe ìmọ́lẹ̀"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ń fún … ni óye"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "àwọn ayọrọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:49.591214495Z",
+  "model": "glm-5.3"
+}

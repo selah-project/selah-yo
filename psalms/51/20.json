@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Ṣe ànfààní fún Tsiyon ní ìfẹ́ rẹ̀; kọ́ àwọn odò Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "ṣe ànfààní"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "ní ìfẹ́ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "kọ́"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "àwọn odò"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:49.272516225Z",
+  "model": "glm-5.3"
+}

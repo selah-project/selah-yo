@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 36:18",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Kí Hizkiyahu má ṣe ṣe ⟨את⟩ yín lẹ́rọ́ pé ó ń sọ pé, Yahweh yóò gbà wá là. Ṣé àwọn elohim ti àwọn orílẹ̀-èdè ti gba ẹni kọ̀ọ̀kan là ní ilẹ̀ rẹ̀ lọ́wọ́ ọba Ashur?",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kí... má ṣe"
+    },
+    {
+      "surface": "יסית",
+      "gloss": "ṣe yín lẹ́rọ́"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé ó ń sọ pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "yóò gbà wá là"
+    },
+    {
+      "surface": "ההצילו",
+      "gloss": "ṣé ti gba... là"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ti àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni kọ̀ọ̀kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-23T05:55:26.568198797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 1:11",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ṣùgbọ́n fi ọwọ́ rẹ kalẹ̀ jọwọ́, lu gbogbo tí ó ní; bí ó kò bẹ́ẹ̀, yóò fi ojú rẹ bùkún ⟨ìwọ⟩.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "fi kalẹ̀"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọwọ́"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "àti lu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ó ní"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "yóò bùkún rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:16:02.431047740Z",
+  "model": "glm-5.3"
+}

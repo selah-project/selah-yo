@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Èmí yóò dúpẹ́ fún ọ ní púpọ́ nínú ọkàn tí ó ṣọ́, nínú kí n ń kọ́ nípa àwọn ìdájọ́ òdodo rẹ.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "èmí yóò dúpẹ́ fún ọ"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "ní … ṣọ́"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "ninú kí n ń kọ́ nípa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "àwọn ìdájọ́"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "òdodo rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:19.443112214Z",
+  "model": "glm-5.3"
+}

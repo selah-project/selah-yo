@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Wọ́n sì gba ⟨את⟩ eérú iná-ìkóko, wọ́n sì dúró níwájú Paroh; Moshe sì sọ ⟨את⟩ ọ́ sókè sí ọ̀run; ó sì di ègé, ibi fọ́nrán tí ó ń yọ síta, lórí ènìyàn àti lórí ẹran ọ̀sìn.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "wọ́n sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eérú"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "eérú"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "iná-ìkóko"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "wọ́n sì dúró"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ó sì sọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ọ́",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "sókè sí ọ̀run"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì di"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "ègé"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "ibi fọ́nrán"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "tó ń yọ síta"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "lórí ènìyàn"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "àti lórí ẹran ọ̀sìn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:32.716932490Z",
+  "model": "glm-5.3"
+}

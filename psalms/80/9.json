@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 80,
+  "translation": "O kó igi àjàrá jáde kúrò ní Mitzrayim, O lé àwọn orílẹ̀-èdè kúrò, O sì gbìn ín.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "igi àjàrá"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kúrò ní Mitzrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "O kó…jáde"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "O lé kúrò"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "O sì gbìn ín"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:49.975126918Z",
+  "model": "glm-5.3"
+}

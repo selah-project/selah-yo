@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó sì ṣe ohun tí ó tọ́ ní ojú Yahweh, gẹ́gẹ́ bí gbogbo tí Davidi, baba rẹ̀, ṣe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ohun tí ó tọ́"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gẹ́gẹ́ bí gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:56.889084413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Yahweh sì fara hàn sí i, ó sì wí pé, Má ṣe sọ̀rọ̀ sí Mitsrayim; dá dúró nínú ilẹ̀ tí èmi bá sọ fún ọ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "sì fara hàn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Má ṣe"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "sọ̀rọ̀ sí"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "dá dúró"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nínú ilẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "èmi bá sọ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "fún ọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:03:35.047696648Z",
+  "model": "glm-5.3"
+}

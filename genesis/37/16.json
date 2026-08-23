@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ó sì wí pé: ⟨את⟩ àwọn arábirẹgin ni mo ń wá; jọ̀wọ́, sọ fúmi ibi tí wọ́n ti ń bọ́ ẹran.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn arábirẹgin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "àwọn arábirẹgin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ń wá"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọ̀wọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fúmi"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ibi tí"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ń bọ́ ẹran"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:38.120862324Z",
+  "model": "glm-5.3"
+}

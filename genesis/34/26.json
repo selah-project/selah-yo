@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Wọ́n sì pa ⟨את⟩ Hamor àti ⟨את⟩ Shechem ọmọ rẹ̀ pẹ̀lú ohùn ìdà; wọ́n sì gba ⟨את⟩ Dina kúrò nínú ilé Shechem, wọ́n sì jáde.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shechem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "wọ́n pa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pẹ̀lú ohùn"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ìdà"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "wọ́n sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kúrò nínú ilé"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechem"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "wọ́n sì jáde"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:15.944140985Z",
+  "model": "glm-5.3"
+}

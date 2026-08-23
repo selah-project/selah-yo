@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Nígbà náà, Yahweh Elohim wa fi í lé wa lọ́wọ́, a sì lu ⟨את⟩ i náà àti ⟨את⟩ àwọn ọmọ rẹ̀ àti ⟨את⟩ gbogbo ènìyàn rẹ̀ lọ.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "fi í lé wa lọ́wọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "níwájú wa"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "a sì lu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "i náà (Sihon)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ènìyàn rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ènìyàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:00.044016820Z",
+  "model": "glm-5.3"
+}

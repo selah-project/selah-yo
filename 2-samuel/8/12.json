@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Láti Aram, àti láti Moab, àti láti àwọn ọmọ Ammon, àti láti àwọn Filistini, àti láti Amalek, àti láti okò Hadadezer ọmọ Rehob, ọba Zobah.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "láti Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "àti láti Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "àti láti àwọn ọmọ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "àti láti àwọn Filistini"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "àti láti Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "àti láti okò"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zobah"
+    }
+  ],
+  "timestamp": "2026-08-23T00:59:19.583082752Z",
+  "model": "glm-5.3"
+}

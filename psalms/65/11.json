@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 65:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 65,
+  "translation": "O ṣàn ọ́n ní omi púpọ̀, àwọn ilẹ̀-kọ̀ rẹ̀; O dá àwọn ihò-iṣẹ́ rẹ̀ dúró; pẹ̀lú àwọn òjò o rọ̀ rẹ̀; ìdà àgbànnìn rẹ̀, Iwọ bùkún ọ́n.",
+  "tokens": [
+    {
+      "surface": "תלמיה",
+      "gloss": "àwọn ilẹ̀-kọ̀ rẹ̀"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "O ṣàn ọ́n ní omi"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "O dá … dúró"
+    },
+    {
+      "surface": "גדודיה",
+      "gloss": "àwọn ihò-iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ברביבים",
+      "gloss": "pẹ̀lú àwọn òjò"
+    },
+    {
+      "surface": "תמגגנה",
+      "gloss": "o rọ̀ rẹ̀"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "ìdà àgbànnìn rẹ̀"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "Iwọ bùkún ọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:16.397309433Z",
+  "model": "glm-5.3"
+}

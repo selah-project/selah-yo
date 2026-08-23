@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 17:8",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ó kì yóò sì ṣọ̀ kan sí àwọn pẹpẹ yọ́ níṣẹ́ owo rẹ̀, èyí tí àwọn ìka ọwọ́ rẹ̀ ṣe, ó kì yóò sì rí i — àwọn Ashera àti àwọn ìwọ̀-òrùn-mì.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ó kì yóò sì"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "ṣọ̀ kan sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "àwọn pẹpẹ yọ́"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "níṣẹ́"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "owo rẹ̀"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "àwọn ìka ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ó kì yóò sì"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rí i"
+    },
+    {
+      "surface": "והאשרים",
+      "gloss": "àwọn Ashera"
+    },
+    {
+      "surface": "והחמנים",
+      "gloss": "àwọn ìwọ̀-òrùn-mì"
+    }
+  ],
+  "timestamp": "2026-08-23T01:46:39.625157993Z",
+  "model": "glm-5.3"
+}

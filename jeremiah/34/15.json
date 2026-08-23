@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 34:15",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ẹ̀yin tí ẹ padà sí ẹ̀yìn lónìí, ẹ sì ṣe ⟨את⟩ èdè tó tọ́ nínú ojú mi, láti ké òmìnira fún ọkọ̀ọ̀kan sí ọ̀rẹ́ rẹ̀; ẹ sì gé májẹ̀mú níwájú mi, nínú ilé tí orúkọ mi ń ti pè sórí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "ẹ padà sí ẹ̀yìn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    },
+    {
+      "surface": "ותעשו",
+      "gloss": "ẹ sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èdè tó tọ́"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "èdè tó tọ́"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nínú ojú mi"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "láti ké"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "òmìnira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkọ̀ọ̀kan"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sí ọ̀rẹ́ rẹ̀"
+    },
+    {
+      "surface": "ותכרתו",
+      "gloss": "ẹ sì gé májẹ̀mú"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú mi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nínú ilé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ń ti pè"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "orúkọ mi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sórí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:24:17.134725503Z",
+  "model": "glm-5.3"
+}

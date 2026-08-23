@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Gbogbo ènìyàn ilẹ̀ yóò dúnmọ́, ìlú náà sì fẹ̀ sílẹ̀; wọ́n sì pa ⟨את⟩ Atalyahu pẹ̀lú idà.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "yóò dúnmọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ìlú náà sì"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "fẹ̀ sílẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "wọ́n sì pa… pẹ̀lú"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "pẹ̀lú idà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:29:34.980109822Z",
+  "model": "glm-5.3"
+}

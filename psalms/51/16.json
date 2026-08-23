@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Gbà mi là kúrò nínú èjè, Elohim, Elohim ti ìgbàlà mi; ahọ́n mi yóò kọ orin nípa òdodo rẹ.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Gbà mi là"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "kúrò nínú èjè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "ti ìgbàlà mi"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "yóò kọ orin"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ahọ́n mi"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "nípa òdodo rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:38.494719062Z",
+  "model": "glm-5.3"
+}

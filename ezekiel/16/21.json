@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "ó sì pa ⟨את⟩ àwọn ọmọ rẹ, ó sì fi wọ́n lé'lọ̀ nípa jíkkí wọn ⟨את⟩ fún wọn",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "ó sì pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "ó sì fi wọ́n lé'lọ̀"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "nípa jíkkí wọn"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "fún wọn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:39:03.184702772Z",
+  "model": "glm-5.3"
+}

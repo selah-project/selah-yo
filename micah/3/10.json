@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Wọ́n ń kọ Tsiyon nípa ẹjẹ, àti Yerushalayim nípa àìṣe-òdodo.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ń kọ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "nípa ẹjẹ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "àti Yerushalayim"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "nípa àìṣe-òdodo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:10:01.131389534Z",
+  "model": "glm-5.3"
+}

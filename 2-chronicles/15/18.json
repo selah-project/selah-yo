@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ó sì mú ⟨את⟩ àwọn ohun mímọ́ bàbá rẹ̀ àti àwọn ohun mímọ́ rẹ̀ ti ó fúnra rẹ̀ sílé ẹlẹ́mọ́ Elohim — fàdàkà, wúrà, àti àwọn ohun èlò.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ó sì mú...wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ohun mímọ́ bàbá rẹ̀"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "àwọn ohun mímọ́"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bàbá rẹ̀"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "àti àwọn ohun mímọ́ rẹ̀ ti ó fúnra rẹ̀"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sílé"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ẹlẹ́mọ́ Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdàkà"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "àti wúrà"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "àti àwọn ohun èlò"
+    }
+  ],
+  "timestamp": "2026-08-23T05:27:41.511450862Z",
+  "model": "glm-5.3"
+}

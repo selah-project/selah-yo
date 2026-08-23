@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 132,
+  "translation": "Orin ìgòkè. Rántí, Yahweh, fún Dawid, ⟨את⟩ gbogbo ìpèníjà rẹ̀.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ìgòkè"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Rántí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ìpèníjà rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "ìpèníjà rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:20.078291952Z",
+  "model": "glm-5.3"
+}

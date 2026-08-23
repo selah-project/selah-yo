@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Tí tí è mú ni, Yahweh, tí ìwọ ṣe ń gbà mi létí kí o sì gbà mi gbà — ní ìgbà tí ni? Tí tí è mú ni, tí ìwọ fi ń fi ⟨את⟩ ojú rẹ pamọ́ kúrò lọ́dọ̀ mi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tí tí"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "è mú ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "ìwọ ń gbà mi létí kí o sì gbà mi gbà"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ní ìgbà tí"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tí tí"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "è mú ni"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ìwọ fi ń pamọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú rẹ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kúrò lọ́dọ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:34.447146782Z",
+  "model": "glm-5.3"
+}

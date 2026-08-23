@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Nítorí pé òun yóò gba àwọn aláìní tí ó bá ń ké àtì àwọn talọka, ẹni tí kò sí ẹnìkan tí ń ràn án lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "yóò gba (gbàlà)"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "àwọn aláìní"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "tí ó bá ń ké"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "àtì àwọn talọka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tí kò sí"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ẹnìkan tí ń ràn án lọ́wọ́"
+    },
+    {
+      "surface": "לו",
+      "gloss": "rán án lọ́wọ́ (fún un)"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:56.746326571Z",
+  "model": "glm-5.3"
+}

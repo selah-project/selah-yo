@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 136,
+  "translation": "Ó sì bú Paroh àti ogun rẹ̀ sínu Yam Suf, nítorí chesed rẹ̀ dúró títí láé láé.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "Ó sì bú … sínu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "àti ogun rẹ̀"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sínu Yam"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láé láé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:08.532390403Z",
+  "model": "glm-5.3"
+}

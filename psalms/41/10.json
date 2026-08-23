@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Bákan náà, ọkùnrin aláfìà mi, ẹni tí mo gbẹ́kẹ̀ lé, ẹni tí ń jẹ oúnjẹ mi, gbé ìgbésẹ̀ sókè lórí mi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "aláfìà mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mo gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "בו",
+      "gloss": "í"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ń jẹ"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "oúnjẹ mi"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "gbé sókè"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ìgbésẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:30.033730659Z",
+  "model": "glm-5.3"
+}

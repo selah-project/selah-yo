@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Nítorí tí èmi ṣetán láti ṣubú, ìrora mi sì wà níwájú mi ní gbogbo ìgbà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "láti ṣubú"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ṣetán"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "ìrora mi sì"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "níwájú mi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ní gbogbo ìgbà"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:17.226221334Z",
+  "model": "glm-5.3"
+}

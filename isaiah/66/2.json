@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 66:2",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 66,
+  "translation": "Ọwọ́ mi ṣe ⟨את⟩ gbogbo wọnyí, gbogbo wọnyí sì wáyé, ìsọ Yahweh ni; sí ẹni yìí ni mo ń wo — sí aláìní àti ẹni tí ẹmí rẹ̀ ti fọ́, àti ẹni tí ó ń gbà nípa ọ̀rọ̀ mi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo wọnyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "sì wáyé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ìsọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ẹni yìí"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "mo ń wo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aláìní"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "àti ẹni tí ó sẹ́"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹmí"
+    },
+    {
+      "surface": "וחרד",
+      "gloss": "àti ẹni tí ó ń gbà"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T02:06:48.796400704Z",
+  "model": "glm-5.3"
+}

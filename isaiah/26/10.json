@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ẹ jẹ́ kí àánú ṣe é fún ẹni-búburú; ó kì yóò kọ́ ẹ̀tọ́; ní ilẹ̀ ọ̀nà-tọ́ ó ṣe àìtọ́, ó sì kò ní rí gíga Yahweh.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "ẹ jẹ́ kí àánú ṣe é"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "fún ẹni-búburú"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "למד",
+      "gloss": "kọ́"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ẹ̀tọ́"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "ọ̀nà-tọ́"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "ó ṣe àìtọ́"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ó sì kò ní"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rí"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "gíga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T01:48:27.718272895Z",
+  "model": "glm-5.3"
+}

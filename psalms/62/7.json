@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 62,
+  "translation": "Òun nìkan ni apata mi àti ìgbàlà mi; ògiri gíga mi; èmi kì í gbéra.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Níkan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Òun"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "apata mi"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "àti ìgbàlà mi"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ògiri gíga mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "gbéra"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:41.549310916Z",
+  "model": "glm-5.3"
+}

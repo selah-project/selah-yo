@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Óótọ́ ni, Yahweh, àwọn ọba Ashur ti pa ⟨את⟩ àwọn orílẹ̀-èdè jẹ́, àti ⟨את⟩ ilẹ̀ wọn.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Óótọ́ ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "ti pa jẹ́"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilẹ̀ wọn"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ilẹ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:36:44.634576976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ṣé gbogbo àwọn oṣiṣẹ́ aṣiṣe kò mọ̀, àwọn tí ń jẹ ènìyàn mi bí wọ́n ṣe ń jẹ búrẹ́dì? Wọ́n kò pè Yahweh.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ṣé"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "kò mọ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "àwọn oṣiṣẹ́"
+    },
+    {
+      "surface": "און",
+      "gloss": "aṣiṣe"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "àwọn tí ń jẹ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ènìyàn mi"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "bí wọ́n ṣe ń jẹ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "búrẹ́dì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "pè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:56.662297220Z",
+  "model": "glm-5.3"
+}

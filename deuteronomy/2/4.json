@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ìgbanì sí ni kí o pa ⟨את⟩ àwọn ènìyàn ní àṣẹ, wí pé: Ẹ̀yin ń kọjá ní ètò àwọn ará yín, àwọn ọmọ Esav, tí wọ́n ń gbé ní Seir; wọ́n sì máa bẹ̀rù̀ yín; ẹ sì ṣọ́ gan-an.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sì ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "צו",
+      "gloss": "pa ní àṣẹ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Ẹ̀yin"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ń kọjá"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "ní ètò"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "àwọn ará yín"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "tí wọ́n ń gbé"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "ní Seir"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "wọ́n sì máa bẹ̀rù̀"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "yín"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "ẹ sì ṣọ́"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gan-an"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:47.055019135Z",
+  "model": "glm-5.3"
+}

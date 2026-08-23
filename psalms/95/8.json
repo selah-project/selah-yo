@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 95,
+  "translation": "Ẹ máṣe fi ọkàn yín lékún gẹ́gẹ́ bíi Merivah, bí ọjọ́ Massah ní ijù",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ẹ máṣe"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "fi ọkàn... lékún"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ọkàn yín"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "gẹ́gẹ́ bíi Merivah"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bí ọjọ́"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massah"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní ijù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:38.638071780Z",
+  "model": "glm-5.3"
+}

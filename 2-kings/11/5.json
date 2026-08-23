@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 11:5",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó sì pàṣẹ wọ́n wí pé, Èyí ni ọ̀rọ̀ tí ẹ gbọ́dọ̀ ṣe: ẹ̀kẹ́ta nínu yín, àwọn tí wọ́n ń wọlé ní ọjọ́ Shabbat, àti àwọn tí wọ́n ń ṣọ́ ìṣọ́ ti ilé ọba",
+  "tokens": [
+    {
+      "surface": "ויצום",
+      "gloss": "Ó sì pàṣẹ wọ́n"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Èyí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ẹ gbọ́dọ̀ ṣe"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "ẹ̀kẹ́ta"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "nínu yín"
+    },
+    {
+      "surface": "באי",
+      "gloss": "àwọn tí wọ́n ń wọlé"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ọjọ́ Shabbat"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "àti àwọn tí wọ́n ń ṣọ́"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ìṣọ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T01:30:30.859687038Z",
+  "model": "glm-5.3"
+}

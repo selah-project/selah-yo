@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ìwọ̀n kan wúrà mímọ́ ni ó fi ṣe ⟨את⟩ rẹ̀, àti ⟨את⟩ gbogbo àwọn ohun èlò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "ìwọ̀n kan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó fi ṣe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ rẹ̀",
+      "marks": "rẹ̀ (Mínórà náà)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ohun èlò rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "àwọn ohun èlò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:45.683482197Z",
+  "model": "glm-5.3"
+}

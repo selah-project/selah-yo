@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 9:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àti pẹ̀lú ⟨את⟩ gbogbo ẹ̀mí-alààyè tí ń bẹ pẹ̀lú ⟨את⟩ yín, lára ẹyẹ, lára ẹranko, àti lára gbogbo ẹranko ilẹ̀ tí ń bẹ pẹ̀lú ⟨את⟩ yín; láti gbogbo tí ó jáde wá nínú ọkọ̀, sí gbogbo ẹranko ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti pẹ̀lú ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ẹ̀mí-alààyè"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "tàbí-alààyè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "pẹ̀lú ⟨את⟩ yín"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "lára ẹyẹ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "lára ẹranko"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "àti lára gbogbo"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "pẹ̀lú ⟨את⟩ yín"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "láti gbogbo"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "tí ó jáde wá"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "nínú ọkọ̀"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sí gbogbo"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:39:23.364910929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 95,
+  "translation": "Fún ọdún mèrìnlélógójì Mo bínú sí ìràn yìí, Mo sì wí pé: Ìjọ tí ọkàn wọn ṣìṣẹ̀ ni wọ́n, àwọn náà kò sì mọ ọ̀nà Mi.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "mèrìnlélógójì"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "Mo bínú sí"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sí ìràn yìí"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Mo sì wí pé"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ìjọ"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "tí ọkàn wọn ṣìṣẹ̀"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni wọ́n"
+    },
+    {
+      "surface": "והם",
+      "gloss": "àwọn náà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mọ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ọ̀nà Mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:18.719405744Z",
+  "model": "glm-5.3"
+}

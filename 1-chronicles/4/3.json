@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àwọn wọnyí sì ni ti baba Etam: Yizreel, Yishma àti Yidbash; orúkọ àwọn aràbìnrin wọn sì ni Tselelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Àwọn wọnyí sì"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ti baba"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "Yishma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "àti Yidbash"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "àwọn aràbìnrin wọn"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Tselelponi"
+    }
+  ],
+  "timestamp": "2026-08-23T05:09:56.826552803Z",
+  "model": "glm-5.3"
+}

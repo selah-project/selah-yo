@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì máa gba ⟨את⟩ àwọn pàmárùn yín, ⟨את⟩ àwọn ibi ẹ̀gin yín, àti àwọn igi òlíífì yín tí ó dára jù, ó sì fún àwọn ìránṣẹ́ rẹ̀ ní wọn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sì",
+      "marks": "àwọn pàmárùn yín"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "àwọn pàmárùn yín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ àti",
+      "marks": "àwọn ibi ẹ̀gin yín"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "àwọn ibi ẹ̀gin yín"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "àwọn igi òlíífì yín"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "tí ó dára jù"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ó máa gba"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ó sì máa fún"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀ ní wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:43:44.019855136Z",
+  "model": "glm-5.3"
+}

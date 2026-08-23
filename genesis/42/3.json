@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Nítorí náà, àwọn ará Yosef mẹ̀wá sọkalẹ láti lọ ra oúnjẹ láti Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "sọkalẹ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "àwọn ará"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mẹ̀wá"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "láti lọ ra oúnjẹ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "oúnjẹ (bar)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "láti Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:12:09.347151715Z",
+  "model": "glm-5.3"
+}

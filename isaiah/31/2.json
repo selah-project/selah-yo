@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Ṣùgbọ́n òun náà ni ọgbọ́n, ó sì ń mú búburú wá; àti ⟨את⟩ àwọn ọ̀rọ̀ rẹ̀ kò gbà padà; ó sì ń dìde lé ilé àwọn elétùburú, àti lé ìrànlọ́wọ́ àwọn ṣiṣẹ́ àìtọ́.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ṣùgbọ́n òun náà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ìgbaná"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ni ọgbọ́n"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó ń mú ... wá"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "àwọn ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "gbà padà"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ó sì ń dìde"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "àwọn elétùburú"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lé"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ìrànlọ́wọ́"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "àwọn ṣiṣẹ́"
+    },
+    {
+      "surface": "און",
+      "gloss": "àìtọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:51:37.603676228Z",
+  "model": "glm-5.3"
+}

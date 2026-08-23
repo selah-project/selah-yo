@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Yehoshua sì fi ⟨את⟩ ìjọ náà ránṣẹ́ lọ; àwọn ọmọ Yisrael sì lọ, ẹni kọ̀ọ̀kan sí ipò-ogún rẹ̀, láti gba ⟨את⟩ ilẹ̀ náà.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì fi... ránṣẹ́ lọ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọ náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wọ́n sì lọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni kọ̀ọ̀kan"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "sí ipò-ogún rẹ̀"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "láti gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:40.229908036Z",
+  "model": "glm-5.3"
+}

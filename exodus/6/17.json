@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àwọn ọmọ Gershon: Libni àti Shimi, gẹ́gẹ́ bí àwọn ẹbí wọn.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "àti Shimi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "gẹ́gẹ́ bí àwọn ẹbí wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:37.022806356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "(Ó) sì ti pàṣẹ-í lórí ohun yìí, kí ó má lọ léyìn àwọn elohim míràn; ṣùgbọ́n òun kò pa ⟨את⟩ ohun tí Yahweh pàṣẹ mọ́.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "sì ti pàṣẹ-í"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lí ọ̀rọ̀ rẹ̀ (fún un)"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ohun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kí ó má"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "léyìn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "àwọn elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "míràn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n … kò"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "pa … mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí Yahweh pàṣẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T05:51:36.892371747Z",
+  "model": "glm-5.3"
+}

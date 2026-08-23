@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Adonai, ṣí ètè mí, ẹnu mi yóò sọ ìyìn rẹ̀ jáde.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ètè mí"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ṣí"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "àti ẹnu mí"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "yóò sọ jáde"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ìyìn rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:49.271966431Z",
+  "model": "glm-5.3"
+}

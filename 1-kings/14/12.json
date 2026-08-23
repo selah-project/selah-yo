@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ìwọ sì, dídé, lọ sí ilé rẹ; nígbà tí ẹsẹ̀ rẹ bá ń wọ ìlú náà, omọkùnrin náà yóò kú.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ìwọ sì"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "dídé"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "sí ilé rẹ"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "nígbà tí … bá ń wọ"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ẹsẹ̀ rẹ"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "yóò kú"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "omọkùnrin náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:19:47.165796508Z",
+  "model": "glm-5.3"
+}

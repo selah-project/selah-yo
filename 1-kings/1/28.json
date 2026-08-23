@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 1:28",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Dafidi ọba sì dáhùn, ó sì wí pé, Ẹ pe Bath-Sheba fún mi. Ó sì wá síwájú ọba, ó sì dúró níwájú ọba.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "sì dáhùn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ẹ pe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "fún Bath-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ó sì wá"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ó sì dúró"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:58.437113685Z",
+  "model": "glm-5.3"
+}

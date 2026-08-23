@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Nítorí ọ̀kàn sí ọ̀kàn, ẹni tí ó bá ṣègbé ⟨את⟩ baba rẹ̀ àti ⟨את⟩ ìyá rẹ̀, ikú ni a ó pa á pa; baba rẹ̀ àti ìyá rẹ̀ ni ó ti ṣègbé; ẹ̀jẹ̀ rẹ̀ wà lórí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọ̀kàn sí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọ̀kàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ṣègbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba rẹ̀"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìyá rẹ̀"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ìyá rẹ̀"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ni a ó pa pa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "àti ìyá rẹ̀"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "ti ṣègbé"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "ẹ̀jẹ̀ rẹ̀"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wà lórí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:57.423516033Z",
+  "model": "glm-5.3"
+}

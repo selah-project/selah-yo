@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 136,
+  "translation": "Eni tí ó ge Yam Suf sí ìpín, nítorí chesed rẹ̀ dúró títí láé láé.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Eni tí ó ge sí ìpín"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Yam"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "sí ìpín"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láé láé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:08.532110171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 1:22",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Kí yóò sì jẹ́ pé, ó sì ń bá ọba ọ̀rọ̀ sísọ tuntun, Natan wòlíì sì wá.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Kí yóò sì jẹ́ pé"
+    },
+    {
+      "surface": "עודנה",
+      "gloss": "tuntun"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "ó ń bá … ọ̀rọ̀ sísọ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bá"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "wòlíì"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sì wá"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:06.385004020Z",
+  "model": "glm-5.3"
+}

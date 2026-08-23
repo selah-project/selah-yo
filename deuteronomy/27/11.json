@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Moshe sì pa ⟨את⟩ àwọn ènìyàn ní lé lọ́jọ́ yẹn wí pé,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "pa ní lé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "lọ́jọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    }
+  ],
+  "timestamp": "2026-08-23T00:17:33.665306123Z",
+  "model": "glm-5.3"
+}

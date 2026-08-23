@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Pẹ̀lú èté mi ni mo sọ ⟨gbogbo⟩ ìdájọ́ ẹnu Rẹ.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "pẹ̀lú èté mi"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "mo sọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ẹnu Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:42.129072092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ṣé ìwọ kò fi ẹ̀wẹ̀n ká a nítorí rẹ̀, àti nítorí ilé rẹ̀, àti nítorí gbogbo tí ó ní, káàkiri? Iṣẹ́ ọwọ́ rẹ̀ ni ìwọ ti bùkún, àti ẹran ọ̀sìn rẹ̀ ti tàn ká nínú ⟨ilẹ̀⟩ ayé.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ṣé kì í"
+    },
+    {
+      "surface": "את",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "fi ẹ̀wẹ̀n ká"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "nítorí rẹ̀"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "àti nítorí"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "àti nítorí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ó ní"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "káàkiri"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ìwọ ti bùkún"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "àti ẹran ọ̀sìn rẹ̀"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ti tàn ká"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nínú ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T04:16:02.430861765Z",
+  "model": "glm-5.3"
+}

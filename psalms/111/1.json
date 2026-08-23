@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 111,
+  "translation": "Hálélú Yah! Èmi yóò dúpẹ́ lọ́wọ́ Yahweh pẹ̀lú gbogbo ọkàn, ní ⟨ìpàpọ̀⟩ tí ó wọ́pọ̀ lára àwọn olótítọ́, àti ní àpérò.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hálélú"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "èmi yóò dúpẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "ní ⟨ìpàpọ̀⟩ tí ó wọ́pọ̀"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "àwọn olótítọ́"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "àti ní àpérò"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:20.512822233Z",
+  "model": "glm-5.3"
+}

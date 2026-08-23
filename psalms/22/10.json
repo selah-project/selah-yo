@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Nítorí ìwọ ni ó gbé mi jáde láti inú ikún; ìwọ fi ìgbẹ́kẹ̀ lé mi lórí àwọn ìyàwọ́ ìyá mi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "ó gbé mi jáde"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "láti inú ikún"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "fi ìgbẹ́kẹ̀ lé mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "àwọn ìyàwọ́"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ìyá mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:58.929676232Z",
+  "model": "glm-5.3"
+}

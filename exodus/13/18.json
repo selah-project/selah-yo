@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Nítorí náà Elohim yí ⟨את⟩ ìjọ enìyan ká, ní ọ̀nà ijù tí ó ń lọ sí Òkun Suph; àwọn ọmọ Yisrael sì dìde láti ilẹ̀ Mitzrayim ní àkóràn ogun.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Elohim yí… ká"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọ enìyan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ enìyan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ní ọ̀nà"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ijù"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Òkun"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ní àkóràn ogun"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "dìde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "láti ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:20:47.615692057Z",
+  "model": "glm-5.3"
+}

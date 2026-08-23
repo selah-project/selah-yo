@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Bilam sì gbé ⟨את⟩ ojú rẹ̀ sókè, ó sì rí ⟨את⟩ Yisrael tí ó ń gbé láti ìran rẹ̀, Ẹ̀mí Elohim sì wà lórí rẹ̀",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "gbé sókè"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú rẹ̀"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ó sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ń gbé"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "láti ìran rẹ̀"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "sì wà"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ẹ̀mí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:34.160072103Z",
+  "model": "glm-5.3"
+}

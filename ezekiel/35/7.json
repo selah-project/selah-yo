@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Èmi yóò sì fi ⟨את⟩ òkè Sẹ́ir sílẹ̀ gẹ́gẹ́ bí ibi tí ó fojúrí, ìgbà tí kò ní ṣẹ́ níbẹ̀ mọ́; èmi yóò gé ọ̀nà-ìrìnàjò àti èyí tí ó ń pada kúrò lọ́nà kúrò níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "èmi yóò sì fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òkè Sẹ́ir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Sẹ́ir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "gẹ́gẹ́ bí ibi tí ó fojúrí"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ìgbà tí kò ní ṣẹ́ níbẹ̀ mọ́"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "èmi yóò gé kúrò"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kúrò níbẹ̀"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ẹni tí ó ń kọjá \/ ọ̀nà-ìrìnàjò"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "àti ẹni tí ó ń padà"
+    }
+  ],
+  "timestamp": "2026-08-23T02:52:38.245753135Z",
+  "model": "glm-5.3"
+}

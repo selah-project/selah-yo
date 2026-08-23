@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 8:5",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àti Shelomoh ọba, àti gbogbo àpapọ̀ YisraEL tí wọ́n péjọ sí i, wà pẹ̀lú rẹ̀ ⟨את⟩ níwájú ááà-náà, wọ́n ń rubọ̀ àwọn àgùntàn àti màlúù tí wọn kò lè ka, wọn kò sì lè iye fún púpọ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "àti ọba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "àpapọ̀"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "YisraEL"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "tí wọ́n péjọ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ááà-náà"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "wọ́n ń rubọ̀"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "àwọn àgùntàn"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "àti màlúù"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "lè ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wọn kò sì"
+    },
+    {
+      "surface": "ימנו",
+      "gloss": "lè iye"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "fún púpọ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:15:18.943256313Z",
+  "model": "glm-5.3"
+}

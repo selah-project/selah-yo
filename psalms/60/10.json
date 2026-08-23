@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 60,
+  "translation": "Moab ni kòkòrò-ìwẹ̀ mi; lórí Edom ni mo ti sọ bàtà mi ṣì; lórí mi, Peleshet, kí o kìlọ̀ fún ayọ̀.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kòkòrò-ìwẹ̀"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "mo ti sọ…ṣì"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "bàtà mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "kí o kìlọ̀ fún ayọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:03.425512901Z",
+  "model": "glm-5.3"
+}

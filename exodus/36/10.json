@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Ó dá ⟨את⟩ àwọn yàrá ìkùn márùn-un mọ́ ara wọn, ọ̀kan sí òmíràn; àti àwọn yàrá ìkùn márùn-un ìkejì, ó dá wọn mọ́ ara wọn, ọ̀kan sí òmíràn.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Ó dá…mọ́ ara wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn yàrá ìkùn márùn-un"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "márùn-un"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "àwọn yàrá ìkùn"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "òmíràn"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "àti márùn-un ìkejì"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "àwọn yàrá ìkùn"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ó dá…mọ́ ara wọn"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "òmíràn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:56.095936317Z",
+  "model": "glm-5.3"
+}

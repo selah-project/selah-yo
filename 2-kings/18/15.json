@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Chizkiyah sì fún un ní ⟨את⟩ gbogbo fàdákà tí a rí nínú ilé Yahweh, àti ní àwọn ilé-ìṣùra ti ilé ọba.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fún"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo fàdákà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fàdákà náà"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "tí a rí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ní nínú ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "àti ní àwọn ilé-ìṣùra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T01:33:58.146976392Z",
+  "model": "glm-5.3"
+}

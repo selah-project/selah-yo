@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Láti ṣí ojú àwọn olójú, láti mú ẹ̀wòn jáde kúrò nínú ààtinú, láti mú àwọn tí ó bẹ́ erú inú ilé-ẹ̀wọn, àwọn tí ó gbẹ́dọ̀ jọ́kọ́ nínú òkùnkùn.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "Láti ṣí ojú"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "àwọn olójú"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "láti mú ... jáde"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "kúrò nínú ààtinú"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ẹ̀wòn"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kúrò ... ilé"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "ẹ̀wọn"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn tí ó ... jọ́kọ́"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nínú òkùnkùn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:55:33.420329597Z",
+  "model": "glm-5.3"
+}

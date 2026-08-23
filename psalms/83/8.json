@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 83,
+  "translation": "Gebalu, àti Ammonu, àti Amaleki, Pelesheti pẹ̀lú àwọn olùgbé Tso:",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebalu"
+    },
+    {
+      "surface": "וועמון",
+      "gloss": ""
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "àti Ammonu"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "àti Amaleki"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesheti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn olùgbé"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tso"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:17.111883145Z",
+  "model": "glm-5.3"
+}

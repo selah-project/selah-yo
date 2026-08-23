@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Bákan náà ni àwọn ìjòyè jókòó, wọ́n sì bá mi sọ̀rọ̀ (lódi); ẹrú Rẹ sì ń ṣe ìrójinlẹ̀ nínú àwọn òfin Rẹ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bákan náà ni"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jókòó"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "àwọn ìjòyè"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "wọ́n sì bá ... sọ̀rọ̀"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ẹrú Rẹ"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "ń ṣe ìrójinlẹ̀"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "nínú àwọn òfin Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:27.089161385Z",
+  "model": "glm-5.3"
+}

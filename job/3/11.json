@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Èṣe tí èmi kò kú láti inú ìbáradì? Láti inú ìbáradì ni mo ti jáde wá, mo sì kú.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "èṣe tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "láti inú ìbáradì"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kú"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "láti inú ìbáradì"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "mo jáde wá"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "mo sì kú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:15:05.565008408Z",
+  "model": "glm-5.3"
+}

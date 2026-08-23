@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ìwọ sì gbọ́dọ̀ pa ⟨את⟩ òfin yìí mọ́ ní àsìkò àṣẹ rẹ̀, láti ọdún dé ọdún.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Ìwọ sì gbọ́dọ̀ pa mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òfin yìí"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "òfin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "ní àsìkò àṣẹ rẹ̀"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "láti ọdún"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "dé ọdún"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:42.451579484Z",
+  "model": "glm-5.3"
+}

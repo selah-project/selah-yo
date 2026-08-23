@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 101,
+  "translation": "Ní àárọ̀ àárọ̀ ni èmi yóò mú gbogbo àwọn èṣẹ́-ṣẹ̀ ilẹ̀ yìí run, láti gé gbogbo àwọn olṣe-àṣìṣe kúrò nínú ìlú Yahweh.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "ní àárọ̀ àárọ̀"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "èmi yóò mú run"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "àwọn èṣẹ́-ṣẹ̀"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "láti gé kúrò"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "nínú ìlú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "àwọn olṣe"
+    },
+    {
+      "surface": "און",
+      "gloss": "àṣìṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:24.771877085Z",
+  "model": "glm-5.3"
+}

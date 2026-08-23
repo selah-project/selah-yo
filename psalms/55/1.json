@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Fún olùdarí, pẹ̀lú orin-idà; ẹ̀kọ́-ọgbọ́n, ti David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fún olùdarí"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "pẹ̀lú orin-idà"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ẹ̀kọ́-ọgbọ́n"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti David"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:50.774695697Z",
+  "model": "glm-5.3"
+}

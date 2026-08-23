@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Nítorí tí wọ́n mú ruach rẹ̀ di ìrọ́run, ó sì sọ̀rọ̀ lọ́nà tí kò tọ́ ní èté rẹ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "wọ́n mú...di ìrọ́run"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruach rẹ̀"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruach rẹ̀"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "ó sì sọ̀rọ̀ lọ́nà tí kò tọ́"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "ní èté rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:18.427365167Z",
+  "model": "glm-5.3"
+}

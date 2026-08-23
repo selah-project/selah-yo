@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 7:13",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ó sì wí pé: Ẹ gbọ́, ẹ jọwọ́, ilé David; ṣé kékere ni fún yín láti ṣe àníyàmẹ́nù fún àwọn ènìyàn, tí ẹ ń ṣe àníyàmẹ́nù fún ⟨את⟩ Elohim mi bákan náà?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí pé"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Ẹ gbọ́"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ẹ jọwọ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "ṣé kékere ni"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "הלאות",
+      "gloss": "láti ṣe àníyàmẹ́nù"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תלאו",
+      "gloss": "ẹ ń ṣe àníyàmẹ́nù"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:47.580699458Z",
+  "model": "glm-5.3"
+}

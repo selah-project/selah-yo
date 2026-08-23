@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Nísinsin yìí, ẹ̀yin kò rán mi ⟨את⟩ síbì, ṣùgbọ́n Elohim ni; ó sì fi mí jẹ́ baba fún Parao, olú fún gbogbo ilé rẹ̀, àti aláṣẹ lórí gbogbo ilẹ̀ Mitzrajim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "nísinsin yìí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "rán"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "síbì"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "ó sì fi mí jẹ́"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "fún Parao"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "àti olú"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "àti aláṣẹ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "lórí gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrajim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:13:21.803095062Z",
+  "model": "glm-5.3"
+}

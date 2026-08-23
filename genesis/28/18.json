@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 28:18",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Yaakov sì dí Ọjọ́ lọ́wọ́ ni aárọ̀, ó sì gba ⟨את⟩ ⟨ìgbòró⟩ okúta tí ó gbé sí abẹ́ orí rẹ̀, ó sì fi ⟨את⟩ ṣe òkúta-ìrántí, ó sì ṣàn epo sí orí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Ó sì dí Ọjọ́ lọ́wọ́"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ni aárọ̀"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ìgbòró⟩ okúta"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "okúta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ó gbé"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "sí abẹ́ orí rẹ̀"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "òkúta-ìrántí"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ṣe òkúta-ìrántí"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ó sì ṣàn"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:04:39.054573327Z",
+  "model": "glm-5.3"
+}

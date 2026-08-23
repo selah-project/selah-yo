@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 140,
+  "translation": "Ọkùnrin-ahọ̀n-ẹ́ṣẹ̀ kì í ṣe é dúró lé lórí ayé; ọkùnrin ìwà-ipá — ẹ̀ṣẹ̀ yió pa á lé, tí ó fi ń bọ́ sínú ìparun.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ahọ̀n (ẹni-àbùkẹ́-ẹnu)"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í ṣe é"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "dúró lé"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lórí ayé"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìwà-ipá"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburù"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "yió pa á lé"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "sínú ìparun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:21.333972105Z",
+  "model": "glm-5.3"
+}

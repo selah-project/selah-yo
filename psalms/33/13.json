@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Láti ọ̀run ni Yahweh kọ̀ ọ́ wò ó sì rí ⟨את⟩ gbogbo àwọn ọmọ ènìyàn.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Láti ọ̀run"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "kọ̀ ọ́ wò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ó sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ọmọ ènìyàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:56.521141459Z",
+  "model": "glm-5.3"
+}

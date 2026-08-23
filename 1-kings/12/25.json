@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Yarovam sì kọ́ ⟨את⟩ Shekem ní òkè Efrayim, ó sì gbé níbẹ̀; ó sì jáde láti ibẹ̀, ó sì kọ́ ⟨את⟩ Penuel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ó sì kọ́"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ní òkè"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó sì gbé"
+    },
+    {
+      "surface": "בה",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ó sì jáde"
+    },
+    {
+      "surface": "משם",
+      "gloss": "láti ibẹ̀"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ó sì kọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    }
+  ],
+  "timestamp": "2026-08-23T01:18:04.125370237Z",
+  "model": "glm-5.3"
+}

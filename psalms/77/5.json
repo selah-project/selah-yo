@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 77,
+  "translation": "O di àwọn ìpalẹ̀mọ́ ojú mi mú; mo sì bà jẹ́ tí mo kò lè sọ̀rọ̀.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "O di … mú"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "àwọn ìpalẹ̀mọ́"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "mo bà jẹ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "sọ̀rọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:03.574942371Z",
+  "model": "glm-5.3"
+}

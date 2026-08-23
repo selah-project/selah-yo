@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 7:4",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Rere wọn dà bíi ẹ̀gẹ̀ kan; ẹní-tí-ó-yà sì lé ju ilẹ̀-ẹ̀gẹ̀ lọ; ọjọ́ àwọn olùṣọ́ rẹ, ìfihàn ìjìnnà-sìn rẹ, ti dé; níísìsìyì ni ìṣòro-àìmọ̀lọ́gbọ́n wọn yóò jẹ́.",
+  "tokens": [
+    {
+      "surface": "טובם",
+      "gloss": "rere wọn"
+    },
+    {
+      "surface": "כחדק",
+      "gloss": "bíi ẹ̀gẹ̀ kan"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ẹní-tí-ó-yà"
+    },
+    {
+      "surface": "ממסוכה",
+      "gloss": "ju ilẹ̀-ẹ̀gẹ̀ lọ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "מצפיך",
+      "gloss": "àwọn olùṣọ́ rẹ"
+    },
+    {
+      "surface": "פקדתך",
+      "gloss": "ìfihàn ìjìnnà-sìn rẹ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ti dé"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "níísìsìyì"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "מבוכתם",
+      "gloss": "ìṣòro-àìmọ̀lọ́gbọ́n wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:13:59.338754238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Wọ́n sì sùràntì, kò sì dáhùn ⟨את⟩ ọ̀rọ̀ kan fún-un, nítorí àṣẹ ⟨the⟩ Ọba ni wọ́n gbà, wí pé, Má ṣe dáhùn òun.",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "Wọ́n sì sùràntì"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "dáhùn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ kan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀ kan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "àṣẹ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba náà"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "dáhùn òun"
+    }
+  ],
+  "timestamp": "2026-08-23T01:52:40.879338251Z",
+  "model": "glm-5.3"
+}

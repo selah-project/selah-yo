@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 13:16",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Àwọn ọmọ Israẹli sì sálẹ̀ kúrò níwájú Yehuda; Elohim sì gbé wọn lé ọwọ́ wọn lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "sì sálẹ̀ kúrò"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "sì gbé … lé … lọ́wọ́"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "sí ọwọ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:28:21.579577600Z",
+  "model": "glm-5.3"
+}

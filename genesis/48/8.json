@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Israẹli sì rí ⟨את⟩ àwọn ọmọ Yosef, ó sì wí pé, Taìwọ̀n ni àwọn wọnyí?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "sì rí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yosef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Taìwọ̀n"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọnyí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:05.800203896Z",
+  "model": "glm-5.3"
+}

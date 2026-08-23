@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 71:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Àti pẹ̀lú, títí dé àgbà tàbí èjìká funfun, Elohim, má ṣe fi mi sílẹ̀; títí dé ìgbà tí èmi yóò sọ ẹ̀yin rẹ sí ìran yìí, agbára rẹ sí gbogbo ènìyàn tí yóò wà.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Àti pẹ̀lú"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "àgbà"
+    },
+    {
+      "surface": "ושיבה",
+      "gloss": "tàbí èjìká funfun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "fi mi sílẹ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "èmi yóò sọ"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "ẹ̀yin rẹ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sí ìran yìí"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sí gbogbo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ènìyàn tí yóò wà"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "agbára rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:03.694466043Z",
+  "model": "glm-5.3"
+}

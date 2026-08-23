@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì fi ojú rẹ̀ dúró lórí ⟨את⟩ ojú rẹ̀, títí dí ìgbà tí ó ti ṣẹ̀yà; ọkùnrin Elohim sì kọ́ àwọn ìjọ.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ó sì fi dúró"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú rẹ̀"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì gbé lé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dí"
+    },
+    {
+      "surface": "בש",
+      "gloss": "ìgbà tí ó ti ṣẹ̀yà"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "sì kọ́ àwọn ìjọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:44.041776412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ìránṣẹ́ rẹ ni mo ti jẹ́; fi ọgbọ́n fún mi, kí n lè mọ àwọn ẹ̀rì rẹ.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "fi ọgbọ́n fún mi"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "kí n lè mọ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "àwọn ẹ̀rì rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:27.193652172Z",
+  "model": "glm-5.3"
+}

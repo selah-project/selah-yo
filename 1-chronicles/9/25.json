@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àwọn ará wọn sì, ní àwọn abúlé wọn, máa ń wá fún ìgbà ọjọ́ méje, láti ìgbà dé ìgbà, pẹ̀lú ⟨àwọn⟩ wọ̀nyí.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "àwọn ará wọn sì"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "ní àwọn abúlé wọn"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "máa ń wá"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "fún ìgbà…méje"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "láti ìgbà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dé"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ìgbà"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨àwọn⟩ wọ̀nyí"
+    }
+  ],
+  "timestamp": "2026-08-23T05:12:30.051956015Z",
+  "model": "glm-5.3"
+}

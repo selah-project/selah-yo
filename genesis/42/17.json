@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ó sì jọ ⟨את⟩ wọ́n pọ̀ sí abẹ́ ìwọ̀ ọ̀sìn, ọjọ́ mẹ́ta.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Ó sì jọ pọ̀"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọ́n"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí abẹ́"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ìwọ̀ ọ̀sìn"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:11:06.701577366Z",
+  "model": "glm-5.3"
+}

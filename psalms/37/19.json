@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Wọn kì í ṣe yọrí-nínú ní àsìkò ìbàjẹ́, àti ní ọjọ́ ìṣekúṣe wọn yóò kún.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "yọrí-nínú"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ní àsìkò"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ìbàjẹ́"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "àti ní ọjọ́"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "ìṣekúṣe"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "yóò kún"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:53.282148409Z",
+  "model": "glm-5.3"
+}

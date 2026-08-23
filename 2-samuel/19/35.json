@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 19:35",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Barzillai sì wí fún ọba pé: 'Meloo ni ọjọ́ àwọn ọdún ìgbésí ayé mi, tí èmi yóò gbé ọba ⟨את⟩ sókè lọ sí Yerushalayim?'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzillai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "meloo ni"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "שני",
+      "gloss": "àwọn ọdún"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ìgbésí ayé mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "èmi yóò gbé…sókè lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T01:07:13.573332689Z",
+  "model": "glm-5.3"
+}

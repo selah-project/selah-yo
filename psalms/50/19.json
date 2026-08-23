@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Ẹnu rẹ, o ránṣẹ́ sí aburú, àwọ̀n rẹ̀ sì ń so ẹ̀tan mọ́ra.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "ẹnu rẹ"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "o ránṣẹ́"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sí aburú"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "àwọ̀n rẹ̀ sì"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "ń so mọ́ra"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ẹ̀tan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:27.813776430Z",
+  "model": "glm-5.3"
+}

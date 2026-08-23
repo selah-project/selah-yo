@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ṣé gbogbo ọjọ́ ni olọ́dọ̀-ilẹ̀ ń yọ ilẹ̀ láti gbín? Ṣé gbogbo gbogbo ni yóó fi ń tú ilẹ̀ àti máa ṣàdá ilẹ̀ rẹ̀?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Ṣé gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ń yọ ilẹ̀"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "olọ́dọ̀-ilẹ̀"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "láti gbín"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "tú ilẹ̀"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "àti máa ṣàdá"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ilẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:50:13.864509368Z",
+  "model": "glm-5.3"
+}

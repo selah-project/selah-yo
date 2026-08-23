@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Nígbà tí àwọn orílẹ̀-èdè bá kọjápapọ̀ pẹ̀lú ara wọn, àti àwọn ìjọba, láti ṣíṣẹ́ ⟨את⟩ Yahweh",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "nígbà tí … bá kọjápapọ̀"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pẹ̀lú ara wọn"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "àti àwọn ìjọba"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "láti ṣíṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:09.217770433Z",
+  "model": "glm-5.3"
+}

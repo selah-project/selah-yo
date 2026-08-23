@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "nítorí pé wọn kò gbàgbọ́ nínú Elohim, wọn kò sì gẹ́kẹ́ lẹ́yìn ìgbàlà rẹ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "gbàgbọ́ nínú"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "gẹ́kẹ́ lẹ́yìn"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "nínú ìgbàlà rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:49.707302833Z",
+  "model": "glm-5.3"
+}

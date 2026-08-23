@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Gbogbo tí Yahweh fẹ́, ó ṣe ẹ́ ní àwọn ọ̀run àti ní ayé, ní àwọn òkun àti gbogbo ijọ́nlẹ̀.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "fẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe ẹ́"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ní àwọn ọ̀run"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "àti ní ayé"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ní àwọn òkun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ijọ́nlẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:09.181371236Z",
+  "model": "glm-5.3"
+}

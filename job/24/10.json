@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Aláìwọ̀ ni wọ́n ti rìn láìsí aṣọ, èbi ń pa wọn, wọ́n sì gbé ọ̀kẹ̀ irùgbon mú.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "aláìwọ̀"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "wọ́n rìn"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "láìsí"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "aṣọ"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "àti èbi ń pa wọn"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "wọ́n gbé … mú"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "ọ̀kẹ̀ irùgbon"
+    }
+  ],
+  "timestamp": "2026-08-23T04:25:35.242028997Z",
+  "model": "glm-5.3"
+}

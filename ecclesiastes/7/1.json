@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Orúkọ dára ju epo yọ̀rí tó dára lọ, àti ọjọ́ ikú ju ọjọ́ tí a bí i lọ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dára ju"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "láti epo yọ̀rí"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tó dára"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "àti ọjọ́"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ikú náà"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ju ọjọ́"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "tí a bí i lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:26.973193448Z",
+  "model": "glm-5.3"
+}

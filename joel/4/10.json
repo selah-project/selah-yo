@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 4:10",
+  "book": "joel",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ẹ kọ̀ àwọn irin-ṣiṣẹ̀ yín di ìdà, àti àwọn ọ̀bẹ̀ gidigidi yín di ọ̀kọ̀; ẹni tí ó láìlágbara, jẹ́ kí ó sọ pé, “Alágbára ni mo wà.”",
+  "tokens": [
+    {
+      "surface": "כתו",
+      "gloss": "ẹ kọ̀ di"
+    },
+    {
+      "surface": "אתיכם",
+      "gloss": "àwọn irin-ṣiṣẹ̀ yín"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "ìdà"
+    },
+    {
+      "surface": "ומזמרתיכם",
+      "gloss": "àti àwọn ọ̀bẹ̀ gidigidi yín"
+    },
+    {
+      "surface": "לרמחים",
+      "gloss": "ọ̀kọ̀"
+    },
+    {
+      "surface": "החלש",
+      "gloss": "ẹni tí ó láìlágbara"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jẹ́ kí ó sọ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo wà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:05:14.591947759Z",
+  "model": "glm-5.3"
+}

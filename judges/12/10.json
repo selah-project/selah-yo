@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ibtsan sì kú, a sì sin ín sí Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "sì kú"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a sì sin ín"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sí Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-23T00:37:14.462542868Z",
+  "model": "glm-5.3"
+}

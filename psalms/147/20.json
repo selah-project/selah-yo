@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Kì í ṣe bẹ́ẹ̀ ni Ó ṣe ṣe fún orílẹ̀-èdè yòókù; nípa ìdájọ́ rẹ̀, wọn kò mọ wọ́n. Ẹ yin Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kì í ṣe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ó ṣe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "orílẹ̀-èdè yòókù"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "nípa ìdájọ́ rẹ̀"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kò... rárá"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "wọn mọ wọ́n"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Ẹ yin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:47.996380063Z",
+  "model": "glm-5.3"
+}

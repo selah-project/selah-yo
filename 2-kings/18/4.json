@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 18:4",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Òun ni ó yọ kúrò ⟨את⟩ àwọn ibi-ìgbìmọ̀-ókè, ó sì fọ ⟨את⟩ àwọn òpó-ìṣẹ̀mbaye, ó sì gẹ ⟨את⟩ Asherah; ó sì fọ wọ́ nyọ́ ejò idẹ tí Moshe ṣe, nítorí tí títí di ọjọ́ yẹn àwọn ọmọ Israẹli ń sun igbá-òórùn sí i; ó sì pe órúkọ rẹ̀ ní Nekhushtan.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ó yọ kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ibi-ìgbìmọ̀-ókè"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "àwọn ibi-ìgbìmọ̀-ókè"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ó sì fọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òpó-ìṣẹ̀mbaye"
+    },
+    {
+      "surface": "המצבת",
+      "gloss": "àwọn òpó-ìṣẹ̀mbaye"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "ó sì gẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherah"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Asherah"
+    },
+    {
+      "surface": "וכתת",
+      "gloss": "ó sì fọ wọ́ nyọ́"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ejò"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "idẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wọ́n ń"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "מקטרים",
+      "gloss": "ń sun igbá-òórùn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ó sì pe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "נחשתן",
+      "gloss": "ní Nekhushtan"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:56.889336656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 89:41",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "O ti fọ́ gbogbo ààtà rẹ̀ rú; o ti fi ogun-ilẹ̀ rẹ̀ sí iparun.",
+  "tokens": [
+    {
+      "surface": "פרצת",
+      "gloss": "O ti fọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "גדרתיו",
+      "gloss": "ààtà rẹ̀ rú"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "o ti fi"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "ogun-ilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "sí iparun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:09.958117761Z",
+  "model": "glm-5.3"
+}

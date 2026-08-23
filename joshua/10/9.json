@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Yehoshua sì dé ọ̀dọ̀ wọn lójú-kí-ójú; ó gbéra fún ìrìn gbogbo òru láti Gilgal.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "sì dé"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ọ̀dọ̀ wọn"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "lójú-kí-ójú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "gbéra fún ìrìn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-23T00:25:54.964986328Z",
+  "model": "glm-5.3"
+}

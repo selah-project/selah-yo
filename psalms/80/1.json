@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 80,
+  "translation": "Fún olúdarí, lórí Shoshannim; ẹ̀rí, fún Asaf; orin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fún olúdarí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ẹ̀rí"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "fún Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:22.434430822Z",
+  "model": "glm-5.3"
+}

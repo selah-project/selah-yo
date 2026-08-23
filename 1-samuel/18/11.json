@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Shaul sì gbé ⟨את⟩ ọ̀kọ̀nnúkan náà lé, ó sì wí pé: Èmi yóò lu Davidi sí ogiri; Davidi sì yẹra kúrò lọ́dọ̀ rẹ̀ lẹ́ẹ̀mejì.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "sì gbé ... lé"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀kọ̀nnúkan náà"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ọ̀kọ̀nnúkan náà"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "Èmi yóò lu"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "sí ogiri"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "sì yẹra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kúrò lọ́dọ̀ rẹ̀"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "lẹ́ẹ̀mejì"
+    }
+  ],
+  "timestamp": "2026-08-23T00:50:44.179242459Z",
+  "model": "glm-5.3"
+}

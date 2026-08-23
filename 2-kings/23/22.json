@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Nítorí Pésaṣì bí èyí kò ti ṣeṣe láti ọjọ́ àwọn adáṣẹ tí wọ́n dá ṣe ⟨את⟩ Yisrael, àti gbogbo ọjọ́ àwọn ọba Yisrael àti àwọn ọba Yehuda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ti ṣeṣe"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "Pésaṣì bí"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "láti ọjọ́"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "àwọn adáṣẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "wọ́n dá ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "àti àwọn ọba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-23T01:37:26.025184262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Nítorí Ẹni tí ó ń wá ìdájọ̀ ẹ̀jẹ̀ ti rántí ⟨wọn⟩; kò gbagbé ẹ̀kùnrẹrẹ àwọn aláìní.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ń wá ìdájọ̀"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ẹ̀jẹ̀"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ti rántí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "gbagbé"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ẹ̀kùnrẹrẹ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "àwọn aláìní"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:06.678881666Z",
+  "model": "glm-5.3"
+}

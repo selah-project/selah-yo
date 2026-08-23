@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 6:7",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Nítorí náà ní àsìkò yìí, ẹ gba, ẹ sì ṣe ọkọ̀ kan tuntun, àti abẹ́fun méjèèjì tí ó ń mu omi, tí ìsúnpọ̀ kò ti ti orí wọn lé lọrí; ẹ sì di ⟨את⟩ àwọn abẹ́fun náà mọ́ ọkọ̀ náà, ẹ sì da àwọn ọmọ wọn padà lẹ́yìn wọn sí ilé.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "nítorí náà ní àsìkò yìí"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ẹ gba"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ẹ sì ṣe"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "ọkọ̀"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "tuntun"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "àti … méjèèjì"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "abẹ́fun"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "tí ó ń mu omi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ti lé lọrí"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "orí wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "ìsúnpọ̀"
+    },
+    {
+      "surface": "ואסרתם",
+      "gloss": "ẹ sì di mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn abẹ́fun náà"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "àwọn abẹ́fun náà"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "mọ́ ọkọ̀ náà"
+    },
+    {
+      "surface": "והשיבתם",
+      "gloss": "ẹ sì da padà"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "àwọn ọmọ wọn"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "lẹ́yìn wọn"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "sí ilé"
+    }
+  ],
+  "timestamp": "2026-08-23T00:45:15.626171712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ìlérí opó àti ìlérí ẹni tí a kọ̀ sílẹ̀, gbogbo nǹkan tí ó fi di ọkàn rẹ̀ mọ́lẹ̀ yóò dúró sí ipò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "ìlérí"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "opó"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "àti ẹni tí a kọ̀ sílẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo nǹkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "fi di … mọ́lẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "yóò dúró sí ipò"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:03:57.052005078Z",
+  "model": "glm-5.3"
+}

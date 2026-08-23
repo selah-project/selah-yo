@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó wí pé: Da ọwọ́ rẹ padà sí ìbàdí rẹ. Ó sì da ọwọ́ rẹ padà sí ìbàdí rẹ, ó sì mú i jáde kúrò nínú ìbàdí rẹ, kíyèsi i, ó sì ti di padà bí ẹran ara rẹ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó wí"
+    },
+    {
+      "surface": "השב",
+      "gloss": "da … padà"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "ìbàdí rẹ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sì da … padà"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "ìbàdí rẹ"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "sì mú i jáde"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "kúrò nínú ìbàdí rẹ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kíyèsi i"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "ti di padà"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "bí ẹran ara rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:20.329577150Z",
+  "model": "glm-5.3"
+}

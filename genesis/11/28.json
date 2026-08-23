@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Haran sì kú níwájú Terah baba rẹ̀, ní ilẹ̀ ìbímọ rẹ̀, ní Ur ti Kasdim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "sì kú"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "פני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "ìbímọ rẹ̀"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ní Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ti Kasdim"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:27.395339354Z",
+  "model": "glm-5.3"
+}

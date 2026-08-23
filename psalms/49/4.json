@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Ẹnu mi yóò sọ ⟨àwọn⟩ ọgbọ́n,ìrora ọkàn mi sì ní ìmọ̀-ọgbọ́n.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "yóò sọ"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ọgbọ́n (àwọn)"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "ìrora (ọkàn)"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ìmọ̀-ọgbọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:00.490308302Z",
+  "model": "glm-5.3"
+}

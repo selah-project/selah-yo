@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Mo tẹ̀ sí ibi jìn-ìn tí kò ní ìṣẹ́ dúró; mo wọ̀ sí jìn-jìn omi; ìjìnlọ̀nà sì gbé mi lọ.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Mo tẹ̀ sí"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "jìn-ìn tí kò ní ìṣẹ́ dúró"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "ìṣẹ́ dúró"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "mo wọ̀ sí"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "jìn-jìn ti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "ìjìnlọ̀nà"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "gbé mi lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:20.996900917Z",
+  "model": "glm-5.3"
+}

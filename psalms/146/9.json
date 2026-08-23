@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 146,
+  "translation": "Yahweh ń ṣọ́ ⟨את⟩ àwọn àjèjì; ó ń gbé àwọn ọmọ-aláìní-bàbá àti àwọn opó lọ́run, ṣùgbọ́n ọ̀nà àwọn ènìyàn búburú ló ń yí tì.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ń ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àjèjì"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "àwọn àjèjì"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ọmọ-aláìní-bàbá"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "àti àwọn opó"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "ń gbé lọ́run"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ṣùgbọ́n ọ̀nà"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn ènìyàn búburú"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ń yí tì"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:34.163431042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Ṣùgbọ́n ìwọ, Yahweh Adonai, ṣe ⟨את⟩ n̄pa mi nítorí orúkọ rẹ, nítorí pé dára ni chesed rẹ; gba mi lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ṣùgbọ́n ìwọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "n̄pa mi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed rẹ"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "gba mi lọ́wọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:46.076970839Z",
+  "model": "glm-5.3"
+}

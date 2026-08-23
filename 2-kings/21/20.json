@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ó ṣe búburú ní ojú Yahweh, gẹ́gẹ́ bí Menasheh baba rẹ̀ ti ṣe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ti ṣe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:36:23.387927962Z",
+  "model": "glm-5.3"
+}

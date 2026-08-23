@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Òun sì ni ó pa sarí ⟨את⟩ olórí àwọn aláàárò, gẹ́gẹ́ bí Yosef ti ṣe ìtúpalẹ̀ fún wọn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sì ⟨את⟩",
+      "marks": "olórí àwọn aláàárò"
+    },
+    {
+      "surface": "שר",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "àwọn aláàárò"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "ó pa...ólè"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "ṣe ìtúpalẹ̀"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:42.055520322Z",
+  "model": "glm-5.3"
+}

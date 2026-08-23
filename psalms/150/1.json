@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 150,
+  "translation": "Ẹ ṣe ìyìn fún Yah; ẹ ṣe ìyìn fún El ní ààyè ìmímọ́ rẹ̀; ẹ ṣe ìyìn fún ⟨olú-òun⟩ ní rúkú-rúkú agbára rẹ̀.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ẹ ṣe ìyìn"
+    },
+    {
+      "surface": "יה",
+      "gloss": "fún Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ẹ ṣe ìyìn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún El"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ní ààyè ìmímọ́ rẹ̀"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ẹ ṣe ìyìn fún ⟨olú-òun⟩"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "ní rúkú-rúkú"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "agbára rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:49.168356509Z",
+  "model": "glm-5.3"
+}

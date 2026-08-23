@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 9:18",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ó sì pa ⟨את⟩ màlúù náà àti ⟨את⟩ agbo kan náà, ẹ̀bùn àlàáfíà fún ènìyàn náà; àwọn ọmọ Aharon sì mú ⟨את⟩ ẹjẹ́ náà wá fún un, ó sì tú u ka lórí pẹpẹ́ náà ní gbogbo ẹ̀gbẹ́.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "Ó sì pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "màlúù náà"
+    },
+    {
+      "surface": "השור",
+      "gloss": "màlúù náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "agbo kan náà"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "agbo kan náà"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ẹ̀bùn ìrúbọ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó jẹ́"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "fún ènìyàn náà"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "àwọn … sì mú … wá"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹjẹ́ náà"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ẹjẹ́ náà"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "ó sì tú u ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ́ náà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní gbogbo ẹ̀gbẹ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:57.184101007Z",
+  "model": "glm-5.3"
+}

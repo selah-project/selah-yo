@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ipá mi àti orin mi ni Yah, ó sì di ìgbàlà fún mi. Èyí ni El mi; èmi yóò yọ sí i; Elohim ti bàbá mi, èmi yóò gbé ga ọ́.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ipá mi"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "àti orin mi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì di"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mi"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "èmi yóò yọ sí i"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ti bàbá mi"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "èmi yóò gbé ga ọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:20:51.528769686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ní kíkọ́ ti mo kọ́ ilé zevul fún ọ, ibi ìdídùró fún ìgbà tí ó pé láé.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ní kíkọ́"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ti mo kọ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "zebul"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ibi ìdídùró"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "fún ìgbà ìjókòó rẹ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "tí ó pé láé"
+    }
+  ],
+  "timestamp": "2026-08-23T05:51:04.434669346Z",
+  "model": "glm-5.3"
+}

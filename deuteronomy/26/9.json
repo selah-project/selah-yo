@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ó sì mú wá wá sí ibi yìí, ó sì fún wa ni ⟨את⟩ ilẹ̀ yìí — ilẹ̀ tí ń sàn wara àti oyin.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "Ó sì mú wá wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fún"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "tí ń sàn"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "wara"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "àti oyin"
+    }
+  ],
+  "timestamp": "2026-08-23T00:17:56.110723032Z",
+  "model": "glm-5.3"
+}

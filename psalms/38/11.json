@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Ọkàn mi ń ṣàárẹ́, agbára mi ti fi mi sílẹ̀, àti ìmọ́lẹ̀ ojú mi, àwọn náà kò wà pẹ̀lú ⟨את⟩ mi.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "ń ṣàárẹ́"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "ti fi mi sílẹ̀"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "agbára mi"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "àti ìmọ́lẹ̀"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "àwọn náà"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò wà"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pẹ̀lú",
+      "marks": "mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:22.135313922Z",
+  "model": "glm-5.3"
+}

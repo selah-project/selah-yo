@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Kenaan sì bí ⟨את⟩ Tsidon àkọ́bí rẹ̀, àti ⟨את⟩ Heti.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kenaan sì"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "àkọ́bí rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Heti"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heti"
+    }
+  ],
+  "timestamp": "2026-08-23T05:39:03.518141628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "àti ⟨את⟩ Cholon pẹ̀lú ⟨את⟩ ilẹ̀ rẹ̀, àti ⟨את⟩ Devir pẹ̀lú ⟨את⟩ ilẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Cholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Cholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pẹ̀lú ⟨את⟩",
+      "marks": "ilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pẹ̀lú ⟨את⟩",
+      "marks": "ilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ilẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:29:57.572097489Z",
+  "model": "glm-5.3"
+}

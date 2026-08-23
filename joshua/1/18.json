@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ẹnikẹ́ni tí ó bá kọ̀ ⟨את⟩ ẹnu rẹ, tí kò sì gbọ́ ⟨את⟩ ọ̀rọ̀ rẹ, ní gbogbo nǹkan tí ó bá pàṣẹ fún un, ni wọ́n ó kì í; ní ṣe ṣe alágbára, kí o sì ṣe lókàn.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ẹnikẹ́ni (gbogbo)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnikẹ́ni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "kọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹnu rẹ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ẹnu rẹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tí kò sì"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ rẹ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ọ̀rọ̀ rẹ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ní gbogbo nǹkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "pàṣẹ fún un"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ni wọ́n ó kì í"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ní ṣe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ṣe alágbára"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "kí o sì ṣe lókàn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:22:49.199628515Z",
+  "model": "glm-5.3"
+}

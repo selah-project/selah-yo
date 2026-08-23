@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Kò fi ènìyàn sílẹ̀ láti pa wọ́n lẹ́tùn, ó sì bu ọ̀tún lórí àwọn ọba nítorí wọn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "fi sílẹ̀"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "láti pa wọ́n lẹ́tùn"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "ó sì bu ọ̀tún"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lórí wọn"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "àwọn ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:03.193053020Z",
+  "model": "glm-5.3"
+}

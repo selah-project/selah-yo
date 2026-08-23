@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Fún Shelomoh. Elohim, fún ọba ní àwọn ìdájọ́ rẹ, àti ìdọ̀tun rẹ fún ọmọ ọba.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Fún Shelomoh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "àwọn ìdájọ́ rẹ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fún ọba"
+    },
+    {
+      "surface": "תן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "àti ìdọ̀tun rẹ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "fún ọmọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:12.459874590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Wò ó, dáhùn mi, Yahweh Elohim mi; ṣe ìtọ́jú ojú mi, kí nínú ìdúró mi má ṣeré ìdúró ikú.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "dáhùn mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "ṣe ìtọ́jú"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí … má ṣeré"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "mi má ṣeré"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ìdúró ikú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:34.447412078Z",
+  "model": "glm-5.3"
+}

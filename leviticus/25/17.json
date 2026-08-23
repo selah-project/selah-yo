@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ki ẹ sì gbé ẹnìkan láyà; ṣùgbọ́n ki ẹ beru Elohim yín; nítorí pé èmi ni Yahweh, Elohim yín.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ki ẹ sì máa"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "gbé … láyà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnìkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹlẹgbẹ́ rẹ̀"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "ẹlẹgbẹ́ rẹ̀"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ki ẹ beru"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:18.862016466Z",
+  "model": "glm-5.3"
+}

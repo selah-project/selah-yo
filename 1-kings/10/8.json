@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Aláàfià ni àwọn ọkùnrin rẹ̀; aláàfià ni àwọn ìránṣẹ́ rẹ̀ wọnyí, àwọn tí ó ń dúró níwájú rẹ̀ nígbà gbogbo, tí ó ń gbọ́ ⟨את⟩ ọgbọ́n rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Aláàfià ni"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "àwọn ọkùnrin rẹ̀"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "aláàfià ni"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "àwọn tí ó ń dúró"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "níwájú rẹ̀"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "tí ó ń gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbọ́n rẹ̀"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ọgbọ́n rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:16:16.596824316Z",
+  "model": "glm-5.3"
+}

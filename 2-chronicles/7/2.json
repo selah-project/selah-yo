@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àwọn àlùfáà kò lè wọ inú ilé Yahweh, nítorí ìgbàga Yahweh ti kún ⟨את⟩ ilé Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "lè"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "wọ inú"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inú"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ti kún"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ìgbàga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T05:24:43.124119509Z",
+  "model": "glm-5.3"
+}

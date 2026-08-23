@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Nítorí chesed ni mo fẹ́, kì í ṣe ẹbọ ìpè; àti ìmọ̀ Elohim, ju ẹbọ ẹ̀tù lọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "mo fẹ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ẹbọ ìpè"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "àti ìmọ̀"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "ju ẹbọ ẹ̀tù lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:00:31.136361818Z",
+  "model": "glm-5.3"
+}

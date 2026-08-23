@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Òun kò ṣe ⟨את⟩ gbogbo àwọn wọnyí; nítorí pé ó sì jẹun lórí àwọn òkè, ó sì sọ ⟨את⟩ aya ẹlòmíràn di èepe.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn wọnyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọnyí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sì"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ó jẹun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ó sì sọ ⟨את⟩",
+      "marks": "aya ẹlòmíràn"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "aya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ẹlòmíràn"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "di èepe"
+    }
+  ],
+  "timestamp": "2026-08-23T02:40:09.936449441Z",
+  "model": "glm-5.3"
+}

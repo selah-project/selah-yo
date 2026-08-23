@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ẹ̀yin ọmọ àwọn ènìyàn, tí ìgbà wo ni kí ógún mi di àbùkẹ̀? Ẹyin fẹ́ òfo, ẹyin ń wá ìró. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ẹ̀yin ọmọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tí ìgbà wo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ókí mi"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "di àbùkẹ̀"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "Ẹyin fẹ́"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "òfo"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "ẹyin ń wá"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ìró"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:19.975122209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Wọn yóò sì fò bá èjìká àwọn Filisiti sí ìwọ̀-òòrùn; papọ̀ ni wọn yóò jí ⟨את⟩ àwọn ọmọ ìlà-oòrùn gbà; Edomu àti Moabu — ìfiránṣẹ́ ọwọ́ wọn; àwọn ọmọ Ammonu sì — ìgbọ́ràn wọn.",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "Wọn yóò sì fò bá"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "èjìká"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Filisiti"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "sí ìwọ̀-òòrùn"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "papọ̀"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "yóò jí... gbà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ ìlà-oòrùn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ìlà-oòrùn"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "àti Moabu"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "ìfiránṣẹ́"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ọwọ́ wọn"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "àwọn ọmọ... sì"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonu"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "ìgbọ́ràn wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:54:31.023356138Z",
+  "model": "glm-5.3"
+}

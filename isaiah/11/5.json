@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ìdájọ́ ododo yóò jẹ́ ìpàjà ìdí rẹ̀, ìgbẹ́kẹ̀ gbà yóò sì jẹ́ ìpàjà ìdí rẹ̀ kejì.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ìdájọ́ ododo"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "ìpàjà"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "ìdí rẹ̀"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "ìgbẹ́kẹ̀ gbà"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "ìpàjà"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "ìdí rẹ̀ kejì"
+    }
+  ],
+  "timestamp": "2026-08-23T01:44:22.361923343Z",
+  "model": "glm-5.3"
+}

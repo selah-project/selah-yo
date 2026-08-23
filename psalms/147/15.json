@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Ẹni tí ó ń ránṣẹ́ àṣẹ rẹ sí ilẹ̀ ayé; kíákíá ni ọ̀rọ̀ rẹ̀ ń sáré.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Ẹni tí ó ń ránṣẹ́"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "àṣẹ rẹ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "díẹ̀-díẹ̀ kí"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "kíákíá"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ń sáré"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ọ̀rọ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:09.154715445Z",
+  "model": "glm-5.3"
+}

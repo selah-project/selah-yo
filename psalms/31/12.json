@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Nítorí mo di ìbanilọ́lá níwọ̀ gbogbo ọ̀tá mi, àti fún àwọn aládùúgbò mi pàtàkì; ìrùn-ẹru fún àwọn ìmọ̀ràn mi; àwọn tí ó rí mi ní ìta sá lọ kúrò̀ lọ́dọ̀ mi.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "níwọ̀ gbogbo"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ọ̀tá mi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mo di"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ìbanilọ́lá"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "àti fún àwọn aládùúgbò mi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pàtàkì"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "àti ìrùn-ẹru"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "fún àwọn ìmọ̀ràn mi"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "tí ó rí mi"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ní ìta"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "sá lọ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kúrò̀ lọ́dọ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:47.902633323Z",
+  "model": "glm-5.3"
+}

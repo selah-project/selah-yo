@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Wọ́n ń ké fún ìrànlọ́wọ́, síbẹ̀ síì alágbàwọ́là kò sí; sí Yahweh, ó sì kò dáhùn wọn.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "wọ́n ń ké"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sìbẹ̀ síì … kò sí"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "alágbàwọ́là"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sì kò"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "dáhùn wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:46.474157486Z",
+  "model": "glm-5.3"
+}

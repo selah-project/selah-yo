@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 86,
+  "translation": "Fún ọkàn èrú rẹ ní ayọ̀, nítorí tí sí ọ ni, Adonai, mo n gbé ọkàn mi sókè.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "fún ní ayọ̀"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "èrú rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mo n gbé sókè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:32.644622533Z",
+  "model": "glm-5.3"
+}

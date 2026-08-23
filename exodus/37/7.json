@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ó sì ṣe kerubu méjì wúrà; iṣẹ́ ìlù-mọ́ni-lọ ni ó fi ṣe ⟨אתם⟩ wọn, ní ẹ̀gbẹ́ méjì ti ojú-iṣẹ́ ìkọ́rà náà.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "iṣẹ́ ìlù-mọ́ni-lọ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó fi ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wọn (àwọn kerubu)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ní ẹ̀gbẹ́ méjì"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ìgbàlẹ̀"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ojú-iṣẹ́ ìkọ́rà náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:33.015358784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ìwọ kò sì ṣe keruvim méjì wúrà; iṣẹ́ ìlù-láti-ín-ìṣẹ́fọ̀ ni wọ́n fi ń ṣe wọ́n ⟨את⟩ láti ẹ̀gbẹ́ méjì ìkángun kapporet náà.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ìwọ kò sì ṣe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruvim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "iṣẹ́ ìlù-láti-ín-ìṣẹ́fọ̀"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ni wọ́n fi ń ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọ́n (keruvim méjì náà)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "láti ẹ̀gbẹ́ méjì"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ìkángun"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:14.242494234Z",
+  "model": "glm-5.3"
+}

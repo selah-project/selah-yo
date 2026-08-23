@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìgbéga ni mo fi fún ⟨את⟩ àwọn òkú tí wọ́n ti kú jáà tẹ́lẹ̀, lórí àwọn ààyè tí wọ́n ṣi jẹ́ èémí títí di ìsinsìnyí.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "Ìgbéga ni mo fi fún"
+    },
+    {
+      "surface": "אני",
+      "gloss": "(èmi)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òkú"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "àwọn òkú"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "tí wọ́n ti … jáà tẹ́lẹ̀"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "kú"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lórí \/ ju … lọ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "àwọn ààyè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ṣi jẹ́ èémí"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "títí di ìsinsìnyí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:14.945619999Z",
+  "model": "glm-5.3"
+}

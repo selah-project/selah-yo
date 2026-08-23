@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Yahweh sì wà ⟨את⟩ Yosef, ó sì fa chesed dé ọ̀dọ̀ rẹ̀, ó sì fi ìfaradà sílẹ̀ nínú ojú olórí ilé ẹ̀wọn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sì wà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ó sì fa dé"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fi sílẹ̀"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "ìfaradà"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nínú ojú"
+    },
+    {
+      "surface": "שר",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ẹ̀wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:09:15.626100346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Yahweh ń ṣe àtìlẹyìn fún àwọn aláṣẹ̀-ẹnu; ó ń fi àwọn ènìyàn búburú doọ̀dọ̀ sí ilẹ̀ ayé",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "ń ṣe àtìlẹyìn"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "àwọn aláṣẹ̀-ẹnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ó ń fi ... doọ̀dọ̀"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn ènìyàn búburú"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sí ìparí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:30.351017056Z",
+  "model": "glm-5.3"
+}

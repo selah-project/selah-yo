@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Wo ìrùsílẹ̀ mi àti ìṣẹ́ mi, dẹ́kun gbogbo ẹ̀ṣẹ̀ mi.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ìrùsílẹ̀ mi"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "àti ìṣẹ́ mi"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "dẹ́kun"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "ẹ̀ṣẹ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:13.965421903Z",
+  "model": "glm-5.3"
+}

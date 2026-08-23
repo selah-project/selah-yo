@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Ẹni tí ó ń fi àlàáfíà sí ìpalẹ̀ rẹ; ó mú ọ kún ní óró búràrà ti ó dára jùlọ.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Ẹni tí ó ń fi … sí"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ìpalẹ̀ rẹ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "óró ti ó dára jùlọ"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "búràrà"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "ó mú ọ kún"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:09.154579778Z",
+  "model": "glm-5.3"
+}

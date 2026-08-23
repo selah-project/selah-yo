@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Nísinsin yìí, jẹ̀ kí o wá; èmi yóò ṣedára ìmọ̀ràn fún ẹ, kí o lè gba ⟨את⟩ ẹ̀mí rẹ, àti ⟨את⟩ ẹ̀mí ọmọ rẹ Shelomoh là.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "nísinsin yìí"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "jẹ̀ kí o wá"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "èmi yóò ṣedára ìmọ̀ràn fún ẹ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọwọ́"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ìmọ̀ràn"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "kí o lè gba…là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí rẹ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ẹ̀mí rẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí ọmọ rẹ Shelomoh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ọmọ rẹ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-23T01:09:50.876090882Z",
+  "model": "glm-5.3"
+}

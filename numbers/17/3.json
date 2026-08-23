@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 17:3",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "⟨Àwọn⟩ ìdáná iná àwọn ẹlẹ̀ṣẹ̀ wọnyí, tí ó sẹ̀ pẹ̀lú ẹ̀mí wọn ṣẹ́ — kí wọ́n sì ṣe ⟨אתם⟩ ní àwọn onírúurú tí a lu tì, dídí fún pẹpẹ ìṣẹ́lẹ̀ náà, nítorí pé wọ́n ti gbé wọn sí ojú Yahweh, nítorí náà wọ́n di mímọ́ — kí wọ́n sì jẹ́ àmì fún àwọn ọmọ Yisrael.\"",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìdáná iná àwọn ẹlẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "àwọn ìdáná iná"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "àwọn ẹlẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "בנפשתם",
+      "gloss": "pẹ̀lú ẹ̀mí wọn ṣẹ́"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "kí wọ́n sì ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "àwọn onírúurú tí a lu tì"
+    },
+    {
+      "surface": "רקעי",
+      "gloss": "àwọn onírúurú tí a lu tì"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "onírúurú (àwọ̀n irin)"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "dídí fún"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "pẹpẹ ìṣẹ́lẹ̀ náà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "הקריבם",
+      "gloss": "wọ́n ti gbé wọn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sí ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויקדשו",
+      "gloss": "wọ́n di mímọ́"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "kí wọ́n sì jẹ́"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "àmì"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-22T23:57:33.035305505Z",
+  "model": "glm-5.3"
+}

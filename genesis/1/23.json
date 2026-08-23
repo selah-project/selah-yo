@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì di ìrọ̀lẹ́, ó sì di àárọ̀ — ọjọ́ karùn-ún.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì di"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ìrọ̀lẹ́"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì di"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "àárọ́"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "karùn-ún"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:20.668601695Z",
+  "model": "glm-5.3"
+}

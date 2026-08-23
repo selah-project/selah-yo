@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Yehonatan ọmọ Shaul sì dìde, ó lọ sí ọ̀dọ̀ Dawid ní igbó, ó sì mú ⟨את⟩ ọwọ́ rẹ̀ lẹ́ẹ̀ṣẹ̀sẹ̀ nínu Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sì dìde"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "sì lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "ní igbó"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "sì fi lẹ́ẹ̀ṣẹ̀sẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nínu Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T00:53:06.079125685Z",
+  "model": "glm-5.3"
+}

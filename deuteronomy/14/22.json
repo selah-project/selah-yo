@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ẹ gbọdọ̀ ṣe èwón-ẹ̀wá ⟨את⟩ gbogbo èso irúgbìn yín, èyí tí pápá ń jáde, ọdọọdún.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ẹ gbọdọ̀ ṣe èwón-ẹ̀wá"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "ṣe èwón-ẹ̀wá (dájúdájú)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo èso irúgbìn yín"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "èso (èrè)"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "irúgbìn yín"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "tí ó ń jáde"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pápá (àwọn)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    }
+  ],
+  "timestamp": "2026-08-23T00:12:36.683247392Z",
+  "model": "glm-5.3"
+}

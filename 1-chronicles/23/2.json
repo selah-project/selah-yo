@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ó sì jogún ⟨את⟩ gbogbo àwọn adarí Yisrael papọ̀, àti àwọn àlùfáà àti àwọn Leví.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Ó sì jogún … papọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn adarí Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "àwọn adarí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "àti àwọn àlùfáà"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "àti àwọn Leví"
+    }
+  ],
+  "timestamp": "2026-08-23T06:13:51.326560697Z",
+  "model": "glm-5.3"
+}

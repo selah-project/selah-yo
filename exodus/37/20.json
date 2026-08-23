@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 37:20",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Àti ní menoralahi, àgbá mẹrin tí ó jọ ewé rọ̀bì, pẹ̀lú àwọn ikọ̀ rẹ̀ àti àwọn òdọ̀dọ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "Àti ní menoralahi"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "mẹrin"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "àgbá"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "tí ó jọ ewé rọ̀bì"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "àwọn ikọ̀ rẹ̀"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "àti àwọn òdọ̀dọ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:52.959334674Z",
+  "model": "glm-5.3"
+}

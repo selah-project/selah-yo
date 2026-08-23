@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àti ọwọ́ ènìyàn lábẹ́ ìyẹ́ wọn, lórí àwọn ẹ̀gbẹ́ mẹ́rẹ̀ẹ̀rin wọn; ọ̀kọ̀kan wọn sì ní ojú àti ìyẹ́ fún ẹ̀yà mẹ́rẹ̀ẹ̀rin wọn.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "Àti ọwọ́"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "ìyẹ́ wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "mẹ́rẹ̀ẹ̀rin"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "ẹ̀gbẹ́ wọn"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "àti ojú wọn"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "àti ìyẹ́ wọn"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "fún ẹ̀yà mẹ́rẹ̀ẹ̀rin wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:32:22.057329922Z",
+  "model": "glm-5.3"
+}

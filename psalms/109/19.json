@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Kí ó jẹ́ ti rẹ̀ bí aṣọ tí ó wọ, àti bí ìṣọ́tí tí ó máa ń ṣe ní gbogbo ìgbà.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Kí ó jẹ́"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ti rẹ̀"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "bí aṣọ"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "tí ó wọ"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "àti bí ìṣọ́tí"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ní gbogbo ìgbà"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "tí ó máa ń ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:22.758094687Z",
+  "model": "glm-5.3"
+}

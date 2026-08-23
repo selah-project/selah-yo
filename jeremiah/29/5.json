@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ẹ kọ́ àwọn ilé, ẹ sì gbé inú wọn; ẹ gbin àwọn ọgbà, ẹ sì jẹ ⟨את⟩ èso wọn.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "ẹ kọ́"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "àwọn ilé"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ẹ sì gbé inú wọn"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ẹ gbin"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "àwọn ọgbà"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ẹ sì jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èso wọn"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "èso wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:21:07.091491118Z",
+  "model": "glm-5.3"
+}

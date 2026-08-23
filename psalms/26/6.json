@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Mo máa ọwọ́ mi mọ́ ní mímọ́, Yahweh, kí n lè yí iwájú pẹ̀lú ⟨את⟩ àárín-ìjàbọ̀ rẹ káàkiri.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Mo máa ọwọ́ mi mọ́"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ní mímọ́"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "kí n lè yí iwájú káàkiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àárín-ìjàbọ̀ rẹ"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "àárín-ìjàbọ̀ rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:19.766482173Z",
+  "model": "glm-5.3"
+}

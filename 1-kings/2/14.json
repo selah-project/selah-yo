@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì sọ pé: Ọ̀rọ̀ kan mo ní fún ọ̀. Ó sì sọ pé: Sọ ọ́.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì sọ pé"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀ kan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo ní"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "fún ọ̀"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ó sì sọ pé"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Sọ ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:29.830996414Z",
+  "model": "glm-5.3"
+}

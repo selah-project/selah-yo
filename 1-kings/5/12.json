@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ó sọ àwọn òwe ẹgbẹ̀run mẹ́ta, àwọn orin rẹ̀ sì jẹ́ ẹgbẹ̀run kan àti márùn-ún.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ó-sọ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ẹgbẹ̀run"
+    },
+    {
+      "surface": "משל",
+      "gloss": "àwọn-òwe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó-sì-jẹ́"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "àwọn-orin-rẹ̀"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "márùn-ún"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "àti-ẹgbẹ̀run-kan"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:27.905078720Z",
+  "model": "glm-5.3"
+}

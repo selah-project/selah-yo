@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ṣé àwọn ọlọ́run ti àwọn orílẹ̀-dè, ẹ̀kan-ẹ̀kan, ti gbà ⟨את⟩ ilẹ̀ rẹ̀ là nínú ọwọ́ ọba Ashur?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "Ṣé ó ti gbà là"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ti gbà là"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "àwọn ọlọ́run"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ti àwọn orílẹ̀-dè"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹ̀kan-ẹ̀kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nínú ọwọ́"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:24.727353118Z",
+  "model": "glm-5.3"
+}

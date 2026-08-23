@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Fún ta ni ẹ fi dà mí? ẹ sì fi dé ⟨gẹ́gẹ́⟩, ẹ sì fi ọ̀nà dà mí, kí a lè jọ dàra?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "fún ta"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "ẹ fi dà mí"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "ẹ sì fi dé ⟨gẹ́gẹ́⟩"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "ẹ sì fi ọ̀nà dà mí"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "kí a lè jọ dàra"
+    }
+  ],
+  "timestamp": "2026-08-23T01:58:21.693213645Z",
+  "model": "glm-5.3"
+}

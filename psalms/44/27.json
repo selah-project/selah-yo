@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Dìde fún ìrànlọ́wọ́ wa, ki o sì là wá nítorí chesed rẹ.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "dìde"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "ìrànlọ́wọ́"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "ki o sì là wá"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:39.181290758Z",
+  "model": "glm-5.3"
+}

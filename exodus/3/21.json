@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Èmi yóò sì fún ⟨את⟩ àánú ènìyàn yìí ní ojú àwọn ará Mitzrayim; ó sì jẹ́ pé nígbà tí ẹ̀yin bá lọ, ẹ kì í lọ láìní ohunkóhun.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Èmi yóò sì fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àánú"
+    },
+    {
+      "surface": "חן",
+      "gloss": "àánú"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "àwọn ará Mitzrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ó sì jẹ́ pé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "ẹ̀yin bá lọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "láìní ohunkóhun"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:35.251423194Z",
+  "model": "glm-5.3"
+}

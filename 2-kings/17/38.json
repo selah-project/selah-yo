@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 17:38",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Àti májẹ̀mú tí mo gé ⟨את⟩ pẹ̀lú yín, ẹ má ṣe gbagbé rẹ̀; ẹ má ṣe bẹ̀rù àwọn elohim mìíràn.",
+  "tokens": [
+    {
+      "surface": "והברית",
+      "gloss": "àti májẹ̀mú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "mo gé"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pẹ̀lú yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "gbagbé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bẹ̀rù"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "mìíràn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:09.705269469Z",
+  "model": "glm-5.3"
+}

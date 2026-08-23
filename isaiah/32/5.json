@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "A kì yóò ì tún pè aláìṣe ní olóore, àti aláìkọ̀ kì í ṣe pé a sọ ọ́ pé ó lọ́rọ̀.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "a pè"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tún"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "aláìṣe"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "olóore"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "àti aláìkọ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a sọ"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "ó lọ́rọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:51:36.753226563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 16:5",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ìlànà àwọn ọmọ Efrayim wùyí, fún àwọn ẹbí wọn; ìlànà ìdí-ogún wọn já ní ìhà-ìlà-oòrùn, Atarot-Adar, títí dé Beit-Choron Òkè.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó wùyí"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ìlànà"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "fún àwọn ẹbí wọn"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó wùyí"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ìlànà"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "ìdí-ogún wọn"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ní ìhà-ìlà-oòrùn"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Òkè"
+    }
+  ],
+  "timestamp": "2026-08-23T00:28:45.019634313Z",
+  "model": "glm-5.3"
+}

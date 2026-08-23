@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì wí pé: ẹ pe orúkọ rẹ̀ Lo-Ammi, nítorí pé ẹyin kì í ṣe ènìyàn Mi, èmi náà kì ní ṣe tíyin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí pé"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ẹ pe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Lo-Ammi (kì í ṣe ènìyàn Mi)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹyin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ènìyàn Mi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "èmi náà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì ní"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tíyin"
+    }
+  ],
+  "timestamp": "2026-08-23T02:59:30.381537377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 90,
+  "translation": "Ní àárọ̀ ó ń lẹ́wẹ̀ kí ó sì yí padà lọ; ní ìṣẹ́lẹ̀ wọ́n ń gé e kúrò, kí ó sì gbẹ.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Ní àárọ̀"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ó ń lẹ́wẹ̀"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "kí ó sì yí padà lọ"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ní ìṣẹ́lẹ̀"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "wọ́n ń gé e kúrò"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "kí ó sì gbẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:41.335528334Z",
+  "model": "glm-5.3"
+}

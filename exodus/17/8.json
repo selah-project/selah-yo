@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Amalek sì wá, ó sì bá Yisrael jà ní Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì wá"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ó sì jà"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "ní Refidim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:40.226794841Z",
+  "model": "glm-5.3"
+}

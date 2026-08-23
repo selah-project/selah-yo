@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Àwọn okun ikú yí mi kiri, àti ìdíwọ̀ Sheol wá rí mi; ìṣòro àti ìbànújẹ́ ni mo rí.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "yí mi kiri"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "Àwọn okun"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "àti ìdíwọ̀"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "wá rí mi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ìṣòro"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "àti ìbànújẹ́"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "mo rí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:54.318986594Z",
+  "model": "glm-5.3"
+}

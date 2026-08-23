@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Gẹ́gẹ́ bí Yahweh ti pàṣe ⟨את⟩ Moshe ni, bẹ́ẹ̀ ni àwọn ọmọ Yisrael ṣe, wọ́n sì pín ⟨את⟩ ⟨ìlẹ̀ náà⟩.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pàṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "wọ́n sì pín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:28:06.862846751Z",
+  "model": "glm-5.3"
+}

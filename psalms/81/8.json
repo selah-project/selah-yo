@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 81,
+  "translation": "Nínú ìṣòro ní o pè mí, èmi sì gbà wọ́n láàyè; mo dáhùn ọ́ nínu ìkókó-aràn; mo dán wọ́n wò lórí omi Merivah. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "nínú ìṣòro"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "o pè mí"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "mo gbà ọ́ láàyè"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "mo dáhùn ọ́"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nínu ìkókó"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "aràn"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "mo dán ọ́ wò"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מי",
+      "gloss": "omi"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Merivah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:25.186230586Z",
+  "model": "glm-5.3"
+}

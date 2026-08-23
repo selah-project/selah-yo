@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Ìwà ọmọ ènìyàn kò sí lọ́wọ́ mi, ìmọ̀ náà kò sí lọ́wọ́ mi; ohun ẹranko lè jẹ́ níwájú Rẹ́",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ìwà ọmọ ènìyàn kò sí lọ́wọ́ mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti pé kò"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ohun ẹranko"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "níwájú Rẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:28.422855727Z",
+  "model": "glm-5.3"
+}

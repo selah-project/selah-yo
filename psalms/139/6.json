@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Ìmọ̀ ⟨náà⟩ jẹ́ ìwọ̀n ìyanu lọ́wọ́ mi; ó ga lápata, èmi kò lè fi dé.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "ìyanu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ìmọ̀"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "jú mi lọ"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ó ga lápata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fi dé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:06.775973767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Àti ⟨את⟩ Resen láàrin Ninwe àti láàrin Kalach; ìlú ńlá ni ìyẹn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Àti ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàrin"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàrin"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ìyẹn"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ńlá"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:19.676207536Z",
+  "model": "glm-5.3"
+}

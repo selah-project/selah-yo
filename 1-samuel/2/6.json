@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Yahweh ń pa iku, Ó sì ń fún ní ìyè; Ó ń sọ ⟨ẹni⟩ kalẹ̀ sí Sheol, Ó sì gbé ⟨ẹni⟩ sókè.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "ń pa iku"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "ó sì ń fún ní ìyè"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "ó ń sọ kalẹ̀ sí"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ó sì gbé sókè"
+    }
+  ],
+  "timestamp": "2026-08-23T00:42:13.496363801Z",
+  "model": "glm-5.3"
+}

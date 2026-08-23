@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àti ohun èlò amọ̀ tí a bá ti sè ⟨ní⟩ nínú rẹ̀, a ó fọ́ ọ́; ṣùgbọ́n tí a bá sè ọ́ nínú ohun èlò idẹ, a ó kọ̀ ọ́ ní kíkọ̀, a ó sì gbá ọ́ nínú omi.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "Àti ohun èlò"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "amọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "a bá ti sè"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "a ó fọ́ ọ́"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ṣùgbọ́n tí"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "nínú ohun èlò"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "idẹ"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "a bá sè ọ́"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "a ó kọ̀ ọ́ ní kíkọ̀"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "a ó sì gbá ọ́"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nínú omi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:08.810038092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Èmi yóò sọ ọwọ́ mi padà sí ọ̀, èmi yóò sọ́ àwọn ìdálẹ́ rẹ̀ mó púrẹ́, èmi yóò yọ gbogbo fúlààdí rẹ kúrò.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "èmi yóò sọ padà"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sí ọ̀"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "èmi yóò sọ́ mọ́"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "pẹ̀lú ohun ìwọ̀ fúnnú"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "ìdálẹ́ rẹ"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "èmi yóò yọ kúrò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "fúlààdí rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:38:53.324100721Z",
+  "model": "glm-5.3"
+}

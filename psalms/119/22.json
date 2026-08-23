@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Yọ kúrò lórí mi ìbanújẹ́ àti ẹ̀gàn, nítorí pé èmi ti ṣọ́ àwọn ẹ̀rí Rẹ.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Yọ (kúrò)"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ìbanújẹ́"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "àti ẹ̀gàn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "àwọn ẹ̀rí Rẹ"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "èmi ti ṣọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:27.089005369Z",
+  "model": "glm-5.3"
+}

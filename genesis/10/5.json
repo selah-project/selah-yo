@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Láti àwọn wọnyí ni àwọn etí odò ti àwọn orílẹ̀-èdè pín sí ní àwọn ilẹ̀ wọn, ẹni kọ̀ọ̀kan ní èdè rẹ̀, sí àwọn ẹbí wọn ní àwọn orílẹ̀-èdè wọn.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "láti àwọn wọnyí"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "pín sí"
+    },
+    {
+      "surface": "איי",
+      "gloss": "àwọn etí odò"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ti àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ní àwọn ilẹ̀ wọn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni kọ̀ọ̀kan"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "ní èdè rẹ̀"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sí àwọn ẹbí wọn"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "ní àwọn orílẹ̀-èdè wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:54.702658860Z",
+  "model": "glm-5.3"
+}

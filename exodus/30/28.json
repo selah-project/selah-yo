@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "àti ⟨את⟩ pẹpẹ ẹbi-ìsún náà àti ⟨את⟩ gbogbo irinṣẹ́ rẹ̀, àti ⟨את⟩ kòkòrò ìwẹ̀ náà àti ⟨את⟩ ìdí rẹ̀",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "pẹpẹ ẹbi-ìsún náà"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbi-ìsún náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "kòkòrò ìwẹ̀ náà"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kòkòrò ìwẹ̀ náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìdí rẹ̀"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ìdí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:46.400102666Z",
+  "model": "glm-5.3"
+}

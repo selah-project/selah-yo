@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "àwọn ọmọ márùn-ún tí ó kú ṣáájú Haman ọmọ Hamedata, ọ̀tá àwọn Júù — wọ́n pa wọn; ṣùgbọ́n nípa ohun ìjínigbé wọn ò té ọwọ́ wọn ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "márùn-ún tí ó kú ṣáájú (mẹ́wàá)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamedata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "ọ̀tá"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "àwọn Júù"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "wọ́n pa wọn"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "ṣùgbọ́n nípa ohun ìjínigbé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "wọn ò té"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ wọn"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ọwọ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:46:24.957543751Z",
+  "model": "glm-5.3"
+}

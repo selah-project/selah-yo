@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 120,
+  "translation": "Yahweh, gbà mí là, ẹ̀mí mí, lọ́wọ́ ètè èké, lọ́wọ́ ahọ́n ìdanìyàn.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "gbà mí là"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mí"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "lọ́wọ́ ètè"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "èké"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "lọ́wọ́ ahọ́n"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ìdanìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:25.248723625Z",
+  "model": "glm-5.3"
+}

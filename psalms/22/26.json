@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "⟨את⟩ ní ọ̀dọ̀ rẹ ni ìyin mi ⟨wà⟩ nínú àpérò ńlá; èémí mi ni mo máa ṣẹ́ níwájú àwọn tí ń bẹ̀rù rẹ̀.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ ní ọ̀dọ̀ rẹ",
+      "marks": "ìyin mi"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ìyin mi"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nínú àpérò"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "èémí mi"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "mo máa ṣẹ́"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "àwọn tí ń bẹ̀rù rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:17.148384302Z",
+  "model": "glm-5.3"
+}

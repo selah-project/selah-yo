@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ṣùgbọ́n Yahweh, Elohim yín, ni ẹ gbọdọ̀ bẹ̀rù ⟨את⟩; òun ni yóò gbà yín là ⟨אתכם⟩ ní ọwọ́ gbogbo ọ̀tá yín.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dájúdájú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ẹ gbọdọ̀ bẹ̀rù"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "yóò gbà là"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yín"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ní ọwọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ọ̀tá yín"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:09.705407610Z",
+  "model": "glm-5.3"
+}

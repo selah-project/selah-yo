@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 127,
+  "translation": "Bí àwọn ọfà ní ọwọ́ alágbára, bẹ́ẹ̀ ni àwọn ọmọ ti ìgbà èwe.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "bí àwọn ọfà"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ní ọwọ́"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "ti ìgbà èwe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:50.313725244Z",
+  "model": "glm-5.3"
+}

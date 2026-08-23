@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 125,
+  "translation": "Nítorí òpá ìkà kì í ṣe é tí kì í sinmi lórí ipín àwọn ẹni-àṣẹ̀mídà, kí àwọn ẹni-àṣẹ̀mídà má ṣe fi ọwọ́ wọn sínú ìwà ìkà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "sinmi"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "òpá"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ìkà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ipín"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "àwọn ẹni-àṣẹ̀mídà"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "fi"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "àwọn ẹni-àṣẹ̀mídà"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "sínú ìwà ìkà"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ọwọ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:07.165787195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Elohim sì pàdé Bilam, ó sì wí fún un pé: Mo ti ṣàkóso ⟨את⟩ àwọn àgàbàgbè méje náà, mo sì gbé màlúù àti àgbò sókè lórí àgàbàgbè náà.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "sì pàdé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àgàbàgbè méje náà"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "méje"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "àwọn àgàbàgbè náà"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "Mo ti ṣàkóso"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "mo sì gbé sókè"
+    },
+    {
+      "surface": "פר",
+      "gloss": "màlúù"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "àti àgbò"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "lórí àgàbàgbè náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:26.311786101Z",
+  "model": "glm-5.3"
+}

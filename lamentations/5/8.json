@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àwọn ẹrú ti ṣe àwáṣe lórí wa; ẹnità ó ba gbà wá jáde láti ọwọ́ wọn kò sí.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "àwọn ẹrú"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ti ṣe àwáṣe lórí"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wa"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ẹnità ó ba gbà jáde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "láti ọwọ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:39:29.879734995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Moshe wí fún wọn pé: Ṣé ẹ gbà gbogbo àwọn obìnrin là?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "Ṣé ẹ gbà … là"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "àwọn obìnrin"
+    }
+  ],
+  "timestamp": "2026-08-23T00:03:39.270231449Z",
+  "model": "glm-5.3"
+}

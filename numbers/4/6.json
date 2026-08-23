@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 4:6",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Wọ́n yóò sì fi ìbò abọ́ tachash sí i lórí, wọ́n yóò sá bẹ́gẹd tó kún fún tchelet lárugbọ́, wọ́n sì yóò gbé òpó rẹ̀ sí i.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "wọ́n yóò fi… sí i lórí"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "ìbò"
+    },
+    {
+      "surface": "עור",
+      "gloss": "abọ́"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tachash"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "wọ́n yóò sá"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "bẹ́gẹd"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "tó kún fún"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tchelet"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "lárugbọ́"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "wọ́n sì yóò gbé… sí i"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "òpó rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:52.450186321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó máa jẹ́ bí igi tí a gbìn sí etí odò, èso rẹ̀ sì máa ń wà ní àkókò rẹ̀, ewé rẹ̀ kì í wẹ́, gbogbo tí ó bá ṣe sì máa ṣeéṣe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ó máa jẹ́"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "bí igi"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "tí a gbìn sí"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí etí"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "odò"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "èso rẹ̀"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "máa ń wà"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ní àkókò rẹ̀"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "ewé rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "wẹ́"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "máa ṣeéṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:23:33.652475813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Àwọn ọmọ Israel sì kígbe sí Yahweh wí pé: A ti ṣẹ̀ ẹ́ ṣínṣín; nítorí tí a ti fi sílẹ̀ ⟨את⟩ Elohim wa, àti tí a jẹ́sín ⟨את⟩ àwọn Baal.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "kígbe sì"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "A ti ṣẹ̀ ẹ́ ṣínṣín"
+    },
+    {
+      "surface": "לך",
+      "gloss": "(sí ọ̀)"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "a ti fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim wa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "àti tí a jẹ́sín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "àwọn Baal"
+    }
+  ],
+  "timestamp": "2026-08-23T00:35:15.057571833Z",
+  "model": "glm-5.3"
+}

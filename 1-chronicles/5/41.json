@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Yehotsadak sì lọ sínú ìgbèkùn nígbà tí Yahweh gbé ⟨את⟩ Yehuda àti Yerushalayim lọ nípa owó Nevukhadnetstsar.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Yehotsadak sì"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "sínú ìgbèkùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "àti Yerushalayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nípa owó"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukhadnetstsar"
+    }
+  ],
+  "timestamp": "2026-08-23T05:09:13.326621251Z",
+  "model": "glm-5.3"
+}

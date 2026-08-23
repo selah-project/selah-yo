@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Achav sì pe sí Ovadyahu, tí ó rí ⟨את⟩ ilé; Ovadyahu sì jẹ́ ẹni tí ó ń bẹ́rù ⟨את⟩ Yahweh púpọ̀.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "pe sí"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó"
+    },
+    {
+      "surface": "על",
+      "gloss": "rí"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "Ovadyahu sì"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ń bẹ́rù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:21:49.806891358Z",
+  "model": "glm-5.3"
+}

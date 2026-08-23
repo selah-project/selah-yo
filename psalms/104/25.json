@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Òkun yìí, tó tóbi, tó si gbòòrò nígbogbo; níbẹ̀ ni àwọn ohun tí ń ṣàjònà wà, tí kò lónìíka — àwọn ẹdá alàyè kéékèké pẹ̀lú ⟨àwọn⟩ tó tóbi.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "הים",
+      "gloss": "òkun"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "tó si gbòòrò"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "nígbogbo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "àwọn ohun tí ń ṣàjònà"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tí kò sí"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ónìíka"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "àwọn ẹdá alàyè"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "kéékèké"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "tó tóbi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:15.699254805Z",
+  "model": "glm-5.3"
+}

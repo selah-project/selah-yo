@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Òkè Elohim ni òkè Bashan; òkè tí ó ga láti ara òkè ni òkè Bashan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "tí ó ga láti ara òkè"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:11.938889774Z",
+  "model": "glm-5.3"
+}

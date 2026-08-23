@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 112,
+  "translation": "Nítorí náà, kí ó má ṣìlẹ̀ láé láé; ẹní tí ó tọ́ máa wà ní ìrántí láé láé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "láé láé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kí ó má ṣìlẹ̀ — má ṣe"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ṣìlẹ̀"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ní ìrántí"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "láé láé"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "máa wà"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ẹní tí ó tọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:55.031754347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Mo ṣe àkótán nípa àwọn ọ̀nà mi, mo sì gbé ẹsẹ̀ mi padà sí àwọn ẹ̀rí rẹ.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "mo ṣe àkótán"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "àwọn ọ̀nà mi"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "mo sì gbé padà"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ẹsẹ̀ mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "àwọn ẹ̀rí rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:58.319356421Z",
+  "model": "glm-5.3"
+}

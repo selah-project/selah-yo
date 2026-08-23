@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ìwọ sì gbọdọ̀ fi ⟨את⟩ ààbò-ìdíhùn lé orí ábá ní òkè, sí àwọn ábá ìwọ gbọdọ̀ fi ⟨את⟩ ẹ̀rìí tí mo máa fún ọ́ sínu.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ìwọ sì gbọdọ̀ fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ààbò-ìdíhùn"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ààbò-ìdíhùn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé orí"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ábá"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ní òkè"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sí àwọn"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ábá"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ìwọ gbọdọ̀ fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀rìí"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ẹ̀rìí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mo máa fún"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:25.897905769Z",
+  "model": "glm-5.3"
+}

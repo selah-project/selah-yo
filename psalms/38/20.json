@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Àwọn ọ̀tá mi sì ṣe ààyò, wọ́n le gan; ẹ̀wẹ̀, àwọn tí ń kórìíra mi láì-lọ́júṣe pọ̀ sí i.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "àwọn ọ̀tá mi sì"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ṣe ààyò"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "wọ́n le gan"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "pọ̀ sí i"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "àwọn tí ń kórìíra mi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "láì-lọ́júṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:10.630177716Z",
+  "model": "glm-5.3"
+}

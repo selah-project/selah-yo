@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Wọ́n sì rán ⟨את⟩ Rivkah arábìnrin wọn lọ, àti ⟨את⟩ nọ́ọ̀sì rẹ̀, àti ⟨את⟩ ẹrú Avraham, àti ⟨את⟩ àwọn ọkùnrin rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Wọ́n sì rán…lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivkah arábìnrin wọn"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "arábìnrin wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "nọ́ọ̀sì rẹ̀"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "nọ́ọ̀sì rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹrú Avraham"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ẹrú"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọkùnrin rẹ̀"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "àwọn ọkùnrin rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:02:43.398666274Z",
+  "model": "glm-5.3"
+}

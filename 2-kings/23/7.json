@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ó sì tú ⟨את⟩ àwọn yàrá àwọn ènìyàn ìwọ̀sàn-ìbálòpọ̀ tí ó wà ní ilé Yahweh wó, níbi tí àwọn obìnrin ti ń mún àwọn ilé-òwú fún Ashera.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "ó sì tú...wó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn yàrá"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "àwọn yàrá"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "àwọn ènìyàn ìwọ̀sàn-ìbálòpọ̀ (qedeshìm)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "níbi tí"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "àwọn obìnrin"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "ń mún (kíkún)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "àwọn ilé-òwú"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "fún Ashera"
+    }
+  ],
+  "timestamp": "2026-08-23T01:38:38.741478959Z",
+  "model": "glm-5.3"
+}

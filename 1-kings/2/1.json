@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì jẹ́ pé ọjọ́ Dawid sun mọ́ ikú, ó sì pa Shlomoh ọmọ rẹ̀ lámọ́ràn, wípé:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ó sì jẹ́ pé…sun mọ́"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "ó sì pa…lámọ́ràn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shlomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wípé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:30.078837839Z",
+  "model": "glm-5.3"
+}

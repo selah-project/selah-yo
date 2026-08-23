@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ọba ní ìwọ̀túnwọ̀sí rẹ̀, ojú rẹ yóò gbọ́; wọn yóò rí ilẹ̀ tí ó jìnnà.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "ní ìwọ̀túnwọ̀sí rẹ̀"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "yóò gbọ́"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "yóò rí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "tí ó jìnnà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:51:43.048498884Z",
+  "model": "glm-5.3"
+}

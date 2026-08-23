@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 7:7",
+  "book": "zechariah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ṣe ìyẹn kì í ṣe ⟨את⟩ àwọn ọ̀rọ̀ tí Yahweh ti pé láti ẹnu àwọn wòlíì àkọ́kọ́, nígbà tí Yerushalayim ń gbé ní àlàáfíà, àti àwọn ìlú rẹ̀ ní ìkànlẹ̀ rẹ̀, àti Gúúsù àti Ilẹ̀-Isálẹ̀ ń gbé?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ṣe ìyẹn kì í ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ti pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "láti ẹnu"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "àwọn wòlíì"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "àkọ́kọ́"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "ń gbé"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "ní àlàáfíà"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "àti àwọn ìlú rẹ̀"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "ní ìkànlẹ̀ rẹ̀"
+    },
+    {
+      "surface": "והנגב",
+      "gloss": "àti Gúúsù"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "àti Ilẹ̀-Isálẹ̀"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ń gbé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:18:00.684234747Z",
+  "model": "glm-5.3"
+}

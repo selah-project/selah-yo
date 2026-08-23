@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ẹnikẹ́ni tí ó bá kú nínú Baasha ní ìlú, àwọn ajá yóò jẹ ọ́; ẹnikẹ́ni tí ó bá kú nínú rẹ̀ ní pàtàkì, àwọn ẹyẹ ọ̀run yóò jẹ ọ́.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "tí ó bá kú"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "nínú Baasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ní ìlú"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yóò jẹ ọ́"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "àwọn ajá"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "sì tí ó bá kú"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ní pàtàkì"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yóò jẹ ọ́"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "àwọn ẹyẹ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    }
+  ],
+  "timestamp": "2026-08-23T01:21:22.430577997Z",
+  "model": "glm-5.3"
+}

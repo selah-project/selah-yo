@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Attai sì bí ⟨את⟩ Natan, Natan sì bí ⟨את⟩ Zavad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Attai sì"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "Natan sì"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zavad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zavad"
+    }
+  ],
+  "timestamp": "2026-08-23T05:07:55.051694343Z",
+  "model": "glm-5.3"
+}

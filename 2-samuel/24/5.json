@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Wọ́n sì gbà ⟨את⟩ Jordàn kọjá, wọ́n sì dúró ní Aroer, ní ẹ̀tù́ òwọ̀ ọ̀tún ìlú náà, èyítí ó wà láàárín odò Gad, wọ́n sì dé Jaazer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "Wọ́n sì gbà kọjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordàn"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordàn"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wọ́n sì dúró ní"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ẹ̀tù́ òwọ̀ ọ̀tún"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyítí"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "odò"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wọ́n sì dé"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaazer"
+    }
+  ],
+  "timestamp": "2026-08-23T05:51:03.401998406Z",
+  "model": "glm-5.3"
+}

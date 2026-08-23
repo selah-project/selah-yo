@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Ó sì fún wọn ní bàbà ìbéèrè wọn, ó sì fi ìsẹ́fara ránṣẹ́ sínu ẹ̀mí wọn.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ó sì fún wọn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ní…wọn"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "bàbà ìbéèrè wọn"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì fi…ránṣẹ́"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ìsẹ́fara"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "sínu ẹ̀mí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:46.639491372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "àti ⟨את⟩ pẹ̀tẹ́lẹ̀ ẹbun-ìsọjú, àti ⟨את⟩ gbogbo irinṣẹ́ rẹ̀, àti ⟨את⟩ kíà, àti ⟨את⟩ ìpìlẹ̀ rẹ̀,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "pẹ̀tẹ́lẹ̀ ẹbun-ìsọjú"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹ̀tẹ́lẹ̀"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbun-ìsọjú"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "kíà"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "kíà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìpìlẹ̀ rẹ̀"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ìpìlẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:01.213730599Z",
+  "model": "glm-5.3"
+}

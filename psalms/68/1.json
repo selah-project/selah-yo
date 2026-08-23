@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Fún Olùdarí-orin, orin Davidu; mizmor, orin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún Olùdarí-orin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "orin Davidu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:55.939649719Z",
+  "model": "glm-5.3"
+}

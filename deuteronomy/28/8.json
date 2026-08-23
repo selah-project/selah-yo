@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Yahweh máa pa ⟨את⟩ ìbùkún ṣẹ́ pẹ̀lú rẹ ní àwọn ilé-ìpamọ́ rẹ àti ní gbogbo ibi tí ọwọ́ rẹ bá fi sí; ó sì máa bùkún rẹ ní ilẹ̀ tí Yahweh Elohim rẹ ń fún ọ.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "máa pa … ṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "pẹ̀lú rẹ ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìbùkún"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ìbùkún"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "ní àwọn ilé-ìpamọ́ rẹ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "àti ní gbogbo"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ibi tí … fi sí"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "ó sì máa bùkún rẹ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ń fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ"
+    }
+  ],
+  "timestamp": "2026-08-23T05:46:01.006343655Z",
+  "model": "glm-5.3"
+}

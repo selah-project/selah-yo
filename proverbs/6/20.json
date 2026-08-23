@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Dẹ́ ìgbéraga rẹ mú, ọmọ mi; máṣe fi ìgbéraga ìyá rẹ sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "dẹ́ ... mú"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ mi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ìgbéraga (àṣẹ)"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bàbá rẹ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "máṣe"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "fi ... sílẹ̀"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ìgbéraga (ìmọ̀ràn)"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ìyá rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:44.180517791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ṣùgbọ́n ojú mi ṣàánú wọn, kí èmi má ṣe mú wọn parun, èmi kò sì ṣe ⟨את⟩ wọn ní ìparun ní àgbàlá.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "ṣàánú"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "kí èmi má ṣe mú wọn parun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í sì"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "èmi ṣe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ní ìparun"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní àgbàlá"
+    }
+  ],
+  "timestamp": "2026-08-23T06:00:22.406882646Z",
+  "model": "glm-5.3"
+}

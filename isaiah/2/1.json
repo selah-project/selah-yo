@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ọ̀rọ̀ tí Yeshayahu ọmọ Amots rí, nípa Yehudah àti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "rí"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "àti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T01:40:07.661400477Z",
+  "model": "glm-5.3"
+}

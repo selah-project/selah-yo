@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 99,
+  "translation": "Kí wọn yọ́ sí orúkọ rẹ — orúkọ tóbi, orúkọ ẹ̀rù-nlá; mímọ́ ni òun.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "kí wọn yọ́ sí"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tóbi"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "àti ẹ̀rù-nlá"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni òun"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:24.723369423Z",
+  "model": "glm-5.3"
+}

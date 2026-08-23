@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ó sì yọ ⟨את⟩ ìbòjú Yehudah kúrò, ìwọ sì wo ní ọjọ́ yẹn sí ohun-ìjà Ilé Ìgbó.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Ó sì yọ…kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìbòjú Yehudah"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ìbòjú"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "ìwọ sì wo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ohun-ìjà"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Ilé"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Ìgbó"
+    }
+  ],
+  "timestamp": "2026-08-23T01:46:51.744028936Z",
+  "model": "glm-5.3"
+}

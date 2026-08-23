@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 98,
+  "translation": "Àwọn odò yóò gbé owọ́ pàtàkì; àwọn òkè yóò yọ̀ ayò pọ̀.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "àwọn odò"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "yóò gbé owọ́ pàtàkì"
+    },
+    {
+      "surface": "כף",
+      "gloss": "owọ́ pàtàkì"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pọ̀"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "yóò yọ̀ ayò"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:24.512480297Z",
+  "model": "glm-5.3"
+}

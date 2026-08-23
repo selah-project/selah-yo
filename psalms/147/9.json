@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Ó ń fún ⟨àwọn⟩ ẹranko ní oúnjẹ wọn, fún àwọn ọmọ ẹyẹ ìdò, àwọn tí ń pè.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Ó ń fún"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "⟨àwọn⟩ ẹranko"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "ní oúnjẹ wọn"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ẹyẹ ìdò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tàwọn tí"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ń pè"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:33.012021558Z",
+  "model": "glm-5.3"
+}

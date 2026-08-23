@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Mo máa bùkún Yahweh ⟨את⟩, tí ó ṣe ìmọ̀ràn fún mi; àwọn òru pẹ̀lú, àwọn apá ìnu mi kọ́ mi ní ìmọ̀.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Mo máa bùkún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "ó ṣe ìmọ̀ràn fún mi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "àwọn òru"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "kọ́ mi ní ìmọ̀"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "àwọn apá ìnu mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:49.980706021Z",
+  "model": "glm-5.3"
+}

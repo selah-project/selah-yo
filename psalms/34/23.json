@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Yahweh máa ra nefesh àwọn ìránṣẹ́ rẹ̀, kò sí ẹni tí ó gbẹ́ lé Rẹ̀ tí yóò di ẹ̀bi.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "máa ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפesh",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "yóò di ẹ̀bi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "gbẹ́ lé"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:10.065337628Z",
+  "model": "glm-5.3"
+}

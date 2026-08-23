@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ó sì gbé ⟨את⟩ ọ̀kan sílẹ̀ ní Beit-El, àti ⟨את⟩ ọ̀kan ó fi sí ní Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ó sì gbé sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀kan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ní"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beit-El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀kan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ó fi sí"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "ní Dan"
+    }
+  ],
+  "timestamp": "2026-08-23T01:19:12.913788172Z",
+  "model": "glm-5.3"
+}

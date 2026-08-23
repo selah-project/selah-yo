@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Wò ó, ó ń ṣe àìsàn-ìyà fún aṣiṣe; ó bímọ́ ìfaradà ìṣòro, ó sì bí irọ́.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "ó ń ṣe àìsàn-ìyà"
+    },
+    {
+      "surface": "און",
+      "gloss": "aṣiṣe"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "ó bímọ́"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ìfaradà ìṣòro"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "irọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:28.867939439Z",
+  "model": "glm-5.3"
+}

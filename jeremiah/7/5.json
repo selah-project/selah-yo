@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Nítorí náà, tí ẹ bá ṣe rere dáadáa kí ẹ ṣe ⟨את⟩ ọ̀nà yín àti ⟨את⟩ iṣẹ́ yín, tí ẹ bá ṣe ìdájọ láàrín ènìyàn àti láàrín ẹlòmíràn rẹ̀,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí ẹ bá"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ṣe rere"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "dáadáa kí ẹ ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀nà yín"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ọ̀nà yín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "iṣẹ́ yín"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "iṣẹ́ yín"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí ẹ bá"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kí ẹ ṣe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàrín"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàrín"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ẹlòmíràn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:09:05.975968176Z",
+  "model": "glm-5.3"
+}

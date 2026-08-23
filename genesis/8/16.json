@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Jáde kúrò nínú ọkọ̀ náà — ìwọ, aya rẹ, àwọn ọmọ rẹ, àti àwọn aya àwọn ọmọ rẹ ⟨את⟩ pẹ̀lú rẹ.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Jáde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ọkọ̀ náà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "aya rẹ"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "àti àwọn aya"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pẹ̀lú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:33.305355606Z",
+  "model": "glm-5.3"
+}

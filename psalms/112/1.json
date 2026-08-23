@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 112,
+  "translation": "Ẹ yin Yah! Ìdùnnú ṣe ọkùnrin tí ń bẹ́rù Yahweh, tí ó fẹ́ràn láti dídún-nínú ní àwọn àṣẹ rẹ̀ púpọ̀.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ẹ yin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ìdùnnú ṣe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "tí ń bẹ́rù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "ní àwọn àṣẹ rẹ̀"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "tí ó fẹ́ràn láti dídún-nínú"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:35.925270577Z",
+  "model": "glm-5.3"
+}

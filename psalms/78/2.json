@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Èmi yóò ṣí ẹnu mi ní àpamọ̀; èmi yóò sọ nnkan ìmọ́lẹ̀ jáde, tí ó ti wà láti ìgbà ìsàlẹ̀.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "èmi yóò ṣí"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "ní àpamọ̀"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "èmi yóò sọ … jáde"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "nnkan ìmọ́lẹ̀ (ìjínigbé)"
+    },
+    {
+      "surface": "מני",
+      "gloss": "tí ó ti wà láti"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ìgbà ìsàlẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:51.717111516Z",
+  "model": "glm-5.3"
+}

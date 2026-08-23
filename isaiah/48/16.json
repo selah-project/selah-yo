@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 48:16",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Ẹ sún mọ́ mi, ẹ gbọ́ èyí: láti ìbẹ̀rẹ̀ mo kò sọ ọ́ ní ìkọ̀kọ̀; láti àkókò tí ó ti wà, èmi níbẹ̀; ní àsìkò yìí, Adonai Yahweh ti rán mi, pẹ̀lú ẹ̀mí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "ẹ sún mọ́"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ẹ gbọ́"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "láti ìbẹ̀rẹ̀"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ní ìkọ̀kọ̀"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mo sọ"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "láti àkókò"
+    },
+    {
+      "surface": "היותה",
+      "gloss": "tàí ó ti wà"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ní àsìkò yìí"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ti rán mi"
+    },
+    {
+      "surface": "ורוחו",
+      "gloss": "pẹ̀lú ẹ̀mí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:57:49.172388477Z",
+  "model": "glm-5.3"
+}

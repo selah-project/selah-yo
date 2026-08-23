@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì ní ọkàn ìbínú, ó sì gbàdùrà sí Yahweh, ó sì sunkún sunkún púpọ̀.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "ó sì"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "ìbínú"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "ó sì gbàdùrà"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ó sì sunkún"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "sunkún púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:42:00.959555260Z",
+  "model": "glm-5.3"
+}

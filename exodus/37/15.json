@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ó sì ṣe ⟨את⟩ àwọn ọ̀pá náà ní igi shitim, ó sì bo ⟨את⟩ wọn ní wúrà, láti gbígbé ⟨את⟩ tábìlì náà.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀pá náà"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "àwọn ọ̀pá náà"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "igi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ó sì bo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "láti gbígbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tábìlì náà"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tábìlì náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:07.486979220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 40:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ta ni ó ṣe ìwọ̀n àwọn omi ní ìdọ̀ti ọwọ́ rẹ̀? Ta ni ó ṣe ìwọ̀n ⟨àwọn⟩ ọ̀run pẹ̀lú ìsán-ọwọ́, ó sì ka erùpẹ̀ ilẹ̀ ayé ní ìṣẹ́jú-ọwọ́, ó sì ṣe ìwọn-wọ̀n àwọn òkè ní búrúdí, àti àwọn òkè-kekere ní àwọn-ìwọ̀n?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ta ni"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ó ṣe ìwọ̀n"
+    },
+    {
+      "surface": "בשעלו",
+      "gloss": "ní ìdọ̀ti ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "מים",
+      "gloss": "àwọn omi"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "àti ⟨àwọn⟩ ọ̀run"
+    },
+    {
+      "surface": "בזרת",
+      "gloss": "pẹ̀lú ìsán-ọwọ́"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ó ka (ṣe ìwọ̀n)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti ó ka gbogbo"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "ní ìṣẹ́jú-ọwọ́"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "erùpẹ̀"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti ilẹ̀ ayé"
+    },
+    {
+      "surface": "ושקל",
+      "gloss": "àti ó ṣe ìwọn-wọ̀n"
+    },
+    {
+      "surface": "בפלס",
+      "gloss": "ní búrúdí"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "àti àwọn òkè-kekere"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "ní àwọn-ìwọ̀n"
+    }
+  ],
+  "timestamp": "2026-08-23T01:55:51.139146552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 63,
+  "translation": "Orin Davíd, nígbà tí ó wà ní ijù Yehudah.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "nígbà tí ó wà"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní ijù"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:06.636272155Z",
+  "model": "glm-5.3"
+}

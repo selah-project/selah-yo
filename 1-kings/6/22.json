@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 6:22",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ó sì bo ⟨את⟩ gbogbo ilé náà ní wúrà títí tí ó fi parí gbogbo ilé náà; àti gbogbo pẹpẹ yà tí ó wà fún ibi ìgbìmọ̀ràn, ó bo ní wúrà.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sì ⟨את⟩",
+      "marks": "gbogbo ilé náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "ó bo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ní wúrà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "תם",
+      "gloss": "tí ó parí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ yà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "fún ibi ìgbìmọ̀ràn"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "ó bo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ní wúrà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:21.031850240Z",
+  "model": "glm-5.3"
+}

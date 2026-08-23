@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 56,
+  "translation": "Fún olùdarí-orin; lórí «Yonath-elem-rechoqim» (adaba tí ó dì édídí ní ìjìnnà); Orin Dawidi, miktam; nígbà tí àwọn Filistini mú ⟨את⟩ un ní Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí-orin"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "adaba"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "tí ó dì édídí"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "ní ìjìnnà"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Orin Dawidi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "nígbà tí ... mú"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ un",
+      "marks": "un (Dawidi, tí Filistini mú)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Filistini"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ní Gat"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:04.223443186Z",
+  "model": "glm-5.3"
+}

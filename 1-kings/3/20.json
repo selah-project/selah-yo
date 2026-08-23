@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì dígbà ní àárín òru, ó sì gba ⟨את⟩ ọmọ mi kúrò lẹ́gbẹ̀ mi, nígbà tí ẹrú rẹ ń sùn, ó sì fi sí sínú ìbàmu rẹ̀, ó sì fi ⟨את⟩ ọmọ rẹ̀ tí ó kú sí sínú ìbàmu mi.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "sì dígbà"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ní àárín"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ mi"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "kúrò lẹ́gbẹ̀ mi"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ẹrú rẹ"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "ń sùn"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "sì fi sí sún"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "sínú ìbàmu rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ rẹ̀ tí ó kú"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "המת",
+      "gloss": "tí ó kú"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "sì fi sí sún"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "sínú ìbàmu mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:34.322469547Z",
+  "model": "glm-5.3"
+}

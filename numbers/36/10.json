@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Gẹ́gẹ́ bí Yahweh ti pa Moshe lọ́wọ́, bẹ́ẹ̀ ni àwọn ọmọbìnrin Tselophchad ṣe.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pa lọ́wọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "àwọn ọmọbìnrin"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselophchad"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:07.946223876Z",
+  "model": "glm-5.3"
+}

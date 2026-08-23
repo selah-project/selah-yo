@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Nígbà náà, Yahweh sọ̀kalẹ̀ láti rí ⟨את⟩ ìlú náà àti ⟨את⟩ ilé-ọ̀run-gbàlágbà tí àwọn ọmọ Adam kó.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "sọ̀kalẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "láti rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìlú náà"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilé-ọ̀run-gbàlágbà"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "ilé-ọ̀run-gbàlágbà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kó"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:41.459293703Z",
+  "model": "glm-5.3"
+}

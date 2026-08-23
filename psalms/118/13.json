@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Oún tí ń da mi lù fún mi láti ṣubú, ṣùgbọ́n Yahweh ràn mí lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "oún tí ń da lù"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "ó da mí lù"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "láti ṣubú"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ṣùgbọ́n Yahweh"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ó ràn mí lọ́wọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:32.017930693Z",
+  "model": "glm-5.3"
+}

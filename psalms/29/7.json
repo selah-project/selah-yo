@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ohùn Yahweh ń ge àwọn èhé iná jáde.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "ń ge ... jáde"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "àwọn èhé"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:37.692047579Z",
+  "model": "glm-5.3"
+}

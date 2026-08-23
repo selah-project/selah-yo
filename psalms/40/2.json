@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ní ìretí mo ti retí Yahweh, Ó sí te ⟨e⟩ sí mi lọ, Ó sì gbọ́ ìkígbe mi.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ní ìretí"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "mo ti retí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "Ó sí te sí mi lọ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "Ó sì gbọ́"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ìkígbe mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:47.232904106Z",
+  "model": "glm-5.3"
+}

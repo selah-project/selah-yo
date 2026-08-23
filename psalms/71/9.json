@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Má ṣe lé mi tí ìgbà ìtọ́jú bá dé, nígbà tí agbára mi bá parun, má ṣe fi mi sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "lé mi"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ní ìgbà"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ìtọ́jú"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "nígbà tí… bá parun"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "agbára mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "fi mi sílẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:19.587167402Z",
+  "model": "glm-5.3"
+}

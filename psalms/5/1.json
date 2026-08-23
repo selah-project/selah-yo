@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Fún olùdarí orin, lórí ⟨àwọn⟩ Nehilot; orin kan ti David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí orin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nehilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti David"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:32.265628816Z",
+  "model": "glm-5.3"
+}

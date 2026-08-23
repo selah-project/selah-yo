@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Bí chesed Rẹ ṣe ṣe iyì, Elohim! Nítorí náà àwọn ọmọ ènìyàn ń sá wá ààbọ̀ ní abẹ́ ojú ìwọ̀ Rẹ.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bí … ṣe"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ṣe iyì"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed Rẹ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ní abẹ́"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ojú ìwọ̀ Rẹ"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "ń sá wá ààbọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:31.136759630Z",
+  "model": "glm-5.3"
+}

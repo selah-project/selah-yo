@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Nítorí bí gíga ti ọ̀run ju ayé ⟨the⟩ lọ, bẹ́ẹ̀ ni chesed rẹ̀ fi ju àwọn tí ó ń bẹ̀rù rẹ̀ lọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "bí gíga ti"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "על",
+      "gloss": "ju ... lọ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "fi ju ... lọ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "ló de"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "àwọn tí ó ń bẹ̀rù rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:22.269141945Z",
+  "model": "glm-5.3"
+}

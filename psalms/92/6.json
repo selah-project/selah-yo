@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 92,
+  "translation": "Bí ó ti tóbi, èyí ti àwọn iṣẹ́ rẹ ṣe gbẹ̀yìn láìgbẹ́yìn, Yahweh! Àwọn èrò rẹ̀ gbá jinnà gẹ́gẹ́ bí i ohun tí ó jinlẹ̀ púpọ̀.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bí ó ti tó"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ṣe gbẹ̀yìn láìgbẹ́yìn"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "àwọn iṣẹ́ rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "jinlẹ̀"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "àwọn èrò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:14.260290336Z",
+  "model": "glm-5.3"
+}

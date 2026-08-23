@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "haggai 2:16",
+  "book": "haggai",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Láti ìgbà tí wọn wà bẹ́ẹ̀: tí ẹnìkan bá wá sí kónjá ogún, ó sì di ẹ̀wá; tí ó bá sì wá sí ìbù ẹmu láti yọ àádọ́ta pura, ó sì di ogún.",
+  "tokens": [
+    {
+      "surface": "מהיותם",
+      "gloss": "láti ìgbà tí wọn wà bẹ́ẹ̀"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bá wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "kónjá"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ó sì di"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ẹ̀wá"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bá wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "ìbù ẹmu"
+    },
+    {
+      "surface": "לחשף",
+      "gloss": "láti yọ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "àádọ́ta"
+    },
+    {
+      "surface": "פורה",
+      "gloss": "pura"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ó sì di"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    }
+  ],
+  "timestamp": "2026-08-23T03:17:07.677887825Z",
+  "model": "glm-5.3"
+}

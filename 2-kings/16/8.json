@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ahaz sì gba ⟨את⟩ fàdákà àti ⟨את⟩ wúrà tí ó rí ní ilé Yahweh àti ní àwọn ilé-ìṣúra ilé ọba náà, ó sì fi ránṣẹ́ sí ọba Ashuru gẹ́gẹ́ bí ẹ̀bùn-ìparọ́.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "sì gba"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fàdákà"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wúrà"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "tí ó rí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "àti ní àwọn ilé-ìṣúra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì fi ránṣẹ́ sí"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ẹ̀bùn-ìparọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:58.196284853Z",
+  "model": "glm-5.3"
+}

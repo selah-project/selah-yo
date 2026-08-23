@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 3:13",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àti pé bákan náà, ohun tí ìwọ kò bẹ̀rẹ̀, ti mo ti fún ọ nínú rẹ̀ — bákan náà ọrọ̀, bákan náà ọlá — tí ẹni tí ó dọ́mọ́ rẹ kò tíì sí, ọkùnrin, nínú àwọn ọba, ní gbogbo ọjọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "àti pé bákan náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ìwọ bẹ̀rẹ̀"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mo ti fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ọrọ̀"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ọlá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ti sí"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "bí rẹ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "ní àwọn ọba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ọjọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:21.945989840Z",
+  "model": "glm-5.3"
+}

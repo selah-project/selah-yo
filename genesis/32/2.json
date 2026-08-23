@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Yaakov sì rìn dé ọ̀nà rẹ̀, àwọn ìránṣẹ́ Elohim sì pàdé rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakov sì"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "rìn"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "dé ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "ó sì pàdé"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:06:43.612670223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 129,
+  "translation": "Ki wọ́n jọró bí koriko orí ilé, tí ó gbẹ̀ ṣáájú kí ó tó jáde.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Ki wọ́n jọ́"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "bí koriko"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "orí ilé"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "ṣáájú"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "jáde (gbé jade)"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "gbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:10.412426143Z",
+  "model": "glm-5.3"
+}

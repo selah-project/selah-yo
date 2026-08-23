@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 87,
+  "translation": "Yahweh máa kà nínú ìkọ orúkọ àwọn ènìyàn pé: ènìyàn yìí ni a bí níbẹ̀. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "máa kà"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "nínú ìkọ orúkọ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ènìyàn yìí"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ni a bí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:28.082830849Z",
+  "model": "glm-5.3"
+}

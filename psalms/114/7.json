@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 114,
+  "translation": "Níwájú Adonai, ilẹ̀ ṣẹ̀yin, níwájú Eloah ti Yaakov:",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "ṣẹ̀yin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:43.162269897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Yahweh sì wí fún Moshe pé Farao kì yóò gbọ́ yín, nítorí kí àwọn ìṣẹ́ mi lè pọ̀ sí i ní ilẹ̀ Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "yóò gbọ́"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "yín"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí kí"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "lè pọ̀ sí i"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "àwọn ìṣẹ́ mi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:32.597153005Z",
+  "model": "glm-5.3"
+}

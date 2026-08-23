@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Yahweh dára fún gbogbo; àwọn àánú rẹ̀ sì wà lé orí gbogbo iṣẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "àwọn àánú rẹ̀ sì"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé orí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "iṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:17.821179218Z",
+  "model": "glm-5.3"
+}

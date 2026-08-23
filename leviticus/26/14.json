@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ṣùgbọ́n tí ẹ bá kọ́ gbọ́ ti mi, kí ẹ sì má ṣe ṣe ⟨את⟩ gbogbo àwọn àṣẹ wọnyí,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ṣùgbọ́n tí ẹ bá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kọ́ \/ má ṣe"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ti mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí ẹ sì má ṣe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn àṣẹ wọnyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "àwọn àṣẹ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:40.981250340Z",
+  "model": "glm-5.3"
+}

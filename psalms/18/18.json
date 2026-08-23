@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó gbà mí là kúrò lọ́dọ̀ ọ̀tá mi alágbára, àti lọ́dọ̀ àwọn tí ó korìíra mí; nítorí tí wọ́n le ju mí lọ.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Ó gbà mí là"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "kúrò lọ́dọ̀ ọ̀tá mi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "àti lọ́dọ̀ àwọn tí ó korìíra mí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "wọ́n le ju mí lọ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ju mí lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:35.244320476Z",
+  "model": "glm-5.3"
+}

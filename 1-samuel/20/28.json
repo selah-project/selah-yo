@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Yehonatan sì dáhùn ⟨את⟩ Sha'ul pé, a-béèrè-lẹ́ẹ̀mejì ni wọ́n béère fún David lọ́dọ̀ mi, títí dé Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "sì dáhùn"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "a-béèrè-lẹ́ẹ̀mejì ni wọ́n béère"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "lọ́dọ̀ mi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-23T00:52:09.605889626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Kí o sì gbé ⟨את⟩ ọgbà náà ká, kí o sì fi ⟨את⟩ àwẹ̀ ọ̀nà-ìwọle ọgbà náà sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "kí o sì gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbà náà"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ọgbà náà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ká"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kí o sì fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwẹ̀ ọ̀nà-ìwọle ọgbà náà"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "àwẹ̀"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọ̀nà-ìwọle"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ọgbà náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:44.676053223Z",
+  "model": "glm-5.3"
+}

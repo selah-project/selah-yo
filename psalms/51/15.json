@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Jẹ́ kí èmi kọ́ àwọn olẹ̀sẹ̀ ọ̀nà rẹ, àti àwọn ẹlẹ́ṣẹ̀ yóò padà sọ́dọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "jẹ́ kí èmi kọ́"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "àwọn olẹ̀sẹ̀"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ọ̀nà rẹ"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "àti àwọn ẹlẹ́ṣẹ̀"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "yóò padà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:38.494568769Z",
+  "model": "glm-5.3"
+}

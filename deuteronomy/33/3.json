@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 33:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Bẹ́ẹ̀ ni, ó fẹ́ràn àwọn ènìyàn; gbogbo àwọn mímọ́ rẹ̀ wà ní ọwọ́ rẹ̀; wọ́n sì gbalẹ̀ sí ẹsẹ̀ rẹ̀, ọ̀kọ̀ọ̀kan gbé ọ̀rọ̀ rẹ̀ sókè.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "bẹ́ẹ̀ ni, díǹdí"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "ó fẹ́ràn"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "àwọn mímọ́ rẹ̀"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ní ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "והם",
+      "gloss": "wọ́n sì"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "gbalẹ̀ (ti kó ara sọ̀dọ̀)"
+    },
+    {
+      "surface": "לרגלך",
+      "gloss": "sí ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ó gbé sókè"
+    },
+    {
+      "surface": "מדברתיך",
+      "gloss": "ọ̀rọ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:21:33.365547465Z",
+  "model": "glm-5.3"
+}

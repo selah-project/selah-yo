@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 98,
+  "translation": "Kọ orin fún Yahweh pẹ̀lú kinnora; pẹ̀lú kinnora àti ohùn orin.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Kọ orin fún"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "pẹ̀lú kinnora"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "pẹ̀lú kinnora"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "àti ohùn"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "orin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:24.512024305Z",
+  "model": "glm-5.3"
+}

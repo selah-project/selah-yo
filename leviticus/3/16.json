@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Adóhùn náà sì máa jọ́ wọ́n lórí pẹpẹ: oúnjẹ ẹbùn iná ni, láti fi rí gẹ́gẹ́ bí òórùn tí ó dùn; gbogbo ọra ni ti Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "sì máa jọ́ wọ́n"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Adóhùn náà"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lórí pẹpẹ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ẹbùn iná"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "láti fi rí"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "òórùn tí ó dùn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ọra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ti Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:32.901170116Z",
+  "model": "glm-5.3"
+}

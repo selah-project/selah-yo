@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Abner, ọmọ Ner, olórí ogun Shaul, sì gba ⟨את⟩ Ish-Boshet, ọmọ Shaul, ó sì gbé e lọ sí Machanayim.",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ti Shaul"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ish-Boshet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "ó sì gbé e lọ"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Machanayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:50:02.676575150Z",
+  "model": "glm-5.3"
+}

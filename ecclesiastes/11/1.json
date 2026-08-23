@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Fi búrẹ́dì rẹ ránṣẹ sí orí ìdí ómi; nítorí pé nínú ọ̀pọ̀lọpọ̀ ọjọ́ iwọ óò rí i.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "fi...ránṣẹ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "búrẹ́dì rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí ìdí"
+    },
+    {
+      "surface": "פני",
+      "gloss": "orí ìdí"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ómi náà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nínú ọ̀pọ̀lọpọ̀"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "iwọ óò rí i"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:50.609161793Z",
+  "model": "glm-5.3"
+}

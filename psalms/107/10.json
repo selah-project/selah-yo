@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Àwọn tí ó ń gbé ní òkùnkùn àti ní ibi ikú-òkùnkùn, àwọn ẹrù-ìgbèkùn ti ìṣẹ̀lẹ̀ pẹ̀lú irin.",
+  "tokens": [
+    {
+      "surface": "יושבי ישבי",
+      "gloss": "àwọn tí ó ń gbé ní"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "òkùnkùn"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "àti ní ibi ikú-òkùnkùn"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "àwọn ẹrù-ìgbèkùn ti"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ìṣẹ̀lẹ̀"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "pẹ̀lú irin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:16.199284819Z",
+  "model": "glm-5.3"
+}

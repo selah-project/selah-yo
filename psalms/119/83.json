@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Nítorí mo ti di bí ẹ̀gbá inú èéfín; òfin rẹ ni èmi kò ti gbàgbé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mo ti di"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "bí ẹ̀gbá"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "inú èéfín"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "òfin rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ti gbàgbé (èmi)"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:50.999317169Z",
+  "model": "glm-5.3"
+}

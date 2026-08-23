@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Kenani, Mahalaleli, Yeredi.",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalaleli"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yeredi"
+    }
+  ],
+  "timestamp": "2026-08-23T05:07:30.385282307Z",
+  "model": "glm-5.3"
+}

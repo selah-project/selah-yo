@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Kí ni mo da padà fún Yahweh, nítorí gbogbo ẹ̀bùn rẹ̀ lórí mi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kí ni"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mo da padà fún"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "ẹ̀bùn rẹ̀"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:12.394342219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ní gbogbo ilẹ̀ ětí ìní yín, ẹ gbàdọ̀ ìràpadà fún ilẹ̀ náà.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Ní gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "ětí ìní yín"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "ìràpadà"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ẹ gbàdọ̀"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "fún ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:15.790839122Z",
+  "model": "glm-5.3"
+}

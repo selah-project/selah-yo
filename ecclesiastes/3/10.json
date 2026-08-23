@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Mo rí ⟨את⟩ iṣẹ́ ìnira tí Elohim fún àwọn ọmọ ènìyàn láti fi ṣiṣẹ́ níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Mo rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣẹ́ ìnira"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "iṣẹ́ ìnira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "láti fi ṣiṣẹ́"
+    },
+    {
+      "surface": "בו",
+      "gloss": "níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:41.307065867Z",
+  "model": "glm-5.3"
+}

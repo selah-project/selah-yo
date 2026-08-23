@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ó sì ṣe ⟨את⟩ àájọ àwọn òpó náà: ọgọ́ta èjìká ni gígún rẹ̀, ọgbọ̀n èjìká sì ni fífẹ̀ rẹ̀; àti àájọ kan ⟨wà⟩ níwájú wọn, àti àwọn òpó àti ìbòójú ńlá níwájú wọn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àájọ àwọn òpó náà"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "àájọ"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "àwọn òpó náà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ọgọ́ta"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "èjìká"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "gígún rẹ̀"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "àti ọgbọ̀n"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "èjìká"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "fífẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "àti àájọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "níwájú\/lórí"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ojú wọn"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "àti àwọn òpó"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "àti ìbòójú ńlá"
+    },
+    {
+      "surface": "על",
+      "gloss": "níwájú\/lórí"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ojú wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:13:49.220093361Z",
+  "model": "glm-5.3"
+}

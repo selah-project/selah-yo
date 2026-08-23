@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ẹ sì gé ⟨את⟩ àbùlá ọkàn yín kúrò, ẹ má sì ṣe le ṣíṣe orí yín mọ́ sí ìgbà kan sí i.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Ẹ sì gé kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àbùlá ọkàn yín"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "àbùlá"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ọkàn yín"
+    },
+    {
+      "surface": "ו",
+      "gloss": "ẹ má sì"
+    },
+    {
+      "surface": "ערפכם",
+      "gloss": "ṣíṣe orí yín"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "le"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sí ìgbà kan sí i"
+    }
+  ],
+  "timestamp": "2026-08-23T00:09:50.507266474Z",
+  "model": "glm-5.3"
+}

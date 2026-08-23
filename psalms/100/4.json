@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 100,
+  "translation": "Ẹ wá sínú ọ̀nà-ọ̀na rẹ̀ ní ìdúpẹ́, àwọn ọgbà rẹ̀ ní ìyìn; ẹ dúpẹ́ lọ́dọ̀ rẹ̀, ẹ bùkún orúkọ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "ẹ wá"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "sínú ọ̀nà-ọ̀na rẹ̀"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ní ìdúpẹ́"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "àwọn ọgbà rẹ̀"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "ní ìyìn"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ẹ dúpẹ́"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lọ́dọ̀ rẹ̀"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ẹ bùkún"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:01.233609123Z",
+  "model": "glm-5.3"
+}

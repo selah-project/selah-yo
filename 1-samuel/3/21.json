@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 3:21",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Yahweh ṣàfikún láti farahàn ní Shiloh, nítorí Yahweh fi ara rẹ̀ hàn sí Shemuel ní Shiloh, nínú ọ̀rọ̀ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ṣàfikún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "láti farahàn"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "ní Shiloh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "fi ara rẹ̀ hàn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "ní Shiloh"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nínú ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T05:47:52.382570556Z",
+  "model": "glm-5.3"
+}

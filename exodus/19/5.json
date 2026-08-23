@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 19:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Nísìnú yìí, tí ẹ bá gbọ́nú gbọ́ ohùn mi, tí ẹ sì pa ⟨את⟩ májẹ̀mú mi mọ́, ẹ jẹ́ ti mi gẹ́gẹ́ bí ìní-iṣúra lókàn ju gbogbo àwọn orílẹ̀-èdè lọ; nítorí ti mi ni gbogbo ayé.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Nísìnú yìí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí ẹ bá"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "gbọ́nú"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "tí ẹ sì pa mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "májẹ̀mú mi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "májẹ̀mú mi"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ẹ jẹ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ti mi"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "ìní-iṣúra lókàn"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ju gbogbo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ti mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:28.024346582Z",
+  "model": "glm-5.3"
+}

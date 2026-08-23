@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Yahweh, ṣe ìtọ́sọ́nà mí ní òdodo rẹ, nítorí àwọn ọ̀tá mi; ṣe ọ̀nà rẹ jẹ́ títà níwájú mi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ṣe ìtọ́sọ́nà mí"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ní òdodo rẹ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "ṣe … jẹ́ títà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú mi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ọ̀nà rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:30.937302184Z",
+  "model": "glm-5.3"
+}

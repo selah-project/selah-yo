@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Nítorí náà, ìwọ yóò fẹ́ràn ⟨את⟩ Yahweh Elohim rẹ, kí o sì ṣọ́ ìṣọ́ rẹ̀, àwọn òfin rẹ̀, àwọn ìdájọ́ rẹ̀, àwọn àṣẹ rẹ̀, ní ọjọ́ gbogbo.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "ìwọ yóò fẹ́ràn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "kí o sì ṣọ́"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ìṣọ́ rẹ̀"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "àwọn òfin rẹ̀"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "àwọn ìdájọ́ rẹ̀"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "àwọn àṣẹ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:38.651234532Z",
+  "model": "glm-5.3"
+}

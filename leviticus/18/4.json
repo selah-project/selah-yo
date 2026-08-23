@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ẹ ṣe ⟨את⟩ ìdájọ́ mi, ẹ sì pa ⟨את⟩ òfin mi mọ́ láti rìn nínú wọn; èmi ni Yahweh, Elohim yín.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdájọ́ mi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ìdájọ́ mi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "Ẹ ṣe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "òfin mi"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "òfin mi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ẹ sì pa mọ́"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "láti rìn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nínú wọn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:47.766639431Z",
+  "model": "glm-5.3"
+}

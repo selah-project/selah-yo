@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 136,
+  "translation": "⟨את⟩ osù àti ⟨את⟩ àwọn ìràwọ̀ láti ṣàkóso òru; nítorí pé ìfẹ́ olóòtítọ́ rẹ̀ wà tí títí láé.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osù"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "osù"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "àti ⟨את⟩ àwọn ìràwọ̀"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "láti ṣàkóso"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ̀ wà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:57.013262914Z",
+  "model": "glm-5.3"
+}

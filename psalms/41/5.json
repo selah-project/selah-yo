@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Èmi mo wí pé, Yahweh, ṣe-àánú fún mi, wo ìyè mi nílárá, nítorí tí mo ti ṣẹ̀ sí ọ̀dọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mo wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ṣe-àánú fún mi"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "wo nílárá"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ìyè mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mo ti ṣẹ̀"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sí ọ̀dọ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:08.373280145Z",
+  "model": "glm-5.3"
+}

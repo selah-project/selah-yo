@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Nínú idà ni yín yóò ṣubú; lórí ààlà Yisrael ni èmi yóò dá ⟨את⟩ yín lẹ́bi; yín yóò sì mọ̀ pé èmi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "nínú idà"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "yín yóò ṣubú"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ààlà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "èmi yóò dá lẹ́bi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín — èmi dá yín lẹ́bi"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "yín yóò sì mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T02:37:24.650040168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Hanun sì mú ⟨את⟩ àwọn ìránṣẹ́ David, ó sì fọwọ́ pamọ́ ⟨את⟩ ìdàmẹ̀wàá irùngbòn wọn, ó sì gbu ru ⟨את⟩ aṣọ wọn ní ìdàmẹ̀wàá, títí dé ìdí wọn, ó sì fi wọn lọ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "sì mú"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìránṣẹ́ David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "sì fọ irùngbòn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdàmẹ̀wàá irùngbòn wọn"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ìdàmẹ̀wàá"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "irùngbòn wọn"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "sì gbu ru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aṣọ wọn"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "aṣọ wọn"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ní ìdàmẹ̀wàá"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "ìdí wọn"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "fi wọn lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:59:53.184388792Z",
+  "model": "glm-5.3"
+}

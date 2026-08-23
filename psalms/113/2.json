@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 113,
+  "translation": "Kí orúkọ Yahweh dúró gẹ́gẹ́ bí olúbùkún láti ìsísìyì dé ìgbàínfín.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "kí ó jẹ́"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "olúbùkún"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "láti ìsísìyì"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dédé"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ìgbàínfín"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:53.027081163Z",
+  "model": "glm-5.3"
+}

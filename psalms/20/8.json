@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àwọn wọnyí ní ọkọ̀ ìjà, àwọn wọnyí ní ẹṣin; ṣùgbọ́n àwa, ní orúkọ Yahweh Elohim wa, ni a ń rántí.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Àwọn wọnyí ní"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "ọkọ̀ ìjà"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "àwọn wọnyí ní"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "ẹṣin"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ṣùgbọ́n àwa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ní orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "ni a ń rántí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:49.507499791Z",
+  "model": "glm-5.3"
+}

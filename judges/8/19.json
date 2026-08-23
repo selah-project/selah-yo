@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 8:19",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì wí pé: Ará mi ni wọn, àwọn ọmọ ìyá mi; nípa ìyè Yahweh, tí ẹ bá yọ ⟨את⟩ wọn láàyè, èmi kì í ṣe pé mo ò pa ⟨את⟩ yín.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí pé"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ará mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ìyá mi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni wọn"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nípa ìyè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tí ẹ bá"
+    },
+    {
+      "surface": "החיתם",
+      "gloss": "ẹ yọ láàyè"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "àwọn ará mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "mo pa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:36:09.952680895Z",
+  "model": "glm-5.3"
+}

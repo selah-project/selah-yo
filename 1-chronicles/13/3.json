@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "kí a sì gbé ⟨את⟩ àpótí Elohim wa wá sí ọ̀dọ̀ wa; nítorí a kò ṣe ìwádìí rẹ̀ ní àwọn ọjọ́ Shaúl.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "kí a sì gbé ... wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àpótí Elohim wa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "àpótí"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sí ọ̀dọ̀ wa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "ṣe ìwádìí rẹ̀"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ní àwọn ọjọ́"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "timestamp": "2026-08-23T05:15:09.634562729Z",
+  "model": "glm-5.3"
+}

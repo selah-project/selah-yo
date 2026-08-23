@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "àti ⟨את⟩ gbogbo àwọn ọba Tsor, àti ⟨את⟩ gbogbo àwọn ọba Tsidon, àti ⟨את⟩ àwọn ọba ⟨tí wọ́n ń ṣe⟩ ìletí ìní tí ó wà ní ẹ̀bàá òkun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ọba Tsor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ọba Tsidon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọba ìletí ìní"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "האי",
+      "gloss": "ìletí ìní"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ní ẹ̀bàá"
+    },
+    {
+      "surface": "הים",
+      "gloss": "òkun"
+    }
+  ],
+  "timestamp": "2026-08-23T02:17:14.924346260Z",
+  "model": "glm-5.3"
+}

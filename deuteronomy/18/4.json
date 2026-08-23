@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Èkínlọ́wọ́ bàbà rẹ, ìgò ọ̀tún rẹ, epo rẹ̀, àti èkínlọ́wọ́ wúrà ìràn rẹ ni ó gbọ́dọ̀ fún-un.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Èkínlọ́wọ́"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "bàbà rẹ"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "ìgò ọ̀tún rẹ"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "epo rẹ̀"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "èkínlọ́wọ́"
+    },
+    {
+      "surface": "גז",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ìràn rẹ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gbọ́dọ̀ fún"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún-un"
+    }
+  ],
+  "timestamp": "2026-08-23T00:15:37.450772638Z",
+  "model": "glm-5.3"
+}

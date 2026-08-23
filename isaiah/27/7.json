@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ṣé Ó lu ú gẹ́gẹ́ bí ó ti lu àwọn tí ó lu ú? Tàbí ṣé wọ́n pa á gẹ́gẹ́ bí i ìpa àwọn tí a pa láìní?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "gẹ́gẹ́ bí ó ti lu"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "àwọn tí ó lu ú"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "Ó lu ú"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ṣé … Tàbí ṣé"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "gẹ́gẹ́ bí i ìpa"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "àwọn tí a pa láìní"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "wọ́n pa á"
+    }
+  ],
+  "timestamp": "2026-08-23T01:48:22.667257522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ọ̀rọ̀ náà sì dára lójú Adonai, nítorí Shelomoh ti béèrè ⟨את⟩ ọ̀rọ̀ báyìí.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "sì dára"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀ náà"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "lójú"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "béèrè"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ náà"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "báyìí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:15.362094188Z",
+  "model": "glm-5.3"
+}

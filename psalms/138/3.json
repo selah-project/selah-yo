@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 138,
+  "translation": "Ní ọjọ́ tí mo pè ⟨é⟩, O sì dáhùn mi; O fi gígá gbé mi nínú ọkàn mi pẹ̀lú agbára.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "tí mo pè"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "O sì dáhùn mi"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "O fi gígá gbé mi"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "nínú ọkàn mi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "agbára"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:49.323085564Z",
+  "model": "glm-5.3"
+}

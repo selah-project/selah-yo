@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 83,
+  "translation": "Wọ́n wí pé, Ẹ wá, kí a mú wọn bọ́ ṣẹ́là kúrò nínú ìjọ àwọn orílẹ̀-èdè, kí orúkọ Yisrael má ṣe tí à bá rántì sí mọ́.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Wọ́n wí pé"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ẹ wá"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "kí a mú wọn bọ́ ṣẹ́là"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "kúrò nínú ìjọ àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí ... má ṣe"
+    },
+    {
+      "surface": "יזזכר",
+      "gloss": ""
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "tí à bá rántì sí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:17.111345794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Wọ́n sì ṣe bẹ́ẹ́; Aharon gúnte ⟨את⟩ ọwọ́ rẹ̀ pẹ̀lú ọ̀pá rẹ̀, ó sì lu ⟨את⟩ erùfé ilẹ̀ yìí, ó sì di kínnínní lára ènìyàn àti lára ẹranko; gbogbo erùfé ilẹ̀ yìí di kínnínní ní gbogbo ilẹ̀ Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "wọ́n sì ṣe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ́"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ó gúnte"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "pẹ̀lú ọ̀pá rẹ̀"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ó sì lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erùfé ilẹ̀ yìí"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "erùfé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ó sì di"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kínnínní"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "lára ènìyàn"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "àti lára ẹranko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "erùfé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "היה",
+      "gloss": "di"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "kínnínní"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:53.977409148Z",
+  "model": "glm-5.3"
+}

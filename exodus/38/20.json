@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Gbogbo àwọn ìdẹ̀ fún ⟨àgọ́⟩ náà àti fún ⟨ogbà⟩ ní ìkàlẹ̀ jẹ́ kóbà.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "àwọn ìdẹ̀"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "fún ⟨àgọ́⟩ náà"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "àti fún ⟨ogbà⟩"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní ìkàlẹ̀"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "jẹ́ kóbà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:29.822520090Z",
+  "model": "glm-5.3"
+}

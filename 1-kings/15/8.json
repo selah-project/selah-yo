@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Abiyam sì sùn pẹ̀lú àwọn baba rẹ̀, wọ́n sì sin ⟨את⟩ ó sílẹ̀ ní ìlú Dawid, Asa ọmọ rẹ̀ sì jọba lójú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "sì sùn"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Abiyam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "àwọn baba rẹ̀"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "wọ́n sì sin…sílẹ̀"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ó"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ní ìlú"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "sì jọba"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "lójú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:20:47.929381431Z",
+  "model": "glm-5.3"
+}

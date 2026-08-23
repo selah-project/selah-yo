@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Kọ́ mi ní ọ̀nà rẹ, Yahweh; ṣàtìlẹ́hin mi lójú ọ̀nà tó tọ́, nítorí àwọn ọ̀tá mi.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "kọ́ mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ọ̀nà rẹ"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "ṣàtìlẹ́hin mi"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "nójú ọ̀nà"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "tó tọ́"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "àwọn ọ̀tá mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:46.862467319Z",
+  "model": "glm-5.3"
+}

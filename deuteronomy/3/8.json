@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Nígbà yìí ni a gba ⟨את⟩ ilẹ̀ yìí lọ́wọ́ àwọn ọba méjì ti Emori, tí ó wà ní ẹ̀gbẹ́ odò Yarden kèké, láti odò Arnon dé òkè Chermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "Àti pé a gba"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nígbà"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "שני",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ti Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ní ẹ̀gbẹ́ odò … kèké"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "láti odò"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:51.990323883Z",
+  "model": "glm-5.3"
+}

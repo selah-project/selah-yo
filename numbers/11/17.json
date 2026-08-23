@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 11:17",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Èmi yóò sọ̀kalẹ̀, èmi yóò sì bá ọ̀ sọ̀rọ̀ níbẹ̀; èmi yóò sì gbà díẹ̀ lára ẹ̀mí tí ó wà lórí rẹ, èmi yóò sì sọ ọ́ sórí wọn; wọn yóò sì gbé ẹ̀rù iṣẹ́ ìjọ náà ⟨את⟩ pẹ̀lú rẹ, kí o sì má gbé ẹ̀ ní àìní-ẹlẹgbẹ́ rẹ lásànán.",
+  "tokens": [
+    {
+      "surface": "וירדתי",
+      "gloss": "Èmi yóò sọ̀kalẹ̀"
+    },
+    {
+      "surface": "ודברתי",
+      "gloss": "èmi yóò sì bá ọ̀ sọ̀rọ̀"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pẹ̀lú rẹ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "ואצלתי",
+      "gloss": "èmi yóò sì gbà díẹ̀ lára"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ẹ̀mí náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ó wà lórí rẹ"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "èmi yóò sì sọ ọ́ sórí"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sórí wọn"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "wọn yóò sì gbé"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pẹ̀lú rẹ",
+      "marks": "pẹ̀lú rẹ"
+    },
+    {
+      "surface": "במשא",
+      "gloss": "ẹ̀rù iṣẹ́"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí o sì má"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "gbé ẹ̀"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ní àìní-ẹlẹgbẹ́ rẹ lásànán"
+    }
+  ],
+  "timestamp": "2026-08-22T23:56:10.694514736Z",
+  "model": "glm-5.3"
+}

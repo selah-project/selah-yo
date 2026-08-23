@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 10:21",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Àti láti àwọn ọmọ Charim: Maasejah, Elijah, Shemajah, Yichiel, àti Uzzijah.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "Àti láti àwọn ọmọ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Charim"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "Maasejah"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "àti Elijah"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "àti Shemajah"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "àti Yichiel"
+    },
+    {
+      "surface": "ועזיה",
+      "gloss": "àti Uzzijah"
+    }
+  ],
+  "timestamp": "2026-08-23T04:59:45.443081083Z",
+  "model": "glm-5.3"
+}

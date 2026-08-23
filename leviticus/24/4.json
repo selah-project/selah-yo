@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Lórí ọ̀kan-ìtan mímọ́ ni yóò ṣàtèjá ⟨את⟩ àwọn fítílà náà níwájú Yahweh, láìígbà dúró.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Lórí"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ọ̀kan-ìtan"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "yóò ṣàtèjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn fítílà náà"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "àwọn fítílà náà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "láìígbà dúró"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:03.381933128Z",
+  "model": "glm-5.3"
+}

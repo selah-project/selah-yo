@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àwọn Filistini sì mú ⟨את⟩ ágbá Elohim, wọ́n sì gbé e lọ láti Eben-ha-Ezer dé Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Àwọn Filistini sì"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "mú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ágbá Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ágbá"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "wọ́n sì gbé e lọ"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "láti Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "dé Ashdod"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:45.079334031Z",
+  "model": "glm-5.3"
+}

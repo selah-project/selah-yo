@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "O sí rí ⟨את⟩ ìpànìyàn àwọn baba wa ní Mitzrayim, àti ⟨את⟩ ọ́pọ́n ìkígbe wọn tí o gbọ́ ní èdò Yalei Suph.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "O sí rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìpànìyàn"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ìpànìyàn"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "àwọn baba wa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ní Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọ́pọ́n ìkígbe wọn"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "ọ́pọ́n ìkígbe wọn"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tí o gbọ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "ים",
+      "gloss": "èdò"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Yalei Suph"
+    }
+  ],
+  "timestamp": "2026-08-23T05:05:14.516065581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Moshe sì rí ⟨את⟩ ìjọ náà, pé wọ́n ti di ènìyàn tí kò ní ìdarí, nítorí Aharon ti fi wọ́n sílẹ̀ di aláìní-darí, di ìrẹ́rínínú fún àwọn tí ó dúró lé wọn.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "sì rí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọ náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "ti di ènìyàn tí kò ní ìdarí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ti fi wọ́n sílẹ̀ di aláìní-darí"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "di ìrẹ́rínínú"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "fún àwọn tí ó dúró lé wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:24.307856467Z",
+  "model": "glm-5.3"
+}

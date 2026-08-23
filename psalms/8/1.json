@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Fún olùdarí-orin, nípa Gittith; orin ti Davíd.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí-orin"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Davíd"
+    }
+  ],
+  "timestamp": "2026-08-23T03:23:19.915808366Z",
+  "model": "glm-5.3"
+}

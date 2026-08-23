@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ó sì rìn ní ọ̀nà àwọn ọba Yisrael, ó sì fa ⟨את⟩ ọmọ rẹ̀ kọjá nínú iná, gẹ́gẹ́ bí ìbúra àwọn orílẹ̀-èdè tí Yahweh yọ kúrò níwájú àwọn ọmọ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ó sì rìn"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ní ọ̀nà"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ó sì tún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "fa kọjá"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nínú iná"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "gẹ́gẹ́ bí ìbúra"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "yọ kúrò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:51.071963616Z",
+  "model": "glm-5.3"
+}

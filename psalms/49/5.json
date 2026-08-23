@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Mo kó etí mi sí òwe, mo ṣí ọ̀kàn-ìnà mi pẹ̀lú kinnor.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "Mo kó"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "sí òwe"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "etí mi"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "mo ṣí"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "pẹ̀lú kinnor"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "ọ̀kàn-ìnà mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:25.573448899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Àti ⟨את⟩ ehín-ágbọn, nítorí pé ó ń gbé ejìná jáde, ṣùgbọ́n kì í ya ìyá ẹsẹ̀; ó jẹ́ àìmọ́ fún yín.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Àti ⟨את⟩",
+      "marks": "ehín-ágbọn"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "ehín-ágbọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ó ń gbé … jáde"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ejìná"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ṣùgbọ́n ìyá ẹsẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "ya"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "àìmọ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:48.991278797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Nítorí pẹ̀lú rẹ ni orísun ìyè wà; nínú ìmọ́lẹ̀ rẹ ni a ó ri ìmọ́lẹ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pẹ̀lú rẹ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "orísun"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ìyè"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "nínú ìmọ́lẹ̀ rẹ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "a ó ri"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìmọ́lẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:39.764099932Z",
+  "model": "glm-5.3"
+}

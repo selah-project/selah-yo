@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ó sì fi ⟨את⟩ àwọn ọ̀pá sínú àwọn ìfúnwọ́ ní orí ẹ̀gbẹ́ àpótí náà, láti gbé ⟨את⟩ àpótí náà.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ó sì fi…sínú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀pá"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "àwọn ọ̀pá"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "sínú àwọn ìfúnwọ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní orí"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "ẹ̀gbẹ́"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "àpótí náà"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "láti gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àpótí náà"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "àpótí náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:33.012225868Z",
+  "model": "glm-5.3"
+}

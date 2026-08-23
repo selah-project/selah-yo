@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ó sì fi ⟨את⟩ okú rẹ̀ sílẹ̀ sí ibi ìsìn rẹ̀, wọ́n sì ṣọ́fọ̀ fún un, wọ́n wí pé: Hú! arákùnrin mi!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "Ó sì fi … sílẹ̀ sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okú rẹ̀"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "okú rẹ̀"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "sí ibi ìsìn rẹ̀"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "wọ́n sì ṣọ́fọ̀ fún un"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hú!"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "arakùnrin mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:19:10.633980483Z",
+  "model": "glm-5.3"
+}

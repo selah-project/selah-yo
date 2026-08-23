@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Olódodo yóò hoyẹ ní ọjọ́ rẹ̀, àti pọ̀ àlàáfíà, títí di ìgbà tí òsùpà kò níí wà mọ́.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "yóò hoyẹ"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "ní ọjọ́ rẹ̀"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Olódodo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "àti pọ̀"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "kò níí wà mọ́"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "òsùpà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:57.452001486Z",
+  "model": "glm-5.3"
+}

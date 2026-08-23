@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 45:20",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Bẹ́ẹ̀ ni ki o ṣe ní ọjọ́ keje oṣù náà fún ẹnikẹ́ni tí ó ṣiṣẹ̀ àìní-lójú, àti fún ẹni tí a mú lọ́nà àìmọ̀; bẹ́ẹ̀ ni ki ẹ ṣe ìdáríjì ⟨את⟩ ilé náà.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "bẹ́ẹ̀ ni ki o ṣe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ìṣe"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ọjọ́ keje"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "oṣù náà"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "fún ẹnikẹ́ni"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "tí ó ṣiṣẹ̀ àìní-lójú"
+    },
+    {
+      "surface": "ומפתי",
+      "gloss": "àti fún ẹni tí a mú lọ́nà àìmọ̀"
+    },
+    {
+      "surface": "וכפרתם",
+      "gloss": "ki ẹ ṣe ìdáríjì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé náà"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    }
+  ],
+  "timestamp": "2026-08-23T02:58:04.996953819Z",
+  "model": "glm-5.3"
+}

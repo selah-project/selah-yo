@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "nítorí Yahweh Elohim yín, Ẹni tí ó ń rìn pẹ̀lú yín, ni yóò fi ara jà fún yín lójú àwọn ọ̀ta yín, láti gbà yín là ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "Ẹni tí ó ń rìn"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pẹ̀lú yín"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "láti fi ara jà"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lójú"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "àwọn ọ̀ta yín"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "láti gbà yín là"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:15:55.379671373Z",
+  "model": "glm-5.3"
+}

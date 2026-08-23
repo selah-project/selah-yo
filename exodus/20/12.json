@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Fún baba rẹ̀ ní ọ̀lá, àti fún ìyá rẹ̀ ní ọ̀lá, kí àwọn ọjọ́ rẹ̀ lè dàgbà sókè lórí ilẹ̀ tí Yahweh Elohim rẹ ń fún ọ.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "fún…ní ọ̀lá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba rẹ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba rẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìyá rẹ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ìyá rẹ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "lè dàgbà sókè"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "àwọn ọjọ́ rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ń fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:11.681558582Z",
+  "model": "glm-5.3"
+}

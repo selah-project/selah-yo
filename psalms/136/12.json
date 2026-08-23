@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 136,
+  "translation": "Pẹ̀lú ọwọ́ alágbara àti pẹ̀lú ẹ̀jì tí ó tè sókè; nítorí pé ìfẹ́ olóòtítọ́ rẹ̀ wà tí títí láé.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "Pẹ̀lú ọwọ́"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "alágbara"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "àti pẹ̀lú ẹ̀jì"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "tí ó tè sókè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ̀ wà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:57.013753Z",
+  "model": "glm-5.3"
+}

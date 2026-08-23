@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ẹ gbé ⟨את⟩ orí gbogbo àwùjọ àwọn ọmọ Yisrael, nípa àwọn ẹbí wọn, nípa ilé àwọn baba wọn, nínú ìṣirọ̀ orúkọ, gbogbo ọkùnrin, sí àwọn ènìyàn-nkan-nkan wọn.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ẹ gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orí gbogbo àwùjọ àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "àwùjọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nípa àwọn ẹbí wọn"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nípa ilé"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "nínú ìṣirọ̀"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "sí àwọn ènìyàn-nkan-nkan wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:48:26.327231850Z",
+  "model": "glm-5.3"
+}

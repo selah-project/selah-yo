@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Papọ̀ ni gbogbo àwọn tí ó korìíra mi ń fúnra-wọn sọ̀rọ̀ lódì sí mi; lódì sí mi ni wọ́n ń kéde èrò búburú fún mi.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "papọ̀"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lódì sí mi"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "ń fúnra-wọn sọ̀rọ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "àwọn tí ó korìíra mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lódì sí mi"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ń kéde èrò"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:08.374031482Z",
+  "model": "glm-5.3"
+}

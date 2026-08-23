@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Wọ́n sì jẹ́wọ́ ⟨את⟩ ẹ̀ṣẹ̀ wọn tí wọ́n ṣe; ó sì da ⟨את⟩ èwù ẹ̀ṣẹ̀ rẹ̀ padà pẹ̀lú àkọ́ rẹ̀, ó sì fi ọ̀kàndún rẹ̀ kún un, ó sì fún ẹnì tí ó ṣe ẹ̀ṣẹ̀ sí í.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "wọ́n sì jẹ́wọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀ṣẹ̀ wọn"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ẹ̀ṣẹ̀ wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wọ́n ṣe"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ó sì da padà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èwù ẹ̀ṣẹ̀ rẹ̀"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "èwù ẹ̀ṣẹ̀ rẹ̀"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "pẹ̀lú àkọ́ rẹ̀"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "sì fi ọ̀kàndún rẹ̀"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "kún un"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rí bẹ̀"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ó sì fún"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ẹnì tí"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ó ṣe ẹ̀ṣẹ̀ sí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "í"
+    }
+  ],
+  "timestamp": "2026-08-22T23:51:46.080243729Z",
+  "model": "glm-5.3"
+}

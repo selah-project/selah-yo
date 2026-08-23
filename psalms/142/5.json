@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 142,
+  "translation": "Wò ọ̀tún, kí o sì rí, nítorí tí ẹnikẹ́ni kò mì í; ìgbàsílẹ̀ ti sọ́nu lọ dì mi; ẹnikẹ́ni kò ń wà á fún ẹ̀mí mi.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Wò"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ọ̀tún"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kí o sì rí"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nítorí tí ẹnikẹ́ni kò"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mì í"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "mọ̀ (mì)"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ti sọ́nu lọ"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "ìgbàsílẹ̀"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dì mi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ẹnikẹ́ni kò"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "ń wà á"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "fún ẹ̀mí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:16.199238420Z",
+  "model": "glm-5.3"
+}

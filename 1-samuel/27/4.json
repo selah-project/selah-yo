@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Wọ́n sì sọ fún Shaúl pé Daivid ti sá lọ sí Gati; òun kò fi kun mọ́ láti wá á.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "wọ́n sí sọ fún"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ti sá"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daivid"
+    },
+    {
+      "surface": "גת",
+      "gloss": "sí Gati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ó fi kun"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "láti wá á"
+    }
+  ],
+  "timestamp": "2026-08-23T00:55:22.599392664Z",
+  "model": "glm-5.3"
+}

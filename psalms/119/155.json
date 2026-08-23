@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ìgbàlà jìnà sí àwọn aláṣẹ́-búburú, nítorí tí wọn kò wá òfin rẹ.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "jìnà sí"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "àwọn aláṣẹ́-búburú"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "Ìgbàlà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "òfin rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "wọn kò wá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:04.331059024Z",
+  "model": "glm-5.3"
+}

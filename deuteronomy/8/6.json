@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì yẹ kí o pa ⟨את⟩ àwọn àṣẹ Yahweh Elohim rẹ mọ́ mọ́, láti rìn ní àwọn ọ̀nà rẹ̀, àti láti bẹ̀rù ⟨את⟩ Ùn.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Ó sì yẹ kí o pa mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àṣẹ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "àwọn àṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "láti rìn"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ní àwọn ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "àti láti bẹ̀rù"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Ùn",
+      "marks": "Ùn (Yahweh)"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:20.464984172Z",
+  "model": "glm-5.3"
+}

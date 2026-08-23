@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ìbùkún ń bẹ́ lórí ⟦iwọ⟧ nígbà tí ó wọlé, àti ìbùkún ń bẹ́ lórí ⟦iwọ⟧ nígbà tí ó jáde.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ìbùkún ń bẹ́ lórí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwọ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "nígbà tí ó wọlé"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "àti ìbùkún ń bẹ́ lórí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwọ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "nígbà tí ó jáde"
+    }
+  ],
+  "timestamp": "2026-08-23T05:45:17.274388205Z",
+  "model": "glm-5.3"
+}

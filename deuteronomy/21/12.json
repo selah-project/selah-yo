@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "a ó sì gbé ẹ wá sí àárín ilé rẹ; ó sì gbẹ́rí ⟨את⟩ orí rẹ̀, ó sì gé ⟨את⟩ ìka ẹsẹ̀ rẹ̀,",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "a ó sì gbé ẹ wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "àárín"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ilé rẹ"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "ó sì gbẹ́rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orí rẹ̀"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "orí rẹ̀"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ó sì gé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìka ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "ìka ẹsẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:15:16.436167974Z",
+  "model": "glm-5.3"
+}

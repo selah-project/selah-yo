@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Yaakov sì wí pé, 'Tà á fún mi lónìí ⟨את⟩ ẹ̀tọ́ àkọ́bí rẹ.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Tà á fún mi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "lónìí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀tọ́ àkọ́bí rẹ"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "ẹ̀tọ́ àkọ́bí rẹ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:03:02.518792665Z",
+  "model": "glm-5.3"
+}

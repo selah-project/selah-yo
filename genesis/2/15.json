@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Yahweh Elohim sì gba ⟨את⟩ ẹ̀dá-ènìyàn náà, ó sì fi sí inú ọgbà Èdèní, láti lọ ṣiṣẹ́ rẹ̀ àti láti ṣọ́ ọ́.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "sì gba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀dá-ènìyàn náà"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ẹ̀dá-ènìyàn náà"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "ó sì fi sí (fìdí rẹ̀ sí) rẹ̀"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "inú ọgbà"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Èdèní"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "láti lọ ṣiṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "àti láti ṣọ́ ọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:18.364392419Z",
+  "model": "glm-5.3"
+}

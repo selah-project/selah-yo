@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Yehoshua sì pa ⟨את⟩ Amaleki àti ⟨את⟩ ènìyàn rẹ̀ run pẹ̀lú ẹ̀gbẹ́ idà.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "sì pa run"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ènìyàn rẹ̀"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ènìyàn rẹ̀"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pẹ̀lú ẹ̀gbẹ́"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:12.366012236Z",
+  "model": "glm-5.3"
+}

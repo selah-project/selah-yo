@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ẹ sì wí pé: kò sí ìwọ̀n nínú ọ̀nà Adonai. Gẹ́gẹ́ bí ọ̀nà rẹ̀ kọ̀ọ̀kan ni èmi yóò dá ⟨את⟩ yín lẹ́bi, eh, ilé Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "ẹ sì wí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "tọ́ ìwọ̀n"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnikọ̀ọ̀kan"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "gẹ́gẹ́ bí ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "èmi yóò dá lẹ́bi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín (ilé Yisrael)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T02:49:20.345539497Z",
+  "model": "glm-5.3"
+}

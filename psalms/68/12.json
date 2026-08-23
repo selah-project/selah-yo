@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Adonai ń fún wọn ní ọ̀rọ̀; àwọn obìrin ìjábọ̀ ìdúnrara náà jẹ́ ọ̀gá ńlá pọ̀.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ń fún wọn ní"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "àwọn obìrin ìjábọ̀ ìdúnrara"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ọ̀gá"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ńlá pọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:48.448303423Z",
+  "model": "glm-5.3"
+}

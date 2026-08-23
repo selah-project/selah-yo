@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Kó àwọn iṣẹ́ rẹ sí ọ̀dọ̀ Yahweh, kí àwọn èrò rẹ̀ lè dídúró ṣinṣin.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "kó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "àwọn iṣẹ́ rẹ"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "kí ... lè dídúró ṣinṣin"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "àwọn èrò rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:08:35.578618789Z",
+  "model": "glm-5.3"
+}

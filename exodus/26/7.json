@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ó sì gbọ́dọ̀ ṣe àwọn àsọ ìdènà irún ewúrẹ̀ fún àgbàla-òkè kan, lórí àgbàlá igbá náà; àsọ ìdènà mọ́kànlá ni ó gbọ́dọ̀ ṣe ⟨את⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ó sì gbọ́dọ̀ ṣe"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "àwọn àsọ ìdènà"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "irún ewúrẹ̀"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "fún àgbàla-òkè kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "àgbàlá igbá náà"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "fún mọ́kànlá"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "àwọn àsọ ìdènà"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ó gbọ́dọ̀ ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "àwọn àsọ ìdènà mọ́kànlá"
+    }
+  ],
+  "timestamp": "2026-08-22T23:25:49.719411332Z",
+  "model": "glm-5.3"
+}

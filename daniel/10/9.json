@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Mo sì gbọ́ ⟨את⟩ ohùn àwọn ọ̀rọ̀ rẹ̀; nígbà tí mo gbọ́ ⟨את⟩ ohùn àwọn ọ̀rọ̀ rẹ̀, èmi wà nínú orun tíí mu lójú mi, ojú mi sì wà sí ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "mo sì gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohùn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "àwọn ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "nígbà tí mo gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohùn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "àwọn ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mo wà"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "nínú orun tíí mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "lóri"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ojú mi sì"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sí ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:53:37.244142691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nígbà tí etí gbọ́, wọn yóò gbọ́rọ̀ sí mi; àwọn ọmọ ìlú àjèjì yóò tẹ̀ lé mi ní ìparun.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "nígbà tí … gbọ́"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "etí"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "yóò gbọ́rọ̀ sí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ìlú àjèjì"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "yóò tẹ̀ lé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi ní ìparun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:19.838629549Z",
+  "model": "glm-5.3"
+}

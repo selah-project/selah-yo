@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ṣùgbọ́n ọjọ́ keje ni Shabat, sí Yahweh Elohim rẹ; kì í ṣe iṣẹ́ kankan ní wà ó ṣe — ìwọ, ọmọ rẹ̀ kunbí, ọmọ rẹ̀ lobinrin, ìránṣẹ́ rẹ̀ okunrin, ìránṣẹ́ rẹ̀ obinrin, ẹranko rẹ̀, àti àlejò rẹ̀ tí ó wà ní ààfin rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "ṣùgbọ́n ọjọ́"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "keje"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "iwọ ó ṣe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kankan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "ọmọ rẹ̀ kunbí"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "ọmọ rẹ̀ lobinrin"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ́ rẹ̀ okunrin"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ìránṣẹ́ rẹ̀ obinrin"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "ẹranko rẹ̀"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "àti àlejò rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ó wà ní ààfin rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:11.681204860Z",
+  "model": "glm-5.3"
+}

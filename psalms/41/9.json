@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Ọ̀rọ̀ Belial ni wọ́n ń rọ̀ sí i; tí ó bá ṣùn, kì yóò gbéra dìde mọ́.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "wọ́n ń rọ̀ sí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "í"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ṣùn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "yóò fi sílẹ̀ mọ́"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "dìde"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:30.033450782Z",
+  "model": "glm-5.3"
+}

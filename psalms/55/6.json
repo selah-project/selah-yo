@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Ẹrù àti ṣíṣe gbigbẹ́ wọ inú mi, ìrù ẹrù pípọ́njú sì bo mi.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Ẹrù"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "àti ṣíṣe gbigbẹ́"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "wọ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "inú mi"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "sì bo mi"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ìrù ẹrù pípọ́njú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:45.721406604Z",
+  "model": "glm-5.3"
+}

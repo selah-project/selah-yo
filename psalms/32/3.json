@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Nítorí tí mo bàjọ́, ẹ̀ẹ̀kan mi gbẹ́, nípa ígbe ìkígbe mi ní ọjọ́ gbogbo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "mo bàjọ́"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "gbẹ́"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ẹ̀ẹ̀kan mi"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "nípa ígbe ìkígbe mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:01.354826059Z",
+  "model": "glm-5.3"
+}

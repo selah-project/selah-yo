@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Fún olùdarí orin, lórí orin kẹjọ — Orin sí ti David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí orin"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "orin kẹjọ (Sheminit)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin sí"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti David"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:39.174380821Z",
+  "model": "glm-5.3"
+}

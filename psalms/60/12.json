@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 60,
+  "translation": "Ṣé ìwọ kì í ṣe Elohim, ẹni tí ó ti sọ wa nù, tí kì í ṣe ìwọ, Elohim, kí o máà jáde pẹ̀lú àwọn ogun wa?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ṣé…kì í ṣe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "tí ó ti sọ wa nù"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tí kì í ṣe"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kí o máà jáde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "pẹ̀lú àwọn ogun wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:03.425770234Z",
+  "model": "glm-5.3"
+}

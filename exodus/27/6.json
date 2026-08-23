@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ìwọ àti sì ṣe àwọn ọ̀pọ́ fún pẹpẹ yìí, àwọn ọ̀pọ́ igi rọ́gàn, àti sì bọ̀ ⟨את⟩ wọn pẹ̀lú dúdú àmọ̀.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "àti sì ṣe"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "àwọn ọ̀pọ́"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "fún pẹpẹ yìí"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "àwọn ọ̀pọ́"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "igi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "rọ́gàn"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "àti sì bọ̀"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "dúdú àmọ̀"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "dúdú àmọ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:30.364143276Z",
+  "model": "glm-5.3"
+}

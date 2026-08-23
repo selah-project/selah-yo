@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Wọ́n sì yóò gba ⟨את⟩ wúrà àti ⟨את⟩ tẹkẹlẹt (àwọ̀ búlúù) àti ⟨את⟩ árgaman (àwọ̀ púrpù) àti ⟨את⟩ kọ̀gún-èèbí (àwọ̀ pupa) àti ⟨את⟩ línìn-pẹki.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "yóò gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wúrà"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "tẹkẹlẹt"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tẹkẹlẹt (àwọ̀ búlúù)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "árgaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "árgaman (àwọ̀ púrpù)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "kọ̀gún-èèbí"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "kọ̀gún-èèbí"
+    },
+    {
+      "surface": "השני",
+      "gloss": "(àwọ̀ pupa)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "línìn-pẹki"
+    },
+    {
+      "surface": "השש",
+      "gloss": "línìn-pẹki"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:52.348308083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Mo wí pé: Èmó ń ṣọ́ ⟨àwọn⟩ ọ̀nà mi, kí n má ba à ṣẹ̀ pẹ̀lú ahọ́n mi; èmó ń ṣọ́ ẹnu mi pẹ̀lú ìpàkọ́-ẹnu, nígbà tí ẹlẹ́ṣẹ̀ bá wà níwájú mi.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Mo wí"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "èmó ń ṣọ́"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ọ̀nà mi"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "kí n má ba à ṣẹ̀"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "pẹ̀lú ahọ́n mi"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "èmó ń ṣọ́"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ẹnu mi"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "pẹ̀lú ìpàkọ́-ẹnu"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ẹlẹ́ṣẹ̀"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "bá wà níwájú mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:44.949617390Z",
+  "model": "glm-5.3"
+}

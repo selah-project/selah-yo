@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Ìràn láti ìràn yóò yìn ⟨the⟩ iṣẹ́ rẹ̀ lọ́lá, àwọn ipá rẹ̀ sì ni wọ́n yóò kéde.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Ìràn"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "láti ìràn"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "yóò yìn lọ́lá"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "àwọn ipá rẹ̀ sì"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "wọn yóò kéde"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:33.835513844Z",
+  "model": "glm-5.3"
+}

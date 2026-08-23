@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 113,
+  "translation": "Ẹni tí ó ń kún ara dín láti wo nínú àwọn ọ̀run àti nínú ayé.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "ẹni tí ó ń kún ara dín"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "láti wo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nínú àwọn ọ̀run"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "àti nínú ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:59.251372390Z",
+  "model": "glm-5.3"
+}

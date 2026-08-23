@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Elohim sì gòkè láti orí rẹ̀, ní ibi tí ó ti sọ ⟨את⟩ pẹ̀lú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "sì gòkè"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "láti orí rẹ̀"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ní ibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pẹ̀lú rẹ̀",
+      "marks": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:50.877373122Z",
+  "model": "glm-5.3"
+}

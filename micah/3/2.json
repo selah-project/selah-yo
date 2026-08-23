@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn tí ó kórìíra rere, àti tí ó fẹ́ràn búburú; àwọn tí ó gbé ẹwàra wọn kúrò lórí wọn, àti ẹran wọn kúrò lórí egungun wọn;",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "àwọn tí ó kórìíra"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "àti tí ó fẹ́ràn"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "àwọn tí ó gbé"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "ẹwàra wọn"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kúrò lórí wọn"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "àti ẹran wọn"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kúrò lórí"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "egungun wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:11:19.028797469Z",
+  "model": "glm-5.3"
+}

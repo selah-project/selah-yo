@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 24:13",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Àwọn wọ́nyí jẹ́ lára àwọn tí ó dúró lódì ⟨ìmọ́lẹ̀⟩; wọn kò mọ ⟨àwọn⟩ ọ̀nà rẹ̀, wọn kò sì gbé ní àwọn ìlẹ̀wà rẹ̀.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "àwọn wọ́nyí"
+    },
+    {
+      "surface": "היו",
+      "gloss": "jẹ́ lára"
+    },
+    {
+      "surface": "במרדי",
+      "gloss": "tí ó dúró lódì"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìmọ́lẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "mọ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "àwọn ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kò"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "בנתיבתיו",
+      "gloss": "ní àwọn ìlẹ̀wà rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:25:45.136938103Z",
+  "model": "glm-5.3"
+}

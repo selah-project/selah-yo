@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ti Dawid, nígbà tí ó yí ⟨את⟩ òye rẹ̀ padà níwájú Avimelek, tí ó sì paa lọ.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ti Dawid"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "nígbà tí ó yí padà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òye rẹ̀"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "òye rẹ̀"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "tí ó sì paa"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:23.561105201Z",
+  "model": "glm-5.3"
+}

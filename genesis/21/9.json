@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Sára rí ⟨את⟩ ọmọ Haga ará Ìjìptú, ẹni tí ó bí fún Avraham, ní ìṣeré-ìrégún.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "rí"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ Haga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Haga"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "ará Ìjìptú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ó bí"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "fún Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "ní ìṣeré-ìrégún"
+    }
+  ],
+  "timestamp": "2026-08-23T05:39:10.596637599Z",
+  "model": "glm-5.3"
+}

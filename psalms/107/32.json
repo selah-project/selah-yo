@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Ki wọ́n sì gbé e ga nínú àsèjọba ìpọ̀nle ènìyàn, ki wọ́n sì yìn ín gbangba nínú ìgbìmọ̀ àwọn àgbà.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Ki wọ́n sì gbé e ga"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nínú àsèjọba ìpọ̀nle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "nígbìmọ̀ra nínu"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "ki wọ́n yìn ín gbangba"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:25.208844133Z",
+  "model": "glm-5.3"
+}

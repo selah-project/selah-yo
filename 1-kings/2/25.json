@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ọba Shelomoh sì rán nípa ọwọ́ Benayahu ọmọ Yehoyada; ó sì kọlu ọ́, ó sì kú.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì rán"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nípa ọwọ́"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "ó sì kọlu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ọ́"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ó sì kú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:42.287244630Z",
+  "model": "glm-5.3"
+}

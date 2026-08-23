@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ìwọ jẹ́ ẹlẹ́gún ní ìlú, ìwọ sì jẹ́ ẹlẹ́gún ní pápá.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "jẹ́ ẹlẹ́gún"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ní ìlú"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "sì jẹ́ ẹlẹ́gún"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ní pápá"
+    }
+  ],
+  "timestamp": "2026-08-23T00:18:39.149916642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Wọn kò pa ⟨את⟩ àwọn orílẹ̀-èdì mìíràn run, tí Yahweh ti pa àṣẹ fún wọn nípa wọn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wọn kò...run"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "pa...run"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn orílẹ̀-èdì mìíràn"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "àwọn orílẹ̀-èdì mìíràn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti pa àṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:18.427602341Z",
+  "model": "glm-5.3"
+}

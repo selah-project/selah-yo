@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì sáyé ní àárín òru, ọkùnrin náà sì bẹ̀rù̀, ó sì yí ara rẹ̀ padà; kíyèsi i, obìnrin kan wà tí ó sún lorí ẹsẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì sáyé"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ní àárín"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ó sì bẹ̀rù̀ (mí i lẹ́rù)"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "ó sì yí ara rẹ̀ padà (ó di i mọ́)"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kíyèsi i"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "obìnrin kan"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "tí ó sún"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "lorí ẹsẹ̀ rẹ̀ (ní ìhà ẹsẹ̀ rẹ̀)"
+    }
+  ],
+  "timestamp": "2026-08-23T04:34:45.291887284Z",
+  "model": "glm-5.3"
+}

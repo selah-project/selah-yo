@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Nítorí náà, kí oyè mi lè yín ọ́ pẹ̀lú ohùn orin, kí ó sì má ṣe tẹ́ mọ́lẹ̀. Yahweh, Elohim mi, èmi yóò dúpẹ́ lọ́dọ̀ rẹ̀ títí láé láé.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "kí ó lè yín ọ́ pẹ̀lú ohùn orin"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "oyè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí ó sì má ṣe"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tẹ́ mọ́lẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láé láé"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "èmi yóò dúpẹ́ lọ́dọ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:51.906295892Z",
+  "model": "glm-5.3"
+}

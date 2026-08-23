@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Èbi ń pa wọ́n, bíẹ́ náà òùn ń gbẹ wọ́n; ẹ̀mí wọn inú wọn fi í rẹ́.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Èbi ń pa wọ́n"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bíẹ́ náà"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "òùn ń gbẹ wọ́n"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ẹ̀mí wọn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "inú wọn"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "fi í rẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:43.029132806Z",
+  "model": "glm-5.3"
+}

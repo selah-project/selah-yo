@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Mo mọ̀ gbogbo ẹyẹ àwọn òkè, àti àwọn ẹranko igbó tí ó wà pẹ̀lú mi.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Mo mọ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ẹyẹ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "àti àwọn ẹranko"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "igbó"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "wà pẹ̀lú mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:20.494803801Z",
+  "model": "glm-5.3"
+}

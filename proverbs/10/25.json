@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Bí ìkọjá ìjì afẹ́fẹ́, kò sì olè-èṣẹ́ mọ́; ṣùgbọ́n ẹnitọ́ ní ⟨ìpìlẹ̀⟩ ayérayé.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "bí ìkọjá"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "ìjì afẹ́fẹ́"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sì … mọ́"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "olè-èṣẹ́"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ṣùgbọ́n ẹnitọ́"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "⟨ìpìlẹ̀⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ayérayé"
+    }
+  ],
+  "timestamp": "2026-08-23T04:05:56.775531314Z",
+  "model": "glm-5.3"
+}

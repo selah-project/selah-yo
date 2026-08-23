@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Bíbi Paroh sì sọ̀rọ̀ sókè, ó sì rí ⟨את⟩ àpò kéwé ní àárín àwọn ológi, ó sì fi àwọn ìràwọ̀ ráǹ wá, ó sì mú un.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "ó sì sọ̀rọ̀ sókè"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bíbi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "láti wẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "odò náà"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "àwọn ọmọbìnrin ilẹ̀kùn rẹ̀ sì"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ń rìn"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní etí"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ẹ̀gbẹ́"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "odò náà"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ó sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àpò kéwé"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "àpò kéwé"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ní àárín"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "àwọn ológi"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "ó sì fi ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "íràwọ̀ rẹ̀"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "ìràwọ̀ rẹ̀"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "ó sì mú un"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:49.774021306Z",
+  "model": "glm-5.3"
+}

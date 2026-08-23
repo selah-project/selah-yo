@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 142,
+  "translation": "Mo kigbe sí ọ́dọ̀ rẹ, Yahweh; mo sọ pé, Ìwọ ni ibi ààbọ̀ mi, ipín mi ní ilẹ̀ àwọn olóoyè.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Mo kigbe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mo sọ pé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ìwọ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ibi ààbọ̀ mi"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ipín mi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "àwọn olóoyè"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:16.199664138Z",
+  "model": "glm-5.3"
+}

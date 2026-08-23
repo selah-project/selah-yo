@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Yoash sì ṣe ohun tí ó tọ́ ní ojú Yahweh, gbogbo ọjọ́ Yehoyada àlùfáà náà.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ohun tí ó tọ́"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:31:05.907352826Z",
+  "model": "glm-5.3"
+}

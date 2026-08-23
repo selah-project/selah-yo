@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Moshe sì wí fún wọn pé: Dúró dé, kí n gbọ́ ohun tí Yahweh máa pàṣẹ nípa yín.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wí fún wọn pé"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "dúró dé"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "kí n gbọ́"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ohun"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "máa pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nípa yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:53:21.961824298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 10:8",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Àwọn ọmọ Ammon jade, wọ́n sì ṣètò ogun sí ẹnu ọ̀nà náà; Aram ti Tzova àti Rechov, àti àwọn ọkùnrin Tov àti Maakha sì wà ní ara wọn nìkan ní pápá.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "wọ́n jade"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "wọ́n sì ṣètò"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ọ̀nà náà"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובא",
+      "gloss": "Tzova"
+    },
+    {
+      "surface": "ורחוב",
+      "gloss": "àti Rechov"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "àti àwọn ọkùnrin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Tov"
+    },
+    {
+      "surface": "ומעכה",
+      "gloss": "àti Maakha"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "ní ara wọn nìkan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ní pápá"
+    }
+  ],
+  "timestamp": "2026-08-23T01:00:21.318135176Z",
+  "model": "glm-5.3"
+}

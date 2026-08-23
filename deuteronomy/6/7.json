@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Kí o sì kọ́ wọ́n fún àwọn ọmọ rẹ tí o sì bá wọn sọ̀rọ̀ nígbà tí o bá jọkọ sílẹ̀ ní ilé rẹ, nígbà tí o bá n rìn lórí ọ̀nà, nígbà tí o bá fibọ̀, àti nígbà tí o bá dìde.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "kí o sì kọ́ wọ́n fún wọn lóttọ̀-lóttọ̀"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "fún àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "tí o sì bá wọn sọ̀rọ̀"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nípa wọn"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "nígbà tí o bá jọkọ sílẹ̀"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ní ilé rẹ"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "nígbà tí o bá n rìn"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lórí ọ̀nà"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "nígbà tí o bá fibọ̀"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "àti nígbà tí o bá dìde"
+    }
+  ],
+  "timestamp": "2026-08-23T00:08:02.133524126Z",
+  "model": "glm-5.3"
+}

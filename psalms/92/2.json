@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 92,
+  "translation": "Ó dára láti dúpẹ́ fún Yahweh, àti láti yìn ín fún orúkọ rẹ, El Elyon.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Ó dára"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "láti dúpẹ́"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "àti láti yìn ín fún"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:50.746100450Z",
+  "model": "glm-5.3"
+}

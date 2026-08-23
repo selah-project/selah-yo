@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó sì kọ́ ilé-àgbà Yosef, kò sì yan ebí Efrajim.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "Ó sì kọ́"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ilé-àgbà"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "kò sì yan ebí"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "yan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:15.845995538Z",
+  "model": "glm-5.3"
+}

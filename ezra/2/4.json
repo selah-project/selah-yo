@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àwọn ọmọ Shẹfatyah, ọgọ́rùn-ún mẹta, àádọ́rin — àti méjì.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Àwọn ọmọ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Shẹfatyah"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mẹta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́rùn-ún"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "àádọ́rin"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "àti méjì"
+    }
+  ],
+  "timestamp": "2026-08-23T04:56:25.397989493Z",
+  "model": "glm-5.3"
+}

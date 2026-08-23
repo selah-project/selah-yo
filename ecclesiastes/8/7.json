@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Nítorí kò mọ ohun tí ó máa wáyé; nítorí bí ó ṣe wáyé, ta ni yóò sọ fún un?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ohun"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "tí ó máa wáyé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí ó ṣe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wáyé"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "yóò sọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    }
+  ],
+  "timestamp": "2026-08-23T04:43:07.620180713Z",
+  "model": "glm-5.3"
+}

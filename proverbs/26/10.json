@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Olórí ti ó yí padà ṣe gbogbo nǹkan; ẹni tí ó ba ẹni-àìgbọ́n lọ́wọ́, àti ẹni tí ó ba àwọn tí ń kọjá lọ́wọ́ ⟨ṣe aṣìṣe⟩.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "ti ó yí padà ṣe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo nǹkan"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ẹni tí ó ba … lọ́wọ́"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ẹni-àìgbọ́n"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "àti ẹni tí ó ba … lọ́wọ́"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "àwọn tí ń kọjá"
+    }
+  ],
+  "timestamp": "2026-08-23T04:12:21.239458102Z",
+  "model": "glm-5.3"
+}

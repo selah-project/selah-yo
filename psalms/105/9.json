@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Èyí tí ó kọ́ sí Avraham, àti ìbúra rẹ̀ sí Yitschak,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ó kọ́ sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "àti ìbúra rẹ̀"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "sí Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:43.885772693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Nítorí ìgbésí ayé mí ti parun ní ìbànújẹ́, àti ọdún mí ní ìfọkàn bàjẹ́; ipá mí ti rú gbà nítorí ẹ̀ṣẹ̀ mi, àti ẹ̀rùn mi ti sún mọ́ léká-lákà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ti parun"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "ní ìbànújẹ́"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ìgbésí ayé mí"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "àti ọdún mí"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "ní ìfọkàn bàjẹ́"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "ti rú gbà"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "nítorí ẹ̀ṣẹ̀ mi"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ipá mí"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "àti ẹ̀rùn mi"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "ti sún mọ́ léká-lákà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:47.902475475Z",
+  "model": "glm-5.3"
+}

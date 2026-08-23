@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 22:5",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Gẹ́gẹ́ bí ìgbìmọ̀ràn wọn, ó tẹ̀lé rẹ̀, ó sì lọ pẹ̀lú ⟨את⟩ Yehoram ọmọ Ahab ọba Yisraél lọ sí ogun lórí Hazael ọba Aram ní Ramot Gilead; àwọn ará Aram sì lu ⟨את⟩ Yoram.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "bí ìgbìmọ̀ràn wọn"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ó tẹ̀lé"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "lọ sí ogun"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "ní Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "sì lu"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "àwọn ará Aram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    }
+  ],
+  "timestamp": "2026-08-23T05:31:52.509059169Z",
+  "model": "glm-5.3"
+}

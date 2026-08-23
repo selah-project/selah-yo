@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Gbogbo ọkùnrin nínú àwọn àlùfáà lè jẹ ⟨את⟩ rẹ̀; mímọ́ àwọn mímọ́ ni.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "nínú àwọn àlùfáà"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "lè jẹ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "rẹ̀ (ẹbùn ẹ̀rù náà)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "àwọn mímọ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:08.810442221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 114,
+  "translation": "Yehudah di ibi mímọ́ Rẹ̀, Yisrael di àwọn ìjọba Rẹ̀.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ibi mímọ́ Rẹ̀"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "àwọn ìjọba Rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:53.027080652Z",
+  "model": "glm-5.3"
+}

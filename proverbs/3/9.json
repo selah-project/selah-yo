@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Gbọ́ọ́ Yahweh nípa ⟨את⟩ — pẹ̀lú ọrọ̀ rẹ, àti pẹ̀lú èkínní gbogbo èrè ilẹ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Gbọ́ọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "nípa ọrọ̀ rẹ"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "àti pẹ̀lú èkínní"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "èrè ilẹ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:02:46.491986240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Farao sì gbọ́ ⟨את⟩ ọ̀rọ̀ yìí, ó sì wá láti pa ⟨את⟩ Moshe; Moshe sì sálò kúrò ní ojú Farao, ó sì gbé ní ilẹ̀ Midian, ó sì jókòó létí odò náà.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "sì gbọ́"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ yìí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "sì wá"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "láti pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "sì sálò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kúrò ní ojú"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sì gbé"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sì jókòó"
+    },
+    {
+      "surface": "על",
+      "gloss": "létí"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "odò náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:38.700331922Z",
+  "model": "glm-5.3"
+}

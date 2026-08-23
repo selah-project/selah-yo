@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Kí ojú yín kí ó rí, kí ẹ̀yin sì wí pé, Yahweh jẹ́ tí ó tóbi kárí ààlà Israẹl.",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "Kí ojú yín"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "kí ó rí"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kí ẹ̀yin sì"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "jẹ́ tí ó tóbi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kárí"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "ààlà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:07.464318967Z",
+  "model": "glm-5.3"
+}

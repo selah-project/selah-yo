@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Nítorí Elohim yìí, Elohim wa ni ìgbà gbogbo àti láéláé; òun ni yóò darí wa títí dé ojú ikú",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ìgbà gbogbo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "àti láéláé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "yóò darí wa"
+    },
+    {
+      "surface": "על",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ojú ikú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:07.082952476Z",
+  "model": "glm-5.3"
+}

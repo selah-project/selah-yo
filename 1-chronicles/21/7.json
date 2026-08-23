@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ó sì burú lójú Elohim nípa ohun yìí, ó sì lu ⟨את⟩ Israẹli.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ó sì burú"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "lójú"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ohun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ó sì lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israẹli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    }
+  ],
+  "timestamp": "2026-08-23T05:16:37.205616635Z",
+  "model": "glm-5.3"
+}

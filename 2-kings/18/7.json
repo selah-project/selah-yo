@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 18:7",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Yahweh sì wà pẹ̀lú rẹ̀; nínú gbogbo níbi tí ó bá jáde lọ, ó ṣe gbogbo ẹ̀kọ́ rẹ̀ daadaa; ó sì dúró láwọ̀ ọba Ashur, kò sì ṣe ìránṣẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "sì wà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nínú gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "níbi tí"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ó bá jáde lọ"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "ó ṣe gbogbo ẹ̀kọ́ rẹ̀ daadaa"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "ó sì dúró láwọ̀"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ṣe ìránṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:33:52.211222210Z",
+  "model": "glm-5.3"
+}

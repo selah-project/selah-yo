@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àdámù sì wí pé: Obìnrin náà, tí o fi sí àwídídù pẹ̀lú mi, òun ni ó fún mi ní láti inú igi náà, èmi sì jẹ ẹ́.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "àdámù"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "obìnrin náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "o fi sí \/ o fún"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "pẹ̀lú mi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ó fún"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi ní"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti inú"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igi náà"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "èmi sì jẹ ẹ́"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:24.662278056Z",
+  "model": "glm-5.3"
+}

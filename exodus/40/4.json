@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Iwọ sì gbọ́dọ̀ mú ⟨את⟩ àga àwọn ohun-ẹlẹ́rìí wá, iwọ sì gbọ́dọ̀ ṣe ⟨את⟩ ìṣeto rẹ̀; iwọ sì gbọ́dọ̀ mú ⟨את⟩ mènàmènà wá, iwọ sì gbọ́dọ̀ mú ⟨את⟩ ìtàn-àtẹ rẹ̀ sí ìsàlẹ̀.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Iwọ sì gbọ́dọ̀ mú … wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àga àwọn ohun-ẹlẹ́rìí"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "àga àwọn ohun-ẹlẹ́rìí"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "iwọ sì gbọ́dọ̀ ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìṣeto rẹ̀"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "ìṣeto rẹ̀"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "iwọ sì gbọ́dọ̀ mú … wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mènàmènà"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "mènàmènà"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "iwọ sì gbọ́dọ̀ mú … sí ìsàlẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìtàn-àtẹ rẹ̀"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ìtàn-àtẹ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:28.198694801Z",
+  "model": "glm-5.3"
+}

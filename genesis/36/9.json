@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Àwọn ìbí wọnyí ni ti Esav, baba Edomu, ní òkè Seir.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Àwọn ìbí wọnyí ni"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ìbí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ní òkè"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:33.622421552Z",
+  "model": "glm-5.3"
+}

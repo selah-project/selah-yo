@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Bẹ́ẹ̀ ni Yahweh wí: nítorí àwọn ìṣẹ̀wà méta ti Damesek, àti fún ìkẹrin, èmi kì yóò padà; nítorí ìfọ́ wọn pẹ̀lú àwọn ohun-èlò ìfọ́ ti irin fún ⟨את⟩ Giladi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "méta"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "àwọn ìṣẹ̀wà"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ti Damesek"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti fún"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ìkẹrin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "yóò padà"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "ìfọ́ wọn"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "pẹ̀lú àwọn ohun-èlò ìfọ́"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ti irin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giladi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:06:46.503692579Z",
+  "model": "glm-5.3"
+}

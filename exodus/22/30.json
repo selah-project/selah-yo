@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ẹ jẹ́ àwọn ọkùnrin mímọ́ fún Mi; ẹ̀ran tí a ṣígbìn ní pápá, kì í ṣe tí ẹ gbọdọ̀ jẹ; ẹ máa sọ ọ́ fún ajá ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "ẹ jẹ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún Mi"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ẹ̀ran"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ní pápá"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "tí a ṣígbìn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "tí ẹ gbọdọ̀ jẹ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "fún ajá"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "ẹ máa sọ ọ́"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ọ́ (ẹ̀ran tí a ṣígbìn)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:10.737153610Z",
+  "model": "glm-5.3"
+}

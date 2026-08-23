@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 99,
+  "translation": "Yahweh, Elohim wa, ìwọ dáhùn wọn; El olùfaradà ìwọ jẹ́ fún wọn, bí ó tilẹ̀ jẹ́ pé ìwọ kọ ìdájọ́ lórí àwọn iṣẹ́ wọn.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "dáhùn wọn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "olùfaradà"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ìwọ jẹ́"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "bí ó tilẹ̀ jẹ́ pé ìwọ kọ ìdájọ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "àwọn iṣẹ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:16.907062083Z",
+  "model": "glm-5.3"
+}

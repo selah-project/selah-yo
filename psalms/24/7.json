@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ẹ gbé orí yín sókè,ẹnu-ọ̀nà àtijọ́, kí Ọba ògo lè wọ inú.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ẹ gbé … sókè"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ẹnu-ọ̀nà"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "orí yín"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "ẹ gbé ara yín sókè"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "ilẹ̀kùn"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "àtijọ́"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "kí … lè wọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ògo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:52.726323366Z",
+  "model": "glm-5.3"
+}

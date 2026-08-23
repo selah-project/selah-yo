@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 59,
+  "translation": "Ipá rẹ, ní ti Elohim ni emi yóò ṣọ́ sí; nítorí pé Elohim ní òkè-ìdáàbòbò mi.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Ipá rẹ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ní ti Elohim"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "emi yóò ṣọ́ sí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "òkè-ìdáàbòbò mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:46.149146974Z",
+  "model": "glm-5.3"
+}

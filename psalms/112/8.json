@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 112,
+  "translation": "Ọkàn rẹ̀ jẹ́ ìtìlẹ́yìn — kì í bẹ̀rù — títí tí ó fi máa rí àwọn ọ̀tá rẹ̀.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "jẹ́ ìtìlẹ́yìn"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í bẹ̀rù — kò"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "bẹ̀rù"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí tí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ó fi máa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rí"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "àwọn ọ̀tá rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:55.032061428Z",
+  "model": "glm-5.3"
+}

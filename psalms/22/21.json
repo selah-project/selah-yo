@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Gbà èmi mi kúrò lọ́wọ́ idà; ẹyọ mi kúrò lọ́wọ́ ajá.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Gbà"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kúrò lọ́wọ́ idà"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "èmi mi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ajá"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "ẹyọ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:06.488200478Z",
+  "model": "glm-5.3"
+}

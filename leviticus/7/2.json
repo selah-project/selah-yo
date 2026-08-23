@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Níbi tí wọ́n ti ń pa ⟨את⟩ ẹbùn-ìsọjú, níbẹ̀ ni wọ́n yóò pa ⟨את⟩ asham; àti ⟨את⟩ ẹ̀jẹ̀ rẹ̀ ni yóò tú sọ́rọ̀ àtẹ ìjọsìn lọ́wọ́ kalẹ̀kalẹ̀.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "níbi tí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "níbi tí"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "wọ́n ti ń pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹbùn-ìsọjú"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbùn-ìsọjú"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "wọ́n yóò pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asham"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹ̀jẹ̀ rẹ̀"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ẹ̀jẹ̀ rẹ̀"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "yóò tú sọ́rọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "sọ́rọ̀"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "àtẹ ìjọsìn"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "lọ́wọ́ kalẹ̀kalẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:36:02.149402981Z",
+  "model": "glm-5.3"
+}

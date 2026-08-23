@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Yosef sì dáhùn ⟨את⟩ Paraọ pé, Láìmi; Elohim ni yóò dáhùn ⟨את⟩ àlàáfíà Paraọ.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ó sì dáhùn"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paraọ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraọ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "Láìmi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "yóò dáhùn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àlàáfíà Paraọ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:10:47.374609890Z",
+  "model": "glm-5.3"
+}

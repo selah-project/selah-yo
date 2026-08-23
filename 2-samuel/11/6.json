@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "David sì ránṣẹ́ sí Yoav pé, Rán ⟨את⟩ Uriya ará Heti wá sí mi; Yoav sì ránṣẹ́ ⟨את⟩ Uriya sí David.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì ránṣẹ́ sí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "rán… wá"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya ará Heti"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ará Heti"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "sì ránṣẹ́"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:10.998628858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 9:2",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àwọn tí ó gbé ní àkọ́kọ́, tí ó wà nínú ilẹ̀-ogún àwọn ìjọba wọn, ní àwọn ìlú wọn — Yisrael, àwọn àlùfáà, àwọn Lewi, àti àwọn Netini.",
+  "tokens": [
+    {
+      "surface": "והיושבים",
+      "gloss": "Àwọn tí ó gbé"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ní àkọ́kọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "באחזתם",
+      "gloss": "ní àwọn ilẹ̀-ogún wọn"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "ní àwọn ìlú wọn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "àwọn Lewi"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "àti àwọn Netini"
+    }
+  ],
+  "timestamp": "2026-08-23T05:12:47.734203905Z",
+  "model": "glm-5.3"
+}

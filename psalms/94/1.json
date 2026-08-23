@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "El ti ìdájọ̀-ìdarajinà, Yahweh; El ti ìdájọ̀-ìdarajinà, han ⟨àwọn⟩ ara rẹ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "ti ìdájọ̀-ìdarajinà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "ti ìdájọ̀-ìdarajinà"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "han ⟨àwọn⟩ ara rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:11.845893079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "hosea 2:18",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì jẹ́ ní ọjọ́ yẹn, ìwásù Yahweh, ìwọ yóò pè mí ní Ishi mi; ìwọ kì yóò sì tún pè mí ní Baali mọ́.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ó sì jẹ́"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ìwásù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תקראי",
+      "gloss": "ìwọ yóò pè"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "Ishi mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ìwọ kì yóò sì"
+    },
+    {
+      "surface": "תקראי",
+      "gloss": "tún pè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mí"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "Baali"
+    }
+  ],
+  "timestamp": "2026-08-23T03:01:42.298943718Z",
+  "model": "glm-5.3"
+}

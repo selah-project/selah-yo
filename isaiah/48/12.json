@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Gbọ́ sí mi, Yaakov, àti Yisrael, èni tí mo pè: èmi ni Òun; èmi ni àkọ́kọ́, gẹ́gẹ́ ni èmi náà ni ìgbẹ̀yìn.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "àti Yisrael"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "èni tí mo pè"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni Òun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "àkọ́kọ́"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gẹ́gẹ́ ni èmi náà"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ìgbẹ̀yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:57:45.418799509Z",
+  "model": "glm-5.3"
+}

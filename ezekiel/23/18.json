@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 23:18",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Òun sí ṣe ìwà àgbèrè rẹ̀ di ìmúlẹ̀, ó sì ṣí ⟨את⟩ ìwọ̀mọ̀ rẹ̀ gbánnúujẹ́, ọkàn Mi sì yọrí kúrò lọ́dọ̀ rẹ̀, gẹ́gẹ́ bí ọkàn Mi ti yọrí kúrò lọ́dọ̀ arábìnrin rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ותגל",
+      "gloss": "ó sì ṣí… gbánnúujẹ́ (ìgbà kìíní)"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "ìwà àgbèrè rẹ̀"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ó sì ṣí… gbánnúujẹ́ (ìgbà kejì)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìwọ̀mọ̀ rẹ̀"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ìwọ̀mọ̀ rẹ̀"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "sì yọrí kúrò"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ọkàn Mi"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "lọ́dọ̀ rẹ̀"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "נקעה",
+      "gloss": "ti yọrí kúrò"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ọkàn Mi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "lọ́dọ̀"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "arábìnrin rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:45:31.825706016Z",
+  "model": "glm-5.3"
+}

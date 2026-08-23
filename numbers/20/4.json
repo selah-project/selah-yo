@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ìdí tí ẹ̀yin ti mú ⟨את⟩ ìparapọ̀ Yahweh wá sí ilẹ̀ ikarahun yìí, kí a lè kú níbẹ̀, àwa àti àwọn ẹranko wa?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Ìdí tí"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ẹ̀yin ti mú … wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìpàpọ̀ Yahweh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ìpàpọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ilẹ̀ ikarahun yìí"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kí a lè kú"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "àwa"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "àti àwọn ẹranko wa"
+    }
+  ],
+  "timestamp": "2026-08-22T23:59:01.250674881Z",
+  "model": "glm-5.3"
+}

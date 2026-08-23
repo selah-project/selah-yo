@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Láti àwọn ìdájọ rẹ kò sẹ́ ìrìn mi, nítorí pé ìwọ ni ó kọ́ mi.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "láti àwọn ìdájọ rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "sẹ́ ìrìn mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "kọ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:17.851500175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Gbẹ́kẹ̀ lé Yahweh ní gbogbo ọkàn rẹ, kí o sì má ṣe fi òye rẹ̀ ṣe ìgúnrẹ̀lẹ̀.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ní"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ọkàn rẹ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí o sì má ṣe"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "òye rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "fi ... ṣe ìgúnrẹ̀lẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:14.061827859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó fi ẹran ọ̀sìn wọn lé òjò yìnyín lọ́wọ́, àti ọ̀wọ́ máàlù̀ wọn fún ìmọ̀lẹ̀ iná mọ́namọ́na.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "Ó fi... lé... lọ́wọ́"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "lé òjò yìnyín"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "ẹran ọ̀sìn wọn"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "àti ọ̀wọ́ máàlù̀ wọn"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "fún ìmọ̀lẹ̀ iná mọ́namọ́na"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:33.958096461Z",
+  "model": "glm-5.3"
+}

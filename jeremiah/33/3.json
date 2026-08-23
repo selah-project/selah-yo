@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Pe ⟨sí⟩ mi, èmi yóò dáhùn fún ọ́, èmi yóò sọ fún ọ àwọn nǹnkan ńlá àti àwọn ìṣúra-ìkọkọ tí iwo kò mọ̀ wọn.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Pe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "èmi yóò dáhùn fún ọ́"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "èmi yóò sọ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "àwọn nǹnkan ńlá"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "àti àwọn ìṣúra-ìkọkọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "iwo mọ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:58:09.931148163Z",
+  "model": "glm-5.3"
+}

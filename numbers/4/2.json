@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Gbé ⟨את⟩ orí àwọn ọmọ Kehath sókè, láàárín àwọn ọmọ Levii, nípa àwọn ẹbí wọn, nípa ilé àwọn baba wọn",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "gbé… sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orí àwọn ọmọ Kehath"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehath"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levii"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nípa àwọn ẹbí wọn"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nípa ilé"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "àwọn baba wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:38.557459811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 2:8",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì wáyé, nígbà tí ọ̀rọ̀ ọba àti òfin rẹ̀ gbọ́n, àti nígbà tí wọ́n ka àwọn òmọbìnrin púpọ̀ jọ sí Shushan ilẹ̀-ọba, sí ọwọ́ Hegai, wọ́n sì mú Ester lọ sí ilé ọba, sí ọwọ́ Hegai, olùṣọ́ àwọn obìnrin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé"
+    },
+    {
+      "surface": "בהשמע",
+      "gloss": "nígbà tí ... gbọ́n"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ודתו",
+      "gloss": "àti òfin rẹ̀"
+    },
+    {
+      "surface": "ובהקבץ",
+      "gloss": "àti nígbà tí wọ́n ka ... jọ"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "àwọn òmọbìnrin"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ilẹ̀-ọba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "הגי",
+      "gloss": "Hegai"
+    },
+    {
+      "surface": "וותלקח",
+      "gloss": "wọ́n sì mú ... lọ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "הגי",
+      "gloss": "Hegai"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "olùṣọ́"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "àwọn obìnrin"
+    }
+  ],
+  "timestamp": "2026-08-23T04:45:49.701888434Z",
+  "model": "glm-5.3"
+}

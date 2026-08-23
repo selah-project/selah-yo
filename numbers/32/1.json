@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 32:1",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Ẹranko púpọ̀ sì wà fún àwọn ọmọ Reuven àti fún àwọn ọmọ Gad, tí ó pọ̀ jùlọ; wọ́n sì rí ⟨את⟩ ilẹ̀ Yaazer àti ⟨את⟩ ilẹ̀ Giladi, kiakia, ibi ni ibi fún ẹranko.",
+  "tokens": [
+    {
+      "surface": "ומקנה",
+      "gloss": "ẹranko púpọ̀ sì"
+    },
+    {
+      "surface": "רב",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "àti fún àwọn ọmọ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "tí ó pọ̀ jùlọ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀ gan-an"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "wọ́n sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ Yaazer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilẹ̀ Giladi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kiakia, sì"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ibi náà"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "fún ẹranko"
+    }
+  ],
+  "timestamp": "2026-08-23T00:04:06.758863494Z",
+  "model": "glm-5.3"
+}

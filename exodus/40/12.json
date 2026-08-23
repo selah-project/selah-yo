@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ìwọ yóò sì mú ⟨את⟩ Aharon àti ⟨את⟩ àwọn ọmọ rẹ̀ wá síwájú ọ̀nà-ìgbà-sí-ìgbà yìí (agbọ̀n yìí), ìwọ yóò sì fi omi wú ⟨את⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ìwọ yóò sì mú wá síwájú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọ̀nà-ìgbà-sí-ìgbà yìí"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgbàlà (àgbàlà yìí)"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìgbà-àpàdé yìí"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ìwọ yóò sì fi omi wú"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "Aharon àti àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "במים",
+      "gloss": "pẹ̀lú omi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:38.868342529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 15:4",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Bákan náà ni ìwọ ṣe ń pa ìbẹ̀rù rẹ́, ìwọ sì ń dín ìjìnlẹ̀-ìsọ̀rọ̀ kù níwájú El.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "bákan náà ni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "ń pa rẹ́"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ìbẹ̀rù"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "ìwọ sì ń dín ... kù"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "ìjìnlẹ̀-ìsọ̀rọ̀"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-23T04:21:27.437160798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Pẹ̀lú ìtọ́ka-ẹ̀bi lórí àìṣe, ìwọ fi ìyà jẹ ènìyàn; ìwọ sì jẹ́ kí ohun ìfẹ́ rẹ ràn bíi àwọ́n; dájúdájú, èéfán ni gbogbo ènìyàn. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "pẹ̀lú ìtọ́ka-ẹ̀bi"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "עון",
+      "gloss": "àìṣe"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "ìwọ fi ìyà jẹ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "ìwọ sì jẹ́ kí ó ràn"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "bíi àwọ́n"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "ohun ìfẹ́ rẹ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dájúdájú"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "èéfán"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:49.969393120Z",
+  "model": "glm-5.3"
+}

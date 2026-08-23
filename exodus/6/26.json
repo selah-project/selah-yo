@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ìwọnyí ni Aharon àti Moshe, tí Yahweh sọ fún wípé: Ẹ mú ⟨את⟩ àwọn ọmọ Yisrael jáde kúrò lórílẹ̀-èyi Mitzrayim, ní àwọn ẹgbẹ́-ogun wọn.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ìwọnyí ni ⟨ọ̀"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "àti Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sọ fún wípé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Ẹ mú ... jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kúrò lórílẹ̀-èyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "àwọn ẹgbẹ́-ogun wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:57.016924799Z",
+  "model": "glm-5.3"
+}

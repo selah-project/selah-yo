@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "àti Ḥashuvah, àti Ohel, àti Berekjah, àti Ḥasadja, àti Yushav-Ḥesed, márùn-ún.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "àti Ḥashuvah"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "àti Ohel"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "àti Berekjah"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "àti Ḥasadja"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Yushav"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Ḥesed"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "márùn-ún"
+    }
+  ],
+  "timestamp": "2026-08-23T05:09:22.450070886Z",
+  "model": "glm-5.3"
+}

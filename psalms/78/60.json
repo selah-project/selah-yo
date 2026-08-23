@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó fi ibùgbé Shilo sílẹ̀, àgọ́ tí ó ṣẹ́ kalẹ̀ láàrín àwọn ènìyàn.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "ó fi sílẹ̀"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ibùgbé"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ó ṣẹ́ kalẹ̀"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "láàrín àwọn ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:45.920000973Z",
+  "model": "glm-5.3"
+}

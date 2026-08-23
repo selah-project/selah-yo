@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Yehu kó ⟨את⟩ gbogbo àwọn ènìyàn jọ, ó sì wí fún wọn pé, Ahab ṣẹ́ Baal diẹ̀; Yehu yóò ṣẹ́ ọ́ púpọ̀.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "kó jọ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ènìyàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fún wọn pé"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ṣẹ́ (ìṣẹ́)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "diẹ̀"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "yóò ṣẹ́ ọ́"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:49.569910354Z",
+  "model": "glm-5.3"
+}

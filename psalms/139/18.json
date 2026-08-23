@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Mo ka wọn — wọn pọ̀ ju yànyàn lọ; mo jí, èmi sì wà títí pẹ̀lú rẹ.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "Mo ka wọn"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "yànyàn"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "wọn pọ̀ ju ... lọ"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "mo jí"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "èmi sì wà títí"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pẹ̀lú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:22.548049775Z",
+  "model": "glm-5.3"
+}

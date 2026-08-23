@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 122,
+  "translation": "Ẹsẹ̀ wa dúró ⟨láti ìgbà tí⟩ ní ẹnu-ààrin ìlú rẹ, Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨ti wà⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ẹsẹ̀ wa"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ní ẹnu-ààrin ìlú rẹ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:30.842987233Z",
+  "model": "glm-5.3"
+}

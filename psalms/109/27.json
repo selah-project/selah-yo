@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Kí wọ́n sì mọ̀ pé ọwọ́ rẹ ni èyí; ìwọ, Yahweh, ni ó ṣe é.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "kí wọ́n sì mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ìwọ ṣe é"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:07.452750441Z",
+  "model": "glm-5.3"
+}

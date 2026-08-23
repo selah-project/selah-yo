@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ẹ wá sọdọ̀ mi, ẹ̀yin kí ẹ ràn mi lọ́wọ́, kí a lè lu ⟨את⟩ Gibon, nítorí pé ó ti ṣe àlàfià pẹ̀lú ⟨את⟩ Yehoshua àti ⟨את⟩ àwọn ọmọ Yisrael.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "ẹ wá"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sọdọ̀ mi"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "ẹ ràn mi lọ́wọ́"
+    },
+    {
+      "surface": "וינכה",
+      "gloss": "kí a lè lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "ó ti ṣe àlàfià pẹ̀lú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T00:26:21.214778290Z",
+  "model": "glm-5.3"
+}

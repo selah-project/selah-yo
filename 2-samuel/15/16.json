@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ọba náà jade, àti gbogbo ilé rẹ̀ ní ẹsẹ̀ rẹ̀; ọba náà sì fi ⟨את⟩ àwọn obìnrin mẹ́wàà, ìyàwó àlè, sílẹ̀ láti ṣọ́ ilé náà.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ó jade"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba ⟨the⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ní ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ó sì fi sílẹ̀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba ⟨the⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn obìnrin mẹ́wàà"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mẹ́wàà"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "obìnrin"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "ìyàwó àlè"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "láti ṣọ́"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé ⟨the⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T01:03:27.272179302Z",
+  "model": "glm-5.3"
+}

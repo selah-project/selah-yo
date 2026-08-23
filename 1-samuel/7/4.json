@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àwọn ọmọ Israẹl sì yọ ⟨את⟩ àwọn Baal àti ⟨את⟩ àwọn Ashtarot kúrò, wọ́n sì ṣìn ⟨את⟩ Yahweh nìkan.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "wọ́n sì yọ kúrò"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "àwọn Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Ashtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "àwọn Ashtarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "wọ́n sì ṣìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nìkan"
+    }
+  ],
+  "timestamp": "2026-08-23T00:45:03.371803499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ọba sì padà, ó sì dé ibi Yorudanu; Yehuda sì wá sí Giligala láti lọ pàdé ọba, láti gbé ⟨את⟩ ọba kọjá ⟨את⟩ Yorudanu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "padà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì dé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé ibi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudanu"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehuda sì"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wá"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "sí Giligala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "láti lọ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pàdé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "láti gbé ... kọjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorudanu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudanu"
+    }
+  ],
+  "timestamp": "2026-08-23T01:05:44.857421582Z",
+  "model": "glm-5.3"
+}

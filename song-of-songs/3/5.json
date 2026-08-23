@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Mo ti búra fún yín, ⟨את⟩ ọmọbìnrin Yerushalayim, nípa àwọn àgbọ́n, tàbí nípa àwọn àgbọ́n-abọ ti pápá: kí ẹ má fi jí, àti kí ẹ má dìde ⟨את⟩ ìfẹ́, títí tí ó bá fẹ́.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Mo ti búra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "fún yín, ⟨את⟩",
+      "marks": "ọmọbìnrin"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ọmọbìnrin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "nípa àwọn àgbọ́n"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "nípa àwọn àgbọ́n-abọ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ti pápá"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kí ẹ má"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "fi jí"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "àti kí ẹ má"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "dìde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìfẹ́"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ìfẹ́"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "tí ó bá fẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:33:49.035108140Z",
+  "model": "glm-5.3"
+}

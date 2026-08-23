@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ataliyah, iya Ahaziahu, rí i pé ọmọ rẹ̀ ti kú; ó sí dìde, ó sí pa ⟨את⟩ gbogbo irúgbìn ìjọba náà run.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Ataliyah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iya"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "ó rí i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ti kú"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ó sí dìde"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "ó sí pa … run"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo irúgbìn ìjọba náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "irúgbìn"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ìjọba náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:53:19.372393169Z",
+  "model": "glm-5.3"
+}

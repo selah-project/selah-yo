@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Yaakov sì bẹ̀rù púpọ̀ gan-an, ó sì ṣòro fún ra rẹ̀; ó sì pín ⟨את⟩ àwọn ènìyàn tí ó wà pẹ̀lú rẹ̀, àti ⟨את⟩ àwọn àgùntàn, àti ⟨את⟩ àwọn màlúù, àti àwọn rakúmi, sí àwọn ààbò méjì.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "sì bẹ̀rù"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀ gan-an"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ó sì ṣòro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún ra rẹ̀"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "ó sì pín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pẹ̀lú rẹ̀",
+      "marks": "àwọn ènìyàn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn àgùntàn"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "àwọn àgùntàn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn màlúù"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "àwọn màlúù"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "àti àwọn rakúmi"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "sí ... méjì"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "àwọn ààbò"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:18.566555289Z",
+  "model": "glm-5.3"
+}

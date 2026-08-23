@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Lẹ́yìn rẹ̀ sì ni Elazar ọmọ Dodo, ọmọ Ahohi; òun wà láàárín àwọn ènìyàn-ipá mẹ́ta.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "Lẹ́yìn rẹ̀ sì"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ni Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Dodo"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "ọmọ Ahohi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "láàárín mẹ́ta"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "àwọn ènìyàn-ipá"
+    }
+  ],
+  "timestamp": "2026-08-23T05:12:51.661594807Z",
+  "model": "glm-5.3"
+}

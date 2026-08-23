@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "àti ⟨את⟩ tábìlì náà àti ⟨את⟩ gbogbo irinṣẹ́ rẹ̀, àti ⟨את⟩ àtẹ́ ìmọ́lẹ̀ náà àti ⟨את⟩ irinṣẹ́ rẹ̀, àti ⟨את⟩ pẹpẹ ẹrọ ijẹ ní àṣà",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "tábìlì náà"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tábìlì náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àtẹ́ ìmọ́lẹ̀ náà"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "àtẹ́ ìmọ́lẹ̀ náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "pẹpẹ ẹrọ ijẹ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ ẹrọ ijẹ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ẹrọ ijẹ ní àṣà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:46.399716493Z",
+  "model": "glm-5.3"
+}

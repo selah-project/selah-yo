@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Yahweh yóò wá sí ìdájọ pẹ̀lú àwọn àgbà ti ènìyàn rẹ̀, àti àwọn olórí rẹ̀; nítorí ẹ̀yin ti jẹ igi àjàrà náà run; jalẹ̀ ti ọ̀tọ̀sì náà sì wà ní àwọn ilé yín.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sí ìdájọ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "yóò wá"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "àwọn àgbà ti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ènìyàn rẹ̀"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "àti àwọn olórí rẹ̀"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ẹ̀yin"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "ẹ ti jẹ … run"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "igi àjàrà náà"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "jalẹ̀ ti"
+    },
+    {
+      "surface": "העני",
+      "gloss": "ọ̀tọ̀sì náà"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "ní àwọn ilé yín"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:26.701492027Z",
+  "model": "glm-5.3"
+}

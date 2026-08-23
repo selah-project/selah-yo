@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì mú ibi-ẹ̀yà láti inú ẹbùn àlàáfíà wá, bíi ẹbùn iná fún Yahweh: ⟨את⟩ ọra tí ó bo ⟨את⟩ àwọn inú, àti ⟨את⟩ gbogbo ọra tí ó wà lórí àwọn inú náà.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Ó sì mú ibi-ẹ̀yà wá"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ibi-ẹ̀yà"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ẹbùn àlàáfíà"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ẹbùn iná"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ọra"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "tí ó bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn inú"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "àwọn inú"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ọra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ọra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "àwọn inú náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:46.780552884Z",
+  "model": "glm-5.3"
+}

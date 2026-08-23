@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Barak sì wí fúnni pé, Tí o bá lọ pẹ̀lú mi, èmi yóò lọ; ṣùgbọ́n tí o kò bá lọ pẹ̀lú mi, èmi kì yóò lọ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "fúnni"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí o bá"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pẹ̀lú mi"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "èmi yóò lọ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ṣùgbọ́n bí o kò bá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pẹ̀lú mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì yóò"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:34:34.770708151Z",
+  "model": "glm-5.3"
+}

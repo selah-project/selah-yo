@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 77,
+  "translation": "Ohùn mi sí Elohim, kí n sì kígbé; ohùn mi sí Elohim, kí ó sì gbọ́ràn sí mi.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "kí n sì kígbé"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "kí ó sì gbọ́ràn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:35.443475689Z",
+  "model": "glm-5.3"
+}

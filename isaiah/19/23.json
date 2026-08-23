@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ní ọjọ́ yẹn yóò wáyé ọ̀nà-ààbò láti Mísraim lọ sí Ashur; Ashur yóò wá sí Mísraim, Mísraim yóò sì tẹ̀dí sí Ashur; Mísraim yóò sìn pẹ̀lú ⟨את⟩ Ashur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yóò wáyé"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "ọ̀nà-ààbò"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "láti Mísraim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "sí Ashur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "yóò wá"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sí Mísraim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "Mísraim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "sí Ashur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "yóò sìn pẹ̀lú"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mísraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-23T01:46:14.556981940Z",
+  "model": "glm-5.3"
+}

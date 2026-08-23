@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Kí àwọn tí Yahweh tútà sọ́ wí pé irú ni, àwọn tí ⟨ó⟩ ti tútà lọ́wọ́ ọ̀tá.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "kí... sọ"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "àwọn tí... tútà sọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "àwọn tí"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "tútà"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ọ̀tá"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:38.400748698Z",
+  "model": "glm-5.3"
+}

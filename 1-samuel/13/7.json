@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Àwọn Hébérù sì gba ⟨את⟩ Yordani kọjá sí ilẹ̀ Gad àti Gileadi; Sha'ul sì wà ní Gilgal bákan náà, gbogbo ènìyàn náà sì ń bẹ̀rù lẹ́yìn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Àwọn Hébérù"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gba ... kọjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "àti Gileadi"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Sha'ul sì"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "wà bákan náà"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ní Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "ń bẹ̀rù"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "lẹ́yìn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:46:15.172412339Z",
+  "model": "glm-5.3"
+}

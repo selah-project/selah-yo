@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Nítorí náà, ẹ̀yin àwọn ọba, ẹ gbọ́n; ẹ̀yin àwọn adájọ́ ilẹ̀ ayé, ẹ gbà́ wọ́n níyà.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ẹ̀yin àwọn ọba"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ẹ gbọ́n"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "ẹ gbà́ wọ́n níyà"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "àwọn adájọ́"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:13.503743487Z",
+  "model": "glm-5.3"
+}

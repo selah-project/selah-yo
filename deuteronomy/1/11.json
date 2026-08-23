@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Yahweh, Elohim àwọn baba yín, ó ki í ṣe àfikún ṣe fún yín bí ẹ ṣe pọ̀ tó ẹ̀ẹ̀rún ìgbà, ó sì ki í ṣe ìbùkún ṣe ⟨את⟩ yín, gẹ́gẹ́ bí ó ti sọ fún yín!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "àwọn baba yín"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "kì í ṣe àfikún ṣe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "bí ẹ ṣe pọ̀ tó"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹ̀ẹ̀rún"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ìgbà"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ó sì kì í ṣe ìbùkún ṣe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ó ti sọ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:13.206208687Z",
+  "model": "glm-5.3"
+}

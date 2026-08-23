@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Wọ́n padà, wọ́n lọ, wọ́n sì gbé ⟨את⟩ àwọn ọmọdé, ⟨את⟩ ẹran-ọ̀sìn àti ⟨את⟩ ẹrù tó wúlò sí iwájú wọn.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "wọ́n padà"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wọ́n lọ"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "wọ́n sì gbé…sí iwájú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọdé"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "àwọn ọmọdé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹrù tó wúlò"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "ẹrù tó wúlò"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sí iwájú wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:40:38.769470277Z",
+  "model": "glm-5.3"
+}

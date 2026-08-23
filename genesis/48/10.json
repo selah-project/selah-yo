@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 48:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Ojú Yisrael sì ṣúru láti ọ̀rẹ̀-àgbà, kí ó lè rí rára; ó sì mú ⟨את⟩ wọn lọ sí ọ̀dọ̀ rẹ̀, ó sì fẹ́nú sí wọn, ó sì fà á mọ́ra.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "ṣúru"
+    },
+    {
+      "surface": "מזקן",
+      "gloss": "láti ọ̀rẹ̀-àgbà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ló lè"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "rí rára"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "ó sì mú… lọ sí"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sí ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ó sì fẹ́nú sí"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "ó sì fà á mọ́ra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:13:26.329080563Z",
+  "model": "glm-5.3"
+}

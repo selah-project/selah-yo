@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ní ọdún kẹtàdínlógún ti Pekah ọmọ Remalyahu, Achaz ọmọ Yotam, ọba Yehudah, di ọba.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ní ọdún"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "meje"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-dínlógún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "ti Pekah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "di ọba"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:51.071420242Z",
+  "model": "glm-5.3"
+}

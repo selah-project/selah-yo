@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Bí ẹ̀bùn rẹ̀ jẹ́ ìsún-oró láti ara màálù, ọkùnrin làìní ìkọ̀ ni ó máa mú un wá; sí ẹnu-àgọ̀ ìpàdé ni ó máa mú ⟨את⟩ un kalẹ̀, fún ìfaramọ́ rẹ̀, níwájú Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ìsún-oró"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ẹ̀bùn rẹ̀"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti ara"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "màálù"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "làìní ìkọ̀"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ó máa mú un wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ̀"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ó máa mú kalẹ̀"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "un (ẹranko ẹ̀bùn náà)"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "fún ìfaramọ́ rẹ̀"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:49.429007132Z",
+  "model": "glm-5.3"
+}

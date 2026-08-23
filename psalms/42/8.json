@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Òkun jinlẹ̀ ń pè sí òkun jinlẹ̀ ní ohùn àwọn ìsàn omi rẹ̀; gbogbo àwọn ìjì rẹ̀ àti àwọn ìgboòmì rẹ̀ ni wọ́n ti kọjà lóri mi.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Òkun jinlẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "òkun jinlẹ̀"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ń pè"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ní ohùn"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "àwọn ìsàn omi rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "àwọn ìjì rẹ̀"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "àti àwọn ìgboòmì rẹ̀"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lóri mi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "wọ́n ti kọjà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:29.011430259Z",
+  "model": "glm-5.3"
+}

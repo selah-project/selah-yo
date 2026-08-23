@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Orin kíkọ fún Davíd. Ẹ fún Yahweh, àwọn ọmọ Elohim; ẹ fún Yahweh ipọ́ àti agbára.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Orin kíkọ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún Davíd"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ẹ fún"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ẹ fún"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ipọ́"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "àti agbára"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:28.468219603Z",
+  "model": "glm-5.3"
+}

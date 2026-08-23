@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Lẹ́yìn ìyẹn, gbogbo àwọn ọmọ Yisrael sì sún mọ́ ọ́; ó sì pa wọ́n ní àṣẹ ⟨את⟩ gbogbo ohun tí Yahweh ti sọ̀rọ̀ ⟨את⟩-pẹ̀lú rẹ̀ lórí òkè Sinai.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ìyẹn"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "sún mọ́ sì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "pa wọ́n ní àṣẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ohun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pẹ̀lú rẹ̀",
+      "marks": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "lórí òkè"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-22T23:29:44.261256753Z",
+  "model": "glm-5.3"
+}

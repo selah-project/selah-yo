@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "O sì ṣe àwọn amù fàdàkà àádọ́ta, o sì fi ⟨את⟩ àwọn amù náà wọ inú àwọn ìwọ̀, o sì sọ ⟨את⟩ àgọ́ náà di ọ̀kan, kí ó lè jẹ́ ẹyọkan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o sì ṣe"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "àwọn amù"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "fàdàkà"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "àádọ́ta"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "o sì fi wọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn amù náà"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "àwọn amù"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "inú àwọn ìwọ̀"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "o sì sọ di ọ̀kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgọ́ náà"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "àgọ́ náà"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kí ó lè jẹ́"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ẹyọkan"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:07.329528910Z",
+  "model": "glm-5.3"
+}

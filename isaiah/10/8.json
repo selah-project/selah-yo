@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Nítorí tí ó ń sọ pé, Ìjọba mi kò ṣe àwọn ọba pọ̀?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí tí"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ó ń sọ pé"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kò ṣe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "àwọn ìjọba mi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pọ̀"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "àwọn ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T01:43:16.582774900Z",
+  "model": "glm-5.3"
+}

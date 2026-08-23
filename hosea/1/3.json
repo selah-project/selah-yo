@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì lọ, ó sì gba ⟨את⟩ Gomer ọmọbíbin Diblayimu; ó sì yún, ó sì bí ọmọkùnrin fún un.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ó sì lọ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbíbin"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblayimu"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ó sì yún"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọkùnrin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:01:41.091807953Z",
+  "model": "glm-5.3"
+}

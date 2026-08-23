@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Yehoshua sì gba ⟨את⟩ gbogbo ilẹ̀ yìí: òkè-ilẹ̀, àti ⟨את⟩ gbogbo Negev, àti ⟨את⟩ gbogbo ilẹ̀ Goshen, àti ⟨את⟩ ilẹ̀ ìsàlẹ̀-òkè, àti ⟨את⟩ Arabah, àti ⟨את⟩ òkè Israel àti ilẹ̀ ìsàlẹ̀-òkè rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "sì gba"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ilẹ̀ yìí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "òkè-ilẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo Negev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ilẹ̀ Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilẹ̀ ìsàlẹ̀-òkè"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "ilẹ̀ ìsàlẹ̀-òkè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Arabah"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arabah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "òkè Israel"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "àti ilẹ̀ ìsàlẹ̀-òkè rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:47:04.649575091Z",
+  "model": "glm-5.3"
+}

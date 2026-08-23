@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ohùn mi ní mo ń pe sí Yahweh, Ó sì dáhùn mí ní òkè mímọ́ Rẹ̀. Selah.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mo ń pe"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "Ó sì dáhùn mí"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ní òkè"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mímọ́ Rẹ̀"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:08.314515226Z",
+  "model": "glm-5.3"
+}

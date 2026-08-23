@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì ṣẹlẹ̀, nígbà tí àwọn ènìyàn ń kọjá láti àgọ́ wọn láti kọjá ⟨את⟩ Yeredeni, àwọn àlùfáà tí ó ń ru árin májẹ̀mú náà sì ń rin ṣáájú àwọn ènìyàn náà.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "nígbà tí... ń kọjá láti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "àgọ́ wọn"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "láti kọjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeredeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yeredeni"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "àwọn àlùfáà sì"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "tí ó ń ru"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "árin"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "májẹ̀mú náà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ṣáájú"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:24:13.808081272Z",
+  "model": "glm-5.3"
+}

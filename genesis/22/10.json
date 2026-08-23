@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Avraham sì fọwọ́ rẹ̀ jáde, ó sì gba ⟨את⟩ ọ̀dà láti pa ọmọ rẹ̀ lọ́run.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì fọwọ́ jáde"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀dà náà"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "ọ̀dà náà"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "láti pa lọ́run"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:01:04.017206027Z",
+  "model": "glm-5.3"
+}

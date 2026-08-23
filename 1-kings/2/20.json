@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó wí pé: Ìbéèrè kékeré kan ni èmi ń béèrè lọ́dọ̀ rẹ; má ṣe yọ ⟨את⟩ ojú mi padà. Ọba náà wí fún-un pé: Béèrè, ìyá mi, nítorí pé èmi kì í yọ ⟨את⟩ ojú rẹ padà.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ó wí pé"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "Ìbéèrè"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "kékeré"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ń béèrè"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "lọ́dọ̀ rẹ ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "yọ padà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú mi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fún-un"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba náà"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "Béèrè"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ìyá mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "èmi... yọ padà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú rẹ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:40.437442182Z",
+  "model": "glm-5.3"
+}

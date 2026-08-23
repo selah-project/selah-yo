@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àwọn ará Mísraim sì mú ⟨את⟩ àwọn ọmọ Yisrael ṣiṣẹ́ pẹ̀lú ìṣẹ̀gbà-lile.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "sì mú ṣiṣẹ́"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Àwọn ará Mísraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "pẹ̀lú ìṣẹ̀gbà-lile"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:55.564146010Z",
+  "model": "glm-5.3"
+}

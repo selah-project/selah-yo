@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Èmi kò jókòó pẹ̀lú àwọn ènìyàn ìparọ́, àti pẹ̀lú àwọn tó ń fi ara pamọ́ èmi kò ní wà.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "mo jókòó"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ìparọ́"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "àti pẹ̀lú"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "àwọn tó ń fi ara pamọ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "moò ní wà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:43.066307029Z",
+  "model": "glm-5.3"
+}

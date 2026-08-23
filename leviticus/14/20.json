@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Adóhùn sì yóò gbé ⟨את⟩ ẹbùn-òkunlẹ̀ àti ⟨את⟩ ẹbùn-òunjẹ sí orí pẹpẹ; adóhùn yóò sì ṣe ìpẹ̀tù rẹ̀, ó sì yóò di mí̀mọ́.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "yóò gbé"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adóhùn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹbùn-òkunlẹ̀"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbùn-òkunlẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹbùn-òunjẹ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ẹbùn-òunjẹ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sí orí pẹpẹ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "yóò ṣe ìpẹ̀tù"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adóhùn"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "yóò di mí̀mọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:39:56.621375163Z",
+  "model": "glm-5.3"
+}

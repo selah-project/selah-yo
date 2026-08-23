@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Wọ́n ó sì fi ⟨את⟩ i àti ⟨את⟩ gbogbo irinṣẹ́ rẹ̀ sí abẹ́ àbọ́ tí a fi ara tàcháshì ṣe, wọ́n ó sì gbé e lórí ìká.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "Wọ́n ó sì fi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ i"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí abẹ́"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "àbọ́"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ara"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tàcháshì"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "wọ́n ó sì gbé"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "ìká"
+    }
+  ],
+  "timestamp": "2026-08-22T23:50:25.848841959Z",
+  "model": "glm-5.3"
+}

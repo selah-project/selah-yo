@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ọ̀nà kan ṣoṣo ni wọ́n fi ṣe fún idà láti wá — sí ⟨את⟩ Rabbah ti àwọn ọmọ Ammon, àti sí ⟨את⟩ Yehudah ní Yerushalayim tí ó ṣẹ́ṣẹ̀ títì.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà kan ṣoṣo"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ni wọ́n fi ṣe"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "láti wá"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "fún idà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah ti àwọn ọmọ Ammon"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti sí ⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "tí ó ṣẹ́ṣẹ̀ títì"
+    }
+  ],
+  "timestamp": "2026-08-23T02:42:54.491142921Z",
+  "model": "glm-5.3"
+}

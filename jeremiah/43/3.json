@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "nítorí Baruch ọmọ Neryahu ló ń jẹ́ kí o tọ́ wá, kí ó le fi ⟨את⟩ wa sí ọwọ́ àwọn Kasdim, láti pa wá, àti láti sọ wa sínú ìsẹ̀mgbé sí Bavel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruch"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Neryahu"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "ń jẹ́ kí o tọ́ wa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ìwọ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sí wa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí ó le"
+    },
+    {
+      "surface": "תת",
+      "gloss": "fi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "wa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sí ọwọ́"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "àwọn Kasdim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "láti pa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "wá"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "àti láti sọ wá sínú ìsẹ̀mgbé"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-23T02:27:01.103453009Z",
+  "model": "glm-5.3"
+}

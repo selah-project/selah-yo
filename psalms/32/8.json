@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Èmi ó fi ọgbọ́n kọ́ ẹ, èmi ó sì tọ́ ẹ lọ́nà tí ìwọ yóò gbà; èmi ó fi ojú mi ṣe ìmọ̀ràn lórí ẹ.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "èmi ó fi ọgbọ́n kọ́ ẹ"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "èmi ó sì tọ́ ẹ lé"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nínú ọ̀nà"
+    },
+    {
+      "surface": "זו",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ìwọ yóò gbà"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "èmi ó ṣe ìmọ̀ràn"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "lórí ẹ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "pẹ̀lú ojú mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:31.753340199Z",
+  "model": "glm-5.3"
+}

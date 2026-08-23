@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "èyí tí àwọn ọ̀tá rẹ sọ̀ ọ́ lẹ́gàn, Yahweh, èyí tí wọ́n sọ̀ àwọn ẹsẹ Mashiach rẹ lẹ́gàn.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "wọ́n sọ̀ ọ́ lẹ́gàn"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "àwọn ọ̀tá rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "wọ́n sọ̀ lẹ́gàn"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "àwọn ẹsẹ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiach rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:07.512700800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Ẹni tí ó ń fún ní yìnyín bí irun àgbò; ń tú àwọ̀ oyún túútu bí èerú káàkiri.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Ẹni tí ó ń fún ní"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "yìnyín"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "bí irun àgbò"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "àwọ̀ oyún túútu"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "bí èerú"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "ń tú káàkiri"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:09.154838267Z",
+  "model": "glm-5.3"
+}

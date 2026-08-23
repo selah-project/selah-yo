@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ìránṣẹ́ Ọlọ́run sì wí fún ọba pé: bí o bá fún mi ní ⟨את⟩ ìdí ilé rẹ, èmi kì yóò wá pẹ̀lú rẹ, kì yóò sì jẹ oúnjẹ, kì yóò sì mu omi ní ibi yìí.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ìránṣẹ́"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Ọlọ́run"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí o bá"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bá fún"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdí ilé rẹ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ìdí"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ilé rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "wá"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pẹ̀lú rẹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í sì"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jẹ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í sì"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ní ibi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:19:46.897834201Z",
+  "model": "glm-5.3"
+}

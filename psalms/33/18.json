@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Wò ó, ojú Yahweh ⟨wà⟩ lórí àwọn tí ń bẹ̀rù rẹ̀, lórí àwọn tí ń dúró-dè chesed rẹ̀.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨wà⟩ lórí"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "àwọn tí ń bẹ̀rù rẹ̀"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "àwọn tí ń dúró-dè"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "chesed rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:35.736928095Z",
+  "model": "glm-5.3"
+}

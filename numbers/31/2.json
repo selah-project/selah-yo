@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Ṣe ìgbẹsan ìgbẹsan fún àwọn ọmọ Yisrael lórí ⟨את⟩ àwọn ará Midiani; lẹ́yìn ìyẹn, iwọ máa kó papọ̀ sí àwọn ènìyàn rẹ.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "Ṣe ìgbẹsan"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "ìgbẹsan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ará Midiani"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "àwọn ará Midiani"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lẹ́yìn ìyẹn"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "máa kó papọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "àwọn ènìyàn rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:03:39.845422570Z",
+  "model": "glm-5.3"
+}

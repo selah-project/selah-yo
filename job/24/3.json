@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 24:3",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Wọ́n ń gbé kẹ̀kẹ́mbẹ́ àwọn ọmọ olẹ́jọ lọ, wọ́n ń gba máàlù ìyàwó ìku lọ́wọ́ gẹ́gẹ́ bí ìdúnàdúrà.",
+  "tokens": [
+    {
+      "surface": "חמור",
+      "gloss": "kẹ̀kẹ́mbẹ́"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "àwọn ọmọ olẹ́jọ"
+    },
+    {
+      "surface": "ינהגו",
+      "gloss": "ń gbé lọ"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "ń gba lọ́wọ́ gẹ́gẹ́ bí ìdúnàdúrà"
+    },
+    {
+      "surface": "שור",
+      "gloss": "máàlù"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ìyàwó ìku"
+    }
+  ],
+  "timestamp": "2026-08-23T04:24:46.488503210Z",
+  "model": "glm-5.3"
+}

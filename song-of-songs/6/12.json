@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Nígbà tí mo kò mọ̀, ẹ̀mí mi gbé mi sí àwọn ọkọ̀-ìjàǹgìn ìjọ ènìyàn mi ìyanu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mo mọ̀"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "ó gbé mi sí"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "àwọn ọkọ̀-ìjàǹgìn"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ìjọ ènìyàn mi"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ìyanu"
+    }
+  ],
+  "timestamp": "2026-08-23T04:32:45.127894548Z",
+  "model": "glm-5.3"
+}

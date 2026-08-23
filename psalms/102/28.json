@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Ṣùgbọ́n ìwọ ni ⟨Olúwa⟩ kan náà, àti àwọn odún rẹ kì yóò kùnà ìkẹ́yìn.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ṣùgbọ́n ìwọ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni ⟨Olúwa⟩ kan náà"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "àti àwọn odún rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "yóò kùnà ìkẹ́yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:48.665775885Z",
+  "model": "glm-5.3"
+}

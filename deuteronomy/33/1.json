@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Àti èyí ni ìbùkún tí Moshe, ọkùnrin Elohim, fùkún àwọn ọmọ Yisraels ⟨את⟩ ṣáájú ikú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "àti èyí ni"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ìbùkún"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "fùkún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraels"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ṣáájú"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "ikú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:21:33.365000635Z",
+  "model": "glm-5.3"
+}

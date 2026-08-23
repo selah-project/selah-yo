@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Gbọ́, Yahweh, kí o sì ṣàná mi; Yahweh, jẹ́ olùrànlọ́wọ́ mi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "kí o sì ṣàná mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "olùrànlọ́wọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:19.064165475Z",
+  "model": "glm-5.3"
+}

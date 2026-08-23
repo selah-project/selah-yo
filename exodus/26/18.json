@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Iwó ó sì ṣe ⟨את⟩ àwọn kéréṣì fún Mishkan náà: kéréṣì ogún fún ègbé gúúsù náà, sí gúúsù.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "iwó ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn kéréṣì fún Mishkan náà"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "àwọn kéréṣì"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "fún Mishkan náà"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "kéréṣì"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "fún ègbé"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "gúúsù náà"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "sí gúúsù"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:08.372186803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 150,
+  "translation": "Ẹ ṣe ìyìn fún ⟨olú-òun⟩ pẹ̀lú ìlù àkúbà àti ìjọ; ẹ ṣe ìyìn fún ⟨olú-òun⟩ pẹ̀lú àwọn ohun-èlù òrùn àti fúfú-lála.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ẹ ṣe ìyìn fún ⟨olú-òun⟩"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "pẹ̀lú ìlù àkúbà"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "àti ìjọ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ẹ ṣe ìyìn fún ⟨olú-òun⟩"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "pẹ̀lú àwọn ohun-èlù òrùn"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "àti fúfú-lála"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:49.168820793Z",
+  "model": "glm-5.3"
+}

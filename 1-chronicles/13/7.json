@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Wọ́n sì fi ⟨את⟩ áràń̀gàn Elohim lé orí ẹ̀rú tuntun láti ilé Avinadav; Uzza àti Achiyo sì ń ṣàkóso ẹ̀rú náà.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "fi lé orí ẹ̀rú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áràń̀gàn Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "áràń̀gàn"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé orí"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "ẹ̀rú"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "tuntun"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "láti ilé"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "àti arákùnrin rẹ̀ Achiyo"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "ń ṣàkóso"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "ẹ̀rú náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:15:21.940163729Z",
+  "model": "glm-5.3"
+}

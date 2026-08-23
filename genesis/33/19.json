@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 33:19",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ó sì ra ⟨את⟩ píèsí pápá yìí, tí ó ti lé àgọ́ rẹ̀ síbẹ̀, lọ́wọ́ àwọn ọmọ Hamor, baba Shekhem, ní ogórùn-ún keshita.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "ó sì ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "píèsí pápá yìí"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "píèsí"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pápá yìí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó ti"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "lé"
+    },
+    {
+      "surface": "שם",
+      "gloss": "síbẹ̀"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "àgọ́ rẹ̀"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "ní ogórùn-ún"
+    },
+    {
+      "surface": "קשיטה",
+      "gloss": "keshita"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:11.081704831Z",
+  "model": "glm-5.3"
+}

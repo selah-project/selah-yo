@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Leah sì wí pé, \"Ìṣùgbọ́ntànrere!\" Ó sì pe orúkọ rẹ̀ ⟨את⟩ ní Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Ìṣùgbọ́ntànrere"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ó sì pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-08-22T23:03:53.054701542Z",
+  "model": "glm-5.3"
+}

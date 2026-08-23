@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 64,
+  "translation": "Fún Olùdarí orin, mizmor fún Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún Olùdarí orin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (orin kíkọ)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún Dawid"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:48.777877770Z",
+  "model": "glm-5.3"
+}

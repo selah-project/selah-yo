@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 23:21",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ìwọ sì sàkíyèsí ⟨את⟩ àṣìṣe ìgbà èwe rẹ, ní ṣíṣe nípa Mitzrayim ìbọn rẹ, nítorí ìbọn ìgbà èwe rẹ.",
+  "tokens": [
+    {
+      "surface": "ותפקדי",
+      "gloss": "ìwọ sì sàkíyèsí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àṣìṣe"
+    },
+    {
+      "surface": "זמת",
+      "gloss": "àṣìṣe"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "ìgbà èwe rẹ"
+    },
+    {
+      "surface": "בעשות",
+      "gloss": "ní ṣíṣe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "nípa Mitzrayim"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ìbọn rẹ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ìbọn"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "ìgbà èwe rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:46:31.033412452Z",
+  "model": "glm-5.3"
+}

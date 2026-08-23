@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Dawid sì parí dídún ẹrù-ìsun àti ẹrù-àlàáfíà náà, ó sì bùkún ⟨את⟩ àwọn ènìyàn ní orúkọ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ó sì parí"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "dídún"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹrù-ìsun náà"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "àti ẹrù-àlàáfíà"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ó sì bùkún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ní orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T05:15:24.924738610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Ní ìdájọ rẹ, gbà mí lọ́wọ́, kí o sì gbà mí là; té ẹnu rẹ sí mi, kí o sì gbà mí là.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "ní ìdájọ rẹ"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "gbà mí lọ́wọ́"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "kí o sì gbà mí là"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "té ẹnu rẹ sí mi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ẹnu rẹ (etí rẹ)"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "kí o sì gbà mí là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:49.763804697Z",
+  "model": "glm-5.3"
+}

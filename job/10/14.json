@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Tí mo bá ṣẹ̀, ìwọ máa ń ṣàkíyèsí mi, ìwọ kò sì ní fi ẹ̀ṣẹ̀ mi sílẹ̀ láì jìyà.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí mo bá"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ṣẹ̀"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "ìwọ máa ń ṣàkíyèsí mi"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "ẹ̀ṣẹ̀ mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "ní fi mí sílẹ̀ láì jìyà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:34.937596398Z",
+  "model": "glm-5.3"
+}

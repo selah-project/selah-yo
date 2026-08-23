@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Avram sì tóbi dáadáa ní ẹ̀ràn, ní fàdàkà àti ní wúrà.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Avram sì"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tóbi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dáadáa"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "ní ẹ̀ràn"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ní fàdàkà"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "àti ní wúrà"
+    }
+  ],
+  "timestamp": "2026-08-22T22:58:07.428085498Z",
+  "model": "glm-5.3"
+}

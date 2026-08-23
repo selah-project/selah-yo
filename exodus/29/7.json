@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ìwọ ó sì gbà ⟨את⟩ epo ìsànmọ́ náà, ó sì sọ ó sórí rẹ̀, ó sì sànmọ́ ọ́.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ìwọ ó sì gbà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "epo ìsànmọ́"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ìsànmọ́"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ó sì sọ ó sórí"
+    },
+    {
+      "surface": "על",
+      "gloss": "sórí"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "orí rẹ̀"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ó sì sànmọ́"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ọ́ (Aharon)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:17.774644379Z",
+  "model": "glm-5.3"
+}

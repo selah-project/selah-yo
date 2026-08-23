@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Jẹ́ kí ìbúburú àwọn ìwà búburú já sí ìparí; kí o sì ṣẹ́ dá ẹni-ìdájọ́ dúró ṣinṣin; olùdánwò àwọn ọkàn àti àwọn kidinrí ni Elohim olódájọ́-òtítọ́.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "jẹ́ kí ó já sí ìparí"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọwọ́"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ìbúburú"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn ìwà búburú"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "kí o sì ṣẹ́ dá dúró ṣinṣin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ẹni-ìdájọ́"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "olùdánwò"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "àwọn ọkàn"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "àti àwọn kidinrí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olódájọ́-òtítọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:03.185838678Z",
+  "model": "glm-5.3"
+}

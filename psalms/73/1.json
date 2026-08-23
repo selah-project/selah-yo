@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Orin-kíkọ fún Asaf; dájúdájú, Elohim dára fún Yisrael, fún àwọn olóòtítọ́-ọkàn.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Orin-kíkọ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "fún Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dájúdájú"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fún Yisrael"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "fún àwọn olóòtítọ́"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ọkàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:30.019536406Z",
+  "model": "glm-5.3"
+}

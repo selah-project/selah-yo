@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Noa sì ṣe báyìí; gẹ́gẹ́ bí gbogbo tí Elohim pàṣẹ fún un, bẹ́ẹ̀ ni ó ṣe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gẹ́gẹ́ bí gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "fún ⟨את⟩-un"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:23.434014023Z",
+  "model": "glm-5.3"
+}

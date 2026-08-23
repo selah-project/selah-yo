@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 56,
+  "translation": "Nínú Elohim ni èmi óò yọ́ ọ̀rọ̀ rẹ̀; nínú Yahweh ni èmi óò yọ́ ọ̀rọ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "nínú Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ni èmi óò yọ́"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nínú Yahweh"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ni èmi óò yọ́"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:26.135079515Z",
+  "model": "glm-5.3"
+}

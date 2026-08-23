@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Mo sì padà sẹ́yìn, èmi, láti jẹ́ kí ọkàn mi ṣàìrètí nípa ⟨את⟩ gbogbo iṣẹ́ lápata tí mo ṣe ní abẹ́ òòrùn.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "mo sì padà sẹ́yìn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "láti jẹ́ kí ó ṣàìrètí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn mi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "iṣẹ́ lápata náà"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "tí mo ṣe lápata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní abẹ́"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "òòrùn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:10.734065987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Sí o rìn ní ìlànà àwọn ọba Yisrael, o sì mú ⟨את⟩ Yehuda àti ⟨את⟩ àwọn olùgbé Yerushalayim ṣe ìfẹ́-àṣẹṣe, gẹ́gẹ́ bí ìfẹ́-àṣẹṣe ilé Achav; àti pé o ti pa ⟨את⟩ àwọn ará rẹ, ilé baba rẹ, tí ó dára jù rẹ lọ.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "o sì rìn"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ní ìlànà"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "o sì mú ... ṣe ìfẹ́-àṣẹṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn olùgbé Yerushalayim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn olùgbé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "gẹ́gẹ́ bí ìfẹ́-àṣẹṣe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti pé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ará rẹ, ilé baba rẹ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "àwọn ará rẹ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba rẹ"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "tí ó dára jù"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "jù rẹ lọ"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "o ti pa"
+    }
+  ],
+  "timestamp": "2026-08-23T05:30:56.922014854Z",
+  "model": "glm-5.3"
+}

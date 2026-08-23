@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ẹ má ṣe ṣe ⟨את⟩ mi àwọn ọlọ́run fàdákà, àti àwọn ọlọ́run wúrà ẹ má ṣe ṣe fún yin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ẹ má ṣe ṣe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "àwọn ọlọ́run"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "àti àwọn ọlọ́run"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ẹ má ṣe ṣe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yin"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:41.040054670Z",
+  "model": "glm-5.3"
+}

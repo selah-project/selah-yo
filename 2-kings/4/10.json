@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 4:10",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ẹ jọ̀wọ́, jẹ́ kí a ṣe yàrá kékeré kan lórí ogiri, kí a sì fi bẹ́dí, tábìlì, àga àti fitílà sílẹ̀ fún un; ó sì máa ń ṣẹlẹ̀ pé nígbà tí ó bá wá sọ́dọ̀ wa, ó máa ń yà síbẹ̀.",
+  "tokens": [
+    {
+      "surface": "נעשה",
+      "gloss": "jẹ́ kí a ṣe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọ̀wọ́"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "yàrá òkè"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ogiri"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "kékeré"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "kí a sì fi sílẹ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "bẹ́dí"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "tábìlì"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "àga"
+    },
+    {
+      "surface": "ומנורה",
+      "gloss": "fitílà"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ó sì máa ń ṣẹlẹ̀ pé"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "nígbà tí ó bá wá"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sọ́dọ̀ wa"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ó máa ń yà"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "síbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:27:00.889557907Z",
+  "model": "glm-5.3"
+}

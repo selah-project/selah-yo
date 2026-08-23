@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Elohim sì wí fún Moshe pé, Èmi ni Èmi-tí-ó-jẹ́; ó sì wí pé, Báyìí ni ìwọ ó sọ fún àwọn ọmọ Yisrael: Èmi-tí-ó-jẹ́ ni ó rán mi sí yín.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Èmi ni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "èmi ń jẹ́"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "כה",
+      "gloss": "báyìí"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ìwọ ó sọ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Èmi-tí-ó-jẹ́"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ó rán mi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sí yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:55.728773776Z",
+  "model": "glm-5.3"
+}

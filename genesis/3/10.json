@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì wí pé: Mo gbọ́ ⟨את⟩ ohùn rẹ nínú ọgbọ́ náà, èmi sì bẹ̀rù, nítorí tí mo wà láì wọ aṣọ, èmi sì fi ara pamọ́.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohùn rẹ"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "ohùn rẹ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mo gbọ́"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "nínú ọgbọ́ náà"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "èmi sì bẹ̀rù"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "láì wọ aṣọ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mo wà \/ èmi"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "èmi sì fi ara pamọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:24.661502369Z",
+  "model": "glm-5.3"
+}

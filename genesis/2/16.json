@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Yahweh Elohim sì pàṣẹ fún ẹ̀dá-ènìyàn náà wí pé: Láti inú igi gbogbo tí ó wà nínú ọgbà náà, jẹ́ kí o jẹ́ lọ́fẹ̀ẹ́.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "sì pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "fún"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ẹ̀dá-ènìyàn náà"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "láti … gbogbo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ọgbà náà"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jẹ́ kí o jẹ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jẹ (lọ́fẹ̀ẹ́)"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:18.364715010Z",
+  "model": "glm-5.3"
+}

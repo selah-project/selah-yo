@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Wọ́n sì yọ nítorí pé ó dákẹ́, Ó sì mú wọn lọ sí ibi-ààbọ̀ òkun ti ìfẹ́ wọn.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Wọ́n sì yọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "ó dákẹ́"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "Ó sì mú wọn lọ sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "ibi-ààbọ̀ òkun"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "ti ìfẹ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:25.208556290Z",
+  "model": "glm-5.3"
+}

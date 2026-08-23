@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 10:16",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Shaul sì sọ fún ìránbá rẹ̀ pé: Ó sọ fún wa ní kedere pé wọn ti rí àwọn kẹtẹkẹtẹ ⟨náà⟩. Ṣùgbọ́n nípa ⟨את⟩ ọ̀rọ̀ ìjọba, ó kò sọ fún un ohun tí Shemuel ti sọ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ fún ìránbá rẹ̀ pé"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "ìránbá rẹ̀"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Ó sọ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "sọ ní kedere"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "wọn ti rí"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "àwọn kẹtẹkẹtẹ ⟨náà⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọ̀rọ̀ ìjọba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    }
+  ],
+  "timestamp": "2026-08-23T00:46:56.680008514Z",
+  "model": "glm-5.3"
+}

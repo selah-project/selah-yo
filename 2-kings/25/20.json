@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Nevuzaradan, olórí àwọn jagunjagbà, sì mú ⟨את⟩ wọn, ó sì gbé ⟨את⟩ wọn lọ sí ọba Bavel, sí Rivlah.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "sì mú"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "àwọn jagunjagbà"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "sì gbé … lọ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivlah"
+    }
+  ],
+  "timestamp": "2026-08-23T01:40:40.007851722Z",
+  "model": "glm-5.3"
+}

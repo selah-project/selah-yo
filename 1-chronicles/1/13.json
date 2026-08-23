@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Kenaan sì bí ⟨את⟩ Tsidon àkọ́bi rẹ̀ àti ⟨את⟩ Ḥet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kenaan sì"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "àkọ́bi rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Ḥet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ḥet"
+    }
+  ],
+  "timestamp": "2026-08-23T05:07:44.691455926Z",
+  "model": "glm-5.3"
+}

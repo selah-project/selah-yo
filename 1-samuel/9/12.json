@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Wọ́n sì dáhùn ⟨את⟩ wọn, wí pé: Ó wà kíyèsi, ó wà níwájú rẹ; kí o ṣe tì í kánkán báyìí, nítorí pé ó ti dé sí ìlú ní òní, nítorí pé ìsọfọ̀ ẹran wà fún ènìyàn náà ní ojú-òkè òní.",
+  "tokens": [
+    {
+      "surface": "וַתַּעֲנֶינָה",
+      "gloss": "wọ́n sì dáhùn"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn ọkùnrin náà)"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "wọ́n sì wí"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ó wà"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kíyèsi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "níwájú rẹ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kí o ṣe tì í kánkán"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "báyìí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "היום",
+      "gloss": "òní"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ó ti dé"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "sí ìlú"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ìsọfọ̀ ẹran"
+    },
+    {
+      "surface": "היום",
+      "gloss": "òní"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "fún ènìyàn náà"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "ní ojú-òkè"
+    }
+  ],
+  "timestamp": "2026-08-23T00:46:11.704822250Z",
+  "model": "glm-5.3"
+}

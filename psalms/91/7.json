@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Ẹgbẹ̀run yóò ṣubú ní ẹ̀gbẹ́ rẹ, àti ọ̀kẹ́ mẹ́wàá ní ọwọ́ ọ̀tún rẹ; ṣùgbọ́n èyí kì ní dóòi rẹ.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "yóò ṣubú"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "ní ẹ̀gbẹ́ rẹ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbẹ̀run"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "àti ọ̀kẹ́ mẹ́wàá"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "ní ọwọ́ ọ̀tún rẹ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dóòi rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "ó sún mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:44.806961830Z",
+  "model": "glm-5.3"
+}

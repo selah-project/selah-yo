@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Nítorí náà, kíyèsi, èmi ń fi àwọn ọ̀yà dé ⟨את⟩ ọ̀nà rẹ, èmi yóò sì kó ⟨את⟩ ìdínù rẹ̀ kalẹ̀, kí ó má baà ri àwọn ọ̀nà ìrìn rẹ̀ mọ́.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kíyèsi, èmi"
+    },
+    {
+      "surface": "שך",
+      "gloss": "ń fi àwọn ọ̀yà dé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀nà rẹ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ọ̀nà rẹ"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "pẹ̀lú àwọn ọ̀yà"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "èmi yóò sì kó ìdínù kalẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdínù rẹ̀"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "ìdínù rẹ̀"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "àti àwọn ọ̀nà ìrìn rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kí ó má baà... mọ́"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ri"
+    }
+  ],
+  "timestamp": "2026-08-23T03:00:43.003621987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Yahweh sì dáhùn ⟨את⟩ Iyobu, ó sì sọ pé:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "sì dáhùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyobu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì sọ pé"
+    }
+  ],
+  "timestamp": "2026-08-23T04:30:56.206735973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Mo máa ń rìn níwájú Yahweh, nínú ⟨àwọn⟩ ilẹ̀ àwọn tí wọ́n wà láàyè.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "Mo máa ń rìn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "nínú ⟨àwọn⟩ ilẹ̀"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "àwọn tí wọ́n wà láàyè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:12.393793095Z",
+  "model": "glm-5.3"
+}

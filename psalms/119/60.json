@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Mo yára, mo kò ìkọ̀ra, láti ṣọ́ àwọn àṣẹ rẹ.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "mo yára"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mo kò ìkọ̀ra"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": ""
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "láti ṣọ́"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "àwọn àṣẹ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:58.319488740Z",
+  "model": "glm-5.3"
+}

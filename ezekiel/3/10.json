@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì wí fún mi pé: Omọ ènìyàn, gbà ⟨את⟩ gbogbo ọ̀rọ̀ mi tí mo máa ń bá ọ̀ sọ̀ wọ inú ọkàn rẹ, kí o sì gbọ́ pẹ̀lú etí rẹ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Omọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọ̀rọ̀ mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀ mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mo máa ń sọ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bá ọ̀"
+    },
+    {
+      "surface": "קח",
+      "gloss": "gbà"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "wọ inú ọkàn rẹ"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "pẹ̀lú etí rẹ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T02:35:20.832557998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Mo sì mú ⟨את⟩ àwọn baba yín jáde kúrò ní Mitzrayim, ẹ sì dé sí etí odò náà; Mitzrayim sì lé àwọn baba yín lẹ́yìn pẹ̀lú ẹṣin-ìjà àti àwọn ti ń gun ẹṣin, títí dé Odò Suf.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "mo sì mú jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn baba yín"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "àwọn baba yín"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kúrò ní Mitzrayim"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "ẹ sì dé"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "sí etí odò náà"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "wọ́n sì lé"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "àwọn baba yín"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "pẹ̀lú ẹṣin-ìjà"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "àti àwọn ti ń gun ẹṣin"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Odò"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:52.610365609Z",
+  "model": "glm-5.3"
+}

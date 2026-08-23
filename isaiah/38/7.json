@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Ìdí èyí ni àmì fún ọ láti ọ̀dọ̀ Yahweh, pé Yahweh yóò ṣe ⟨את⟩ ọ̀rọ̀ yìí tí ó ti sọ.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ìdí èyí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "האות",
+      "gloss": "àmì"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "láti ọ̀dọ̀ ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yóò ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ yìí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:53:31.576193178Z",
+  "model": "glm-5.3"
+}

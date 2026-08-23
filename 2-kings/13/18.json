@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ó sì wí pé, Mu ⟨אַרְצָה⟩ ilẹ̀ ṣáájú — kì í ṣe bẹ́ẹ̀: Ó sì wí pé, Mu àwọn ọ̀fà; ó sì mú wọn. Ó sì wí fún ọba Yisrael pé, Lu ilẹ̀; ó lu ẹ̀ẹ̀gẹ́ta ìgbà, ó sì dúró.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí pé"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Mu"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "àwọn ọ̀fà"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì mú wọn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fún ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הך",
+      "gloss": "Lu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ó lu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ẹ̀ẹ̀gẹ́ta"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ìgbà"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ó sì dúró"
+    }
+  ],
+  "timestamp": "2026-08-23T01:33:30.875693287Z",
+  "model": "glm-5.3"
+}

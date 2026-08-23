@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Àwọn mímọ́ tí ó wà ní ayé — wọn ni àwọn olóla, gbogbo ìnífẹ̀ mi sì wà ní àwọn wọnyẹn.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "Àwọn mímọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ayé"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "àwọn olóla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ìnífẹ̀ mi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ní wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:45.925617861Z",
+  "model": "glm-5.3"
+}

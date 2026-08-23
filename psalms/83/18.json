@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 83,
+  "translation": "Jẹ́ kí wọn tìjú, kí wọn sì yàtútù títí láéláé, kí wọn sì ṣẹ̀yà, kí wọn sì parun.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Jẹ́ kí wọn tìjú"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "kí wọn sì yàtútù"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "títí"
+    },
+    {
+      "surface": "עד",
+      "gloss": "láéláé"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "kí wọn sì ṣẹ̀yà"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "kí wọn sì parun"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:41.416867686Z",
+  "model": "glm-5.3"
+}

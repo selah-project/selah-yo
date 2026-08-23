@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 3:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àti pé ejò náà jẹ́ onígbọ́ràn ju gbogbo ẹranko pápá lọ, èyí tí Yahweh Elohim ṣe. Ó sì wí fún obìnrin náà: Ṣé ó ti wù nítorí pé Elohim wí pé, Ẹ kì í gbọdọ̀ jẹ nínú gbogbo igi ọgbọ́ náà?",
+  "tokens": [
+    {
+      "surface": "והנחש",
+      "gloss": "Àti pé ejò náà"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "onígbọ́ràn"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ju gbogbo"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pápá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "obìnrin náà"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Ṣé ó ti wù"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "gbọdọ̀ jẹ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nínú gbogbo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ọgbọ́ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:30.004424551Z",
+  "model": "glm-5.3"
+}

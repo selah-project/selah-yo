@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àwọn baba wa ẹ̀ṣẹ̀, wọ́n kò sí mọ́; àwọn ni, a gbé ẹ̀ṣẹ̀ wọn lárù.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "àwọn baba wa"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "wọ́n kò sí mọ́"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "àwọn ni"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "ẹ̀ṣẹ̀ wọn"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "a gbé lárù"
+    }
+  ],
+  "timestamp": "2026-08-23T04:39:29.879596063Z",
+  "model": "glm-5.3"
+}

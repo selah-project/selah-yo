@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìwọ ó sì bá a sọ̀rọ̀, ó sì fi ⟨את⟩ àwọn ọ̀rọ̀ sí i lára ẹnu rẹ; èmi ó sì wà pẹ̀lú ẹnu rẹ, àti pẹ̀lú ẹnu rẹ; èmi ó sì kọ́ yín ⟨את⟩ ⟨את⟩ ohun tí ẹ ó ṣe.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "ìwọ ó sì bá a sọ̀rọ̀"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bá a"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ó sì fi sí i lára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "lára ẹnu rẹ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "èmi ó sì"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ẹnu rẹ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "àti pẹ̀lú"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ẹnu rẹ"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "èmi ó sì kọ́"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí ẹ ó ṣe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ẹ ó ṣe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:40.753300630Z",
+  "model": "glm-5.3"
+}

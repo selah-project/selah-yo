@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Gbogbo wọn ń lọ sí ibi kan ṣoṣo; gbogbo wọn jẹ́ láti inú erùpé, àti gbogbo wọn ń padà sí erùpé.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "gbogbo wọn"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ń lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan ṣoṣo"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "gbogbo wọn"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti inú"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "erùpé"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "àti gbogbo wọn"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ń padà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "erùpé"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:01.247539519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "tàbí àrùn ìjàmbá tí ó ń rìn ní òkùnkùn, àti ìparun tí ó ń mú ni lọ́ná ìdarúnpò nígbà óṣúpamọ̀.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "àrùn ìjàmbá"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "ní òkùnkùn"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ń rìn"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "ìparun"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "ń mú ni lọ́ná ìdarúnpò"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "óṣúpamọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:44.806817237Z",
+  "model": "glm-5.3"
+}

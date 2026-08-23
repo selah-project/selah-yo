@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ẹ gbọdọ̀ jẹ ⟨את⟩ àwọn wọnyí nínú wọn: ⟨את⟩ arbeh ní irú rẹ̀, àti ⟨את⟩ solam ní irú rẹ̀, àti ⟨את⟩ hargol ní irú rẹ̀, àti ⟨את⟩ hagav ní irú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn wọnyí"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọnyí"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nínú wọn"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ẹ gbọdọ̀ jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arbeh"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ní irú rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "solam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "solam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ní irú rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "hargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ní irú rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "hagav"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "hagav"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ní irú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:23.654121337Z",
+  "model": "glm-5.3"
+}

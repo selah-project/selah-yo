@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì kọ́ ⟨את⟩ Beyt-Choron tí ó ga, àti ⟨את⟩ Beyt-Choron tí ó dàlù; àwọn ìlú amọ̀nà, pẹ̀lú àwọn ogiri, ìlẹ̀kùn méjì àti ẹ̀wọn",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Ó sì kọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-Choron tí ó ga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "tí ó ga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Beyt-Choron tí ó dàlù"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "tí ó dàlù"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "amọ̀nà"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "àwọn ogiri"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "ìlẹ̀kùn méjì"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "àti ẹ̀wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:27:24.867153804Z",
+  "model": "glm-5.3"
+}

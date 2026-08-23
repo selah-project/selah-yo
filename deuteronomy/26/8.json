@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Yahweh sì mú wa jáde kúrò lọ́dọ̀ Mitzrayim pẹ̀lú ọwọ́ tí ó lagbara, àti pẹ̀lú ẹjị tí a ti te jáde, àti pẹ̀lú ẹ̀rù tó tóbi, àti pẹ̀lú àwọn àmì, àti pẹ̀lú àwọn iṣẹ́ ìyanu.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "sì mú wa jáde kúrò lọ́dọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pẹ̀lú ọwọ́"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "tí ó lagbara"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "àti pẹ̀lú ẹjị"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "tí a ti te jáde"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "àti pẹ̀lú ẹ̀rù"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "àti pẹ̀lú àwọn àmì"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "àti pẹ̀lú àwọn iṣẹ́ ìyanu"
+    }
+  ],
+  "timestamp": "2026-08-23T00:17:30.550193152Z",
+  "model": "glm-5.3"
+}

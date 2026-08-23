@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 130,
+  "translation": "Ẹ̀mí-òrè mi ⟨wà⟩ fún Adonai, ju àwọn olùṣọ́ òru lọ tí wọ́n ń retí àárọ̀; àwọn olùṣọ́ ń retí àárọ̀.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí-òrè mi"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "fún Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "ju àwọn olùṣọ́ òru lọ"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "tí wọ́n ń retí àárọ̀"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "àwọn olùṣọ́ ń retí"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "àárọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:29.720239431Z",
+  "model": "glm-5.3"
+}

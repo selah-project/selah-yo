@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 99,
+  "translation": "Moshe àti Aharon wà lára àwọn àlùfáà Rẹ̀, àti Shemuel lára àwọn tí ń pè Orúkọ Rẹ̀; wọn ń pè sí Yahweh, òun sì ń dáhùn wọn.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "àti Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "wà lára àwọn àlùfáà Rẹ"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "àti Shemuel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "lára àwọn tí ń pè"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Orúkọ Rẹ"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "wọn ń pè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "òun sì"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "ń dáhùn wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:16.906827083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Àti ọmọbìnrin ọkùnrin kohen, tí ó bá bẹ̀rẹ̀ láti ṣe àgbèrè, ⟨את⟩ baba rẹ̀ ni ó ṣe ègbin; nínú iná ni a máa jọ ó.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Àti ọmọbìnrin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "bá bẹ̀rẹ̀"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "láti ṣe àgbèrè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba rẹ̀"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "היא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "ń ṣe ègbin"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nínú iná"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "a máa jọ ó"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:18.219056343Z",
+  "model": "glm-5.3"
+}

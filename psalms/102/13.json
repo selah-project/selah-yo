@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Ìwọ sì, Yahweh, ń gbé jókòó fún ayélujára, àti ìrántí rẹ fún ìran dé ìran.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ìwọ sì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "fún ayélujára"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ń gbé jókòó"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "àti ìrántí rẹ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "fún ìran"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dé ìran"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:42.240800886Z",
+  "model": "glm-5.3"
+}

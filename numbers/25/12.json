@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Nítorí náà, sọ wí: Kií ni, èmi ń fún un ní ⟨את⟩ májẹ̀mù mi ti àlàáfíà.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sọ wí"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kií ni, èmi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ń fún"
+    },
+    {
+      "surface": "לו",
+      "gloss": "un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "májẹ̀mù mi ti àlàáfíà"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "májẹ̀mù mi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ti àlàáfíà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:16.570982199Z",
+  "model": "glm-5.3"
+}

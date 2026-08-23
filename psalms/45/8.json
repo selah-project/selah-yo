@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "O fẹ́ ìdájọ́ tọ́, o sì kórìíra ìwà búburú; nítorí náà Elohim, Elohim rẹ, ti yọ ọ́ mọ́ epo ayọ lórí àwọn ẹlẹgbẹ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "o fẹ́"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ìdájọ́ tọ́"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "o sì kórìíra"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ìwà búburú"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "náà"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "ti yọ ọ́ mọ́"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ayọ"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "lórí àwọn ẹlẹgbẹ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:26.862243775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Nítorí tí ọwọ́ rẹ le lórí mi ọ̀san àti òru; ìrọrùn mi yí padà di gbigbẹ́ bi ti sàáré ìrèké, Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ọ̀san"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "àti òru"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "le"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "yí padà di"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "ìrọrùn mi"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "bi ti gbigbẹ́"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "sàáré ìrèké"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:01.355007463Z",
+  "model": "glm-5.3"
+}

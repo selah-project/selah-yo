@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 63,
+  "translation": "Wọ́n yóò sún wọn sí ọwọ́ idà; pín fún àwọn ikúkorò ni wọ́n yóò jẹ́.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "yóò sún wọn sí"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idà"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "pín"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "àwọn ikúkorò"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yóò jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:17.298712708Z",
+  "model": "glm-5.3"
+}

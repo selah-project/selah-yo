@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 25:26",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Lẹ́yìn ìyẹn, arábidì rẹ̀ jáde wá, ọwọ́ rẹ̀ sì mú inú ẹsẹ Esav; ó sì pe orúkọ rẹ̀ ní Yaakov; Yitschak sì jẹ́ ọmọ ọdún ọgọ́ta nígbà tí ó bí ⟨את⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ìyẹn"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "jáde wá"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arábidì rẹ̀"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "ọwọ́ rẹ̀ sì"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "mú"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "inú ẹsẹ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ó sì pe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "Yitschak sì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ọgọ́ta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "nígbà tí ó bí"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:03:17.696102850Z",
+  "model": "glm-5.3"
+}

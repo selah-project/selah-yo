@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ẹ fi etí dá sí i, ẹ sì gbọ́ ohùn mi; ẹ gbájú mọ́lẹ̀, ẹ sì gbọ́ ọ̀rọ̀ mi.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "ẹ fi etí dá sí i"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ẹ sì gbọ́"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "ẹ gbájú mọ́lẹ̀"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ẹ sì gbọ́"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ọ̀rọ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:50:13.864384033Z",
+  "model": "glm-5.3"
+}

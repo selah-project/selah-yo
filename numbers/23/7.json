@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 23:7",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ó sì gbé ọ̀rọ̀ àpẹẹrẹ rẹ̀ sókè, ó sì wí pé: Balak, ọba Moav, mú mi láti Aram, láti àwọn òkè ìlà-oòrùn, wí pé: Wá, kí o ṣe ègún fún mi lórí Yaakov, kí o sì wá bú Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "gbé sókè"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ọ̀rọ̀ àpẹẹrẹ rẹ̀"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "mú mi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ìlà-oòrùn"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "wá"
+    },
+    {
+      "surface": "ארה",
+      "gloss": "ṣe ègún"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "kí o sì wá"
+    },
+    {
+      "surface": "זעמה",
+      "gloss": "bú"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:06.504443622Z",
+  "model": "glm-5.3"
+}

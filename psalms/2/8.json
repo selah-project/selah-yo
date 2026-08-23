@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Béèrè lọ́dọ̀ mi, èmi yóò fún ọ ní àwọn orílẹ̀-èdè gẹ́gẹ́ bí ogún rẹ, àti ìsọjú-àkóso rẹ dé òpin ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "béèrè"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "lọ́dọ̀ mi"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "èmi yóò fún ọ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "gẹ́gẹ́ bí ogún rẹ"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "àti ìsọjú-àkóso rẹ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "dé òpin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:52.432573377Z",
+  "model": "glm-5.3"
+}

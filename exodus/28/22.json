@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ìwọ yóò ṣe lórí ⟨i⟩ àpètè ààyà: àwọn ìsọ̀ tí ó rọ̀ mọ́ra, iṣẹ́ ìsọ̀ ìwọ̀wọ̀, wúrà dídá.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ìwọ yóò ṣe"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "⟨i⟩ àpètè ààyà"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "àwọn ìsọ̀"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "tí ó rọ̀ mọ́ra"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ìsọ̀ ìwọ̀wọ̀"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dídá"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:08.485985378Z",
+  "model": "glm-5.3"
+}

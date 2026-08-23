@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àwọn tí ó mọ Orúkọ rẹ yóò gbararẹ lékẹ̀, nítorí pé ìwọ kò ti fi ẹni tí ó ń wá ọ́ sílẹ̀, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "yóò gbararẹ lékẹ̀"
+    },
+    {
+      "surface": "בך",
+      "gloss": "rẹ…ìwọ"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "àwọn tí ó mọ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Orúkọ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "ti fi…sílẹ̀"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "ẹni tí ó ń wá ọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:31.930770293Z",
+  "model": "glm-5.3"
+}

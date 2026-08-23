@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ọba sì dìde, ó ya ⟨את⟩ aṣọ rẹ̀, ó sì fara lè lórí ilẹ̀; gbogbo ìránṣẹ́ rẹ̀ dúró ṣínṣín, aṣọ ti ya.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dìde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "fara lè"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "dúró ṣínṣín"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "ti ya"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "aṣọ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:02:42.819017918Z",
+  "model": "glm-5.3"
+}

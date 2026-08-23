@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Emi yóò dúpẹ́ fún ịwọ, nítorí pé èmi ni a ṣẹ̀dá ní ọ̀nà tí ń bà ní lẹ́rìnín; iṣẹ́ rẹ tí ó yàtọ̀ pátá ni àwọn iṣẹ́ rẹ, ẹ̀mí mi sì mọ̀ ọ́n dáadáa.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Emi yóò dúpẹ́ fún ịwọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ní ọ̀nà tí ń bà ní lẹ́rìnín"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "èmi ni a ṣẹ̀dá ní yàtọ̀"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "tí ó yàtọ̀ pátá"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "àwọn iṣẹ́ rẹ"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "ẹ̀mí mi sì"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dáadáa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:29.645952669Z",
+  "model": "glm-5.3"
+}

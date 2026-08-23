@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ó sì gbé àwọn olọ́jọ́-kúsọ kúrò nínú ilẹ̀ naa, ó sì yọ ⟨את⟩ gbogbo àwọn òrìṣà òfò tí àwọn baba rẹ̀ ṣẹ̀dá kúrọ.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ó sì gbé…kúrò"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "àwọn olọ́jọ́-kúsọ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ naa"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ó sì yọ…kúrọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn òrìṣà òfò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "àwọn òrìṣà òfò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ṣẹ̀dá"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "àwọn baba rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:20:32.409528433Z",
+  "model": "glm-5.3"
+}

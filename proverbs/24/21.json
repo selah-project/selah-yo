@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Bẹ́rù ⟨את⟩ Yahweh, ọmọ mi, àti ⟨את⟩ ọba; pẹ̀lú àwọn aláwíṣe má ṣe dàpọ̀.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "Bẹ́rù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ mi"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "àti ọba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "àwọn aláwíṣe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "dàpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:11:41.114718261Z",
+  "model": "glm-5.3"
+}

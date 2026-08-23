@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Elohim gbé sókè pẹ̀lú ìkìlọ̀ ayọ̀; Yahweh pẹ̀lú ohùn ẹ̀dan abọ̀.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "gbé sókè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "pẹ̀lú ìkìlọ̀ ayọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "pẹ̀lú ohùn"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ẹ̀dan abọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:37.035622088Z",
+  "model": "glm-5.3"
+}

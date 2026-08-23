@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Gẹ́gẹ́ bí iye tí ẹ bá ṣe, bẹ́ẹ̀ ni ẹ ó ṣe fún ọ̀kọ̀ọ̀kan, gẹ́gẹ́ bí iye wọn.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "gẹ́gẹ́ bí iye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ẹ bá ṣe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ẹ ó ṣe"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "fún ọ̀kọ̀ọ̀kan"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "gẹ́gẹ́ bí iye wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:56:40.794644618Z",
+  "model": "glm-5.3"
+}

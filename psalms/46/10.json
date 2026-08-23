@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Òun ń dá ogun dúró títí dé ìparí ayé; ó ń fọ́nà bọ́ọ̀wọ̀, ó ń gé ọ̀fà péré, ó sì ń sun kẹ̀kẹ́ ogun ní iná.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "ń dá dúró"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ìparí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bọ́ọ̀wọ̀"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ń fọ́nà"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "ń gé"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ọ̀fà"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "kẹ̀kẹ́ ogun"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ń sun"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ní iná"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:01.446458958Z",
+  "model": "glm-5.3"
+}

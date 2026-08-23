@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Balak sì ṣe bí Bilam ti sọ ó sì, ó gbé màlúù kan àti àgbo kan lé lórí ⟨átárí⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ó sì gbé lé lórí"
+    },
+    {
+      "surface": "פר",
+      "gloss": "màlúù kan"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "àti àgbo kan"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "lórí ⟨átárí⟩"
+    }
+  ],
+  "timestamp": "2026-08-22T23:59:36.555703784Z",
+  "model": "glm-5.3"
+}

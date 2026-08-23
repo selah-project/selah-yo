@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Mo sì fi ibi kan sílẹ̀ níbẹ̀ fún àpótí, níbi tí májẹ̀mú Yahweh tí ó kó pẹ̀lú àwọn baba wa wà, nígbà tí ó mú ⟨את⟩ wọn jáde kúrò lórílẹ̀-èdè Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "Mo sì fi… sílẹ̀"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi kan"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "fún àpótí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "níbi tí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wà"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ó kó"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "àwọn baba wa"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "nígbà tí ó mú… jáde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn (tààrà: jáde kúrò lórílẹ̀-èdè Mitzrayim)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kúrò lórílẹ̀-èdè"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T01:16:15.067412156Z",
+  "model": "glm-5.3"
+}

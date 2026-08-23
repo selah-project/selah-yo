@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Yahweh wí fún Moshe: \"Wò ó, mo ti fi ọ́ ṣe Elohim fún Paro, àti Aharon ará rẹ̀ yóò jẹ́ wòlíì rẹ̀.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "mo ti fi ọ́ ṣe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "fún Paro"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "àti Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ará rẹ̀"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "wòlíì rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:00.056081241Z",
+  "model": "glm-5.3"
+}

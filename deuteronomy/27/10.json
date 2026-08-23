@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ki o sì gbọ́ ohùn Yahweh, Elohim rẹ, kí o sì ṣe ⟨את⟩ àṣẹ rẹ̀ àti ⟨את⟩ òfin rẹ̀, èyí tí èmi ń pa lé ọ lọ́wọ́ lónìí.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ki o gbọ́"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kí o ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àṣẹ rẹ̀"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "àṣẹ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "òfin rẹ̀"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "òfin rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ń pa lé ọ lọ́wọ́"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:17:33.665115641Z",
+  "model": "glm-5.3"
+}

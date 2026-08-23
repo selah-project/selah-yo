@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Ẹnití ó ń rúbọ ìdúpẹ́ yọ̀rí èmi; ẹnití ó sọ ọ̀nà rẹ̀ sí ìtọ́, èmi yóò fi ìgbàlá Elohim hàn án.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "ẹnití ó ń rúbọ"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ìdúpẹ́"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "yóò yọ̀rí èmi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ó sọ sí ìtọ́"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "èmi yóò fi hàn án"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "ní ìgbàlá"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:04.163089956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ó sì ṣe ẹ̀bọ̀, ó sì sun etíṣó nínú àwọn ibi-giga, lórí àwọn òkè, àti ní abẹ́ gbogbo igi làlá.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ó sì ṣe ẹ̀bọ̀"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ó sì sun etíṣó"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "nínú àwọn ibi-giga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "àti ní abẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "làlá"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:51.072122287Z",
+  "model": "glm-5.3"
+}

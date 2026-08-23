@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ní ìgbà yẹn ni mo kọ̀ọ́nù ⟨אתכם⟩ ní ìgbà yẹn, pé: Yahweh, Elohim yín, ti fún yín ní ⟨את⟩ ilẹ̀ yìí láti fi jẹ yín — láti ṣíwájú ni ẹ yóò kọjá ṣáájú àwọn ará yín, àwọn ọmọ Yisrael, gbogbo àwọn ọmọ-alágbára.",
+  "tokens": [
+    {
+      "surface": "ואצו",
+      "gloss": "mo kọ̀ọ́nù"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "yín (àwọn tí mo kọ̀ọ́nù)"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ní ìgbà"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ti fún"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "láti fi jẹ"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "láti ṣíwájú (múra fún ogun)"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "ẹ yóò kọjá"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ṣáájú"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "àwọn ará yín"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "alágbára"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:19.135972822Z",
+  "model": "glm-5.3"
+}

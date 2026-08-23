@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Kí ni, ọmọ mi? Kí ni, ọmọ ikún mi? Kí ni, ọmọ àwọn ìmọ̀lẹ̀ mi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kí ni"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "ọmọ mi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Kí ni"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ikún mi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Kí ni"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "àwọn ìmọ̀lẹ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:14:45.278784264Z",
+  "model": "glm-5.3"
+}

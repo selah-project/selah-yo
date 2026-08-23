@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 63,
+  "translation": "Nítorí chesed rẹ dára ju ìyè lọ, èté mi máa fi yín ín fún ọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dára ju"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed rẹ"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "lọ ju ìyè"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "èté mi"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "máa fi yín ín fún ọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:06.636785368Z",
+  "model": "glm-5.3"
+}

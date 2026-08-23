@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 96,
+  "translation": "Ki àwọn ọ̀run dùn ayọ̀, ki ayé yọ; ki omi òkun kún fún ìdarọ̀rọ̀ àti ìpẹ̀rẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "dùn ayọ̀"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ki ... yọ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "kún fún ìdarọ̀rọ̀"
+    },
+    {
+      "surface": "הים",
+      "gloss": "omi òkun"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "àti ìpẹ̀rẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:21.128445692Z",
+  "model": "glm-5.3"
+}

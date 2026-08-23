@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ṣọ́ fúnra rẹ kí o má baà gbaì ⟨את⟩ Yahweh, ẹnití ó mú ọ́ jáde kúrò nínú ilẹ̀ Mitzrayim, kúrò nínú ilé ẹrú.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Ṣọ́ fúnra rẹ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fúnra rẹ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí o má baà"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "gbaì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹnití"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "ó mú ọ́ jáde"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kúrò nínú ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kúrò nínú ilé"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ẹrú"
+    }
+  ],
+  "timestamp": "2026-08-23T00:08:51.131374536Z",
+  "model": "glm-5.3"
+}

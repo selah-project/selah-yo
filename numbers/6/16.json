@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àti adóhùn náà yóò sún wọn wá níwájú Yahweh, ó sì máa ṣe ⟨את⟩ ẹbùn ẹṣẹ̀ rẹ̀ àti ⟨את⟩ ẹbùn ọ̀ró rẹ̀.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "àti adóhùn yóò sún wá"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adóhùn náà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ó sì máa ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹbùn ẹṣẹ̀ rẹ̀"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ẹbùn ẹṣẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹbùn ọ̀ró rẹ̀"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ẹbùn ọ̀ró rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:43:39.690360169Z",
+  "model": "glm-5.3"
+}

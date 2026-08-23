@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Nítorí kò sí iranti rẹ ní ikú; ní Sheol, ta ni yóò yin ẹ́?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ní ikú"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "iranti rẹ"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "ní Sheol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "yóò yin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:40.194515012Z",
+  "model": "glm-5.3"
+}

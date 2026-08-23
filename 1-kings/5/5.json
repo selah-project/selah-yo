@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Yehuda àti Yisraẹli sì gbé ní ààbọ̀, ẹnikẹ̀ni lábẹ́ igi àjàrà rẹ̀, àti lábẹ́ fígi rẹ̀, láti Dan dé Beer-Sheva, nígbà gbogbo ọjọ́ Shelomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "sì gbé"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "àti Yisraẹli"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ní ààbọ̀"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnikẹ̀ni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "igi àjàrà rẹ̀"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "àti lábẹ́"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "fígi rẹ̀"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "láti Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:46.355688649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Kí o sì fi ⟨את⟩ àwọn Lewi dúró níwájú ahọ́ ìpàdé, kí o sì gbà ⟨את⟩ gbogbo ìjọ àwọn ọmọ Yisrael jọ.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "kí o sì fi… dúró níwájú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Lewi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "àwọn Lewi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "kí o sì gbà… jọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ìjọ àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ìjọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-22T23:52:28.039909225Z",
+  "model": "glm-5.3"
+}

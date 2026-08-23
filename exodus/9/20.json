@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ẹni tí ó bẹ̀rù ⟨את⟩ ọ̀rọ̀ Yahweh lára àwọn ìránṣẹ́ Paroh sá àwọn ìránṣẹ́ rẹ̀ àti ⟨את⟩ ẹran-ọ̀sìn rẹ̀ pamọ́ sí àwọn ilé.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Ẹni tí ó bẹ̀rù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "lára àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "sá… pamọ́ (fa sá)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹran-ọ̀sìn rẹ̀"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ẹran-ọ̀sìn rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "àwọn ilé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:18.836942017Z",
+  "model": "glm-5.3"
+}

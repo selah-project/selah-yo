@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Ẹ̀tẹ́ mi yóò ké ayọ̀, nítorí tí emi yóò kọ orin fún ẹ, àti ẹ̀mí mi, ẹnití o ti rà.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "yóò ké ayọ̀"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ẹ̀tẹ́ mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "emi yóò kọ orin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ẹ"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "àti ẹ̀mí mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹnití"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "o ti rà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:14.780604724Z",
+  "model": "glm-5.3"
+}

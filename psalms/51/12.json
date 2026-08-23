@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Ṣẹ̀dá ọkàn mímọ́ fún mi, Elohim, àti ẹ̀mí tó tọ́sí tún ṣe ní àárín mi.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ṣẹ̀dá"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "àti ẹ̀mí"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tó tọ́sí"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tún ṣe"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ní àárín mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:08.375157859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Àwọn wọnyí ni wọn ṣe kọjá ⟨את⟩ Yorudani ní oṣù kìíní, nígbà tí ó ń kun lórí gbogbo etí odò rẹ̀, wọ́n sì sọ gbogbo àwọn igbóná náà sófò sí ìhà ìlà-oòrùn àti sí ìhà ìwọ̀-oòrùn.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Àwọn wọnyí"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "kọjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorudani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudani"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ní oṣù"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kìíní"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "nígbà tí ó"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ń kun"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "etí odò rẹ̀"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "wọ́n sì sọ ... sófò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn igbóná náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "àwọn igbóná náà"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "sí ìhà ìlà-oòrùn"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "àti sí ìhà ìwọ̀-oòrùn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:14:25.492234431Z",
+  "model": "glm-5.3"
+}

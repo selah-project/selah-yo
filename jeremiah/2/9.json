@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Nítorí náà, èmi yóò sì tún bá ⟨את⟩ yín jiyàn, ìwé ahọ́n Yahweh, àti ⟨את⟩ àwọn ọmọ àwọn ọmọ yín ni èmi yóò bá jiyàn.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Nítorí náà"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sì tún"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "yóò bá jiyàn"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ìwé ahọ́n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ àwọn ọmọ yín"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "àwọn ọmọ yín"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "yóò bá jiyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:04:57.806854618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Yahweh sọ fún Moshe pé: sọ fún Aharon pé: na ọwọ́ rẹ pẹ̀lú ọ̀yà rẹ sí orí àwọn odò, sí orí àwọn etí odò, àti sí orí àwọn pópó-omi, kí ó sì mú àwọn ọ̀pọ̀lọ́àyàkúko dìde sí orí ilẹ̀ Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "pẹ̀lú ọ̀yà rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "àwọn odò"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "àwọn etí odò"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti sí orí"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "àwọn pópó-omi"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "kí ó sì mú dìde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀pọ̀lọ́àyàkúko"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "àwọn ọ̀pọ̀lọ́àyàkúko"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:35.652771357Z",
+  "model": "glm-5.3"
+}

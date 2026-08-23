@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ní òwúrọ̀, ẹ ó sì rí ⟨את⟩ ògo Yahweh, nígbà tí ó bá gbọ́ ⟨את⟩ ìbúnú ẹnu yín lọ́dọ̀ Yahweh; ṣùgbọ́n ìwọ̀ ni kí ni àwa, tí ẹ fi ń kọ̀ sí wa?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "Ní òwúrọ̀"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "ẹ ó sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ògo Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ògo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "nígbà tí ó bá gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìbúnú ẹnu yín"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "ìbúnú ẹnu yín"
+    },
+    {
+      "surface": "על",
+      "gloss": "lọ́dọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "ìwọ̀ ni àwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "ẹ fi ń kọ̀"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sí wa"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:50.793158600Z",
+  "model": "glm-5.3"
+}

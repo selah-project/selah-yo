@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àti ẹnikẹ́ni — ⟨את⟩ míìmọ́ rẹ̀, ní ti rẹ̀ ni ó jẹ́; ẹnikẹ́ni tí ó bá fún adóhùn lọ́rẹ̀, ní ti rẹ̀ ni ó jẹ́.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Àti ẹnikẹ́ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "míìmọ́ rẹ̀"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "míìmọ́ rẹ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ní ti rẹ̀"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ó jẹ́"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnikẹ́ni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ó bá fún lọ́rẹ̀"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "fún adóhùn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ní ti rẹ̀"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ó jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:50:20.071859377Z",
+  "model": "glm-5.3"
+}

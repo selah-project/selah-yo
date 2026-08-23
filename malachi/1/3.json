@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Mo sì kórìíra ⟨את⟩ Esav, mo sì fi ⟨את⟩ àwọn òkè rẹ̀ di iwọ̀ gbígbagbé, ⟨את⟩ ètò-ogún rẹ̀ sì fún àwọn ajá-igbó iwọ̀ ère.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "Mo sì kórìíra"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "mo sì fi…di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òkè rẹ̀"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "àwọn òkè rẹ̀"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "iwọ̀ gbígbagbé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ètò-ogún rẹ̀"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ètò-ogún rẹ̀"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "fún àwọn ajá-igbó"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "iwọ̀ ère"
+    }
+  ],
+  "timestamp": "2026-08-23T03:21:21.315751929Z",
+  "model": "glm-5.3"
+}

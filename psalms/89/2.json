@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Ìfẹ́ olóòtítọ́ (chesed) ti Yahweh ni é máa ń kọ orin rẹ̀ fún ayérayé; fún ìrọ̀run dé ìrọ̀run ni èmi máa ń sọ ìgbẹ́kẹ̀lé rẹ̀ jáde ní ẹnu mi.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ìfẹ́ olóòtítọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fún ayérayé"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "èmi máa ń kọ orin"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "fún ìrọ̀run"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dé ìrọ̀run"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "èmi máa ń sọ jáde"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ìgbẹ́kẹ̀lé rẹ̀"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ní ẹnu mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:14.430410870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 138,
+  "translation": "Yahweh yóò parí ⟨iṣẹ́⟩ lórí mi; Yahweh, ìfẹ́ olóòtítọ́ rẹ kúnrẹ́rẹ́ láé láé; má ṣe fi iṣẹ́ ọwọ́ rẹ sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "yóò parí"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kúnrẹ́rẹ́ láé láé"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "fi sílẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:20:36.034828620Z",
+  "model": "glm-5.3"
+}

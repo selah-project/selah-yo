@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Bí èmi bá ẹbi gbà, kì í ṣe èmi yóò sọ fún ọ́; nítorí ti mi ni ayé àti kíkún rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "èmi bá ẹbi gbà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yóò sọ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ti mi ni"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "àti kíkún rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:20.494938674Z",
+  "model": "glm-5.3"
+}

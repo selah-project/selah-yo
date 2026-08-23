@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Ṣe àánú fún mi, Yahweh, nítorí ìṣòro wà fún mi; ojú mi, ẹ̀mí mí èmi àti ikùn mi ti sún mọ́ léká-lákà nítorí ìbànújẹ́.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ṣe àánú fún mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ìṣòro wà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "ti sún mọ́ léká-lákà"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "nítorí ìbànújẹ́"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mí èmi"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "àti ikùn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:47.902284142Z",
+  "model": "glm-5.3"
+}

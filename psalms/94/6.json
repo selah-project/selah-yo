@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "Aya ìsìn àti àlejò ni wọ́n ń pa, àti àwọn ọmọ tí bàbá wọn ti kú ni wọ́n ń pa pẹ̀lú ìkòǹilọ́lá.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "aya ìsìn"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "àti àlejò"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "wọ́n ń pa"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "àti àwọn ọmọ tí bàbá wọn ti kú"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "wọ́n ń pa pẹ̀lú ìkòǹilọ́lá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:48.694910924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì gbé e, ó sì mú un wá sí ọ̀dọ̀ ìyá rẹ̀; ó sì jókòó lórí ìkúnlẹ̀ rẹ̀ títí di àárọ̀ ọ̀sán, ó sì kú.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "ó sì gbé e"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ó sì mú un wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ìyá rẹ̀"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó sì jókòó"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "ìkúnlẹ̀ rẹ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "àárọ̀ ọ̀sán"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ó sì kú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:27:55.729354524Z",
+  "model": "glm-5.3"
+}

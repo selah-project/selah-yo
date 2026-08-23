@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Moshe sì rán wọn láti ìdanwò Paran, nípa ẹnu Yahweh; gbogbo wọn ni àwọn ọkùnrin, adarí àwọn ọmọ Yisraẹl ni wọn — awọn ni won.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì rán"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "láti ìdanwò"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "gbogbo wọn"
+    },
+    {
+      "surface": "ẹnuàwis ṣe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:54:29.388897621Z",
+  "model": "glm-5.3"
+}

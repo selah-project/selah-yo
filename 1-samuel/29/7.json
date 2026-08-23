@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Nítorí náà báyìí, padà sẹ́yìn, lọ kíkí ní àlàáfíà, kí o sì má ṣe ṣe burúkú nínú ojú àwọn asájú awọn Pelishti.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "nítorí náà báyìí"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "padà sẹ́yìn"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "lọ kíkí"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ní àlàáfíà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí o má ṣe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "burúkú"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nínú ojú"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "àwọn asájú"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "awọn Pelishti"
+    }
+  ],
+  "timestamp": "2026-08-23T00:56:33.556733765Z",
+  "model": "glm-5.3"
+}

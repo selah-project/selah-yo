@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 132,
+  "translation": "Bí èmi bá wọ inú ahọ́ ilé mi, bí èmi bá gun orí bẹ́dẹ̀ ìsùn mi —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Bí"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "èmi bá wọ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "inú ahọ́"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ilé mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "èmi bá gun"
+    },
+    {
+      "surface": "על",
+      "gloss": "orí"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "bẹ́dẹ̀"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ìsùn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:20.078657999Z",
+  "model": "glm-5.3"
+}

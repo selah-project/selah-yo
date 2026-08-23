@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nítorí Iwọ ń gbà àwọn ènìyàn tí wọ́n kẹ̀yẹ̀ là; ṣùgbọ́n àwọn ojú tí ó ga, Iwọ ń sọ di ìsàlẹ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Iwọ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "עני",
+      "gloss": "tí wọ́n kẹ̀yẹ̀"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ń gbà … là"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ṣùgbọ́n àwọn ojú"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "tí ó ga"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "ń sọ di ìsàlẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:11.932679384Z",
+  "model": "glm-5.3"
+}

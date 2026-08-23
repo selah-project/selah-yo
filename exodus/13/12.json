@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 13:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ìwọ sì gbọ́dọ̀ fi gbogbo akọ̀bí tí ó ṣí ìbánuṣe sílẹ̀ fún Yahweh, àti gbogbo akọ̀bí ọmọ ẹranko tí ó bá wà fún ọ — àwọn akọ ni ti Yahweh.",
+  "tokens": [
+    {
+      "surface": "והעברת",
+      "gloss": "Ìwọ sì gbọ́dọ̀ fi sílẹ̀ fún"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "akọ̀bí tí ó ṣí"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ìbánuṣe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "akọ̀bí"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "ọmọ ẹranko"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ó bá wà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "àwọn akọ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ti Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:42.451944378Z",
+  "model": "glm-5.3"
+}

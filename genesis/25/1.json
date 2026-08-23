@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Avraham ṣe àfikún, ó sì gba aya, orúkọ rẹ̀ sì ⟨í⟩ Keturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ṣe àfikún"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "orúkọ rẹ̀ sì"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-08-22T23:03:12.321564658Z",
+  "model": "glm-5.3"
+}

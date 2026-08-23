@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 77,
+  "translation": "Fún olùdarí-orin, lórí Jeduthun; mizmor fún Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fún olùdarí-orin"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Jeduthun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "fún Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:35.443289525Z",
+  "model": "glm-5.3"
+}

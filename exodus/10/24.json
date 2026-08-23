@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Faraoh sì pe Moshe, ó sì wí pé: Ẹ lọ, ẹ sìn ⟨את⟩ Yahweh; àgbàlà ágbà yín àti màlúù yín ni ó gbọ́dọ̀ dúró sílẹ̀; ọmọ kékeré yín sì lè lọ pẹ̀lú yín.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sì pe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ẹ lọ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ẹ sìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "àgbàlà ágbà (nìkan)"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "àgbàlà ágbà yín"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "àti màlúù yín"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "ó gbọ́dọ̀ dúró sílẹ̀"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sì (pẹ̀lú)"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ọmọ kékeré yín"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "lè lọ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pẹ̀lú yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:27.587491449Z",
+  "model": "glm-5.3"
+}

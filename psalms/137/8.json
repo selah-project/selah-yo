@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 137,
+  "translation": "Dákun ọmọbìnrin Babeli, ẹni tí wọ́n ń ṣẹ́, ẹni-bùkún ni ẹni tí ó sanpadà fún ọ, ⟨את⟩ ṣíṣanpadà rẹ, tí ó ṣe sí wa.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Dákun ọmọbìnrin"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babeli"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "ẹni tí wọ́n ń ṣẹ́"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ẹni-bùkún ni"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "ẹni tí ó sanpadà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ṣíṣanpadà rẹ"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "ìṣanpadà rẹ"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "tí ó san fún"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sí wa"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:08.379293939Z",
+  "model": "glm-5.3"
+}

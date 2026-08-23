@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ìwọ yóò sì padà, ìwọ yóò sì gbọ́ ti ohùn Yahweh, ìwọ yóò sì ṣe ⟨את⟩ gbogbo àwọn àṣẹ rẹ̀ tí èmi ń pa lẹ́ẹ̀ rẹ̀ lónìí.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ìwọ yóò sì"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "padà"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ìwọ yóò sì gbọ́ ti"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ìwọ yóò sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn àṣẹ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "àwọn àṣẹ rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ń pa lẹ́ẹ̀ rẹ̀"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:19:50.131625417Z",
+  "model": "glm-5.3"
+}

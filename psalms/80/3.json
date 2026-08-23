@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 80,
+  "translation": "Níwájú Efrayim àti Binyamin àti Menashe, jí kí o gbé ⟨את⟩ ipa rẹ̀ sókè, kí o sì wá fún ìgbagbọ́ wa.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "àti Binyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "àti Menashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "jí kí o gbé sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipa rẹ̀"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "ipa rẹ̀"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "kí o sì wá"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "fún ìgbagbọ́"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:22.434883096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 81,
+  "translation": "Mo sì fi wọ́n sílẹ̀ sí ìṣẹ̀rí ọkàn wọn, kí wọ́n lè rìn nínú ìmọ̀ràn ara wọn.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "Mo sì fi sílẹ̀"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "sí ìṣẹ̀rí"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ọkàn wọn"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "kí wọ́n lè rìn"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "nínú ìmọ̀ràn ara wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:11.172145456Z",
+  "model": "glm-5.3"
+}

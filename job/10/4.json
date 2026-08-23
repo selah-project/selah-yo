@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ṣé ojú ara ni ti ọ̀wọ́? Ṣé gẹ́gẹ́ bí ìgbà tí a ń rí àrùn-àyà, ni ìwọ ń rí bẹ́ẹ̀?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "ṣé ojú"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ni ti ọ̀wọ́"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ṣé"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "gẹ́gẹ́ bí ìgbà tí a ń rí"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "àrùn-àyà"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ìwọ ń rí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:20:07.377068979Z",
+  "model": "glm-5.3"
+}

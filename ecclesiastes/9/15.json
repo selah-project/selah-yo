@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Wọ́n sì rí ọkùnrin olóòsì ọmọ-ọgbọ́n nínú rẹ̀, òun sì fi ọgbọ́n rẹ̀ gbà ⟨את⟩ ìlú náà là; ṣùgbọ́n ẹnikẹ́ni kò rántí ⟨את⟩ ọkùnrin olóòsì yẹn.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "wọ́n sì rí i"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "olóòsì"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ọmọ-ọgbọ́n"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "ó sì gbà … là"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìlú náà"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "nípa ọgbọ́n rẹ̀"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ṣùgbọ́n ẹnikẹ́ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "rántí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkùnrin náà"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "olóòsì"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:24.636265594Z",
+  "model": "glm-5.3"
+}

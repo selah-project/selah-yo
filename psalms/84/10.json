@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 84,
+  "translation": "Aboṣẹ wa, wo, Elohim, wo ojú Mashiach rẹ.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Aboṣẹ wa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "wo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiach rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:18.613991521Z",
+  "model": "glm-5.3"
+}

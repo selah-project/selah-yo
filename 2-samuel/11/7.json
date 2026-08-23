@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Uriya sì wá sí ọ̀dọ̀ rẹ̀; David sì béèrè nípa àlàáfíà Yoav, àti nípa àlàáfíà ìjọ enìya, àti nípa àlàáfíà ìgbà ogun.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "sì wá sí"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "sì béèrè nípa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "àti nípa àlàáfíà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ enìya"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "àti nípa àlàáfíà"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ìgbà ogun"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:10.998756167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Wọ́n wá sọ pé, O kò ṣẹ́ wa, o kò la wa, o sì kò gba ohunkóhun lọ́wọ́ ẹnikẹ́ni.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n wá sọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "o ṣẹ́ wa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o kò sì"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "la wa (fipá jẹ wa)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o kò sì"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "o gba"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnikẹ́ni (ẹni)"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ohunkóhun"
+    }
+  ],
+  "timestamp": "2026-08-23T00:47:07.423196241Z",
+  "model": "glm-5.3"
+}

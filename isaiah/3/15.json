@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Kí ló dé tí ẹ nkún ènìyàn mi lára, ẹ sì ń lu àwọn ojú ti àwọn ọ̀tọ̀sì lọ́wọ́? wí ni Adonai, Yahweh ti àwọn ọmọ-ogun.",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "Kí ló dé tí"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "ẹ nkún … lára"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ènìyàn mi"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "àti àwọn ojú ti"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "àwọn ọ̀tọ̀sì"
+    },
+    {
+      "surface": "תטחנו",
+      "gloss": "ẹ ń lu … lọ́wọ́"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wí ni"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti àwọn ọmọ-ogun"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:26.701680275Z",
+  "model": "glm-5.3"
+}

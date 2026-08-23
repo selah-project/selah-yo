@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 140,
+  "translation": "Orí àwọn tí ó yì mí ká — ìṣòro ti ẹ̀ṣẹ̀ wọn fúnra wọn yió bò ó wọ́.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "àwọn tí ó yì mí ká"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ìṣòro"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ti ẹ̀ṣẹ̀ wọn"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "yió bò ó wọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:21.333654148Z",
+  "model": "glm-5.3"
+}

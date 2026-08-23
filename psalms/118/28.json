@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Iwọ ni El mi, èmi kí ọ́; Elohim mi, èmi gbé ọ́ ga.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Iwọ"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "èmi kí ọ́"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "èmi gbé ọ́ ga"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:28.057668721Z",
+  "model": "glm-5.3"
+}

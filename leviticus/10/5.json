@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Wọ́n sì súnmọ́, wọ́n sì gbé wọn léṣin inú aṣọ wọn jáde sí ìta síta ibùdó, bí Moshe ti sọ.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "wọ́n sì súnmọ́"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "wọ́n sì gbé wọn"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "inú aṣọ wọn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ìta síta"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ibùdó"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:38:37.014474326Z",
+  "model": "glm-5.3"
+}

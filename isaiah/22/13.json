@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 22:13",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ki wò ó — ayọ̀ àti ìdúnnú, pípa máàlù àti pípa agbàn, jíjẹ ẹran àti mímu otí: jẹ ọúnjẹ, mu ọti, nítorí pé ọ̀la ni a ó kú.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ki wò ó"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ayọ̀"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "àti ìdúnnú"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "pípa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "máàlù"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "àti pípa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "agbàn"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jíjẹ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ẹran"
+    },
+    {
+      "surface": "ושתות",
+      "gloss": "àti mímu"
+    },
+    {
+      "surface": "יין",
+      "gloss": "otí"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "jẹ ọúnjẹ"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "àti mu ọti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ọ̀la"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "a ó kú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:47:27.586896223Z",
+  "model": "glm-5.3"
+}

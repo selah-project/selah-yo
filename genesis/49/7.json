@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Èèpe lérú ní ìbínú wọn, nítorí tí ó le; ìrẹ̀jì wọn pẹ̀lú, nítorí tí ó le líle: èmi ó pin wọ́n sínu Yaakov, èmi ó tú wọn sọ́nù sínu Yisrael.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "èèpe lérú"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "ìbínú wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ó le"
+    },
+    {
+      "surface": "ועברתם",
+      "gloss": "ìrẹ̀jì wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "ó le líle"
+    },
+    {
+      "surface": "אחלקם",
+      "gloss": "èmi ó pin wọ́n"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "sínu Yaakov"
+    },
+    {
+      "surface": "ואפיצם",
+      "gloss": "èmi ó tú wọn sọ́nù"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sínu Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:47.094573688Z",
+  "model": "glm-5.3"
+}

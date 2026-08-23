@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 5:10",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ẹ ṣọ̀rọ̀ — àwọn ọlọ́-ẹṣiníràọ funfun, àwọn tí ó ń jókòó lórí aṣọ tí ó gbòrọ̀, àti àwọn tí ó ń rìn lórí ọ̀nà.",
+  "tokens": [
+    {
+      "surface": "רכבי",
+      "gloss": "àwọn ọlọ́-ẹṣiníràọ"
+    },
+    {
+      "surface": "אתנות",
+      "gloss": "ẹṣiníràọ"
+    },
+    {
+      "surface": "צחרות",
+      "gloss": "funfun"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn tí ó ń jókòó"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "aṣọ tí ó gbòrọ̀"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "àti àwọn tí ó ń rìn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ẹ ṣọ̀rọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:32:59.493115391Z",
+  "model": "glm-5.3"
+}

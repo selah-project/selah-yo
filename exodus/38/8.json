@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Ó sì ṣe ⟨את⟩ àgará idẹ àti ⟨את⟩ ìdí rẹ̀ idẹ, pẹ̀lú àwọn digi ìwò-ẹ̀dẹ̀ ti àwọn obìnrin olúsẹ́, àwọn tí ó ń ṣe ìsìn ní ẹnu-ọ̀nà Àgọ̀ Ìpàdé.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgará idẹ"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "àgará"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "idẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìdí rẹ̀ idẹ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ìdí rẹ̀"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "idẹ"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "pẹ̀lú àwọn digi ìwò-ẹ̀dẹ̀"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "àwọn obìnrin olúsẹ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "àwọn tí"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ń ṣe ìsìn"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ẹnu-ọ̀nà"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Àgọ̀"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Ìpàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:58.003862761Z",
+  "model": "glm-5.3"
+}

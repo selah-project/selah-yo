@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "David sì ṣe ìṣirò ⟨את⟩ àwọn ènìyàn tí ó wà pẹ̀lú ⟨את⟩ rẹ̀, ó sì fi àwọn adarí ẹgbẹ̀rún àti àwọn adarí ọgọ́rún lé wọn lórí.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "sì ṣe ìṣirò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pẹ̀lú ⟨את⟩ rẹ̀"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì fi … lé"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lé wọn lórí"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "àwọn adarí"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ẹgbẹ̀rún"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "àti àwọn adarí"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "àwọn ọgọ́rún"
+    }
+  ],
+  "timestamp": "2026-08-23T01:05:08.144499357Z",
+  "model": "glm-5.3"
+}

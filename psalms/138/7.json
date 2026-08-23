@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 138,
+  "translation": "Tí mo bá rìn nínú ìpèníjà, iwọ ń mú mi ṣe àìrí; lórí bíní àwọn ọ̀tá mi ni iwọ fi ọwọ́ ránṣẹ́, ọwọ́ ọ̀tún rẹ sì ń gbà mí là.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mo bá rìn"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nínú"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ìpèníjà"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "iwọ ń mú mi ṣe àìrí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bíní"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "iwọ fi ránṣẹ́"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "sì ń gbà mí là"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ọwọ́ ọ̀tún rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:20:41.153226180Z",
+  "model": "glm-5.3"
+}

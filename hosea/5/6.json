@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Pẹ̀lú àwọn agbo wọn àti àwọn màlúù wọn ni wọn yóò lọ láti wá ⟨את⟩ Yahweh, ṣùgbọ́n wọn kò ní í rí i; ó ti já wọn lẹ́yìn.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "pẹ̀lú àwọn agbo wọn"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "àti àwọn màlúù wọn"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "wọn yóò lọ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "láti wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n … kò"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ní í rí i"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ó ti já"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wọn lẹ́yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:00:49.473392466Z",
+  "model": "glm-5.3"
+}

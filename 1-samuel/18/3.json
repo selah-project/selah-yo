@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Yehonatan sì pàdé David déédé májẹ̀mú, nítorí ìfẹ́ rẹ̀ fún ⟨את⟩ ⟨un⟩ bí ẹ̀mí rẹ̀ ṣe rí.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "sì pàdé déédé"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "àti David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "nítorí ìfẹ́ rẹ̀"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "un (David)"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "bí ẹ̀mí rẹ̀ ṣe rí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:51:39.959095990Z",
+  "model": "glm-5.3"
+}

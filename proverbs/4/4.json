@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 4:4",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì kọ́ mi, ó sì wí fún mi pé, Jẹ́ kí ọkàn rẹ mú ọ̀rọ̀ mi, pa àṣẹ mi mọ́, kí o sì yé èmí.",
+  "tokens": [
+    {
+      "surface": "וירני",
+      "gloss": "Ó sì kọ́ mi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "Jẹ́ kí ... mú"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀ mi"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ọkàn rẹ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "pa ... mọ́"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "àṣẹ mi"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "kí o sì yé èmí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:03:28.042742474Z",
+  "model": "glm-5.3"
+}

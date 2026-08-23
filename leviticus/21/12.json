@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ó kì í jáde kúrò nínú ibi mímọ́, ó sì kì í ṣe ègbin sí ⟨את⟩ ibi mímọ́ Elohim rẹ̀; nítorí pé ìyàsọ́tọ́ óróró ìróró Elohim rẹ̀ wà lórí rẹ̀; emi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "jáde kúrò ní"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ibi mímọ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "jáde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ó sì kì í"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "ṣe ègbin sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibi mímọ́ Elohim rẹ̀"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ibi mímọ́"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ìyàsọ́tọ́"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "óróró"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ìróró"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim rẹ̀"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "wà lórí rẹ̀"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:18.219802070Z",
+  "model": "glm-5.3"
+}

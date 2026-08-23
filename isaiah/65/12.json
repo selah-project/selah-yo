@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 65:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 65,
+  "translation": "Nítorí náà, èmi óò yán yín sílé fún idà, ẹ̀yin gbogbo yóò sì kúnlẹ̀ fún ọ̀kan-pàǹpàn —— nítorí pé mo pè, ẹyin kò dáhùn; mo sọ̀rọ̀, ẹyin kò gbọ́; ẹ sì ṣe búburú ní ojú mi, ẹ sì yàn nǹkan tí èmi kò fẹ́ràn.",
+  "tokens": [
+    {
+      "surface": "ומניתי",
+      "gloss": "èmi óò yán yín sílé fún"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "yín (⟨את⟩-marker)",
+      "marks": "idà"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "fún idà"
+    },
+    {
+      "surface": "וכלכם",
+      "gloss": "ẹ̀yin gbogbo"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "fún ọ̀kan-pàǹpàn"
+    },
+    {
+      "surface": "תכרעו",
+      "gloss": "ẹ yóò kúnlẹ̀"
+    },
+    {
+      "surface": "יען",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mo pè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "ẹyin dáhùn"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mo sọ̀rọ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ẹyin gbọ́"
+    },
+    {
+      "surface": "ותעשו",
+      "gloss": "ẹ sì ṣe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú mi"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "sì nínú nǹkan tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "mo fẹ́ràn"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "ẹ yàn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:56:20.821092769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó sì dá ⟨את⟩ Yisraẹl lẹ́bọ̀ ọdún ogún àti mẹ́ta; ó sì kú, wọ́n sì sin ín ní Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ó sì dá…lẹ́bọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraẹl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹl"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "àti mẹ́ta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ó sì kú"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wọ́n sì sin ín"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "ní Shamir"
+    }
+  ],
+  "timestamp": "2026-08-23T05:48:33.190047767Z",
+  "model": "glm-5.3"
+}

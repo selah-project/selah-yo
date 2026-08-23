@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ní ìrántí àwọn nǹkan wọnyí ni, ẹ̀mí mi sì ń tú sórí mi: nítorí tí mo ti ń kọjá nínú ìjọpọ̀, mo nsún wọn lọ títí dé ilé Elohim, pẹ̀lú ohùn ayọ̀ àti ẹ̀ṣẹ́ — ìjọ tó ń ṣe ọdún.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Àwọn nǹkan wọnyí"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "mo rántí"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "mo sì ń tú"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sórí mi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "mo ti ń kọjá"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "nínú ìjọpọ̀"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "mo nsún wọn lọ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "pẹ̀lú ohùn"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ayọ̀"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "àti ẹ̀ṣẹ́"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ìjọ"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "tó ń ṣe ọdún"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:29.010274412Z",
+  "model": "glm-5.3"
+}

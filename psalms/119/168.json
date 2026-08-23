@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Mo ti pa àwọn àṣẹ rẹ mọ́ àti àwọn ẹ̀rì rẹ, nítorí gbogbo ọ̀nà mi wà níwájú rẹ.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "mo ti pa ... mọ́"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "àwọn àṣẹ rẹ"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "àti àwọn ẹ̀rì rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ọ̀nà mi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "níwájú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:21.817217649Z",
+  "model": "glm-5.3"
+}

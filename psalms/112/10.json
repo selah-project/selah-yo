@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 112,
+  "translation": "Ẹni búburú yóò rí i, kí ó sì bínú; ó máa fi ẹ̀yín rẹ̀ rẹ́; ó sì máa rú lójú; èrò ọkọ̀ọ̀kan àwọn búburú ni yóò parun.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "ẹni búburú"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "yóò rí i"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "kí ó sì bínú"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ẹ̀yín rẹ̀"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "ó máa fi… rẹ́"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ó sì máa rú lójú"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "èrò ọkọ̀ọ̀kan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn búburú"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "yóò parun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:30.595868934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì sẹ́lẹ̀ ní àárọ̀, nígbà tí ẹ̀bùn ọ̀sán ń gọ́lọ̀, kíyèsi i, omi ń wá láti ọ̀nà Edomu; ilẹ̀ náà sì kún pẹ̀lú ⟨את⟩ omi náà.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì sẹ́lẹ̀"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "nígbà tí... ń gọ́lọ̀"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ẹ̀bùn ọ̀sán"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kíyèsi i"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ń wá"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "láti ọ̀nà"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "sì kún"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omi náà"
+    },
+    {
+      "surface": "המים",
+      "gloss": "omi náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:26:59.886599125Z",
+  "model": "glm-5.3"
+}

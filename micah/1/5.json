@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ní ìṣẹ̀ Yaakov ni gbogbo èyí wà, àti ní àwọn ẹ̀ṣẹ̀ ilé Yisra'el. Ta ni ìṣẹ̀ Yaakov? Ṣé kì í ṣe Shomron? Àti ta ni àwọn ibi-òkè ìsìn Yehudah? Ṣé kì í ṣe Yerushalayim?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "ní ìṣẹ̀"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "àti ní àwọn ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ìṣẹ̀"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ṣé kì í ṣe"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "àti ta ni"
+    },
+    {
+      "surface": "במות",
+      "gloss": "àwọn ibi-òkè ìsìn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ṣé kì í ṣe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:10:57.386972702Z",
+  "model": "glm-5.3"
+}

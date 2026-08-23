@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Wọ́n sì bí ọmọkùnrin fún David ní Hevron; akọ́bi rẹ̀ sì jẹ́ Amnon, tí Ahinoam, Yisreelitì, bí.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "wọ́n sì bí"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ọmọkùnrin"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ní Hevron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sì jẹ́"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "akọ́bi rẹ̀"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "fún Ahinoam"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "Yisreelitì"
+    }
+  ],
+  "timestamp": "2026-08-23T00:58:21.970163948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àwọn adari Yehudah dàbí àwọn tí ó ń yọrí ìlà-oòrè; lóri wọn ni èmi yóò sì ṣànjọ́ bí omi, ìbínú mi.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "dàbí"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "àwọn adari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "àwọn tí ó ń yọrí"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ìlà-oòrè"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lóri wọn"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "yóò ṣànjọ́"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "bí omi"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "ìbínú mi"
+    }
+  ],
+  "timestamp": "2026-08-23T02:59:54.657932874Z",
+  "model": "glm-5.3"
+}

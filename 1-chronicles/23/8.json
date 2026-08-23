@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Àwọn ọmọ Ladan — olórí ni Yechiel, àti Zetam àti Yoel — mẹ́ta.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Àwọn ọmọ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Ladan"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Yechiel"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "àti Zetam"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "àti Yoel"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mẹ́ta"
+    }
+  ],
+  "timestamp": "2026-08-23T05:18:12.286619651Z",
+  "model": "glm-5.3"
+}

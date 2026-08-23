@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "⟨את⟩ ọ̀rọ̀ tí mo kọ́ májẹ̀mú pẹ̀lú ⟨את⟩ yín nígbà tí ẹ jáde kúrò lọ́dọ̀ Mísraim, ẹ̀mí mi sì dúró sí àárín yín; ẹ má ṣe bẹ̀ru.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ náà"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "mo kọ́ májẹ̀mú"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "pẹ̀lú ⟨את⟩ yín"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "nígbà tí ẹ jáde"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kúrò lọ́dọ̀ Mísraim"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "ẹ̀mí mi sì"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "sí àárín yín"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bẹ̀ru"
+    }
+  ],
+  "timestamp": "2026-08-23T03:15:32.238545439Z",
+  "model": "glm-5.3"
+}

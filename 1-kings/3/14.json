@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àti tí ó bá ti jẹ́ pé ìwọ bá rìn nínú àwọn ọ̀nà mi, láti ṣọ́ àwọn òfin mi àti àwọn àṣẹ mi, gẹ́gẹ́ bí David baba rẹ ti rìn, mo ó fà ⟨את⟩ ọjọ́ rẹ gùn.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "àti tí ó bá"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ìwọ bá rìn"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ní àwọn ọ̀nà mi"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "láti ṣọ́"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "àwọn òfin mi"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "àti àwọn àṣẹ mi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ti rìn"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba rẹ"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "mo ó fà gùn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọjọ́ rẹ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ọjọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:21.946279448Z",
+  "model": "glm-5.3"
+}

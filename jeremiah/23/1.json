@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ègún fún àwọn olùṣọ́-àgùntàn, tí wọ́n ń pa ⟨את⟩ àwọn ẹran-ọ̀sìn ilẹ̀-òun mi ru, tí wọ́n sì ń tà wọ́n sọ́fọ́ — ìwọ̀n-ọ̀rọ̀ Yahweh.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ègún"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "àwọn olùṣọ́-àgùntàn"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "tí wọ́n ń pa ... ru"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "tí wọ́n sì ń tà wọ́n sọ́fọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ẹran-ọ̀sìn ilẹ̀-òun mi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "àwọn ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "ilẹ̀-òun mi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ìwọ̀n-ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T02:17:30.461874715Z",
+  "model": "glm-5.3"
+}

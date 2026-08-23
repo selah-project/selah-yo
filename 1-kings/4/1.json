@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ọba Shelomoh sì jẹ́ ọba lórí gbogbo Israẹl.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sì jẹ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:09.655606389Z",
+  "model": "glm-5.3"
+}

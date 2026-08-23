@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 6:4",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Wọ́n sì wí pé, Kí ni ẹ̀ṣẹ̀-ìjìyà tí a ó da padà fún Un? Wọ́n sì wí pé, Gẹ́gẹ́ bí iye àwọn olórí ilẹ̀ Filistini — ẹ̀wẹ̀ àwọ̀n òwú goolu mẹ́fà àti ẹ̀wẹ̀ àwọn eku goolu márùn-ún — nítorí tí ìjàmbá kan ṣoṣo kàn wọ́n gbogbo àti àwọn olórí yín.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Wọ́n sì wí pé"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kí ni"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ẹ̀ṣẹ̀-ìjìyà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נשיב",
+      "gloss": "a ó da padà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún Un"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Wọ́n sì wí pé"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "Gẹ́gẹ́ bí iye"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ilẹ̀ Filistini"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "márùn-ún"
+    },
+    {
+      "surface": "עפלי",
+      "gloss": "ẹ̀wẹ̀ àwọ̀n òwú"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goolu"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "àti márùn-ún"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "ẹ̀wẹ̀ àwọn eku"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goolu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "ìjàmbá"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kan ṣoṣo"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "kàn wọ́n gbogbo"
+    },
+    {
+      "surface": "ולסרניכם",
+      "gloss": "àti àwọn olórí yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:48.684872761Z",
+  "model": "glm-5.3"
+}

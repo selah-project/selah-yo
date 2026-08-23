@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Mo sì jẹ́ ⟨ení⟩ olóòtítọ́ pẹ̀lú rẹ̀, mo sì pa ara mi mọ́ kúrò lọ́dọ̀ ẹ̀ṣẹ̀ mi.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "mo sì jẹ́"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "olóòtítọ́"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "mo sì pa ara mi mọ́"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "kúrò lọ́dọ̀ ẹ̀ṣẹ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:10.866718519Z",
+  "model": "glm-5.3"
+}

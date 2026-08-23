@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "⟨את⟩ àwọn ọjọ́ ìsinmi mi ẹ gbọ́ wọ́n, kí ẹ sì bẹ̀rù ⟨the⟩ ààyè mímọ́ mi; èmi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọjọ́ ìsinmi mi"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "àwọn ọjọ́ ìsinmi mi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ẹ gbọ́ wọ́n"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "kí ẹ sì bẹ̀rù ààyè mímọ́ mi"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ẹ bẹ̀rù"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:07.055951283Z",
+  "model": "glm-5.3"
+}

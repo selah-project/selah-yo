@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 8:1",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àwọn wọ̀nyí ni olórí àwọn baba wọn, àti ìjáwé-ọ̀wọ́ wọn, àwọn tí ó gbé sókè pẹ̀lú mi, ní ìjọba Artachshashta ọba, láti Bavel.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Àwọn wọ̀nyí"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "àti ìjáwé-ọ̀wọ́ wọn"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "àwọn tí ó gbé sókè"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pẹ̀lú mi"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "ní ìjọba"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artachshashta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "láti Bavel"
+    }
+  ],
+  "timestamp": "2026-08-23T05:00:22.555624081Z",
+  "model": "glm-5.3"
+}

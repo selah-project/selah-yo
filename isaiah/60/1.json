@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 60,
+  "translation": "Dìde, ṣànṣọ́, nítorí ìmọ́lẹ̀ rẹ ti dé, àti ògo Yahweh ti yọ sórí rẹ.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Dìde"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ṣànṣọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ti dé"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ìmọ́lẹ̀ rẹ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "àti ògo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sórí rẹ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ti yọ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:02:35.416596689Z",
+  "model": "glm-5.3"
+}

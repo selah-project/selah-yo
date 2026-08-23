@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ìṣùṣù ni àwọn ti kò gbàṣẹ́ pẹ́; kí ló dé tí ìwọ kò gbé ìgbésẹ̀ mi sókè, kò sì ṣe kí ⟨את⟩ ẹ̀ṣẹ̀ mi kọjá nítorí pé níbẹ̀ nígbà yìí ni èmi óò máa sùn sínú erùféẹ̀, ìwọ sì máa wá mi ní àárọ̀ — èmi kò sì wà mọ́.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "kí ló dé tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "gbé ìgbésẹ̀ mi sókè"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ìgbésẹ̀ mi"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "kò sì ṣe kí … kọjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀ṣẹ̀ mi"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ẹ̀ṣẹ̀ mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nígbà yìí"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "sínú erùféẹ̀"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "máa sùn"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "ìwọ sì máa wá mi ní àárọ̀"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "èmi kò sì wà mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:16:31.456188969Z",
+  "model": "glm-5.3"
+}

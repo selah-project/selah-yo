@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ọgbọ́n ń fúnni ní agbára fún ọlọgbọ́n, ju àwọn aláṣẹ mẹ́wàá tí ó wà ní ìlú lọ.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "ọgbọ́n"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ń fúnni ní agbára"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "fún ọlọgbọ́n"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "ju … mẹ́wàá lọ"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "àwọn aláṣẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wà"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ní ìlú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:21.490983459Z",
+  "model": "glm-5.3"
+}

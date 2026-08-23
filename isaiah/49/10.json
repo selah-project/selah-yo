@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Wọn kì yóò gbà ebi, wọn kì yóò gbà ògbẹ̀, ìrọ́ra ìgbóná àti òòrùn kì yóò lu wọn: nítorí Ẹni tí ó ṣàánú wọn ni yóò darí wọn, ó sì máa gbé wọn dé orísun omi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "yóò gbà ebi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kì í"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "yóò gbà ògbẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kì í"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "kì yóò lu wọn"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "ìrọ́ra ìgbóná"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "àti òòrùn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "Ẹni tí ó ṣàánú wọn"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "yóò darí wọn"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ó sì sí"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "orísun"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "máa gbé wọn dé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:58:23.914723689Z",
+  "model": "glm-5.3"
+}

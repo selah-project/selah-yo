@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Iwọ kì ní ṣe paya èrù òru, tàbí ọfà tí ó ń fò ní ọ̀sán;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ṣe paya"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "èrù"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ọfà"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "ń fò"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ọ̀sán"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:44.806571196Z",
+  "model": "glm-5.3"
+}

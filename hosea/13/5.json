@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Èmi ni mo mọ̀ ọ́ nínú ìdanwọ̀, ní ilẹ̀ ìgbẹ gan-an.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "èmi ni"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "mo mọ̀ ọ́"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nínú ìdanwọ̀"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "ìgbẹ gan-an"
+    }
+  ],
+  "timestamp": "2026-08-23T03:03:29.672259947Z",
+  "model": "glm-5.3"
+}

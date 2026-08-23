@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 96,
+  "translation": "Ìgbéga àti ògo ló wà níwájú rẹ̀, agbára àti ẹ̀ẹ́yàn wà ní mímọ́-ilé rẹ̀.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "ìgbéga"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "àti ògo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "níwájú rẹ̀"
+    },
+    {
+      "surface": "עז",
+      "gloss": "agbára"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "àti ẹ̀ẹ́yàn"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "ní mímọ́-ilé rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:20.452154598Z",
+  "model": "glm-5.3"
+}

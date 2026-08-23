@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Ó sì darí wọ́n lọ ní ọ̀nà tó tọ́, láti lọ sí ìlú tí wọ́n lè gbé.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Ó sì darí wọ́n lọ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ní ọ̀nà"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "tó tọ́"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "láti lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "tí wọ́n lè gbé"
+    }
+  ],
+  "timestamp": "2026-08-23T06:20:19.604319483Z",
+  "model": "glm-5.3"
+}

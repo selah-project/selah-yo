@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Ó sì ṣe ⟨את⟩ ẹ̀wù efodu náà, iṣẹ́ olùkọ̀nù, gbogbo rẹ̀ ni àwọ̀ aró.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀wù efodu náà"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ẹ̀wù"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodu náà"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "olùkọ̀nù"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "gbogbo rẹ̀ ni"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "àwọ̀ aró"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:41.201330485Z",
+  "model": "glm-5.3"
+}

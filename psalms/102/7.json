@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Mo dà bí kaat ijọ́; mo dà bí owú-iwọ̀ àwọn àìnilẹ̀.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "mo dà bí"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "kaat"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ijọ́"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mo dà bí"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "owú-iwọ̀"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "àwọn àìnilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:16.882218595Z",
+  "model": "glm-5.3"
+}

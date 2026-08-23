@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ilẹ̀ náà sì diímọ́, èmi sì ka ẹ̀ṣẹ̀ rẹ̀ lé e lórí, ilẹ̀ náà sì gbé àwọn olùgbé rẹ̀ jade ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "diímọ́ sì"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "èmi sì ka lé e lórí"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ẹ̀ṣẹ̀ rẹ̀"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "lé e lórí"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "sì gbé jade"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn olùgbé rẹ̀"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "àwọn olùgbé rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:26.942631926Z",
+  "model": "glm-5.3"
+}

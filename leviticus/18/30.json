@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ẹ máa ṣọ́ ⟨את⟩ ìṣọ́ Mi, láti má ṣe ṣe nínú àwọn òfin ewẹ́wẹ́ tí a ṣ ṣáájú yín; ẹ má sì fi wọn di ara yín; Èmi ni Yahweh, Elohim yín.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ẹ máa ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìṣọ́ Mi"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ìṣọ́ Mi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "láti má ṣe"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "nínú àwọn òfin"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "ewẹ́wẹ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "a ṣ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ṣáájú yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ẹ má sì"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "fi di ara yín"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pẹ̀lú wọn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Èmi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:11.620186009Z",
+  "model": "glm-5.3"
+}

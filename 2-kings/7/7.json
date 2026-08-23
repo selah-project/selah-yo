@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Nítorí náà wọ́n dìde, wọ́n sálọ ní ìkùnsínní owúrọ̀, wọ́n sì fi ⟨את⟩ àwọn àgọ́ wọn sílẹ̀, àti ⟨את⟩ àwọn ẹṣin wọn, àti ⟨את⟩ àwọn kẹ̀tẹ́kẹ̀tẹ́ wọn — ibùjókòó náà gẹ́gẹ́ bí ó ti wà — wọ́n sì sálọ fún ẹ̀mí wọn.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "wọ́n dìde"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "wọ́n sálọ"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "ní ìkùnsínní owúrọ̀"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "wọ́n sì fi … sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àgọ́ wọn"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "àwọn àgọ́ wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ẹṣin wọn"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "àwọn ẹṣin wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn kẹ̀tẹ́kẹ̀tẹ́ wọn"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "àwọn kẹ̀tẹ́kẹ̀tẹ́ wọn"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ibùjókòó náà"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ó ti wà"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "wọ́n sì sálọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ẹ̀mí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:08.563273463Z",
+  "model": "glm-5.3"
+}

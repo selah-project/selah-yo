@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìrẹ̀pọ̀ fún wa! Ta ni yóò gbà wá là ní ọwọ́ àwọn Elohim olóla wọnyí? Àwọn wọnyí ni àwọn Elohim tí ó lu ⟨את⟩ Ejibiti pẹ̀lú gbogbo ìnira ní ijọ́.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Ìrẹ̀pọ̀ fún wa!"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ta ni"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "yóò gbà wá là"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ní ọwọ́"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "àwọn Elohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "olóla"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Àwọn wọnyí"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "àwọn Elohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "tí ó lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ejibiti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ejibiti"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ìnira"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní ijọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:19.687107228Z",
+  "model": "glm-5.3"
+}

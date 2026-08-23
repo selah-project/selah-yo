@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "Yahweh sì jẹ́ àgbàlá ìdàbọ̀bọ̀ fún mi, Elohim mi sì jẹ́ gẹ́gẹ́ bí òkúta ìgbanilẹ́ mi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sì jẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "àgbàlá ìdàbọ̀bọ̀"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "Elohim mi sì"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "gẹ́gẹ́ bí òkúta"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ìgbanilẹ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:07.776868479Z",
+  "model": "glm-5.3"
+}

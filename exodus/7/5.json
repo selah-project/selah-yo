@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àwọn ara Mitsrajim yóò mọ̀ pé emi ni Yahweh, nígbà tí mo bá te ọwọ́ mi sí Mitsrajim lórí, nígbà tí mo bá gbé àwọn ọmọ Yisrael jáde láàárín wọn.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "yóò mọ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Àwọn ara Mitsrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "nígbà tí mo bá te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ mi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí … lórí"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "nígbà tí mo bá gbé … jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "láàárín wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:01.625451763Z",
+  "model": "glm-5.3"
+}

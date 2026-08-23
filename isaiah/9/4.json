@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Nítorí pé gbogbo bàtà-ogun tí a ń wọ̀ ní ìru, àti aṣọ tí ó yí-yí nínú ẹjẹ̀ — yóò sì jẹ́ fún jíjọ, ohun-ẹrùn fún iná.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "bàtà-ogun"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "tí a ń wọ̀"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "ní ìru"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "àti aṣọ"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "tí ó yí-yí"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "nínú ẹjẹ̀"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "yóò sì jẹ́"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "fún jíjọ"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "ohun-ẹrùn"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fún iná"
+    }
+  ],
+  "timestamp": "2026-08-23T01:43:18.766623815Z",
+  "model": "glm-5.3"
+}

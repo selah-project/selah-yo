@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Bùkún fún ọkùnrin tí kò rìn nínú ìmọ̀ràn àwọn burúkú, kò sì dúró ní ọ̀nà àwọn ẹlẹ́ṣẹ̀, kò sì jọkọ sí ipò àwọn onírẹ̀gẹ̀.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bùkún fún"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "rìn"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "nínú ìmọ̀ràn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn burúkú"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "kò sì dúró ní ọ̀nà"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "àwọn ẹlẹ́ṣẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "kò sì jọkọ sí ipò"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "àwọn onírẹ̀gẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jọkọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:23:33.652089406Z",
+  "model": "glm-5.3"
+}

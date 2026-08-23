@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ọmọ mi, bí o bá gba ⟨אֵת⟩ ọ̀rọ̀ mi, tí o sì fi àṣẹ mi pamọ́ sínù rẹ̀,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ọmọ mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí o bá"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ọ̀rọ̀ mi"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "tí o sì àṣẹ mi"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "pamọ́"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨אֵת⟩ sínù rẹ̀",
+      "marks": "sínù rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:03:32.306356900Z",
+  "model": "glm-5.3"
+}

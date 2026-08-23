@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ọba Aram sì máa ń ja ogun pẹ̀lú Israel; ó sì gbìmọ̀ pẹ̀lú àwọn ìránṣẹ́ rẹ̀, ó sì wí pé: Ní ibi-àjàkálẹ̀ àti ibi-mìíràn ni àgọ́ mi yóò wà.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sì máa ń"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ja ogun"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "pẹ̀lú Israel"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ó sì gbìmọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ní"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "àjàkálẹ̀"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "mìíràn"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "àgọ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:27:01.394194494Z",
+  "model": "glm-5.3"
+}

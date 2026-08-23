@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Kì í yóò wà fún ọ nínú ilé rẹ ééfà àti ééfà, tó tóbi àti tó kéré.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nínú ilé rẹ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ééfà"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "àti ééfà"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "àti tó kéré"
+    }
+  ],
+  "timestamp": "2026-08-23T00:17:26.564528439Z",
+  "model": "glm-5.3"
+}

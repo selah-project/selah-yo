@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 20:23",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Kí ẹ má tẹ̀ lé òfin orílẹ̀-èdè tí èmi ń fi lé níwájú yín — nítorí wọn ti ṣe ⟨את⟩ gbogbo àwọn wọnyí, èmi sì kórìíra wọn.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kí ẹ má"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "tẹ̀ lé"
+    },
+    {
+      "surface": "בחקת",
+      "gloss": "òfin"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "orílẹ̀-èdè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ń fi lé"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "níwájú yín"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn wọnyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọnyí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wọn ti ṣe"
+    },
+    {
+      "surface": "ואקץ",
+      "gloss": "èmi sì kórìíra"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:51.467813394Z",
+  "model": "glm-5.3"
+}

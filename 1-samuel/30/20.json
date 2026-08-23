@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Dawidi sì gba ⟨את⟩ gbogbo àwọn àgùntàn àti àwọn mààlù; wọ́n sìn wọn lọ ṣáájú àwọn ẹran-ọ̀sìn yẹn, wọ́n sì wí pé: Èyí ni oko-ogun Dawidi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn àgùntàn àti mààlù"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "àwọn àgùntàn"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "àti àwọn mààlù"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "wọ́n sìn lọ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ṣáájú"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "àwọn ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n wí pé"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "oko-ogun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:56:16.172387427Z",
+  "model": "glm-5.3"
+}

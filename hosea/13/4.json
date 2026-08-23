@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ṣùgbọ́n èmi ni Yahweh, Elohim rẹ, láti ilẹ̀ Mísraim lọ; Elohim yàtọ̀ sí èmi kì í ṣe tí o mọ̀, àti Olùgbàlà kò sí àfi èmi.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ṣùgbọ́n èmi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "láti ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mísraim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "àti Elohim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "yàtọ̀ sí èmi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tí o mọ̀"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "àti Olùgbàlà"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "àfi èmi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:04:22.494534750Z",
+  "model": "glm-5.3"
+}

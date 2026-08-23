@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 65,
+  "translation": "Olùgbọ́ tí Ọ̀gbọ́n àdúà, sí ọ ni gbogbo ẹran ara yóò wá.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "olùgbọ́ tí"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "àdúà"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "sí ọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ẹran ara"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "yóò wá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:01.745335843Z",
+  "model": "glm-5.3"
+}

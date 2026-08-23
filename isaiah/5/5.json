@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àti nísisìyí, ẹ jọwọ́, èmi yóò sọ fún yín ⟨את⟩ ohun tí èmi ń ṣe sí ìgbà mí: yíyọ kúrò ní ààlà rẹ̀, ó sì jẹ́ fún jíjẹ; fífọ̀ ogún ilẹ̀ rẹ̀, ó sì jẹ́ fún sísẹ̀.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "àti nísisìyí"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "èmi yóò sọ fún yín"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ẹ jọwọ́"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "sí ìgbà mí"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "yíyọ kúrò"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "ààlà rẹ̀"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ó sì jẹ́"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "fún jíjẹ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "fífọ̀"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "ogún ilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ó sì jẹ́"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "fún sísẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:42:46.962895027Z",
+  "model": "glm-5.3"
+}

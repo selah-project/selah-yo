@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Gbogbo àwọn ọba yóò sì foríbalẹ̀ fún un; gbogbo àwọn orílẹ̀-èdè yóò sì sin ín.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "yóò sì foríbalẹ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "yóò sì sin ín"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:56.746220423Z",
+  "model": "glm-5.3"
+}

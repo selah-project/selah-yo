@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Jẹ́ kí ọkàn mi pé láìní ìṣàdúró nínú àwọn òfin rẹ, kí n má baà dígbà.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Jẹ́ kí… pé"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "láìní ìṣàdúró"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "nínú àwọn òfin rẹ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí… má baà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "dígbà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:28.990177655Z",
+  "model": "glm-5.3"
+}

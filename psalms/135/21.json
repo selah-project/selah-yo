@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Yahweh ni a bùkún láti Tsiyon, tí ó ń gbé ní Yerushalayim. Ẹ yin Yah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ni a bùkún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "láti Tsiyon"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "tí ó ń gbé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ní Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Ẹ yin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:38.244532981Z",
+  "model": "glm-5.3"
+}

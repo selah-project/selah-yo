@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Gbé ẹsẹ rẹ sókè sí àwọn ìṣẹ̀gbẹ́ láéláé — gbogbo ṣíṣe búrẹ́ tí ọ̀tá ṣe nínú ibi mímọ́.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Gbé sókè"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "ẹsẹ rẹ"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "sí àwọn ìṣẹ̀gbẹ́"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "láéláé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ṣíṣe búrẹ́"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ọ̀tá"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "nínú ibi mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:54.663693087Z",
+  "model": "glm-5.3"
+}

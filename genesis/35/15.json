@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Yaakov sì pe orúkọ ⟨את⟩ ibi tí Elohim ti sọ ⟨את⟩ pẹ̀lú rẹ̀ níbẹ̀ ni Beit-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sì pè"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ ibi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pẹ̀lú rẹ̀",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:50.877873010Z",
+  "model": "glm-5.3"
+}

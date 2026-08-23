@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 5:4",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ìwọ ó sì mú díẹ̀ míì lára wọn lẹ́ẹ̀kansi, ó sì sọ ⟨את⟩ wọn danú sí àárín iná náà, ó sì jó ⟨את⟩ wọn pẹ̀lú iná; láti ọ̀dọ̀ rẹ̀ ni iná ń jáde sí gbogbo ilé Yisraẹl.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "lára wọn sì"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "díẹ̀ míì ... lẹ́ẹ̀kansi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ìwọ ó mú"
+    },
+    {
+      "surface": "והשלכת",
+      "gloss": "ó sì sọ ... danú"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn (díẹ̀ míì náà)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "àárín"
+    },
+    {
+      "surface": "האש",
+      "gloss": "iná náà"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "ó sì jó"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn (díẹ̀ míì náà)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "pẹ̀lú iná"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "láti ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ń jáde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹl"
+    }
+  ],
+  "timestamp": "2026-08-23T02:36:18.636858758Z",
+  "model": "glm-5.3"
+}

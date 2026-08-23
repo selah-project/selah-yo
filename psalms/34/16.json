@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ojú Yahweh ⟨wà⟩ lórí àwọn ènìyàn olóòótọ́, àti etí Rẹ ⟨gbọ́⟩ sí ẹ̀kí wọn.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lórí \/ sí"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "àwọn ènìyàn olóòótọ́"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "àti etí Rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ẹ̀kí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:06.049213990Z",
+  "model": "glm-5.3"
+}

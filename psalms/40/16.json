@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Wọn ó ru ìdààmú nítorí ìtijú wọn tí ó gbẹ̀yìn-ìdálẹ̀ — àwọn tí ń sọ fún mi pé: Héè! Héè!",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "wọn ó ru ìdààmú"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tí ó gbẹ̀yìn-ìdálẹ̀"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ìtijú wọn"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "àwọn tí ń sọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi pé"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Héè!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Héè!"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:56.664017175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ọ̀kàn-ín-wón-ó sì wà nínú irè yín àti nínú àwọn ibi ẹ̀gin yín, ó sì máa fún àwọn ọmọ-ìgbẹ́ rẹ̀ àti àwọn ìránṣẹ́ rẹ̀ ní i.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "irè yín"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "àwọn ibi ẹ̀gin yín"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ó máa gba ọ̀kàn-ín-wón-ó"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ó sì máa fún"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "àwọn ọmọ-ìgbẹ́ rẹ̀"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "àti àwọn ìránṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:43:44.020015991Z",
+  "model": "glm-5.3"
+}

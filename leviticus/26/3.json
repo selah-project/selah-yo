@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Tí ẹ bá n rin ní àwọn òfin Mi, àti ⟨את⟩ àwọn àṣẹ Mi tí ẹ bá ṣọ̀, kí ẹ sì ṣe wọ́n.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí ẹ bá"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "ní àwọn òfin Mi"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ẹ rin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn àṣẹ Mi"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "àwọn àṣẹ Mi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ẹ ṣọ̀"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kí ẹ sì ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọ́n",
+      "marks": "wọ́n (àwọn àṣẹ)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:33.855109911Z",
+  "model": "glm-5.3"
+}

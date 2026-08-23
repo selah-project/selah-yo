@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ó ń fẹ́rán òòtítọ́ àti ìdájọ́; ní chesed Yahweh ni ayé ti kún.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Ó ń fẹ́rán"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "òòtítọ́"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "àti ìdájọ́"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ti kún"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:28.573854804Z",
+  "model": "glm-5.3"
+}

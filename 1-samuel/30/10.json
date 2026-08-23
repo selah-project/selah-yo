@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Dafidi sì tọ̀ lé, òun àti ọkùnrin ọgọ́rùn-ún mẹ́rin; ọkùnrin ọgọ́rùn-ún méjì sì dúró tí wọ́n gbélejú, kò lè kọja ⟨את⟩ odò Besori.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "sì tọ̀ lé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "àti mẹ́rin"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́rùn-ún"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "sì dúró"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ọgọ́rùn-ún méjì"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "wọ́n gbélejú"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kò lè kọja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odò Besori"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "odò"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besori"
+    }
+  ],
+  "timestamp": "2026-08-23T00:55:01.817874200Z",
+  "model": "glm-5.3"
+}

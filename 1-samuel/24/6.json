@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ó sì wáyé lẹ́yìn náà pé ọkàn Dafidi kò ń tú u lọ́kàn — nítorí pé ó ti ge ⟨את⟩ etí aṣọ tí í ṣe ti Shaúl.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wáyé"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "náà"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kò ń tú u lọ́kàn"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ u",
+      "marks": "Dafidi fúnra rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ó ti ge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etí aṣọ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "etí aṣọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí í ṣe"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ti Shaúl"
+    }
+  ],
+  "timestamp": "2026-08-23T00:53:31.759885689Z",
+  "model": "glm-5.3"
+}

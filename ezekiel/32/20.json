@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 32:20",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Nínú ààárín àwọn ènìyàn tí idà pa nù, àwọn náà ni yóò ṣubú; a fi idà lé e lọ́wọ́ — e fà á kalẹ̀, ⟨את⟩ ẹni náà àti gbogbo ìjọpọ̀ rẹ̀",
+  "tokens": [
+    {
+      "surface": "בתוך",
+      "gloss": "Nínú ààárín"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "àwọn ènìyàn tí a pa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idà"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "àwọn náà ni yóò ṣubú"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idà"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "a fi lé e lọ́wọ́"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "e fà á kalẹ̀"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ẹni náà"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "המוניה",
+      "gloss": "ìjọpọ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:49:47.398201994Z",
+  "model": "glm-5.3"
+}

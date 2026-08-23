@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 17:20",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ní kí ọkàn rẹ̀ má ṣe gòórò sí i ju ti àwọn ará rẹ̀ lọ, àti ní kí ó má ṣe yẹ kúrò nínú àṣẹ náà, ọ̀tún tabì òsì, kí ó lè fi ọjọ́ jìnà lórí ìjọba rẹ̀, òun àti àwọn ọmọ rẹ̀, nínú ìsọfúnnrín Yisrael.",
+  "tokens": [
+    {
+      "surface": "לבלתי",
+      "gloss": "ní kí ... má ṣe"
+    },
+    {
+      "surface": "רום",
+      "gloss": "gòórò sí i ju"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "ti àwọn ará rẹ̀ lọ"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "àti ní kí ó má ṣe"
+    },
+    {
+      "surface": "סור",
+      "gloss": "yẹ kúrò"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nínú"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "àṣẹ náà"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ọ̀tún"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "tabì òsì"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí ó lè"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "fi ọjọ́ jìnà"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ìjọba rẹ̀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "àti àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nínú ìsọfúnnrín"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T05:45:46.481659964Z",
+  "model": "glm-5.3"
+}

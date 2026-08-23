@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 111,
+  "translation": "Agbára iṣẹ́ rẹ̀ ni ó hàn fún ènìyàn rẹ̀, láti fún wọn ní ogún-ìní àwọn orílẹ̀-èdè.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "agbára"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ó hàn fún"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ènìyàn rẹ̀"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "láti fún"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ogún-ìní"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:03.966257283Z",
+  "model": "glm-5.3"
+}

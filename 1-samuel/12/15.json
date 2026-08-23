@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ṣùgbọ́n tí ẹ kò bá gbọ́ nínu ohùn Yahweh, tí ẹ sì tíkora ilẹ̀ ⟨את⟩ ẹnu Yahweh, ọwọ́ Yahweh yóò sì wà lórí yín, àti lórí àwọn baba yín.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ṣùgbọ́n tí ẹ kò bá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nínu ohùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "tí ẹ sì tíkora ilẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹnu Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "yóò sì wà"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "lórí yín"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "àti lórí àwọn baba yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:46:41.251239368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Wọ́n sì sun ⟨את⟩ malù náà, ⟨את⟩ awọ́ rẹ̀, ⟨את⟩ ẹran rẹ̀ àti ⟨את⟩ igbẹ́ rẹ̀ ní iná níta ìlà oòrùre ìpamọ́ — gẹ́gẹ́ bí Yahweh ti pa Moshe ní àṣẹ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "malù náà"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "malù náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "awọ́ rẹ̀"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "awọ́ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹran rẹ̀"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ẹran rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igbẹ́ rẹ̀"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "igbẹ́ rẹ̀"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ó sún"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ní iná"
+    },
+    {
+      "surface": " مחוץ",
+      "gloss": "níta"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ìpamọ́ náà"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ó pa ní àṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:36.762969612Z",
+  "model": "glm-5.3"
+}

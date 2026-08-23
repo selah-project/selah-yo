@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ìránṣẹ́ rẹ sì wà láàrin ènìyàn rẹ tí ìwọ ti yàn, ènìyàn púpọ̀ tí a kò lè ka, a kò sì lè fi ọ̀n òǹka ka, nítorí bíi ojú ṣe pọ̀.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "ìránṣẹ́ rẹ sì wà"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàrin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ènìyàn rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "ìwọ ti yàn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "רב",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò lè"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a kò sì lè"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "fi ọ̀n òǹka ka"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "nítorí bíi ojú ṣe pọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:25.108949156Z",
+  "model": "glm-5.3"
+}

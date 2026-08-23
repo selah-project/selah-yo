@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Nígbà tí Aharon bá gbé ⟨את⟩ àwọn fítélà sókè, láàárín ìrókò-ọ̀sán yóò sùn un; kíkọ́-òórùn tí kò ní ìparí níwájú Yahweh, fún àwọn ìran yín.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "nígbà tí ó bá gbé sókè"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn fítélà"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "àwọn fítélà"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ìrókò-ọ̀sán"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "yóò sùn un"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kíkọ́-òórùn"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tí kò ní ìparí"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "fún àwọn ìran yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:20.325495617Z",
+  "model": "glm-5.3"
+}

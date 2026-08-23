@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Dawid sì bẹ̀rù Elohim ní ọjọ́ yẹn, ó sì wí pé, \"Báwo ni mo ṣe lè mú ⟨את⟩ àpótí Elohim wá sí ọ̀dọ̀ mi?\"",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "ó sì bẹ̀rù"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "היך",
+      "gloss": "báwo ni"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "mo ṣe lè mú wá"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àpótí Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "àpótí"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:14:57.498355652Z",
+  "model": "glm-5.3"
+}

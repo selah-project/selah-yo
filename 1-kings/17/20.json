@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ó sì kígbe sí Yahweh, ó sì wí: Yahweh, Elohim mi, ṣé ìwọ pẹ̀lú ṣe búburú sí opó náà tí mo ń gbé pẹ̀lú rẹ̀, láti pa ⟨את⟩ ọmọ rẹ̀?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ó sì kígbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ṣé ìwọ pẹ̀lú"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "opó náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "ń gbé pẹ̀lú"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ṣe búburú"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "láti pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ọmọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:21:59.990196376Z",
+  "model": "glm-5.3"
+}

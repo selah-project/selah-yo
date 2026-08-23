@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ẹni tí ó tọ́ mọ̀ ọkàn ẹranko rẹ̀, ṣùgbọ́n àwọn àánú ti àwọn ìkọ́tàn, ìkọ́tàn ni.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ẹni tí ó tọ́"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "ẹranko rẹ̀"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "ṣùgbọ́n àwọn àánú ti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn ìkọ́tàn"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ìkọ́tàn ni"
+    }
+  ],
+  "timestamp": "2026-08-23T04:06:15.250619084Z",
+  "model": "glm-5.3"
+}

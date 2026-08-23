@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ṣùgbọ́n nítorí èyí ni mo dìde ọ sílẹ̀, kí n lè fi ⟨את⟩ agbára mi hàn ọ, àti kí orúkọ mi lè tí ka gbogbo ayé.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "mo dìde ọ sílẹ̀"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kí n lè"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "fi hàn ọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agbára mi"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "agbára mi"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "àti kí"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "orúkọ mi lè tí ka"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "orúkọ mi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:04.118501811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Nígbà tí àwọn ènìyàn burúkú ń sún mọ́ mi wá láti jẹ ⟨את⟩ ẹran ara mi — àwọn ọ̀tá mi àti àwọn odi mi — wọ́n ti ṣubú, wọ́n sì ṣì lẹ́sẹ̀ kan.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "nígbà tí wọ́n ń sún mọ́"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "àwọn ènìyàn burúkú"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "láti jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹran ara mi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ẹran ara mi"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "àti àwọn odi mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ti ṣubú"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "sì ṣì lẹ́sẹ̀ kan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:45.187824484Z",
+  "model": "glm-5.3"
+}

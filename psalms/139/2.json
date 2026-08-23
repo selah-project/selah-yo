@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Ìwọ, ìwọ mọ ìjókòó mi àti ìdìde mi; ìwọ gbọ́n nípa èrò mi láti ìjìnà.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ìwọ mọ"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ìjókòó mi"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "àti ìdìde mi"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ìwọ gbọ́n nípa"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "èrò mi"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "láti ìjìnà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:22.759057740Z",
+  "model": "glm-5.3"
+}

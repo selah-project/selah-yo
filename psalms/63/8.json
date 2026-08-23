@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 63,
+  "translation": "Nítorí pé ìwọ ti jẹ́ ìrànlọ́wọ́ fún mi; ní ipa abẹ́ ìyẹ́ rẹ ni mo ti máa yọ̀ korin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ìwọ ti jẹ́"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "ìrànlọ́wọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "àti ní ipa abẹ́"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ìyẹ́ rẹ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "mo ti máa yọ̀ korin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:19.081970744Z",
+  "model": "glm-5.3"
+}

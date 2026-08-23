@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 27:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ṣe oúnjẹ ìwọ̀nfúnfún fún mi, bí èmi ṣe fẹ́rẹ́, kí o sì mú un wá fún mi, kí èmi lè jẹ́, kí ẹ̀mí mi lè bù kúnrẹ̀rẹ́ fún ọ, kí ìkú tó wà kí n kú.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "oúnjẹ ìwọ̀nfúnfún"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí … ṣe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "èmi fẹ́rẹ́"
+    },
+    {
+      "surface": "והביאה",
+      "gloss": "kí o sì mú un wá"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "kí èmi lè jẹ́"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kí"
+    },
+    {
+      "surface": "תברכך",
+      "gloss": "lè bù kúnrẹ̀rẹ́ fún ọ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "kí ìkú tó wà"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kí n kú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:03:44.439240456Z",
+  "model": "glm-5.3"
+}

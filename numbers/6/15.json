@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 6:15",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àti pẹ̀tẹ́ẹ̀ àwọn màáṣù ti àtà pupa tí a lò pọ̀ pẹ̀lú epo, àti àwọn pánù kéékèké ti màáṣù tí a ti pò pẹ̀lú epo, àti ẹbùn ounjẹ wọn àti ẹ̀dọ̀rọ̀ wọn.",
+  "tokens": [
+    {
+      "surface": "וסל",
+      "gloss": "àti pẹ̀tẹ́ẹ̀"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ti àwọn màáṣù"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "àtà pupa"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "àwọn pánù"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "tí a lò pọ̀ pẹ̀lú"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "àti àwọn pánù kéékèké"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ti màáṣù"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "tí a ti pò pẹ̀lú"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "àti ẹbùn ounjẹ wọn"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "àti ẹ̀dọ̀rọ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:43:39.690141473Z",
+  "model": "glm-5.3"
+}

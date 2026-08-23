@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Àti láti ṣe ìyàsọ́tọ̀ láàárín ⟨the⟩ mímọ́ àti láàárín ⟨the⟩ ayélujára, àti láàárín ⟨the⟩ èèwọ̀ àti láàárín ⟨the⟩ mọ́.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "Àti láti ṣe ìyàsọ́tọ̀"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨the⟩ mímọ́"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàárín"
+    },
+    {
+      "surface": "החל",
+      "gloss": "⟨the⟩ ayélujára"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàárín"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "⟨the⟩ èèwọ̀"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàárín"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "⟨the⟩ mọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:59.012541902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Èṣe tí àwọn ìkúnún gba mí tẹ́lẹ̀? Èṣe tí àwọn ọmú wà, kí èmi lè mú ọmú?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "èṣe tí"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "gba mí tẹ́lẹ̀"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "àwọn ìkúnún"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "èṣe tí"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "àwọn ọmú"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kí"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "èmi mú ọmú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:15:05.565130477Z",
+  "model": "glm-5.3"
+}

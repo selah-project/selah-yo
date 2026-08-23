@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Yahweh sì sọ fún Moshe: Sọ fún Aharon: Na ⟨את⟩ ọ̀pá rẹ̀, lu ⟨את⟩ èérù ilẹ̀ náà, kí ó di àwọn ọ̀tọn ní gbogbo ilẹ̀ Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀pá rẹ̀"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "ọ̀pá rẹ̀"
+    },
+    {
+      "surface": "והך",
+      "gloss": "lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èérù ilẹ̀ náà"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "èérù"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kí ó di"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "àwọn ọ̀tọn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:21.406358802Z",
+  "model": "glm-5.3"
+}

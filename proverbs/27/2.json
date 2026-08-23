@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Kí ìbòmìíràn yìn ọ́ kí í ṣe ẹnu rẹ; kí ajèjì, kí í ṣe ètè rẹ.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "Kí ìbòmìíràn yìn ọ́"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ìbòmìíràn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí í ṣe"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ẹnu rẹ"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "ajèjì"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí í ṣe"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ètè rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:13:12.913960080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 77,
+  "translation": "Èmi ó dájọ́ ìṣẹ́ Yah; nítorí èmi ó rántí àwọn ìyanu rẹ̀ láti ìgbà ìsàlọ̀ wáyé.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "èmi ó dájọ́"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ìṣẹ́"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "èmi ó rántí"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "láti ìgbà ìsàlọ̀ wáyé"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "àwọn ìyanu rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:04.081359599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ẹ kò gbọ́dọ̀ ṣe bẹ́ẹ̀ fún Yahweh, Elohim yín.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ẹ gbọ́dọ̀ ṣe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:12:55.275791593Z",
+  "model": "glm-5.3"
+}

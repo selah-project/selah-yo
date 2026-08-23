@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ó sì ṣe ⟨את⟩ pẹ́tẹ́lẹ́ ìtọsọ́nà nípa igi shittim: ẹ̀kúnnù kan ni gígùn rẹ̀, ẹ̀kúnnù kan ni fífẹ̀ rẹ̀ — ó ní ẹ̀rin ìgbà; ẹ̀kúnnù méjì ni gíga rẹ̀; láti inú rẹ̀ ni àwọn kéréngbe rẹ̀ ti wà.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pẹ́tẹ́lẹ́ ìtọsọ́nà"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹ́tẹ́lẹ́"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ìtọsọ́nà"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "igi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ẹ̀kúnnù kan"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "gígùn rẹ̀"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ẹ̀kúnnù kan"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "fífẹ̀ rẹ̀"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "ó ní ẹ̀rin ìgbà"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "ẹ̀kúnnù méjì"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "gíga rẹ̀"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "láti inú rẹ̀"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wà"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "àwọn kéréngbe rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:31.093378001Z",
+  "model": "glm-5.3"
+}

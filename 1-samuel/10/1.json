@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Shemuël sì gba ⟨את⟩ ìkòró epo, ó sàn á lórí rẹ̀, ó sì fẹ́núkọ́nu án, ó sì wí pé, Ṣé kì í ṣe pé Yahweh ti yọ ọ́ mọ́ lórí ìjogún rẹ̀ láti jẹ́ olórí?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìkòró epo"
+    },
+    {
+      "surface": "פך",
+      "gloss": "ìkòró"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ó sì sàn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "orí rẹ̀"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ó sì fẹ́núkọ́nu án"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ṣé kì í ṣe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "ti yọ ọ́ mọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ìjogún rẹ̀"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "láti jẹ́ olórí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:47:03.601752544Z",
+  "model": "glm-5.3"
+}

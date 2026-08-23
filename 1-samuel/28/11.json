@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Obinrin náà sọ pé, ⟨את⟩ ta ni èmi ó gbé sókè fún ọ? Ó sì dáhùn pé, ⟨את⟩ Shemuël — gbé ⟨e⟩ sókè fún mi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ó sì sọ pé"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "obinrin náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta (ta ni)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "èmi ó gbé sókè"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì dáhùn pé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "gbé ⟨e⟩ sókè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T05:50:03.708205632Z",
+  "model": "glm-5.3"
+}

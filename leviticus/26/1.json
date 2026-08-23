@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 26:1",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ẹ kì í ṣe àwọn ìwúre ìdá fún ara yín, àti ìhòwò sílẹ̀, àti òkúta ìdúró, ẹ kì í gbé sókè fún ara yín; àti òkúta ìfihàn ẹ kì í fi sílẹ̀ ní ilẹ̀ yín, láti forí balẹ̀ lórí rẹ̀; nítorí emi ni Yahweh, Elohim yín.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ẹ ṣe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún ara yín"
+    },
+    {
+      "surface": "אלילם",
+      "gloss": "àwọn ìwúre ìdá"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "àti ìhòwò sílẹ̀"
+    },
+    {
+      "surface": "ומצבה",
+      "gloss": "àti òkúta ìdúró"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "ẹ gbé sókè"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún ara yín"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "àti òkúta"
+    },
+    {
+      "surface": "משכית",
+      "gloss": "ìfihàn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ẹ fi sílẹ̀"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "ní ilẹ̀ yín"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "láti forí balẹ̀"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:33.854644291Z",
+  "model": "glm-5.3"
+}

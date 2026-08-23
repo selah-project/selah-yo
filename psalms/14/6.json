@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ìgbìmọ̀ràn àwọn aláìní ni ẹ ti ṣèdàṣà; ṣùgbọ́n Yahweh ni ibi ìgàbọ̀ wọn.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "ìgbìmọ̀ràn"
+    },
+    {
+      "surface": "עני",
+      "gloss": "àwọn aláìní"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "ẹ ti ṣèdàṣà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "ibi ìgàbọ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:12.481545406Z",
+  "model": "glm-5.3"
+}

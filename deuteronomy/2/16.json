@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì sẹ́yìn, nígbà tí gbogbo àwọn okùnrin ogun parun, tí wọ́n kú, kúrò nínú ìjọ náà.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì sẹ́yìn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "parun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn okùnrin"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "למות",
+      "gloss": "tí wọ́n kú"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:15.294948540Z",
+  "model": "glm-5.3"
+}

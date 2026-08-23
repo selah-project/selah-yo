@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "Nítorí ìdájọ́ yóò padà sí ìtọ́, àti gbogbo àwọn olókìkí ọkàn yóò tè lé e.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ìtọ́"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "padà"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "àti lẹ́yìn rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "olókìkí"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:17.974894413Z",
+  "model": "glm-5.3"
+}

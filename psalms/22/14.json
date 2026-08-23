@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Wọ́n ti ẹnu wọn sílẹ̀ lórí mi, gẹ́gẹ́ bí kìínkìín tí ń ja kí ó sì ń gunugunu.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "wọ́n ti ẹnu wọn sílẹ̀"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ẹnu wọn"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "kìínkìín"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "tí ń ja"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "ó sì ń gunugunu"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:02.043606889Z",
+  "model": "glm-5.3"
+}

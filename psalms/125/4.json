@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 125,
+  "translation": "Ṣe rere, Yahweh, fún àwọn olórere, àti fún àwọn olóòtó nínu ọkàn wọn.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Ṣe rere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "fún àwọn olórere"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "àti fún àwọn olóòtó"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "nínu ọkàn wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:07.166003759Z",
+  "model": "glm-5.3"
+}

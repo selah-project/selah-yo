@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Dávid sì pe ọ̀kan nínú àwọn ọmọdé náà, ó sì wí pé, Sún mọ́, kọ lù ú. Ó sì lu ú, ó sì kú.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sì pe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "fún ọ̀kan"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "nínú àwọn ọmọdé náà"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "גש",
+      "gloss": "sún mọ́"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "kọ lù (ú)"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fún ú"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "sì lu ú"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "sì kú"
+    }
+  ],
+  "timestamp": "2026-08-23T00:57:10.800906656Z",
+  "model": "glm-5.3"
+}

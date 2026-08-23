@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àwọn baba yín, níbo ni wọ́n wà? Àti àwọn wòlíì, ṣé wọ́n yọ́ ṣí láéláé ni?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "àwọn baba yín"
+    },
+    {
+      "surface": "איה",
+      "gloss": "níbo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni wọ́n wà"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "àti àwọn wòlíì"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "láéláé"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ṣé wọ́n yọ́ ṣí ni"
+    }
+  ],
+  "timestamp": "2026-08-23T03:17:16.561913886Z",
+  "model": "glm-5.3"
+}

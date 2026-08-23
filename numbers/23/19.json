@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 23:19",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "El kì í ṣe ⟨ọkùnrin⟩ kí ó lè pa igbé, kì í sì ṣe ọmọ àdáni kí ó lè yípadà; Òún sọ, ṣé kì yóò ṣe é? Òún sọ̀rọ̀, ṣé kì yóò mú un ṣe?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויכזב",
+      "gloss": "kí ó lè pa igbé"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "kì í sì ṣe ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "àdáni"
+    },
+    {
+      "surface": "ויתנחם",
+      "gloss": "kí ó lè yípadà"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "Òún"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣé kì yóò ṣe é"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ṣe é"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "sọ̀rọ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣé kì yóò"
+    },
+    {
+      "surface": "יקימנה",
+      "gloss": "mú un ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:37.477501005Z",
+  "model": "glm-5.3"
+}

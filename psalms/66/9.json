@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 66,
+  "translation": "Ẹni tí ó ṣé èmi wa ní ìwà ààyò, kò sí jẹ́ kí ẹsẹ̀ wa rúkù.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Ẹni tí ó ṣé"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "èmi wa"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "ní ìwà ààyò"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "kí … rúkù"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "ẹsẹ̀ wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:19.783081717Z",
+  "model": "glm-5.3"
+}

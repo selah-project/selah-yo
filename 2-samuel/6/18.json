@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 6:18",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "David sì parí fún ẹ̀yin ìgbé ẹbùn-ìsọ́ń lọ́run àti ẹbùn-àlàáfíà, ó sì bùkún ⟨את⟩ ìjọ enìya náà ní orúkọ Yahweh Ṣebáot.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ó sì parí fún"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "ìgbé ẹbùn-ìsọ́ń lọ́run sókè"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "ẹbùn-ìsọ́ń lọ́run náà"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "àti ẹbùn-àlàáfíà náà"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ó sì bùkún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọ enìya náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ enìya náà"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ní orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebáot (ẹ̀mí-ogun)"
+    }
+  ],
+  "timestamp": "2026-08-23T00:59:56.991786589Z",
+  "model": "glm-5.3"
+}

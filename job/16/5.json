@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 16:5",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Èmi yóò ṣe mí mú yín pẹ̀lú ẹnu mi, ìgbígbé èté mi yóò sì dín ìrora yín kù.",
+  "tokens": [
+    {
+      "surface": "אאמצכם",
+      "gloss": "yóò ṣe mí mú yín"
+    },
+    {
+      "surface": "במו",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    },
+    {
+      "surface": "וניד",
+      "gloss": "ìgbígbé"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "èté mi"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "yóò dín kù"
+    }
+  ],
+  "timestamp": "2026-08-23T06:09:28.496468224Z",
+  "model": "glm-5.3"
+}

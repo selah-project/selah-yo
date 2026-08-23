@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 17:4",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ìwọ pẹ̀lú ara rẹ yóò fọwọ́ sílẹ̀, síwájú ìdí tí ó jọwọ, fún àwọn ọ̀tá rẹ ní ilẹ̀ tí ìwọ kò mọ̀; nítorí pé iná ni ẹ ti já sínu bínú mi, títí láéláé ni yóò ń jó.",
+  "tokens": [
+    {
+      "surface": "ושמטתה",
+      "gloss": "ìwọ yóò fọwọ́ sílẹ̀"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "pẹ̀lú ara rẹ"
+    },
+    {
+      "surface": "מנחלתך",
+      "gloss": "ìdí tí ó jọwọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mo fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "והעבדתיך",
+      "gloss": "síwájú àwọn ọ̀tá rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀tá rẹ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "àwọn ọ̀tá rẹ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ìwọ mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "קדחתם",
+      "gloss": "ẹ ti já sínu"
+    },
+    {
+      "surface": "באpי",
+      "gloss": "bínú mi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "láéláé"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "yóò ń jó"
+    }
+  ],
+  "timestamp": "2026-08-23T02:14:27.467364266Z",
+  "model": "glm-5.3"
+}

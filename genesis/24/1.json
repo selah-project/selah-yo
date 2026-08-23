@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Avraham sì ti gbàjà, ó ti wọ́ inú ọjọ́, àti Yahweh ti buwá fún ⟨את⟩ Avraham nínú gbogbo nǹkan.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Avraham sì"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ti gbàjà"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ti wọ́"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "inú ọjọ́"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "àti Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ti buwá fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nínú gbogbo nǹkan"
+    }
+  ],
+  "timestamp": "2026-08-23T05:39:41.632756328Z",
+  "model": "glm-5.3"
+}

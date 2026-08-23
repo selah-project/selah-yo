@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Ta ni mo ní nínú ⟨àwọn⟩ ọ̀run, àti pẹ̀lú ẹ̀gbẹ́ rẹ ni mo kò fẹ́nì kankan lórí ayé?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ta ni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mo ní"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nínú ⟨àwọn⟩ ọ̀run"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "àti pẹ̀lú ẹ̀gbẹ́ rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "mo fẹ́nì kankan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lórí ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:35.539565517Z",
+  "model": "glm-5.3"
+}

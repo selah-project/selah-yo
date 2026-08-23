@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Àwọn wọ̀nyí ni ìbẹ̀rẹ̀-ìdí àwọn ọmọ Noach: Shem, Cham àti Yefet; àwọn ọmọ bí wàá fún wọn lẹ́yìn ìkèré-omi náà.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Àwọn wọ̀nyí"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ìbẹ̀rẹ̀-ìdí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "àti Yefet"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "bí wàá"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ìkèré-omi náà"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:34.411964642Z",
+  "model": "glm-5.3"
+}

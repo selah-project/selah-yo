@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Dìde, Yahweh; gbà mí là, Elohim mi; nítorí tí O lu ⟨את⟩ gbogbo ọ̀tá mi ní ẹ̀rùn-ẹnu; O mú eyín àwọn aláṣẹ́burú sẹ́.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Dìde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "gbà mí là"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "O lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọ̀tá mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ọ̀tá mi"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ní ẹ̀rùn-ẹnu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "eyín"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn aláṣẹ́burú"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "O mú sẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:08.315129629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ṣé èṣe wà lára ahọ́n mi? Ṣé ọ̀fun mi kò gbọ́n dáàbòbọ̀ ewu?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "Ṣé … wà"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "lára ahọ́n mi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "èṣe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ṣé … kò"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "ọ̀fun mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "gbọ́n"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "dáàbòbọ̀ ewu"
+    }
+  ],
+  "timestamp": "2026-08-23T04:17:22.012964390Z",
+  "model": "glm-5.3"
+}

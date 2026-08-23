@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Gbẹ́ pamọ́ gidigidi ni ẹ ṣọ ⟨את⟩ àwọn àṣẹ Yahweh Elohim yín, àti àwọn ẹ̀rì rẹ̀, àti àwọn òfin rẹ̀, tí ó pa ẹ̀ lẹ́ṣẹ̀.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "gbẹ́ pamọ́"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "ẹ ṣọ́ (gidigidi)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àṣẹ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "àwọn àṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "àti àwọn ẹ̀rì rẹ̀"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "àti àwọn òfin rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ó pa ẹ̀ lẹ́ṣẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:08:45.113064948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Wọ́n sì ẹ̀rù, wọ́n sì tìrí bìgbà jẹ́, nítorí Kush, ìrètí wọn, àti nítorí Mitsrayim, ọlá wọn.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "wọ́n sì ẹ̀rù"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "wọ́n sì tìrí bìgbà jẹ́"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "nítorí Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "ìrètí wọn"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "àti nítorí"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "ọlá wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:45:36.159792299Z",
+  "model": "glm-5.3"
+}

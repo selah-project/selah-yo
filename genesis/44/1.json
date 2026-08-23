@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Ó sì pa ìdíwọ̀nìn lé ⟨את⟩ ẹni tí ó jọ́mọ́ lé lórí ilé rẹ̀ wí pé, ‘Fún àwọn agbá àwọn ọkùnrin náà ní oúnjẹ, bí wọn ṣe lè mú gyrate, gbé; kí o sì fi owó ẹlòmíràn sínú ẹnu agbá rẹ̀.’",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ó sì pa ìdíwọ̀nìn lé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹni tí ó jọ́mọ́ lé lórí ilé rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Fún…ní"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn agbá"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "àwọn agbá"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ti àwọn ọkùnrin náà"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "wọn ṣe lè"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "mú gbé"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "kí o sì fi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "owó"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹlòmíràn"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sínú ẹnu"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "agbá rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:12:30.679059363Z",
+  "model": "glm-5.3"
+}

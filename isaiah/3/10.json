@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ẹ sọ fún olódàájọ́ pé ó dára ⟨fún un⟩, nítorí pé ẹ̀so iṣẹ́ wọn ni wọn yóò jẹ.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ẹ sọ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olódàájọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ó dára"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ẹ̀so"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "iṣẹ́ wọn"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "wọn yóò jẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:17.421316010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ṣùgbọ́n Shemuél kò tíì mọ Yahweh, ọ̀rọ̀ Yahweh sì kò tíì fi hàn ún.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ṣùgbọ́n Shemuél"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "kò tíì"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "sì kò tíì"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "fi hàn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ún"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:10.625957345Z",
+  "model": "glm-5.3"
+}

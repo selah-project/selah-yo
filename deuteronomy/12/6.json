@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ẹ yóò sì mú ⟨את⟩ èye-ìsún yín àti ⟨את⟩ àwọn ẹran-ẹrú yín, ⟨את⟩ àwọn ìkẹ́wáá yín, àti ⟨את⟩ àṣeyọrí ọwọ́ yín, àwọn ìlérí yín, àwọn ìfúnnilọ́wọ́ yín, àti àwọn akọbí àgbòdoṣù yín àti ti ẹranọ̀sì yín, dé ibẹ̀.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "ẹ yóò sì mú dé"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "èye-ìsún yín"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "àwọn ẹran-ẹrú yín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìkẹ́wáá yín"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "àwọn ìkẹ́wáá yín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àṣeyọrí ọwọ́ yín"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "àṣeyọrí"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "ọwọ́ yín"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "àwọn ìlérí yín"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "àwọn ìfúnnilọ́wọ́ yín"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "àti àwọn akọbí"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "àgbòdoṣù yín"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "ẹranọ̀sì yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:12:08.955457252Z",
+  "model": "glm-5.3"
+}

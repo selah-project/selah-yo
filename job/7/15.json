@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 7:15",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Nítorí náà, ẹ̀mí mi yan ìfùnkú; mo yan ikú dípò ẹ̀yin mi.",
+  "tokens": [
+    {
+      "surface": "ותבחר",
+      "gloss": "Nítorí náà, ẹ̀mí mi yan"
+    },
+    {
+      "surface": "מחנק",
+      "gloss": "ìfùnkú"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "מעצמותי",
+      "gloss": "dípò ẹ̀yin mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:17:27.995996912Z",
+  "model": "glm-5.3"
+}

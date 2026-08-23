@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Yahweh, ní àárọ̀ ọ̀jọ́ iwọ gbọ́ ohùn mi; ní àárọ̀ ọ̀jọ́ mo ó ṣàtètí gbàdùn sí ọ̀dọ̀ rẹ, mo sì ń ṣẹ́ri wa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ní àárọ̀ ọ̀jọ́"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "iwọ gbọ́"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ní àárọ̀ ọ̀jọ́"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "mo ó ṣàtètí gbàdùn sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "mo sì ń ṣẹ́ri wa"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:43.492339042Z",
+  "model": "glm-5.3"
+}

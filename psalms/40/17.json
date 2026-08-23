@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 40:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ẹ jẹ́ kí gbogbo àwọn tí wọ́n ń wá Ǒ kẹ̀dùn ara wọn, kí wọ́n sì dúródùrọ nínú rẹ̀; ẹ jẹ́ kí àwọn tí wọ́n fẹ́ ìgbàlà rẹ̀ wí pé ní àísùn-òòrùn: Yahweh, kí a gbà á gbáramu.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "ẹ jẹ́ kí … kẹ̀dùn ara wọn"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "kí wọ́n sì dúródùrọ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "àwọn tí wọ́n ń wá Ǒ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ẹ jẹ́ kí … wí pé"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ní àísùn-òòrùn"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "kí a gbà á gbáramu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "àwọn tí wọ́n fẹ́"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "ìgbàlà rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:16.537829452Z",
+  "model": "glm-5.3"
+}

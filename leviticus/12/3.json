@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Sí ọjọ́ kẹjọ ni a ó kọ ẹ̀wẹ̀ orí ara rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "sí ọjọ́"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kẹjọ"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "a ó kọ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ẹ̀wẹ̀ orí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:38:27.975481290Z",
+  "model": "glm-5.3"
+}

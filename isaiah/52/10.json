@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 52,
+  "translation": "Yahweh ti ṣí ⟨את⟩ ẹ̀ẹ̀gbẹ́ mímọ́ rẹ̀ ṣíṣó níwájú ojú gbogbo àwọn orílẹ̀-èdè; gbogbo ìparí ayé yóò rí ⟨את⟩ ìgbàlà ti Elohim wa.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "ti ṣí… ṣíṣó"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀ẹ̀gbẹ́ mímọ́ rẹ̀"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ẹ̀ẹ̀gbẹ́"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mímọ́ rẹ̀"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "níwájú ojú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "yóò sì rí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ìparí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìgbàlà ti Elohim wa"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohim wa"
+    }
+  ],
+  "timestamp": "2026-08-23T01:59:44.690778891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ta ni yóò gòkè sókè sí òkè Yahweh? Ta ni yóò dúró sínú ibi mímọ́ rẹ̀?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ta ni"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "yóò gòkè sókè sí"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Ta ni"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "yóò dúró"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sínú ibi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mímọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:10.105783490Z",
+  "model": "glm-5.3"
+}

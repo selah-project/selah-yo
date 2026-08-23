@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 24:7",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Wọ́n sì kígbe sí Yahweh, ó sì gbé òkùnkùn sílẹ̀ láàárín yín àti láàárín àwọn ará Mitzrayim, ó sì mú ⟨את⟩ odò náà wá lórí wọn, ó sì bo wọn; ojú yín sì rí ⟨את⟩ ohun tí mo ṣe ní Mitzrayim, ẹ sì gbé ní ijọ fún àwọn ọjọ́ púpọ̀.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "wọ́n sì kígbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì gbé sílẹ̀"
+    },
+    {
+      "surface": "מאפל",
+      "gloss": "òkùnkùn"
+    },
+    {
+      "surface": "ביניכם",
+      "gloss": "láàárín yín"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàárín"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "àwọn ará Mitzrayim"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì mú wá"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odò náà"
+    },
+    {
+      "surface": "הים",
+      "gloss": "odò náà"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ó sì bo wọn"
+    },
+    {
+      "surface": "ותראינה",
+      "gloss": "sì rí"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ojú yín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mo ṣe ṣe"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ní Mitzrayim"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "ẹ sì gbé"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní ijọ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "àwọn ọjọ́"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:52.610576181Z",
+  "model": "glm-5.3"
+}

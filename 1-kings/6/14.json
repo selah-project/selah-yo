@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Shelomoh sì kọ́ ⟨את⟩ ilé náà, ó sì parí i.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "sì kọ́"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé náà"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "ó sì parí i"
+    }
+  ],
+  "timestamp": "2026-08-23T01:13:29.376422979Z",
+  "model": "glm-5.3"
+}

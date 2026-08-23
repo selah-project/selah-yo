@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Àti ⟨את⟩ àwọn àtẹ́ iná àti ⟨את⟩ àwọn ìkórò — èyí tí wúnrẹ̀n, wúnrẹ̀n gbà; àti èyí tí fàdákà, fàdákà gbà — ni olórí àwọn apapà mú.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn àtẹ́ iná"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "àwọn àtẹ́ iná"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìkórò"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "àwọn ìkórò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúnrẹ̀n"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúnrẹ̀n"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "àti èyí tí"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mú"
+    },
+    {
+      "surface": "רב",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "àwọn apapà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:40:02.508970563Z",
+  "model": "glm-5.3"
+}

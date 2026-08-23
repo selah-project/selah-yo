@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì mú ⟨את⟩ àgbò ẹbúnyàn wá, Aharon àti àwọn ọmọ rẹ̀ sì gbé ⟨את⟩ ọwọ́ wọn lé orí àgbò náà.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ó sì mú ... wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgbò ẹbúnyàn"
+    },
+    {
+      "surface": "איל",
+      "gloss": "àgbò"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbúnyàn"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "wọ́n sì gbé ... lé"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ wọn"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ọwọ́ wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé orí"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "àgbò náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:36.763238256Z",
+  "model": "glm-5.3"
+}

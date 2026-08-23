@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 101,
+  "translation": "Okàn ẹ̀yẹ̀-tí-kò-tọ́ yóò yà kúrò lọ́dọ̀ mi; búburú kì í ṣe ní mo ó mọ.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "okàn"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ẹ̀yẹ̀-tí-kò-tọ́"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "yóò yà kúrò"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "lọ́dọ̀ mi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe ní"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mo ó mọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:50.802887459Z",
+  "model": "glm-5.3"
+}

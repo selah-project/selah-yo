@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Shelomoh sì kọ́ ⟨את⟩ ilé rẹ̀ ní ọdún mẹ́talógún-un; ó sì parí ⟨את⟩ gbogbo ilé rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilé rẹ̀"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kọ́"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lógún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ó sì parí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ilé rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:13:21.746137925Z",
+  "model": "glm-5.3"
+}

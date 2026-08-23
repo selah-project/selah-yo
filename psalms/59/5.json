@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 59,
+  "translation": "Láì ṣẹ̀ṣẹ̀ kankan, wọ́n ń sáré, wọ́n sì ń ṣetán ṣíwájú; jí, kí o gbà mí, kí o sì rí i.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "láì"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ṣẹ̀ṣẹ̀ kankan"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "wọ́n ń sáré"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "wọ́n sì ń ṣetán ṣíwájú"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "kí o gbà mí"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kí o sì rí i"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:47.743667141Z",
+  "model": "glm-5.3"
+}

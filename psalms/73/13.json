@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Ṣúwọ̀n ní èré-òfo ni mo ṣe mí ọkàn ara mi mọ́, èmi tí mo fi ọwọ́ mi ṣọwọ́ mọ́ ní àìẹ̀bi—ní èré-òfo gan-an.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ṣúwọ̀n"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "èré-òfo"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "mo ṣe mí mọ́"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ọkàn ara mi"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "èmi tí mo ṣọwọ́ mọ́"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ní àìẹ̀bi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ọwọ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:50.949046547Z",
+  "model": "glm-5.3"
+}

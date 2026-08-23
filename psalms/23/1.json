@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Orin kíkọ fún David. Yahweh ni olúsọ́ àgùntàn mi; èmi kì yóò kù.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Orin kíkọ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "ni olúsọ́ àgùntàn mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "yóò kù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:34.587423543Z",
+  "model": "glm-5.3"
+}

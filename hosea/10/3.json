@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Nítorí nísisìyí wọ́n ó wí pé, oba kò sí fún wa; nítorí pé a kò bẹ̀rù ⟨את⟩ Yahweh; àti ọba, kí ni yóò ṣe fún wa?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nísisìyí"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wọ́n ó wí pé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "oba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "a bẹ̀rù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "àti ọba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yóò ṣe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:04:14.218107161Z",
+  "model": "glm-5.3"
+}

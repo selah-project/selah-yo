@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ọjọ́ mọ́kanlá ni láti Horebu, ní ọ̀nà òkè Seiri, dé Kadesi-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "mọ́kanlá (ìkan)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mọ́ká nlá (ẹ̀wá)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "láti Horebu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ní ọ̀nà"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesi-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:26.229403202Z",
+  "model": "glm-5.3"
+}

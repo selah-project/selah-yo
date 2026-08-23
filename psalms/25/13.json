@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Nefesh rẹ̀ máa dúró sípò nínú rere, àti irúgbìn rẹ̀ máa jogún ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "Nefesh rẹ̀"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "nínú rere"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "máa dúró sípò"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "àti irúgbìn rẹ̀"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "máa jogún"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:31.977031889Z",
+  "model": "glm-5.3"
+}

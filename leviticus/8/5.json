@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Moshe sì wí fún ìjọ náà pé: Èyí ni ọ̀rọ̀ tí Yahweh pa á lé láti ṣe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ó pa á lé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:41.506568805Z",
+  "model": "glm-5.3"
+}

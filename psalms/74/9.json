@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Àwọn àmì wa, a kò rí i; wòlíì kò sí mọ́, ẹni tí ó ń ṣiṣẹ́ pẹ̀lú wa ⟨את⟩ kò sí, ẹni tí ó mọ̀ títi tí ó ṣe é ṣe.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "àwọn àmì wa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "a rí"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "wòlíì"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kò sí"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ lára wa",
+      "marks": "pẹ̀lú wa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ẹni tí ó mọ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "tí ó ṣe é ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:16.452294267Z",
+  "model": "glm-5.3"
+}

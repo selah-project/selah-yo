@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 23:21",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Fún àjèjì ni iwọ ó lè mú èrè jẹ́, ṣùgbọ́n fún ará rẹ kì í ṣe pé iwọ ó mú èrè jẹ́, kí Yahweh Elohim rẹ lè bùkún fún rẹ nínú ohun gbogbo tí ọwọ́ rẹ fi ń ránṣẹ́ sí lórí ilẹ̀ tí iwọ ń wọ sí láti gba á ni.",
+  "tokens": [
+    {
+      "surface": "לנכרי",
+      "gloss": "fún àjèjì"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "iwọ ó lè mú èrè jẹ́"
+    },
+    {
+      "surface": "ולאחיך",
+      "gloss": "ṣùgbọ́n fún ará rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe pé"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "iwọ ó mú èrè jẹ́"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "ó lè bùkún fún rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nínú ohun gbogbo"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "tí ọwọ́ fi ń ránṣẹ́ sí"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwọ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ń wọ sí"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sí ibẹ̀"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "láti gba á ni"
+    }
+  ],
+  "timestamp": "2026-08-23T00:16:45.815361741Z",
+  "model": "glm-5.3"
+}

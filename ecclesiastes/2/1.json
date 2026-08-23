@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Mo wí nínú ọkàn mi, wá, jọ̀wọ́, èmi yóò ṣe ìdánwò fúnra mi pẹ̀lú ayò, kí o sì wo ohun rere; kí à sì kíyèsí, èyí gan-an náà ni hevel.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Mo wí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "nínú ọkàn mi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "wá"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọ̀wọ́"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "yóò ṣe ìdánwò"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "pẹ̀lú ayò"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kí o sì wo"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ohun rere"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kí à sì kíyèsí"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gan-an náà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:41.494526057Z",
+  "model": "glm-5.3"
+}

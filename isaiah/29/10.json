@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Nítorí Yahweh ti sọ ⟨ẹ̀mí⟩ ìsun-sùn líle jáde sórí yín, ó sì ti pa ⟨את⟩ ojú yín — ⟨את⟩ àwọn wòlíyìn, àti ⟨את⟩ orí yín, àwọn ẹnikeji tí ó ń rí ìran — ó bo wọn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ti sọ … jáde"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sórí yín"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ìsun-sùn líle"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "ó sì ti pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú yín"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ojú yín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn wòlíyìn"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "àwọn wòlíyìn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "orí yín"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "orí yín"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "àwọn ẹnikeji tí ó ń rí ìran"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ó bo wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:50:38.129641936Z",
+  "model": "glm-5.3"
+}

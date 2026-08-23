@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Búburú máa pa ẹlẹ́ṣẹ̀ kú, àwọn tí ó kórìíra ẹni tí ó tọ́ máa di ẹ̀bi.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "máa pa … kú"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ẹlẹ́ṣẹ̀"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "àwọn tí ó kórìíra"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ẹni tí ó tọ́"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "máa di ẹ̀bi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:10.065170542Z",
+  "model": "glm-5.3"
+}

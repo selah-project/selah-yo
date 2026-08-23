@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Lẹ́yìn ìyẹn, Iyobu ṣí ⟨את⟩ ẹnu rẹ̀, ó sì ṣe ẹ̀gún ⟨את⟩ ọjọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Lẹ́yìn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ìyẹn"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ṣí"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹnu rẹ̀"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ẹnu rẹ̀"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "ó sì ṣe ẹ̀gún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọjọ́ rẹ̀"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ọjọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:08:10.703117295Z",
+  "model": "glm-5.3"
+}

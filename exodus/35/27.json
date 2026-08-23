@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Àwọn olórí sì mú ⟨את⟩ àwọn ohun òkúta shoham wá, àti ⟨את⟩ àwọn ohun òkúta tí a fi ń mi fún ephod àti fún choshen.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "sì mú wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ohun òkúta shoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "àwọn ohun òkúta"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ohun òkúta tí a fi ń mi"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "àwọn ohun òkúta"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "tí a fi ń mi (fún ìforíkọ̀n)"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "fún ephod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "àti fún choshen"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:23.470069432Z",
+  "model": "glm-5.3"
+}

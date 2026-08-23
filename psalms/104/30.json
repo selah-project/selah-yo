@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "O ó fi emí rẹ ránṣẹ́, wọn yóò ṣẹ̀dá; O ó sì tún ojú ilẹ̀ ṣe.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "O ó fi…ránṣẹ́"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "emí rẹ"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "wọn yóò ṣẹ̀dá"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "O ó sì tún…ṣe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:45.069536462Z",
+  "model": "glm-5.3"
+}

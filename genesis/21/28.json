@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Avraham sì dá ⟨את⟩ àwọn ọmọ-aguntán bíbirì méje sílẹ̀ láìka wọn.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "dá sílẹ̀"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ-aguntán bíbirì méje"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "méje"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ọmọ-aguntán bíbirì"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ẹ̀gbẹ́ àwọn àgùntàn"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "láìka wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:00:25.719225485Z",
+  "model": "glm-5.3"
+}

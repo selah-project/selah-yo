@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ó sì ṣe ìṣètò búrẹ́dì lórí rẹ̀ níwájú Yahweh, bí Yahweh ti pàṣẹ ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "ó sì ṣe ìṣètò"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "ìṣètò"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "búrẹ́dì"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí … ti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:22.425641920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 82,
+  "translation": "Ẹ dájọ́ fún aláilára àti ọmọ orphan; ẹ ṣe òdodo fún aláìní àti ọ̀táṣẹ́.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Ẹ dájọ́ fún"
+    },
+    {
+      "surface": "דל",
+      "gloss": "aláilára"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "àti ọmọ orphan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aláìní"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "àti ọ̀táṣẹ́"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "ẹ ṣe òdodo fún"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:52.091287953Z",
+  "model": "glm-5.3"
+}

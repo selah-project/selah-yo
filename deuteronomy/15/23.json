@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ṣùgbọ́n ẹ̀jẹ̀ rẹ̀ ⟨את⟩, má ṣe jẹ ọ́n; sí ilẹ̀ ni iwọ ó dà án sílẹ̀, bí omi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ṣùgbọ́n nìkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀jẹ̀ rẹ̀"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ẹ̀jẹ̀ rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "iwọ ó dà án sílẹ̀"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "bí omi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:49.685280893Z",
+  "model": "glm-5.3"
+}

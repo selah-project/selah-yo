@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Yahweh sì sọ̀rọ̀ sí Moshe àti sí Aharon, nípa tí ó ń wí pé:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sì sọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nípa tí ó ń wí pé:"
+    }
+  ],
+  "timestamp": "2026-08-22T23:40:05.651678276Z",
+  "model": "glm-5.3"
+}

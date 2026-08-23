@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Maskil fun Asaf: Ẹ sọ eti rẹ̀ dà, ènìyàn mi, sí òfin mi; ẹ fi eti yìn sí ọ̀rọ̀ ẹnu mi.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil (orin ẹ̀kọ́)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "fun Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ẹ sọ eti rẹ̀ dà sí"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ènìyàn mi"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "òfin mi"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ẹ fi eti yìn sí"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "eti yìn"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "sí ọ̀rọ̀"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:51.716873020Z",
+  "model": "glm-5.3"
+}

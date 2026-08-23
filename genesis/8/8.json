@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì fi ⟨את⟩ ẹyẹ ọ̀dọ̀ọ̀dọ̀ náà ránṣẹ́ láti ẹ̀gbẹ́ rẹ̀, láti lè rí ti omi bá ti kéré kúrò lórí ojú ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ó sì fi ránṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹyẹ ọ̀dọ̀ọ̀dọ̀ náà"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ẹyẹ ọ̀dọ̀ọ̀dọ̀ náà"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "láti ẹ̀gbẹ́ ⟨את⟩ rẹ̀"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "láti lè rí"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "ti… bá ti kéré"
+    },
+    {
+      "surface": "המים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kúrò lórí"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:10.798385183Z",
+  "model": "glm-5.3"
+}

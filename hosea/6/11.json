@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 6:11",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Bákan náà, Yehuda, ìkọ̀-ọ̀gbìn ti a yàn sí ọ̀dọ̀ rẹ, nígbà tí mo bá dá àwọn ìgbèkùn ti àwọn ènìyàn mi padà.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ti a yàn sí"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ìkọ̀-ọ̀gbìn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "nígbà tí mo bá dá padà"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "àwọn ìgbèkùn"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "àwọn ènìyàn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T02:59:51.838350014Z",
+  "model": "glm-5.3"
+}

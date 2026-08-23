@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ọba Yerushalayim, ẹyọkan; ọba Chevron, ẹyọkan;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ẹyọkan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ẹyọkan"
+    }
+  ],
+  "timestamp": "2026-08-23T00:26:32.119697077Z",
+  "model": "glm-5.3"
+}

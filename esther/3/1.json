@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Lẹ́yìn àwọn ọ̀rọ̀ wọnyí, Ahashuerosh ọba gbàga ⟨את⟩ Haman ọmọ Hammedata Agagi, ó gbé e láàbọ̀, ó sì fi ⟨את⟩ ìjókò rẹ̀ sókè ju gbogbo àwọn ìjòyè tí ó wà ⟨את⟩ pẹ̀lú rẹ̀ lọ.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "gbàga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashuerosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hammedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagi"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "ó gbé e láàbọ̀"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjókò rẹ̀"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ìjókò rẹ̀"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sókè ju…lọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "àwọn ìjòyè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pẹ̀lú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:45:11.879820746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Nóà sì jáde, àwọn ọmọ rẹ̀, aya rẹ̀, àti àwọn aya àwọn ọmọ rẹ̀ pẹ̀lú rẹ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "sì jáde"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nóà"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "aya rẹ̀"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "àti àwọn aya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pẹ̀lú rẹ ⟨את⟩",
+      "marks": "rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:36.270173623Z",
+  "model": "glm-5.3"
+}

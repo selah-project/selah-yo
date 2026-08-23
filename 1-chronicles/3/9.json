@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Gbogbo wọnyí ni àwọn ọmọ David, yàtò sí àwọn ọmọ àwọn aya-nínú-ìkejì, àti Tamar arábìnrin wọn.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "yàtò sí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "àwọn aya-nínú-ìkejì"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "àti Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "arábìnrin wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:09:22.681189899Z",
+  "model": "glm-5.3"
+}

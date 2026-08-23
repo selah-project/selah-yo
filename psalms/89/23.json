@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Òtá kì í yóò lè fi ipá mú ọ́; ọmọ àìṣedẹ́ gbé kì í yóò lè pa á láṣẹ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "yóò lè fi ipá mú"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "òtá"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ọ́"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "àìṣedẹ́ gbé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "yóò lè pa á láṣẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:31.999641530Z",
+  "model": "glm-5.3"
+}

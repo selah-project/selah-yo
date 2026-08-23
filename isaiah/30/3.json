@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Nítorí náà, agbára Paroh yóò jẹ́ ìdí tilẹ̀ fún yín, àti ìfarapamọ́ ní abẹ́ ojú Mitzrayim yóò jẹ́ ìbanujẹ́.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "agbára"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ìdí tilẹ̀"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "àti ìfarapamọ́"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ní abẹ́ ojú"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "ìbanujẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:51:32.803720915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 20:22",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ẹ máa ṣọ́ ⟨את⟩ gbogbo òfin mi àti ⟨את⟩ gbogbo ìdájọ́ mi, ẹ sì ṣe ⟨את⟩ wọn; kí ilẹ̀ tí èmi ń gbé ⟨את⟩ yín wá sí ibẹ̀ láti gbé níbẹ̀ má baà nu ⟨את⟩ yín kúrò.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ẹ máa ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo òfin mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "òfin mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ìdájọ́ mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ìdájọ́ mi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ẹ sì ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí...má baà"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ń gbé wá"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sí ibẹ̀"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "láti gbé"
+    },
+    {
+      "surface": "בה",
+      "gloss": "níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:51.467631248Z",
+  "model": "glm-5.3"
+}

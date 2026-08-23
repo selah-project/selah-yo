@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 46:9",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Ẹ rántí àwọn nǹkan ìṣaájọ láti ìgbà pípẹ́, nítorí pé èmi ni El, kò sí ⟨ẹlomíran⟩; Elohim ni mo jẹ́, kò sí ẹnìkan bíi mi.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ẹ rántí"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "àwọn nǹkan ìṣaájọ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "láti ìgbà pípẹ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨ẹlomíran⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "kò sí ẹnìkan"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "bíi mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:57:29.944573329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "nínú ⟨àwọn⟩ ọ̀run, kí o si gbọ́ ⟨את⟩ àdúrà wọn àti ⟨את⟩ ìbéèrè wọn, kí o si ṣe ìdájọ́ wọn.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "kí o si gbọ́"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nínú ⟨àwọn⟩ ọ̀run"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àdúrà wọn"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "àdúrà wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìbéèrè wọn"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ìbéèrè wọn"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kí o si ṣe"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ìdájọ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:16:03.229932901Z",
+  "model": "glm-5.3"
+}

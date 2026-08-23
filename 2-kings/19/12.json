@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ṣé àwọn elohim ti àwọn orílẹ̀-èdè yìí, tí àwọn baba mi pa mọ́ — ⟨את⟩ Gozan, àti ⟨את⟩ Charan, àti Retzef, àti àwọn ọmọ Eden, tí ó wà ní Telassar — gbà wọ́n là?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "ṣé wọ́n gbà wọn là"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "àwọn elohim ti àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "àwọn elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ti àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "àwọn baba mi pa mọ́"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "àwọn baba mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "וורצף",
+      "gloss": "àti Retzef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "àti àwọn ọmọ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "Telassar"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:33.973198264Z",
+  "model": "glm-5.3"
+}

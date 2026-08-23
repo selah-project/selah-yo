@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Lavan sì wí fún Yaakov pé: Kí ni o ṣe? O jì ⟨את⟩ ọkàn mi, o sì mú ⟨את⟩ àwọn ọmọbìnrin mi lọ bíi àwọn ẹ̀rù ogun-idá.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "fún Yaakov"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o ṣe"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "o jì \/ o tàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn mi"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "o sì mú lọ \/ o sì fi ṣe ẹ̀rù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọbìnrin mi"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "àwọn ọmọbìnrin mi"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "bíi àwọn ẹ̀rù-ogun"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idá"
+    }
+  ],
+  "timestamp": "2026-08-22T23:06:55.256140816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 76,
+  "translation": "Nígbà tí Elohim dìde sí ìdájọ́, láti gbà gbogbo àwọn tí ó fara balẹ̀ lórí ayé là. Selah",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "nígbà tí ... dìde"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "sí ìdájọ́"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "láti ... là"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "àwọn tí ó fara balẹ̀"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lorí ayé"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:47.132948344Z",
+  "model": "glm-5.3"
+}

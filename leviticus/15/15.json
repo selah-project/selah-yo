@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Álùfáà sì ṣe ⟨את⟩ wọn — ọ̀kan ní ẹbọ èṣẹ̀, ẹlòmíràn ní ẹbọ-ina; álùfáà á fọ̀ ẹ̀ṣẹ̀ rẹ̀ dà síwájú Yahweh nítorí èjè-àìsàn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "á ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn ẹyẹ méjèèjì)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "álùfáà"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ẹbọ èṣẹ̀"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ẹlòmíràn"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ẹbọ-ina"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "á fọ̀ ẹ̀ṣẹ̀ rẹ̀ dà"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "álùfáà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "èjè-àìsàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:33.301987339Z",
+  "model": "glm-5.3"
+}

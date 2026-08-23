@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Nítorí tí ó ti gbé ìlèkù fádákà ya, ó gé àwọn ọ̀fun ìrìn wọ́n.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ó ti gbé ya"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ìlèkù"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "fádákà"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "àwọn ọ̀fun"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ìrìn"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "ó gé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:31.990218168Z",
+  "model": "glm-5.3"
+}

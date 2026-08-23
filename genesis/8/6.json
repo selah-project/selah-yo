@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì ṣẹlẹ̀ ní ìparí ọjọ́ méjìlélógójì, Noach ṣí ⟨את⟩ ferese tí ó ṣe nínú oṣù-warapamọ̀ náà.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ní ìparí"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "méjìlélógójì"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ṣí"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ferese"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ferese"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "oṣù-warapamọ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:10.797875246Z",
+  "model": "glm-5.3"
+}

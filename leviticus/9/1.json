@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ó sì wáyé ní ọjọ́ kẹjọ pé Moshe pe Aharon, àti àwọn ọmọ rẹ̀, àti àwọn àgbà ti Yisraél.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wáyé"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kẹjọ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וּלְבָנָיו",
+      "gloss": "àti àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "וּלְזִקְנֵי",
+      "gloss": "àti àwọn àgbà ti"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisraél"
+    }
+  ],
+  "timestamp": "2026-08-22T23:38:38.008422797Z",
+  "model": "glm-5.3"
+}

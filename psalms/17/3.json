@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ìwọ ti dán wọ́n; ìwọ ti ṣàbẹ̀wò sí ọkàn mi ní ọ̀sán; ìwọ ti mi bí irinwò, ìwọ kò rí nnkan; ìro rere mi kì í jáde kúrò lẹ́nu mi ⟨làìtọ́⟩.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Ìwọ ti dán wọ́n"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "ìwọ ti ṣàbẹ̀wò"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ní ọ̀sán"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "ìwọ ti mi bí irinwò"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "rí nnkan"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "ìro rere mi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "jáde kúrò"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹ́nu mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:34.233317580Z",
+  "model": "glm-5.3"
+}

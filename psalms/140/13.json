@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 140,
+  "translation": "Mo mọ̀ pé Yahweh máa ń ṣe ìdájọ́ fún aláìnígba, ìdájọ́ fún àwọn aláìní.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "mo mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "máa ń ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aláìnígba"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "àwọn aláìní"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:45.001562119Z",
+  "model": "glm-5.3"
+}

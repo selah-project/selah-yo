@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "àti ⟨את⟩ ọmọbìnrin ẹyẹ ostrich, àti ⟨את⟩ night-hawk, àti ⟨את⟩ gull, àti ⟨את⟩ hawk ti ìran rẹ̀",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọbìnrin ẹyẹ ostrich"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbìnrin"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ẹyẹ ostrich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "night-hawk"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "night-hawk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gull"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "gull"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hawk"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "hawk"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ti ìran rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:49.449226021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Àwọn malù tí wọ́n rẹ́rẹ́ àti tí wọ́n burú jẹ ⟨את⟩ àwọn malù méja àkọ́kọ́ tí wọ́n là láṣẹ sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "jẹ"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "àwọn malù"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "tí wọ́n rẹ́rẹ́"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "àti tí wọ́n burú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn malù méje àkọ́kọ́"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "méje"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "àwọn malù"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "àkọ́kọ́"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "tí wọ́n là láṣẹ sílẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:40:43.330941726Z",
+  "model": "glm-5.3"
+}

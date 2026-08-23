@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìkike lọ̀nà kìnnìún, àti ohùn kìnnìún-olóde, ẹyín àwọn kìnnìún ìgbà èwe sì jẹ́ wúwo.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "ìkike lọ̀nà"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "kìnnìún"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "àti ohùn"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "kìnnìún-olóde"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ẹyín"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "àwọn kìnnìún ìgbà èwe"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "jẹ́ wúwo"
+    }
+  ],
+  "timestamp": "2026-08-23T04:15:13.000856287Z",
+  "model": "glm-5.3"
+}

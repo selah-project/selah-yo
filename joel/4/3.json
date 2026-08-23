@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 4:3",
+  "book": "joel",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Wọ́n sì gbé ìdíbọ̀ sórí ìjọ mi; wọ́n sì fi ọmọkùnrin yìí fún aṣewé, wọ́n sì ta ọmọbìnrin yìí ní oti, wọ́n sì sọó tì.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "sì sí"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ìjọ mi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "wọ́n gbé (ìdíbọ̀)"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ìdíbọ̀"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "wọ́n sì fi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ọmọkùnrin yìí"
+    },
+    {
+      "surface": "בזונה",
+      "gloss": "fún aṣewé"
+    },
+    {
+      "surface": "והילדה",
+      "gloss": "ọmọbìnrin yìí sì"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "wọ́n ta"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "ní oti"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "wọ́n sì sọó tì"
+    }
+  ],
+  "timestamp": "2026-08-23T06:02:16.797027885Z",
+  "model": "glm-5.3"
+}

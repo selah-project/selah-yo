@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Láti inú tẹmpu rẹ, lórí Yerushalayim; àwọn ọba yóò gbé ẹ̀bùn wá fún ọ.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "láti inú tẹmpu rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "yóò gbé wá"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "שי",
+      "gloss": "ẹ̀bùn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:01.231141932Z",
+  "model": "glm-5.3"
+}

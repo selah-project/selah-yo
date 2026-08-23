@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Afẹ́fẹ́ tí ó pọ̀ ju bẹ́ẹ̀ lọ ni yóò wá fún mi; nísisìyí, èmi pàápàá yóò sọ̀rọ̀ ìdájọ́ ⟨את⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "afẹ́fẹ́"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tí ó pọ̀ (kún)"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ju bẹ́ẹ̀ lọ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "yóò wá"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nísisìyí"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pàápàá"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "yóò sọ̀rọ̀"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn (àwọn ènìyàn Yehuda)"
+    }
+  ],
+  "timestamp": "2026-08-23T02:07:29.287975822Z",
+  "model": "glm-5.3"
+}

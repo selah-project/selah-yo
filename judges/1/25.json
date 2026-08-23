@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì fi ìgbàjà wọn han ⟨את⟩ ọ̀nà-ìwọ̀lé ìlú náà, wọ́n sì lu ⟨את⟩ ìlú náà pẹ̀lú oge idà, ṣùgbọ́n ⟨את⟩ ọkùnrin náà àti ⟨את⟩ gbogbo ẹbí rẹ̀ ni wọ́n fi silẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "ó sì fi han wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀nà-ìwọ̀lé ìlú náà"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ọ̀nà-ìwọ̀lé"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wọ́n sì lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìlú náà"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pẹ̀lú oge"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ṣùgbọ́n ⟨את⟩",
+      "marks": "ọkùnrin náà"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ẹbí rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "ẹbí rẹ̀"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "wọ́n fi silẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:55.189736462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Wọ́n sì ti sọ fún David, ó sì kó ⟨את⟩ gbogbo Israẹli jọ, ó sì kọjá ⟨את⟩ Jordani, ó sì dé Hẹlamu; Aramu sì yan ara wọn sílẹ̀ láti pàdé David, wọ́n sì bá a jà.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "wọ́n sọ fún"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ó sì kó jọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo Israẹli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ó sì kọjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordani"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì dé"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "Hẹlamu"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "wọ́n sì yan ara wọn sílẹ̀"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "láti pàdé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "wọ́n sì jà"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:00:54.890180302Z",
+  "model": "glm-5.3"
+}

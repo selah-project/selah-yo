@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ó sì wí: ìwọ ni ọmọ mi Esau? Ó sì wí: èmi ni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ mi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:04:06.152662964Z",
+  "model": "glm-5.3"
+}

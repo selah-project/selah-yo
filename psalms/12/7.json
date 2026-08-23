@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Àwọn ọ̀rọ̀ Yahweh jẹ́ ọ̀rọ̀ mímọ́; gẹ́gẹ́ bí fàdákà tí a ti yọ nínú ìdáná, lórí ilẹ̀, tí a ti yọ mọ́ ìgbà méje.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "tí a ti yọ nínú ìdáná"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "lórí ilẹ̀"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "tí a ti yọ mọ́"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ìgbà méje"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:25.149845685Z",
+  "model": "glm-5.3"
+}

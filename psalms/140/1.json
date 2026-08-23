@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 140,
+  "translation": "Fún olùdarí-orin; orin kíkọ ti David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fún olùdarí-orin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin kíkọ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti David"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:39.429149584Z",
+  "model": "glm-5.3"
+}

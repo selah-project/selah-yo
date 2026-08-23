@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 32:16",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Ràkúnmì ọmọ-oyèlágbà ọgbọ̀n pẹ̀lú àwọn ọmọ wọn, máàlù àwọn ènìyàn mẹ́rìnlélàádọ́ta, màlúù akọ mẹ́wàá, kété-ẹ̀yẹ abínibí ogún, àwọn ọmọ-ẹ̀yẹ mẹ́wàá.",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "Ràkúnmì"
+    },
+    {
+      "surface": "מיניקות",
+      "gloss": "ọmọ-oyèlágbà"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "pẹ̀lú àwọn ọmọ wọn"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ọgbọ̀n"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "máàlù abínibí"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mérinlélàádọ́ta"
+    },
+    {
+      "surface": "ופרים",
+      "gloss": "màlúù akọ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "אתנת",
+      "gloss": "kété-ẹ̀yẹ abínibí"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "ועירם",
+      "gloss": "àwọn ọmọ-ẹ̀yẹ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mẹ́wàá"
+    }
+  ],
+  "timestamp": "2026-08-22T23:06:18.365263602Z",
+  "model": "glm-5.3"
+}

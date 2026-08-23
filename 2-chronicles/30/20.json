@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Yahweh sì gbọ́ Yechizkiyahu, ó sì wo ⟨את⟩ àwọn ènìyàn.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ó sì gbọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gbọ́ sí"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ó sì wo àisàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:35:28.796482027Z",
+  "model": "glm-5.3"
+}

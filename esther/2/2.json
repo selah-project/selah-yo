@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àwọn ọmọkùnrin ọba, àwọn tí ó ń sìn í, wí pé: kí wọ́n wá àwọn ọmọbìnrin wọ́ àwọn wúndíá tí ó dára rí i fún ọba náà.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "àwọn ọmọkùnrin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "àwọn tí ó ń sìn í"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "kí wọ́n wá"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fún ọba náà"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "àwọn ọmọbìnrin"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "àwọn wúndíá"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "tí ó dára"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "rí i"
+    }
+  ],
+  "timestamp": "2026-08-23T04:44:35.796636165Z",
+  "model": "glm-5.3"
+}

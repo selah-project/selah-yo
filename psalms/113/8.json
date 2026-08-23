@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 113,
+  "translation": "Láti jẹ́ kí ó jókòó pẹ̀lú àwọn ọmọlọ́yọ̀, pẹ̀lú àwọn ọmọlọ́yọ̀ ènìyàn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "látí jẹ́ kí ó jókòó"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "àwọn ọmọlọ́yọ̀"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "àwọn ọmọlọ́yọ̀"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ènìyàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:16.902954864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ó sì bí fún un ⟨את⟩ Zimran àti ⟨את⟩ Yokshan àti ⟨את⟩ Medan àti ⟨את⟩ Midyan àti ⟨את⟩ Yishbak àti ⟨את⟩ Shuach.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Ó sì bí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yokshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yishbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Shuach"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuach"
+    }
+  ],
+  "timestamp": "2026-08-22T23:03:12.321889744Z",
+  "model": "glm-5.3"
+}

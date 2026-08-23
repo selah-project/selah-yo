@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Wọ́n sì kígbe sí Yahweh nígbà ìṣòro wọn; láti inú àwọn ìṣòro tiraka wọn, Ó gbà wọn là.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Wọ́n sì kígbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nígbà ìṣòro"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "láti inú àwọn ìṣòro tiraka wọn"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "Ó gbà wọn là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:00.072624843Z",
+  "model": "glm-5.3"
+}

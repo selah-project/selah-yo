@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì ṣẹlẹ̀, nígbà tí àwọn àlùfáá jáde kúrò nínú ibi mímọ́ náà, pé sánmángangan kún ⟨את⟩ ilé Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "nígbà tí ... jáde"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáá"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ibi mímọ́ náà"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "sánmángangan sì"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T01:16:01.793896442Z",
+  "model": "glm-5.3"
+}

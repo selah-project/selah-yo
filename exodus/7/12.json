@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Nítorí ẹni kọ̀ọ̀kan sọ òpó rẹ̀ sílẹ̀, wọ́n sì di àwọn ẹrú nlá; ṣùgbọ́n òpó Aharon mú ⟨את⟩ àwọn òpó wọn lọ.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "sọ sílẹ̀"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni kọ̀ọ̀kan"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "òpó rẹ̀"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wọ́n sì di"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "àwọn ẹrú nlá"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "ṣùgbọ́n … mú … lọ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "òpó"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òpó wọn"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "àwọn òpó wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:19.080674982Z",
+  "model": "glm-5.3"
+}

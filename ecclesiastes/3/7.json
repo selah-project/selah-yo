@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àkókò láti fa aṣọ tan, àti àkókò láti hun ⟨aṣọ⟩; àkókò láti dákẹ́, àti àkókò láti sọ̀rọ̀.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "àkókò"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "láti fa … tan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "àti àkókò"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "láti hun"
+    },
+    {
+      "surface": "עת",
+      "gloss": "àkókò"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "láti dákẹ́"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "àti àkókò"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "láti sọ̀rọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:10.505057217Z",
+  "model": "glm-5.3"
+}

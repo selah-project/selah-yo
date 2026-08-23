@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Gẹ́gẹ́ bí òfin — kí ni a gbọ́dọ̀ ṣe sí ìyábà-obi Vashti, nítorí pé ò ṣe àṣẹ ọba Achashverosh kọ́, èyí tí a fi ẹ̀wẹ́n nípasẹ̀ àwọn agbára-ìkọ́kọ́.",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "Gẹ́gẹ́ bí òfin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "a gbọ́dọ̀ ṣe"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "sí ìyábà-obi"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kọ́"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ò ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àṣẹ"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "àṣẹ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nípasẹ̀"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "àwọn agbára-ìkọ́kọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:44:39.856996455Z",
+  "model": "glm-5.3"
+}

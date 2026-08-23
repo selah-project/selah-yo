@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Wọn ó jẹ ⟨את⟩ wọn, èyítí a fi ṣe ìràpamọ́ nípa wọn, láti fi ⟨את⟩ ọwọ́ wọn kún, láti ṣe ⟨את⟩ wọn ní mímọ́; ṣùgbọ́n àjèjì kì í jẹ ọ́, nítorí pé mímọ́ ni wọn.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Wọn ó jẹ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyítí"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "a fi ṣe ìràpamọ́"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nípa wọn"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "láti fi kún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ wọn"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ọwọ́ wọn"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "láti ṣe ní mímọ́"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "ṣùgbọ́n àjèjì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:15.498786850Z",
+  "model": "glm-5.3"
+}

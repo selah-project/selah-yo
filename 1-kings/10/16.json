@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ọba Shelomah sì ṣe àwọn àpòògùn léraléra wúrà ní mọ́kànlélọ́gọ̀rún — mẹ́wàá lọ́nà ọgọ́rún — wúrà ẹ̀ẹ́dẹ́gbẹ̀ta ó lé mẹ́fà ló ń gun sórí àpòògùn kan ṣoṣo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mọ́kànlélọ́gọ̀rún"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "àwọn àpòògùn"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "léraléra"
+    },
+    {
+      "surface": "שש",
+      "gloss": "mẹ́fà"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́rún"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ń gun"
+    },
+    {
+      "surface": "על",
+      "gloss": "sóri"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "àpòògùn"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "kan ṣoṣo"
+    }
+  ],
+  "timestamp": "2026-08-23T01:15:47.518835946Z",
+  "model": "glm-5.3"
+}

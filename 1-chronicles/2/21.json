@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 2:21",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Lẹ́yìn ìgbà náà, Chetsron wá sí ọ̀dọ̀ ọmọbìnrin Machir, baba Gilad, ó sì gba á lọ́kọ̀, nígbà tí ó jẹ́ ọmọ ọdún ogóta; ó sì bí ⟨את⟩ Segub fún un.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Lẹ́yìn ìgbà náà"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wá sí"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbìnrin"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machir"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "gba á lọ́kọ̀"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "nígbà tí ó jẹ́"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ogóta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Segub"
+    },
+    {
+      "surface": "שגוב",
+      "gloss": "Segub"
+    }
+  ],
+  "timestamp": "2026-08-23T05:08:34.170695362Z",
+  "model": "glm-5.3"
+}

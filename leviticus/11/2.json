@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Sọ̀rọ̀ sí àwọn ọmọ Yisrael, wí fún wọn pé: Èyí ni ẹranko tí ẹ jẹ lára gbogbo ẹranko tí ó wà lórí ilẹ̀ ayé",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "ẹ sọ̀rọ̀ sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí fún wọn pé"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí ni"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ẹ jẹ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "lára gbogbo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:38:00.128501792Z",
+  "model": "glm-5.3"
+}

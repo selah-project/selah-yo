@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 4:14",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ní ọjọ́ yẹn, Yahweh gbé ⟨את⟩ Yehoshua ga ní ojú gbogbo Yisrael; wọ́n sì bẹ̀rù ⟨את⟩ ọn gẹ́gẹ́ bí wọ́n ti bẹ̀rù ⟨את⟩ Moshe, gbogbo ọjọ́ ìgbésí-ayé rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "gbé ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "wọ́n sì bẹ̀rù"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ọn",
+      "marks": "Yehoshua (èyí wọn)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "wọ́n ti bẹ̀rù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ìgbésí-ayé rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:22:53.163532446Z",
+  "model": "glm-5.3"
+}

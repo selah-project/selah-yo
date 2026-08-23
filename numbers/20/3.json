@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àwọn ènìyàn sì bá Moshe ìjà, wọ́n sì wí pé: Ká ṣeé kí á ti kú pẹ̀lú ìkú àwọn ará wa níwájú Yahweh!",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "sì bá … ìjà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "Ká ṣeé kí"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "á ti kú"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "pẹ̀lú ìkú"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "àwọn ará wa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:59:01.250502685Z",
+  "model": "glm-5.3"
+}

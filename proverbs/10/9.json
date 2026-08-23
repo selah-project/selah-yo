@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ẹni tí ó ń rìn ní ìọ̀tọ̀kánnù yóò rìn ní ààbò, ṣùgbọ́n ẹni tí ó ń yí ọ̀nà rẹ̀ lọ́nà àìtọ́ yóò di ẹni tí a mọ̀.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ẹni tí ó ń rìn"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "ní ìọ̀tọ̀kánnù"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "yóò rìn"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ní ààbò"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "ṣùgbọ́n ẹni tí ó ń yí ọ̀nà lọ́nà àìtọ́"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yóò di ẹni tí a mọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:05:27.638008476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ẹmi sì gbọ́, ṣùgbọ́n èmi kò mọ̀ oyè rẹ̀; mo sì wí pé: Adonai, kí ni ìparí eléyìí?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ẹmi sì"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n kò"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "oyè rẹ̀"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "mo sì wí"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ìparí"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "eléyìí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:56:28.053017243Z",
+  "model": "glm-5.3"
+}

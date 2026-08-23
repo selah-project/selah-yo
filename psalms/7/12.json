@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Elohim ni olódájọ́-òtítọ́, àti El tó ń bínú ní ọjọ́ gbogbo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "olódájọ́"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "òtítọ́"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "tó ń bínú"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:03.186087645Z",
+  "model": "glm-5.3"
+}

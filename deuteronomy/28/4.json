@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ìbùkún ni èso ìkúnbẹ̀ rẹ, èso ilẹ̀ rẹ, èso ẹranko rẹ — ọmọ màlúù rẹ àti ọmọ tuntun àgùntàn rẹ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ìbùkún ni"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "èso"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ìkúnbẹ̀ rẹ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "èso"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ilẹ̀ rẹ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "èso"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "ẹranko rẹ"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "ọmọ tuntun"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "màlúù rẹ"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "àti ọmọ tuntun"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "àgùntàn rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:19:28.573857906Z",
+  "model": "glm-5.3"
+}

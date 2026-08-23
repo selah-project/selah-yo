@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ìránbá Shaul sì sọ pé: Sọ fún mi jọwọ́, kí ni Shemuel sọ fún yín?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ pé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Ìránbá"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Sọ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọwọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    }
+  ],
+  "timestamp": "2026-08-23T00:46:56.679875393Z",
+  "model": "glm-5.3"
+}

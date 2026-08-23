@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ohùn Yahweh ń fọ àwọn igi àràbà; Yahweh sì ti fọ ⟨את⟩ àwọn àràbà Lebanoni.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ń fọ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "àwọn igi àràbà"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "sì ti fọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àràbà Lebanoni"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "àwọn àràbà"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanoni"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:37.691692857Z",
+  "model": "glm-5.3"
+}

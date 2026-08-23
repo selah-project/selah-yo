@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 83,
+  "translation": "Àwọn tí ó wí pé: Jẹ́ kí á gba ⟨את⟩ àwọn pásátọ̀ Elohim ní jẹ́.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Àwọn tí"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ó wí pé"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "Jẹ́ kí á gba ní jẹ́"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn pásátọ̀ Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "àwọn pásátọ̀"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:03.495185495Z",
+  "model": "glm-5.3"
+}

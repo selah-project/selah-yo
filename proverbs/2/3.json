@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "bí o bá ń pè ní òye, tí o sì ń gbé ohùn rẹ sókè fún ìmọ̀lágbára — òye;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o bá"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ní òye"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ń pè"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "fún ìmọ̀lágbára — òye"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tí o sì ń"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "gbé ohùn rẹ sókè"
+    }
+  ],
+  "timestamp": "2026-08-23T04:03:32.306771014Z",
+  "model": "glm-5.3"
+}

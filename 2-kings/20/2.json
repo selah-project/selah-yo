@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ó yí ojú rẹ padà sí ⟨את⟩ ọ̀nà ojú rẹ sí ⟨the⟩ ògiri náà, ó sì gbàdùrà sí Yahweh, pé:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Ó yí padà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú rẹ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "⟨the⟩ ògiri náà"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ó sì gbàdùrà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:37:06.797580441Z",
+  "model": "glm-5.3"
+}

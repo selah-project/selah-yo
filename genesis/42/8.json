@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Yosef sì mọ̀ ⟨את⟩ àwọn arágbájọ rẹ̀, ṣùgbọ́n wọn kò mọ̀ ọ́.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "ó sì mọ̀"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn arágbájọ rẹ̀"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "àwọn arágbájọ rẹ̀"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ṣùgbọ́n wọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "mọ̀ ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:40:14.465501883Z",
+  "model": "glm-5.3"
+}

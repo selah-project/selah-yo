@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Gbọ́, eyà ọmọbìrin, kí o sì rí, kí o sì tẹ etí rẹ dàgbà; ki o sì gbagbé ènìyàn rẹ, àti ilé baba rẹ.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "בת",
+      "gloss": "eyà ọmọbìrin"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "kí o sì rí"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "kí o sì tẹ... dàgbà"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "etí rẹ"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "ki o sì gbagbé"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ènìyàn rẹ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "àti ilé"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:55.837594457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Wọ́n rùn bí ẹ̀gbin, àwọn ẹjẹ́ mi ti wọ́ toratora nítorí àwọn àìgbọ́ràn mi.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "Wọ́n rùn bí ẹ̀gbin"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "ti wọ́ toratora"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "àwọn ẹjẹ́ mi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "àwọn àìgbọ́ràn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:12.992383366Z",
+  "model": "glm-5.3"
+}

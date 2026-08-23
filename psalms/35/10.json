@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Gbogbo ẹ̀rùn mi yóò wí pé: Yahweh, ta ni ó dà bí Ọ̀gà, ẹni tí ó ń gbà aláìní là lọ́wọ́ ènìyàn lágbára tí ó ju ọn lọ́, àti aláìní àti àwọn ẹ̀tùnkún lọ́wọ́ ẹni tí ó ń jì wón?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ẹ̀rùn mi"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "yóò wí pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ó dà bí Ọ̀gà"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ẹni tí ó ń gbà … là"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aláìní"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "lọ́wọ́ ènìyàn lágbára"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tí ó ju ọn lọ́"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "àti aláìní"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "àti àwọn ẹ̀tùnkún"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "lọ́wọ́ ẹni tí ó ń jì wón"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:56.228046467Z",
+  "model": "glm-5.3"
+}

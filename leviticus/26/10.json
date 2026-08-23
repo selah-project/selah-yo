@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ẹyin yóò jẹ ounjẹ àtijọ́ pẹ̀lú àwọn tí ó ti pẹ́ tó, ẹyin yóò sì sọ àtijọ́ jáde níwájú tí tuntun",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Ẹyin yóò jẹ"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ounjẹ àtijọ́"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "pẹ́ tó"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "àtijọ́"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "níwájú tí"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tuntun"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "ẹyin yóò sọ jáde"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:25.604758824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "àti sí àwọn tí ó wà ní Chormah, àti sí àwọn tí ó wà ní Bor-Ashan, àti sí àwọn tí ó wà ní Atach",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "àti sí àwọn tí"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "ní Chormah"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "àti sí àwọn tí"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ní Bor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "àti sí àwọn tí"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "ní Atach"
+    }
+  ],
+  "timestamp": "2026-08-23T00:54:30.935089931Z",
+  "model": "glm-5.3"
+}

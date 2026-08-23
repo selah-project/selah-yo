@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Yẹ kúrò lọ́dọ̀ mi, gbogbo ẹlẹṣẹ̀ tàwọn ti ń ṣiṣẹ́ aìṣẹ̀tutù; nítorí Yahweh ti gbọ́ ohùn ìkígbe ti ń sọ́rọ̀.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "yẹ kúrò"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "lọ́dọ̀ mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "àwọn ti ń ṣiṣẹ́"
+    },
+    {
+      "surface": "און",
+      "gloss": "aìṣẹ̀tutù"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ti gbọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "ìkígbe ti ń sọ́rọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:21:47.003780571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Avraham sì jẹ́ ọmọ ọgọ́rún ọdún nígbà tí ⟨את⟩ Yitschak, ọmọ rẹ̀, bí fún un.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Avraham sì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ọgọ́rún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "nígbà tí a bí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:00:24.595644620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Nítorí ìwọ ni ó ti gbà wa là kúrò lọ́dọ̀ àwọn ọ̀tá wa, ìwọ sì ti ṣe àwọn tí ó kórìíra wa ní àìníyà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "ìwọ ti gbà wa là"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "kúrò lọ́dọ̀ àwọn ọ̀tá wa"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "àti àwọn tí ó kórìíra wa"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "ò ṣe ní àìníyà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:58.018893505Z",
+  "model": "glm-5.3"
+}

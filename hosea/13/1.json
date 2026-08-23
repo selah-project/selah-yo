@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Nígbà tí Efrayim bá sọ̀rọ̀, ìrèsì ń bà wọ́n; ó ga ara rẹ̀ nínú Israẹli; ṣùgbọ́n nígbà tí ó ṣẹ̀ àṣẹ̀ nínú Baal, ó kú.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "nígbà tí ó bá sọ̀rọ̀"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "ìrèsì"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ó ga ara rẹ̀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nínú Israẹli"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "ó ṣẹ̀ àṣẹ̀"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "nínú Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ó kú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:04:22.493806795Z",
+  "model": "glm-5.3"
+}

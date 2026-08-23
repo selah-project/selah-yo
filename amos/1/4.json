@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Èmi sì yóò fi iná ránṣẹ́ sí ilé Chazael, ó sì jẹ àwọn ààfin Ben-Hadad.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Èmi sì yóò fi…ránṣẹ́"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sí ilé"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ó sì jẹ"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "àwọn ààfin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    }
+  ],
+  "timestamp": "2026-08-23T03:06:46.503822713Z",
+  "model": "glm-5.3"
+}

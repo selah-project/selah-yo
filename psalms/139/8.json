@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Tí mo bá gorí ọ̀run, ìwọ wà níbẹ̀; tí mo bá sì te ìtẹ sí Sheol, kíyèsi, ìwọ ní í wà níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí mo bá"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "gorí"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ wà"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "mo sì te ìtẹ sí"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "kíyèsi, ìwọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:06.776254641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Wọ́n sì sọ fún àwọn ènìyàn pé, Ẹ kọjá, ẹ sì ka ⟨את⟩ ìlú yìí ká, àwọn jagunjagun sì yóò kọjá síwájú àpótí Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Wọ́n sì sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "Ẹ kọjá"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "ẹ sì ka ... ká"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìlú yìí"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú yìí"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "àwọn jagunjagun"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "yóò kọjá"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "àpótí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:24:33.448306977Z",
+  "model": "glm-5.3"
+}

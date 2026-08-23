@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Elohim sì pàṣẹ kí ṣọ̀nkún tó bá ìmọ́lẹ̀ owúrọ́ ń dókè, ní ọjọ́ áìpẹ́ yìí; ó sì lu ⟨את⟩ qiqayon náà, ó sì gbẹ.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "sì pàṣẹ kí"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ṣọ̀nkún tó"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "bá ìmọ́lẹ̀ owúrọ́ ń dókè"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "owúrọ́"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "ní ọjọ́ áìpẹ́ yìí"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "ó sì lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiqayon náà"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "qiqayon náà"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ó sì gbẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:11:20.341489278Z",
+  "model": "glm-5.3"
+}

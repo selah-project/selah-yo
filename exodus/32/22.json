@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Aharon sì wí: Má ṣe jẹ́ kí bínú olúwa mi gboná; ìwọ ti mọ ⟨את⟩ gbogbo ènìyàn yìí, pé ipo búburú ni wọ́n wà.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "jẹ́ kí… gboná"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bínú"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "olúwa mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ti mọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ènìyàn yìí"
+    },
+    {
+      "surface": "העם",
+      "gloss": "gbogbo ènìyàn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "nínú búburú"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:18.734740647Z",
+  "model": "glm-5.3"
+}

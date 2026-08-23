@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àti pẹ̀lú yín ni ⟨את⟩ ẹni tí ó jẹ́ ọkùnrin-ẹni, fún ẹ̀yà kọ̀ọ̀kan; ọkùnrin tí ó jẹ́ olórí ilé àwọn baba rẹ̀, òun ni.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "àti pẹ̀lú ⟨את⟩ yín"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ní"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin-ẹni"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "fún ẹ̀yà kọ̀ọ̀kan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "àwọn baba rẹ̀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:48:26.327650067Z",
+  "model": "glm-5.3"
+}

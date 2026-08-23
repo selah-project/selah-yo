@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 10:2",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó sì ṣẹlẹ̀, nígbà tí Yarovam ọmọ Nevat gbọ́ — àti pé òun wà ní Ejíptì, ibi tí ó sá sí lọ́wọ́ ojú Shelomo ọba — Yarovam padà wá láti Ejíptì.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nígbà tí ó gbọ́"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "àti pé òun"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "wà ní Ejíptì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ó sá"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "lówọ́ ojú"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó padà wá"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "láti Ejíptì"
+    }
+  ],
+  "timestamp": "2026-08-23T06:12:52.116742427Z",
+  "model": "glm-5.3"
+}

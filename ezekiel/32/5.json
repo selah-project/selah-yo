@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Èmi yóò sọ ⟨את⟩ ẹran ara rẹ sí orí àwọn òkè, èmi yóò sọ àwọn àlà odi kún pẹ̀lú gbogbo ọ̀run ara rẹ.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Èmi yóò sọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹran ara rẹ"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "ẹran ara rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "èmi yóò sọ … kún"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "àwọn àlà odi"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "gbogbo ọ̀run ara rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:49:12.571897531Z",
+  "model": "glm-5.3"
+}

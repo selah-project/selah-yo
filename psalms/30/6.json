@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Nítorí ìgbà díẹ̀ ni ìbínú rẹ̀; ìyè wà nínú ìfẹ́ rẹ̀; alẹ́ ni tí ṣòfò ń gbé, ṣùgbọ́n sí àárọ̀ ni orin ayò dé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ìgbà-díẹ̀"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "nínú-ìbínú-rẹ̀"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ìyè"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "nínú-ìfẹ́-rẹ̀"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "alẹ́-ní"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ń-gbé"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ṣòfò"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "ṣùgbọ́n-sí-àárọ̀"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "orin-ayò"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:54.752371220Z",
+  "model": "glm-5.3"
+}

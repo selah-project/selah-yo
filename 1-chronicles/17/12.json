@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ìyẹn ẹni yóò kọ́ ilé fún mi, èmi yóò sì gbé ⟨את⟩ ìtẹ́ rẹ lé mọ́ títí dé àìnípẹ̀kun.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ìyẹn ẹni"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "yóò kọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "èmi yóò sì gbé lé mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìtẹ́ rẹ"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ìtẹ́ rẹ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "àìnípẹ̀kun"
+    }
+  ],
+  "timestamp": "2026-08-23T05:16:46.906004287Z",
+  "model": "glm-5.3"
+}

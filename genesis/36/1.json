@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Àwọn ìbí wọnyí ni ti Esav, òun ni Edom.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Àwọn ìbí wọnyí ni"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ìbí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:33.061632534Z",
+  "model": "glm-5.3"
+}

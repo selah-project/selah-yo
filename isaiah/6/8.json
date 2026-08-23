@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Mo sì gbọ́ ohùn Adonai tí ó ń wí: ⟨את⟩ tani ni mo fi ránṣẹ́, àti tani ni yóò lọ fún wa? Mo sì wí: Èmi ni; fi mi ránṣẹ́.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Mo sì gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohùn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tí ó ń wí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tani"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ni mo fi ránṣẹ́"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "àti tani"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ni yóò lọ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Mo sì wí"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Èmi ni"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "fi mi ránṣẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:42:44.298418689Z",
+  "model": "glm-5.3"
+}

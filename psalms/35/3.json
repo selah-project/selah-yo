@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Mú ọ̀ṣọ́ jáde, ti ọ̀nà ti àwọn olùlè mí; sọ fún ẹ̀mí mi: Ìgbàlà rẹ ni èmi.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "mú ... jáde"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ọ̀ṣọ́"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ti ọ̀nà"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ní ọ̀nà tí"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "àwọn olùlè mí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "fún ẹ̀mí mi"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "ìgbàlà rẹ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:04.183298756Z",
+  "model": "glm-5.3"
+}

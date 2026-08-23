@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Má ṣe fi mí sílẹ̀, Yahweh, Elohim mi; má ṣe jìnnà sí mi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "fi mí sílẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jìnnà"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T06:19:52.060565217Z",
+  "model": "glm-5.3"
+}

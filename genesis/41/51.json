@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Yosef sì pè ⟨את⟩ orúkọ àkọ́bí Menasheh; nítorí Elohim ti ṣe mí láìrántí ⟨את⟩ gbogbo ìṣẹ́ mi, àti ⟨את⟩ gbogbo ilé baba mi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sì pè"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "àkọ́bí"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "ṣe mí láìrántí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "ìṣẹ́ mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba mi"
+    }
+  ],
+  "timestamp": "2026-08-23T05:40:27.175319020Z",
+  "model": "glm-5.3"
+}

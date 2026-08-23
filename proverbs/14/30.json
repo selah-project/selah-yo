@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ọkàn tí ó ní àlàáfíà ni ìyè ara, ṣùgbọ́n ìkékerá-ènìyàn jẹ́ ìrùn egungun.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "ìyè"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ara"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "àlàáfíà (ìwòsàn)"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "ṣùgbọ́n ìrùn"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "egungun"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ìkékerá-ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:07:33.731579292Z",
+  "model": "glm-5.3"
+}

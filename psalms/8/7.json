@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "O jẹ́ kí ó jogún bori <⟨the⟩> àwọn iṣẹ́ ọwọ́ rẹ; gbogbo wọn ló gbé sí abẹ́ ẹsẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "O jẹ́ kí ó jogún bori"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "nínu àwọn iṣẹ́"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo wọn"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ló gbé sí"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "abẹ́"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ẹsẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:28.013268064Z",
+  "model": "glm-5.3"
+}

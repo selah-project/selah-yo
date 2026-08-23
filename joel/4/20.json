@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ṣùgbọ́n Yehudah yóò gbẹ́dọ̀ gbé títí láéláé, àti Yerushalayim láti ìran dé ìran.",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "Ṣùgbọ́n Yehudah"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láéláé"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "yóò gbẹ́dọ̀ gbé"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "àti Yerushalayim"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "láti ìran"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "dé ìran"
+    }
+  ],
+  "timestamp": "2026-08-23T03:05:48.502168096Z",
+  "model": "glm-5.3"
+}

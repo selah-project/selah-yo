@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Olùtúrà náà sọ pé: èmi kò lè túra fúnra mi, kí ó má baà jẹ́ kí ètò-òun mi run; túra fúnra rẹ — ìwọ — ⟨את⟩ ẹ̀tọ́-túrà mi, nítorí èmi kò lè túra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "olùtúrà náà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "túra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fúnra mi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí ó má baà"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "jẹ́ kí…run"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ètò-òun mi"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "ètò-òun mi"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "túra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fúnra rẹ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀tọ́-túrà mi"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "ẹ̀tọ́-túrà mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "túra"
+    }
+  ],
+  "timestamp": "2026-08-23T04:35:10.351528776Z",
+  "model": "glm-5.3"
+}

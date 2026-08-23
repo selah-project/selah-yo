@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ọ̀rẹ́ ni èmí sí gbogbo àwọn tí ń bẹ̀rà nítorí rẹ, àti sí àwọn tí ń ṣọ́ àwọn òfin rẹ.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "ọ̀rẹ́"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmí"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sí gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "ń bẹ̀rà nítorí rẹ"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "àti sí àwọn tí ń ṣọ́"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "àwọn òfin rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:39.761705789Z",
+  "model": "glm-5.3"
+}

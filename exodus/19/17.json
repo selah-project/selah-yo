@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Moshe sì mú ⟨את⟩ àwọn ènìyàn jáde láti inú ààfin láti pàdé Elohim, wọ́n sì dúró ní abẹ́ òkè naa.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "sì mú jáde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "láti pàdé"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti inú"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ààfin"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "wọ́n sì dúró"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "ní abẹ́"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "òkè naa"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:13.336636862Z",
+  "model": "glm-5.3"
+}

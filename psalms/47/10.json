@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Àwọn aṣojú àwọn ènìyàn ti péjọ pọ̀, ⟨gẹ́gẹ́ bí⟩ ènìyàn Ọlọ́hun Avraham; nítorí tí ti Elohim ni àwọn ààbò ilẹ̀ ayé — ó gòógòó jù lọ.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "àwọn aṣojú"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ti péjọ pọ̀"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Ọlọ́hun"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ti Elohim ni"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "àwọn ààbò"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "jù lọ"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "ó gòógòó"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:36.568472904Z",
+  "model": "glm-5.3"
+}

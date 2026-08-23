@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Bí ìjìnnà ti ìlà-oòrùn fi jìnnà sí ìwọ-oòrùn, bẹ́ẹ̀ ni ó ti fi ⟨את⟩ àwọn ìṣẹ̀ wa jìnnà kúrò lọ́dọ̀ wa.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "bí ìjìnnà ti"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ìlà-oòrùn"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "sí ìwọ-oòrùn"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "fi ... jìnnà"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kúrò lọ́dọ̀ wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìṣẹ̀ wa"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "àwọn ìṣẹ̀ wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:22.269259685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Bíi ìdígbà ni Ìwọ ti ti gbogbo ègbèlúgburú ilẹ̀ ayé kúrò; nítorí náà, mo fẹ́ràn ẹ̀rí rẹ.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "bíi ìdígbà"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Ìwọ ti ... kúrò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "ègbèlúgburú"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mo fẹ́ràn"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ẹ̀rí rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:16.403521485Z",
+  "model": "glm-5.3"
+}

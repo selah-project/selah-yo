@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 134,
+  "translation": "Orin ti ìgìlẹ̀. Kií, ẹ gbéyàwọ́ ⟨את⟩ Yahweh, gbogbo àwọn ìránṣẹ́ Yahweh, àwọn tí ó dúró nínú ilé Yahweh ní àwọn òru.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ti ìgìlẹ̀"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kií"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ẹ gbéyàwọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "àwọn tí ó dúró"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nínú ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ní àwọn òru"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:01.390167583Z",
+  "model": "glm-5.3"
+}

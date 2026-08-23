@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Kórìíra rẹ gbà àwọn ìbínú rẹ kọjá lórí mi; àwọn ìrù ẹrù rẹ ti pa mí run mọ́lẹ̀.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "wọ́n ti kọjá"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "àwọn ìbínú rẹ"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "àwọn ìrù ẹrù rẹ"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "wọ́n ti pa mí run mọ́lẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:10.608821863Z",
+  "model": "glm-5.3"
+}

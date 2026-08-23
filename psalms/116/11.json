@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Èmi mo wí, nínú ìpẹ́lẹ́ mi, pé gbogbo ènìyàn ni éléké.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mo wí"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "nínú ìpẹ́lẹ́ mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ni éléké"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:12.394224559Z",
+  "model": "glm-5.3"
+}

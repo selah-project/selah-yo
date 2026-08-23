@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Nígbà náà wọ́n kígbe sí Yahweh ní ìṣòro wọn, ó gbà wọn yọ kúrò nínú àwọn ìṣòro wọn.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Nígbà náà wọ́n kígbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ní ìṣòro"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "kúrò nínú àwọn ìṣòro wọn"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "ó gbà wọn yọ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:43.029345813Z",
+  "model": "glm-5.3"
+}

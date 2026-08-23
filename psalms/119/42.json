@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Nítorí náà èmi ó lè dá ẹni tí ó ń bu mi lẹ́gàn lóhún nípa ⟨ọ̀rọ̀⟩; nítorí tí mo gbẹ́yàn lé ọ̀rọ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "nítorí náà èmi ó lè dá lóhún"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "ẹni tí ó ń bu mi lẹ́gàn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨ọ̀rọ̀⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mo gbẹ́yàn lé"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "ọ̀rọ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:31.677376424Z",
+  "model": "glm-5.3"
+}

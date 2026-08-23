@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Àti tí Dafidi ọba gbọ́ ⟨את⟩ gbogbo ọ̀rọ̀ wọnyí, ó bínú gidigidi.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Àti tí ọba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọ̀rọ̀ wọnyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ó bínú"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨un⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gidigidi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:48.567023965Z",
+  "model": "glm-5.3"
+}

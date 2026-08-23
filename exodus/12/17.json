@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 12:17",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ẹ̀yin yóò ṣọ́ ⟨את⟩ àwọn oúnjẹ tí kò gbé: nítorí ní ọjọ́ yìí gan-an ni mo ti mú ⟨את⟩ àwọn ọmọ-ogun yín jáde kúrò nínú ilẹ̀ Mitsrayim; ẹ̀yin yóò ṣọ́ ⟨את⟩ ọjọ́ yìí fún àwọn ìran yín — òfin àígbére.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ẹ̀yin yóò ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn oúnjẹ tí kò gbé"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "àwọn oúnjẹ tí kò gbé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ní … gan-an"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "mo ti mú jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ-ogun yín"
+    },
+    {
+      "surface": "צבאותיכם",
+      "gloss": "àwọn ọmọ-ogun yín"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kúrò nínú ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "ẹ̀yin yóò ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọjọ́ yìí"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "fún àwọn ìran yín"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "òfin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "àígbére"
+    }
+  ],
+  "timestamp": "2026-08-22T23:20:08.429070214Z",
+  "model": "glm-5.3"
+}

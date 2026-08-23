@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Wọ́n sì sìn àwọn òrìṣà ìkúdarà, nítorí tí Yahweh ti wí fún wọn pé, 'Ẹ kò gbọdọ̀ ṣe ⟨את⟩ ohun yìí.'",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "wọ́n sì sìn"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "àwọn òrìṣà ìkúdarà (gilulim)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò gbọdọ̀"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ẹ ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun yìí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ohun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:18.695917105Z",
+  "model": "glm-5.3"
+}

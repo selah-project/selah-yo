@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Má ṣe jẹ́ lára àwọn olùmu wáínì, lára àwọn olùjẹ ẹran, fúnra wọn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "jẹ́ lára"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "àwọn olùmu"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wáínì"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "àwọn olùjẹ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ẹran"
+    },
+    {
+      "surface": "למו",
+      "gloss": "fúnra wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:11:33.843174637Z",
+  "model": "glm-5.3"
+}

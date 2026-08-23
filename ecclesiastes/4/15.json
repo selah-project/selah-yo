@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Mo rí ⟨את⟩ gbogbo àwọn ènìyàn ààyè tí wọ́n ń rìn lábẹ́ òòrùn, pẹ̀lú ọmọ náà, èkejì, ẹnití yóò dúró ní ipò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "mo rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ènìyàn ààyè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "àwọn ènìyàn ààyè"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "tí wọ́n ń rìn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "òòrùn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ọmọ náà"
+    },
+    {
+      "surface": "השני",
+      "gloss": "èkejì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹnití"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "yóò dúró"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ní ipò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:14.482460709Z",
+  "model": "glm-5.3"
+}

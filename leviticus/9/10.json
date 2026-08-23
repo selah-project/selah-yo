@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ó sì sun ⟨את⟩ ọrà náà, ⟨את⟩ àwọn ìṣẹ̀dí, àti ⟨את⟩ èwe ẹ̀dọ̀ fúnra rẹ̀ láti inú ẹ̀dọ̀, jákè-jákè tí ó jẹ́ ẹ̀bẹ̀ ẹ̀ṣẹ̀ — lórí pẹpẹ́ náà ni ó fi sun mi, gẹ́gẹ́ bí Yahweh ti pàṣé ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọrà náà"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ọrà náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìṣẹ̀dí"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "àwọn ìṣẹ̀dí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "èwe ẹ̀dọ̀"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "èwe ẹ̀dọ̀"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti inú"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ẹ̀dọ̀"
+    },
+    {
+      "surface": "מן",
+      "gloss": "jákè-jákè tí ó jẹ́"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ẹ̀bẹ̀ ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "ó fi sun mi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lórí pẹpẹ́ náà"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pàṣé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:15.989116536Z",
+  "model": "glm-5.3"
+}

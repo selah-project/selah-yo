@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Avram sì jẹ́ ọmọ ọdún mẹ́jọdínlọ́gọ́rùn-ún àti mẹ́fà nígbà tí Hagar bi ⟨את⟩ Yishmael fún Avram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Avram sì jẹ́"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "mẹ́jọdínlọ́gọ́rùn-ún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "àti mẹ́fà"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "nígbà tí ... bi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "fún Avram"
+    }
+  ],
+  "timestamp": "2026-08-22T22:58:48.541933688Z",
+  "model": "glm-5.3"
+}

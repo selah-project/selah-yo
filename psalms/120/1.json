@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 120,
+  "translation": "Orin ìgòkè. sí Yahweh, nínú ìpẹ̀yà mí mo pé, ó sì dáhùn mí.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ìgòkè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "nínú ìpẹ̀yà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mo pé"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ó sì dáhùn mí"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:25.248485409Z",
+  "model": "glm-5.3"
+}

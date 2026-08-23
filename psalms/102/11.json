@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Nítorí ìbínú rẹ àti ìrẹ̀jẹ́ rẹ; nítorí ìwọ ti gbé mi sókè, ìwọ sì ti fi mi légbá.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ìbínú rẹ"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "àti ìrẹ̀jẹ́ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "ìwọ ti gbé mi sókè"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "ìwọ sì ti fi mi légbá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:20.766434050Z",
+  "model": "glm-5.3"
+}

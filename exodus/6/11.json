@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Wọlé, sọ sí Paroh, ọba Mitsrayim, kí ó gbé ⟨את⟩ àwọn ọmọ Yisrael jáde kúrò ní ilẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "wọlé"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kí ó gbé… jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "kúrò ní ilẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:50.856475148Z",
+  "model": "glm-5.3"
+}

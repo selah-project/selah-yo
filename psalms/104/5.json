@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Òun gbé ilẹ̀ ayé sí orí ìpìlẹ̀ rẹ̀; kì yóò máì yì kí ó sì máì títí.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "Òun gbé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "ìpìlẹ̀ rẹ̀"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "yóò yì"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "máì"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kí ó sì máì títí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:06.440347175Z",
+  "model": "glm-5.3"
+}

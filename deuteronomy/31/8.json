@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Yahweh sì ni Òun ń rín láwọ́ iwájú rẹ; Òun yóò wà pẹ̀lú rẹ; kì yóò fi rẹ sílẹ̀, kì yóò sì tì rẹ jẹ; má bẹ̀ru, má sì ya wá.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh sì ni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Òun"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ń rín"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "láwọ́ iwájú rẹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Òun"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pẹ̀lú rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "yóò fi rẹ sílẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì yóò sì"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "tì rẹ jẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bẹ̀ru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "má sì"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ya wá"
+    }
+  ],
+  "timestamp": "2026-08-23T00:21:57.006738385Z",
+  "model": "glm-5.3"
+}

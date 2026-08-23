@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Kọ́ mi ní ẹ̀kọ́, Yahweh, ọ̀nà àwọn òfin rẹ, kí èmi sì pa á mọ́ títí dé ìparí.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Kọ́ mi ní ẹ̀kọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "àwọn òfin rẹ"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "kí èmi sì pa á mọ́"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "títí dé ìparí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:39.333949081Z",
+  "model": "glm-5.3"
+}

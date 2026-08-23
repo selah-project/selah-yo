@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 129,
+  "translation": "Púpọ̀ ni wọ́n ti ṣọ́ mi láti ìgbà èwe mi; ṣùgbọ́n wọn kò lagbara lé mi lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Púpọ̀"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "wọ́n ti ṣọ́ mi"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "láti ìgbà èwe mi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "lagbara lọ́wọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lé mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:07.146914218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Yahweh ⟨⟨jẹ́⟩⟩ ńlá, ó sì tọ́ sí ìyìn púpọ̀, nínú ìlú Elohim wa, òkè mímọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ó sì tọ́ sí ìyìn"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nínú ìlú"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mímọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:43.450823372Z",
+  "model": "glm-5.3"
+}

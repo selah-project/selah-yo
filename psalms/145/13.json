@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Ìjọba rẹ ni ìjọba gbogbo ọjọ́ tí ń ṣàn, àti ìṣàkóso rẹ nígbà gbogbo, ní ìran àti ní ìran.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "ìjọba rẹ"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "ọjọ́ tí ń ṣàn"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "àti ìṣàkóso rẹ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nígbà gbogbo ní"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "àti ìran"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:15.141574020Z",
+  "model": "glm-5.3"
+}

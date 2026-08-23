@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Àti ⟨את⟩ Yehu ọmọ Nimshi, fi òróró yò ó ní ipò ọba lórí Yisra'el; àti ⟨את⟩ Elisha ọmọ Shafat, ti Abel-Mehola, fi òróró yò ó ní ipò wòlíì ní ipò rẹ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "fi òróró yò ó"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ní ipò ọba"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elisha"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shafat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "ti Abel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mehola"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "fi òróró yò ó"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "ní ipò wòlíì"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ní ipò rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:23:25.419095909Z",
+  "model": "glm-5.3"
+}

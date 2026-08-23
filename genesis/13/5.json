@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ìgbà kan náà, sí Lot, tí ó ń rin pẹ̀lú ⟨את⟩ Avram, ó ní àgbo àti maalu àti àwọn ahọ́.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ìgbà kan náà sí"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "tí ó ń rin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ó ní"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "àgbo"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "àti maalu"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "àti àwọn ahọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T22:58:17.118827242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 143,
+  "translation": "Àti nínú chesed Rẹ, pa àwọn ọ̀tá mi run, ó sì parun gbogbo àwọn tí ń láàmìjánu ẹ̀mí mi; nítorí tí èmi ni ìránṣẹ́ Rẹ.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Àti nínú chesed Rẹ"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "pa … run"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "ó sì parun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "àwọn tí ń láàmìjánu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ́ Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:52.451748465Z",
+  "model": "glm-5.3"
+}

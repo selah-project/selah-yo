@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Yahweh, Elohim yín, ẹni tí ó ń rìn tíwọ́n yín — òun ni yóò ṣe ogun fún yín, géégé bí i gbogbo tí ó ti ṣe ⟨את⟩ pẹ̀lú yín ní Mitzrayim níwájú ojú yín.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ẹni tí ó ń rìn"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "tíwọ́n yín"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "yóò ṣe ogun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "géégé bí i gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ti ṣe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pẹ̀lú yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ní Mitzrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "níwájú ojú yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:03.555044678Z",
+  "model": "glm-5.3"
+}

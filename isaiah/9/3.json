@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Nítorí pé ⟨את⟩ ẹ̀wọ̀n ẹrù rẹ̀ àti ⟨את⟩ ọ̀pá èjìká rẹ̀, ọ̀pá olùnjẹ lórí i — O ti fọ́ ⟨ẹyọ́ wọn⟩ wá, gẹ́gẹ́ bí ọjọ́ Midian.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀wọ̀n ẹrù rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "ẹ̀wọ̀n"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "ẹrù rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọ̀pá èjìká rẹ̀"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ọ̀pá"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "èjìká rẹ̀"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ọ̀pá"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "olùnjẹ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lórí i"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "O ti fọ́ wá"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "gẹ́gẹ́ bí ọjọ́"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    }
+  ],
+  "timestamp": "2026-08-23T01:43:18.766478211Z",
+  "model": "glm-5.3"
+}

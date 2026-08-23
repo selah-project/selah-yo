@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "⟨את⟩ Ọkọ̀ ẹlẹ́sẹ̀ méjì àti ⟨את⟩ màlúù márùn-ún ó fún àwọn ọmọ Gershon, gẹ́gẹ́ bí ìwọ̀n iṣẹ́ wọn ṣe jẹ́.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ọkọ̀ ẹlẹ́sẹ̀ méjì"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ọkọ̀ ẹlẹ́sẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "màlúù márùn-ún"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "márùn-ún"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "màlúù"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ó fún"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gẹ́gẹ́ bí ìwọ̀n"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "iṣẹ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:50:46.765808960Z",
+  "model": "glm-5.3"
+}

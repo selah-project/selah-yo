@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 83,
+  "translation": "Elohim, má ṣe jẹ kí ìdákẹ́jẹ́ wà fún ọ, má ṣe pẹ́nu, kí ó sì má ṣe jẹ kí o dúró láìsùn, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "jẹ́ kí ìdákẹ́jẹ́ wà fún ọ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "pẹ́nu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí ó sì má ṣe"
+    },
+    {
+      "surface": "תשqט",
+      "gloss": "jẹ kí o dúró láìsùn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:41.151072378Z",
+  "model": "glm-5.3"
+}

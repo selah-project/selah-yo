@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Gbé ènìyàn aláìríran tí ó ní ojú jáde, àti àwọn adìtirìn tí ó ní etí.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "gbé … jáde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "עור",
+      "gloss": "aláìríran"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "tí ó ní ojú"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨wà⟩"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "àti àwọn adìtirìn"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "tí ó ní etí"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨wà fún wọn⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T01:56:06.091092352Z",
+  "model": "glm-5.3"
+}

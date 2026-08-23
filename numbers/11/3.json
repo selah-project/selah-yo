@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó sì pè orúkọ ibi ìyẹn ní Taberah, nítorí iná Yahweh ti jẹ wọ́n.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ó sì pè"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ìyẹn"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Taberah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ti jẹ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T05:43:58.637130343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Ìgbóná-yẹ̀yẹ̀ ni àgbọ̀n tí ó gbẹ, àti ilẹ̀ tí ó gbẹ gan-an; ó máa dùnàn fẹ́rẹ̀fẹ́rẹ̀, àgbọ̀n gbẹ kuukuù sì máa hàn bíi hádásálà.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "ó máa dùnàn fẹ́rẹ̀fẹ́rẹ̀"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "àgbọ̀n tí ó gbẹ"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "àti ilẹ̀ tí ó gbẹ gan-an"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ó máa yọ̀ sílẹ̀"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "àgbọ̀n gbẹ kuukuù"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ó sì máa hàn"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "bíi hádásálà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:52:45.701556245Z",
+  "model": "glm-5.3"
+}

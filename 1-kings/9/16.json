@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Pharaoh ọba Mitzrayim ti gbé sókè, ó sì gba Gezer, ó sì jọ́ ọ́ iná, ó sì pa Kenaani tí ó ń gbé nínú ìlú náà, ó sì fi fún ọmọ-bìnrin rẹ̀, ìyàwó Shlomo, gẹ́gẹ́ bí ẹbùn ìgbéyàwó.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ti gbé sókè"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "Ó sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "Ó sì jọ́ ọ́"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "tí ó ń gbé"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nínú ìlú náà"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ó sì pa"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "Ó sì fi fún"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "gẹ́gẹ́ bí ẹbùn ìgbéyàwó"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "ọmọ-bìnrin rẹ̀"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ìyàwó"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    }
+  ],
+  "timestamp": "2026-08-23T01:17:07.058735186Z",
+  "model": "glm-5.3"
+}

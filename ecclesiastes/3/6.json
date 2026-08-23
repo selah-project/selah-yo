@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àkókò láti wá, àti àkókò láti sọ̀nù; àkókò láti pa mọ́, àti àkókò láti fi sílẹ̀ já.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "àkókò"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "láti wá"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "àti àkókò"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "láti sọ̀nù"
+    },
+    {
+      "surface": "עת",
+      "gloss": "àkókò"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "láti pa mọ́"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "àti àkókò"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "láti fi sílẹ̀ já"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:10.504919067Z",
+  "model": "glm-5.3"
+}

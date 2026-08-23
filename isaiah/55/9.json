@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Nítorí bí àwọn ọ̀run ṣe ga ju ayé lọ, bẹ́ẹ̀ gẹ́gẹ́ ni àwọn ọ̀nà mi ṣe ga ju àwọn ọ̀nà yín lọ, àti èrò mi ju èrò yín lọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ju ayé lọ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ gẹ́gẹ́"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "àwọn ọ̀nà mi"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "ju àwọn ọ̀nà yín lọ"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "àti èrò mi"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "ju èrò yín lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:00:52.515451723Z",
+  "model": "glm-5.3"
+}

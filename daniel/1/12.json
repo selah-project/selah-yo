@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Dán wá ⟨את⟩ àwọn ìránṣẹ́ rẹ fún ọjọ́ mẹ́wàá, kí wọ́n sì fún wa ní wẹ́wẹ́ láti inú àwọn èso-àjọra láti jẹ, àti omi láti mu.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Dán wá"
+    },
+    {
+      "surface": "נא",
+      "gloss": "wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "àwọn ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "kí wọ́n sì fún"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti inú"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "àwọn èso-àjọra"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "láti jẹ"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "àti omi"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "láti mu"
+    }
+  ],
+  "timestamp": "2026-08-23T04:46:34.117535914Z",
+  "model": "glm-5.3"
+}

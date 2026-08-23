@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ayé sì gbá rúrú, ó sì rú; ìpilẹ̀ṣẹ̀ àwọn òkè sì gbá wàrà-wàrà, wọ́n sì gbágan — nítorí pé bínú bí iná kó o.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "sì gbá rúrú"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ó sì rú"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "ìpilẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "gbá wàrà-wàrà"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "wọ́n sì gbágan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "bínú bí iná"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kó o"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:54.414083881Z",
+  "model": "glm-5.3"
+}

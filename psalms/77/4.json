@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 77,
+  "translation": "Mo rántí Elohim, mo sì búnú; mo ronú jinlẹ̀, ẹ̀mí mi sì fi agbára hù. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "mo rántí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "mo sì búnú"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mo ronú jinlẹ̀"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "sì fi agbára hù"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:36.293261973Z",
+  "model": "glm-5.3"
+}

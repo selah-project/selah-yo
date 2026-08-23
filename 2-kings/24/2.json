@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 24:2",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Yahweh sì rán àwọn ọmọ-ogun Kasdim sí i, ⟨את⟩ àwọn ọmọ-ogun Aram, ⟨את⟩ àwọn ọmọ-ogun Moab, àti ⟨את⟩ àwọn ọmọ-ogun àwọn ọmọ Ammon; ó sì rán wọ́n sí Yehuda láti pa á run, gẹ́gẹ́ bí ọ̀rọ̀ Yahweh tí ó sọ nípa ọwọ́ àwọn ìránṣẹ́ rẹ̀, àwọn wòlíì.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì rán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ-ogun Kasdim"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "àwọn ọmọ-ogun"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ-ogun Aram"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "àwọn ọmọ-ogun"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ-ogun Moab"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "àwọn ọmọ-ogun"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ-ogun àwọn ọmọ Ammon"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "àwọn ọmọ-ogun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ó sì rán wọ́n"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "sí Yehuda"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "láti pa á run"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "gẹ́gẹ́ bí ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nípa ọwọ́"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "àwọn wòlíì"
+    }
+  ],
+  "timestamp": "2026-08-23T01:40:00.956687153Z",
+  "model": "glm-5.3"
+}

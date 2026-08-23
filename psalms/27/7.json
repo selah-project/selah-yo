@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Gbọ́, Yahweh, ohùn mi ní mo ń pè; ṣe àánú fún mi, dàhùn mi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mo ń pè"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ṣe àánú fún mi"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "dàhùn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:13.794894414Z",
+  "model": "glm-5.3"
+}

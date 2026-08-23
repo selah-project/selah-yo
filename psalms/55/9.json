@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Mo máa ṣìyára fúnra mi lọ sáàbọ̀, kúrò nínú afẹ́fẹ́ tí ó ń sà, kúrò nínú ìjì.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "mo máa ṣìyára"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "sáàbọ̀"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fúnra mi"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "kúrò nínú afẹ́fẹ́"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "tí ó ń sà"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "kúrò nínú ìjì"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:57.148107751Z",
+  "model": "glm-5.3"
+}

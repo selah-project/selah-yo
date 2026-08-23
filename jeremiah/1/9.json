@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Yahweh sọ ọwọ́ rẹ̀ jáde, ó kàn ⟨את⟩ ọwọ́ rẹ̀ sí ẹnu mi, ó sì kàn ẹnu mi; Yahweh sì wí fún mi pé: Wò ó, mo ti fi ọ̀rọ̀ mi sí ẹnu rẹ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ó sọ jáde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "ó kàn"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mo ti fi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀ mi"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "sí ẹnu rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:04:42.078062891Z",
+  "model": "glm-5.3"
+}

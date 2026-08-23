@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ìdòtí á padà sí ilẹ̀ ayé gẹ́gẹ́ bí ó ti wà tẹ́lẹ̀, ẹ̀mí sì á padà sí ọ̀dọ̀ Elohim tí ó fún un ní.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "á padà"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "Ìdòtí"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "gẹ́gẹ́ bí ó ti wà tẹ́lẹ̀"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "ẹ̀mí sì"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "á padà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ó fún un ní"
+    }
+  ],
+  "timestamp": "2026-08-23T04:44:00.038803438Z",
+  "model": "glm-5.3"
+}

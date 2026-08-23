@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 6:32",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àti àwọn ilẹ̀kùn iggi ọlọ́jọ́ méjì, ó kẹ́mi lórí wọn àwọn ìkọ̀-ìkẹ́mi kerubu àti ìgi-ọ̀pẹ̀ àti àwọn sọ̀ọ́sọ̀ tó ti tán, ó sì bọ́ pẹ̀lú wúrà, ó sì sọ̀ kalẹ̀ sí orí àwọn kerubu àti sí orí àwọn ìgi-ọ̀pẹ̀ ⟨את⟩ wúrà náà.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "àwọn ilẹ̀kùn"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "iggi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ọlọ́jọ́"
+    },
+    {
+      "surface": "וקלע",
+      "gloss": "ó kẹ́mi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lórí wọn"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "àwọn ìkọ̀-ìkẹ́mi"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubu"
+    },
+    {
+      "surface": "ותמרות",
+      "gloss": "ìgi-ọ̀pẹ̀"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "àwọn sọ̀ọ́sọ̀ tó ti tán"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "sọ̀ọ́sọ̀"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "ó sì bọ́ (pẹ̀lú wúrà)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ó sì sọ̀ kalẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "àwọn kerubu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti sí orí"
+    },
+    {
+      "surface": "התמרות",
+      "gloss": "àwọn ìgi-ọ̀pẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wúrà náà"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:13:04.316139908Z",
+  "model": "glm-5.3"
+}

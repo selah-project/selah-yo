@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Etí ní wọn ṣì, ṣùgbọ́n wọn kò gbọ́; bẹ́ẹ̀ gẹ́gẹ́, ẹmi kò sí nínú ẹnu wọn.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "etí"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ní wọn ṣì"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n … kò"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bẹ́ẹ̀ gẹ́gẹ́"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨wà⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹmi"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "nínú ẹnu wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:08.261230450Z",
+  "model": "glm-5.3"
+}

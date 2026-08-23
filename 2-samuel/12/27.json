@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Yoabu sì rán àwọn olùránṣẹ́ lọ sí ọ̀dọ̀ Davidi, ó sì wí pé, 'Mo bá Rabbah ja ogun, mo sì ti gba ⟨את⟩ ìlú omi náà.'",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì rán … lọ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "àwọn olùránṣẹ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "Mo bá … ja ogun"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sì … ti"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "Mo ti gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìlú omi náà"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "המים",
+      "gloss": "omi náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:20.674010634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Ó sì máa wà lààyè, wọ́n sì máa fún un ní wúrà Shéba; wọ́n sì máa gbàdùrà fún un nígbà gbogbo, gbogbo ọjọ́ ni wọ́n ń bùkún un",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ó sì máa wà lààyè"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wọ́n sì máa fún"
+    },
+    {
+      "surface": "לו",
+      "gloss": "un"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ní wúrà"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shéba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "wọ́n sì máa gbàdùrà"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "ni wọ́n ń bùkún un"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:04.111537078Z",
+  "model": "glm-5.3"
+}

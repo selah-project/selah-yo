@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Mo ti gé májẹ̀mú pẹ̀lú ẹni tí mo yàn; mo ti búra fún Davidi, ìránṣẹ́ mi.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "mo ti gé"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "pẹ̀lú ẹni tí mo yàn"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mo ti búra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún Davidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ìránṣẹ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:14.430700967Z",
+  "model": "glm-5.3"
+}

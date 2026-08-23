@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Egbé ni fún ẹni tí ó bá sùn pẹ̀lú ẹranko kínní; gbogbo ènìyàn náà sì máa wí pé, Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Egbé ni fún"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ẹni tí ó bá sùn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kínní"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "sì máa wí pé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-23T00:18:24.676330799Z",
+  "model": "glm-5.3"
+}

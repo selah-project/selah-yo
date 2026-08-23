@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Akọ àti abo ni ó dá wọn, ó sì bùkún ⟨את⟩ wọn, ó sì pè ⟨את⟩ orúkọ wọn ní Adam, ní ọjọ́ tí wọ́n dá wọn.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "akọ"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "àti abo"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "dá wọn"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "sì bùkún"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sì pè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ wọn"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "orúkọ wọn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "tí wọ́n dá wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:38.340716410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Gẹ́gẹ́ bí ọwọ́ mi ti rí fún àwọn ìjọba elil, àti àwọn ìhòwọ̀n wọn ti ó ju ti Yerushalayim àti ti Shomron lọ,",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Gẹ́gẹ́ bí tí"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ti rí"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "fún àwọn ìjọba"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "elil"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "àti àwọn ìhòwọ̀n wọn"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ju ti Yerushalayim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "àti ti Shomron"
+    }
+  ],
+  "timestamp": "2026-08-23T01:43:33.410227524Z",
+  "model": "glm-5.3"
+}

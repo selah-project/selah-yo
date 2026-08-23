@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ó gbé á jóń́gọ́ sí ipò adarí ilé rẹ̀, ó sì jẹ́ olórí lórí gbogbo ohun ìní rẹ̀.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Ó gbé á jóń́gọ́ sí ipò"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "adarí"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ó sì jẹ́ olórí lórí"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "ohun ìní rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:42.029981792Z",
+  "model": "glm-5.3"
+}

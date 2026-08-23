@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 17:38",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Shaul sì wọ́ Dawid ⟨את⟩ aṣọ rẹ̀, ó sì fi déèdé idìwọ̀ọ́ (kòpà) sí orí rẹ̀, ó sì wọ́ ⟨את⟩ ìràwọ̀ (shiryon) rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "sì fi wọ́"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מדיו",
+      "gloss": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "קובע",
+      "gloss": "déèdé (agọ́ọ̀rùn orí)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "idìwọ̀ọ́ (kòpà)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "ó sì fi wọ́"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ìràwọ̀ (shiryon)"
+    },
+    {
+      "surface": "שריון",
+      "gloss": "shiryon (ìràwọ̀ ogun)"
+    }
+  ],
+  "timestamp": "2026-08-23T00:51:15.255343084Z",
+  "model": "glm-5.3"
+}

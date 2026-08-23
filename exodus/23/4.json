@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Tí o bá kọjá lọdé màálù ọ̀tá rẹ tàbí kẹ́tẹ́kẹ́tẹ́ rẹ tí ó sì ṣìnṣìn, ó gbọ́dọ̀ dá a padà fún un.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tí o bá"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "kọjá lọdé"
+    },
+    {
+      "surface": "שור",
+      "gloss": "màálù"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "ọ̀tá rẹ"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "kẹ́tẹ́kẹ́tẹ́ rẹ"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "ṣìnṣìn"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ó gbọ́dọ̀ dá…padà"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "dá a padà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:20.921110390Z",
+  "model": "glm-5.3"
+}

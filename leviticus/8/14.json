@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì mú ⟨את⟩ màlúù ẹ̀ṣẹ̀ wá, Aharon àti àwọn ọmọ rẹ̀ sì gbé ⟨את⟩ ọwọ́ wọn lé orí màlúù ẹ̀ṣẹ̀ náà.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "ó sì mú…wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "màlúù ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "פר",
+      "gloss": "màlúù"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ti ẹ̀ṣẹ̀ náà"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "sì gbé…lé"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "àti àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ wọn"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ọwọ́ wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "פר",
+      "gloss": "màlúù"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ti ẹ̀ṣẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:38:07.755755275Z",
+  "model": "glm-5.3"
+}

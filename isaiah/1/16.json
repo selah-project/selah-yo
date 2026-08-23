@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ẹ wẹ, ẹ mú ara yín mọ́; ẹ yọ aìṣẹ́ iṣẹ́ yín kúrò níwájú ojú mi; ẹ dá iṣẹ́ búburú dúró.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "ẹ wẹ"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "ẹ mú ara yín mọ́"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "ẹ yọ … kúrò"
+    },
+    {
+      "surface": "רע",
+      "gloss": "aìṣẹ́"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "iṣẹ́ yín"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "ẹ dá … dúró"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "iṣẹ́ búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:05.096006955Z",
+  "model": "glm-5.3"
+}

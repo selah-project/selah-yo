@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "àti ⟨את⟩ Bosmath, ọmọbìnrin Yishmael, arábìnrin Nevayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Bosmath"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmath"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbìnrin"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "arábìnrin"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevayot"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:33.062184844Z",
+  "model": "glm-5.3"
+}

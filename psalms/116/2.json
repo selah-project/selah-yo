@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Nítorí pé ó tẹ etí rẹ̀ dà sí mi, nínú ọjọ́ mi ni mo máa ń pè é.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí pé"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ó tẹ etí rẹ̀ dà sí"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "etí rẹ̀"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "nínú ọjọ́ mi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mo máa ń pè é"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:54.318832563Z",
+  "model": "glm-5.3"
+}

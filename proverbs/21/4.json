@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ìgbéraga ojú àti ọkàn gbòòrò — ìkọ̀lẹ̀ àwọn olébúrẹ́ẹ̀kẹ́ jẹ́ ẹ̀ṣẹ̀.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "ìgbéraga"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "àti gbòòrò"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ìkọ̀lẹ̀ (tí ó màa jọ̀ mọ́)"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn olébúrẹ́ẹ̀kẹ́"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ẹ̀ṣẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:10:34.112829764Z",
+  "model": "glm-5.3"
+}

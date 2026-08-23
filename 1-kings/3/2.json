@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Níkan ni àwọn ènìyàn ń ṣe ẹbọ ní àwọn bama, nítorí pé ilé kò tíì kọ́ fún orúkọ Yahweh títí dé àwọn ọjọ́ yẹn.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Níkan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ń ṣe ẹbọ"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ní àwọn bama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "tíì kọ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "fún orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "àwọn ọjọ́"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "yẹn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:01.890004771Z",
+  "model": "glm-5.3"
+}

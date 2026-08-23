@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ìṣẹ́ àwọn aláìmọ̀ọ́gbọ́n yóò yà wọ́n ní àsẹ, nítorí pé wọn kò mọ láti lọ sí ⟨ìlú⟩.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "ìṣẹ́"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "àwọn aláìmọ̀ọ́gbọ́n"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "yóò yà wọ́n ní àsẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "láti lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "⟨ìlú⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:44.741718103Z",
+  "model": "glm-5.3"
+}

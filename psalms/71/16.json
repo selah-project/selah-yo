@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Èmi ó wọ̀ nínu agbára Adonai Yahweh; èmi ó rántí ìdájọ́ rẹ, tí ìwọ nìkan ṣoṣo.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "èmi ó wọ̀"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "nínu agbára"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "èmi ó rántí"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ìdájọ́ rẹ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tí ìwọ nìkan ṣoṣo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:55.068046169Z",
+  "model": "glm-5.3"
+}

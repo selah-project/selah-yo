@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Moshe sì pa ⟨את⟩ àwọn ọmọ Yisraẹli níṣe ẹnu Yahweh, ó wí pé: Bẹ́ẹ̀ ni ẹ̀yà àwọn ọmọ Yosef ń sọ ọ́ tọ́.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "sì pa àṣẹ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisraẹli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹli"
+    },
+    {
+      "surface": "על",
+      "gloss": "níṣe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó wí pé"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ẹ̀yà"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ń sọ ọ́ tọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:34.850874148Z",
+  "model": "glm-5.3"
+}

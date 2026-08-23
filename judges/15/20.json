@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ó sì ṣe àjọbodè ⟨את⟩ Yisrael ní ọjọ́ àwọn Falisití, ọdún ogún.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ó sì ṣe àjọbodè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Falisití"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    }
+  ],
+  "timestamp": "2026-08-23T00:38:18.201778414Z",
+  "model": "glm-5.3"
+}

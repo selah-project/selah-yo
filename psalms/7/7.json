@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Dìde, Yahweh, nínú bínú Rẹ; ga síta nítorí ìbínú àwọn ọ̀tá mi; kí O sì jí fún mi — ìdájọ́ ni O ti paṣẹ.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Dìde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "nínú bínú Rẹ"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "ga síta"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "nítorí ìbínú"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "àti kí O jí"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "O ti paṣẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:56.851844125Z",
+  "model": "glm-5.3"
+}

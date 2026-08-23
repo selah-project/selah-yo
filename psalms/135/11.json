@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Sihon ọba àwọn Emori, àti Og ọba Bashan, àti gbogbo àwọn ìjọba Kenaan.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "àwọn Emori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "àti Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "àwọn ìjọba"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:42.999003162Z",
+  "model": "glm-5.3"
+}

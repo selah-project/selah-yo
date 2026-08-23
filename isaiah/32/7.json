@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 32:7",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Àwọn ohun-èlọ̀ rẹ̀ aláìkọ̀ sì burú; òun nìkan ni ó gbèrò ìtẹ́ tí ó burú, láti pa àwọn tí ẹrù bá mú nípa ọ̀rọ̀ òdì, àti láti yọ ìdájọ́ àwọn aláìní kúrò nígbà tí wọ́n ń bẹ̀rè.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "àti àwọn ohun-èlọ̀"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "burú"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "ìtẹ́ burú"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "gbèrò"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "láti pa…lọ́wọ́"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "àwọn tí ẹrù bá mú"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "nípa ọ̀rọ̀"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "òdì"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "àti nípa sísọ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "aláìní"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:51:36.753745828Z",
+  "model": "glm-5.3"
+}

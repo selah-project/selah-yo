@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ó sì ṣe iṣẹ́ àgbà, ó lu ⟨את⟩ Amalek lù, ó sì gbà ⟨את⟩ Yisrael là láti ọwọ́ ẹni tí ó ń jì wón.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "iṣẹ́ àgbà"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ó lu … lù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ó sì gbà … là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "láti ọwọ́"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "ẹni tí ó ń jì wón"
+    }
+  ],
+  "timestamp": "2026-08-23T00:48:02.476168210Z",
+  "model": "glm-5.3"
+}

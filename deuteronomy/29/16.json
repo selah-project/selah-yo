@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "ẹ sì ti rí ⟨את⟩ àwọn iṣẹ́-ẹ̀gàn wọn àti ⟨את⟩ àwọn òrìṣà wọn, igi àti ọ̀kùta, fàdákà àti wúrà, tí ó wà pẹ̀lú wọn.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "ẹ sì ti rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn iṣẹ́-ẹ̀gàn wọn"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "àwọn iṣẹ́-ẹ̀gàn wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn òrìṣà wọn"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "àwọn òrìṣà wọn"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "àti ọ̀kùta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "àti wúrà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "pẹ̀lú wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:20:00.393751752Z",
+  "model": "glm-5.3"
+}

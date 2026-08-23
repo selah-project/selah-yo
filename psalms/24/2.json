@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Nítorí pé òun ló dá a lẹ́yìn lórí àwọn òkun, ó sì fi lẹ́yìn lórí àwọn odò.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí pé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "àwọn òkun"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "ló dá a lẹ́yìn"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ó sì fi lẹ́yìn lórí"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "àwọn odò"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ó sì fi lẹ́yìn lórí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:10.105656883Z",
+  "model": "glm-5.3"
+}

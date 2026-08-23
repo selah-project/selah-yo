@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Síṣe Tsiyon sọ pé, Yahweh ti ṣími nù mí, Adonai sì ti gbagbé mi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "síṣe Tsiyon sọ pé"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "ti ṣími nù mí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "Adonai sì"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "ti gbagbé mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:58:42.180897525Z",
+  "model": "glm-5.3"
+}

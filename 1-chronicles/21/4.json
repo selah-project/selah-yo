@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ṣùgbọ́n ọ̀rọ̀ ⟨na⟩ ọba ṣe agbára ju lọ sí i lórí Yoavu; Yoavu sì jáde, ó sì rìn ká gbogbo Yisraeli, ó sì wá sí Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ṣe agbára ju lọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ó sì jáde"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavu"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "ó sì rìn ká"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ká gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì wá sí"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:17:35.743201094Z",
+  "model": "glm-5.3"
+}

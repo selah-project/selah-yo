@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Èmi, ki n mú wọn dídùn kúrò níbi tí ẹ ti ta wọn sí ⟨את⟩ níbẹ̀, èmi yóò da èsan yín padà lórí orí yín.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Èmi, ki"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "n mú wọn dídùn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò ní"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "ẹ ti ta wọn sí"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "èmi yóò da padà"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "èsan yín"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "lórí orí yín"
+    }
+  ],
+  "timestamp": "2026-08-23T03:05:31.517922942Z",
+  "model": "glm-5.3"
+}

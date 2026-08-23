@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Gbọ́, Yisraeli: ìwọ ni ó ń kọjá lónìí kí o lè kọjá ⟨את⟩ Jordani, láti wọ láti jogún àwọn orílẹ̀-èdè tó tóbi tó lágbára ju ọ̀ lọ — àwọn ìlú tó tóbi, tí a ṣe òógún sí títí dé ọ̀run.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ń kọjá"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordani"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "láti wọ"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "láti jogún"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "tó lágbára"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ju ọ̀ lọ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "tí a ṣe òógún sí"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "títí dé ọ̀run"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:03.748992845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Ṣe àánú fún mi, Elohim, gẹ́gẹ́ bí chesed rẹ; gẹ́gẹ́ bí iye ìdànpọ́ rẹ mú ìṣẹ̀ tí mo ṣe kúrò.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ṣe àánú fún mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "gẹ́gẹ́ bí chesed rẹ"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "gẹ́gẹ́ bí iye"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ìdànpọ́ rẹ"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "mú… kúrò"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ìṣẹ̀ tí mo ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:14.291431515Z",
+  "model": "glm-5.3"
+}

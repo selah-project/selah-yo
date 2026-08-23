@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 124,
+  "translation": "Ẹ̀mí wa sá là bí ẹyẹ kúrò nínú ìdì àwọn olè-ẹyẹ; ìdì náà fọ́, àwa sì sá là.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "ẹ̀mí wa"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "bí ẹyẹ"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "sá là"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "kúrò nínú ìdì"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "àwọn olè-ẹyẹ"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "ìdì náà"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "fọ́"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "àwa sì"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "sá là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:51.433021334Z",
+  "model": "glm-5.3"
+}

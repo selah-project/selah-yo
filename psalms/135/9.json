@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Ó ráǹgbá-n-ìṣẹlẹ̀ àti ìwọ̀ àjọyọ nbá inú rẹ, Mitsrajim, nbá Parao àti gbogbo ìránṣẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ó rán"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "àwọn ìṣẹlẹ̀ ìṣẹ̀-ìdán"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "àti ìwọ̀ àjọyọ"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "ní àárín rẹ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "nbá Parao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "àti nbá gbogbo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ìránṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:42.998600585Z",
+  "model": "glm-5.3"
+}

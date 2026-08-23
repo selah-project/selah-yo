@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ìwọ ó sì yì ⟨את⟩ Aharon àti ⟨את⟩ àwọn ọmọ rẹ̀ mọ́ pẹ̀lú òróró, ìwọ ó sì yì ⟨את⟩ wọn ní mímọ́ láti jẹ́ àlùfáà fún Mi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ìwọ ó yì mọ́ pẹ̀lú òróró"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ìwọ ó sì yì ní mímọ́"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "Aharon àti àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "láti jẹ́ àlùfáà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún Mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:28:22.434796389Z",
+  "model": "glm-5.3"
+}

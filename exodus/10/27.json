@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Yahweh sì mú ⟨את⟩ ọkàn Paroh di kíkun, ó kò sì fẹ́ láti fi wọn lọ.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "sì mú di kíkun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "fẹ́"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "láti fi wọn lọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:39.966214793Z",
+  "model": "glm-5.3"
+}

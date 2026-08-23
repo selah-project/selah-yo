@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Yehoshúa sì firánṣẹ́ ⟨את⟩ ènìyàn náà lọ, olúkúlùkọ sí ìní rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì firánṣẹ́ … lọ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshúa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ènìyàn náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olúkúlùkọ"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "sí ìní rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:11.436048762Z",
+  "model": "glm-5.3"
+}

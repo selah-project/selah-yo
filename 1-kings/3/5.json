@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ní Givon ni Yahweh fi han ⟨él⟩ Shelomoh ní ìkúnwọ̀ òru, Elohim sì wí pé: Béèrè, kí ni èmi ó fún ọ̀?",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "ní Givon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "fi han"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨él⟩ sí"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "ní ìkúnwọ̀"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "béèrè"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "èmi ó fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:25.108257119Z",
+  "model": "glm-5.3"
+}

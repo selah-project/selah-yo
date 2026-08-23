@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Nítorí ọ̀rọ̀ tí wọn kò pàdé ⟨את⟩yín ní oúnjẹ àti ní omi ní ọ̀nà, nígbà tí ẹ jáde kúrò lọ́dọ̀ Mitzrayim, àti nítorí tí wọn gbé lọ́dọ̀ rẹ ⟨את⟩ Bilam, ọmọ Beor, láti Pithor, Aram-Naharayim, láti kọ̀ ọ́ esọ̀.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "pàdé"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "ní oúnjẹ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "àti ní omi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ní ọ̀nà"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "nígbà tí ẹ jáde"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "lọ́dọ̀ Mitzrayim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "àti nítorí tí"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "wọn gbé"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "láti Pithor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "láti kọ̀ ọ́ esọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:16:56.998514875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-chronicles 6:55",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "àti láti ìdàmẹ́ta-ìdí àwọn ẹ̀yà-ìdí Menashé, ⟨את⟩ Aner pẹ̀lú ⟨את⟩ àwọn ilẹ̀-ọ̀nà rẹ̀ àti ⟨את⟩ Bileam pẹ̀lú ⟨את⟩ àwọn ilẹ̀-ọ̀nà rẹ̀, fún ìdí àwọn ọmọ Kehat, tí ó ṣèyà",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "àti láti ìdàmẹ́ta-ìdí"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ẹ̀yà-ìdí"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aner"
+    },
+    {
+      "surface": "ענר",
+      "gloss": "Aner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pẹ̀lú ⟨את⟩",
+      "marks": "àwọn ilẹ̀-ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "àwọn ilẹ̀-ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Bileam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pẹ̀lú ⟨את⟩",
+      "marks": "àwọn ilẹ̀-ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "àwọn ilẹ̀-ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "fún ìdí"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "tí ó ṣèyà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:11:21.229909889Z",
+  "model": "glm-5.3"
+}

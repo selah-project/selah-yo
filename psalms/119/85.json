@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Àwọn alákọ̀kọ̀ gbé ìkù digbé kalẹ̀ fún mi — èyí tí kò bá òfin rẹ mu.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "wọ́n gbé ìkù digbé kalẹ̀"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "àwọn alákọ̀kọ̀"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "ìkù digbé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "bá òfin rẹ mu"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:19.122571783Z",
+  "model": "glm-5.3"
+}

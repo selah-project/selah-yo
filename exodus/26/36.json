@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 26:36",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ìwọ sì ṣe apata fún ọ̀nà-ìwọlé ahọ́ ọ̀tún, ti ojú-ewé àwọ̀ sādáà, ti àwọ̀ aró pupa, ti àwọ̀ ẹ̀fọ̀-èso, àti ti owú funfun ti a ṣèjọ, iṣẹ́ ọwọ́ olùṣèdán àwọ̀.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ìwọ sì ṣe"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "apata"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "fún ọ̀nà-ìwọlé"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ahọ́ ọ̀tún"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ojú-ewé àwọ̀ sādáà"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "àwọ̀ aró pupa"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "àwọ̀ ẹ̀fọ̀-èso"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "àti ti"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "owú funfun ti a ṣèjọ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́ ọwọ́"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "olùṣèdán àwọ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:15.298185606Z",
+  "model": "glm-5.3"
+}

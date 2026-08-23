@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ní àkókò ìjọba Achashverosh, ní ìbẹ̀rẹ̀ ìjọba rẹ̀, wọ́n kọ̀wé ìwé-ẹ̀sùn kan sí àwọn olùgbé Yehudah àti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "ní àkókò ìjọba"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "ní ìbẹ̀rẹ̀"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ìjọba rẹ̀"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "wọ́n kọ̀wé"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "ìwé-ẹ̀sùn"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí (lé lórí)"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn olùgbé"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "àti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T06:12:05.789230325Z",
+  "model": "glm-5.3"
+}

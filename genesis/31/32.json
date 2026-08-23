@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 31:32",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Ẹni tí o bá rí ⟨את⟩ òrìṣà rẹ pẹ̀lú, kí ó má ṣe làyè; níwájú àwọn ará wa, ṣe àwárí fúnra rẹ ohun tí ó wà pẹ̀lú mi, kí o sì gba á lọ; ṣùgbọ́n Yaakov kò mọ̀ pé Rachel ni ó jí wọn gbé.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "o bá rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òrìṣà rẹ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "òrìṣà rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kí ó má ṣe"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "làyè"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "àwọn ará wa"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "ṣe àwárí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fúnra rẹ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "wà pẹ̀lú mi"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "kí o sì gba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ló"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n kò"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel ni ó"
+    },
+    {
+      "surface": "גנבתם",
+      "gloss": "jí wọn gbé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:01.951219793Z",
+  "model": "glm-5.3"
+}

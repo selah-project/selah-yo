@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 11:16",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Wọ́n sì fi ọwọ́ sí i, ó sì wá lọ́nà ìtèsíwájú àwọn ẹṣin sí ilé ọba náà, wọ́n sì kọ́ ọ́ pa níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "Wọ́n sì fi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ó sì wá"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lọ́nà"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ìtèsíwájú"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "àwọn ẹṣin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sí ilé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "ותומת",
+      "gloss": "wọ́n sì kọ́ ọ́ pa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:32:32.185625512Z",
+  "model": "glm-5.3"
+}

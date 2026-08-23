@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ó sì máa ṣe ìpàdàbọ̀ fún ⟨את⟩ ibi mímọ́ jùlọ, àti ⟨את⟩ àgọ́ ìpàdé, àti ⟨את⟩ pẹpẹ náà yóò ṣe ìpàdàbọ̀; àti nítorí àwọn àlùfáà, àti nítorí gbogbo èrò ìjọ náà yóò ṣe ìpàdàbọ̀.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "ó sì máa ṣe ìpàdàbọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibi mímọ́ jùlọ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ibi mímọ́"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "jùlọ"
+    },
+    {
+      "surface": "וית",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àgọ́ ìpàdé"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "pẹpẹ náà"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ náà"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "yóò ṣe ìpàdàbọ̀"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti nítorí"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà náà"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti nítorí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "èrò"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "yóò ṣe ìpàdàbọ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:24.178923830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 130,
+  "translation": "Tí o bá ṣọ́ àwọn ìwà búburú, Yah, Adonai, ta ni yóò dúró?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Tí o bá"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "àwọn ìwà búburú"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ṣọ́"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "yóò dúró"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:05.882233955Z",
+  "model": "glm-5.3"
+}

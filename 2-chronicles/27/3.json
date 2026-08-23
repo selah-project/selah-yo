@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Òun ni ó kọ́ ⟨את⟩ ọ̀nà-ìbodè tí ó ga ilé Yahweh, ó sì kọ́ púpọ̀ lórí ogiri Òfel.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Òun ni"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀nà-ìbodè tí ó ga ilé Yahweh"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọ̀nà-ìbodè"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "tí ó ga"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "ó sì… lórí ogiri"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Òfel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kọ́"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:32:19.030412493Z",
+  "model": "glm-5.3"
+}

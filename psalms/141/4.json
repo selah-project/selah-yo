@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 141,
+  "translation": "Má jẹ́ kí ọkàn mi kọ sí ọ̀rọ̀ búburú, láti ṣe àwọn iṣẹ́ ìkọ̀tẹ́ pẹ̀lú ⟨את⟩ àwọn ọkùnrin tí ń ṣe àìtọ́; kì í ṣe kí n jẹ nínú àwọn oúnjẹ ọ̀fé wọn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má jẹ́ kí"
+    },
+    {
+      "surface": "תט",
+      "gloss": "kọ sí"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sí ọ̀rọ̀"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "àwọn iṣẹ́"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "nínú ìkọ̀tẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọkùnrin tí ń ṣe àìtọ́"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "tí ń ṣe"
+    },
+    {
+      "surface": "און",
+      "gloss": "àìtọ́"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "kì í ṣe kí"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "n jẹ"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "nínú àwọn oúnjẹ ọ̀fé wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:11.911888458Z",
+  "model": "glm-5.3"
+}

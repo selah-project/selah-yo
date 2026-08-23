@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Yosef sì pàṣẹ fún àwọn ìránṣẹ́ rẹ̀ ⟨את⟩ — àwọn onímọ̀ ògùn ⟨את⟩ — láti fi ọ̀yọ́ ṣe ìpamọ́ baba rẹ̀; àwọn onímọ̀ ògùn sì fi ọ̀yọ́ ṣe ìpamọ́ fún ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "sì pàṣẹ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn onímọ̀ ògùn"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "àwọn onímọ̀ ògùn"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "láti fi ọ̀yọ́ ṣe ìpamọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba rẹ̀"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "sì fi ọ̀yọ́ ṣe ìpamọ́ fún"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "àwọn onímọ̀ ògùn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T05:40:58.281057627Z",
+  "model": "glm-5.3"
+}

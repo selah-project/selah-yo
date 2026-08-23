@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Nítorí tí ó ṣe é kún ọkàn ènìyàn tó ń ṣeé kọ́ gbà, ó sì kún ọkàn èbiyàn pẹ̀lú rere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "ó kún tó"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ọkàn ènìyàn"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "tó ń ṣeé kọ́ gbà"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ó sì kún ọkàn"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "èbiyàn"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ó kún"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "pẹ̀lú rere"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:16.199053186Z",
+  "model": "glm-5.3"
+}

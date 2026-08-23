@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 10:9",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Àti tí ẹ bá bá ogun ní ilẹ̀ yín, lórí ọ̀tá tí ó ń yọ yín ìjà ⟨את⟩, ẹ gbé ìkìlọ̀ fún pẹ̀lú àwọn ihò-hò, ki ẹ̀yin tí ẹ jẹ́ rántí níwájú Yahweh Elohim yín, ki ẹ̀yin tí ẹ gba ìgbàlà láti ọ̀dọ̀ àwọn ọ̀tá yín.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Àti tí"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "ẹ bá"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "ní ilẹ̀ yín"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "ọ̀tá náà"
+    },
+    {
+      "surface": "הצרר",
+      "gloss": "tí ó ń yọ ìjà"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-yín",
+      "marks": "yín (àwọn tí ọ̀tá náà ń yọ ìjà)"
+    },
+    {
+      "surface": "והרעתם",
+      "gloss": "ki ẹ gbé ìkìlọ̀ fún"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "pẹ̀lú àwọn ihò-hò"
+    },
+    {
+      "surface": "ונזכרתם",
+      "gloss": "ki ẹ̀yin tí ẹ jẹ́ rántí"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "ונושעתם",
+      "gloss": "ki ẹ̀yin tí ẹ gba ìgbàlà"
+    },
+    {
+      "surface": "מאיביכם",
+      "gloss": "láti ọ̀dọ̀ àwọn ọ̀tá yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:52:57.315932473Z",
+  "model": "glm-5.3"
+}

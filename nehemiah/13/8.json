@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ó sì burú fún mi púpọ̀, mo sì gbé ⟨את⟩ gbogbo ohun èlò ilé Toviyah jáde kúrò ní yàrá náà.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "Ó sì burú"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "mo sì gbé jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ohun èlò ilé Toviyah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ohun èlò"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Toviyah"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "jáde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò ní"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "yàrá náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:07:18.745887323Z",
+  "model": "glm-5.3"
+}

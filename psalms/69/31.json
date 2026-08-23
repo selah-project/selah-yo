@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Èmi yóò yin orúkọ Elohim ní orin, yóò sì gbé e ga ní ìdúpẹ́.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "èmi yóò yin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "ní orin"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "yóò sì gbé e ga"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ní ìdúpẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:27.908657380Z",
+  "model": "glm-5.3"
+}

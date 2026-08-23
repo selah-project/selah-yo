@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ọ̀daràn ń ṣọ́ olódọ̀tun, ó sì ń wá láti pa á.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "ń ṣọ́"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ọ̀daràn"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "olódọ̀tun"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "ó sì ń wá"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "láti pa á"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:11.391343992Z",
+  "model": "glm-5.3"
+}

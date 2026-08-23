@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Nítorí nípasẹ̀ Rẹ̀ ni ọkàn wa yọ̀, nítorí nípa orúkọ mímọ́ Rẹ̀ ni a gbẹ́kẹ̀ lé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nípasẹ̀ Rẹ̀"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "yọ̀"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ọkàn wa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nípa orúkọ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mímọ́ Rẹ̀"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "a gbẹ́kẹ̀ lé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:56.874205038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Yonah sì dídé, ó sì lọ sí Nineveh gẹ́gẹ́ bí òrọ̀ Yahweh. Nineveh sì jẹ́ ìlú ńlá níwájú Elohim, ìrìn-àjọ ọjọ́ mẹta.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sì dídé"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "gẹ́gẹ́ bí òrọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "Nineveh sì"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "níwájú Elohim"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ìrìn-àjọ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mẹta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:09:29.805103648Z",
+  "model": "glm-5.3"
+}

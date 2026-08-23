@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 8:6",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àti ⟨את⟩ Baalat, àti ⟨את⟩ gbogbo àwọn ìlú ìpamọ́ tí ó jẹ́ ti Shlomo, àti ⟨את⟩ gbogbo àwọn ìlú ọkọ ayọyọ, àti ⟨את⟩ àwọn ìlú àwọn ológun ẹṣin, àti ⟨את⟩ gbogbo ohun tí Shlmo fẹ́ kí ó kọ́ ní Yerushalayim, àti ní Levanon, àti ní gbogbo ilẹ̀ ìjọba rẹ̀",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Àti ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ìlú ìpamọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "ìpamọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ó jẹ́"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ti Shlomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ìlú ọkọ ayọyọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ọkọ ayọyọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìlú àwọn ológun ẹṣin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "àwọn ológun ẹṣin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ohun tí Shlomo fẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ohun tí ó fẹ́"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ó fẹ́"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kí ó kọ́"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    },
+    {
+      "surface": "ובלבנון",
+      "gloss": "àti ní Levanon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "àti ní gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ìjọba rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:27:24.867476435Z",
+  "model": "glm-5.3"
+}

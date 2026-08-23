@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 4:14",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ẹṣẹ̀ tí wọ́n ti ṣẹ̀ nítorí rẹ̀ sì yẹ wọ́n mọ́lẹ̀; ìgbìmọ̀ náà sì gbé ọ̀kọ̀nrin màlúù ti ẹni-ọ̀kọ̀nrin wá gẹ́gẹ́ bí ẹbùn ẹṣẹ̀, wọ́n sì mú ⟨את⟩ un wá síwájú àgọ ìpàdé",
+  "tokens": [
+    {
+      "surface": "ונודעה",
+      "gloss": "sì yẹ wọ́n mọ́lẹ̀"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ẹṣẹ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "wọ́n ti ṣẹ̀"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nítorí rẹ̀"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "sì gbé ... wá"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ìgbìmọ̀ náà"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ọ̀kọ̀nrin màlúù"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ẹni-ọ̀kọ̀nrin"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "gẹ́gẹ́ bí ẹbùn ẹṣẹ̀"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "wọ́n sì mú ... wá"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "un (màlúù náà)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:50.792721225Z",
+  "model": "glm-5.3"
+}

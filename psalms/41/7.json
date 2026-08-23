@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Bí ọ̀kan bá tọ mi wá láti rí mi, ọ̀rọ̀-èké ni ó ń sọ; ọkàn rẹ̀ ń kó àṣìṣe jọ fúnra rẹ̀; nígbà tí ó jáde sí òde, ó ń sọ ọ́ nù ní gbogbo ìta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "bí ... bá"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tọ ... wá"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "láti rí mi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ọ̀rọ̀-èké"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ó ń sọ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "ń kó ... jọ"
+    },
+    {
+      "surface": "און",
+      "gloss": "àṣìṣe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fúnra rẹ̀"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ó jáde"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "sí òde"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ó ń sọ ọ́ nù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:08.373821933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àwọn ọmọ Charim, ẹgbẹ̀run kan, méje àti ẹ̀wá.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Charim"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbẹ̀run kan"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "méje"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "àti ẹ̀wá (-ta-lọ́nà)"
+    }
+  ],
+  "timestamp": "2026-08-23T05:04:28.022166316Z",
+  "model": "glm-5.3"
+}

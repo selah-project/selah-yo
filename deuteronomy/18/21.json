@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Àti tí ó bá ti wà pé o wí nínú ọkàn rẹ, Báwo ni a ti máa mọ ⟨את⟩ ọ̀rọ̀ tí Yahweh kò sọ?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Àti tí ó bá ti wà pé"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "o wí"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "nínú ọkàn rẹ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Báwo"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "ni a ti máa mọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:14:40.773181026Z",
+  "model": "glm-5.3"
+}

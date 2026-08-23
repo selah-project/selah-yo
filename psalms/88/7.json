@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Ìwọ ti gbé mí sí iho tí ó jinlẹ̀ jùlọ, nínú òkùnkùn, nínú ìjì-ijú.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "ìwọ ti gbé mí sí"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "iho"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "tí ó jinlẹ̀ jùlọ"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "nínú òkùnkùn"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "nínú ìjì-ijú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:46.436690395Z",
+  "model": "glm-5.3"
+}

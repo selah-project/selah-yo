@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Búrẹ́dì ti àwọn alágbára ni gbogbo ẹní jẹ; oúnjẹ ti ó gbóná ló fi ránṣẹ́ sí wọn dé ibi ñyọ́nu.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "búrẹ́dì"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "ti àwọn alágbára"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ni... jẹ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gbogbo ẹní"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "oúnjẹ ti ó gbóná"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ó fi ránṣẹ́"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "dé ibi ñyọ́nu"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:53.143276642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Ẹ gbé Yah níga, nítorí pé Yahweh dara; ẹ kọ orin fún orúkọ rẹ̀, nítorí pé ó dùn.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ẹ gbé…níga"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ẹ kọ orin"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "fún orúkọ rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ó dùn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:06.614938634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 4:9",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì jẹ́ bíi ènìyàn, békọ́ níí ṣe aládùbọ; èmi yóò sì ṣe ìjọba-ẹ̀wọ̀n fún ìrìn-àwà rẹ̀, ó sì yóò san fún un iṣẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ó sì jẹ́"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "bíi ènìyàn"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "békọ́ níí ṣe aládùbọ"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "èmi yóò sì ṣe ìjọba-ẹ̀wọ̀n"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fún"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ìrìn-àwà rẹ̀"
+    },
+    {
+      "surface": "ומעלליו",
+      "gloss": "ó sì yóò san fún un iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "yóò san padà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    }
+  ],
+  "timestamp": "2026-08-23T02:59:51.223745338Z",
+  "model": "glm-5.3"
+}

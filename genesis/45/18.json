@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Ẹ gba ⟨את⟩ baba yín àti ⟨את⟩ àwọn ilé yín, ẹ sì wá bá mi; èmi yóò fún yín ní ⟨את⟩ rere ilẹ̀ Mitsrayim, ẹ sì jẹ ⟨את⟩ ẹkún ilẹ̀ náà.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "Ẹ gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba yín"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "baba yín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ilé yín"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "àwọn ilé yín"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ẹ sì wá"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bá mi"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "èmi yóò fún"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rere ilẹ̀ Mitsrayim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ẹ sì jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹkún ilẹ̀ náà"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ẹkún"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:13:29.964394199Z",
+  "model": "glm-5.3"
+}

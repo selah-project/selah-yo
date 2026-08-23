@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì ṣẹlẹ̀, nítorí ìròrùn ti ìwà àgàntàn rẹ̀, ó sì ṣẹ̀gbẹ́ ⟨את⟩ ilẹ̀ náà, ó sì ṣe àgbéléwọ̀n pẹ̀lú ⟨את⟩ okùta àti pẹ̀lú ⟨את⟩ igi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "nítorí ìròrùn"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "ti ìwà àgàntàn rẹ̀"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "ó sì ṣẹ̀gbẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "ó sì ṣe àgbéléwọ̀n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okùta"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "okùta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "igi"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igi"
+    }
+  ],
+  "timestamp": "2026-08-23T02:06:41.538313848Z",
+  "model": "glm-5.3"
+}

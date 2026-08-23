@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Ta lè sọ̀rọ̀ nípa ìṣẹ́-lágbára Yahweh? Ta lè sọ gbogbo ìyìn rẹ̀ kúrò lẹ́nu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "lè sọ̀rọ̀ nípa"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "ìṣẹ́-lágbára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "lè sọ ... kúrò lẹ́nu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ìyìn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:39.526445383Z",
+  "model": "glm-5.3"
+}

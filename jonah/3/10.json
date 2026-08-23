@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Elohim sì rí ⟨את⟩ iṣẹ́ wọn, wípé wọ́n padà kúrò lọ́nà wọn búburú náà; Elohim sì faradà nípa ìbàjẹ́ náà tí ó ti sọ pé yóò ṣe sí wọn, ó sì kò ṣe ọ́.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Elohim sì rí"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣẹ́ wọn"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "iṣẹ́ wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wípé"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "wọ́n padà kúrò"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "lọ́nà wọn"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "búburú náà"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ó sì faradà"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ìbàjẹ́ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ó ti sọ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yóò ṣe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ó sì kò"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:09:26.989743576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Ẹ bukun Yahweh, gbogbo iṣẹ́ rẹ̀, ní gbogbo ibi tí ìjọba rẹ̀ ń gbé; ọkàn mi, bukun ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Ẹ bukun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ìjọba rẹ̀ ń gbé"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "bukun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:56.275091903Z",
+  "model": "glm-5.3"
+}

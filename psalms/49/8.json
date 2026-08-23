@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Arátakúnrin kì í ṣe é ra ra rá; ẹni kì í lè fún Elohim ní ìdàpadararẹ̀.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Arátakúnrin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe é"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ra"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ra rá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "lè fún ní"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "ìdàpadararẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:25.573947803Z",
+  "model": "glm-5.3"
+}

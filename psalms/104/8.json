@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Àwọn òkè ń gòkè, àwọn ibùgbé làlà ń wàlà sí ibi tí Ì tí fi ìpìlẹ̀ fún wọn.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ń gòkè"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ń wàlà sí ìsàlẹ̀"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "àwọn ibùgbé làlà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ibi tí"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "Ì tí fi ìpìlẹ̀"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:06.440902331Z",
+  "model": "glm-5.3"
+}

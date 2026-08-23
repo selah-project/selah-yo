@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ó sì wáyé, ní ìbẹ̀rẹ̀ ìgbà tí wọ́n ń gbé ibẹ̀, wọn kò bẹ̀rù ⟨את⟩ Yahweh; Yahweh sì fi ⟨את⟩ àwọn kìnnìún ránṣẹ́ sí wọn, wọ́n sì di ènìyàn-pani láàrín wọn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wáyé"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "ní ìbẹ̀rẹ̀"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "ìgbà tí wọ́n ń gbé"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bẹ̀rù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì fi ránṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn kìnnìún"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "àwọn kìnnìún"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wọ́n sì di"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "ènìyàn-pani"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "láàrín wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:35:23.943718998Z",
+  "model": "glm-5.3"
+}

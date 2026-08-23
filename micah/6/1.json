@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ẹ gbọ́ jọ̀wọ́ ⟨את⟩ ohun tí Yahweh ń sọ: Dídé, ṣe àbájáde pẹ̀lú ⟨את⟩ àwọn òkè, kí àwọn apáta gbọ́ ohùn rẹ.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ẹ gbọ́"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọ̀wọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ń sọ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Dídé"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ṣe àbájáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òkè"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "kí … gbọ́"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "àwọn apáta"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ohùn rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:13:40.464929581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Fún olùdarí orin, fún àwọn ọmọ Korach, orin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fún olùdarí orin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:00.489810609Z",
+  "model": "glm-5.3"
+}

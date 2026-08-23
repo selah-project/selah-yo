@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Èké ni ẹṣin fún ìgbàlà; àti ní ìpọ̀ ipá rẹ̀ kì í ṣe é gbà ⟨ẹnìkan⟩.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "èké"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ẹṣin"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "fún ìgbàlà"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "àti ní ìpọ̀"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ipá rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ṣe é gbà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:35.736716341Z",
+  "model": "glm-5.3"
+}

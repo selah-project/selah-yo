@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ní ọjọ́ yẹn Yisrael yóò jẹ́ èkejì-lẹ́yìn-ìrọ̀rùn pẹ̀lú Mísraim àti pẹ̀lú Ashur — ìbùkún ní àárín ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "èkejì-lẹ́yìn-ìrọ̀rùn"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "pẹ̀lú Mísraim"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "àti pẹ̀lú Ashur"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ìbùkún"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ní àárín"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:46:14.557134848Z",
+  "model": "glm-5.3"
+}

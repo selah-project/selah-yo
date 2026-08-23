@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 31:20",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Àti Yechizkiyahu ṣe bí èyí ní gbogbo Yehudah; ó sì ṣe rere, àti òdodo, àti òótọ́ níwájú Yahweh, Elohim rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Àti ... ṣe"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "bí èyí"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiyahu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "àti òdodo"
+    },
+    {
+      "surface": "והאמת",
+      "gloss": "àti òótọ́"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:36:05.552793060Z",
+  "model": "glm-5.3"
+}

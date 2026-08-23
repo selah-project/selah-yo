@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Àwọn gbogbo ìjọ Yisrael ṣe ⟨את⟩ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ìjọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rẹ̀ (Pésáḣì)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:21.486370587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ìèmi sì ti yàtù púpọ̀; ṣùgbọ́n ìwọ, Yahweh — dé ìgbà wo?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Ìèmi sì"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "ti yàtù"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ìwọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ìgbà wo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:46.503119945Z",
+  "model": "glm-5.3"
+}

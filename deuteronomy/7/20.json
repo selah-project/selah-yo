@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àti pé Yahweh Elohim rẹ yóò sì fi ⟨את⟩ ewùkù sílẹ̀ sí àárín wọn, tí wọ́n fi di pàjáwìrí fún àwọn tí ó ṣẹ́kù àti tí wọ́n fi ara pamọ́ kúrò níwájú rẹ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Àti pé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ewùkù (hornet)"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ewùkù"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "yóò sì fi sílẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sí àárín wọn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tí wọ́n fi di"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "pàjáwìrí fún"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "àwọn tí ó ṣẹ́kù"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "àti tí wọ́n fi ara pamọ́"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kúrò níwájú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:05.409660389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Láti ọ̀dọ̀ ⟨את⟩ Yahweh ni èyí ti wá; ó jẹ́ ohun ìṣeré-ìyà nínú ojú wa.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "láti ọ̀dọ̀ ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ti wá"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "jẹ́ ohun ìṣeré-ìyà"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "nínú ojú wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:14.927279263Z",
+  "model": "glm-5.3"
+}

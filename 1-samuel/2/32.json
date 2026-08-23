@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ìwọ yóò sì fi ojú rí ìṣòro ní ibùgbé mi, nígbà tí ohun rere bá ń ṣélérí ⟨את⟩ Yisrael ní gbogbo; kò ní sí ọmọ agba ní ilé rẹ nígbà gbogbo àwọn ọjọ́.",
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "ìwọ yóò fi ojú rí"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ìṣòro"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ibùgbé mi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "bá ṣe rere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò ní"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sí"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ọmọ agba"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ní ilé rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "àwọn ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:43:28.240612503Z",
+  "model": "glm-5.3"
+}

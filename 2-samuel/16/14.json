@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ọba náà sì dé, àti gbogbo àwọn ènìyàn tí ⟨את⟩-wàín pẹ̀lú rẹ̀, wọ́n sì mú ara dídùn ṣe síwájú níbẹ̀",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "sì dé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba náà"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-wàín pẹ̀lú rẹ̀",
+      "marks": "wàín pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "aláìní agbára (wẹ́rẹ́-wẹ́rẹ́)"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "sì mú ara dídùn ṣe síwájú"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:04:09.374401526Z",
+  "model": "glm-5.3"
+}

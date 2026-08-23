@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 101,
+  "translation": "Fún Davi, orin-ìgbé. Ìfẹ́ olóòtítọ́ (chesed) àti ìdájọ́ ni mo ó kọ orin fún; fún ọ̀ Yahweh ni mo ó kọ orin-ìyin.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Fún Davi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin-ìgbé"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ìfẹ́ olóòtítọ́ (chesed)"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "àti ìdájọ́"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "mo ó kọ orin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mo ó kọ orin-ìyin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:50.802336221Z",
+  "model": "glm-5.3"
+}

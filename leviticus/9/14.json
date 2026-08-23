@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ó sì fọ̀ ⟨את⟩ inú rẹ̀ àti ⟨את⟩ ẹsẹ̀ rẹ̀ méjèèjì; ó sì jó ọ́n lórí ẹbọ ẹ̀yin-iná, lórí ⟨the⟩ pẹpẹ.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "ó sì fọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inú rẹ̀"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "inú rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹsẹ̀ rẹ̀ méjèèjì"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "ẹsẹ̀ rẹ̀ méjèèjì"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ó sì jó ọ́n"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbọ ẹ̀yin-iná"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pẹpẹ (gúúsù)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:33.624333941Z",
+  "model": "glm-5.3"
+}

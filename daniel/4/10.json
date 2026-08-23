@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 4:10",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Mo ń wo nínú àwọn ìran tí ó ń bọ̀ ní ori mi lórí bẹ̀dẹ̀ mi, kíyèsi i, olùṣọ́ kan àti ẹni mímọ́ sọ̀kalè láti ọ̀run.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "mo ń wo"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "mo wà (mo ń)"
+    },
+    {
+      "surface": "בחזוי",
+      "gloss": "nínú àwọn ìran"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ori mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "bẹ̀dẹ̀ mi"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "àti kíyèsi i"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "olùṣọ́"
+    },
+    {
+      "surface": "וקדיש",
+      "gloss": "àti ẹni mímọ́"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "sọ̀kalè"
+    }
+  ],
+  "timestamp": "2026-08-23T04:49:57.715403742Z",
+  "model": "glm-5.3"
+}

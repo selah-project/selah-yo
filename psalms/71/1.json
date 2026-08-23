@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Nínú rẹ, Yahweh, ni mo ti gbẹ́ mí lọ́rẹ̀; má ṣe jẹ́ kí n ṣèṣe lailai.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "nínú rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mo ti gbẹ́ mí lọ́rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "jẹ́ kí n ṣèṣe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "láilái"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:49.763505282Z",
+  "model": "glm-5.3"
+}

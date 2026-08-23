@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 108,
+  "translation": "Fún wa ní ìrànlọ́wọ́ kúrò nínú ìṣòro; nítorí pé ṣòfo ni ìrànlọ́wọ́ ti ènìyàn.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Fún"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa ní"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ìrànlọ́wọ́"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "kúrò nínú ìṣòro"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ṣòfo"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ìrànlọ́wọ́"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:08.485540292Z",
+  "model": "glm-5.3"
+}

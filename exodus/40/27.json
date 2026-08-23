@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ó sì sun ⟨את⟩-orí rẹ̀ ejò dùrórò gẹ́gẹ́ bí Yahweh ti pa Moshe lṣ.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "sun (ejò)"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "orí rẹ̀"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ejò"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "dùrórò"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pa ... lṣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:25.392083056Z",
+  "model": "glm-5.3"
+}

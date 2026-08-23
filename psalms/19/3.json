@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ọjọ́ ń sọ ọ̀rọ̀ fún ọjọ́, òru ń fi ìmọ̀ hàn fún òru.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Ọjọ́"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "fún ọjọ́"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "ń sọ ọ̀rọ̀"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "àti òru"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "fún òru"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "ń fi ... hàn"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ìmọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:19.340619474Z",
+  "model": "glm-5.3"
+}

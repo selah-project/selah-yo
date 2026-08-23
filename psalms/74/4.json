@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Àwọn ọ̀tá rẹ rajẹ nínú àárín ibi-ìpàdé rẹ; wọ́n ti gbé àwọn àmì wọn sí ipò àwọn àmì.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "wọ́n rajẹ"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "àwọn ọ̀tá rẹ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nínú àárín"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "ibi-ìpàdé rẹ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "wọ́n ti gbé"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "àwọn àmì wọn"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "sí ipò àwọn àmì"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:54.663853952Z",
+  "model": "glm-5.3"
+}

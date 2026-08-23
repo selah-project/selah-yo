@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Yahweh sì wí fún Moshe: \"Lọ sí ọ̀dọ̀ àwọn ènìyàn, kí o sì ṣe wọ́n ní mímọ́ ó òní àti ọ̀la, kí wọ́n sì fọ àwọn aṣọ wọn mọ́.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "kí o sì ṣe wọ́n ní mímọ́"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ó òní"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "àti ọ̀la"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "kí wọ́n sì fọ mọ́"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "àwọn aṣọ wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:51.705791156Z",
+  "model": "glm-5.3"
+}

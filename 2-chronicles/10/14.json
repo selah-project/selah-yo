@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 10:14",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó sì bá wọn sọ̀rọ̀ bí ìmọ̀ràn àwọn ọmọdé, wí pé, Bàbá mi ṣe ⟨את⟩ èrò yìn lóru, èmi yóò dafikún lórí rẹ̀; bàbá mi ṣọ́tọ̀ ⟨את⟩ yín pẹ̀lú ọ̀tún, èmi sì pẹ̀lú àkàkà.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sì bá wọn sọ̀rọ̀"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "bí ìmọ̀ràn"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "àwọn ọmọdé"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "אכביד",
+      "gloss": "ṣe lóru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èrò yìn"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "èrò yìn"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "yóò dafikún"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bàbá mi"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ṣọ́tọ̀"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "pẹ̀lú ọ̀tún"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "pẹ̀lú ọ̀tún"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "èmi sì"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "pẹ̀lú àkàkà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:27:14.297065641Z",
+  "model": "glm-5.3"
+}

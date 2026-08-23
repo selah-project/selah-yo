@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ó sì kì í, ó sì wí pé, Kí ni ìránṣẹ́ rẹ, tí ó fi yanjú sí ajá kú tí ó dà bíi èmi?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "Ó sì kì í"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kí ni"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tí ó fi"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "yanjú sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "ajá"
+    },
+    {
+      "surface": "המת",
+      "gloss": "kú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó dà bíi"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "èmi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:00:04.238510150Z",
+  "model": "glm-5.3"
+}

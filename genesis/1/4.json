@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Elohim sì rí ⟨את⟩ ìmọ́lẹ̀ pé ⟨ó⟩ dára, Elohim sì yà ⟨sílẹ̀⟩ làáárín ìmọ́lẹ̀ àti làárin òkùnkùn.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "sì rí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìmọ́lẹ̀"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ìmọ́lẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "sì yà sílẹ̀"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "làáárín"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ìmọ́lẹ̀"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti làáárín"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "òkùnkùn"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:53.194840015Z",
+  "model": "glm-5.3"
+}

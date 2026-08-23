@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Nítorí mo ti jẹ èérú bíi oúnjẹ, èmi sì ti darapọ̀ mímu mi pẹ̀lú ìkígbe ọjọ́ún.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "èérú"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "bíi oúnjẹ"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "mo ti jẹ"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "èmi sì ti darapọ̀ mímu mi"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "pẹ̀lú ìkígbe ọjọ́ún"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ti darapọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:20.766302703Z",
+  "model": "glm-5.3"
+}

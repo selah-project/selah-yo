@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 128,
+  "translation": "Ki Yahweh bùkún ọ láti Tsiyon, kí o sì rí oore ti Yerushalayim, nígbà gbogbo àwọn ọjọ́ ìyè rẹ.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "kí ó bùkún ọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "láti Tsiyon"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kí o sì rí"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "oore ti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "àwọn ọjọ́"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ìyè rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:58.640746690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 66,
+  "translation": "Nítorí ìwọ, Elohim, ti dán wa wò; ìwọ ti yọ wa mọ́ bí àṣe ìyọmọ́ ti fàdákà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "ìwọ ti dán wa wò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "ìwọ ti yọ wa mọ́"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "bí àṣe ìyọmọ́"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ti fàdákà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:19.783356595Z",
+  "model": "glm-5.3"
+}

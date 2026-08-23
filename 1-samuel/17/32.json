@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 17:32",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "David sì wí fún Shaulu pé: kí ọkàn ènìyàn má ṣègbé lórí rẹ̀; ìránṣẹ́ rẹ yóò lọ, ó sì ní láti bá Plishti yìí jagun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kí … má ṣe"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ṣègbé"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "yóò lọ"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "ó sì ní láti jagun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bá"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Plishti"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:50:12.151201324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Àwọn Pelishtim sì kó jọ, wọ́n sì wá, wọ́n sì kó ilé-iṣẹ́ ogun sí Shunem. Sha'ul sì kó ⟨את⟩ gbogbo Yisrael jọ, wọ́n sì kó ilé-iṣẹ́ ogun sí Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "wọ́n sì kó jọ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Pelishtim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wọ́n sì wá"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wọ́n sì kó ilé-iṣẹ́ ogun sí"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ó sì kó jọ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wọ́n sì kó ilé-iṣẹ́ ogun sí"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-23T00:55:45.305438138Z",
+  "model": "glm-5.3"
+}

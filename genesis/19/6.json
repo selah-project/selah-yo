@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Lot jáde wá sọ́dọ̀ wọn, sí ohun-ìjàbabọ̀, ó sì ti ilẹ̀kun lẹ́yìn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "jáde"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wá sọ́dọ̀ wọn"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "sí ohun-ìjàbabọ̀"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "ò ó sì ti ilẹ̀kun"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "lẹ́yìn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T22:59:32.551333673Z",
+  "model": "glm-5.3"
+}

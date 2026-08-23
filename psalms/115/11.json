@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 115,
+  "translation": "Àwọn tí ń bẹ̀rù̀ Yahweh, ẹ gbégbẹ́kẹ̀ lé Yahweh; ìrànlọ́wọ́ wọn àti ètí-ìdáàbòbọ̀ wọn ni Òun.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Àwọn tí ń bẹ̀rù̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ẹ gbégbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ìrànlọ́wọ́ wọn"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "àti ètí-ìdáàbòbọ̀ wọn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Òun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:05.208623566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ìwọ kí ó sì ṣe ⟨את⟩ èpò yìí — èpò ìyọ̀ mímọ́, ohun ìdúnlọ̀ tí a rọ̀ pọ̀, iṣẹ́ olùrọ̀-òògùn; èpò ìyọ̀ mímọ́ ni yió jẹ́.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kí ó sì ṣe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "èpò yìí"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "èpò"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ìyọ̀"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ohun ìdúnlọ̀"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "tí a rọ̀ pọ̀"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "olùrọ̀-òògùn"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "èpò"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ìyọ̀"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ni yió jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:33.632003088Z",
+  "model": "glm-5.3"
+}

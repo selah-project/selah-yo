@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Mo rí ⟨את⟩ gbogbo àwọn iṣẹ́ tí a ṣe lábẹ́ oòrùn; kiíye, gbogbo rẹ̀ ni hével àti èefú ẹ̀mí.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Mo rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn iṣẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "àwọn iṣẹ́"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "tí a ṣe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "oòrùn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kiíye"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "gbogbo rẹ̀"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hével"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "àti èefú"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:33.040839145Z",
+  "model": "glm-5.3"
+}

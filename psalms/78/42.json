@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Wọn kò rántí ọwọ́ rẹ̀, ọjọ́ tí ó gba wọn là nípa owó nínu ọ̀tá.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "wọn rántí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "ó gba wọn là nípa owó"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nínu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ọ̀tá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:14.674489474Z",
+  "model": "glm-5.3"
+}

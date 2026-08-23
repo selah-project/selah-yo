@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Tí ó bá jẹ́ pé ní ìgbà ìfónilẹ̀ wọ́n bá rí olè, tí wọ́n lu ú tí ó sì kú, ẹ̀jẹ̀ kò sí fún un.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí ó bá jẹ́ pé"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "ní ìgbà ìfónilẹ̀"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "wọ́n bá rí"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "olè"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "tí wọ́n lu ú"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "tí ó sì kú"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ẹ̀jẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:27.980889770Z",
+  "model": "glm-5.3"
+}

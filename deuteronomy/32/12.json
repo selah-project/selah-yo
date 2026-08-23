@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Yahweh nìkan ló ṣì í lọ; kò sì El àjèjì pẹ̀lú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "nìkan"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ló ṣì í lọ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "àjèjì"
+    }
+  ],
+  "timestamp": "2026-08-23T00:21:30.746373640Z",
+  "model": "glm-5.3"
+}

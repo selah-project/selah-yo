@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Fún olùdarí-orin; orin ti Dawid; Elohim ti ìyìn mi, má ṣe tọ̀ǹtọ̀n.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí-orin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ti ìyìn mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "tọ̀ǹtọ̀n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:43.084506277Z",
+  "model": "glm-5.3"
+}

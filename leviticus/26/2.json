@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "⟨את⟩ àwọn ọjọ́ ìsinmi Mi ẹ ṣọ̀, àti ibi mímọ́ Mi ẹ bẹ̀rù; emi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọjọ́ ìsinmi Mi"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "àwọn ọjọ́ ìsinmi Mi"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ẹ ṣọ̀"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "àti ibi mímọ́ Mi"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ẹ bẹ̀rù"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:33.854943335Z",
+  "model": "glm-5.3"
+}

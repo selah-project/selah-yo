@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Tí o bá jẹ́ ẹní ṣọ̀títọ́, kí ni o fún ún? Tàbí kí ni ó gbà lọ́wọ́ rẹ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí o bá"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "jẹ́ ẹní ṣọ̀títọ́"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "o fún"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ún"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "lọ́wọ́ rẹ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ó gbà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:27:52.476308572Z",
+  "model": "glm-5.3"
+}

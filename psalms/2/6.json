@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ṣùgbọ́n èmi ti gbé ọba mi kalẹ̀ lórí Tsiyon, òkè míìmọ́ mi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "ti gbé kalẹ̀"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ọba mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "míìmọ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:52.432339670Z",
+  "model": "glm-5.3"
+}

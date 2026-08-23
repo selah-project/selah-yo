@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ní àárọ̀ gbín ⟨את⟩ irúgbín rẹ, ní ìrọ̀lẹ́ sì má ṣe fi ọwọ́ rẹ sílẹ̀, nítorí pé o kò mọ̀ èyí tí yóò ṣeéṣe, èyí yìí tàbí èyí, tàbí bí mejeeji bá dára pọ̀.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "gbín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irúgbín rẹ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "irúgbín rẹ"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ní ìrọ̀lẹ́ sì"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "fi sílẹ̀"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "אי",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yóò"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "ṣeéṣe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "èyí yìí"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tàbí bí"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mejeeji"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "pọ̀"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "dára"
+    }
+  ],
+  "timestamp": "2026-08-23T04:43:30.889545110Z",
+  "model": "glm-5.3"
+}

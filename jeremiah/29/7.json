@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 29:7",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ẹ sì wá ⟨את⟩ àlàáfíà ti ilú tí mo gbé yín ká sí ibẹ̀, ẹ sì gbàdùrà nítorí rẹ̀ sí Yahweh; nítorí ní àlàáfíà rẹ̀ ni àlàáfíà yín yóò wà.",
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "ẹ sì wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àlàáfíà ti ilú"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ilú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הגליתי",
+      "gloss": "mo gbé yín ká"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín (fúnni-ìṣàkóso אֶתְכֶם)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sí ibẹ̀"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "ẹ sì gbàdùrà"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "nítorí rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "בשלומה",
+      "gloss": "ní àlàáfíà rẹ̀"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà yín"
+    }
+  ],
+  "timestamp": "2026-08-23T02:21:07.091976421Z",
+  "model": "glm-5.3"
+}

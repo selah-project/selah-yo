@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ìwọ kì í ṣe, o gbọdọ̀ ṣe ⟨את⟩ àwọn ọ̀pá náà pẹ̀lú ìròko shittim, kí o sì fi wúrà bora mọ́ ⟨את⟩ wọn, kí wọ́n lè fi gbé ⟨את⟩ àtẹ́ náà.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o gbọdọ̀ ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀pá náà"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "àwọn ọ̀pá náà"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ìròko"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "kí o sì fi bora mọ́"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "kí wọ́n lè fi gbé"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pẹ̀lú wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àtẹ́ náà"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "àtẹ́ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:58.829814802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ẹ̀dá tí ó bá ṣẹ̀, tí ó sì ṣẹ́ ìkọ̀ṣẹ́ sí Yahweh, tí ó sì parọ́ sí ẹlòmíràn rẹ̀ — nínú ìgbànípa, tàbí nínú ìgbékalẹ̀ ọwọ́, tàbí nínú ìjìnbà, tàbí tí ó panilára ⟨את⟩ ẹlòmíràn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Ẹ̀dá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "bá ṣẹ̀"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ṣẹ́ ìkọ̀ṣẹ́"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ìkọ̀ṣẹ́"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "parọ́"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "sí ẹlòmíràn rẹ̀"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "nínú ìgbànípa"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "nínú ìgbékalẹ̀"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "nínú ìjìnbà"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "panilára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹlòmíràn rẹ̀"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "ẹlòmíràn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:36:47.507531974Z",
+  "model": "glm-5.3"
+}

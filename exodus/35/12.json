@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "⟨את⟩ Aron náà, àti ⟨את⟩ àwọn ọ̀tá rẹ̀, ⟨את⟩ Kapporet náà, àti ⟨את⟩ Parokhet Masakh náà.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron náà"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọ̀tá rẹ̀"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "àwọn ọ̀tá rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kapporet náà"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kapporet náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Parokhet Masakh náà"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "Parokhet"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "Masakh náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:29:53.986284064Z",
+  "model": "glm-5.3"
+}

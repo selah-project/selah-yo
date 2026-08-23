@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Kì í gbọ́dọ̀ sí àwọn ọlọ́run míràn fún ọ ní ojú Mi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í gbọ́dọ̀"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "àwọn ọlọ́run"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "míràn"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:07.411863211Z",
+  "model": "glm-5.3"
+}

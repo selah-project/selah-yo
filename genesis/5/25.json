@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Metushelach sì gbé ọdún méjìdínlọ́gọ́rùn-ún àti méje, ó sì bí ⟨את⟩ Lemek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "sì gbé"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelach"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "méje"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "méjìdínlọ́gọ́rùn-ún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "àti ọgọ́rùn-ún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemek"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:26.571964336Z",
+  "model": "glm-5.3"
+}

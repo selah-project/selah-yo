@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Nígbà tí ó bá ṣe iṣẹ́ ⟨את⟩ ilẹ̀, kì yóò ṣe é mọ́ fi agbára rẹ̀ hàn fún ẹ; olúsàlọ̀ àti olúṣọfọ̀ ni iwọ ní ayé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nígbà tí"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ó bá ṣe iṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "yóò ṣe é mọ́"
+    },
+    {
+      "surface": "תת",
+      "gloss": "fi … hàn"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "agbára rẹ̀"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ẹ"
+    },
+    {
+      "surface": "נע",
+      "gloss": "olúsàlọ̀"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "àti olúṣọfọ̀"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ni iwọ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T05:39:06.278545035Z",
+  "model": "glm-5.3"
+}

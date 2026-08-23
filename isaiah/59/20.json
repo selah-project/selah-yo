@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 59,
+  "translation": "Ó dùn ún wá sí Tsiyoni, Olùgbaniyànjà; àti fún àwọn tí ó yípadà kúrò lẹ́yìn ìṣẹ̀ àìṣeètàn ní Yaakov, ìsọ̀tàn Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ó dùn ún wá"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "sí Tsiyoni"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "Olùgbaniyànjà"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "àti fún àwọn tí ó yípadà sí"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ìṣẹ̀ àìṣeètàn"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ní Yaakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ìsọ̀tàn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T02:03:12.655309991Z",
+  "model": "glm-5.3"
+}

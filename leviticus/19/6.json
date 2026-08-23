@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ní ọjọ́ ìṣọ̀fọ̀ yín ni a ó jẹ ọ́, àti ní ọjọ́ ìsílẹ̀; èyí tí ó bá kù títí di ọjọ́ kẹta, ní iná ni a ó sún ń.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "ìṣọ̀fọ̀ yín"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a ó jẹ ọ́"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "àti ní ọjọ́ ìsílẹ̀"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "èyí tí ó bá kù"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kẹta"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ní iná"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "a ó sún ń"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:22.113550475Z",
+  "model": "glm-5.3"
+}

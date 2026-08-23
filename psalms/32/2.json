@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Aiyọ̀ ni ti ọmọ aráyé tí Yahweh kò gbà ⟨kà⟩ sí i ⟨את⟩ àṣẹ́, àti tí kò sí ìkanra nínú ẹ̀mí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "aiyọ̀"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ọmọ aráyé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "gbà kà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "עון",
+      "gloss": "àṣẹ́"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "àti tí kò sí"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ninú ẹ̀mí rẹ̀"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ìkanra"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:01.354660736Z",
+  "model": "glm-5.3"
+}

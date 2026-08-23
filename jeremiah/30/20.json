@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 30:20",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Àti àwọn ọmọ rẹ yóò dà bí ti ìṣaájú, àti ìjọ rẹ yóò dúró ṣinṣin níwájú mi; èmi yóò ṣe ìdaraja lórí gbogbo àwọn amúnisọ̀rọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "כקדם",
+      "gloss": "bí ti ìṣaájú"
+    },
+    {
+      "surface": "ועדתו",
+      "gloss": "àti ìjọ rẹ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "yóò dúró ṣinṣin"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "èmi yóò ṣe ìdaraja"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "לחציו",
+      "gloss": "àwọn amúnisọ̀rọ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:20:17.935953885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Wọ́n sì gbé ⟨את⟩ ákáàti Yahweh, àti ⟨את⟩ àgọ́ ìpàdé, àti ⟨את⟩ gbogbo irinṣẹ́ ìmímọ́ tí ó wà nínú àgọ́ náà sókè; àwọn àlùfáà àti àwọn Lefi ni wọ́n gbé ⟨את⟩ wọn sókè.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Wọ́n sì gbé…sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ákáàti Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ákáàti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àgọ́ ìpàdé"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo irinṣẹ́ ìmímọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "irinṣẹ́"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ìmímọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nínú àgọ́ náà"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "Wọ́n gbé…sókè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "àwọn Lefi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:15:36.667239464Z",
+  "model": "glm-5.3"
+}

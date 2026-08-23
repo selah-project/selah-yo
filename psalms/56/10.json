@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 56,
+  "translation": "Nígbà yẹn ni àwọn ọ̀tá yóò padà sẹ́yìn, ní ọjọ́ tí èmi bá pè; èyí ni mo mọ̀, pé Elohim wà fún mi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "nígbà yẹn"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "yóò padà sẹ́yìn"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "sẹ́yìn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "tí èmi bá pè"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mo mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wà fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:26.134939351Z",
+  "model": "glm-5.3"
+}

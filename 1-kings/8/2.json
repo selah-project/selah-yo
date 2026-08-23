@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Wọ́n péjọ pọ̀ sí ọ̀dọ̀ ọba Shelomoh, gbogbo ọkùnrin Yisrael, ní oṣù Etanim, nínú àjọ̀dún — ìyẹn ni oṣù kẹ́je.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "Wọ́n péjọ pọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "ní oṣù"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Etanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "nínú àjọ̀dún"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ìyẹn"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "oṣù"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "kẹ́je"
+    }
+  ],
+  "timestamp": "2026-08-23T01:15:36.666915059Z",
+  "model": "glm-5.3"
+}

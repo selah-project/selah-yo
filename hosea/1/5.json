@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì máa ṣẹlẹ̀ ní ọjọ́ yẹn, èmi yóò sì fọ́ ⟨את⟩ ọ̀kọ̀ta-oró Israel ní ìdí gbúngbà Yizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ó sì máa ṣẹlẹ̀"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "èmi yóò sì fọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀kọ̀ta-oró"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ọ̀kọ̀ta-oró"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ní ìdí gbúngbà"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-23T03:01:17.185788392Z",
+  "model": "glm-5.3"
+}

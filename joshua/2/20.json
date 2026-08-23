@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ṣùgbọ́n tí ìwọ bá sọ ⟨את⟩ ọ̀rọ̀ wa yìí jáde, àwa yóò sì di aláìẹ̀wọ̀n nítorí májẹ̀mú rẹ tí ìwọ ti sọ̀ di májẹ̀mú fún wa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ṣùgbọ́n tí ìwọ bá"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "sọ jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ wa yìí"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "ọ̀rọ̀ wa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "àwa yóò sì di"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "aláìẹ̀wọ̀n"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "nítorí májẹ̀mú rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ìwọ ti"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "sọ̀ di májẹ̀mú fún wa"
+    }
+  ],
+  "timestamp": "2026-08-23T00:23:27.638006745Z",
+  "model": "glm-5.3"
+}

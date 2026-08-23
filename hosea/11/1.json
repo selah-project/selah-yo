@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Nítorí tí ọmọdé ni Yisrael, mo sì fẹ́rẹ̀àn án; láti Mísraìm ni mo pè mí àwọn ọmọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí tí"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ọmọdé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "mo sì fẹ́rẹ̀àn án"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "láti Mísraìm"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mo pè"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mí àwọn ọmọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:03:13.515613615Z",
+  "model": "glm-5.3"
+}

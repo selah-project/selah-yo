@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Yahweh yóò ṣe ìyàtọ̀ láàárín ẹran-ọ̀sìn Israẹli àti láàárín ẹran-ọ̀sìn Mísraim; èyí tí ó jẹ́ ti àwọn ọmọ Israẹli kì yóò kú nínú rẹ̀ rárá.",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "yóò ṣe ìyàtọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàárín"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mísraim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì yóò ... rárá"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kú"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ninú rẹ̀ gbogbo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ti àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ohun kan"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:53.432912633Z",
+  "model": "glm-5.3"
+}

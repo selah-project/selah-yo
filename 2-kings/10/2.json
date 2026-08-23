@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ìsísíyìí, bí lẹ́tà yìí bá dé ọ̀dọ̀ yín, àti ⟨את⟩ pẹ̀lú yín ni àwọn ọmọ olúwa yín, àti ⟨את⟩ pẹ̀lú yín ni àwọn ẹṣin-irin àti àwọn ọmọ ẹṣin, àti ìlú ológun gbígbé, àti ohun ìjà",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ìsísíyìí"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "bí ó ti bá dé"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "lẹ́tà náà"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ọ̀dọ̀ yín"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "àti ⟨את⟩ pẹ̀lú yín",
+      "marks": "àwọn ọmọ olúwa yín"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "olúwa yín"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "àti ⟨את⟩ pẹ̀lú yín",
+      "marks": "àwọn ẹṣin-irin àti àwọn ọmọ ẹṣin"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "àwọn ẹṣin-irin"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "àti àwọn ọmọ ẹṣin"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "àti ìlú"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ológun gbígbé"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "àti ohun ìjà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:47.638142418Z",
+  "model": "glm-5.3"
+}

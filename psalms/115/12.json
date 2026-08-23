@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 115,
+  "translation": "Yahweh rántí wa; Ó máa bùkún — Ó máa bùkún ⟨את⟩ ìdílé Yisraeli, Ó máa bùkún ⟨את⟩ ìdílé Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "rántí wa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "Ó máa bùkún"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "Ó máa bùkún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdílé Yisraeli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ìdílé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "Ó máa bùkún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdílé Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ìdílé"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:05.208760825Z",
+  "model": "glm-5.3"
+}

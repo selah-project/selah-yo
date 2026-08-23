@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Baba wa sọ pé: Pàdànu, ẹ ra oúnjẹ díẹ̀ fún wa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sọ pé"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baba wa"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "pàdànu"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ẹ ra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "díẹ̀"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "oúnjẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:12:49.741580581Z",
+  "model": "glm-5.3"
+}

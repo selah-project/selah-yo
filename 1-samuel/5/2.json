@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àwọn Filistini sì mú ⟨את⟩ ágbá Elohim, wọ́n sì mú ágbá náà wọ ilé Dagon, wọ́n sì gbé e jọ sí ẹ̀gbẹ́ Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "wọ́n sì mú"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Àwọn Filistini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ágbá Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ágbá"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "wọ́n sì mú ágbá náà wọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-rẹ̀",
+      "marks": "ilé Dagon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "wọ́n sì gbé e jọ sí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-rẹ̀",
+      "marks": "ẹ̀gbẹ́ Dagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ẹ̀gbẹ́"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:45.079627065Z",
+  "model": "glm-5.3"
+}

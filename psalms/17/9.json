@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ní ojú àwọn olè-èṣe tí ó pa mí lẹ́wọ̀n, tí ń pa mí ní ìparun, ọ̀tá mi; nípa èmí wọ́n gbẹ́yìn lé mi.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn olè-èṣe"
+    },
+    {
+      "surface": "זו",
+      "gloss": "tí ó"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "pa mí lẹ́wọ̀n"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ọ̀tá mi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nípa èmí"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "wọ́n gbẹ́yìn lé"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:44.706761289Z",
+  "model": "glm-5.3"
+}

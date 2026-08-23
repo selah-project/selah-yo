@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ìjìyà ní fún Ashur, ọ̀yà ìbínú mi, òpá tí ó wà ní ọwọ́ wọn ni ìránù mi.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ìjìyà ní fún"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ọ̀yà"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ìbínú mi"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "àti òpá"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ní ọwọ́ wọn"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "ìránù mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:43:16.582176392Z",
+  "model": "glm-5.3"
+}

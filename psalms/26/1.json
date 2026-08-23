@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Fún David. Ṣèjá mi, Yahweh, nítorí pé èmi rìn nínú ìmọ́lágbára mi, àti nínú Yahweh ni mo gbẹ́kẹ̀ lé, kì í ṣe pé moò gbé ṣubú.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Fún David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Ṣèjá mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "nínú ìmọ́lágbára mi"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "mo rìn"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "àti nínú Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mo gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe pé"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "moò gbé ṣubú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:43.065262282Z",
+  "model": "glm-5.3"
+}

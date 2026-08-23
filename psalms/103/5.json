@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Ẹni tí ó ń ṣẹ́nnú-oúnjẹ rẹ pẹ̀lú ohun rere; ọ̀dọ́ rẹ máa ń tún wà ní tuntun bí ti ẹyẹ ìdà.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Ẹni tí ó ń ṣẹ́nnú-oúnjẹ rẹ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "pẹ̀lú ohun rere"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ọ̀rẹ́ rẹ"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "máa ń tún wà ní tuntun"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "bí ti ẹyẹ ìdà"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "ọ̀dọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:17.551768171Z",
+  "model": "glm-5.3"
+}

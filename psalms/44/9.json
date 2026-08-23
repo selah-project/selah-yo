@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Nínú Elohim ni a ti yọ̀ dáadáa gbogbo ọjọ́, ní orúkọ rẹ ni a ó dùn órín fún láé láé. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Nínú Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "ni a ti yọ̀ dáadáa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "ní orúkọ rẹ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "fún láé láé"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "ni a ó dùn órín"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:49.729781510Z",
+  "model": "glm-5.3"
+}

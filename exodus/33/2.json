@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Èmi yóò rán ojíṣẹ́ síwájú rẹ, èmi yóò sì lé ⟨את⟩ Kenaani, ha-Emori, wa-Hiti, wa-Perizi, ha-Hivi àti wa-Yevusi kúrò.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Èmi yóò rán"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "síwájú rẹ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ojíṣẹ́"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "èmi yóò sì lé kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ha-Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "wa-Hiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "wa-Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ha-Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "wa-Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:29:11.270482759Z",
+  "model": "glm-5.3"
+}

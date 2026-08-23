@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àwọn kíkì amọ̀ ṣubú, ṣùgbọ́n a ó kọ́ sílẹ̀ pẹ̀lú okúta tí a gé; àwọn igì síkamọ́rì ti wọ́n gé, ṣùgbọ́n a ó fi àwọn igì sídárà rọ́pò wọn.",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "àwọn kíkì amọ̀"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ṣubú"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "ṣùgbọ́n pẹ̀lú okúta tí a gé"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "a ó kọ́ sílẹ̀"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "àwọn igì síkamọ́rì"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "wọ́n gé"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "ṣùgbọ́n àwọn igì sídárà"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "a ó rọ́pò wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:43:56.503479613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Dafidi sì fi ọmọ ọkùnrin mẹ́wàá ránṣẹ́, Dafidi sì wí fún àwọn ọmọ ọkùnrin náà pé, ẹ gòórò lọ sí Karmeli, ẹ sì máa bá Nabali, ẹ sì béèrè lọ́wọ́ rẹ̀ ní orúkọ mi nípa àlàáfíà.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì fi ránṣẹ́"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ọmọ ọkùnrin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "fún àwọn ọmọ ọkùnrin náà"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ẹ gòórò lọ"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "sí Karmeli"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ẹ sì máa bá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabali"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "ẹ sì béèrè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lọ́wọ́ rẹ̀"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ní orúkọ mi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nípa àlàáfíà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:49:53.576582635Z",
+  "model": "glm-5.3"
+}

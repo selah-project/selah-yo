@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Ẹgbẹ̀rún kan fún ẹ̀yà kọ̀ọ̀kan, ẹgbẹ̀rún kan fún ẹ̀yà kọ̀ọ̀kan — fún gbogbo àwọn ẹ̀yà Yisrael — ẹ máa fi ránṣẹ́ sí ogun.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "Ẹgbẹ̀rún kan"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "fún ẹ̀yà kọ̀ọ̀kan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbẹ̀rún kan"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "fún ẹ̀yà kọ̀ọ̀kan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "àwọn ẹ̀yà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "ẹ máa fi ránṣẹ́"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "sí ogun"
+    }
+  ],
+  "timestamp": "2026-08-23T00:03:39.845804619Z",
+  "model": "glm-5.3"
+}

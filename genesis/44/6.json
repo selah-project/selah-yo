@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Ó mú wọn, ó sì bá wọn sọ̀rọ̀ ⟨את⟩ àwọn ọ̀rọ̀ wọnyí.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "ó mú wọn"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ó sì bá wọn sọ̀rọ̀"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sọ̀rọ̀ wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀rọ̀ wọnyí"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:12:00.479961281Z",
+  "model": "glm-5.3"
+}

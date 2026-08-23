@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Ọlá Yahweh jẹ́ ti láé láé; Yahweh yóò dúnlẹ̀ nínú iṣẹ́ ọwọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "jẹ́ ti"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Ọlá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "láé láé"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "yóò dúnlẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "nínú iṣẹ́ ọwọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:45.069749138Z",
+  "model": "glm-5.3"
+}

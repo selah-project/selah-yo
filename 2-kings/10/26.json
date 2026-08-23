@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Wọ́n sì mú ⟨את⟩ àwọn òkúta-ìrántí ilé Baal jáde, wọ́n sì sun un.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "wọ́n sì mú jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òkúta-ìrántí ilé Baal"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "àwọn òkúta-ìrántí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "wọ́n sì sun un"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:12.264089641Z",
+  "model": "glm-5.3"
+}

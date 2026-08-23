@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ẹ sì mọ̀ pé Yahweh ti yà ẹni-àjọmọ̀ràpadà sọ́tra fún ara rẹ̀; Yahweh yóò gbọ́ nígbà tí mo bá pè ọ́.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Ẹ sì mọ̀ pé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "ti yà… sọ́tra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ẹni-àjọmọ̀ràpadà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún ara rẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "yóò gbọ́"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "nígbà tí mo bá pè"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:19.975283405Z",
+  "model": "glm-5.3"
+}

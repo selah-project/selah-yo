@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Àwọn Kehati sì fò kúrò, wọ́n gbé ⟨את⟩ àwọn ohun mímọ́ jáde; àwọn mírò sì gbé ⟨את⟩ ilé ìgboyà dìde kí wọn tó dé ibi.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "wọ́n sì fò kúrò"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "àwọn Kehati"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ẹni tí ó ń gbé"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "àwọn ohun mímọ́"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "wọ́n sì gbé dìde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé ìgboyà"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ilé ìgboyà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kí wọn tó"
+    },
+    {
+      "surface": "באם",
+      "gloss": "dé ibi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:52:25.167493340Z",
+  "model": "glm-5.3"
+}

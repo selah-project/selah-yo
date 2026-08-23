@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ó sì fún àwọn ọmọ Merari ⟨את⟩ ọkọ̀ ẹlẹ́sẹ̀ mẹ́rin àti ⟨את⟩ màlúù mẹ́jọ, gẹ́gẹ́ bí ìwọ̀n iṣẹ́ wọn ṣe jẹ́, lọ́wọ́ Itamar ọmọ Aharon ábàálájọ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọkọ̀ ẹlẹ́sẹ̀ mẹ́rin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mẹ́rin"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ọkọ̀ ẹlẹ́sẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "màlúù mẹ́jọ"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "mẹ́jọ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "màlúù"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ó fún"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gẹ́gẹ́ bí ìwọ̀n"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "iṣẹ́ wọn"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ábàálájọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:50:46.765960176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ọkùnrin kan láti ilé Levi lọ, ó sì gba ⟨את⟩ ọmọbìnrin Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin kan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "láti ilé"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọbìnrin Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbìnrin"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:25.107640835Z",
+  "model": "glm-5.3"
+}

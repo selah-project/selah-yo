@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Israel ti wà ní ìgbàlà ní Yahweh, ìgbàlà àwọn ayé àìpẹ́; ẹ kì yóò ṣẹ̀, ẹ kì yóò sì tìrí fún ẹ̀gbin, títí dé àwọn ayé ayé-àìpẹ́.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "ti wà ní ìgbàlà"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ní Yahweh"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "àwọn ayé àìpẹ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "ẹ yóò ṣẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kì í ṣe"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "ẹ yóò tìrí fún ẹ̀gbin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "àwọn ayé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ayé-àìpẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:55:31.024210789Z",
+  "model": "glm-5.3"
+}

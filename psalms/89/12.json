@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Ti Rẹ ni ọ̀run, sì ti Rẹ ni ayé; àgbáyé àti èye rẹ̀ — Iwọ ló dá ìpìlẹ̀ wọn.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ti Rẹ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sì"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti Rẹ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "àgbáyé"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "àti èye rẹ̀"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Iwọ"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "ló dá ìpìlẹ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:01.482554977Z",
+  "model": "glm-5.3"
+}

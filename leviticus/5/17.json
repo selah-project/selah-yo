@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ẹnìyàn tí ó bá ṣẹ̀, tí ó sì ṣe ọ̀kan nínú àwọn àṣẹ Yahweh tí a kò gbọdọ̀ ṣe, tí kò sì mọ̀ — ó ti di ẹlẹ́ṣẹ̀, ó sì ru ẹṣẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ẹnìyàn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "ṣẹ̀"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "tí ó sì ṣe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nínú àwọn"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "àṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "gbọdọ̀ ṣe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tí kò sì"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ó ti di ẹlẹ́ṣẹ̀"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ó sì ru"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ẹṣẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:31.316129600Z",
+  "model": "glm-5.3"
+}

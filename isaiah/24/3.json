@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ṣíṣọ́fọ́ ni a ti ṣọ́fọ́ ilẹ̀ ayé, ṣíṣàwọ́ ni a ti wọ́ ó jà; nítorí Yahweh ló ti sọ ⟨את⟩ ọ̀rọ̀ yìí.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "ṣíṣọ́fọ́"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "a ti ṣọ́fọ́"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "ṣíṣàwọ́"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "a ti wọ́ ó jà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ló ti sọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ yìí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:49:35.755038351Z",
+  "model": "glm-5.3"
+}

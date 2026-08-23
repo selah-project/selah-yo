@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Èyí ni ẹranko tí ẹ gbọ́dọ̀ jẹ: màlúù, ọ̀yàiyai àgùntàn, àti ọ̀yàiyai ewúrẹ́.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ẹ gbọ́dọ̀ jẹ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "màlúù"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ọ̀yàiyai"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "àgùntàn"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "àti ọ̀yàiyai"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ewúrẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:45:20.193375260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 112,
+  "translation": "Ó ti tàn ká, ó ti fún àwọn aláraìní lọ́rọ̀; ẹ̀tọ́-ìdájọ́ rẹ̀ dúró dúró títí láé; ìràwẹ̀ rẹ̀ yóò gòógò lórí ògo.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "ó ti tàn ká"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ó ti fún… lọ́rọ̀"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "àwọn aláraìní"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ẹ̀tọ́-ìdájọ́ rẹ̀"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "dúró dúró"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "títí láé"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "ìràwẹ̀ rẹ̀"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "yóò gòógò"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "lórí ògo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:30.595563336Z",
+  "model": "glm-5.3"
+}

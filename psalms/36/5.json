@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Àìṣeṣe ni ó ń rò ní orí ibùṣẹ̀ rẹ̀, ó dúró ṣinṣin dé ọ̀nà tí kò dára, búburú ni kò kọ̀.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "àìṣeṣe"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ń rò"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní orí"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ibùṣẹ̀ rẹ̀"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ó dúró ṣinṣin"
+    },
+    {
+      "surface": "על",
+      "gloss": "dé"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "kọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:31.136111275Z",
+  "model": "glm-5.3"
+}

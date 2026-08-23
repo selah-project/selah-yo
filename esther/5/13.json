@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 5:13",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ṣùgbọ́n gbogbo èyí kò ṣeé wúlò fún mi ní gbogbo àsìkò tí mo bá ń rí ⟨את⟩ Mordecai ará Yehuda jókòó ní ọ̀nà ọba.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ṣùgbọ́n gbogbo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "kò ṣeé"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "wúlò"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "àsìkò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ń rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordecai ará Yehuda"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "ará Yehuda"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "jókòó"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ní ọ̀nà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T04:43:50.785517923Z",
+  "model": "glm-5.3"
+}

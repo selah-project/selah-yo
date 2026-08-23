@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 11:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Àwọn ọkùnrin Yavesh sì wí pé: Lọ́la a ó jáde wá sí ọ̀dọ̀ yín, ẹ̀yin sì lè ṣe tiwa bí ohun tí ó dára lójú yín.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí pé"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "lọ́la"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "a ó jáde wá"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sí ọ̀dọ̀ yín"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ẹ̀yin sì lè ṣe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tiwa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bí ohun tí"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "tó dára"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "lójú yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:45:59.023465082Z",
+  "model": "glm-5.3"
+}

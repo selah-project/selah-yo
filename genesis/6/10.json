@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Noach sì bí ọmọkùnrin mẹ́ta: ⟨את⟩ Shem, ⟨את⟩ Cham, àti ⟨את⟩ Yefet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "sì bí"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ọmọkùnrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:48.691644431Z",
+  "model": "glm-5.3"
+}

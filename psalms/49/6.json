@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Èdé tí mo fi ń paya ní àwọn ọjọ́ búburú, nígbà tí àìṣẹ̀ ìtẹ̀lẹ́ mi yí mi kárí?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Èdé"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mo fi ń paya"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ní àwọn ọjọ́"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "עון",
+      "gloss": "àìṣẹ̀"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "ìtẹ̀lẹ́ mi"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "yí mi kárí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:25.573674850Z",
+  "model": "glm-5.3"
+}

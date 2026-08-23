@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ìjà àwọn ogun sì jẹ́ gígùn láàárín ilé Shaul àti láàárín ilé David; David sì ń rin dúró ṣinṣin, ilé Shaul sì ń rin lọ díẹ̀díẹ̀.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "sì jẹ́"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ìjà àwọn ogun"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "gígùn"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàárín"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "David sì"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ń rin"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "dúró ṣinṣin"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ń rin lọ"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "díẹ̀díẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:58:21.969936262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 23:5",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Èmi yóò mọ̀ àwọn ọ̀rọ̀ tí òun yóò dá mi lójú, èmi yóò sì dá lóye irú ohun tí òun lè sọ fún mi.",
+  "tokens": [
+    {
+      "surface": "אדעה",
+      "gloss": "Èmi yóò mọ̀"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "tí òun yóò dá mi lójú"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "èmi yóò sì dá lóye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "irú ohun"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "tí òun lè sọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:23:36.983505389Z",
+  "model": "glm-5.3"
+}

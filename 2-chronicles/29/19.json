@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 29:19",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "àti ⟨את⟩ gbogbo àwọn ohun èlò tí ọba Achaz fi sílẹ̀ ní àìgbọràn nígbà ìjọba rẹ̀ — a ti ṣètán wọ́n, a sì ti fi iyè míìmọ́ fún wọ́n; àti kí ẹ kíyèsi, wọ́n wà níwájú pẹpẹ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ohun èlò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "àwọn ohun èlò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הזניח",
+      "gloss": "fi sílẹ̀ ní àìgbọràn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "nígbà ìjọba rẹ̀"
+    },
+    {
+      "surface": "במעלו",
+      "gloss": "ní ìkọ̀sílẹ̀ rẹ̀"
+    },
+    {
+      "surface": "הכנו",
+      "gloss": "a ti ṣètán wọ́n"
+    },
+    {
+      "surface": "והקדשנו",
+      "gloss": "a sì ti fi iyè míìmọ́ fún wọ́n"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "àti kí ẹ kíyèsi, wọ́n wà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T05:34:09.368848003Z",
+  "model": "glm-5.3"
+}

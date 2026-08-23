@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Dawid kó gbogbo ⟨את⟩ Yisrael jọ láti Shichor Mitzrayim títí dé ìwọ̀lé Hamat, láti gbé ⟨את⟩ áràń̀gàn Elohim wá láti Kiryat-Yearim.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "kó jọ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Shichor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ìwọ̀lé"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "láti gbé wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áràń̀gàn Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "áràń̀gàn"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:15:21.939688108Z",
+  "model": "glm-5.3"
+}

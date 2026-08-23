@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Bẹ́ẹ̀ ni Yahweh wí: tí ẹ bá pa ⟨את⟩ májẹ̀mú mi ti ọjọ́ náà àti ⟨את⟩ májẹ̀mú mi ti òru náà rú, kí ọjọ́ àti òru má ṣe wà ní àkókò wọn mọ́ —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí ẹ bá"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "pa ... rú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "májẹ̀mú mi ti ọjọ́ náà"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "májẹ̀mú mi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ti ọjọ́ náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "májẹ̀mú mi ti òru náà"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "májẹ̀mú mi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ti òru náà"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "kí ... má ṣe ... mọ́"
+    },
+    {
+      "surface": "היות",
+      "gloss": "wà"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "àti òru"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "ní àkókọ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:22:34.967538497Z",
+  "model": "glm-5.3"
+}

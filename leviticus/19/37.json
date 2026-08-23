@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ẹ̀yin yóò pa ⟨את⟩ gbogbo òfin mi mọ́, àti ⟨את⟩ gbogbo ìdájọ́ mi, ẹ̀yin sì máa ṣe wọn ṣe: emi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ẹ̀yin yóò pa...mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo òfin mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "òfin mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ìdájọ́ mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ìdájọ́ mi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ẹ̀yin sì máa ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wọn ⟨אתם⟩",
+      "marks": "àwọn òfin àti ìdájọ́"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:51.020758603Z",
+  "model": "glm-5.3"
+}

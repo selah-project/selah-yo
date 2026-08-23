@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Ki ìbùkún sí Yahweh, Elohim ti Israẹli, láti ìgbà àtijọ́ títí dé ìgbà tí kò ní ogún, kí gbogbo ènìyàn sì sọ 'Amen'. Ẹ gbéga fún Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ki ìbùkún sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ìgbà àtijọ́"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ìgbà tí kò ní ogún"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kí gbogbo ènìyàn sì sọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Ẹ gbéga"
+    },
+    {
+      "surface": "יה",
+      "gloss": "fún Yah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:45.653231566Z",
+  "model": "glm-5.3"
+}

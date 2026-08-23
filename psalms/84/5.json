@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 84,
+  "translation": "Ìdàgbà-sókè fún àwọn tí ó ń gbé ní ilé rẹ, láìgbàtí wọn yóò máa ṣe àjọyọ̀ Ọ̀gá yín; Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ìdàgbà-sókè fún"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "àwọn tí ó ń gbé ní"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ilé rẹ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "láìgbàtí"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "wọn yóò máa ṣe àjọyọ̀ Ọ̀gá yín"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:49.578647401Z",
+  "model": "glm-5.3"
+}

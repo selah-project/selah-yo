@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Omi ìjìnnadà ni ọ̀rọ̀ ẹnu ẹni; odò tí ó ń rọ̀ jà, orísun ọgbọ́n.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "ìjìnnadà"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "odò"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "tí ó ń rọ̀ jà"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "orísun"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ọgbọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T04:09:14.018899087Z",
+  "model": "glm-5.3"
+}

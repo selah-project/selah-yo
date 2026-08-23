@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 92,
+  "translation": "Wọn yóò sì tún ṣe èso ní ìgbà àgbà, wọn yóò dúró lágbára, aláwọ̀ ewéko yóò sì jẹ́ wọn.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "sì tún"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "yóò ṣe èso"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "ní ìgbà àgbà"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "lágbára \/ pọ̀nlọ̀"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "aláwọ̀ ewéko"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yóò jẹ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:29.222700827Z",
+  "model": "glm-5.3"
+}

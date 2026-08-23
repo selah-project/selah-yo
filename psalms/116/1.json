@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Mo fẹ́ran, nítorí pé Yahweh ń gbọ́ ⟨את⟩ ohùn mi, àdúrà ìbẹ̀rù mi.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Mo fẹ́ran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ń gbọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohùn mi"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "àdúrà ìbẹ̀rù mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:54.318555901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Ó sì fi ⟨את⟩ ohùn rẹ̀ kalẹ̀ ní ìkígbe-ọfọ́; àwọn ará Mitzrayim gbọ́, ilé Paroh sì gbọ́.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohùn rẹ̀"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ohùn rẹ̀"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ní ìkígbe-ọfọ́"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "àwọn ará Mitzrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "gbọ́ sì"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:13:46.638721887Z",
+  "model": "glm-5.3"
+}

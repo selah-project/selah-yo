@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Nípa iṣẹ́ àwọn ènìyàn, nípa ọ̀rọ̀ èté rẹ ni mo ti ṣọ́ ara mi kúrò lọ́nà ⟨àwọn⟩ ènìyàn-ipá.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Nípa iṣẹ́"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nípa ọ̀rọ̀"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "èté rẹ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ti ṣọ́ ara mi kúrò"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "lọ́nà"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "⟨àwọn⟩ ènìyàn-ipá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:34.233440169Z",
+  "model": "glm-5.3"
+}

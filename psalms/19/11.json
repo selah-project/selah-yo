@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Wọ́n jẹ́ èyí tí ó láára ju wúrà lọ, bẹ́ẹ̀ gẹ́gẹ́ ju pazi púpọ̀ lọ; wọ́n sì dùn ju oyin àti yàrá-oyin tó ń sú lọ.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "èyí tí ó láára ju"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ju wúrà lọ"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ju pazi lọ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "dùn ju"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "oyin"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "yàrá-oyin tó ń sú"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "(òwú-oyin)"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:35.696404914Z",
+  "model": "glm-5.3"
+}

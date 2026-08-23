@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ó sì wáyé lẹ́yìn ìyẹn pé àwọn ọmọ Moabu wọ̀, àti àwọn ọmọ Amonu, àti pẹ̀lú wọn láti àwọn ará Amuni, sí odo Yehoshafat fún ogun.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ìyẹn"
+    },
+    {
+      "surface": "באו",
+      "gloss": "wọ̀"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "àti àwọn ọmọ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonu"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "àti pẹ̀lú wọn"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "láti àwọn ará Amuni"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí odo"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "fún ogun"
+    }
+  ],
+  "timestamp": "2026-08-23T05:30:13.183800608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 90,
+  "translation": "O fi ìṣàn kó wọn ká; wọn di ìsunwọ̀n; ní àárọ̀, bí koríko ni wọn ti ń yí padà lọ.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "O fi ìṣàn kó wọn ká"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ìsunwọ̀n"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "wọn di"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "bí koríko"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ń yí padà lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:41.335330477Z",
+  "model": "glm-5.3"
+}

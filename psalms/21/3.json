@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ìfẹ́ ọkàn rẹ, O fún un ní; ẹ̀dùn-èrò èté rẹ, O kò dá dúró. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ìfẹ́"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "O fún"
+    },
+    {
+      "surface": "לו",
+      "gloss": "un ní"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "àti ẹ̀dùn-èrò"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "èté rẹ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "rárá"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "O kò dá dúró"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:15.473124837Z",
+  "model": "glm-5.3"
+}

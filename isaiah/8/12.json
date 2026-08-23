@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ẹ má ṣe sọ pé: àjọ̀dà — nípa gbogbo ohun tí ènìyàn yìí bá sọ pé: àjọ̀dà; ẹrùú rẹ̀ ni ẹ kò gbọ́dọ̀ bẹ̀rù, ẹ sì má ṣe sọkú-ẹrù.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ẹ má"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "ṣe sọ pé"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "àjọ̀dà"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nípa gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bá sọ pé"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "àjọ̀dà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹrùú rẹ̀"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "ẹrùú rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni ẹ kò gbọ́dọ̀"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bẹ̀rù"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ẹ sì má"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "ṣe sọkú-ẹrù"
+    }
+  ],
+  "timestamp": "2026-08-23T01:42:09.018626620Z",
+  "model": "glm-5.3"
+}

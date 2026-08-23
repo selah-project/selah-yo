@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ṣùgbọ́n wúràtì àti gbàgùdà kò gbọ́n, nítorí pé wọ́n ṣẹ́kú kí wọ́n tó dàgbà.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "ṣùgbọ́n wúràtì"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "àti gbàgùdà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "gbọ́n"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "wọ́n ṣẹ́kú kí wọ́n tó dàgbà"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wọ́n"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:59.633896253Z",
+  "model": "glm-5.3"
+}

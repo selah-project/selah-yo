@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ìtara mi ti pa mí mọ́, nítorí tí àwọn ọ̀tá mi ti gbàgbé àwọn ọ̀rọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "ó ti pa mí mọ́"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ìtara mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "wọ́n ti gbàgbé"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "àwọn ọ̀rọ̀ rẹ"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "àwọn ọ̀tá mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:11.278032186Z",
+  "model": "glm-5.3"
+}

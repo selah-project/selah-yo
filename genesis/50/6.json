@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Farao sì wí pé, “Gbéga, kí o sì sí baba rẹ sílẹ̀, gẹ́gẹ́ bí ó ti ṣe ọ láṣẹ.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Gbéga"
+    },
+    {
+      "surface": "ו קבר",
+      "gloss": "kí o sì sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba rẹ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba rẹ sílẹ̀"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "ó ti ṣe ọ láṣẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:41.201087038Z",
+  "model": "glm-5.3"
+}

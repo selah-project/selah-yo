@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Ó wọ ìgbégẹ́ bí aṣọ rẹ̀, kí ó sì wọ inú rẹ̀ bí omi, àti bí epo sí àwọn ẹ̀ẹ̀mí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "Ó wọ"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "ìgbégẹ́"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "bí aṣọ rẹ̀"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "kí ó sì wọ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "bí omi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "inú rẹ̀"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "àti bí epo"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "sí àwọn ẹ̀ẹ̀mí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:22.757980854Z",
+  "model": "glm-5.3"
+}

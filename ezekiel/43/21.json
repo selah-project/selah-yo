@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Íwọ kì í gbé ⟨את⟩ ọ̀yàyàá ẹ̀ṣẹ̀, kí a sì jó ọ́ nínú ibi tí a yàn nílé náà, níta Mímọ́-ihín.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Íwọ kì í gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀yàyàá ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ọ̀yàyàá"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "kí a sì jó ọ́"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "ninú ibi tí a yàn"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nílé náà"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "níta"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "Mímọ́-ihín"
+    }
+  ],
+  "timestamp": "2026-08-23T02:56:29.318287380Z",
+  "model": "glm-5.3"
+}

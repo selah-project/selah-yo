@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 90,
+  "translation": "Ìwàdùrá fún Moshe, ẹni Ọlọ́hun. Adonai, ibùgbé ni ⟨ìwọ⟩ ti jẹ́ fún wa, láti ìrànṣẹ́ dé ìrànṣẹ́.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Ìwàdùrá"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "fún Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Ọlọ́hun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ibùgbé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ti jẹ́"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "láti ìrànṣẹ́"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dé ìrànṣẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:38.405937643Z",
+  "model": "glm-5.3"
+}

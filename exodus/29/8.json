@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ìwọ ó sì mú ⟨את⟩ àwọn ọmọ rẹ̀ tọ̀ ọ́ wá, ó sì wọ wọn ní àwọn aṣọ-ìrun-wàálẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ìwọ ó sì mú tọ̀ ọ́ wá"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "ó sì wọ wọn"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "aṣọ-ìrun-wàálẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:17.774892672Z",
+  "model": "glm-5.3"
+}

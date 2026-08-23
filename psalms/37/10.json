@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Sì ní ìgbà díẹ̀, ẹni búburú kò ní sí mọ́; ìwọ yóò kọ ọ́ lẹ́rọ̀ wo ipò rẹ̀, kò sì ní í sí.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "sì ní"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ìgbà díẹ̀"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò ní sí mọ́"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ẹni búburú"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ìwọ yóò kọ ọ́ lẹ́rọ̀ wò"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ipò rẹ̀"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "kò sì ní í sí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:22.225508398Z",
+  "model": "glm-5.3"
+}

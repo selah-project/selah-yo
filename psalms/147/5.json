@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Nlá ni Adonai wa, ó sì ní agbára púpọ̀; ìmọ̀-ọgbọ́n rẹ̀ kò ní ìṣiro (ìṣiro tí ó kún)",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Nlá"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai wa"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ó sì ní púpọ̀"
+    },
+    {
+      "surface": "כח",
+      "gloss": "agbára"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "ìmọ̀-ọgbọ́n rẹ̀"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò ní"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ìṣiro"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:30.350803996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ìwọ̀ oòrùn tí ó bá wọ̀, ó di mọ́, lẹ́yìn ìgbà náà ó lè je nínú àwọn ohun mímọ́, nítorí pé oúnjẹ rẹ̀ ni.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Ìwọ̀ oòrùn tí ó bá wọ̀"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "oòrùn"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ó di mọ́"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "lẹ́yìn ìgbà náà"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ó lè je"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nínú"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "àwọn ohun mímọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "oúnjẹ rẹ̀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:17.671786695Z",
+  "model": "glm-5.3"
+}

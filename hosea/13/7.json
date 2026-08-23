@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Èmí ni èmi di fún wọn gẹ́gẹ́ bí kìnìún; gẹ́gẹ́ bí àámọ̀-ẹ̀dà lórí ọ̀nà èmi ń wo wọn.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "èmi di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "kìnìún"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "gẹ́gẹ́ bí àámọ̀-ẹ̀dà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "èmi ń wo wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:03:29.672580715Z",
+  "model": "glm-5.3"
+}

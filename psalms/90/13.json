@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 90,
+  "translation": "Padà wá, Yahweh, títí dé igbà wo? Kí o sì ṣàánú fún àwọn ìránṣẹ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Padà wá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "igbà wo"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "kí o sì ṣàánú"
+    },
+    {
+      "surface": "על",
+      "gloss": "fún"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "àwọn ìránṣẹ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:22.410447623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 77,
+  "translation": "Mo ro àwọn ọjọ́ àtijọ́ láti ìgbà ìṣáájú, àwọn ọdún ayé ìṣáájú.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Mo ro"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "àwọn ọjọ́"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "àtijọ́ láti ìgbà ìṣáájú"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "àwọn ọdún"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ayé ìṣáájú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:03.575152171Z",
+  "model": "glm-5.3"
+}

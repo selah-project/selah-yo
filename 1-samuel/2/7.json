@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Yahweh ń sọ́ ẹnìyàn di aláìní, Ó sì ń sọ́ ẹnìyàn di olówó; Ó ń dín ìgbà-èmi, bákan náà ó sì ń gbé ga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "ń sọ́ ẹnìyàn di aláìní"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "ó sì ń sọ́ ẹnìyàn di olówó"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ń dín ìgbà-èmi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "ń gbé ga"
+    }
+  ],
+  "timestamp": "2026-08-23T00:42:13.496645973Z",
+  "model": "glm-5.3"
+}

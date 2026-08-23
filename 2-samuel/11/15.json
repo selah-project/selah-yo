@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó sì kọ nínú lẹ́tàà náà wí pé, ẹ gbé ⟨את⟩ Uriah sí iwájú ojú ogun tí ó le jù, ẹ sì padà sẹ́yìn lẹ́ẹ̀kàn ìyìn rẹ̀, kí a lè lù ú, ó sì kú.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "kọ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "nínú lẹ́tàà náà"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ẹ gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מול",
+      "gloss": "iwájú"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ogun náà"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "tí ó le jù"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "ẹ sì padà sẹ́yìn"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "lẹ́ẹ̀kàn ìyìn rẹ̀"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "kí a lè lù ú"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ó sì kú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:00:50.797538318Z",
+  "model": "glm-5.3"
+}

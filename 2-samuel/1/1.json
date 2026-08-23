@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì yẹ́lẹ̀ lẹ́yìn ikú Shaúl, David sì padà láti lí ⟨את⟩ ⟨the⟩ Amaleki, David sì gbé ní Tziklag ọjọ́ méjì.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì yẹ́lẹ̀"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "David sì"
+    },
+    {
+      "surface": "שב",
+      "gloss": "padà"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "láti lí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ Amaleki"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "⟨the⟩ Amaleki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sì gbé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "ní Tziklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "méjì"
+    }
+  ],
+  "timestamp": "2026-08-23T00:57:51.573379633Z",
+  "model": "glm-5.3"
+}

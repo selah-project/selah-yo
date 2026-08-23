@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ní àfikún ti ti àwọn ẹlẹ́rìn-inú ilẹ̀ ìrìn àti ti owó ọjà ti àwọn oníṣòwò, àti ti gbogbo àwọn ọba tí ó pọ̀ mọ́ àwọn ìran ìyàwó àti ti àwọn igbákejì ìjọba ilẹ̀ náà.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "Ní àfikún"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "ti ti àwọn ẹlẹ́rìn-inú"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "ilẹ̀ ìrìn"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "àti ti owó ọjà"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "àwọn oníṣòwò"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti ti gbogbo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "tí ó pọ̀ mọ́ àwọn ìran ìyàwó"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "àti ti àwọn igbákejì ìjọba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:15:47.518704208Z",
+  "model": "glm-5.3"
+}

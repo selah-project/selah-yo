@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Nígbà náà Yehoshua bù ọ́ ṣùpọ̀n, ó sì fún Kalebi ọmọ Yefuneh ni ⟨את⟩ Hebron ní ìdílé-ìní.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "ó sì bù ọ́ ṣùpọ̀n"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fún… ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ni Kalebi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefuneh"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ní ìdílé-ìní"
+    }
+  ],
+  "timestamp": "2026-08-23T00:26:47.683783340Z",
+  "model": "glm-5.3"
+}

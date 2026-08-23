@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Àwọn ìrísí àwọn ìránṣẹ́ rẹ̀ yóò gba á lọ́là, àti àwọn tí ó fẹ́ràn orúkọ rẹ̀ yóò gbé inú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וזרע",
+      "gloss": "àti ìrísí"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ינחלוה",
+      "gloss": "yóò gba á lọ́là"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "àti àwọn tí ó fẹ́ràn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "yóò gbé"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:05.893877773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "Ìgòkè gíga gẹ́gẹ́ bí Adájọ́ ilẹ̀ ayé; da èsan padà lórí àwọn àgbẹ́yẹ́wọ́n.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Ìgòkè gíga gẹ́gẹ́"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Adájọ́"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "השב",
+      "gloss": "da èsan padà"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "èsan"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "àwọn àgbẹ́yẹ́wọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:11.846103952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Ṣààmì mí ní ezov, kí èmi yóò sì mọ́; fọ̀ mí, kí èmi yóò sì funfun ju yìnrìn lọ.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "ṣààmì mí"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "ní ezov"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "kí èmi yóò sì mọ́"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "fọ̀ mí"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "ju yìnrìn"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "èmi yóò sì funfun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:08.374680817Z",
+  "model": "glm-5.3"
+}

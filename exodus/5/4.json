@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ọba ti Egipti sì wí fún wọn pé: Èékó tí Moshe àti Aharon, ẹ fi ⟨את⟩ àwọn ènìyàn yọ kúrò nínú iṣẹ́ wọn? Ẹ lọ sí ẹrú iṣẹ́ yín.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba ti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egipti"
+    },
+    {
+      "surface": "למה",
+      "gloss": "èékó tí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "àti Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "ẹ fi... yọ kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "kúrò nínú iṣẹ́ wọn"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ẹ lọ"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "sí ẹrú iṣẹ́ yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:10.604145177Z",
+  "model": "glm-5.3"
+}

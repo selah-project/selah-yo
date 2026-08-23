@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ọmọ ọdún kan ni Shaul ⟨ni⟩ ìjọba rẹ̀, ó sì jọba ọdún méjì lórí Yisrael.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ọmọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ni ìjọba rẹ̀"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ó sì — méjì"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún méjì"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ó jọba"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T00:47:20.455435044Z",
+  "model": "glm-5.3"
+}

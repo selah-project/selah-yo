@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Gbọ́ ohùn àtorọ̀ mi nígbà tí mo ń kigbe sí ọ́dọ̀ rẹ, nígbà tí mo ń gbé ọwọ́ mi sókè sí ibi mímọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "àtorọ̀ mi"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "nígbà tí mo ń kigbe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "nígbà tí mo ń gbé"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ibi mímọ́ ⟨ìṣánwọ́ inú⟩"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "mímọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:15.806483264Z",
+  "model": "glm-5.3"
+}

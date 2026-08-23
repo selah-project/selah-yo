@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Dídára ni díè fún ẹní tí ó tọ́, ju ọrọ̀-ajé ọ̀pọ̀lọ̀pọ̀ àwọn olè lọ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Dídára ni"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "díè"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "fún ẹní tí ó tọ́"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "ju ọrọ̀-ajé ... lọ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn olè"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọ̀pọ̀lọ̀pọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:15.270276918Z",
+  "model": "glm-5.3"
+}

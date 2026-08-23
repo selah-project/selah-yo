@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Ẹnu mi máa sọ ìdájọ́ rẹ kalẹ̀, gbogbo ọjọ́ ní ìgbàlà rẹ; nítorí tí èmi kò mọ iye wọn.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "máa sọ kalẹ̀"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ìdájọ́ rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "ìgbàlà rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "èmi mọ"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "iye wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:55.067934641Z",
+  "model": "glm-5.3"
+}

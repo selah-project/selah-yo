@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Nítorí tí mo sọ pé, kí wọn má ṣe yọ̀ sí mi lójú: nígbà tí ẹsẹ̀ mi bá ṣubú, wọn gbé ara wọn ga lórí mi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mo sọ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pé kí wọn má ṣe"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "yọ̀ sí mi lójú"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "nígbà tí... bá ṣubú"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ẹsẹ̀ mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "wọn gbé ara wọn ga"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:17.226014309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ó sì ṣe bẹ́ẹ̀ fún ọ̀nà-ilẹ̀kùn ⟨ààfin⟩ naa: àwọn ọ̀gàngàn ilẹ̀kùn ti igi ori, ⟨ní⟩ ẹ̀kẹrin ⟨ti ogiri naa⟩.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "bẹ́ẹ̀ sì"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "fún ọ̀nà-ilẹ̀kùn"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ààfin naa"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "àwọn ọ̀gàngàn ilẹ̀kùn"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ti igi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ori"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀kẹrin"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "ẹ̀kẹrin"
+    }
+  ],
+  "timestamp": "2026-08-23T01:13:06.560125281Z",
+  "model": "glm-5.3"
+}

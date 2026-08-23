@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ọjọ́ kan sì dé, Elkanah rú ẹbọ; ó sì fún Peninnah, ìyàwó rẹ̀, àti fún gbogbo àwọn ọmọ rẹ̀ àti àwọn ọmọbìnrin rẹ̀, ìpín ẹbọ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dè"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́ náà"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "ó sì rú ẹbọ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ó sì fún"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Peninnah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ìyàwó rẹ̀"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "àti fún gbogbo"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "àti àwọn ọmọbìnrin rẹ̀"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "ìpín ẹbọ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:42:34.203503969Z",
+  "model": "glm-5.3"
+}

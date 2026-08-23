@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "bẹ́ẹ̀ ni èmi ti padà, mo ti ṣe èrò nínú àwọn ọjọ́ wọ̀nyí láti ṣe rere fún ⟨את⟩ Yerushalayim àti fún ⟨את⟩ ilé Yehudah; ẹ̀yin kì í ṣe kí ẹ sùn dùn-ùn.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "èmi ti padà"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "mo ti ṣe èrò"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nínú àwọn ọjọ́"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọ̀nyí"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "láti ṣe rere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti fún ⟨את⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ẹ̀yin kì í ṣe kí"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ẹ sùn dùn-ùn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:19:20.413664467Z",
+  "model": "glm-5.3"
+}

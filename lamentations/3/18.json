@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Mo sì wí pé, ìṣẹ́mí mi ti ṣèrékú, àti ìrètí mi kúrò ní Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mo sì wí pé"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ti ṣèrékú"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "ìṣẹ́mí mi"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "àti ìrètí mi"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "kúrò ní Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T04:36:56.635978498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Nítorí tí ọba náà gbẹ́kẹ̀ lé Yahweh, àti nínú chesed ti Elyon; kì í ṣe kó ṣíwó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí tí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ní Yahweh"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "àti nínú chesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "kó ṣíwó"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:27.132933260Z",
+  "model": "glm-5.3"
+}

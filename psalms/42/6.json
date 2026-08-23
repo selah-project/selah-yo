@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Èékúọ̀ tí ìwọ ń súró, ẹ̀mí mi, àti tí ìwọ ń ṣànú sórí mi? Ìretí nígbàlà ti Elohim; nítorí èmi óò dá a lọ́wọ́ sí ìgbàlà ojú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Èékúọ̀"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "tí ìwọ ń súró"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "àti tí ìwọ ń ṣànú"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sórí mi"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "ìretí nígbàlà"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sí ìgbà díẹ̀ sí i"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "èmi óò dá a lọ́wọ́"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ojú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:29.010732306Z",
+  "model": "glm-5.3"
+}

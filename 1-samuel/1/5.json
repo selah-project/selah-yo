@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Sí Channah sì, ó ń fún un ní ipín ⟨the⟩ kan ⟨the⟩ èjì, nítorí ⟨את⟩ Channah ni ó fẹ́, àti Yahweh ti pa ọ̀fun ìbìkan rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "sí Channah sì"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ó ń fún un"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "ní ipín"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨the⟩ kan"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨the⟩ èjì"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Channah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ni ó fẹ́"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "àti Yahweh"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ti pa"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ọ̀fun ìbìkan rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:42:09.984272750Z",
+  "model": "glm-5.3"
+}

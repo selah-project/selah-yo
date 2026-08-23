@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Adah sì bí ⟨את⟩ Yaval; òun ni baba àwọn tí ń gbé inú àgọ́ àti tí ń ṣẹ́ ẹran-ọ̀sìn.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "sì bí"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ń gbé inú"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "àti ẹran-ọ̀sìn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:39:30.370108500Z",
+  "model": "glm-5.3"
+}

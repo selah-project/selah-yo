@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Èyí ni iṣẹ́ àwọn olùtakò mi láti ọ̀dọ̀ Yahweh ⟨את⟩, àti àwọn tí ń bọ̀ ọ́ láwọ́rí sí ẹ̀mí mi.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Èyí"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "àwọn olùtakò mi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "láti ọ̀dọ̀ Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "àti àwọn tí ń bọ̀ ọ́"
+    },
+    {
+      "surface": "רע",
+      "gloss": "láwọ́rí"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:22.758217226Z",
+  "model": "glm-5.3"
+}

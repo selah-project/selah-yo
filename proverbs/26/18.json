@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Bí ẹni tí ó ṣe ọdẹ tí ó ń fohun ràn, ọfà, àti ikú.",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "bí ẹni tí ó ṣe ọdẹ"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "tí ó ń ràn"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "fohun ràn"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "ọfà"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "àti ikú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:12:34.241784392Z",
+  "model": "glm-5.3"
+}

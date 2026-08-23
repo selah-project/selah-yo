@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Nígbà tí àwọn tí ó ń gbé Yaveshu Giladi gbọ́ nípa rẹ̀ ⟨את⟩ ohun tí àwọn Pelishti ti ṣe sí Shaulu.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "nípa rẹ̀"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn tí ó ń gbé"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yaveshu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ti ṣe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Pelishti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "sí Shaulu"
+    }
+  ],
+  "timestamp": "2026-08-23T00:57:06.598313493Z",
+  "model": "glm-5.3"
+}

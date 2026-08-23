@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Èmi kì yóò sọ májẹ̀mú mi di àì-ìmọ́, èyí tí ó jáde láti ẹ̀tẹ́ mi èmi kì yóò yí padà.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "èmi kì yóò"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "sọ … di àì-ìmọ́"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "májẹ̀mú mi"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "àti èyí tí ó jáde"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "láti ẹ̀tẹ́ mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "èmi kì yóò"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "yí padà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:15.235473345Z",
+  "model": "glm-5.3"
+}

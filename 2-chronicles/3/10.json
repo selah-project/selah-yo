@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì ṣe nínú ilé ìmímọ́ ìmímọ́ àwọn kerubu méjì, iṣẹ́ àwòrán; wọ́n sì fi ⟨את⟩ wúrà bò wọ́n.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nínú ilé"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ìmímọ́"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ìmímọ́ ìmímọ́"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "àwọn kerubu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "àwòrán"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "wọ́n sì fi… bò"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn kerubu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:22:49.453056509Z",
+  "model": "glm-5.3"
+}

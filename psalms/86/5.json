@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 86,
+  "translation": "Nítorí pé ìwọ, Adonai, ni olóore àti olùdáríjì, ìfẹ́ olóòtítọ́ rẹ̀ sì pọ̀ sí gbogbo àwọn tí ń pè ọ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí pé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "olóore"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "àti olùdáríjì"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "pọ̀"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ìfẹ́ olóòtítọ́"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sí gbogbo"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "àwọn tí ń pè ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:02.244325283Z",
+  "model": "glm-5.3"
+}

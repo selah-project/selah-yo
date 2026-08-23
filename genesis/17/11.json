@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ẹ gbọ́dọ̀ gẹ ⟨את⟩ ara ìbàjamú yín; ó sì yóò jẹ́ ⟨⟨àmì⟩⟩ májẹ̀mù kan láàárín mi àti láàárín yín.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "ẹ gbọ́dọ̀ gẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ara"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "ìbàjamú yín"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ó sì yóò jẹ́"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "àmì"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "májẹ̀mù"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "láàárín mi"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "àti láàárín yín"
+    }
+  ],
+  "timestamp": "2026-08-22T22:59:00.499975399Z",
+  "model": "glm-5.3"
+}

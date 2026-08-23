@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Gẹ́gẹ́ bí ohun gbogbo tí mo ń fi hàn ⟨את⟩ ọ́ — ⟨את⟩ àwòrán migbó, àti ⟨את⟩ àwòrán gbogbo ohun èlò rẹ̀ — bẹ́ẹ̀ ni ẹ̀yin gbọ́dọ̀ ṣe ⟨wọ́n⟩.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "gẹ́gẹ́ bí ohun gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ń fi hàn"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ọ́",
+      "marks": "ọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwòrán migbó"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "àwòrán"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "migbó náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwòrán gbogbo ohun èlò rẹ̀"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "àwòrán"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ohun èlò rẹ̀"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ẹ̀yin gbọ́dọ̀ ṣe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:25:21.528355576Z",
+  "model": "glm-5.3"
+}

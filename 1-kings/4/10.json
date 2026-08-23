@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ben-Chesed, ní Aruvot; Soko àti gbogbo ilẹ̀ Chefer sì jẹ́ ti rẹ̀;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben-Chesed"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Ben-Chesed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "ní Aruvot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ti rẹ̀"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Soko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chefer"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:26.585938097Z",
+  "model": "glm-5.3"
+}

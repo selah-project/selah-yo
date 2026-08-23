@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Wàá sí ìkígbe tó tóbi ní gbogbo ilẹ̀ Mitzrayim, èyítí bíi rẹ̀ kò tíì ṣẹlẹ̀, àti pé bíi rẹ̀ kò níí ṣẹlẹ̀ mọ́.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "wàá sí"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ìkígbe"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "tóbi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyítí"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "bíi rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "tíì ṣẹlẹ̀"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "àti pé bíi rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò níí"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ṣẹlẹ̀ mọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:57.179485514Z",
+  "model": "glm-5.3"
+}

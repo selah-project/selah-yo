@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì gbọ́ pé Abner kú ní Chevron, ọmọ Shaul, ọwọ́ rẹ̀ sì rẹ́, gbogbo Israẹli sì bẹ̀rù tàrọ̀.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ó sì gbọ́"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kú"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ní Chevron"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "sì rẹ́"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "sì bẹ̀rù tàrọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:50:12.700728328Z",
+  "model": "glm-5.3"
+}

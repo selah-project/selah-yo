@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Moshe sì wí fún Elohim: Ẹ̀mí ni èmi, kí n í lọ sí ọ̀dọ̀ Paroh, àti kí n í mú ⟨את⟩ àwọn ọmọ Yisrael jáde kúrò lọ́wọ́ Mitsrayim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni èmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kí"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "n í lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "àti kí"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "n í mú ... jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kúrò lọ́wọ́ Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:51.829025215Z",
+  "model": "glm-5.3"
+}

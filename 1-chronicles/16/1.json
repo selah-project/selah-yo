@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Wọ́n sì mú ⟨את⟩ ákíti Elohim wá, wọ́n sì gbé ⟨את⟩ e dúró nínú àgọ́ tí Dawid gi fún un; wọ́n sì kó ẹrù-ìsun àti ẹrù-àlàáfíà síwájú Elohim.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "wọ́n sì mú wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ákíti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ákíti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "wọ́n sì gbé dúró"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "ákíti (nínú àgọ́)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nínú"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "àgọ́ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "gi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "wọ́n sì kó ẹrù"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ẹrù-ìsun"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "àti ẹrù-àlàáfíà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:15:24.924463231Z",
+  "model": "glm-5.3"
+}

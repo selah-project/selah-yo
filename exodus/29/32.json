@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Aharon àti àwọn ọmọ rẹ̀ sì jẹ ⟨את⟩ ẹran abọ́ náà àti ⟨את⟩ àkàrà tí ó wà nínú àpẹ̀rẹ̀ ní ẹnu-ọ̀nà àgọ́ pàdé.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "sì jẹ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "àti àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹran abọ́ náà"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ẹran"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "abọ́ náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àkàrà"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "àkàrà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "nínú àpẹ̀rẹ̀"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ní ẹnu-ọ̀nà"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:36.853927117Z",
+  "model": "glm-5.3"
+}

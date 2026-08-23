@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "David sì ti gbà, ó sì ti kún fún ọjọ́, ó sì fi ọmọ rẹ̀ Shelomoh jọba lórí ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "David sì"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ti gbà"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ó sì ti kún"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "fún ọjọ́"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ó sì fi … jọba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T06:13:51.326365616Z",
+  "model": "glm-5.3"
+}

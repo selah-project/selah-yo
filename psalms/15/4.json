@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ẹni tí ó wà ní ojú rẹ̀ ni a fi kéénì; ṣùgbọ́n ó ń bu ọlá fún ⟨את⟩ àwọn tí ó ń bẹ̀rù Yahweh; ẹni tí ó búra láti fara ṣe ìwà búburù, kò sì yí padà.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "tí ó wà ní ìkà"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "ni a fi kéénì"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn tí ó ń bẹ̀rù Yahweh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "àwọn tí ó ń bẹ̀rù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ń bu ọlá fún"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "búra"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "láti fara ṣe ìwà búburù"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "yí padà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:05.238134195Z",
+  "model": "glm-5.3"
+}

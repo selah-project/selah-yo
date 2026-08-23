@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àwọn ọkùnrin Yisraẹli sì jáde kúrò ní Mitzpa, wọ́n sì lé ⟨את⟩ àwọn Falisitini lẹ́yin, wọ́n sì lu wọn títí dé ìsàlẹ̀ Beth-kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "sì jáde"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò ní"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "sì lé … lẹ́yin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Falisitini"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Falisitini"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "sì lu wọn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ìsàlẹ̀"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kar"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:20.729125554Z",
+  "model": "glm-5.3"
+}

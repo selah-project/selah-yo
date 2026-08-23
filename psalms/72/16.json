@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Ìpín ọ̀ka dídà máa wà ní ilẹ̀ ayé, lórí orí àwọn òkè; èso rẹ̀ máa rù lẹ́wẹ̀lẹ́wẹ̀ bí Lebanonu, wọ́n sì máa tàn kálẹ̀ láti inú ìlú bí koríko ilẹ̀ ayé",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "máa wà"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "ìpín ọ̀ka dídà"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ọ̀ka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀ ayé"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "lórí orí"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "máa rù lẹ́wẹ̀lẹ́wẹ̀"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "bí Lebanonu"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "èso rẹ̀"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "wọ́n sì máa tàn kálẹ̀"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "láti inú ìlú"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "bí koríko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:04.111715397Z",
+  "model": "glm-5.3"
+}

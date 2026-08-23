@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Ọ̀lá ìgbérańpẹ́ ìtara Rẹ, àti àwọn ọ̀rọ̀ iṣẹ́ ìyanu Rẹ ni èmi yóò ṣe ìjíròrò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "ọ̀lá ìgbérańpẹ́"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ìtara"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ìtara Rẹ"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "àti àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "iṣẹ́ ìyanu Rẹ"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "èmi yóò ṣe ìjíròrò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:02.630251552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Èmi yóò kọ sí orí àwọn táábìlì náà ⟨את⟩ àwọn ọ̀rọ̀ tí ó wà lórí àwọn táábìlì ìṣáájú tí ìwọ fọ́, ìwọ sì máa fi wọ́n sí inú árá náà.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "Èmi yóò kọ sí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "àwọn táábìlì náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ó wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "àwọn táábìlì"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ìṣáájú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ìwọ fọ́"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ìwọ sì máa fi wọ́n sí"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "inú árá náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:31.559952535Z",
+  "model": "glm-5.3"
+}

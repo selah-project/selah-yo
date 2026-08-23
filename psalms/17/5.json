@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Èsè mi ti gbé ⟨àwọn⟩ ọ̀nà rẹ mú ṣinṣin; kì í ṣe àwọn ẹsẹ mi yóò ṣìsẹ́.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "ti gbé...mú ṣinṣin"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "èsè mi"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "ní ⟨àwọn⟩ ọ̀nà rẹ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "yóò ṣìsẹ́"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "àwọn ẹsẹ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:15.415222404Z",
+  "model": "glm-5.3"
+}

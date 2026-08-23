@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Fún ọdún mẹ́fà ni iwọ ó gbìn ilẹ̀-àgbà rẹ, fún ọdún mẹ́fà ni iwọ ó ge igi-ọ̀gàn rẹ, ìwọ sì máa kó ⟨את⟩ èso rẹ̀.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "mẹ́fà"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "iwọ ó gbìn"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ilẹ̀-àgbà rẹ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "fún ọdún mẹ́fà"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "iwọ ó ge"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "igi-ọ̀gàn rẹ"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ìwọ sì máa kó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èso rẹ̀"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "èso rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:11.230164544Z",
+  "model": "glm-5.3"
+}

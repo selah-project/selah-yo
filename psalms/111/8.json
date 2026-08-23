@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 111,
+  "translation": "Wọ́n ń dúró gbẹ̀mí títí dé òpin, títí láéláé; a ṣe wọ́n pẹ̀lú òtítọ́ àti ṣíṣe óótọ́.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "ń dúró gbẹ̀mí"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "títí dé òpin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láéláé"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "a ṣe wọ́n"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "pẹ̀lú òtítọ́"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "àti ṣíṣe óótọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:03.966489336Z",
+  "model": "glm-5.3"
+}

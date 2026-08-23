@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Ojú mi ń ṣẹ́fọ̀ nítorí ìrùkùsù mi; mo pè ọ́, Yahweh, ní gbogbo ọjọ́, mo ti tẹ ikọ̀ ọwọ́ mi sí ọ̀dọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "ń ṣẹ́fọ̀"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ìrùkùsù mi"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mo pè ọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "mo ti tẹ́"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ikọ̀ ọwọ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:28.293676976Z",
+  "model": "glm-5.3"
+}

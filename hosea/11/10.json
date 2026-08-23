@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Lẹ́yìn Yahweh ni wọn ó máa rìn; gẹ́gẹ́ bí kìnnìún ni ó ó kígbe; nítorí tí òun ni ó ó kígbe, àwọn ọmọ yóò sì ṣọ̀ láti ìwọ̀-oòrùn.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "wọn ó máa rìn"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "gẹ́gẹ́ bí kìnnìún"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ó ó kígbe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ó ó kígbe"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "yóò sì ṣọ̀"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "láti ìwọ̀-oòrùn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:02:14.503734030Z",
+  "model": "glm-5.3"
+}

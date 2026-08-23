@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 66,
+  "translation": "Gbogbo ilẹ̀ ayé yió foríbalẹ̀ fún ẹ̀, yió sì kọ orin fún ẹ̀; yió kọ orin sí orúkọ rẹ̀. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "yió foríbalẹ̀"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ẹ̀"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "yió sì kọ orin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ẹ̀"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "yió kọ orin sí"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:00.802512221Z",
+  "model": "glm-5.3"
+}

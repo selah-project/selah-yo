@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ẹni tí ó ń kó gbín nígbà òòrùn ogún ni ọmọ olóye; ẹni tí ó sún lójú nígbà ikore ni ọmọ tí ó ń mú ègún wá.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "ẹni tí ó ń kó gbín"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "nígbà òòrùn ogún"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "olóye"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ẹni tí ó sún lójú"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "nígbà ikore"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "tí ó ń mú ègún wá"
+    }
+  ],
+  "timestamp": "2026-08-23T04:05:26.020065593Z",
+  "model": "glm-5.3"
+}

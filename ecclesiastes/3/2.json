@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àṣìṣe fún ìbí, àti àṣìṣe fún ikú; àṣìṣe fún gbigbé, àti àṣìṣe fún ti-tí-ẹ̀wọ̀n-tì-kúrò ohun tí a gbé.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "àṣìṣe"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "fún ìbí"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "àti àṣìṣe"
+    },
+    {
+      "surface": "למות",
+      "gloss": "fún ikú"
+    },
+    {
+      "surface": "עת",
+      "gloss": "àṣìṣe"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "fún gbigbé"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "àti àṣìṣe"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "fún ti-tí-ẹ̀wọ̀n-tì-kúrò"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "ohun tí a gbé"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:28.717373749Z",
+  "model": "glm-5.3"
+}

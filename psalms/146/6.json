@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 146,
+  "translation": "Ẹni tí ó dá àwọn ọ̀run àti ayé, ⟨את⟩ odò àti ⟨את⟩ gbogbo nǹkan tí ó wà nínú wọn; Ẹni tí ó ń ṣọ́ òtítọ́ títí láéláé.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ẹni tí ó dá"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "àti ayé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odò"
+    },
+    {
+      "surface": "הים",
+      "gloss": "odò"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo nǹkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo nǹkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nínú wọn"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Ẹni tí ó ń ṣọ́"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "òtítọ́"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:52.767191660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Dávídì sì bukún fún Yahweh níwájú ojú àwọn ènìyàn gbogbo; Dávídì sì wí pé, Ìwọ ní a bukún fún, Yahweh, Elohim Israẹli, baba wa, láti ìgbà ayérayé dé ìgbà ayérayé.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "sì bukún fún"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávídì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "níwájú ojú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávídì"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "a bukún fún"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ìwọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baba wa"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "láti ìgbà ayérayé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "désì"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ìgbà ayérayé"
+    }
+  ],
+  "timestamp": "2026-08-23T05:21:06.928919135Z",
+  "model": "glm-5.3"
+}

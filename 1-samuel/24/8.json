@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Dafidi sì pa ⟨את⟩ àwọn ọkọ̀ rẹ̀ láàfàní pẹ̀lú àwọn ọ̀rọ̀, kò sì jẹ́ kí wọ́n dìde lọ sí Shaúl; Shaúl sì dìde kúrò nínú iho-òkúta, ó sì rin lọ́nà.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "ó sì pa láàfàní"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọkọ̀ rẹ̀"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "àwọn ọkọ̀ rẹ̀"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "pẹ̀lú àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "jẹ́ kí wọ́n"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "dìde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lọ sí"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaúl sì"
+    },
+    {
+      "surface": "קם",
+      "gloss": "dìde"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "kúrò nínú iho-òkúta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì rin"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lọ́nà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:53:31.760280993Z",
+  "model": "glm-5.3"
+}

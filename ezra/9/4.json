@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 9:4",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Sí ọ̀dọ̀ mi sì ni gbogbo àwọn tí ń bẹ̀rù̀ ọ̀rọ̀ Elohim Yisrael ti já ara wọn jọ, nítorí ìṣẹ̀gbẹ́ àwọn tí a sọ̀ lọ ní ìgbèkùn; èmi sì jókóó nínú ìṣú pàjáwìrì títí di ìrora alẹ́.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "sí ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "sì ti já ara wọn jọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חרד",
+      "gloss": "àwọn tí ń bẹ̀rù̀"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ìṣẹ̀gbẹ́"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "àwọn tí a sọ̀ lọ ní ìgbèkùn"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "èmi sì"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jókóó"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "nínú ìṣú pàjáwìrì"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "למנחת",
+      "gloss": "ìrora"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "alẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:01:03.270132449Z",
+  "model": "glm-5.3"
+}

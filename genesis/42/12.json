@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ó sì wí fún wọn pé: Rárá; ṣùgbọ́n láti wò ẹ̀rù ayé ni ẹ ti wá.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "rárá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ẹ̀rù"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ẹ ti wá"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "láti wò"
+    }
+  ],
+  "timestamp": "2026-08-22T23:10:47.615836679Z",
+  "model": "glm-5.3"
+}

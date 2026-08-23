@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Rántí ⟨את⟩ ọjọ́ Shabbat láti ṣẹ́ ní mímọ́.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "rántí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọjọ́ Shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "láti ṣẹ́ ní mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:16.358014856Z",
+  "model": "glm-5.3"
+}

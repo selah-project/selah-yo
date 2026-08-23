@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì wáyé pé, nígbà tí èmi, Daniyyel, rí ⟨את⟩ ìran náà, mo sì ń wá òye, sì kíyèsi, ẹni tí ó dúró níwájú mi bí irísí ọkùnrin kan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé pé"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "nígbà tí mo rí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyyel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìran náà"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "ìran náà"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "mo sì ń wá"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "òye"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sì kíyèsi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tí ó dúró"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "níwájú mi"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "bí irísí"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ọkùnrin kan"
+    }
+  ],
+  "timestamp": "2026-08-23T04:52:33.779463583Z",
+  "model": "glm-5.3"
+}

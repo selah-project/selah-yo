@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 108,
+  "translation": "Jí dẹ, nevel àti kinnor; ni mo máa jí òwúrọ̀ dide.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "jí dẹ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "àti kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "mo máa jí… dide"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "òwúrọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:57.690858022Z",
+  "model": "glm-5.3"
+}

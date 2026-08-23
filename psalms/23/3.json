@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ìèmí Ó dá padà; Ó ṣe àtọ́na mí nínú àwọn ọ̀nà tító, nítorí orúkọ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Ìèmí"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "Ó dá padà"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "Ó ṣe àtọ́na mí"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "nínú àwọn ọ̀nà"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "titó"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:34.587843101Z",
+  "model": "glm-5.3"
+}

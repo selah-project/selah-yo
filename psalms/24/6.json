@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Èyí ni ìran àwọn tí ó ń wá ⟨òun⟩, àwọn tí ó ń béèrè ojú rẹ — Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "èyí ni"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "àwọn tí ó ń wá ⟨òun⟩"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "àwọn tí ó ń béèrè"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:52.726173203Z",
+  "model": "glm-5.3"
+}

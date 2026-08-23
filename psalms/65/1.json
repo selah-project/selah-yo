@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 65,
+  "translation": "Fún olùdarí-orin, mizmor fún David, orin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fún olùdarí-orin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:01.744976180Z",
+  "model": "glm-5.3"
+}

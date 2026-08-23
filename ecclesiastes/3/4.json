@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àṣìṣe fún kígbé-ẹkún, àti àṣìṣe fún èèmu pẹ̀lú ìrin; àṣìṣe fún ìgbéjà-òkú, àti àṣìṣe fún fọ́n-ọwọ́-ijó.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "àṣìṣe"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "fún kígbé-ẹkún"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "àti àṣìṣe"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "fún èèmu pẹ̀lú ìrin"
+    },
+    {
+      "surface": "עת",
+      "gloss": "àṣìṣe"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "fún ìgbéjà-òkú"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "àti àṣìṣe"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "fún fọ́n-ọwọ́-ijó"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:28.717603269Z",
+  "model": "glm-5.3"
+}

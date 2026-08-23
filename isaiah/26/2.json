@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ṣí àwọn ọ̀nà-ìwọlé yín, kí orílẹ̀-èdìdí olódodo, tí ó ń ṣọ́ ìgbẹ́kẹ̀ lẹ, lè wọ̀ wá.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Ṣí"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "àwọn ọ̀nà-ìwọlé"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kí ó lè wọ̀ wá"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "orílẹ̀-èdìdí"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olódodo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "tí ó ń ṣọ́"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "ìgbẹ́kẹ̀ lẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:48:45.314887347Z",
+  "model": "glm-5.3"
+}

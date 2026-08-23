@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì wó ⟨את⟩ ilé gíga Penuel, ó sì pa àwọn ọkunrin ⟨את⟩ ìlú náà.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilé gíga Penuel"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "ilé gíga"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "ó wó"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ó sì pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọkunrin ìlú náà"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkunrin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:36:09.952094715Z",
+  "model": "glm-5.3"
+}

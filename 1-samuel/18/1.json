@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó sì wáyé, nígbà tí ó parí láti sọ̀rọ̀ sí Sha'ul, ẹ̀mí Yehonatan sì di ìṣọ̀ mọ́ ẹ̀mí David, Yehonatan sì fẹ́ ⟨un⟩ bí ẹ̀mí rẹ̀ ṣe rí.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "nígbà tí ó parí"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "láti sọ̀rọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "di ìṣọ̀ mọ́"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "mọ́ ẹ̀mí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "ó sì fẹ́"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "bí ẹ̀mí rẹ̀ ṣe rí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:51:39.958726036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 19:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ó sì wáyé ní ọjọ́ kẹta, nígbà tí owúrọ́ ń bọ̀, pé àwọn ohùn àti mọ̀nàmọ́nà wà, àti àwọsánmà tó wúwo lórí òkè náà, àti ohùn shofar tó le gan-an; gbogbo ènìyàn tí ó wà nínú ààbò náà sì bẹ̀rù̀ tiraka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sì wáyé"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kẹta"
+    },
+    {
+      "surface": "בהית",
+      "gloss": "nígbà tí... ń bọ̀"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "owúrọ́"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "pé... wà"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "àwọn ohùn"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "àti mọ̀nàmọ́nà"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "àti àwọsánmà"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tó wúwo"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "òkè náà"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "àti ohùn"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "tó le"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gan-an"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "sì bẹ̀rù̀ tiraka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà nínú"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ààbò náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:07.943735195Z",
+  "model": "glm-5.3"
+}

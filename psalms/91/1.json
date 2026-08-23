@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Ẹni tí ó ń gbé nínú ìboṣẹ́ El Elyon, ní abẹ́ ojú Shaddai ni yóò sùn lóru, yóò sùn lóru pẹ́.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Ẹni tí ó ń gbé"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nínú ìboṣẹ́"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ní abẹ́ ojú"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "yóò sùn lóru"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:40.016108779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Yaakov sì jí gbé ⟨את⟩ ọkàn Lavan ará Aramu, nítorí pé kò ìkéde fún un pé ó ń sálù.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "sì jí gbé"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn Lavan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "ará Aramu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ìkéde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ń sálù"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó"
+    }
+  ],
+  "timestamp": "2026-08-23T05:39:41.126818096Z",
+  "model": "glm-5.3"
+}

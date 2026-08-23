@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Kí ó sì fún ọ ní ⟨את⟩ ìbùkún Avraham — fún ọ àti fún ìrúnpọ̀ rẹ ⟨את⟩ pẹ̀lú rẹ — láti jẹ́ kí o gun ⟨את⟩ ilẹ̀ ìdògbónú rẹ, tí Elohim fún Avraham ní.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Kí ó sì fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìbùkún Avraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ìbùkún"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "àti fún ìrúnpọ̀ rẹ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pẹ̀lú rẹ"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "láti jẹ́ kí o gun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ ìdògbónú rẹ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "ìdògbónú rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "fún Avraham"
+    }
+  ],
+  "timestamp": "2026-08-22T23:05:03.079552028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Nítorí náà, Yahweh Elohim yín, òun ni yóò fi sọ́ wọn kúrò níwájú yín, yóò sì lé ⟨את⟩ wọn kúrò níwájú yín, ẹ sì gbẹ̀dọ̀ jẹ́ ⟨את⟩ ilẹ̀ wọn, gẹ́gẹ́ bí Yahweh Elohim yín ti sọ fún yín.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Nítorí náà, Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "yóò fi sọ́ wọn kúrò"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "níwájú yín"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "yóò sì lé"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "kúrò níwájú yín"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ẹ sì gbẹ̀dọ̀ jẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ wọn"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ilẹ̀ wọn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:40.371402729Z",
+  "model": "glm-5.3"
+}

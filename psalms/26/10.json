@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Èyítí ní ọwọ́ wọn ni ìṣèlè búburú, àtẹ́lẹwọ́ ọ̀tún wọn sì kún fún àṣẹ́bà.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "èyítí"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "ní ọwọ́ wọn"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ìṣèlè búburú"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "àtẹ́lẹwọ́ ọ̀tún wọn"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "sì kún"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "àṣẹ́bà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:06.089947726Z",
+  "model": "glm-5.3"
+}

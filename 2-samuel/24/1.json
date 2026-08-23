@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ìbínú Yahweh ṣàfikún láti bínú sí Yisrael, ó sì mú ⟨את⟩ David ṣe ní wọn, ní wí pé: lọ kà ⟨את⟩ Yisrael àti ⟨את⟩ Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ṣàfikún"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ìbínú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "láti bínú"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sí Yisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "ó sì mú ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ní wọn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ní wí pé"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "kà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-23T01:09:44.692595261Z",
+  "model": "glm-5.3"
+}

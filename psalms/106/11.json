@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Omì si bó ìjàmbá wọn bo; ẹnì kan nínú wọn kò ṣẹ̀kù.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "ó bó bo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Omì"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "àwọn ẹninìjà wọn"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ẹni kan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nínú wọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "ṣẹ̀kù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:09.656918762Z",
+  "model": "glm-5.3"
+}

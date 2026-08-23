@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 24:9",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ó kúnlẹ̀, ó sì sùn bí kìínkínlùù, àti bí kìnníún; tá ni yóò gbé e dìde? Ẹni tí ó búkún fún ẹ, a búkún fún; ẹni tí ó èèbú fún ẹ, a èèbú fún.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Ó kúnlẹ̀"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ó sì sùn"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "bí kìínkínlùù"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "àti bí kìnníún"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tá ni"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "yóò gbé e dìde"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "Ẹni tí ó búkún fún ẹ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "a búkún fún"
+    },
+    {
+      "surface": "וארריך",
+      "gloss": "ẹni tí ó èèbú fún ẹ"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "a èèbú fún"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:18.240617049Z",
+  "model": "glm-5.3"
+}

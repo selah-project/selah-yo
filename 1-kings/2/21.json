@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì wí pé, kí a fún ⟨את⟩ Abishag ará Shunem ní Adonijahu, arákùnrin rẹ, gẹ́gẹ́ bí aya.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ó sì wí pé"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kí a fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "ará Shunem"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "ní Adonijahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "arákùnrin rẹ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "gẹ́gẹ́ bí aya"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:55.892476390Z",
+  "model": "glm-5.3"
+}

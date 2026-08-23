@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Zabad sì bí ⟨את⟩ Ephlal, Ephlal sì bí ⟨את⟩ Obed.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ephlal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Ephlal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "Ephlal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    }
+  ],
+  "timestamp": "2026-08-23T05:07:40.743324926Z",
+  "model": "glm-5.3"
+}

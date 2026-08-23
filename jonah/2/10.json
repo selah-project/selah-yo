@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ṣùgbọ́n èmi, ní ohùn ìdúpẹ́ ni mo ti rúbọ fún ọ; ohun tí mo ṣèlérí ni mo máa sẹ́; ti Yahweh ni ìgbàlà.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ní ohùn"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ìdúpẹ́"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "mo ti rúbọ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "mo ṣèlérí"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "mo máa sẹ́"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ti Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:09:28.662488037Z",
+  "model": "glm-5.3"
+}

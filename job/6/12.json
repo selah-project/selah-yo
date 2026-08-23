@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ṣé agbára mi dọ̀ bí ti agbára àwọn okúta? Tàbí ṣé ẹran ara mi ni kòpà?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ṣé"
+    },
+    {
+      "surface": "כח",
+      "gloss": "agbára"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "àwọn okúta"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "agbára mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tàbí ṣé"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ẹran ara mi"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "kòpà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:17:33.544450986Z",
+  "model": "glm-5.3"
+}

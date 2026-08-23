@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Yehoram sì dìde sókè lórí ìjọba baba rẹ̀, ó sì fi ara rẹ̀ lérò, ó sì pa ⟨את⟩ gbogbo àwọn ará ìyánjú rẹ̀ pẹ̀lú idà, àti àwọn olórí Yisrael dájú.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sì dìde sókè"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "ó sì fi ara rẹ̀ lérò"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ó sì pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ará ìyánjú rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "àwọn ará ìyánjú rẹ̀"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "pẹ̀lú idà"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti dájú"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T05:30:44.664370101Z",
+  "model": "glm-5.3"
+}

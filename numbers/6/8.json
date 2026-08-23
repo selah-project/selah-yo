@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Gbogbo ọjọ́ ìyẹ̀sí rẹ̀, ìwọ̀sà ni ó jẹ́ fún Yahweh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ìyẹ̀sí rẹ̀"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ìwọ̀sà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni ó jẹ́"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:50:25.897959178Z",
+  "model": "glm-5.3"
+}

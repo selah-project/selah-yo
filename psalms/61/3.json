@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 61,
+  "translation": "Láte ìgba ayé ni mo ń pè ⟨wá⟩ sí ọ́, nígbà tí ọkàn mi bá wẹ́rẹ́, wọ́n ṣàkunà mí lọ sí òkèta tí ó ga ju mi lọ.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Láte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ìgba ayé"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ́"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mo ń pè"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "nígbà tí ... bá wẹ́rẹ́"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sí òkèta"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "tó ga"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ju mi lọ"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "wọ́n ṣàkunà mí lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:06.124111063Z",
+  "model": "glm-5.3"
+}

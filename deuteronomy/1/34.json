@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Yahweh sì gbọ́ ⟨את⟩ ohùn ọ̀rọ̀ yín, ó sì bínú, ó sì búra pé",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "sì gbọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohùn ọ̀rọ̀ yín"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ọ̀rọ̀ yín"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ó sì bínú"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ó sì búra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:39.280546140Z",
+  "model": "glm-5.3"
+}

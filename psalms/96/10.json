@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 96,
+  "translation": "Sọ̀rọ̀ láàárín àwọn orílẹ̀-èdè pé, Yahweh ti gbé ìjọba lé lórí; bẹ́ẹ̀ náà ayé di ìdásílẹ̀, kì í yí pàdà; ó ń dá àwọn ènìyàn lọ́jà ní òtítọ́.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Sọ̀rọ̀"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "láàárín àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti gbé ìjọba lé lórí"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bẹ́ẹ̀ náà"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "di ìdásílẹ̀"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "yí pàdà"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ń dá lọ́jà"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ní òtítọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:21.128324956Z",
+  "model": "glm-5.3"
+}

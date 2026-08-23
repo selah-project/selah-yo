@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Nítorí kí ni ìwọ kò pa ⟨את⟩ ìbúra Yahweh mọ́, àti ⟨את⟩ àṣẹ tí mo pàṣẹ fún ọ́?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "Nítorí kí ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ìwọ pa…mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìbúra Yahweh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ìbúra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àṣẹ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "àṣẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mo pàṣẹ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fún ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:53.244947189Z",
+  "model": "glm-5.3"
+}

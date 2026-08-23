@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Nígbà tí ọ̀nà ẹnikẹ́ni bá yá Yahweh lọ́kàn, ó sì mú tí àwọn ọ̀tá rẹ̀ fi sí àlàáfíà pẹ̀lú ⟨את⟩ òun.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "nígbà tí … bá yá … lọ́kàn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnikẹ́ni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sì mú tí"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "àwọn ọ̀tá rẹ̀"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fi sí àlàáfíà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "òun"
+    }
+  ],
+  "timestamp": "2026-08-23T04:08:23.012920956Z",
+  "model": "glm-5.3"
+}

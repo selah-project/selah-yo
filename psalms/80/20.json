@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 80,
+  "translation": "Yahweh, Elohim tí ó gbé àwọn ọmọ-ogun jọ, jọ̀wọ́ padà wá; jẹ́ kí ojú rẹ fìtà tan; àwa yóò sì gba ìgbàlà.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "tí ó gbé àwọn ọmọ-ogun jọ"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "padà wá"
+    },
+    {
+      "surface": "האר",
+      "gloss": "jẹ́ kí ó fìtà tan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "àwa yóò gba ìgbàlà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:05.852937736Z",
+  "model": "glm-5.3"
+}

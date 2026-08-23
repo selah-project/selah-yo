@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Abraham sì kọjá láti ibẹ̀, sí ilẹ̀ Negev, ó sì gbẹ́ inú láàárín Kadesh àti láàárín Shur, ó sì tíńdẹ ní Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "sì kọjá"
+    },
+    {
+      "surface": "משם",
+      "gloss": "láti ibẹ̀"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sí ilẹ̀"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó sì gbẹ́ inú"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàárín"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ó sì tíńdẹ"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "ní Gerar"
+    }
+  ],
+  "timestamp": "2026-08-22T23:01:52.434837018Z",
+  "model": "glm-5.3"
+}

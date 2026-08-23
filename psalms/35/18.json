@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Èmi yóò dúpẹ́ọ fún ọ nínú ìpàtẹ ńlá, nínú àwọn ènìyàní alágbára ni èmi yóò yìn í fún ọ.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Èmi yóò dúpẹ́ọ fún ọ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nínú ìpàtẹ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "nínú àwọn ènìyàní"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "èmi yóò yìn í fún ọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:53.104017125Z",
+  "model": "glm-5.3"
+}

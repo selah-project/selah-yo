@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Wò ó, mo ti fi ⟨את⟩ ilẹ̀ náà lé ojú yín; ẹ wọ̀ ó, kí ẹ sì jogún ⟨את⟩ ilẹ̀ náà tí Yahweh ti búra fún àwọn baba yín — fún Avraham, fún Yitschak, àti fún Yaakov — láti fún wọ́n ní i, àti fún ìrúyè wọn lẹ́yìn wọn.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mo ti fi… lé ojú yín"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ojú yín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ẹ wọ̀ ó"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "kí ẹ sì jogún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ti búra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "fún àwọn baba yín"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "fún Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "fún Yitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "àti fún Yaakov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "láti fún"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọ́n ní i"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "àti fún ìrúyè wọn"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "lẹ́yìn wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:10.555791958Z",
+  "model": "glm-5.3"
+}

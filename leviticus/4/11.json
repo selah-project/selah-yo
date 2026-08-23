@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "àti ⟨את⟩ awọ máàlù náà, àti ⟨את⟩ gbogbo ẹran rẹ̀, pẹ̀lú orí rẹ̀ àti pẹ̀lú ẹsẹ̀ rẹ̀, àti inú rẹ̀, àti igbẹ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "awọ máàlù náà"
+    },
+    {
+      "surface": "עור",
+      "gloss": "awọ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "máàlù náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ẹran rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ẹran rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "orí rẹ̀"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti pẹ̀lú"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "àti inú rẹ̀"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "àti igbẹ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:49.196945907Z",
+  "model": "glm-5.3"
+}

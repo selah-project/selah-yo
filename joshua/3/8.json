@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ìwọ sì ni ó gbọdọ̀ pa ⟨את⟩ àwọn áljì àwọn ológún tí ó ń ru ìgọ́rọ májẹ̀mú láṣẹ, wí pé: Nígbà tí ẹ bá dé eti omi Yorodanu, ẹ dúró sínú Yorodanu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ìwọ sì ni"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "ó gbọdọ̀ pa…láṣẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn áljì"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn áljì"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "tí ó ń ru"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ìgọ́rọ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "nígbà tí ẹ bá dé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "eti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "omi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodanu"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "sínú Yorodanu"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "ẹ dúró"
+    }
+  ],
+  "timestamp": "2026-08-23T05:47:25.035830977Z",
+  "model": "glm-5.3"
+}

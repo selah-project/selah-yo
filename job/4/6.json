@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ẹ̀rù rẹ kì í ṣe ìgbẹ́kẹ̀ rẹ? Ìrètí rẹ, ṣe kì í ṣe òótọ́ àwọn ọ̀nà rẹ ni?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "ẹ̀rù rẹ"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "ìgbẹ́kẹ̀ rẹ"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "ìrètí rẹ"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "òótọ́"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "àwọn ọ̀nà rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:15:03.551041811Z",
+  "model": "glm-5.3"
+}

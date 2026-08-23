@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àwọn ọmọkunrin sì wà fún Bela: Adar, àti Gera, àti Avihud.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "sì wà"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "àwọn ọmọkunrin"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "fún Bela"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "àti Gera"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "àti Avihud"
+    }
+  ],
+  "timestamp": "2026-08-23T05:11:14.385394852Z",
+  "model": "glm-5.3"
+}

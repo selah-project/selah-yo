@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ìjọ náà sì gbẹ̀ níbẹ̀ fún omi; ìjọ náà sì bínú sí Moshe, wọ́n sì wí pé: Ìdí tí ìwọ fi gbé wa sókè kúrò ní Mitzrayim, láti pa ⟨את⟩ mi àti ⟨את⟩ àwọn ọmọ mi àti ⟨את⟩ àwọn ẹran ọ̀sìn mi ní ìgbẹ̀ ni?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "ó sì gbẹ̀"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "למים",
+      "gloss": "fún omi"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "ó sì bínú … sí"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wọ́n sì wí"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ìdí tí"
+    },
+    {
+      "surface": "זה",
+      "gloss": "eléyìí"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ìwọ fi gbé wa sókè"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kúrò ní Mitzrayim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "láti pa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ẹran ọ̀sìn mi"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "àwọn ẹran ọ̀sìn mi"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "ní ìgbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:40.839633972Z",
+  "model": "glm-5.3"
+}

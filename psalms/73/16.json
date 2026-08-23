@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Mo sì rò láti mọ̀ èyí — ṣùgbọ́n ìrora ni ó ⟨jẹ́⟩ nínú ojú mi.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "mo sì rò"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "láti mọ̀"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ìrora"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nínú ojú mi"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:59.152837399Z",
+  "model": "glm-5.3"
+}

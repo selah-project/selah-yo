@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 8:17",
+  "book": "zechariah",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àti ẹnikan — ⟨את⟩ ìkọ̀ ti ẹlẹgbẹ́ rẹ̀ — má ṣe kà sínú ọkàn yín, àti ìbúra ìrọ́, má ṣe fẹ́ran rẹ̀; nítorí ⟨את⟩ gbogbo àwọn nǹkan wọnyí tí mo kórìíra, ìsọdé Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "àti ẹnikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìkọ̀ ti ẹlẹgbẹ́ rẹ̀"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ìkọ̀ ti"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ẹlẹgbẹ́ rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תחשבו",
+      "gloss": "kà sínú"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "ọkàn yín"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "àti ìbúra"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ìrọ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תאהבו",
+      "gloss": "fẹ́ran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn nǹkan wọnyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn nǹkan wọnyí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mo kórìíra"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ìsọdé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:19:09.769370492Z",
+  "model": "glm-5.3"
+}

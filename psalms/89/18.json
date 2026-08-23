@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Nítorí ìgbóríyìn agbára wọn ni Iwọ, àti nínú ìfẹ́ rẹ ni ìwọ̀n-ọ̀yàyà wa ń gbà ga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ìgbóríyìn"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "agbára wọn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Iwọ"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "àti nínú ìfẹ́ rẹ"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "ń gbà ga"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "ìwọ̀n-ọ̀yàyà wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:15.253752064Z",
+  "model": "glm-5.3"
+}

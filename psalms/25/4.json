@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Àwọn ọ̀nà rẹ, Yahweh, fún mi ní ìmọ̀; kọ́ mi àwọn ipa rẹ.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Àwọn ọ̀nà rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "fún mi ní ìmọ̀"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "àwọn ipa rẹ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "kọ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:22.250990583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 56,
+  "translation": "Àwọn ọ̀tá mi ń gbé mi mímú nígbà gbogbo ọjọ́, nítorí wọn pọ̀, wọ́n ń jagun lódì mi, ìgà-òkè.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ń gbé mi mímú"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "Àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wọn pọ̀"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "wọ́n ń jagun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lódì mi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ìgà-òkè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:04.223802879Z",
+  "model": "glm-5.3"
+}

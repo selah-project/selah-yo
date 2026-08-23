@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ẹ̀yin, ẹ lọ, ẹ kó pagba fún yín níbi tí ẹ bá ti lè rí i; nítorí pé ohunkóhun kì í dín kù nínú iṣẹ́ yín.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ẹ lọ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ẹ kó"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "pagba"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "níbi tí"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "ẹ bá ti lè rí i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kì í sí"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "dín kù"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "nínú iṣẹ́ yín"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ohunkóhun"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:09.263684949Z",
+  "model": "glm-5.3"
+}

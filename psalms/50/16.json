@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Ṣùgbọ́n sí ẹni búburú, Elohim wí pé: Kí ló jẹ́ kí o ṣàlàyé àwọn òfin mi, kí o sì fi májẹ̀mú mi wọ ẹnu rẹ?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "ṣùgbọ́n sí ẹni búburú"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ló jẹ́ kí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "ṣàlàyé"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "àwọn òfin mi"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "kí o sì fi ... wọ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "májẹ̀mú mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "wọ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ẹnu rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:51.825629009Z",
+  "model": "glm-5.3"
+}

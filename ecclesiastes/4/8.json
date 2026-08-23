@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 4:8",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ẹnì kan wà, kò sí èkejì; ọmọ kò sí, arákùnrin kò sí fún un; kò sì ìparí fún gbogbo iṣẹ́ rẹ̀ àfikún: ojú rẹ̀ kì í kún pẹ̀lú rọ̀. 'Ẹlòmí ni mo ṣe iṣẹ́ fún? Mo sì ń pa ⟨את⟩ ẹ̀mí mí nínú rere?' Èyí náà jẹ́ ìrẹ́kẹ́kẹ́ àti ìnira búburú.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "wà"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ẹnì kan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "שני",
+      "gloss": "èkejì"
+    },
+    {
+      "surface": "גם",
+      "gloss": "àfikún"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "arákùnrin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ìparí"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "גם",
+      "gloss": "àfikún"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "kún"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pẹ̀lú rọ̀"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "ẹlòmí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ṣe iṣẹ́"
+    },
+    {
+      "surface": "ומחסר",
+      "gloss": "mo sì ń pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí mí"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mí"
+    },
+    {
+      "surface": "מטובה",
+      "gloss": "nínú rere"
+    },
+    {
+      "surface": "גם",
+      "gloss": "èyí náà"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ìrẹ́kẹ́kẹ́"
+    },
+    {
+      "surface": "וענין",
+      "gloss": "àti ìnira"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:13.025389132Z",
+  "model": "glm-5.3"
+}

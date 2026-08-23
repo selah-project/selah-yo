@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Àwọn àpáta gíga wà fún àwọn ohun-ẹlẹ́dẹ̀ igbó; àwọn òkúta di ààbò fún àwọn òborrowó.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "àwọn àpáta"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "gíga"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "fún àwọn ohun-ẹlẹ́dẹ̀ igbó"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "àwọn òkúta"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "di ààbò"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "fún àwọn òborrowó"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:56.114284366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ẹni tí ó sì sún ⟨את⟩ wọn yóò fọ aṣọ rẹ̀, ó sì yóò yọ ⟨את⟩ ara rẹ̀ nínu omi, lẹ́yìn tí ó ṣe bẹ́ẹ̀ ni yóò wọ inú ⟨the⟩ ìpàdé-ogun.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "Ẹni tí ó sì sún"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn (àwọn ẹran ẹ̀ṣẹ̀)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "yóò fọ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ó sì yóò yọ ... nínu omi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ara rẹ̀"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ara rẹ̀"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nínu omi"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "lẹ́yìn tí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ó ṣe bẹ́ẹ̀"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "yóò wọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inú"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ìpàdé-ogun"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:36.384495004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Lẹ́yìn rẹ̀, Ivtsan ti Bet-Lechem sì dá ⟨את⟩ Yisrael lẹ́bi fún.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dá lẹ́bi fún"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "Lẹ́yìn rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Lechem"
+    }
+  ],
+  "timestamp": "2026-08-23T00:37:21.139736913Z",
+  "model": "glm-5.3"
+}

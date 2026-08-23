@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ẹ̀ṣẹ̀ ìjọ mi ni wọ́n ń jẹ, àti sí àìṣeṣe wọn ni wọ́n ń gbé ẹ̀mí wọn.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ìjọ mi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "wọ́n ń jẹ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "àìṣeṣe wọn"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "wọ́n ń gbé"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ẹ̀mí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:01:14.413267905Z",
+  "model": "glm-5.3"
+}

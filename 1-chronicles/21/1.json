@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Sátan sì dúró lódì Yisraeli, ó sì sọ Daviid ṣe ìtọ́ni láti ka ⟨את⟩ Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "sì dúró"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "Sátan"
+    },
+    {
+      "surface": "על",
+      "gloss": "lódì"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "ó sì sọ ṣe ìtọ́ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daviid"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daviid"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "láti ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-23T05:17:35.742451637Z",
+  "model": "glm-5.3"
+}

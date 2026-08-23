@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 62,
+  "translation": "Ó ya ọ̀tọ̀: aṣírẹ̀ lo ni àwọn ọmọ Adam; èké lo ni àwọn ọmọ ọkùnrin; bí a bá gbé wọn lé orí míìra, wọ́n fúyẹ́ ju aṣírẹ̀ lọ ní papọ̀.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ó ya ọ̀tọ̀"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "aṣírẹ̀"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "èké"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "lé orí míìra"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "fúyẹ́"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "ju aṣírẹ̀ lọ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ní papọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:35.582569295Z",
+  "model": "glm-5.3"
+}

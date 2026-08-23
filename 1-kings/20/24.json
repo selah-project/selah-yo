@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ṣe ⟨את⟩ ọ̀rọ̀ yìí: yọ kúrọ̀ àwọn ọba, ọ̀kọ̀ọ̀kan níbi tí ó dúró sí, kí o sì fi àwọn aṣáájú ìjọba sí ipò wọn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ yìí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ṣe"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "yọ kúrọ̀"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọ̀kọ̀ọ̀kan"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "níbi tí ó dúró sí"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "kí o sì fi"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "àwọn aṣáájú ìjọba"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "sí ipò wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:51:35.066543239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó bú àwọn àpáta já ní ijù, ó sì pàṣẹ fún wọn líle gẹ́gẹ́ bíi iho-jìn-nínú tí ó ga lọ.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "Ó bú já"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "àwọn àpáta"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní ijù"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ó sì pàṣẹ fún wọn líle"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "gẹ́gẹ́ bíi iho-jìn-nínú"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "tí ó ga lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:42.446746468Z",
+  "model": "glm-5.3"
+}

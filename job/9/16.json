@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Tí mo bá pè é, tí ó sì dáhùn mi, èmi kì í ṣe gbàgbọ́ pé ó gbọ́ órùn mí.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Tí mo bá"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "pè é"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "dáhùn mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "gbàgbọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "órùn mí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:17:59.540546899Z",
+  "model": "glm-5.3"
+}

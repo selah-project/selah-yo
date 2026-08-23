@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ọba náà sọ fún wọn pé: \"Àlá ni mo ti rí, ẹ̀mí mi sì tì láti mọ ⟨את⟩ àlá náà.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba náà"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "àlá"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ni mo ti rí"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "sì tì"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "láti mọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àlá náà"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "àlá náà"
+    }
+  ],
+  "timestamp": "2026-08-23T06:11:05.820295855Z",
+  "model": "glm-5.3"
+}

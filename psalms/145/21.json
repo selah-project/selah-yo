@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Ìgbẹ́sẹ̀ Yahweh ni ẹnu mi yóò sọ, gbogbo ẹran sì ni kí ó bùkún orúkọ mímọ́ rẹ̀ títí láé láé àti ní àìgbẹ̀yìn.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "ìgbẹ́sẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "yóò sọ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "sì ni kí ó bùkún"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ẹran"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mímọ́ rẹ̀"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láé láé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "àti ní àìgbẹ̀yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:34.750224803Z",
+  "model": "glm-5.3"
+}

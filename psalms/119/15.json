@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Nínú àṣẹ Rẹ ni èmi yóò ṣe ìjíròrò, èmi yóò sì wo ⟨àwọn⟩ ọ̀nà Rẹ.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "nínú àṣẹ Rẹ"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "èmi yóò ṣe ìjíròrò"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "èmi yóò sì wo"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "àwọn ọ̀nà Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:42.129371258Z",
+  "model": "glm-5.3"
+}

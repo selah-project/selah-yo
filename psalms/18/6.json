@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Àwọn àmọ̀n Sheol yí mí ká; àwọn ẹ̀wọ̀n ikú pàdé mí níwájú.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "àmọ̀n"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "yí mí ká"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "pàdé mí níwájú"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "ẹ̀wọ̀n"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:54.413806040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Bí ọmọ-ogun bá kọ̀ọ́ dúró sí mi lórí, ọkàn mi kì yóò bẹ̀rù; bí ogun bá dìde sí mi lórí, nínú èyí ni èmi ń gbẹ́ lé.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "bá kọ̀ọ́ dúró"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sí mi lórí"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ọmọ-ogun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì yóò"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "bẹ̀rù"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "bá dìde"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sí mi lórí"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "nínú èyí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "ń gbẹ́ lé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:45.187978114Z",
+  "model": "glm-5.3"
+}

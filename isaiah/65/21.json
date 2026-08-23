@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 65,
+  "translation": "Wọ́n máa kọ́ ilé, wọ́n sì máa gbẹ́ inú wọn; wọ́n máa gbin àwọn ikọ̀ra, wọ́n sì máa jẹ èso wọn.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "wọ́n máa kọ́"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wọ́n sì máa gbẹ́ inú wọn"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "wọ́n máa gbin"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "àwọn ikọ̀ra"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "wọ́n sì máa jẹ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "èso wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:04:52.104336328Z",
+  "model": "glm-5.3"
+}

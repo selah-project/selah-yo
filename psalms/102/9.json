@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Gbogbo ọjọ́ ni àwọn ọ̀tá mi bu mi lẹ́bi; àwọn tí wọ́n bínú sí mi ti búra pẹ̀lú orúkọ mi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "bu mi lẹ́bi"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "àwọn tí wọ́n bínú sí mi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pẹ̀lú orúkọ mi"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "ti búra"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:20.766089616Z",
+  "model": "glm-5.3"
+}

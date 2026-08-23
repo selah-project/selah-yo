@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Ní ọ̀sán àti ní ìru-lẹ́, wọ́n ń yí i ká lórí àwọn ogiri rẹ̀, ìwà búburú àti iṣẹ́ olórò sì wà ní àárín rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ní ọ̀sán"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "àti ní ìru-lẹ́"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "wọ́n ń yí i ká"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "àwọn ogiri rẹ̀"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ìwà búburú sì"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "àti iṣẹ́ olórò"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "wà ní àárín rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:57.148536548Z",
+  "model": "glm-5.3"
+}

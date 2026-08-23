@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 81,
+  "translation": "Ìjọwọ́ ni ó fi sílẹ̀ fún Yehosef, nígbà tí ó jáde lórí ilẹ̀ Mitzrayim; èdè tí èmi kò mọ̀ ni mo ń gbọ́.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "ìjọwọ́"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "fún Yehosef"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ó fi sílẹ̀"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "nígbà tí ó jáde"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "èdè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mo mọ̀"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "mo ń gbọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:25.185988873Z",
+  "model": "glm-5.3"
+}

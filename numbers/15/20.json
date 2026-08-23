@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ẹ̀kúnlẹ̀rú àwọn ọmọ àgbọn yín, búrẹ́dì kan ni ẹ gbé sílẹ̀ gẹ́gẹ́ bí ìfúnnilọ́kàn; bí ìfúnnilọ́kàn pàkúté irúgbín gbígbé ṣe rí, bẹ́ẹ̀ ni ẹ gbé ⟨את⟩ ẹ̀ sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ẹ̀kúnlẹ̀rú"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "àwọn ọmọ àgbọn yín"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "búrẹ́dì kan"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ẹ gbé sílẹ̀"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ìfúnnilọ́kàn"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "bí ìfúnnilọ́kàn"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "pàkúté irúgbín"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ẹ gbé sílẹ̀"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ẹ̀",
+      "marks": "búrẹ́dì (ẹ̀kúnlẹ̀rú ọmọ àgbọn)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:56:29.729818580Z",
+  "model": "glm-5.3"
+}

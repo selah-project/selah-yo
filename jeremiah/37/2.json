@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 37:2",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ṣùgbọ́n òun, àwọn ìránṣẹ́ rẹ̀ àti ènìyàn ilẹ̀ náà kò gbọ́rọ̀ sí àwọn ọ̀rọ̀ Yahweh, tí ó sọ lọ́wọ́ Yirmeyahu wòlíì náà.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n … kò"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́rọ̀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "àti ènìyàn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "wòlíì náà"
+    }
+  ],
+  "timestamp": "2026-08-23T02:24:33.660000546Z",
+  "model": "glm-5.3"
+}

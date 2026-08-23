@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ẹ̀yí sì ni òfin ti ìpèsè oúnjẹ náà: àwọn ọmọ Aharon yóò kó ⟨את⟩ in nó níwájú Yahweh, tí ó sún mọ́ ojú pẹpẹ ìṣẹ̀bà náà.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ẹ̀yí sì ni"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "òfin ti"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ìpèsè oúnjẹ náà"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yóò kó … wá"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ìpèsè oúnjẹ náà"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tí ó sún mọ́"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ ìṣẹ̀bà náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:38.695170950Z",
+  "model": "glm-5.3"
+}

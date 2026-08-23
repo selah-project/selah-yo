@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Òun ló lu ⟨את⟩ àwọn Falisitini dé Azzah àti ààlà rẹ̀, láti ọ̀run awọ àwọn olùṣọ́ títí dé ìlú àtẹ̀lé-ògún.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Òun ló"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Falisitini"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Falisitini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ààlà rẹ̀"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ààlà rẹ̀"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "láti ọ̀run awọ"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "àwọn olùṣọ́"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "àtẹ̀lé-ògún"
+    }
+  ],
+  "timestamp": "2026-08-23T01:33:52.211360661Z",
+  "model": "glm-5.3"
+}

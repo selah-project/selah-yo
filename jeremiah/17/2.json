@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 17:2",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Gẹ́gẹ́ bí àwọn ọmọ wọn ti ń rántí, àwọn àgbàlá-ìṣẹ́lẹ̀ wọn àti àwọn Asherah wọn lórí igi ewé, lórí àwọn àpáta òkè gíga.",
+  "tokens": [
+    {
+      "surface": "כזכר",
+      "gloss": "gẹ́gẹ́ bí ti ń rántí"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "àwọn ọmọ wọn"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "àwọn àgbàlá-ìṣẹ́lẹ̀ wọn"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "àti àwọn Asherah wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ewé"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "àwọn àpáta òkè"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "gíga"
+    }
+  ],
+  "timestamp": "2026-08-23T02:14:27.467064329Z",
+  "model": "glm-5.3"
+}

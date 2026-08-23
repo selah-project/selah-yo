@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 4:32",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àti àwọn kolùn ọ̀nà àlà ní ìyípo, àti àwọn ìpilẹ̀ wọn, àti àwọn òútínnú wọn, àti àwọn ìsọ̀n wọn, pẹ̀lú gbogbo ohun-èlè wọn àti gbogbo iṣẹ́ wọn; àti nípa orúkọ ni ẹ yóò ka ⟨את⟩ àwọn ohun-èlè ìṣọ́ ẹrù wọn.",
+  "tokens": [
+    {
+      "surface": "ועמודי",
+      "gloss": "àti àwọn kolùn"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ọ̀nà àlà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní ìyípo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "àti àwọn ìpilẹ̀ wọn"
+    },
+    {
+      "surface": "ויתדתם",
+      "gloss": "àti àwọn òútínnú wọn"
+    },
+    {
+      "surface": "ומיתריהם",
+      "gloss": "àti àwọn ìsọ̀n wọn"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "ohun-èlè wọn"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "àti pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "iṣẹ́ wọn"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "àti nípa orúkọ"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "ẹ yóò ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ohun-èlè"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "àwọn ohun-èlè"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ìṣọ́"
+    },
+    {
+      "surface": "משאם",
+      "gloss": "ẹrù wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:50:05.333526592Z",
+  "model": "glm-5.3"
+}

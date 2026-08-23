@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "àti ⟨את⟩ àwòdì dáà àti ⟨את⟩ àwòdì àyà, gẹ́gẹ́ bí irú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwòdì dáà"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "àwòdì dáà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwòdì àyà"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "àwòdì àyà"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "gẹ́gẹ́ bí irú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:48.608438336Z",
+  "model": "glm-5.3"
+}

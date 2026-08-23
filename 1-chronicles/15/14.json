@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Nígbà náà, àwọn àlùfáà àti àwọn Léwì f' ara wọn mọ́ láti gbé ⟨את⟩ àgbálá Yahweh, Elohim Israeli, lárugẹ.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "f' ara wọn mọ́"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "àti àwọn Léwì"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "láti gbé lárugẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgbálá"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "àgbálá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    }
+  ],
+  "timestamp": "2026-08-23T06:13:07.511060912Z",
+  "model": "glm-5.3"
+}

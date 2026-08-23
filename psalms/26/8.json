@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Yahweh, mo fẹ́ ibùgbé ilé rẹ, àti ibi tí àgọ́ ògo rẹ ń gbé.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mo fẹ́"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ibùgbé"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ilé rẹ"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "àti ibi"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ògo rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:19.766758953Z",
+  "model": "glm-5.3"
+}

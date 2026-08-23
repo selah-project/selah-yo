@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Yahweh ni èròjà ipín mi àti àgbá mi; ìwọ, ìwọ ló ń gbé àyàn mi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "èròjà"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ipín mi"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "àti àgbá mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "ń gbé"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "àyàn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:49.980326792Z",
+  "model": "glm-5.3"
+}

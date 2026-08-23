@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ṣé ẹ gbọ́dọ̀ bẹ̀rù ⟨את⟩ Yahweh nìkan, kí ẹ sì ṣíṣẹ́ ⟨את⟩ fún un ní òtítọ́ pẹ̀lú gbogbo ọkàn yín; nítorí pé ẹ rí ⟨את⟩ àwọn nǹkan tí ó ti ṣe tóbi pẹ̀lú yín.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ṣé ... nìkan"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ẹ gbọ́dọ̀ bẹ̀rù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "kí ẹ sì ṣíṣẹ́"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ fún un",
+      "marks": "fún un"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ní òtítọ́"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ọkàn yín"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ẹ rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn nǹkan tí ó ti ṣe tóbi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ti ṣe tóbi"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pẹ̀lú yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:47:25.732153602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó ń rọ̀ ọ̀san (fífi-pa) àti iná àti súl fúrásì sí orí àwọn búburú; afẹ́fẹ́ tí ó ń jóná — ipín ìgò wọn ni.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "Ó ń rọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn búburú"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "ọ̀san (fífi-pa)"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "àti súl fúrásì"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "àti afẹ́fẹ́"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "tí ó ń jóná"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ipín"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "ìgò wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:09.100236644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 1:18",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì wí pé: Jẹ́ kí ọmọ ọ̀dọ̀ rẹ ba ìfaradà lójú rẹ. Obìnrin náà sì lọ lọ́nà rẹ̀, ó sì jẹun, ìyè ojú rẹ̀ sì kò yà bẹ́ẹ̀ mọ́.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ó sì wí pé"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "ọmọ ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ìfaradà"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "lójú rẹ"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "sì lọ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "obìnrin náà"
+    },
+    {
+      "surface": "לדרכה",
+      "gloss": "lọ́nà rẹ̀"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "sì jẹun"
+    },
+    {
+      "surface": "ופניה",
+      "gloss": "ìyè ojú rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yà"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:42:49.328521449Z",
+  "model": "glm-5.3"
+}

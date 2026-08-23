@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Wọ́n pọ̀ ju irun orí mi lọ, àwọn tí ó ń kọ̀ mí míìlò; wọ́n le sí i ju àwọn tí ó fẹ́ pa mi lọ, àwọn ọ̀tá mi ní òtítọ́-àiṣe; nítorí èyí tí èmi kò gbèrupọ̀ lọ, ni mo ń da padà.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "wọ́n pọ̀ ju"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "ju irun"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "orí mi"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "àwọn tí ó ń kọ̀ mí"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "míìlò"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "wọ́n le sí i"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "ju àwọn tí ó fẹ́ pa mi lọ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ní òtítọ́-àiṣe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nítorí èyí tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "èmi gbèrupọ̀ lọ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "nígbà náà"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mo ń da padà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:41.603406087Z",
+  "model": "glm-5.3"
+}

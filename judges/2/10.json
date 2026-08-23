@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 2:10",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àti jẹ́ pé gbogbo ìran yẹn pàdánù, wọ́n kó papọ̀ sí ọ̀dọ̀ àwọn baba wọn; ìran mìíràn sì dìde lẹ́yìn wọn, tí kò mọ̀ Yahweh, àti bíi iṣẹ́ tí ó ṣe fún Israẹli.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "àti jẹ́ pé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "wọ́n kó papọ̀ sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "sì dìde"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mìíràn"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "lẹ́yìn wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti bíi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣẹ́"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fún Israẹli"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:46.200089461Z",
+  "model": "glm-5.3"
+}

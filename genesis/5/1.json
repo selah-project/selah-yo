@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Èyí ni ìwé ìdílé Adam; ní ọjọ́ tí Elohim dá ènìyàn, ní ìrísí Elohim ni ó ṣe ⟨את⟩ i.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Èyí"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ìwé"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ìdílé"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "dá"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "èniyàn"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "ní ìrísí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ i",
+      "marks": "i (èniyàn)"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:38.340296429Z",
+  "model": "glm-5.3"
+}

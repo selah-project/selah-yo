@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ó rán òkùnkùn, ó sì sọ ọ́ di òkùnkùn, wọn kò sì tíwọ́ lé ⟨את⟩ ọ̀rọ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ó rán"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "òkùnkùn"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "ó sì sọ ọ́ di òkùnkùn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wọn kò sì"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "tíwọ́ lé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "ọ̀rọ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:17.995781106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Wọ́n sì fi ⟨את⟩ pamọ́ títí di àárọ̀, gégé bí Moshe ti pàṣẹ; kò sì rùn bí ẹlẹ́gbin, kò sì sisọ àwọn èrújà nínú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "wọ́n sì fi pamọ́"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pamọ́-fúnni náà — títí di àárọ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "àárọ̀"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gégé bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pàṣẹ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "rùn bí ẹlẹ́gbin"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "àwọn èrújà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nínú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:20:58.475817884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Ṣùgbọ́n èmi, mo gbẹ́kẹ̀ lé ọ̀dọ̀ rẹ, Yahweh; mo sọ pé, Elohim mi, Iwọ ni.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mo gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mo sọ pé"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Iwọ ni"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:01.521520525Z",
+  "model": "glm-5.3"
+}

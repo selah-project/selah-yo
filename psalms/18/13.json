@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Láti ìmọ́lẹ̀ tí ó wà níwájú rẹ̀, àwọ̀sánmàn rẹ̀ kọjá; yẹ̀yẹ̀ oníyẹ̀yẹ̀ àti àwọn iná ìtàná.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Láti ìmọ́lẹ̀"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "níwájú rẹ̀"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "àwọ̀sánmàn rẹ̀"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "kọjá"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "yẹ̀yẹ̀ oníyẹ̀yẹ̀"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "àti àwọn iná ìtàná"
+    },
+    {
+      "surface": "אש",
+      "gloss": "(iná)"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:35.110398868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Nítorí Yahweh máa dá ijiyan ⟨àwọn⟩ ènìyàn rẹ̀, àti nípa àwọn ìránṣẹ́ rẹ̀ ó máa faradà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "máa dá ijiyan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ènìyàn rẹ̀"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti nípa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "ó máa faradà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:00.734033582Z",
+  "model": "glm-5.3"
+}

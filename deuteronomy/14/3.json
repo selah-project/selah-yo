@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Má ṣe jẹ erùfia kankan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kankan"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "erùfia"
+    }
+  ],
+  "timestamp": "2026-08-23T05:45:20.193153687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Olórí àwọn olùkọ́-ẹran sì pa ⟨את⟩ Yosef lé lọ́wọ́ pẹ̀lú ⟨את⟩ wọn, ó sì ṣèrànlọ́ ⟨את⟩ wọn; wọ́n sì di ọjọ́ díẹ̀ ní ìwọ̀.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "sì pa lé lọ́wọ́"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Olórí"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "àwọn olùkọ́-ẹran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "ó sì ṣèrànlọ́"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wọ́n sì di"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́ díẹ̀"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ní ìwọ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:10:11.556672268Z",
+  "model": "glm-5.3"
+}

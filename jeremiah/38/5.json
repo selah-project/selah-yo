@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Ọba Tsidkiyahu sì wí pé, Kía ki i, ó wà nínú ọwọ́ yín, nítorí pé ọba kò lè ṣe ⟨את⟩ nnkan ní ọwọ́ yín.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kí-a-ki-i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "wà nínú ọwọ́ yín"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ní ọwọ́ yín",
+      "marks": "ni ọwọ́ yín"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nnkan"
+    }
+  ],
+  "timestamp": "2026-08-23T02:24:53.434786695Z",
+  "model": "glm-5.3"
+}

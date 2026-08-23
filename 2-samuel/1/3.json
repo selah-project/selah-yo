@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "David sì wí fún un pé, Níbo ni tí ì tí wá? Ó sì wí fún un pé, Láti àgọ̀ ogun Yisrael ni mo sà lọ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Níbo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ní tí ì tí"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wá"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "láti àgọ̀ ogun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "mo sà lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:57:51.574003474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Tí ó bá lè jagunjá pẹ̀lú ⟨את⟩ mi, kí ó sì pa á, a ó jẹ́ ẹrú fún yín; ṣùgbọ́n tí èmi bá lè pa á lọ́run, tí n bá pa á, ẹ̀yin yóò jẹ́ ẹrú fún wa, ẹ̀yin yóò sì ṣiṣẹ́ fún ⟨את⟩ wa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ó bá lè"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "jagunjá"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pẹ̀lú mi"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "kí ó sì pa á"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "a ó jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ẹrú"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ṣùgbọ́n tí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "bá lè"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pa á lọ́run"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "tí n bá pa á"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ẹ̀yin yóò jẹ́"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ẹrú"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ẹ̀yin yóò sì ṣiṣẹ́"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "wa"
+    }
+  ],
+  "timestamp": "2026-08-23T00:49:30.699009771Z",
+  "model": "glm-5.3"
+}

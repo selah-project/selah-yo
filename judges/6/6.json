@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 6:6",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Israeli sì dín kù gan-an nítorí ojú Midiyan; àwọn ọmọ Israeli sì kígbe sí Yahweh.",
+  "tokens": [
+    {
+      "surface": "וידל",
+      "gloss": "sì dín kù gan-an"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gan-an"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nítorí ojú"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyan"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "sì kígbe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:33:45.674767315Z",
+  "model": "glm-5.3"
+}

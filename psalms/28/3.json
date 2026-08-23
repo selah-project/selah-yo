@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Má ṣe fa mí kúrò pẹ̀lú àwọn èṣẹ́, àti pẹ̀lú àwọn olṣṣẹ́ ìkọ̀-binu, àwọn tí ń bá àwọn ará wọn sọ̀rọ̀ àlàáfíà nígbà tí ọ̀kan wọn kò dáa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Má ṣe"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "fa mí"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn èṣẹ́"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "àti pẹ̀lú"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "àwọn olṣṣẹ́"
+    },
+    {
+      "surface": "און",
+      "gloss": "ìkọ̀-binu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "àwọn tí ń bá… sọ̀rọ̀"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "àwọn ará wọn"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ọ̀kan wọn kò dáa"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "nínú ọkàn wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:15.806696340Z",
+  "model": "glm-5.3"
+}

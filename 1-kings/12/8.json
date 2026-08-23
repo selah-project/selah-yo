@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ó sì fi ìmọ̀ràn àwọn àgbà tí wọ́n fún un sílẹ̀, ó sì gbọ́ ìmọ̀ràn pẹ̀lú ⟨את⟩ àwọn ọmọdé tí ó dàgba pẹ̀lú rẹ̀, tí wọ́n ń dúró níwájú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "sì fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìmọ̀ràn àwọn àgbà"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ìmọ̀ràn"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "wọ́n fún un"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "sì gbọ́ ìmọ̀ràn pẹ̀lú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọdé"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "àwọn ọmọdé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "dàgba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pẹ̀lú ⟨את⟩ rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ń dúró"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "níwájú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:18:19.948104009Z",
+  "model": "glm-5.3"
+}

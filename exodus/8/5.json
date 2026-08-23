@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 8:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Mosheh sọ fún Paroh pé: “Yọ̀rí sí mi — nígbà wo ni mo gbọdọ̀ bẹ ⟨Ọlọ́hun⟩ fún ọ, àti fún àwọn ìránṣẹ́ rẹ, àti fún ènìyàn rẹ, láti pa àwọn ọ̀pọ̀lọ́ rẹ́ kúrò lọ́dọ̀ rẹ àti nínú àwọn ilé rẹ; nínú odò nìkan ni wọn yóò yòókù.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "fún Paroh"
+    },
+    {
+      "surface": "התפאר",
+      "gloss": "yọ̀rí sí"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "למתי",
+      "gloss": "nígbà wo"
+    },
+    {
+      "surface": "אעתיר",
+      "gloss": "mo gbọdọ̀ bẹ ⟨Ọlọ́hun⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "àti fún àwọn ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "ולעמך",
+      "gloss": "àti fún ènìyàn rẹ"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "láti pa rẹ́"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "àwọn ọ̀pọ̀lọ́"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kúrò lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "àti nínú àwọn ilé rẹ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nìkan"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "nínú odò"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "wọn yóò yòókù"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:57.016368288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Bí òjìjí ṣe ń bọ̀ ní ọ̀sán, àti bí òjò ṣe ń rọ̀ ní àkókò ìkọ̀rẹ̀, bẹ́ẹ̀ ni ọlá kò yẹ fún aṣiwèrè.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "bí òjìjí"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ní ọ̀sán"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "àti bí òjò"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ní àkókò ìkọ̀rẹ̀"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "yẹ"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "fún aṣiwèrè"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ọlá"
+    }
+  ],
+  "timestamp": "2026-08-23T04:12:50.437472540Z",
+  "model": "glm-5.3"
+}

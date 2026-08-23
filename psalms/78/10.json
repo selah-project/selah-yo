@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Wọn kò ṣọ́ májẹ̀mú Elohim, wọ́n sì kọ̀ láti tẹ̀lé Torah rẹ̀.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ṣọ́"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "láti tẹ̀lé Torah rẹ̀"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "wọ́n kọ̀"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "láti rìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:45.089160456Z",
+  "model": "glm-5.3"
+}

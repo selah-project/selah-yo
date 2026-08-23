@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Eni-tóó-tọ́ ṣe ìmọ̀lẹ̀ fún ilé olè-ṣe; ó gbé àwọn olè-ṣe lọ sí ìparun.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ṣe ìmọ̀lẹ̀"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Eni-tóó-tọ́"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fún ilé"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "olè-ṣe"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "gbé... lọ sí ìparun"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn olè-ṣe"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "sí ìparun"
+    }
+  ],
+  "timestamp": "2026-08-23T04:09:41.545614177Z",
+  "model": "glm-5.3"
+}

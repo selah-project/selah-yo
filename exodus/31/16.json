@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Àwọn ọmọ Yisraẹlì sì yóò pa ⟨את⟩ ọjọ́ Sabati mọ́, láti ṣe ⟨את⟩ ọjọ́ Sabati ní àwọn ìran wọn, májẹ̀mú àìnípẹ̀kun.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "yóò pa mọ́"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹlì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọjọ́ Sabati"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ọjọ́ Sabati"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọjọ́ Sabati"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ọjọ́ Sabati"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ní àwọn ìran wọn"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "àìnípẹ̀kun"
+    }
+  ],
+  "timestamp": "2026-08-22T23:28:27.918340906Z",
+  "model": "glm-5.3"
+}

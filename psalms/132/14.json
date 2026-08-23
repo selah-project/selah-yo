@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 132,
+  "translation": "Ìbùsùn mi ni èyí, fún èékóó; níbí ni mo ti gbẹ́dọ̀, nítorí mo ti fẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "ìbùsùn mi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "fún èékóó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "(èékóó)"
+    },
+    {
+      "surface": "פה",
+      "gloss": "níbí"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "mo ti gbẹ́dọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "mo ti fẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:40.507266194Z",
+  "model": "glm-5.3"
+}

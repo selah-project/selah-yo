@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Èdè-ẹ̀rí rẹ ni mo gba ní àṣẹ́-dídá fún ìgbà tí kò ní ìparí, nítorí ìdúnù ọkàn mi ni wọ́n.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "mo gba ní àṣẹ́-dídá"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "èdè-ẹ̀rí rẹ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "fún ìgbà tí kò ní ìparí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ìdúnù"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:56.154311554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 3:45",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Gba ⟨את⟩ àwọn Lewi ní ààyè gbogbo akọbí nínú àwọn ọmọ Yisrael, àti ⟨את⟩ ẹran Lewi ní ààyè ẹran wọn; wọn yóò jé ti mi, àwọn Lewi — emi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Lewi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "àwọn Lewi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ààyè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "akọbí"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "nínú àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹran Lewi"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "ẹran"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ààyè"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "ẹran wọn"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "wọn yóò jé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ti mi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "àwọn Lewi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:15.800598790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Fún ohun gbogbo ni àkókò wà, àti àṣìṣe fún ìfẹ́ gbogbo lábẹ́ ⟨àwọn⟩ ọ̀run.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "fún ohun gbogbo"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "àkókò"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "àti àṣìṣe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ìfẹ́"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨àwọn⟩ ọ̀run"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:28.717180391Z",
+  "model": "glm-5.3"
+}

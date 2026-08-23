@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Yahweh sì gbà Israẹli là ní ọjọ́ yìí; ogun náà sì kojá lọ sí Beyit-Aven.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "sì gbà … là"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israẹli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "ogun náà sì"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "kojá lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyit-Aven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyit"
+    },
+    {
+      "surface": "און",
+      "gloss": "-Aven"
+    }
+  ],
+  "timestamp": "2026-08-23T00:48:26.021116205Z",
+  "model": "glm-5.3"
+}

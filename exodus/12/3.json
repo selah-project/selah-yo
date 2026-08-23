@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Dáríwọ̀ sí gbogbo àjọ Yisraelẹ, wí pé: Ní ọjọ́ kẹwàá ti oṣù yìí, kí wọn gbá fún wọn — ọkùnrin kọ̀ọ̀kan, ọ̀kan ṣe fún ilé àwọn baba rẹ̀; ọ̀kan ṣe fún ⟨the⟩ ilé kan.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Dáríwọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "àjọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraelẹ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "ní ọjọ́ kẹwàá"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ti oṣù"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "kí wọn gbá"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin kọ̀ọ̀kan"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ọ̀kan ṣe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fún ilé"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "àwọn baba"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ọ̀kan ṣe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fún ⟨the⟩ ilé kan"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:06.420094924Z",
+  "model": "glm-5.3"
+}

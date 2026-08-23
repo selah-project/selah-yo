@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ní ọdún karùn-ún ni ẹ jẹ ⟨את⟩ èso rẹ̀, kí ó lè ṣàfikún iṣẹ́-àgbẹ rẹ̀ fún yín; emi ni Yahweh, Elohim yín.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "ní ọdún karùn-ún"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "karùn-ún"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ẹ jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èso rẹ̀"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "èso rẹ̀"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "kí ó lè ṣàfikún"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "iṣẹ́-àgbẹ rẹ̀"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:01.822238109Z",
+  "model": "glm-5.3"
+}

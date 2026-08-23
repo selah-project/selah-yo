@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ó sì rán nípasẹ̀ owó Natan wòlíì náà, ó sì pe orúkọ rẹ̀ Jedidejah, nítorí Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ó sì rán"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nípasẹ̀ owó"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "wòlíì náà"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ó sì pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Jedidejah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:20.673613367Z",
+  "model": "glm-5.3"
+}

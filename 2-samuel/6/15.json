@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Dafidi àti gbogbo ilé Yiseraeli sì ń gbé ⟨את⟩ aron Yahweh lọ sókè pẹ̀lú ìkíglọ́ àti pẹ̀lú ohùn ẹ̀gàá-ọ̀yà.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiseraeli"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "ń gbé lọ sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "pẹ̀lú ìkíglọ́"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "àti pẹ̀lú ohùn"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ẹ̀gàá-ọ̀yà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:59:52.146272348Z",
+  "model": "glm-5.3"
+}

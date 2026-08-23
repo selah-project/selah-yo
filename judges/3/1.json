@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn orílẹ̀-èdè wọnyí ni Yahweh fi sílẹ̀ láti wò wọn nínú ⟨את⟩ Yisrael, gbogbo àwọn tí kò mọ̀ ⟨את⟩ gbogbo àwọn ogun Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "àwọn … wọnyí"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "orílẹ̀-èdè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "fi sílẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "láti wò"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wọn nínú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn tí kò mọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ogun Kenaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "àwọn ogun"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-23T00:32:41.921707809Z",
+  "model": "glm-5.3"
+}

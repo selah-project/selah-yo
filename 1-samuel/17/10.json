@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Filistini náà sì wí pé, èmi ti bu ẹ̀gàn ⟨את⟩ fún àwọn ìránṣẹ́-ogun Yisrael lónìí yìí; ẹ fún mi ní ọkùnrin kan, kí a lè jagun pọ̀.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistini náà"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ti bu ẹ̀gàn fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìránṣẹ́-ogun Yisrael"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "àwọn ìránṣẹ́-ogun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ẹ fún"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin kan"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "kí a lè jagun"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:49:30.699265722Z",
+  "model": "glm-5.3"
+}

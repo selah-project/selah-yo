@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ó sì fa ⟨את⟩ àwọn pẹpẹ yíya kalẹ̀, àti ⟨את⟩ àwọn Asherah; àwọn ìwọ̀nrán ni ó lu di pátápátá; gbogbo àwọn ẹ̀rọ-ìsọ́-òòrùn ni ó gẹ́ káàkiri gbogbo ilẹ̀ Yisrael, ó sì padà sí Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "ó sì fa kalẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn pẹpẹ"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "àwọn pẹpẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn Asherah"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "àwọn Asherah"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "àti àwọn ìwọ̀nrán"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "ó lu"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "di pátápátá"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "àwọn ẹ̀rọ-ìsọ́-òòrùn"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "ó gẹ́"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "káàkiri gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó sì padà"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "sí Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:37:57.770888808Z",
+  "model": "glm-5.3"
+}

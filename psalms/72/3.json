@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Àwọn òkè yóò so àlàáfíà fún ènìyàn ⟨naa⟩, àti àwọn ori-òkè ní ìdọ̀tun.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "yóò so"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "fún ènìyàn"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "àti àwọn ori-òkè"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ní ìdọ̀tun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:12.460227600Z",
+  "model": "glm-5.3"
+}

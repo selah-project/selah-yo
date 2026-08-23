@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Yahweh sì jẹ́ ìgbìmọ̀-lẹ́yẹ fún ẹni tí ó bá le, ìgbìmọ̀-lẹ́yẹ fún àwọn àsìkò nínú ìpònjù.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sì jẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ìgbìmọ̀-lẹ́yẹ"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "fún ẹni tí ó bá le"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ìgbìmọ̀-lẹ́yẹ"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "fún àwọn àsìkò"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "nínú ìpònjù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:31.930626804Z",
+  "model": "glm-5.3"
+}

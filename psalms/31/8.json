@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Èmi yóò yọ̀ ayọ̀, èmi yóò sì dùn ún láyọ̀ nínú chesed rẹ, èyítí o ti rí iṣẹ́ ìnira mi; o mọ ⟨את⟩ ìpèníjade mi nínú ìṣòro ẹ̀mí mi.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "èmi yóò yọ̀ ayọ̀"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "èmi yóò sì dùn ún láyọ̀"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "nínú chesed rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyítí"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "o ti rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣẹ́ ìnira mi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "iṣẹ́ ìnira mi"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o mọ"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "nínú ìṣòro"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:09.793736390Z",
+  "model": "glm-5.3"
+}

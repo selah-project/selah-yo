@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Èmi yóò sì ṣe nípasẹ̀ rẹ ⟨את⟩ nǹkan tí mo kò ṣe télẹ̀, àti ⟨את⟩ nǹkan tí èmi kì yóò ṣe irú rẹ̀ mọ́, nítorí gbogbo ìkórìira rẹ.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Èmi yóò sì ṣe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nípasẹ̀ rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nǹkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mo ṣe télẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "nǹkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì yóò"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mo ṣe"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "irú rẹ̀"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "יען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "ìkórìira rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:35:14.081555396Z",
+  "model": "glm-5.3"
+}

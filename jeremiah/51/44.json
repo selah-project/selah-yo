@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "jeremiah 51:44",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Èmi yóò dá Bel lẹ́bi ní Babiloni, èmi yóò sì mú ⟨את⟩ ohun tí ó gbẹ́ mì jáde lẹ́nu rẹ̀; àwọn orílẹ̀-èdè kì yóò ṣàn sí i mọ́; ódì Babiloni sì ti ṣubú.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "Èmi yóò sì dá lẹ́bi"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Bel"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "ní Babiloni"
+    },
+    {
+      "surface": "והצאתי",
+      "gloss": "èmi yóò sì mú jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí ó gbẹ́ mì"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "ohun tí ó gbẹ́ mì"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "lẹ́nu rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kì í"
+    },
+    {
+      "surface": "ינהרו",
+      "gloss": "yóò ṣàn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ódì"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babiloni"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "ti ṣubú"
+    }
+  ],
+  "timestamp": "2026-08-23T02:32:14.419923416Z",
+  "model": "glm-5.3"
+}

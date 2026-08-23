@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "ṣùgbọ́n Yahweh kò fún yín ní ọkàn láti mọ̀, àti ojú láti rí, àti etí láti gbọ́, títí di ọjọ́ yìí.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n … kò"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "fún … ní"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yín"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "láti mọ̀"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "àti ojú"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "láti rí"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "àti etí"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "láti gbọ́"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:20:18.957243268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Wọ́n rán ⟨את⟩ iná sí ibi mímọ́ rẹ̀; wọ́n sì fi ⟨את⟩ ibùgbé orúkọ rẹ̀ lẹ́ ilẹ̀, wọ́n sọ ó di ẹ̀ṣẹ́.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "wọ́n rán (fi ránṣẹ́ sí)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "ibi mímọ́ rẹ̀"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "fi lẹ́ ilẹ̀"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "wọ́n sọ di ẹ̀ṣẹ́"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ibùgbé"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:13.157120246Z",
+  "model": "glm-5.3"
+}

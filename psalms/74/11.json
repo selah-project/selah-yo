@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Ìdí tí ìwọ fi ń yọ ọwọ́ rẹ, ọwọ́ ọ̀tún rẹ padà? Yọ ọ́ jáde láti àárín èwù rẹ, pa á run.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ìdí tí"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ìwọ fi ń yọ padà"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "àti ọwọ́ ọ̀tún rẹ"
+    },
+    {
+      "surface": "mקרב",
+      "gloss": "láti àárín"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "èwù rẹ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pa á run"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:16.452648931Z",
+  "model": "glm-5.3"
+}

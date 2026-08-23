@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ìwọ kì í gba epo ìsá Eye, kì í sì sá ⟨את⟩ agbọ̀n yìí àti ⟨את⟩ gbogbo ohun tí ó wà nínú rẹ̀, kì í sì yì í mú mímọ́, àti ⟨את⟩ gbogbo irinṣẹ́ rẹ̀, kí ó lè jẹ́ ohun mímọ́ — ìwọ yóò gba epo ìsá mímu yìí, ó sì máa fi sá ⟨את⟩ agbọ̀n yìí àti ⟨את⟩ ohun gbogbo tí ó wà nínú rẹ̀, ó sì máa fi yì í mú ⟨את⟩ agbọ̀n yìí àti ⟨את⟩ ohun ìṣẹ́ rẹ̀ gbogbo mó olóṣùú kí ó máa jẹ́ ohun mímọ́.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ìwọ yóò gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "epo ìsá mímu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ìsá mímu"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ó sì máa fi sá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agbọ̀n yìí"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "agbọ̀n yìí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ohun tí ó wà nínú rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ó wà nínú rẹ̀"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ó sì máa fi yì í mú mímọ́"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ rẹ̀",
+      "marks": "agbọ̀n yìí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kí ó máa jẹ́"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ohun mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:38.867682953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Wọ́n sì máa ṣọ ⟨את⟩ ìṣọ́ ti ahọ̀-ìpàdé, àti ⟨את⟩ ìṣọ́ ti ohun mímọ́, àti ìṣọ́ ti àwọn ọmọ Aharon, ará wọn, fún iṣẹ́ ilé Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Wọ́n sì máa ṣọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìṣọ́ ti ahọ̀-ìpàdé"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ìṣọ́"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahọ̀"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìṣọ́ ti ohun mímọ́"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ìṣọ́"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti ohun mímọ́"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "àti ìṣọ́"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ti àwọn ọmọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ará wọn"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "fún iṣẹ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T05:19:13.994765351Z",
+  "model": "glm-5.3"
+}

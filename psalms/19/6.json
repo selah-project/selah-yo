@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Àti òun, gẹ́gẹ́ bí ọkọ̀ tuntun tí ó ń jáde kúrò nínú yàrá ìgbéyàwó rẹ̀; ó yọ̀ sílẹ̀ gẹ́gẹ́ bí alágbára láti sáré ọ̀nà.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "àti òun"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "gẹ́gẹ́ bí ọkọ̀ tuntun"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ń jáde"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "kúrò nínú yàrá ìgbéyàwó rẹ̀"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "ó yọ̀ sílẹ̀"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "gẹ́gẹ́ bí alágbára"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "láti sáré"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ọ̀nà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:41.680243182Z",
+  "model": "glm-5.3"
+}

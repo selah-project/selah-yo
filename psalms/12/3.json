@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Eke ni wọ́n ń sọ, ọ̀kọ̀ọ̀kan pẹ̀lú ọ̀rẹ́ rẹ̀ ⟨את⟩; ètè àṣekára, pẹ̀lú ọkàn àti ọkàn <ẹlẹ́mejì> ni wọ́n fi ń sọ̀rọ̀.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "eke"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ni wọ́n ń sọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọ̀kọ̀ọ̀kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rẹ́ rẹ̀"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ọ̀rẹ́ rẹ̀"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ètè"
+    },
+    {
+      "surface": "חלקòת",
+      "gloss": "àṣekára"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "pẹ̀lú ọkàn (kan)"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "àti ọkàn (kejì)"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ni wọ́n fi ń sọ̀rọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:39.174813774Z",
+  "model": "glm-5.3"
+}

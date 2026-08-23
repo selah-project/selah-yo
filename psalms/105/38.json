@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Mitsrayim yọ̀ sínu nígbà tí wọn njáde, nítorí ẹ̀rù wọn ṣubú lé wọn lọ́rùn.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "yọ̀ sínu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "nígbà tí wọn njáde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ṣubú"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "ẹ̀rù wọn"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lé wọn lọ́rùn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:44.526529346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ẹ̀yin àti, ẹ sọ ọmọ bíbí, ẹ pọ̀ sí i; ẹ kó ara yín ní ọ̀pọ̀lọpọ̀ lórí ilẹ̀ ayé, ẹ sì pọ̀ sí i níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ẹ̀yin àti"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ẹ sọ ọmọ bíbí"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ẹ pọ̀ sí i"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "ẹ kó ara yín ní ọ̀pọ̀lọpọ̀ lórí"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ẹ sì pọ̀ sí i"
+    },
+    {
+      "surface": "בה",
+      "gloss": "níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:54.532825953Z",
+  "model": "glm-5.3"
+}

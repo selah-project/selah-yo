@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Yehoshua sì gbọ́ ⟨את⟩ ohùn ìjọ náà nígbà tí wọ́n ń kígbe, ó sì wí fún Moshe pé, Ohùn ìjà ló wà ní ààbù ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "sì gbọ́"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohùn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nígbà tí wọ́n ń kígbe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ìjà"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ní ààbù ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:29:41.025948739Z",
+  "model": "glm-5.3"
+}

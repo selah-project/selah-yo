@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "⟨את⟩ gbogbo rẹ̀ ni mo ti rí ní àwọn ọjọ́ èéfín mi: wà ẹní tó tọ́ tí ń ṣègbé nínú títọ́ rẹ̀, àti wà ẹní búburú tí ń gùn ìgbà nínú búburú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo rẹ̀"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "gbogbo rẹ̀"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mo ti rí"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ní àwọn ọjọ́"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "èéfín mi"
+    },
+    {
+      "surface": "יש",
+      "gloss": "wà"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ẹní tó tọ́"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ń ṣègbé"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "nínú títọ́ rẹ̀"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "àti wà"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ẹní búburú"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "ń gùn ìgbà"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "nínú búburú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:00.956922076Z",
+  "model": "glm-5.3"
+}

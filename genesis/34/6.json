@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Hamor, baba Shechem, sì jáde lọ sí Yaakov láti bá a sọ̀rọ̀ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "sì jáde"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lọ sí"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "láti bá a sọ̀rọ̀"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "láti bá a sọ̀rọ̀ pẹ̀lú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:08.624868749Z",
+  "model": "glm-5.3"
+}

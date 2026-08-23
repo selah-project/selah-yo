@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Reayah, ọmọ Shoval, bí ⟨את⟩ Yachath; Yachath sì bí ⟨את⟩ Achumai àti ⟨את⟩ Lahad — àwọn wọnyí ni àwọn ìdílé ti àwọn Tsoreati.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yachath"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachath"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "Yachath sì"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọnyí"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "àwọn ìdílé"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "ti àwọn Tsoreati"
+    }
+  ],
+  "timestamp": "2026-08-23T05:09:56.826407599Z",
+  "model": "glm-5.3"
+}

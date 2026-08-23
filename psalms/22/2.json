@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Eli mi, Eli mi, nítori kí ló ṣe jẹ́ kí o ntì mí sílẹ̀? O jìnnà sí ìgbàlà mi, sí ọ̀rọ̀ ìkigbé mi.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Eli mi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eli mi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nítori kí ló ṣe jẹ́"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "kí o ntì mí sílẹ̀"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "o jìnnà"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "sí ìgbàlà mi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sí ọ̀rọ̀"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ìkigbé mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:11.294247518Z",
+  "model": "glm-5.3"
+}

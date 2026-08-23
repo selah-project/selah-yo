@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Yahweh sì sọ fún mi pé, Mo ti rí ⟨את⟩ ijàná yìí, wò ó, ìjọ orí-líle ni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Mo ti rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjàná yìí"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjàná"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ìjọ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "líle"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "orí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:06.739820046Z",
+  "model": "glm-5.3"
+}

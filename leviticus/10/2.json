@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Iná sì jáde láti èdùwà Yahweh, ó sì jé wọn ⟨את⟩ run-mí, wọ́n sì kú níwájú Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "ó sì jáde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "láti èdùwà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ó sì jé"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (Nadav àti Avihu)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "wọ́n sì kú"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T05:43:30.777606361Z",
+  "model": "glm-5.3"
+}

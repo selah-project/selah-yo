@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Ó fẹ́ràn ìgbégẹ́, kí ó sì wá bá a; kò fẹ́ ìbùkún, kí ó sì jìnnà sí i.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Ó fẹ́ràn"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "ìgbégẹ́"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "kí ó sì wá bá a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "fẹ́"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "ìbùkún"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "kí ó sì jìnnà"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sí i"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:22.757747658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ìròrùn rẹ̀ yóò wà ní ẹ̀rù Yahweh; kì í ṣe nípa ohun tí ojú rẹ̀ rí ló máa ń dájọ́, kì í ṣe nípa ohun tí etí rẹ̀ gbọ́ ló máa ń ṣe ìdánilójú.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "ìròrùn rẹ̀ yóò wà"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ní ẹ̀rù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "nípa ìfarahàn"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "ló máa ń dájọ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "nípa ìgbọ́"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "etí rẹ̀"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ló máa ń ṣe ìdánilójú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:45:13.426149785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ní ọjọ́ gbogbo ó ń ṣègbèrú, ó sì ń ya níyì nwọ́nínwọ́nín; ìrúnmọ̀ rẹ̀ sì jẹ́ ìbùkún.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ó ń ṣègbèrú"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "ó sì ń ya níyì nwọ́nínwọ́nín"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ìrúnmọ̀ rẹ̀ sì"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "jẹ́ ìbùkún"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:00.278182760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Yahweh Elohim sì gbìn ọgbà ní Eden, ní ìhà-ìlà-oòrùn; ó sì gbé ⟨את⟩ ádámùkù sí ibẹ̀, ènì tí ó ti ṣe ère rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "ó sì gbìn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "ọgbà"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "ní Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ní ìhà-ìlà-oòrùn"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì gbé"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sí ibẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ádámùkù"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ádámùkù"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ènì tí"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ó ti ṣe ère rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:58.442766961Z",
+  "model": "glm-5.3"
+}

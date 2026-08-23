@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "David sì di aṣọ rẹ̀ mú, ó sì ya wọ́n; àwọn ọkùnrin gbogbo tí ó wà pẹ̀lú ⟨את⟩ rẹ̀ náà ṣe bẹ́ẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "sì di... mú"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "ó sì ya wọ́n"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pẹ̀lú ⟨את⟩ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:57:16.064986411Z",
+  "model": "glm-5.3"
+}

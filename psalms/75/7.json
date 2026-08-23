@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 75,
+  "translation": "Nítorí pé ìgbéga kì í ṣe tí ó ń bọ̀ láti ìlà-oòrùn, bí kò ṣe láti ìwọ̀-oòrùn, àti kì í ṣe láti ijù alápa tí ó gbẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "láti ìlà-oòrùn"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "bí kò ṣe láti ìwọ̀-oòrùn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kì í ṣe"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "láti ijù alápa tí ó gbẹ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ìgbéga"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:32.226380371Z",
+  "model": "glm-5.3"
+}

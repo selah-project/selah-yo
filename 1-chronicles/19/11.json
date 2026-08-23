@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 19:11",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ìkúyà wọn sì fún ⟨את⟩ àwọn ènìyàn ìkúnpárọ̀ sí ọwọ́ Abisai, arábirin rẹ̀, wọ́n sì ṣètò wọn láti pàdé àwọn ọmọ Amoni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn ìkúnpárọ̀"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ìkúnpárọ̀"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sí ọwọ́"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abisai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arábirin rẹ̀"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "wọ́n sì ṣètò"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "láti pàdé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    }
+  ],
+  "timestamp": "2026-08-23T05:16:45.811963066Z",
+  "model": "glm-5.3"
+}

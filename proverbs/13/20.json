@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ẹni tí ó ń rìn pẹ̀lú ⟨את⟩ àwọn ọlọgbọ́n yóò di ọlọgbọ́n; ṣùgbọ́n alábàágbẹ́yẹ̀wò àwọn ọmọ-àìgbọ́n yóò fara báburú.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ẹni tí ó ń rìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọlọgbọ́n"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "àwọn ọlọgbọ́n"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "yóò di ọlọgbọ́n"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ṣùgbọ́n alábàágbẹ́yẹ̀wò"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "àwọn ọmọ-àìgbọ́n"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "yóò fara báburú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:06:03.705220250Z",
+  "model": "glm-5.3"
+}

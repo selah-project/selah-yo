@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 127,
+  "translation": "Wò ó, ogún Yahweh ni àwọn ọmọ; èso ti ikún ni èrè.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "èrè"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "èso"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ti ikún"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:50.313602714Z",
+  "model": "glm-5.3"
+}

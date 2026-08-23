@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ẹ má ṣe jàgbẹ́, àti ẹ má ṣe parọ́, àti ẹ má ṣe dá irọ́, ẹni sí ẹlẹgbẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "jàgbẹ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti ẹ má ṣe"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "parọ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti ẹ má ṣe"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "dá irọ́"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "sí ẹlẹgbẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:07.526964315Z",
+  "model": "glm-5.3"
+}

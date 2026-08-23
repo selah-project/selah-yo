@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Àti láti ṣe ⟨את⟩ igbín wọn sílẹ̀ láàárín àwọn orílẹ̀-èdè, àti láti tú wọn sọ́rọ̀ láàárín àwọn ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "àti láti ṣe ... sílẹ̀"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "igbín wọn"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "láàárín àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "àti láti tú wọn sọ́rọ̀"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "láàárín àwọn ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:13.494825329Z",
+  "model": "glm-5.3"
+}

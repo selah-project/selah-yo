@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Èrò ìlú àjèjì ni mo ṣe ní ayé; má ṣe fi àwọn àṣẹ Rẹ pamọ́ kúrò lọ́dọ̀ mi.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "ẹrò ìlú àjèjì"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mo ṣe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ayé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "fi … pamọ́"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kúrò lọ́dọ̀ mi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "àwọn àṣẹ Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:17.256519378Z",
+  "model": "glm-5.3"
+}

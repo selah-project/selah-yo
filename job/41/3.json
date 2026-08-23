@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 41:3",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Ta ni ó kọ́kọ́ fún mi ní ohun, kí n lè san án padà? Ohun gbogbo tí ó wà lábẹ́ ⟨àwọn⟩ ọ̀run ni ti mi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הקדימני",
+      "gloss": "kọ́kọ́ fún mi"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "kí n san án padà"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohun gbogbo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ti mi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-23T04:31:25.483369001Z",
+  "model": "glm-5.3"
+}

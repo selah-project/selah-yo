@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Ó mú ipá mi dínkù ní ọ̀nà, ó gé ọjọ́ ayé mi kúrá",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Ó mú … dínkù"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ní ọ̀nà"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "ipá mi"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "ó gé … kúrá"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́ ayé mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:09.217946538Z",
+  "model": "glm-5.3"
+}

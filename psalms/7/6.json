@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Kí ọ̀tá máa lé ẹ̀mí mi lẹ́yìn, kí ó sì bá á, kí ó sì fi ayé mi tẹ́ ilẹ̀, kí ó sì mú ógo mi gbé sí èrùpé. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "kí ó máa lé lẹ́yìn"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ọ̀tá"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "àti kí ó bá"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "àti kí ó tẹ́"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ayé mi"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "àti ógo mi"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "sí èrùpé"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "kí ó gbé"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:56.851691065Z",
+  "model": "glm-5.3"
+}

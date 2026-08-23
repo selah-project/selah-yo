@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Paro kì yóò gbọ́ ti yín, èmi yóò sì fi ⟨את⟩ ọwọ́ mi sí Mitzrayim, èmi yóò sì mú ⟨את⟩ àwọn ọmọ-ogun mi, ⟨את⟩ ènìyàn mi, àwọn ọmọ Yisrael jáde láti ilẹ̀ Mitzrayim pẹ̀lú àwọn ìdájọ́ tó tóbi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "yóò gbọ́"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ti yín"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "èmi yóò sì fi… sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ mi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "èmi yóò sì mú… jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ-ogun mi"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "àwọn ọmọ-ogun mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èrò mi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "èrò mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "láti ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "pẹ̀lú àwọn ìdájọ́"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "tó tóbi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:00.056836509Z",
+  "model": "glm-5.3"
+}

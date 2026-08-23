@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Kí wọ́n kẹ́dùn, ṣùgbọ́n ìwọ, sọ ọ̀pẹ́; nígbà tí wọ́n bá dìde, kí wọ́n tì múra-ìdàmú; ṣùgbọ́n ìránṣẹ́ rẹ yóò dùn ara.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "kí wọ́n kẹ́dùn"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọ́n gan-an"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ṣùgbọ́n ìwọ"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "sọ ọ̀pẹ́"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "nígbà tí wọ́n bá dìde"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "kí wọn tì múra-ìdàmú"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "ṣùgbọ́n ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "yóò dùn ara"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:07.452861999Z",
+  "model": "glm-5.3"
+}

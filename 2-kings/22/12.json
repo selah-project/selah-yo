@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ọba sì pa ⟨את⟩ Chilkiyah adarí-èrò, àti ⟨את⟩ Achikam ọmọ Shafan, àti ⟨את⟩ Akbor ọmọ Mikhayah, àti ⟨את⟩ Shafan akọ̀wé, àti ⟨את⟩ Asayah ẹrú ọba láṣẹ, ó wí pé,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "sì pa…láṣẹ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chilkiyah adarí-èrò"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilkiyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adarí-èrò"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Achikam ọmọ Shafan"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Achikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Akbor ọmọ Mikhayah"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akbor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "Mikhayah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Shafan akọ̀wé"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "akọ̀wé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Asayah ẹrú ọba"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asayah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ẹrú"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó wí pé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:36:56.802354745Z",
+  "model": "glm-5.3"
+}

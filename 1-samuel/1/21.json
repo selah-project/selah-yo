@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ìkúnrin náà, Elkana, àti gbogbo ilé rẹ̀ gbé lábọ́ sílẹ̀ láti lú ⟨את⟩ ẹbọ àwọn ọjọ́ sí Yahweh, àti ⟨את⟩ ìlérí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ó gbé lábọ́ sílẹ̀"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ìkúnrin náà"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "láti lú ẹbọ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹbọ àwọn ọjọ́"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ẹbọ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "àwọn ọjọ́"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìlérí rẹ̀"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "ìlérí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:43:00.483500196Z",
+  "model": "glm-5.3"
+}

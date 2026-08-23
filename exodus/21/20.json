@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Àti tí ọkùnrin bá lu ⟨את⟩ ìránṣẹ́ rẹ̀ tàbí ⟨את⟩ ìránṣẹ́bìnrin rẹ̀ pẹ̀lú ọ̀yà, ó sì kú lábẹ́ ọwọ́ rẹ̀ — dájúdájú ni a ó ṣẹ́ ẹ̀ṣẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Àti tí"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "bá lu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìránṣẹ́bìnrin rẹ̀"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ìránṣẹ́bìnrin rẹ̀"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "pẹ̀lú ọ̀yà"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ó sì kú"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "a ó ṣẹ́ ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "dájúdájú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:48.346928754Z",
+  "model": "glm-5.3"
+}

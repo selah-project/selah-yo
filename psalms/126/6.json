@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 126,
+  "translation": "Ẹni tí ó ń rìn tẹ̀síwájú, tí ó ń sọ̀fọ́, tí ó ń ru irúgbìn yóò sì wá padè ní orin ayọ̀, tí ó ru àwọn ọ̀pọ̀n àwọn irúgbìn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ń rìn"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "tẹ̀síwájú"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "tí ó ń sọ̀fọ́"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "tí ó ń ru"
+    },
+    {
+      "surface": "משך",
+      "gloss": "irúgbìn"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "yóò sì"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wá"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "padè"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ní orin ayọ̀"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "tí ó ru"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "àwọn ọ̀pọ̀n àwọn irúgbìn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:22.826432288Z",
+  "model": "glm-5.3"
+}

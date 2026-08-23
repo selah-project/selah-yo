@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Èyí ni ìtùrà mi nínú ìpọ̀njú mi; nítorí ọ̀rọ̀ rẹ ti fi mí láàyè.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ìtùrà mi"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "nínú ìpọ̀njú mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ọ̀rọ̀ rẹ"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "ti fi mí láàyè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:22.404287519Z",
+  "model": "glm-5.3"
+}

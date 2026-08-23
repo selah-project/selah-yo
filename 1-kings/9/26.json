@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 9:26",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ọba Shelomoh sì ṣe ⟨àwọn⟩ olokò ní Etsiyon-Geber, tí ó wà nítoríba ⟨את⟩ Eylot, lórí etí òkun Suph, ní ilẹ̀ Edom.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "sì olokò"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "ní Etsiyon-"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Geber"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylot"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "nítoríba Eylot"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "etí"
+    },
+    {
+      "surface": "ים",
+      "gloss": "òkun"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-23T01:16:39.610954969Z",
+  "model": "glm-5.3"
+}

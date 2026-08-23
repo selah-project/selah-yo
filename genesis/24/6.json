@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Avraham sì wí fún un pé, Ṣọ́ ìmọ́ra fún ra rẹ, kí o má ṣe dá ⟨את⟩ ọmọ mi padà sí ibẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Ṣọ́ ìmọ́ra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ra rẹ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí o má ṣe"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "dá padà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ mi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sí ibẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:01:48.814256264Z",
+  "model": "glm-5.3"
+}

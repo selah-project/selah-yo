@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Àti ⟨את⟩ Kivtsayim àti ⟨את⟩ àgbàlá rẹ̀, àti ⟨את⟩ Beit-Ḥoron àti ⟨את⟩ àgbàlá rẹ̀; àwọn ìlú mẹ́rin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Kivtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kivtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àgbàlá rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "àgbàlá rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Beit-Ḥoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Ḥoron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àgbàlá rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "àgbàlá rẹ̀"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mẹ́rin"
+    }
+  ],
+  "timestamp": "2026-08-23T00:29:42.206937869Z",
+  "model": "glm-5.3"
+}

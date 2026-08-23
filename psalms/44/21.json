@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Ṣé tí a bá ti gbagbé orúkọ Elohim wa, tàbí tí a bá ti tẹ àwọn ọwọ́ wa sílẹ̀ sí El àjèjì,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ṣé tí"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "a ti gbagbé"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "tàbí tí a ti tẹ sílẹ̀"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "àwọn ọwọ́ wa"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sí El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "àjèjì"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:20.245918166Z",
+  "model": "glm-5.3"
+}

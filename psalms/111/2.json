@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 111,
+  "translation": "Nlá ni àwọn iṣẹ́ Yahweh; wọ́n ń ṣe ìwádìí wọn fún gbogbo àwọn tí ó dùnù wọn lókàn.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Nlá"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "àwọn iṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "wọ́n ń ṣe ìwádìí wọn"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "àwọn tí ó dùnù wọn lókàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:20.513056011Z",
+  "model": "glm-5.3"
+}

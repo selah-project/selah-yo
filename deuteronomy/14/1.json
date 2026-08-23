@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ẹ jẹ́ àwọn ọmọ sí Yahweh, Elohim yín; ẹ má ṣe fi ara yín gẹ, ẹ má sì ṣe ìgbéraga láàárín ojú yín fún òkú.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "fi ara yín gẹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ẹ má sì ṣe"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "ẹ má sì ṣe"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "ìgbéraga"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ojú yín"
+    },
+    {
+      "surface": "למת",
+      "gloss": "fún òkú"
+    }
+  ],
+  "timestamp": "2026-08-23T05:45:44.489871614Z",
+  "model": "glm-5.3"
+}

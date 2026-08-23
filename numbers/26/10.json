@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 26:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ilẹ̀ náà sì síi ⟨את⟩ ẹnu rẹ̀, ó sì gbé wọ́n míì pẹ̀lú ⟨את⟩ Korach, ní ìkú ìjọ náà, nígbà tí iná jẹ ⟨את⟩ àádọ́ta àti ìgba ọkùnrin; wọ́n sì di ààmì.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "síi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Ilẹ̀ náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹnu rẹ̀"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ẹnu rẹ̀"
+    },
+    {
+      "surface": "ויבלע→ותבלע",
+      "gloss": "ó sì gbé wọ́n míì"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọ́n"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ní ìkú"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "nígbà tí ... jẹ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àádọ́ta àti ìgba ọkùnrin"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "àádọ́ta"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ìgba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wọ́n sì di"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "ààmì"
+    }
+  ],
+  "timestamp": "2026-08-23T00:01:07.551431957Z",
+  "model": "glm-5.3"
+}

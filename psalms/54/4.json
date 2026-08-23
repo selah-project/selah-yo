@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 54,
+  "translation": "Elohim, gbọ́ ìgbàlà mí, fi etí gbọ́ fún ọ̀rọ̀ ẹnu mi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ìgbàlà mí"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "fi etí gbọ́"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "fún ọ̀rọ̀"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:59.554112087Z",
+  "model": "glm-5.3"
+}

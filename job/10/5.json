@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ṣé ọjọ́ rẹ dàbí ọjọ́ ⟨ènìyàn olúkúùkù⟩, tàbí ọdún rẹ dàbí ọjọ́ okùnrin?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "dàbí ọjọ́ ti"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ènìyàn olúkúùkù"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ọjọ́ rẹ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "ọdún rẹ"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "dàbí ọjọ́ ti"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "okùnrin"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:07.708469759Z",
+  "model": "glm-5.3"
+}

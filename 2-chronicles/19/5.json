@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ó sì gbé àwọn adájọ́ sílẹ̀ ní ilẹ̀ yìí, ní gbogbo àwọn ìlú Yehudah tí a ti ṣe igbó, fún ìlú kọ̀ọ̀kan.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Ó sì gbé…sílẹ̀"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "àwọn adájọ́"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "tí a ti ṣe igbó"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "fún ìlú"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "kọ̀ọ̀kan"
+    }
+  ],
+  "timestamp": "2026-08-23T05:30:41.718040810Z",
+  "model": "glm-5.3"
+}

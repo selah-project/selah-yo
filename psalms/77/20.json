@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 77,
+  "translation": "Nínú òkun ni ọ̀nà rẹ wà, àti àwọn ọ̀nà rẹ nínú àwọn omi púpọ̀; àwọnẹsẹ̀ rẹ kò han mọ́.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "ní òkun"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ọ̀nà rẹ"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "àti àwọn ọ̀nà rẹ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ní àwọn omi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "àwọn ẹsẹ̀ rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "han mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:24.333124794Z",
+  "model": "glm-5.3"
+}

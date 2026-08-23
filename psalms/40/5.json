@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ìbukún fún ọkùnrin tí ó fi Yahweh ṣe ìgbẹ́kẹ̀ rẹ̀, tí kò sì yí lọ sí àwọn àìgbọràn, àwọn tí ó kọjá sí irọ́.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ìbukún"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "fi…ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "ìgbẹ́kẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tí kò sì"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "yí lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "àwọn àìgbọràn"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "àwọn tí ó kọjá sí"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "irọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:55.679476969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Àwọn ọ̀run ń ṣàlàyé ògo El, àti iṣẹ́ ọwọ́ rẹ̀, ìtàlà ń kéde ⟨àti⟩ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Àwọn ọ̀run"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "ń ṣàlàyé"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ògo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "àti iṣẹ́"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ń kéde"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "ìtàlà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:19.340443902Z",
+  "model": "glm-5.3"
+}

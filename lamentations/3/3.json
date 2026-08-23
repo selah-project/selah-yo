@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ìṣeéṣe, lódì sí èmi ni ó yì padà; ó ń kó ọwọ́ rẹ̀ padà lódì sí mi, gbogbo ọjọ́.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ìṣeéṣe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "lódì sí èmi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ni ó yì padà"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "ó ń kó padà"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:36:57.324469781Z",
+  "model": "glm-5.3"
+}

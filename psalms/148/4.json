@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 148,
+  "translation": "Ẹ yín fún òun, àwọn ọ̀run tí ó ga jù lọ, àti àwọn omi tí ó wà lókè àwọn ọ̀run.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ẹ yín fún òun"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "àwọn ọ̀run tí ó ga jù lọ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "àti àwọn omi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "lókè"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:24.916970402Z",
+  "model": "glm-5.3"
+}

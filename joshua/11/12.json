@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "⟨את⟩ gbogbo àwọn ìlú àwọn ọba wọnyí àti ⟨את⟩ gbogbo àwọn ọba wọn ni Yehoshua gba, ó sì lu wọn pẹ̀lú ojú idà, ó sì fi mọ́ ìparun ⟨את⟩ wọn, gẹ́gẹ́ bí Moshe, ẹrú Yahweh, ti pa lásẹ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ìlú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ọba wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "àwọn ọba wọn"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "gbà"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "ó sì lu wọn"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pẹ̀lú ojú"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idà"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "ó sì fi mọ́ ìparun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pa lásẹ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ẹrú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:27:02.698850686Z",
+  "model": "glm-5.3"
+}

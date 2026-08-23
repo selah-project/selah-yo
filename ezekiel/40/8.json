@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ó sì wọ̀n ⟨את⟩ ọ́jú-ọ̀nà àájọ́ ọ̀nà-ìbodè náà, láti ilé náà: ọ̀gbà kan.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ó sì wọ̀n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ́jú-ọ̀nà àájọ́ ọ̀nà-ìbodè náà"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ọ́jú-ọ̀nà àájọ́"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ọ̀nà-ìbodè náà"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "láti ilé náà"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ọ̀gbà"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-08-23T02:55:30.186841913Z",
+  "model": "glm-5.3"
+}

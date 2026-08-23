@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ní ibi tí wọ́n wà nísisìyí, àwọn ọlọgbọ́n rẹ? Ẹ jẹ́ kí wọ́n sọ fún ọ báyìí, kí wọ́n sì mọ ohun tí Yahweh Tsevaot ti ṣètò lórí Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "ní ibi tí wọ́n wà"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "nísisìyí"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "àwọn ọlọgbọ́n rẹ"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ẹ jẹ́ kí wọ́n sọ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "báyìí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "kí wọ́n sì mọ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ti ṣètò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:54:32.262000192Z",
+  "model": "glm-5.3"
+}

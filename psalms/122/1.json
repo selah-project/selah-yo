@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 122,
+  "translation": "Orin ti àwọn ìgòkè fún Dawidu. Mo yọ̀ nígbà tí wọ́n sọ fún mi pé: Ẹ jẹ́ kí a lọ sí ilé Yahweh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ti àwọn ìgòkè"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún Dawidu"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Mo yọ̀"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "nígbà tí wọ́n sọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ẹ jẹ́ kí a lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:30.842771621Z",
+  "model": "glm-5.3"
+}

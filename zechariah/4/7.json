@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 4:7",
+  "book": "zechariah",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìwọ, ǹjẹ́ ta ni ìwọ, ókè ńlá, níwájú Zerubbabel? Ìwọ yóò di ilẹ̀ pẹ̀lẹ̀; ó sì máa jáde ⟨את⟩ okuta ìpilẹ̀ṣẹ̀ náà — ìkìlọ̀ ńlá ni: Ọ̀ṣẹ́, ọ̀ṣẹ́ ni fún un!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ǹjẹ́ ta ni ìwọ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ókè"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "למישר",
+      "gloss": "di ilẹ̀ pẹ̀lẹ̀"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ó sì máa jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okuta ìpilẹ̀ṣẹ̀ náà"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "okuta"
+    },
+    {
+      "surface": "הראשה",
+      "gloss": "ìpilẹ̀ṣẹ̀ náà"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "ìkìlọ̀ ńlá"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ọ̀ṣẹ́"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ọ̀ṣẹ́"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fún un"
+    }
+  ],
+  "timestamp": "2026-08-23T03:18:34.873163757Z",
+  "model": "glm-5.3"
+}

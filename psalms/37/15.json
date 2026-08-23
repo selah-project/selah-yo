@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Idà wọn yóò wọ inú ọkàn wọn, àwọn orun wọn sì yóò fàdákà yò.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Idà wọn"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "yóò wọ"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "inú ọkàn wọn"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "àwọn orun wọn"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "yóò fàdákà yò"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:15.270153256Z",
+  "model": "glm-5.3"
+}

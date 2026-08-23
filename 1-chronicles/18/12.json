@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Avshai, ọmọ Tzeruya, sì lu ⟨את⟩ Edom ní ijú omi iyọ̀ — ẹ̀dẹ́gbẹ̀ta dín mẹ́jọ (18,000).",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Avshai sì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tzeruya"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ní ijú"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "omi iyọ̀"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "mẹ́jọ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-dínlógún"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbẹ̀run"
+    }
+  ],
+  "timestamp": "2026-08-23T05:16:41.999969921Z",
+  "model": "glm-5.3"
+}

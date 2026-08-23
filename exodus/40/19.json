@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ó sì tán ⟨את⟩ àgọ́ náà ká sórí ⟨the⟩ Mishkan, ó sì fi ⟨את⟩ ìbò àgọ́ náà lórí rẹ̀ lókè, gẹ́gẹ́ bí Yahweh ti pa ⟨את⟩ Moṣe lẹ́nu.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "ó sì tán ... ká"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgọ́ náà"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "àgọ́ náà"
+    },
+    {
+      "surface": "על",
+      "gloss": "sórí"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìbò àgọ́ náà"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ìbò"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "àgọ́ náà"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "lókè"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí ó ti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pa ... lẹ́nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moṣe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moṣe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:42.140182150Z",
+  "model": "glm-5.3"
+}

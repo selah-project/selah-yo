@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 1:37",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Bí Yahweh ṣe ti wà pẹ̀lú Adonai mi, ọba náà, bẹ́ẹ̀ kí ó wà pẹ̀lú Shelomoh, kí ó sì gbé ⟨את⟩ ìtẹ́ rẹ̀ lárugẹ́ ju ìtẹ́ Adonai mi, ọba Dafidi lọ.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ṣe ti wà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kí ó wà"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "kí ó sì gbé lárugẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìtẹ́ rẹ̀"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ìtẹ́ rẹ̀"
+    },
+    {
+      "surface": "מכסא",
+      "gloss": "ju ìtẹ́"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:15.798659996Z",
+  "model": "glm-5.3"
+}

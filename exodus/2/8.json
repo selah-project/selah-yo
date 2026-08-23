@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Bíbi Paroh sì wí fún wàálẹ̀ pé, Lọ. Wàálẹ̀ náà sì lọ, ó sì pè ⟨את⟩ ìyá omọkùnrin náà.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fún wàálẹ̀"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bíbi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Lọ"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "wàálẹ̀ náà"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ó sì pè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìyá omọkùnrin náà"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ìyá"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "omọkùnrin náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:49.774703150Z",
+  "model": "glm-5.3"
+}

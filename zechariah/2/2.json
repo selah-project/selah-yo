@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Mo sì wí fún angẹli tí ó ń bá mi sọ̀rọ̀ pé: Kí ni àwọn wọ̀nyí? Ó sì wí fún mi pé: Àwọn wọ̀nyí ni àwọn ìbon tí ó sọ́ ⟨את⟩ Yehuda, ⟨את⟩ Yisrael àti Yerushalayim tà.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mo sì wí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "angẹli"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tí ó ń ... sọ̀rọ̀"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bá mi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kí ni"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọ̀nyí"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọ̀nyí"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "àwọn ìbon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "sọ́ ... tà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "àti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:18:39.317802562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ẹ sì máa fẹ́ràn ⟨את⟩ ẹlẹ́mìí-òkèèrè, nítorí tí ẹ̀yin ara yín jẹ́ àlejò ní ilẹ̀ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "Ẹ sì máa fẹ́ràn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹlẹ́mìí-òkèèrè"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ẹlẹ́mìí-òkèèrè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "àlejò"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ẹ̀yin ara yín jẹ́"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:26.082211928Z",
+  "model": "glm-5.3"
+}

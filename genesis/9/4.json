@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ṣùgbọ́n ẹran-ara, tí ẹ̀mí rẹ̀ wà nínú rẹ̀ — ẹjẹ rẹ̀ — ẹ kì í gbọdọ̀ jẹ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ṣùgbọ́n (àfi)"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ẹran-ara"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "tí ẹ̀mí rẹ̀ wà nínú rẹ̀"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ẹjẹ rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ẹ gbọdọ̀ jẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:46.530369355Z",
+  "model": "glm-5.3"
+}

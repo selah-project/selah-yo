@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 18:9",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Jethro sì dún lára fún gbogbo rere tí Yahweh ṣe fún Yisrael, èyí tí ó gba ⟨wọn⟩ là nínú ọwọ́ Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויחד",
+      "gloss": "sì dún lára"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jethro"
+    },
+    {
+      "surface": "על",
+      "gloss": "fún"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "rere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fún Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "gba…là"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nínú ọwọ́"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:50.824673087Z",
+  "model": "glm-5.3"
+}

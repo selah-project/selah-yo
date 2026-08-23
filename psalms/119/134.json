@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Gbà mí lọ́wọ́ ìfi ẹ̀gbẹ́ jẹ ti àwọn ènìyàn, kí èmi lè pa ìlànà rẹ ṣẹ́.",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "Gbà mí lọ́wọ́"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "ìfi ẹ̀gbẹ́ jẹ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti àwọn ènìyàn"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "kí èmi lè pa … ṣẹ́"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ìlànà rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:26.550956390Z",
+  "model": "glm-5.3"
+}

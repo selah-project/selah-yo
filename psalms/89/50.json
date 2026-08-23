@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Níbo ni àwọn chesed rẹ ti àtẹ̀yị̀nwá wà, Adonai, tí o ṣèrú-ré fún David ní ìgbẹ́míle rẹ?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Níbo ni"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "àwọn chesed rẹ"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ti àtẹ̀yị̀nwá"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "tí o ṣèrú-ré"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "ní ìgbẹ́míle rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:07.512384681Z",
+  "model": "glm-5.3"
+}

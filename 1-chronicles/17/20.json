@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Yahweh, kò sí bí ìwọ, kò sì sí Elohim yàtọ̀ sí ìwọ, nínú gbogbo tí a gbọ́ pẹ̀lú etí wa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "bí ìwọ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sì sí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "yàtọ̀ sí ìwọ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nínú gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "a gbọ́"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "pẹ̀lú etí wa"
+    }
+  ],
+  "timestamp": "2026-08-23T05:16:03.726409182Z",
+  "model": "glm-5.3"
+}

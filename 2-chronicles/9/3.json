@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àti pé ọba-obìnrin ti Sheba rí ⟨את⟩ ọgbọ́n Shelomoh, àti ⟨את⟩ ilé tí ó kọ́.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Àti pé … rí"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ọba-obìnrin"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ti Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbọ́n Shelomoh"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ọgbọ́n"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "àti ⟨את⟩ ilé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ó kọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T06:13:35.055781764Z",
+  "model": "glm-5.3"
+}

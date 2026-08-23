@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Omí wa, ní owó ni a mu ọ́; igi wa, ní owó-òwò ni ó ti ń wá bá wa.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "omí wa"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ní owó"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "ni a mu ọ́"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "igi wa"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "ní owó-òwò"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ni ó ti ń wá bá wa"
+    }
+  ],
+  "timestamp": "2026-08-23T04:39:39.880833848Z",
+  "model": "glm-5.3"
+}

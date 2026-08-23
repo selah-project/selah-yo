@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ṣùgbọ́n Yahweh ti gba yín ⟨את⟩, ó sì mú yín ⟨את⟩ jáde kúrò nínú ahọ̀n irin, kúrò ní Mitzrayim, láti jẹ́ ìran-èrí ohun-ìní fún-un, gẹ́gẹ́ bí ọjọ́ yìí.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "ṣùgbọ́n ⟨את⟩ yín",
+      "marks": "gba yín"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "ó sì mú jáde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "jáde"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "kúrò nínú ahọ̀n"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "irin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kúrò ní Mitzrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "láti jẹ́"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún-un"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ohun-ìní"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "gẹ́gẹ́ bí ọjọ́"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:09:26.359117085Z",
+  "model": "glm-5.3"
+}

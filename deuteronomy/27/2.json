@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 27:2",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ó sì jẹ́ pé ní ọjọ́ tí ẹ̀yin yóò kọjá ⟨את⟩ Yarden, lọ sí ilẹ̀ tí Yahweh Elohim yín ń fún yín, ẹ gbé igi òkúta tó tóbi dílẹ̀ fún yín ara yín, kí ẹ sì fi sídí pàn yín wẹ́.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ó sì jẹ́ pé"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "ẹ̀yin yóò kọjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lọ sí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ń fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "ẹ gbé... dílẹ̀"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún yín ara yín"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "igi òkúta"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "kí ẹ sì fi sídí pàn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "pàn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:17:59.771550759Z",
+  "model": "glm-5.3"
+}

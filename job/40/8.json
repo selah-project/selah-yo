@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 40:8",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ṣé ìwọ pẹ̀lú yóò sọ ìdájọ́ mi di asán? Ṣé ìwọ yóò kẹ́ ẹ̀mi ní ẹ̀ṣẹ̀ kí ìwò lè jẹ́ olóòótọ́?",
+  "tokens": [
+    {
+      "surface": "האף",
+      "gloss": "ṣé ìwọ pẹ̀lú yóò"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "sọ...di asán"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ìdájọ́ mi"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "kẹ́ ẹ̀mi ní ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí ìwò lè"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "jẹ́ olóòótọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:29:36.500803019Z",
+  "model": "glm-5.3"
+}

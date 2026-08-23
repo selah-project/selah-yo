@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Nítorí tí O sọ ú ní ìbùkún láéláé; O yò án nínú ayọ̀ pẹ̀lú ⟨את⟩ ojú rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí tí"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "O sọ ú ní"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ìbùkún"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "láéláé"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "O yò án"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "nínú ayọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú rẹ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:27.132746757Z",
+  "model": "glm-5.3"
+}

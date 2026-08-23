@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ó sì fi sún ⟨את⟩ ẹ̀yà-ìsun rẹ̀ àti ⟨את⟩ ẹbùn rẹ̀, ó sì wẹ́ ⟨את⟩ ẹ̀rùǹgbẹ́ rẹ̀, ó sì tú ⟨את⟩ ẹ̀jẹ̀ àwọn ẹbọ-àlàáfíà rẹ̀ lórí ààfin-ẹbọ náà.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "ó sì fi sún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀yà-ìsun rẹ̀"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ẹ̀yà-ìsun rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹbùn rẹ̀"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "ẹbùn rẹ̀"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "ó sì wẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀rùǹgbẹ́ rẹ̀"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "ẹ̀rùǹgbẹ́ rẹ̀"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ó sì tú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀jẹ̀"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ẹ̀jẹ̀"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "àwọn ẹbọ-àlàáfíà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ó ní"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ààfin-ẹbọ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:39.794337497Z",
+  "model": "glm-5.3"
+}

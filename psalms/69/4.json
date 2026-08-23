@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Mo ya àárọ́ pẹ̀lú ìkí mi; gólóò mi ti gbóná; ojú mi ti parun, nígbà tí mo ń retí fún Elohim mi.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Mo ya àárọ́"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "pẹ̀lú ìkí mi"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "ti gbóná"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "gólóò mi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ti parun"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "nígbà tí mo ń retí"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "fún Elohim mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:20.997019940Z",
+  "model": "glm-5.3"
+}

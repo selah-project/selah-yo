@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Wọn yóò sì wá síbẹ̀, wọn yóò sì yọ ⟨את⟩ gbogbo àwọn ìdóláfẹ̀ rẹ̀ kúrò àti ⟨את⟩ gbogbo àwọn ohun ìbínú rẹ̀ kúrò níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "wọn yóò sì wá"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "síbẹ̀"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "wọn yóò sì yọ kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ìdóláfẹ̀ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "àwọn ìdóláfẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sì",
+      "marks": "gbogbo àwọn ohun ìbínú rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "àwọn ohun ìbínú rẹ̀"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kúrò níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:38:44.461017042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 87,
+  "translation": "Àwọn nǹkan tí ó gbajúmọ̀ ni a ti sọ̀rọ̀ nípa rẹ̀, ìlú ti Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "àwọn nǹkan tí ó gbajúmọ̀"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "a ti sọ̀rọ̀"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nípa rẹ̀"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:46.983448764Z",
+  "model": "glm-5.3"
+}

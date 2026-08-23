@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Ṣùgbọ́n chesed mi èmi kì yóò yọ kúrò lọ́dọ̀ rẹ̀, bẹ́ẹ̀ ni èmi kì yóò parọ́ nínú òtítọ́ mi.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "ṣùgbọ́n chesed mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì yóò"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "yọ kúrò"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "lọ́dọ̀ rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bẹ́ẹ̀ ni èmi kì yóò"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "parọ́"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "nínú òtítọ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:15.235361847Z",
+  "model": "glm-5.3"
+}

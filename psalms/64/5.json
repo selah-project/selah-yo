@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 64,
+  "translation": "Láti yọ nínú àwọn ìkókò sí ènìyàn tí ó tọ́; lójúú ni wọ́n ti yọ ọ́, kì í ṣe ń bẹ̀ru.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "láti yọ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "nínú àwọn ìkókò"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ènìyàn tí ó tọ́"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "lójúú"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "wọ́n ti yọ ọ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "ń bẹ̀ru"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:08.624447232Z",
+  "model": "glm-5.3"
+}

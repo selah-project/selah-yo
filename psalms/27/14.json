@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ṣèretí Yahweh; ṣe gbígboná, kí ọkàn rẹ̀ sì le, àti pé ṣèretí Yahweh.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Ṣèretí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ṣe gbígboná"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "kí... sì le"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ọkàn rẹ"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "àti pé ṣèretí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:00.379088810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 64,
+  "translation": "Gbọ́ ohùn mi, Elohim, nínú ìwàásù mi; mọ́ ẹ̀mí mi mọ́nà nítorùkù ẹ̀rù ọ̀tá.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "nínú ìwàásù mi"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "nítorùkù ẹ̀rù"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ọ̀tá"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "mọ́ mọ́nà (ṣọ́)"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ẹ̀mí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:48.778089013Z",
+  "model": "glm-5.3"
+}

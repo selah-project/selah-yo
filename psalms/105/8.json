@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ó rántí májẹ̀mú rẹ̀ títí láéláé; ọ̀rọ̀ tí ó pa láti fún ẹ̀ẹ̀rún-ìran.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ó rántí"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láéláé"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "májẹ̀mú rẹ̀"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "tó pa láti fún"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ẹ̀ẹ̀rún-ìran"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ìran"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:00.176970059Z",
+  "model": "glm-5.3"
+}

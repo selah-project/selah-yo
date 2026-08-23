@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ó lu àwọn ìgbà wọn àti àwọn ìsù wọn, ó sì fọ́ àwọn igi agbègbè wọn.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ó lu"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "àwọn ìgbà wọn"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "àti àwọn ìsù wọn"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ó sì fọ́"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "àwọn igi"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "agbègbè wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:58.017026954Z",
+  "model": "glm-5.3"
+}

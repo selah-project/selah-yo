@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 81,
+  "translation": "Gbọ́, ènìyàn mi, èmi yóò sọ ẹ̀rí ṣe ìkìlọ̀ sí ọ̀; Yisraẹl, bí ó bá gbọ́ tèmi —",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ènìyàn mi"
+    },
+    {
+      "surface": "ו אעידה",
+      "gloss": "èmi yóò sọ ẹ̀rí ṣe ìkìlọ̀"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sí ọ̀"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹl"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí ó bá"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tèmi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:52.006152422Z",
+  "model": "glm-5.3"
+}

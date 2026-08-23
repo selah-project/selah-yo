@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Wọ́n sì dúró sílẹ̀ fún ọdún mẹ́ta, láì sí ogun láàárín Aram àti Israel.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Wọ́n sì dúró sílẹ̀"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "אין",
+      "gloss": "láì sí"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-23T05:52:33.291267164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 19:8",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Tí Yahweh, Elohim rẹ, bá sì fún ìpàlà rẹ ní ìfẹsẹ̀ múlẹ̀, gẹ́gẹ́ bí ó ti búra fún àwọn baba rẹ̀, ó sì fún ọ ni ⟨את⟩ gbogbo ilẹ̀ nígbà tí ó bá ti sọ fún àwọn baba rẹ̀ láti fún wọn ní i.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tí ó bá sì"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "fún ní ìfẹsẹ̀ múlẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìpàlà rẹ"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "ìpàlà rẹ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ti búra"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "fún àwọn baba rẹ̀"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ó sì fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ilẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "láti fún"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "àwọn baba rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:15:50.169628428Z",
+  "model": "glm-5.3"
+}

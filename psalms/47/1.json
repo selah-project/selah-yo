@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Fún olùṣàkóso orin, fún àwọn ọmọ Korach — orin ṣíṣe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fún olùṣàkóso orin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin ṣíṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:51.746851235Z",
+  "model": "glm-5.3"
+}

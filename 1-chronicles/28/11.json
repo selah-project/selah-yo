@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "David sì fún Shelomoh ọmọ rẹ̀ ní ⟨את⟩ àwòrán àgbálẹ́yìn náà, àti ⟨את⟩ àwọn yàrá rẹ̀, àwọn ibi-ìpamọ́ rẹ̀, àwọn yàrá-òkè rẹ̀, àti àwọn yàrá inú rẹ̀, àti yàrá ibi-ìpè-ìdánimọ̀ náà.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "sì fún … ní"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwòrán àgbálẹ́yìn náà"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "àwòrán"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "àgbálẹ́yìn náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn yàrá rẹ̀"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "àwọn yàrá rẹ̀"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "àwọn ibi-ìpamọ́ rẹ̀"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "àwọn yàrá-òkè rẹ̀"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "àti àwọn yàrá rẹ̀"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "inú"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "àti yàrá"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ibi-ìpè-ìdánimọ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:21:42.558910767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Mahalalel sì gbé ní ọdún márùn-ún àti ọgọ́ta, ó sì bí ⟨את⟩ Yered.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "sì gbé"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "márùn-ún"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "àti ọgọ́ta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yered"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:12.004802897Z",
+  "model": "glm-5.3"
+}

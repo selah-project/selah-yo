@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 1:20",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ìwọ olúwa mi ọba, ojú gbogbo Israẹl wà lórí rẹ ⟨láti⟩ sọ fún wọn ta ni yóò júṣe lórí ìtẹ́ olúwa mi ọba lẹ́yìn rẹ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ìwọ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "olúwa mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "lórí rẹ"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "láti sọ fún"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yóò júṣe"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ìtẹ́"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "olúwa mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "lẹ́yìn rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:09:40.613058180Z",
+  "model": "glm-5.3"
+}

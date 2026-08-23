@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ọba náà sì ránṣẹ́, wọ́n sì gbàwọn jọ pamọ́ sí ọ̀dọ̀ rẹ̀ — gbogbo àwọn àgbà ti Yehudah àti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ránṣẹ́ sì"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "wọ́n sì gbàwọn jọ pamọ́"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sí ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "àwọn àgbà ti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "àti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:53:41.719045876Z",
+  "model": "glm-5.3"
+}

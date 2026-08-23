@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Fi ⟨is⟩ ẹ̀ṣẹ̀ sí orí ẹ̀ṣẹ̀ wọn, kí wọn má ṣe wá sí inú ìdọ̀tún rẹ.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "fi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ẹ̀ṣẹ̀ wọn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí … má ṣe"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "wá"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sí inú ìdọ̀tún rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:35.264200728Z",
+  "model": "glm-5.3"
+}

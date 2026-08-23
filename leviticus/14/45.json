@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ó sì tú ⟨את⟩ ilé náà ká, ⟨את⟩ àwọn òkùta rẹ̀, àti ⟨את⟩ igi rẹ̀, àti ⟨את⟩ gbogbo erúfé ilé náà; ó sì gbé e jáde sí ìta ìlú náà, sí ibi aláìmọ́.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "ó sì tú ká"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé náà"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òkùta rẹ̀"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "àwọn òkùta rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "igi rẹ̀"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "igi rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo erúfé ilé náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "erúfé"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ó sì gbé e jáde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ìta"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "aláìmọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:40:29.416362857Z",
+  "model": "glm-5.3"
+}

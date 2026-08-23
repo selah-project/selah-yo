@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Nínú ọ̀nà ẹ̀rí Rẹ ni mo yọ̀ ayọ̀, gẹ́gẹ́ bíi ⟨gbogbo⟩ ọrọ̀.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "nínú ọ̀nà"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ẹ̀rí Rẹ"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "mo yọ̀ ayọ̀"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "gẹ́gẹ́ bíi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ọrọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:42.129264218Z",
+  "model": "glm-5.3"
+}

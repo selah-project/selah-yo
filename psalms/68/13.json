@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Àwọn ọba àwọn ogun ń sá lọ, wọ́n ń sá lọ; ẹnití ó ń gbé inú ilé sì ń pín gbogbo èròjà.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "àwọn ogun"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ń sá lọ"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "wọ́n ń sá lọ"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "àti ẹnití ó ń gbé"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inú ilé"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "ń pín"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "gbogbo èròjà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:11.938276816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 128,
+  "translation": "Orin ti ìgìlẹ̀. Ṣùgbọ́n ẹni tí ó bá ní ìdájú — ìdàrèṣí fún gbogbo ẹni tí ó ń bẹ̀rù Yahweh, ẹni tí ó ń rìn lọ nínú àwọn ọ̀nà rẹ̀.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ti ìgìlẹ̀"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ìdàrèṣí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ẹni tí ó ń bẹ̀rù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ẹni tí ó ń rìn lọ"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "nínú àwọn ọ̀nà rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:41.775564439Z",
+  "model": "glm-5.3"
+}

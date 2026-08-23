@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Má ṣe kẹ̀dùnfú sí àwọn ènìyàn búburú, kò dáa ṣe ìfẹ́ láti wà pẹ̀lú ⟨את⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "kẹ̀dùnfú"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "sí àwọn ènìyàn"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kò dáa ṣe"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ìfẹ́"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "láti wà"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn ènìyàn búburú)"
+    }
+  ],
+  "timestamp": "2026-08-23T04:11:51.475379788Z",
+  "model": "glm-5.3"
+}

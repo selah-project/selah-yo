@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 138,
+  "translation": "Wọ́n sì máa kọ orin nípa àwọn ọ̀nà Yahweh, nítorí pé ó líọ́lọ̀ púpọ̀ ògo Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "wọ́n sì máa kọ orin"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "nípa àwọn ọ̀nà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ó líọ́lọ̀ púpọ̀"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ògo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:57.887396162Z",
+  "model": "glm-5.3"
+}

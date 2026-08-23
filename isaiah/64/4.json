@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 64,
+  "translation": "O pàdé ⟨את⟩ ẹni ayọ̀ tí ó ṣe òtítọ́, nínú àwọn ọ̀nà rẹ ni wọ́n ti rántí rẹ; kiyesi, ìwọ bínú sílẹ̀, àti àwa ṣẹ̀ — nínú wọn ni a ti ṣe ìgbà pípẹ́, kí a lè wà ní ìgbàlà.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "o pàdé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹni ayọ̀ tí ó ṣe òtítọ́"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ẹni ayọ̀"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "tí ó ṣe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "òtítọ́"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "nínú àwọn ọ̀nà rẹ"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "wọ́n rántí rẹ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "kiyesi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "o bínú sílẹ̀"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "àti àwa ṣẹ̀"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nínú wọn"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ìgbà pípẹ́"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "kí a lè wà ní ìgbàlà"
+    }
+  ],
+  "timestamp": "2026-08-23T02:02:48.356328688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Yahweh sì fi ⟨את⟩ Jerubbaal, ⟨את⟩ Bedan, ⟨את⟩ Yiftach àti ⟨את⟩ Shemuël ránṣẹ́, ó sì gbà ⟨את⟩ yín là kúrò lọ́wọ́ ọ̀tá yín, tí ó wà ní ìkàárùn yín, ẹ sì gbé láìrẹ̀wùsì.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì fi ránṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yiftach"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Shemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ó sì gbà là"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kúrò lọ́wọ́"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ọ̀tá yín"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ní ìkàárùn yín"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "ẹ sì gbé"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "láìrẹ̀wùsì"
+    }
+  ],
+  "timestamp": "2026-08-23T05:49:23.244442924Z",
+  "model": "glm-5.3"
+}

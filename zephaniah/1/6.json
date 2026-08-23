@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àti ⟨את⟩ àwọn tí ń yẹ́sẹ́yìn lẹ́yìn Yahweh, àti àwọn tí kò wá ⟨את⟩ Yahweh, àti tí kò béèrè ìwádìí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Àti ⟨את⟩",
+      "marks": "àwọn tí ń yẹ́sẹ́yìn"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "àwọn tí ń yẹ́sẹ́yìn"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "àti àwọn tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti tí kò"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "béèrè ìwádìí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:15:55.855678755Z",
+  "model": "glm-5.3"
+}

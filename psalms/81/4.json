@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 81,
+  "translation": "Ẹ fún ṣofar ní oṣù tuntun, ní ọjọ́ ìpàdé ọdún ẹ̀yin.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Ẹ fún"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ní oṣù tuntun"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ṣofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "ní ọjọ́ ìpàdé"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "ọdún ẹ̀yin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:11.805042593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Kí ẹnu mí kí ó kún fún ìyìn rẹ, pẹ̀lú ọlá rẹ ní gbogbo ọjọ́.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "kí ó kún"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mí"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ìyìn rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "ọlá rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:07.631636122Z",
+  "model": "glm-5.3"
+}

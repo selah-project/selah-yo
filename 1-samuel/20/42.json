@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 20:42",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Yehonatan sì wí fún Dawid pé: Lọ ní àlàáfíà; nítorí pé àwa méjèèjì — àwa ti búra ní orúkọ Yahweh, pé: Yahweh máa wà láàárín èmi àti láàárín ìwọ, àti láàárín ìràn-mí àti láàárín ìràn-rẹ, títí láéláé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún Dawid"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lọ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ní àlàáfíà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "ti búra"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "àwa méjèèjì"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "àwa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ní orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "máa wà"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "láàárín èmi"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "àti láàárín ìwọ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàárín"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "ìràn-mí"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàárín"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ìràn-rẹ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T00:52:41.015304551Z",
+  "model": "glm-5.3"
+}

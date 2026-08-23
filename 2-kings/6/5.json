@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ó sì wáyé, ọ̀kan ń ka ⟨את⟩ igi, irìn sì ṣubú sí omi; ó sì kígbe, ó sì wí pé: Ahá, olúwa mi! Òun sì jẹ́ ìbéèrè.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "ń ka"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "igi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "irìn"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "irìn"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ṣubú"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "המים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "ó sì kígbe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ahá"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "olúwa mi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "òun sì"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "jẹ́ ìbéèrè"
+    }
+  ],
+  "timestamp": "2026-08-23T01:27:01.393624598Z",
+  "model": "glm-5.3"
+}

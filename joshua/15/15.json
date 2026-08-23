@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ó sì gbé láti ibẹ̀ lọ sí ẹnu àwọn olùgbé Devir — orúkọ Devir sì ní ìṣaálẹ̀ ni Kiryat-Sefar.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Ó sì gbé láti ibẹ̀ lọ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "láti ibẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn olùgbé"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "orúkọ … sì"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ní ìṣaálẹ̀"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefar"
+    }
+  ],
+  "timestamp": "2026-08-23T00:28:32.735636190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 26:21",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Àwọn ọmọ Peretz ni: Haṣeron, míràn-ẹbí Haṣeroni; Hamul, míràn-ẹbí Hamuli.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ni ⟨wọn⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretz"
+    },
+    {
+      "surface": "לחצרן",
+      "gloss": "Haṣeron"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "míràn-ẹbí"
+    },
+    {
+      "surface": "החצרני",
+      "gloss": "Haṣeroni"
+    },
+    {
+      "surface": "לחמול",
+      "gloss": "Hamul"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "míràn-ẹbí"
+    },
+    {
+      "surface": "החמולי",
+      "gloss": "Hamuli"
+    }
+  ],
+  "timestamp": "2026-08-22T23:59:46.981653001Z",
+  "model": "glm-5.3"
+}

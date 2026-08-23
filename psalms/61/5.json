@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 61,
+  "translation": "Èmi yóó ṣẹ́dù ní àgọ́ Rẹ fún ìgbà tí ó pé láéláé; èmi yóó sàbọ́kọ́ ní ìpamọ́ ìyẹ́ Rẹ. Selah.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "èmi yóó ṣẹ́dù"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ní àgọ́ Rẹ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "fún ìgbà tí ó pé láéláé"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "èmi yóó sàbọ́kọ́"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ní ìpamọ́"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ìyẹ́ Rẹ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:18.697737642Z",
+  "model": "glm-5.3"
+}

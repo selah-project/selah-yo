@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ẹ̀yìn tí ó bá ṣẹ́kù nínú ẹran àti nínú búrẹ́dì, ẹ sì jọ́ọ́ iná nípa kíkún.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ẹ̀yìn tí ó bá ṣẹ́kù"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "nínú ẹran"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "àti nínú búrẹ́dì"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nípa iná"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "ẹ sì jọ́ iná"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:48.626315781Z",
+  "model": "glm-5.3"
+}

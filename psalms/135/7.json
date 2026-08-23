@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Òun ni ó ń fi kóròkórò yọ láti ìparí ayé, ó ń ṣe ìmọ́lẹ̀ fún òjò, ó ń mú afẹ́fẹ́ jáde láti inú àwọn ipamọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "ń fi... yọ"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "kóròkórò (kúkú tí ó ń gòkè)"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "láti ìparí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "ìmọ́lẹ̀ mọ̀namọ́na"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "fún òjò"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ń ṣe"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ń mú... jáde"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "afẹ́fẹ́"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "láti inú àwọn ipamọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:09.181496313Z",
+  "model": "glm-5.3"
+}

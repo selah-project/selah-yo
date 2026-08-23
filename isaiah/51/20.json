@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Àwọn ọmọ rẹ ti fọ́nwọ́, wọ́n dókun orí gbogbo ọ̀nà ìtàkéta, gẹ́gẹ́ bíi ẹfọ̀n nínú àwọ̀n; wọ́n kún fún ìbínú Yahweh, ìlọ́gọ̀n Elohim rẹ.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "ti fọ́nwọ́"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "wọ́n dókun"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ọ̀nà ìtàkéta"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "gẹ́gẹ́ bíi ẹfọ̀n"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "nínú àwọ̀n"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "wọ́n kún fún"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ìbínú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "ìlọ́gọ̀n"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:01:00.782442281Z",
+  "model": "glm-5.3"
+}

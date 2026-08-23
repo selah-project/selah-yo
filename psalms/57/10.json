@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 57,
+  "translation": "Ní àwọn ènìyàn ni mo ti ń yìn ín fún ọ́, Adonai; ní àwọn orílẹ̀-èdè ni mo ti ń kọ orin fún ọ́.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "mo ń yìn ín fún ọ́"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ní àwọn ènìyàn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "mo ń kọ orin fún ọ́"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ní àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "̀lílẹ̀-èdè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:29.521427209Z",
+  "model": "glm-5.3"
+}

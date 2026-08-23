@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "⟨את⟩ Cheshbon àti ⟨את⟩ ilẹ̀-oko rẹ̀, ⟨את⟩ Yaazer àti ⟨את⟩ ilẹ̀-oko rẹ̀; gbogbo àwọn ìlú mẹ́rin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilẹ̀-oko rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ilẹ̀-oko rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilẹ̀-oko rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ilẹ̀-oko rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mẹ́rin"
+    }
+  ],
+  "timestamp": "2026-08-23T00:30:06.757772334Z",
+  "model": "glm-5.3"
+}

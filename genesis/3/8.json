@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Wọ́n sì gbọ́ ⟨את⟩ ohùn Yahweh Elohim, tí ó ń rìn káàkiri ní àgbàlá náà ní ìrọ̀lẹ́ ọjọ́; Adámù àti aya rẹ̀ sì farapamọ́ kúrò lọ́dọ̀ Yahweh Elohim ní àárín igi àgbàlá náà.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "wọ́n sì gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohùn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "tí ó ń rìn káàkiri"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "ní àgbàlá náà"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ní ìrọ̀lẹ́ (ẹfúfú)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "sì farapamọ́"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adámù (ènìyàn náà)"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "àti aya rẹ̀"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kúrò lọ́dọ̀ (oju)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ní àárín"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "àgbàlá náà"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:09.554541869Z",
+  "model": "glm-5.3"
+}

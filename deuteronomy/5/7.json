@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Kì í ṣe pé àwọn Elohim míràn yóò wà fún ọ ní ojú Mi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kì í ṣe pé"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "àwọn Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "míràn"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú Mi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:08:03.007489235Z",
+  "model": "glm-5.3"
+}

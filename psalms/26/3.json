@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Nítorí pé chesed rẹ wà níwájú ojú mi, èmi sì ń rìn káàkiri nínú òtítọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí pé"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed rẹ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "èmi sì ń rìn káàkiri"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "nínú òtítọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:43.065970152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 127,
+  "translation": "Orin ti àwọn ìgòkè, fún Shelomo: bí Yahweh kò bá kọ́ ilé, ní àìṣe ni àwọn olùkọ́ ẹ́ rẹ̀ ṣiṣẹ́ níbẹ̀; bí Yahweh kò bá ṣọ́ ìlú, ní àìṣe ni olùṣọ́ sùn ìjẹ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ti àwọn ìgòkè"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "fún Shelomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "bá kọ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ní àìṣe"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ṣiṣẹ́"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "àwọn olùkọ́ ẹ́ rẹ̀"
+    },
+    {
+      "surface": "בו",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ṣọ́"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ní àìṣe"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "sùn ìjẹ"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "olùṣọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:50.313264372Z",
+  "model": "glm-5.3"
+}

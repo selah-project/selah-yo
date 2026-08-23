@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Àlùfáà yóò sì fọ́wọ́ yọ ⟨את⟩ wọn lórí búrẹ́dì èso àkọ́kọ́ gẹ́gẹ́ bí ìfọ́wọ́yọ́ níwájú Yahweh, lórí àwọn agutan méjì; wọn yóò jẹ́ mímọ́ fún Yahweh, fún àlùfáà náà.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "yóò sì fọ́wọ́ yọ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn agutan méjì)"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "búrẹ́dì"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "èso àkọ́kọ́"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "gẹ́gẹ́ bí ìfọ́wọ́yọ́"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "שני",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "àwọn agutan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "wọn yóò jẹ́"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "fún àlùfáà náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:41.558322703Z",
+  "model": "glm-5.3"
+}

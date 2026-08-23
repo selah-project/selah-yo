@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Àti ⟨את⟩ ìbojú àwọn awọ́ àgbò tí a ṣe pọ́n, àti ⟨את⟩ ìbojú àwọn awọ́ techashim, àti ⟨את⟩ pàrókè (àwọ̀nà) ibi ìbojú.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìbojú àwọn awọ́ àgbò tí a ṣe pọ́n"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ìbojú"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "àwọn awọ́"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "àgbò"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "tí a ṣe pọ́n"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìbojú àwọn awọ́ techashim"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ìbojú"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "àwọn awọ́"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "techashim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "pàrókè (àwọ̀nà)"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "pàrókè (àwọ̀nà)"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ibi ìbojú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:23.612650479Z",
+  "model": "glm-5.3"
+}

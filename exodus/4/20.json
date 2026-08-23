@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Nígbà náà ni Moshe mú ⟨את⟩ aya rẹ̀ àti ⟨את⟩ àwọn ọmọ rẹ̀, ó sì gbé wọn lé lórí kẹ́tẹ́kẹ́tẹ́, ó sì padà sí ilẹ̀ Mitzrayim; Moshe sì mú ⟨את⟩ ọ̀pá Elohim nínú ọwọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Nígbà náà ni Moshe mú"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aya rẹ̀"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "aya rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "ó sì gbé wọn lé lórí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "kẹ́tẹ́kẹ́tẹ́"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó sì padà"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sí ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "Moshe sì mú"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀pá Elohim"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ọ̀pá"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nínú ọwọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:49.827353866Z",
+  "model": "glm-5.3"
+}

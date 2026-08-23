@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Yahweh sì gbé olùjàì kan dé sílẹ̀ fún Shelomo — ⟨את⟩ Hadad ara-Edomu, ọmọ ìran ọba ní Edomu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sì gbé…dédé sílẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "olùjàì"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "fún Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad ara-Edomu"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ara-Edomu"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "ọmọ ìran"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ní Edomu"
+    }
+  ],
+  "timestamp": "2026-08-23T01:17:58.246533031Z",
+  "model": "glm-5.3"
+}

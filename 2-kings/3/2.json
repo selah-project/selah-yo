@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó ṣe ibi tó burú ní ojú Yahweh; ṣùgbọ́n kì í ṣe bí baba rẹ̀ àti bí ìyá rẹ̀; ó sì yọ ⟨את⟩ ògúngbà Baal tí baba rẹ̀ ṣe kúrò.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ibi tó burú"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ṣùgbọ́n kì í ṣe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "bí baba rẹ̀"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "àti bí ìyá rẹ̀"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ó sì yọ kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨⟨את⟩⟩",
+      "marks": "ògúngbà Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ògúngbà (àmì ìṣẹ́ òrìṣà)"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:26:41.259426725Z",
+  "model": "glm-5.3"
+}

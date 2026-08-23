@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Wọ́n sì mú ⟨את⟩ ọba náà, wọ́n sì gbé ⟨את⟩ un lọ sí ọ̀dọ̀ ọba Bavel ní Rivlah; wọ́n sì sọ ìdájọ́ pẹ̀lú ⟨את⟩ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "sì mú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọba náà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "sì gbé lọ sókè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "un"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "ní Rivlah"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "sì sọ ọ̀rọ̀ ìdájọ́"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pẹ̀lú ⟨את⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:53:54.547380326Z",
+  "model": "glm-5.3"
+}

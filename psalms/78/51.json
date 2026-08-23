@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó sì lu gbogbo akọ́bí ní Mitzrayim, àkọ́kọ́ agbára wọn ní àgọ́ Cham.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ó sì lu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "akọ́bí"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ní Mitzrayim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "àkọ́kọ́"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "agbára wọn"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "ní àgọ́"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:37.620236523Z",
+  "model": "glm-5.3"
+}

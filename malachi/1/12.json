@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àti ẹ̀yin ń sọ orúkọ mi di àìmọ́ ⟨את⟩ nípa tí ẹ̀yin ń wí pé, 'Pẹpẹ Adonai, àìmọ́ ni; àti èso rẹ̀, ounjẹ rẹ̀ jẹ́ ti ìkẹ́gàn.'",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "àti ẹ̀yin"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "ń sọ di àìmọ́"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "iti (orúkọ mi)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "nípa tí ẹ̀yin ń wí"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "àìmọ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "àti èso rẹ̀"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "ti ìkẹ́gàn"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ounjẹ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:21:21.904471370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Àwọn olóyè rẹ̀ — kò sí ẹnìkéyìní níbẹ̀ tí wọn gbè e pọ̀ sí oyè ìwádìí; gbogbo àwọn àárẹ̀ rẹ̀ yóò di aláìnígba.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "àwọn olóyè rẹ̀"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sí ẹnìkéyìní"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "oyè ìwádìí"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "tí wọn gbè e pọ̀ sí"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "àwọn àárẹ̀ rẹ̀"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yóò di"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "aláìnígba"
+    }
+  ],
+  "timestamp": "2026-08-23T01:52:43.814255838Z",
+  "model": "glm-5.3"
+}

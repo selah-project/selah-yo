@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ìbọ̀-ẹsẹ idẹ sì lórí ẹsẹ rẹ̀, àti ìdá idẹ láàárín èjìká rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "ìbọ̀-ẹsẹ sì lórí"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "idẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ẹsẹ rẹ̀"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "ìdá"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "idẹ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "èjìká rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:49:21.395911613Z",
+  "model": "glm-5.3"
+}

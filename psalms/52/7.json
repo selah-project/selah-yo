@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 52,
+  "translation": "Bákan náà ni El yóò tú ọ́ ká láé láé; yóò mú ọ́, yóò sì fa ọ́ kúrò nínú àgọ́ rẹ, yóò sì fi gbòngbò rẹ wá kúrò láti ilẹ̀ àwọn ìyè. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bákan náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "yóò tú ọ́ ká"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "láé láé"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "yóò mú ọ́"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "yóò sì fa ọ́ kúrò"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "nínú àgọ́"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "gbòngbò rẹ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "láti ilẹ̀"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "àwọn ìyè"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:10.829750256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Nítorí ẹnu ènìyàn búburú àti ẹnu ètan ni wọ́n ṣí sí mi lódì; wọ́n sì sọ̀rọ̀ sọ ⟨את⟩ mi pẹ̀lú ahọn irọ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ènìyàn búburú"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "àti ẹnu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ètan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sí mi lódì"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "wọ́n ṣí"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "wọ́n sọ̀rọ̀"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mi",
+      "marks": "mi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "pẹ̀lú ahọn"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "irọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:43.084828899Z",
+  "model": "glm-5.3"
+}

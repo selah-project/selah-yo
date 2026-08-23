@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "N kò lè, èmi nìkan, gbé ⟨את⟩ gbogbo ènìyàn yìí, nítorí pé ó lé ju mi lọ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "nìkan"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ènìyàn yìí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ó lé"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ju mi lọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:55:45.058744724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 1:2",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Èyítí ọ̀rọ̀ Yahweh dé báà ní àwọn ọjọ́ Yoshiyahu ọmọ Amon, ọba Yehudah, ní ọdún kẹtàlá dé ìṣàkóso rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Èyítí"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dé báà ⟨ní⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "báà"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ní àwọn ọjọ́"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "ní <kẹtàlá>"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "<kẹtàlá dé>"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "ìṣàkóso rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:05:53.687052536Z",
+  "model": "glm-5.3"
+}

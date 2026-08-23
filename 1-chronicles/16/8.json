@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 16:8",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ẹ dúpẹ́ lọ́wọ́ Yahweh, ẹ pe orúkọ rẹ̀, ẹ ṣe àwọn iṣẹ́ rẹ̀ mọ̀ láwọn orílẹ̀dè.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Ẹ dúpẹ́"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lọ́wọ́ Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ẹ pe"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "Ẹ ṣe ... mọ̀"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "láwọn orílẹ̀dè"
+    },
+    {
+      "surface": "עלילתיו",
+      "gloss": "àwọn iṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:14:58.174327349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Sarí olórí àwọn olùmú kòì ránti ⟨את⟩ Yosef, ó sì gbagbé e.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kòì"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ránti"
+    },
+    {
+      "surface": "שר",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "àwọn olùmú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "ó sì gbagbé e"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:42.055690675Z",
+  "model": "glm-5.3"
+}

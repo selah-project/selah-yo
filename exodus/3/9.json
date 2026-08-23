@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "̀Ní ìsinsìnyí, wò ó, ìkígbé àwọn ọmọ Yisrael ti dé ọ̀dọ̀ mi, àti pé mo ti rí i ⟨את⟩ ìpàníyàn tí àwọn Mitsrayim ń pa wọ́n lé lórí.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ní ìsinsìnyí"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ìkígbé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ti dé"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti pé"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mo ti rí i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìpàníyàn"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "ìpàníyàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "àwọn Mitsrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "ń pa wọ́n lé lórí"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọ́n"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:51.827897779Z",
+  "model": "glm-5.3"
+}

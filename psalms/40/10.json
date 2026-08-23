@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Mo sọ ìdájọ́ òtítọ́ jáde nínú ìjọ pọ̀; kíyèsi, èté mi ni kí nínà, Yahweh, ìwọ mọ ọ́.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "mo sọ … jáde"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ìdájọ́ òtítọ́"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nínu ìjọ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pọ̀"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kíyèsi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "èté mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kí"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "nínà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mọ ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:39.209649733Z",
+  "model": "glm-5.3"
+}

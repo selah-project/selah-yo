@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ó yió sì ṣẹlẹ̀ ní ọjọ́ tí Yahweh fi ọ̀sìnmí fún ọ, láti ìrora rẹ àti láti ìbàjẹ́ rẹ, àti láti iṣẹ́ ẹrú tí ó le tí a ṣe ọ lọ́wọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ó yió sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́ tí"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "fi ọ̀sìnmí fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "láti ìrora rẹ"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "àti láti ìbàjẹ́ rẹ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "àti láti"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "iṣẹ́ ẹrú"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "tí ó le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "a ṣe ọ lọ́wọ́"
+    },
+    {
+      "surface": "בך",
+      "gloss": "rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:45:10.032690421Z",
+  "model": "glm-5.3"
+}

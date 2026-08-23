@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 27:4",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ó sì kọ́ àwọn ìlú ní òkè Yehuda, ó sì kọ́ àwọn ilé-dìde àti àwọn ọ̀tẹ̀ ní àwọn igbó.",
+  "tokens": [
+    {
+      "surface": "וערים",
+      "gloss": "Ó sì kọ́ àwọn ìlú"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kọ́"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ní òkè"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובחרשים",
+      "gloss": "ó sì… ní àwọn igbó"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kọ́"
+    },
+    {
+      "surface": "בירניות",
+      "gloss": "àwọn ilé-dìde"
+    },
+    {
+      "surface": "ומגדלים",
+      "gloss": "àti àwọn ọ̀tẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:32:19.030536646Z",
+  "model": "glm-5.3"
+}

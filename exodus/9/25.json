@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ólu yìí sì lu gbogbo ilẹ̀ Mitzrayim: ⟨את⟩ gbogbo tí ó wà ní pápá, láti ènìyàn dé ẹranko; àti ⟨את⟩ gbogbo koriko pápá ni òòyì lu, ó sì fà á nù; ⟨את⟩ gbogbo igi pápá sì ni ó gbé wó.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "lu"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "òòyì"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo tí ó wà ní pápá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ní pápá"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "láti ènìyàn"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo koriko pápá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "koriko"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pápá"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "lu"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "òòyì"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo igi pápá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pápá"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ó gbé wó"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:13.166889047Z",
+  "model": "glm-5.3"
+}

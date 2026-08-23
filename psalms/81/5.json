@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 81,
+  "translation": "Nítorí ní ó jẹ́ ìlànà fún Yisrael, ìdájọ́ fún Elohim Yaakov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí ní"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ìlànà"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fún Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó jẹ́"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "fún Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:25.185722492Z",
+  "model": "glm-5.3"
+}

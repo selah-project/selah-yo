@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 84,
+  "translation": "Nitori òòrùn àti aboṣẹ ni Yahweh Elohim; oore-òfè àti ọlá ni Yahweh ń fún; kò ní dá ohun rere dúró fún àwọn tí ń rìn ní ìmọ́lẹ̀-òdodo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nitori"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "òòrùn"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "ati aboṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "oore-òfè"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ati ọlá"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ń fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "ní dá… dúró"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ohun rere"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "fún awon tí ń rìn"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "ní ìmọ́lẹ̀-òdodo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:18.614282180Z",
+  "model": "glm-5.3"
+}

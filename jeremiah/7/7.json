@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "nì í ni èmi yóó gbé yín sí ibi yìí gbé, ní ilẹ̀ tí mo fún àwọn baba yín, láti ìgbà tí ó ti pẹ́ títí dé ìgbà tí kò ní ṣíwájú.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "nì í ni èmi yóó gbé yín sí ibi gbé"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ní ibi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mo fún"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "àwọn baba yín"
+    },
+    {
+      "surface": "لמן",
+      "gloss": "láti ìgbà tí ó ti pẹ́"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "àti títí dé"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ìgbà tí kò ní ṣíwájú"
+    }
+  ],
+  "timestamp": "2026-08-23T02:09:05.976529665Z",
+  "model": "glm-5.3"
+}

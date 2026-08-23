@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Nítorí pé ǹǹwọ̀n yóò jẹ wọn wí bí aṣọ, àti díndin yóò jẹ wọn wí bí wúrà-dídì; ìmọ́tótọ́ mi sì yóò wà láéláío, ìgbàlà mi sì fún ìrọ̀run-dòtí-dòtí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí pé"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "bí aṣọ"
+    },
+    {
+      "surface": "י אכלם",
+      "gloss": "yóò jẹ wọn wí"
+    },
+    {
+      "surface": "עש",
+      "gloss": "ǹǹwọ̀n"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "bí wúrà-dídì"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "yóò jẹ wọn wí"
+    },
+    {
+      "surface": "סס",
+      "gloss": "díndin"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ìmọ́tótọ́ mi sì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "láéláío"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ìgbàlà mi sì"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "fún ìrọ̀run"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "-dòtí-dòtí"
+    }
+  ],
+  "timestamp": "2026-08-23T02:00:19.562431318Z",
+  "model": "glm-5.3"
+}

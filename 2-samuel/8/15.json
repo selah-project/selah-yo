@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Dávid sì jọba lórí gbogbo Israẹl; Dávid sì ń ṣe ìdájọ́ àti ìdọ̀tún fún gbogbo èrò rẹ̀",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "sì jọba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sì ń ṣe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "àti ìdọ̀tún"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "èrò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:58:58.492989060Z",
+  "model": "glm-5.3"
+}

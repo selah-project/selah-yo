@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 108,
+  "translation": "Ta ló máa gbé mi wá sí ìlú olódi mímu? Ta ló máa ṣàmúlẹ̀ mi dé Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ló máa gbé mi wá"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "olódi mímu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ló máa ṣàmúlẹ̀ mi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:37.001137997Z",
+  "model": "glm-5.3"
+}

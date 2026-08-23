@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ẹ kọ orin fún Un, ẹ kọ ilẹ̀kùn oriṣiriṣi fún Un, ẹ sọ̀rọ̀ nípa gbogbo iyanu Re.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Ẹ kọ orin fún"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Un"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ẹ kọ ilẹ̀kùn oriṣiriṣi fún"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Un"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ẹ sọ̀rọ̀ nípa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "iyanu Re"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:25.333774766Z",
+  "model": "glm-5.3"
+}

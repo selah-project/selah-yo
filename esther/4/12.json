@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Wọ́n sì sọ ⟨את⟩ ọ̀rọ̀ Ester fún Mordekai.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Wọ́n sì sọ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "fún Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ Ester"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-23T04:43:55.097151332Z",
+  "model": "glm-5.3"
+}

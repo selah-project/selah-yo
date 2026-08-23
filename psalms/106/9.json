@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Ó gbé eérún lé Yunifẹ̀ lórí, ó sì gbẹ; ó sì darí wọn láàrin àwọn ijù ṣáájú bí ilẹ̀ iwọ̀.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "Ó gbé eérún lé lórí"
+    },
+    {
+      "surface": "בים",
+      "gloss": "Yunifẹ̀"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "koriko igbá"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "ó sì gbẹ"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "ó sì darí wọn"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "láàrin àwọn ijù ṣáájú"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "bí ilẹ̀ iwọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:09.656620659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ìwọ ń kọjá lónìí ⟨את⟩ ààlà Moab, ⟨את⟩ Ar.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ìwọ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ń kọjá"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ààlà"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ààlà"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:16.078846077Z",
+  "model": "glm-5.3"
+}

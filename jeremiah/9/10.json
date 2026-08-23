@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Èmi ó sì fi Yerushalayim di àpáta-ìdí, ibùgbé àwọn ikúnmọ̀nu; èmi ó sì fi àwọn ìlú Yehudah di aíwọ̀gbà, láìsí olùgbé.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Èmi ó sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "di àpáta-ìdí"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ibùgbé"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "àwọn ikúnmọ̀nu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìlú Yehudah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "èmi ó sì fi"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "di aíwọ̀gbà"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "láìsí"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "olùgbé"
+    }
+  ],
+  "timestamp": "2026-08-23T02:10:23.422098372Z",
+  "model": "glm-5.3"
+}

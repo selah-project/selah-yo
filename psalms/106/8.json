@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Ṣùgbọ́n ó gbà wọn là nítorí orúkọ Rẹ, láti fihàn ⟨את⟩ agbára Rẹ.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "ó gbà wọn là"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ Rẹ"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "láti fihàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agbára Rẹ"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "agbára Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:45.074956220Z",
+  "model": "glm-5.3"
+}

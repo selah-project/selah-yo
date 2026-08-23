@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ó sì gbé ⟨את⟩ kíàààmú sí àárín Ahẹ́ Ìpàdé àti pátáko naa, ó sì fi omi sí ibẹ̀ fún ìwẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ó sì gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kíàààmú"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kíàààmú"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sí àárín"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ahẹ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Ìpàdé"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pátáko naa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sí ibẹ̀"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "fún ìwẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:13.321219873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Tí kìírún bá kún, wọ́n áò rọ̀ ọjọ́ sí orí ilẹ̀ ayé; àti tí igi bá ṣubú sí gúúsù, àti tí ó bá ṣubú sí àríwá — ibi tí igi náà bá ṣubú sí, ibẹ̀ ni yóò wà.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí...bá"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "kìírún bá kún"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "kìírún"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "wọ́n áò rọ̀"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "àti tí...bá"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ṣubú"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "sí gúúsù"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "àti tí"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "sí àríwá"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "tí...bá ṣubú sí"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igi náà"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "yóò wà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:50.609818298Z",
+  "model": "glm-5.3"
+}

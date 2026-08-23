@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "David sì gbọ́, ó sì fi ⟨את⟩ Yoab àti ⟨את⟩ gbogbo ọmọ-ogun àwọn jagunjagba ránṣẹ́.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ó sì gbọ́"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì fi…ránṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọmọ-ogun àwọn jagunjagba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ọmọ-ogun"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "àwọn jagunjagba"
+    }
+  ],
+  "timestamp": "2026-08-23T05:17:36.792438023Z",
+  "model": "glm-5.3"
+}

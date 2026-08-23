@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Sì ni ìwọ yóò ṣàkóso ⟨את⟩ Aharon àti ⟨את⟩ àwọn ọmọ rẹ̀, wọ́n sì yóò ṣọ́ ⟨את⟩ ìjọsìn wọn; ẹnikẹ́ni alàjèjì tí ó sún mọ́lé yóò kú.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sì ni… ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ìwọ yóò ṣàkóso"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "wọ́n yóò sì ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọsìn wọn"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "ìjọsìn wọn"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ẹnikẹ́ni alàjèjì"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "tí ó sún mọ́lé"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "yóò kú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:37.079623804Z",
+  "model": "glm-5.3"
+}

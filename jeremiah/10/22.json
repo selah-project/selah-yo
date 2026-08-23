@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 10:22",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ohùn ìjábọ̀, ki ní wá, àti ìpalára ńlá láti ilẹ̀ àríwá, láti jẹ́ kí àwọn ìlú Yehudah di ìsofo, ibugbé àwọn ajá-igbó.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ìjábọ̀"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ki ní"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ń wá"
+    },
+    {
+      "surface": "ורעש",
+      "gloss": "àti ìpalára"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "láti ilẹ̀"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "àríwá"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "láti jẹ́ kí … di"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìlú Yehudah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ìsofo"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ibugbé"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "àwọn ajá-igbó"
+    }
+  ],
+  "timestamp": "2026-08-23T02:10:17.560722763Z",
+  "model": "glm-5.3"
+}

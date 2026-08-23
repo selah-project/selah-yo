@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Kí o sì pè mí ní ọjọ́ ìṣòro; èmi yóò gbà Ọ́ là, ìwọ yóò sì bọ̀ mí.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "kí o sì pè mí"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ìṣòro"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "èmi yóò gbà Ọ́ là"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "ìwọ yóò sì bọ̀ mí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:51.825503935Z",
+  "model": "glm-5.3"
+}

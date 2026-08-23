@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Wọ́n óò sì jẹ ⟨את⟩ ẹran náà ní ọ̀rú yìí; ẹran sísè pẹ̀lú iná, àti àkàrà tí kò gbọ́n, pẹ̀lú àwọn eweko adùn-bíbí ni wọn óò fi jẹ ẹ́.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "wọ́n óò sì jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹran náà"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ẹran náà"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ní ọ̀rú"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "ẹran sísè"
+    },
+    {
+      "surface": "אש",
+      "gloss": "pẹ̀lú iná"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "àti àkàrà tí kò gbọ́n"
+    },
+    {
+      "surface": "על",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "àwọn eweko adùn-bíbí"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "wọn óò fi jẹ ẹ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:07.369414636Z",
+  "model": "glm-5.3"
+}

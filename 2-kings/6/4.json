@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ó sì lọ pẹ̀lú ⟨את⟩ wọn; wọ́n sì dé sí Yarden; wọ́n sì gé àwọn igi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ó sì lọ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "pẹ̀lú ⟨את⟩ wọn",
+      "marks": "wọn"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wọ́n sì dé"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "sí Yarden"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "wọ́n sì gé"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "àwọn igi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:28:18.187195284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Ìbínú rẹ dúró lé mi; ó sì fi gbogbo ìgbì-òkun rẹ ṣe ìyàn mí. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "lé mi"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "dúró lé"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ìbínú rẹ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ó sì fi gbogbo"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ìgbì-òkun rẹ"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "ṣe ìyàn mí"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:46.436816642Z",
+  "model": "glm-5.3"
+}

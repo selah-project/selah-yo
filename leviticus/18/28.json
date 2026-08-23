@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Kí ilẹ̀ náà má baà gbé ẹyin jade ⟨את⟩ nígbà tí ẹ bá fiìmọ́ ọ́ ⟨את⟩, gẹ́gẹ́ bí ó ti gbé orílẹ̀-èdè náà jade ⟨את⟩, èyítí ó wà ṣáájú yín.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kí ... má baà"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "gbé ... jade"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ẹyin",
+      "marks": "ẹyin"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "nígbà tí ẹ bá fiìmọ́ ọ́"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ọ́",
+      "marks": "ọ́ (ilẹ̀ náà)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "ti gbé jade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orílẹ̀-èdè náà"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "orílẹ̀-èdè náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyítí"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "wà ṣáájú yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:26.943201338Z",
+  "model": "glm-5.3"
+}

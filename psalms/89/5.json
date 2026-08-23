@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Títí láé láé ni mo máa fi ìdí sílẹ̀ fún irúgbín rẹ, èmi á sì kọ́ ìtẹ́ rẹ kalẹ̀ fún ìran dé ìran. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Títí"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "láé láé"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "mo máa fi ìdí sílẹ̀"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "irúgbín rẹ"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "èmi á sì kọ́ kalẹ̀"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "fún ìran"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "dé ìran"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ìtẹ́ rẹ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:08.716647893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Dávid sì wí fún un pé, Báwo ni iwọ ṣe kò paya, tí o fi so ọwọ́ rẹ sókè láti pa ⟨את⟩ Mashiach Yahweh?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "איך",
+      "gloss": "báwo ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "paya"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "so (ọwọ́) sókè"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "láti pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiach Yahweh"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:57:10.800737294Z",
+  "model": "glm-5.3"
+}

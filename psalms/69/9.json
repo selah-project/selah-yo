@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Mo di ajèjì fún àwọn ará mi, àti òkèrè fún àwọn ọmọ ìyá mi.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "ajèjì"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mo di"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "fún àwọn ará mi"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "àti òkèrè"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ìyá mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:39.501376956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Àti pẹ̀lú nípa Izevel, Yahweh ti sọ̀rọ̀ pé: Àwọn ajá yóò jẹ ⟨את⟩ Izevel ní ògàngàn Yizreel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "àti pẹ̀lú"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "nípa Izevel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "àwọn ajá"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yóò jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "ní ògàngàn"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-23T01:22:32.577050182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Nígbà náà mo gba ⟨את⟩ àwọn olórí ẹ̀yà yín, àwọn ọkùnrin ọgbọ́n ti wọ́n mọ̀, mo sì fi wọn jẹ olórí lórí yín: àwọn adarí ẹgbẹ̀rún, àwọn adarí ọgọ́rùn-ún, àwọn adarí àádọ́ta, àwọn adarí ẹ̀wá, àti àwọn aṣojú fún àwọn ẹ̀yà yín.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "mo gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn olórí ẹ̀yà yín"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "ẹ̀yà yín"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ọgbọ́n"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "ti wọ́n mọ̀"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "mo sì fi jẹ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "àwọn olórí"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "lórí yín"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "àwọn adarí"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ẹgbẹ̀rún"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "àwọn adarí"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́rùn-ún"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "àwọn adarí"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "àádọ́ta"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "àwọn adarí"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ẹ̀wá"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "àwọn aṣojú"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "fún àwọn ẹ̀yà yín"
+    }
+  ],
+  "timestamp": "2026-08-23T05:45:29.361144723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ó sì rán àwọn ìjábọ̀ sí Achav, ọba Israẹl, sínú ìlú náà.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ó sì rán"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "àwọn ìjábọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "sínú ìlú náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:23:46.305604721Z",
+  "model": "glm-5.3"
+}

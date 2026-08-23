@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Gbé èjìká yín sí òkè, èyà ìlẹ̀kùn; ẹ gbé èjìká yín sí òkè, àwọn ọ̀nà-ìwọlé tí ó pé nígbà gbogbo; kí ó sì wọ̀wọ́, ọba Ògo.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "gbé ... sí òkè"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "èyà ìlẹ̀kùn"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "èjìká yín"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "ẹ gbé ... sí òkè"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "àwọn ọ̀nà-ìwọlé"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tí ó pé nígbà gbogbo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kí ó sì wọ̀wọ́"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "Ògo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:01.984623939Z",
+  "model": "glm-5.3"
+}

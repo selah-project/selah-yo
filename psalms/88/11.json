@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Ṣé ìṣerí ni ìwọ ń ṣe fún àwọn òkú? Ṣé àwọn Refaim dìde, ṣé wọn ń yọ ọ́? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "fún àwọn òkú"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ìwọ ń ṣe"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ìṣerí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ṣé"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "àwọn Refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "dìde"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "wọn ń yọ ọ́"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:28.293833963Z",
+  "model": "glm-5.3"
+}

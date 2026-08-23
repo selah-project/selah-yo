@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezekiel 16:50",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Wọ́n gbe ara wọn ga, wọ́n sì ṣe ìkórìírá síwájú Mi; èmi sì yọ ⟨את⟩ wọn kúrò bí Mo ti rí i.",
+  "tokens": [
+    {
+      "surface": "ותגבהינה",
+      "gloss": "wọ́n gbe ara wọn ga"
+    },
+    {
+      "surface": "ותעשינה",
+      "gloss": "wọ́n sì ṣe"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ìkórìírá"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú Mi"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "èmi sì yọ kúrò"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Mo ti rí i"
+    }
+  ],
+  "timestamp": "2026-08-23T02:39:30.236193133Z",
+  "model": "glm-5.3"
+}

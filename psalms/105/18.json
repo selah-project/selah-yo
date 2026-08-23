@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Wọ́n fi ìwọ̀n ìdè ṣọ́ ẹsẹ̀ rẹ̀, irin wọ inú ẹ̀mí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Wọ́n ṣọ́"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "fi ìwọ̀n ìdè"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "irin"
+    },
+    {
+      "surface": "באה",
+      "gloss": "wọ inú"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ẹ̀mí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:27.854944395Z",
+  "model": "glm-5.3"
+}

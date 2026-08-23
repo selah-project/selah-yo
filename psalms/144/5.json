@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 144,
+  "translation": "Yahweh, tẹ́ ⟨àwọn⟩ ọ̀run rẹ̀ dẹ́dẹ́, kí o sì sọ̀rọ̀ wá sálẹ̀; kàn ⟨àwọn⟩ òkè, wọn a sì fi èémú bọ́.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הט",
+      "gloss": "tẹ́ ... dẹ́dẹ́"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ọ̀run rẹ̀"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "kí o sì sọ̀rọ̀ wá sálẹ̀"
+    },
+    {
+      "surface": "גע",
+      "gloss": "kàn"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "wọn a sì fi èémú bọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:07.969192814Z",
+  "model": "glm-5.3"
+}

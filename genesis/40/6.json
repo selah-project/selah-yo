@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Yosef sì wá bá wọn ní àárọ̀, ó sì rí ⟨את⟩ wọn, kíyèsi i, wọ́n sì ń ṣe ìbanújẹ́.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì wá"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "bá wọn"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ó sì rí"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨⟨את⟩⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "kíyèsi i, wọ́n sì"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "ń ṣe ìbanújẹ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:09:48.681736218Z",
+  "model": "glm-5.3"
+}

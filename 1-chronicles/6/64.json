@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àti ⟨את⟩ Kedemoth àti ⟨את⟩ àgbàlà rẹ̀, àti ⟨את⟩ Mefa'at àti ⟨את⟩ àgbàlà rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Kedemoth"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àgbàlà rẹ̀"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "àgbàlà rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Mefa'at"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefa'at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àgbàlà rẹ̀"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "àgbàlà rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:11:30.506320971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 29:13",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ìwọ sì gba ⟨את⟩ gbogbo ẹjẹ́-ara tí ó bo ⟨את⟩ inú inira, àti ⟨את⟩ abala tí ó wà lórí àjẹ̀, àti ⟨את⟩ àwọn ikidiní méjì, àti ⟨את⟩ ẹjẹ́-ara tí ó wà lé wọn lórí, ìwọ sì jọ́ ọ́ ní iná lórí pẹ̀tẹ́ẹ́-ìṣẹ́ naa.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ìwọ sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ẹjẹ́-ara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ẹjẹ́-ara"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "tí ó bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inú inira"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "inú inira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "abala"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "abala"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "àjẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ikidiní méjì"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "àwọn ikidiní"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹjẹ́-ara"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ẹjẹ́-ara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "tó wà lé wọn lórí"
+    },
+    {
+      "surface": "והקטרת",
+      "gloss": "ìwọ sì jọ́ ọ́ ní iná"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lórí pẹ̀tẹ́ẹ́-ìṣẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:12.806891081Z",
+  "model": "glm-5.3"
+}

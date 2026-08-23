@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Yahweh kì í ṣe kí a kì í bùkún fún — a bùkún fún Yahweh, nítorí tí ó gbọ́ ohùn àdúrà mi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "a bùkún fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ó gbọ́"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "àdúrà mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:53.668062631Z",
+  "model": "glm-5.3"
+}

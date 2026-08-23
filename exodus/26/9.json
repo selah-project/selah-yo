@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Kí o sẹ ⟨את⟩ àwọn pájà márùn-ún ní ìkan-ṣoṣo, àti ⟨את⟩ àwọn pájà mẹfà ní ìkan-ṣoṣo; o sì dupọ́ ⟨את⟩ pájà kẹfà sí iwájú ojú àgọ́ náà.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "kí o sẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn pájà márùn-ún"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "márùn-ún"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "àwọn pájà"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ní ìkan-ṣoṣo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn pájà mẹfà"
+    },
+    {
+      "surface": "שש",
+      "gloss": "mẹfà"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "àwọn pájà"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ní ìkan-ṣoṣo"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "o sì dupọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pájà kẹfà"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "pájà"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "kẹfà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מול",
+      "gloss": "iwájú"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "àgọ́ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:07.328868737Z",
+  "model": "glm-5.3"
+}

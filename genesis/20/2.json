@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Abraham sì wí nípa Sarah, ìyàwó rẹ̀, pé arábìnrin-iya ni ó jẹ́; Abimelek, ọba Gerar, sì ránṣẹ́, ó sì mu ⟨את⟩ Sarah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ìyàwó rẹ̀"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "arábìnrin-iya mi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni ó jẹ́"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "sì ránṣẹ́"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "Gerar"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    }
+  ],
+  "timestamp": "2026-08-22T23:01:52.435284113Z",
+  "model": "glm-5.3"
+}

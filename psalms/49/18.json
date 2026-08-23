@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Nítorí nínú ikú rẹ̀, kì yóò mú ⟨gbogbo nǹkan⟩ lọ; kì yóò sì ṣàlẹ̀bọ̀ lẹ́yìn rẹ̀, ògo rẹ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "nínú ikú rẹ̀"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mú … lọ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨gbogbo nǹkan⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ṣàlẹ̀bọ̀"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "lẹ́yìn rẹ̀"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ògo rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:22.604158305Z",
+  "model": "glm-5.3"
+}

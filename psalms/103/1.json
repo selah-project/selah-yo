@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Ti Davídù. Dúpẹ́, ẹ̀mí mi, fún ⟨את⟩ Yahweh, àti gbogbo inú mi, dúpẹ́ fún ⟨את⟩ orúkọ mímọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ti Davídù"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Dúpẹ́"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "inú mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ mímọ́ rẹ̀"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mímọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:27.860964061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Elimélek, ọkọ Na'omi, sì kú; òun àti àwọn ọmọkùnrin rẹ̀ méjì sì ṣààyò.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "sì kú"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimélek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkọ"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Na'omi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "sì ṣààyò"
+    },
+    {
+      "surface": "היא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "àwọn ọmọkùnrin rẹ̀ àti"
+    }
+  ],
+  "timestamp": "2026-08-23T04:35:48.565185985Z",
+  "model": "glm-5.3"
+}

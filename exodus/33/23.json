@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Èmi óó yọ ⟨את⟩ ọwọ́ mi kúrò, ìwọ óò rí ⟨את⟩ ẹ̀yìn mi; ṣùgbọ́n ojú mi kì í ṣe é rí.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Èmi óó yọ...kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ mi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "ìwọ óò rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀yìn mi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ẹ̀yìn mi"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "é rí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:29:05.644334529Z",
+  "model": "glm-5.3"
+}

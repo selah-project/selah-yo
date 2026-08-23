@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 141,
+  "translation": "Àwọn adájọ́ wọn ti wà ní wíwọ́ sílẹ̀ ní ẹgbẹ́ apáta, wọn yóò sì gbọ́ àwọn ọ̀rọ̀ mi, nítorí tí ó dùn.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "ti wà ní wíwọ́ sílẹ̀"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ní ẹgbẹ́"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "apáta"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "àwọn adájọ́ wọn"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "wọn yóò sì gbọ́"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "àwọn ọ̀rọ̀ mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "ó dùn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:20.793623323Z",
+  "model": "glm-5.3"
+}

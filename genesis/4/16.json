@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Kayin sì jáde kúrò níwájú Yahweh, ó sì gbé ní ilẹ̀ Nod, ní ìlà-oòrùn Eden.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "sì jáde"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kúrò níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sì gbé"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "ní ìlà-oòrùn"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:53.058566755Z",
+  "model": "glm-5.3"
+}

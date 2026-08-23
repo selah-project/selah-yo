@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ìwa àìwọ̀ ará ọmọbìrin ọmọ rẹ tàbí ọmọbìrin ọmọbìrin rẹ — ìwa àìwọ̀ ará wọn ni kì í ṣe kí o ṣí ìbojú rẹ̀, nítorí pé ìwa àìwọ̀ ará rẹ tiwa ni.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ìwa àìwọ̀ ará"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbìrin"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ọmọ rẹ"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbìrin"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ọmọbìrin rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kí o ṣí ìbojú rẹ̀"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "ìwa àìwọ̀ ará wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ìwa àìwọ̀ ará rẹ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tiwa ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:14.921987076Z",
+  "model": "glm-5.3"
+}

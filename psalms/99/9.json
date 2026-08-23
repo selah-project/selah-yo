@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 99,
+  "translation": "Ṣeé gígúntí Yahweh Elohim wa, kí ẹ sì foríbalẹ̀ ní òkè ìmímọ́ rẹ̀; nítorí pé ⟨ó⟩ jẹ́ mímọ́, Yahweh Elohim wa.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Ṣeé gígúntí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "kí ẹ sì foríbalẹ̀"
+    },
+    {
+      "surface": "להר",
+      "gloss": "ní òkè"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ìmímọ́ rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "⟨ó⟩ jẹ́ mímọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:49.568605788Z",
+  "model": "glm-5.3"
+}

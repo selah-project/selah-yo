@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 123,
+  "translation": "Ṣàánú fún wa, Yahweh, ṣàánú fún wa; nítorí pé púpọ̀ ló ti kún wa pẹ̀lú ìwọ̀sì.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Ṣàánú fún wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "ṣàánú fún wa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "רב",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "ló ti kún wa"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "pẹ̀lú ìwọ̀sì"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:31.103013206Z",
+  "model": "glm-5.3"
+}

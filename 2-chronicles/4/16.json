@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 4:16",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "àti ⟨את⟩ àwọn kòkòrò sísè, àti ⟨את⟩ àwọn àwọ̀ ikarahun, àti ⟨את⟩ àwọn ọ̀pá ìfọwọ́díẹ̀, àti ⟨את⟩ gbogbo ohun ìlò wọn, Churam baba rẹ̀ ló ṣe fún ọba Shelomoh, fún ilé Yahweh, pẹ̀lú idẹ tí a ti yan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ àti",
+      "marks": "àwọn kòkòrò sísè"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "àwọn kòkòrò sísè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ àti",
+      "marks": "àwọn àwọ̀ ikarahun"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "àwọn àwọ̀ ikarahun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ àti",
+      "marks": "àwọn ọ̀pá ìfọwọ́díẹ̀"
+    },
+    {
+      "surface": "המזלגות",
+      "gloss": "àwọn ọ̀pá ìfọwọ́díẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ àti",
+      "marks": "gbogbo ohun ìlò wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "ohun ìlò wọn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Churam"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fún ọba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fún ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "idẹ"
+    },
+    {
+      "surface": "מרוק",
+      "gloss": "tí a ti yan"
+    }
+  ],
+  "timestamp": "2026-08-23T05:23:24.306342341Z",
+  "model": "glm-5.3"
+}

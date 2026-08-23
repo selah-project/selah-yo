@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Mo ṣe fúnra mi àwọn odò adágún omi, láti fun wọn lómi, igbó tí ó ń bímọ̀-gi.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Mo ṣe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fúnra mi"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "àwọn odò adágún"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "láti fun wọn lómi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "יער",
+      "gloss": "igbó"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "tí ó ń bímọ̀-gi"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "gi"
+    }
+  ],
+  "timestamp": "2026-08-23T06:09:44.098975496Z",
+  "model": "glm-5.3"
+}

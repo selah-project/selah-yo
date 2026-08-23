@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Nítorí àwọn ọ̀fà rẹ̀ ti tẹ̀ mí lóde, ọwọ́ rẹ̀ sì tẹ mí lórí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "àwọn ọ̀fà rẹ̀"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "ti tẹ̀ lóde"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mí"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "àti ó tẹ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mí"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:31.437841434Z",
+  "model": "glm-5.3"
+}

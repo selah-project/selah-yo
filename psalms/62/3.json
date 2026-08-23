@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 62,
+  "translation": "Òun nìkan ni ọ̀yà mí àti ìgbàlà mí; òun ni ibi-ìgbbé-giga mí; èmi kì yóò súnràrá púpọ̀.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Nìkan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Òun"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ọ̀yà mí"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "àti ìgbàlà mí"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ibi-ìgbbé-giga mí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "súnràrá"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:24.033931791Z",
+  "model": "glm-5.3"
+}

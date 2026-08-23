@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Àwọn ènìyàn sì bẹ́bẹ̀ lọ́wọ́ Moshe pé: Kí ni a óò mu?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "sì bẹ́bẹ̀ lọ́wọ́"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Àwọn ènìyàn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kí ni"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "a óò mu"
+    }
+  ],
+  "timestamp": "2026-08-22T23:20:14.592688761Z",
+  "model": "glm-5.3"
+}

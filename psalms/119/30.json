@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Mo yàn ọ̀nà ìgbẹ́gbọ́ ṣó, ìdájọ́ rẹ ni mo gbé síwájú mi.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ìgbẹ́gbọ́ ṣó"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "mo yàn"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ìdájọ́ rẹ"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "mo gbé síwájú mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:58.917753301Z",
+  "model": "glm-5.3"
+}

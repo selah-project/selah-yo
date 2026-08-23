@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ẹyẹ-ìrọ̀n yóò jogún gbogbo igi rẹ àti èso ilẹ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "igi rẹ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "àti èso"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ilẹ̀ rẹ"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "yóò jogún"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "ẹyẹ-ìrọ̀n"
+    }
+  ],
+  "timestamp": "2026-08-23T00:18:31.856290669Z",
+  "model": "glm-5.3"
+}

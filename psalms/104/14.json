@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Òun ń sọ koríko dàgbà fún ẹranko, àti ewéko fún iṣẹ́ tí ènìyàn ń ṣe, láti mú oúnjẹ jáde kúrò nínú ayé.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "ń sọ koríko dàgbà"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "koríko"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "fún ẹranko"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "àti ewéko"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "fún iṣẹ́ tí…ń ṣe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "láti mú…jáde"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:26.170133859Z",
+  "model": "glm-5.3"
+}

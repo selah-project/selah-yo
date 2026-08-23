@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ó sì wí: ìwọ kò lè rí ⟨את⟩ ojú mi; nítorí ènìyàn kò gbọ́dọ̀ rí mi ìyà láìsí ìkú.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ìwọ lè"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú mi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "yóò rí mi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "sì gbé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:29:11.609580934Z",
+  "model": "glm-5.3"
+}

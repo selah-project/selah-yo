@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Ìwòsàn ni ó ń fún àwọn tí okàn wọn ti fọ́, ó sì ń fi ọwọ́ bọ àwọn ìnira wọn.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "ń fún ìwòsàn"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "àwọn tí ... ti fọ́"
+    },
+    {
+      "surface": "לב",
+      "gloss": "okàn wọn"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "ó sì ń fi ọwọ́ bọ"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "àwọn ìnira wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:57.431980401Z",
+  "model": "glm-5.3"
+}

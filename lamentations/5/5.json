@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Lórí orí-ǹù áwọ̀n wa ni wọ́n ń lé wá; a sì ṣòòfẹ́, ìsinmi kò sí fún wa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "orí-ǹù áwọ̀n wa"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "wọ́n ń lé wa"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "a ṣòòfẹ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "ìsinmi sí"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    }
+  ],
+  "timestamp": "2026-08-23T04:39:29.879106605Z",
+  "model": "glm-5.3"
+}

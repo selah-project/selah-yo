@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Kí gbogbo Yisrael sì gbọ́, kí wọ́n sì bẹ̀rù, kí wọ́n sì má ṣe ṣe irú iṣẹ́ búburú yìí mọ́ nínú ará rẹ;",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kí gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "sì gbọ́"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "kí wọ́n sì bẹ̀rù"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí wọ́n sì má ṣe"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "ṣe ... mọ́"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "irú iṣẹ́"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "nínú ará rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:58.084682989Z",
+  "model": "glm-5.3"
+}

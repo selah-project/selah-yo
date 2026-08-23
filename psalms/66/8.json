@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 66,
+  "translation": "Ẹ bùkún Elohim wa, àwọn ènìyàn, ẹ sọ ohùn ìyìn rẹ̀ kí ó gbọ́.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Ẹ bùkún"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "ẹ sọ ... kí ó gbọ́"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ìyìn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:17.199284959Z",
+  "model": "glm-5.3"
+}

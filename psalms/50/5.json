@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Kó ⟨àwọn⟩ olóòtítọ́ mi jọ sí ọ̀dọ̀ mi; àwọn tí ó ge májẹ̀mú mi lórí ẹran-ìrúbọ.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Kó…jọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sí ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "olóòtítọ́ mi"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "àwọn tí ó ge"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "májẹ̀mú mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ẹran-ìrúbọ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:10.325863616Z",
+  "model": "glm-5.3"
+}

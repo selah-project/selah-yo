@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 23:28",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ẹ má ṣe ṣe iṣẹ́ kankan ní ọjọ́ yìí gan-an, nítorí ọjọ́ ìràpadà ni, láti fi rà yín padà níwájú Yahweh, Elohim yín.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kí ẹ má ṣe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ní ... gan-an"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "ìràpadà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "láti fi rà ... padà"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "yín"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:10.106512205Z",
+  "model": "glm-5.3"
+}

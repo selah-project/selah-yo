@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 8:1",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Gbogbo àṣẹ tí mo ń pa yín ní ọjọ́ yìí, ẹ ṣọ́ọ́ láti ṣe, nítorí ki ẹ lè yé, ki ẹ ó pọ̀ sí i, ki ẹ ó wọ̀ọ́, ki ẹ sì gba ⟨את⟩ ilẹ̀ náà tí Yahweh ti búra fún àwọn baba yín.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "àṣẹ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ń pa yín"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ní ọjọ́ yìí"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "ẹ ṣọ́ọ́"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí ki"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "ẹ lè yé"
+    },
+    {
+      "surface": "ורביתם",
+      "gloss": "ki ẹ ó pọ̀ sí i"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ki ẹ ó wọ̀ọ́"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ki ẹ sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ti búra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "fún àwọn baba yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:34.110446938Z",
+  "model": "glm-5.3"
+}

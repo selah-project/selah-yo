@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 18:15",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Gbogbo tí ó ṣí ìbàkún nínú gbogbo ẹran, tí wọ́n ó mú wá sí Yahweh, lára ènìyàn àti lára ẹranko, ní ti rẹ ní yóò wà; ṣùgbọ́n dìde ni iwọ kí wọ́n dìde ⟨את⟩ akọbí ènìyàn, àti iwọ kí wọ́n dìde ⟨את⟩ akọbí ẹranko aláìmọ́.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "tí ó ṣí"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ìbàkún"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nínú gbogbo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ẹran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "wọ́n ó mú wá"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "lára ènìyàn"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "àti lára ẹranko"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ní ti rẹ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "dìde"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "iwọ kí wọ́n dìde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akọbí ènìyàn"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "akọbí"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "akọbí ẹranko aláìmọ́"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "akọbí"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "aláìmọ́"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "iwọ kí wọ́n dìde"
+    }
+  ],
+  "timestamp": "2026-08-22T23:57:58.131328995Z",
+  "model": "glm-5.3"
+}

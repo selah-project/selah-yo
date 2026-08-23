@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Wọ́n sì rántí pé Elohim ni àpáta wọn, àti El Elyon ni olùgbàlà wọn.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "wọ́n sì rántí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "àpáta wọn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "olùgbàlà wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:17.903062074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Má ṣe bẹ̀rù, nítorí tí èmi ⟨את⟩ wà pẹ̀lú rẹ; láti ìlà-oòrùn ni mo ó gbé ìrùsọ rẹ wá, láti ìwọ-oòrùn sì ni mo ó kọ ọ́ jọ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bẹ̀rù"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wà pẹ̀lú rẹ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "láti ìlà-oòrùn"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "mo ó gbé … wá"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ìrùsọ rẹ"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "láti ìwọ-oòrùn sì"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "mo ó kọ ọ́ jọ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:56:06.090574229Z",
+  "model": "glm-5.3"
+}

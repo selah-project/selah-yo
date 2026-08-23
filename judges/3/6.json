@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Wọ́n sì gbà ⟨את⟩ àwọn ọmọbìnrin wọn fúnra wọn láti jẹ́ àwọn aya, wọ́n sì fún ⟨את⟩ àwọn ọmọbìnrin wọn fún àwọn ọmọkùnrin wọn, wọ́n sì sìn ⟨את⟩ àwọn ọlọ́run wọn.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Wọ́n sì gbà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọbìnrin wọn"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "àwọn ọmọbìnrin wọn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fúnra wọn"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "láti jẹ́ àwọn aya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wọ́n sì fún ⟨את⟩",
+      "marks": "àwọn ọmọbìnrin wọn"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "àwọn ọmọbìnrin wọn"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "fún"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "fún àwọn ọmọkùnrin wọn"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "wọ́n sì sìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọlọ́run wọn"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "àwọn ọlọ́run wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:32:38.942824979Z",
+  "model": "glm-5.3"
+}

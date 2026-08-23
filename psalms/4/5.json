@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ẹ gbẹ́ ní ìbínú, kí ẹ má ṣe ṣe ẹ̀ṣẹ̀; ẹ sọ̀rọ̀ nínú ọkàn yín lórí òwú yín, kí ẹ sì dá dúró. Selah",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "ẹ gbẹ́ ní ìbínú"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí ẹ má ṣe"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "ṣe ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ẹ sọ̀rọ̀"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "nínú ọkàn yín"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "òwú yín"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "kí ẹ sì dá dúró"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:34.389418596Z",
+  "model": "glm-5.3"
+}

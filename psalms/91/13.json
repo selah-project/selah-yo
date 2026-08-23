@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Lórí kìnnìún àti ejò èèmọ̀ ni iwọ ó gbilẹ̀ ṣíṣe; iwọ ó pẹ́lẹ́ kìnnìún kékeré àti ejò ńlá sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "kìnnìún"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "àti ejò èèmọ̀"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "iwọ ó gbilẹ̀ ṣíṣe"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "iwọ ó pẹ́lẹ́ sílẹ̀"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "kìnnìún kékeré"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "àti ejò ńlá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:45.430540010Z",
+  "model": "glm-5.3"
+}

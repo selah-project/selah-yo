@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Àti láti orí àwọn òkè ìla-oòrùn àtijọ́, àti láti ọ̀rá gbogbo-ògà ìwúlò ti àwọn òkè-kekere tí ó títí láé láé.",
+  "tokens": [
+    {
+      "surface": "וּמֵרֹ֖אשׁ",
+      "gloss": "àti láti orí"
+    },
+    {
+      "surface": "הַרְרֵי",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "קֶ֑דֶם",
+      "gloss": "ìla-oòrùn àtijọ́"
+    },
+    {
+      "surface": "וּמִמֶּ֖גֶד",
+      "gloss": "àti láti ọ̀rá ìwúlò"
+    },
+    {
+      "surface": "גִּבְע֥וֹת",
+      "gloss": "àwọn òkè-kekere"
+    },
+    {
+      "surface": "עוֹלָֽם",
+      "gloss": "tí ó títí láé láé"
+    }
+  ],
+  "timestamp": "2026-08-23T06:15:00.896226051Z",
+  "model": "glm-5.3"
+}

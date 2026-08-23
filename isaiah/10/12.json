@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 10:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó sì jẹ́ pé nígbà tí Adonai bá parí ⟨את⟩ gbogbo iṣẹ́ Rẹ̀ lórí ókè Tsiyon àti ní Yerushalayim, èmi óò ṣe ìjìyà lórí èso títóbi ọkàn ọba Ashur, àti lórí ọlá tí ojú rẹ̀ gbé ga.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ó sì jẹ́ pé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "יבצע",
+      "gloss": "bá parí"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo iṣẹ́ Rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "iṣẹ́ Rẹ̀"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "lórí ókè"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "àti ní Yerushalayim"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "èmi óò ṣe ìjìyà lórí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "èso"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "títóbi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ọlá"
+    },
+    {
+      "surface": "רום",
+      "gloss": "gbé ga"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ojú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:43:33.410580133Z",
+  "model": "glm-5.3"
+}

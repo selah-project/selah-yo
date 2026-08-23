@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Kò sí mímọ́ bíi Yahweh, nítorí tí kò sí ẹ̀yín rẹ ⟨lápapọ̀⟩, kò sì sí okuta bíi Elohim wa.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "bíi Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "ẹ̀yín rẹ ⟨lápapọ̀⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sì sí"
+    },
+    {
+      "surface": "צור",
+      "gloss": "okuta"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "bíi Elohim wa"
+    }
+  ],
+  "timestamp": "2026-08-23T00:42:49.982531893Z",
+  "model": "glm-5.3"
+}

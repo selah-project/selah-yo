@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ó sì ṣẹlẹ̀, nígbà tí ọba gbọ́ ⟨את⟩ ọ̀rọ̀ ìwé Tórah náà, ó ya ⟨את》 aṣọ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nígbà tí ó gbọ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ ìwé Tórah"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ìwé"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tórah náà"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ó ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "aṣọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:36:56.802206685Z",
+  "model": "glm-5.3"
+}

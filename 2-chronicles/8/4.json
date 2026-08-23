@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì kọ́ ⟨את⟩ Tadmor ní ijù, àti ⟨את⟩ gbogbo àwọn ìlú ìpamọ́ tí ó kọ́ ní Chamath.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ó sì kọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní ijù"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ìlú ìpamọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "ìpamọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ó kọ́"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "ní Chamath"
+    }
+  ],
+  "timestamp": "2026-08-23T05:26:13.921925803Z",
+  "model": "glm-5.3"
+}

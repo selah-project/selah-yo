@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 7:45",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àti ⟨את⟩ àwọn ikòkò, àti ⟨את⟩ àwọn ìkọ̀njú, àti ⟨את⟩ àwọn àwo ìsàn, àti ⟨את⟩ gbogbo àwọn ohun-èlò tí Hirám ṣe fún Shélọmọ̀ ọba ní ilé Yahweh — fàdákà tí wọ́n yan ⟨dídan⟩ ni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ikòkò"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "àwọn ikòkò"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìkọ̀njú"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "àwọn ìkọ̀njú"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn àwo ìsàn"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "àwọn àwo ìsàn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ohun-èlò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "àwọn ohun-èlò"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "⟨ilé⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hirám"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fún ọba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shélọmọ̀"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "ממרט",
+      "gloss": "tí wọ́n yan ⟨dídan⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:41.149970200Z",
+  "model": "glm-5.3"
+}

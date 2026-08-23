@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Nísinsin yìí, ṣùkúṣẹ́ ní àárọ̀, ìwọ àti àwọn ìránṣẹ́ olúwa rẹ tí ó bá ti wá ⟨את⟩ pẹ̀lú rẹ; ẹ ṣùkúṣẹ́ ní àárọ̀, tí ìmọ́lẹ̀ bá bù fún yín, ẹ sì lọ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "nísinsin yìí"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "ṣùkúṣẹ́"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "àti àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "olúwa rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bá ti wá"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pẹ̀lú rẹ",
+      "marks": "pẹ̀lú rẹ"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "ẹ ṣùkúṣẹ́"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "tí ìmọ́lẹ̀ bá bù"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ẹ sì lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:54:50.099717677Z",
+  "model": "glm-5.3"
+}

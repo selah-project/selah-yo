@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 7:20",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ní ọjọ́ yìí Adonai máa bá wọ́n fi abẹ́ tí a yà lọ́wọ́ — nípasẹ̀ ọba Ashuru, ẹní tí ó wà ní ẹ̀bà odò — fọ ⟨את⟩ orí, àti irun ẹsẹ̀; ìrùnkẹ̀mù náà yóò sì pa ⟨את⟩ mọ́.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "máa bá wọ́n fi abẹ́ fọ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בתער",
+      "gloss": "fi abẹ́"
+    },
+    {
+      "surface": "השכירה",
+      "gloss": "tí a yà lọ́wọ́"
+    },
+    {
+      "surface": "בעברי",
+      "gloss": "ní ẹ̀bà"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "odò"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "nípasẹ̀ ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orí"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "àti irun"
+    },
+    {
+      "surface": "הרגלים",
+      "gloss": "ẹsẹ̀"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "yóò sì tún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìrùnkẹ̀mù"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "ìrùnkẹ̀mù"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "pa mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:42:40.945229171Z",
+  "model": "glm-5.3"
+}

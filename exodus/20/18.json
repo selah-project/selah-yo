@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Gbogbo àwọn ènìyàn ń rí ⟨את⟩ àwọn ohùn, àti ⟨את⟩ iná mọ́namọ́na, àti ⟨את⟩ ohùn ìgbà-lọ́gàn, àti ⟨את⟩ òkè tí ó ń sá èéfin; àwọn ènìyàn rí i, wọ́n sì gbọnà, wọ́n sì dúró ó jìnnà.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "ń rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ohùn"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "àwọn ohùn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "iná mọ́namọ́na"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "iná mọ́namọ́na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ohùn ìgbà-lọ́gàn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "ìgbà-lọ́gàn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "òkè"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "tí ó ń sá èéfin"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "rí i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "wọ́n gbọnà"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "wọ́n dúró"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ó jìnnà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:04.219450865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ó fi yọ̀yọ́ ojọ wọn ṣe ẹrùrù òtútù, iná mọ́namọ́na sí nínú ilẹ̀ wọn.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ó fi ṣe"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "yọ̀yọ́ ojọ wọn"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ẹrùrù òtútù"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "mọ́namọ́na"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "nínú ilẹ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:36.760545648Z",
+  "model": "glm-5.3"
+}

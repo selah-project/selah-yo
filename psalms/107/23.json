@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Àwọn tí ń sọkè sí òkun nínú àwọn ọkọ̀ oju-omi, tí ń ṣiṣẹ́ nínú omi pọ̀ ti igi-igi pọ̀.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "àwọn tí ń sọkè sí"
+    },
+    {
+      "surface": "הים",
+      "gloss": "òkun"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "nínú àwọn ọkọ̀ oju-omi"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "tí ń ṣiṣẹ́"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nínú omi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pọ̀ ti igi-igi pọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:43.205482498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Bẹ́ẹ̀ ni ó ṣe ⟨את⟩ àwọn ìdí mẹ́wàá náà; ìdàpọ̀ kan, ìwọ̀n kan, ìrísí kan, fún wọn gbogbo.",
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìdí mẹ́wàá náà"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "àwọn ìdí"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ìdàpọ̀"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ìwọ̀n"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "ìrísí"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "fún wọn gbogbo"
+    }
+  ],
+  "timestamp": "2026-08-23T01:13:33.545819073Z",
+  "model": "glm-5.3"
+}

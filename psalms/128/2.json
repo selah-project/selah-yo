@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 128,
+  "translation": "Ìṣẹ́ ti àwọ́ ọwọ́ rẹ ni iwọ óó jẹ — ìdàrèṣí ni fún ọ, kí ó sì dàra fún ọ.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "ìṣẹ́"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ti àwọ́ ọwọ́ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "iwọ óó jẹ"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "ìdàrèṣí ni fún ọ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "kí ó sì dàra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:41.775807455Z",
+  "model": "glm-5.3"
+}

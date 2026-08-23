@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ìwọ ó sì yì ⟨את⟩ wọn ní mímọ́, wọn yóò sì jẹ́ mímọ́ àwọn ohun mímọ́; gbogbo ẹni tí ó bá kàn wọ́n yóò mọ́.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "ìwọ ó sì yì ní mímọ́"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "àwọn ohun ìṣẹ́ tí a ti yì mọ́"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "wọn yóò sì jẹ́"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "àwọn ohun mímọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ẹni tí ó bá kàn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "yóò mọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:28:22.433064739Z",
+  "model": "glm-5.3"
+}

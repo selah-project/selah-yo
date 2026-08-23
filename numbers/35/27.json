@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "tí ẹlẹ́bínú-ẹ̀jẹ́ sì bá a lójú ní ita ààlà ìlú ìsàgbọrọ̀ rẹ̀, tí ẹlẹ́bínú-ẹ̀jẹ́ sì pa ⟨את⟩ ènìyàn-èlèpọ̀-ẹjọ́ — ẹ̀jẹ́ kò sí lórí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "tí ó sì bá a lójú"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ á",
+      "marks": "ẹlẹ́bínú-ẹ̀jẹ́"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ẹlẹ́bínú"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ẹ̀jẹ́"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ní ita"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "ààlà"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "ìsàgbọrọ̀ rẹ̀"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "tí ó sì pa"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ẹlẹ́bínú"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ẹ̀jẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ènìyàn-èlèpọ̀-ẹjọ́"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ènìyàn-èlèpọ̀-ẹjọ́"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ẹ̀jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:05:48.277811993Z",
+  "model": "glm-5.3"
+}

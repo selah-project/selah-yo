@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 25:4",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ìlú naa sì já, gbogbo àwọn ọkunrin ogun sì sálẹ̀ ní ọ̀rọ̀náà, nípa ọ̀nà ọ̀na ìgbàwọlé láàrin ìdí mejì tí ó wà ní ọgbìn ọba; àwọn Kashedimu sì wà ní ìkàrí ìlú naa. Ó sì lọ lọ́nà Arabah.",
+  "tokens": [
+    {
+      "surface": "ותבקע",
+      "gloss": "ó sì já"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú naa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkunrin"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ní ọ̀rọ̀náà"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nípa ọ̀nà"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọ̀na ìgbàwọlé"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàrín"
+    },
+    {
+      "surface": "החמתים",
+      "gloss": "ìdí mejì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "גן",
+      "gloss": "ọgbìn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "וכשדים",
+      "gloss": "àwọn Kashedimu sì"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní ìkàrí"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú naa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ìkàrí ayé"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lọ́nà"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arabah"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:58.526775359Z",
+  "model": "glm-5.3"
+}

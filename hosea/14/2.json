@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Padà sílẹ̀, Yisrael, sí Yahweh Elohim rẹ; nítorí tí o ṣubú nínú ìwà ìbúburú rẹ.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Padà sílẹ̀"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "o ṣubú"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "nínú ìwà ìbúburú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:03:52.241107265Z",
+  "model": "glm-5.3"
+}

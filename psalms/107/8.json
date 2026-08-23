@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Kí wọ́n dúpẹ́ lọ́dọ̀ Yahweh nítorí ìfẹ́ olóòtítọ́ rẹ̀, àti nítorí àwọn iṣẹ́ ìyanu rẹ̀ sí àwọn ọmọ ènìyàn.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Kí wọ́n dúpẹ́ lọ́dọ̀"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ̀"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "àti àwọn iṣẹ́ ìyanu rẹ̀"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sí àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:20:20.370289181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Yehuda sì gba ⟨את⟩ Gaza àti ⟨את⟩ ààlà rẹ̀, àti ⟨את⟩ Ashkelon àti ⟨את⟩ ààlà rẹ̀, àti ⟨את⟩ Ekron àti ⟨את⟩ ààlà rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "sì gba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ààlà rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ààlà rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ààlà rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:32:15.238617813Z",
+  "model": "glm-5.3"
+}

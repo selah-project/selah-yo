@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Òbà náà fi ìránṣẹ́ ránṣẹ́, ó sì kó ⟨את⟩ gbogbo àwọn àgbà Yehudah àti Yerushalayim pọ̀.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ó fi ìránṣẹ́ ránṣẹ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "òbà náà"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ó sì kó pọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn àgbà Yehudah àti Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "àti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:37:50.068728954Z",
+  "model": "glm-5.3"
+}

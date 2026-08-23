@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ẹni tí ó ń pa ẹnu rẹ̀ mọ́ ṣọ́ ọkàn rẹ̀; ẹni tí ó ń Ń sii ètè rẹ̀ — ìparun ni fún un.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "ń pa mọ́"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ẹnu rẹ̀"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ṣọ́"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "ń sii"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ètè rẹ̀"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ìparun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    }
+  ],
+  "timestamp": "2026-08-23T04:06:58.605339843Z",
+  "model": "glm-5.3"
+}

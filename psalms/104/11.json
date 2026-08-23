@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Àwọn ẹranko pápá gbogbo ni wọ́n ń ṣe paniyan fún; àwọn ẹṣin-igbó ń pa òùngbẹ wọn ìmú.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "wọ́n ń ṣe paniyan fún"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "pápá"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ń fọ́"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "àwọn ẹṣin-igbó"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "òùngbẹ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:49.256529284Z",
+  "model": "glm-5.3"
+}

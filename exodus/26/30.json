@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Sì ìwọ yóò gbé ⟨את⟩ àgọ́-ìgbé (Mishkan) náà dìde, gẹ́gẹ́ bí òfin rẹ̀, èyí tí a fi hàn ọ́ ní òkè.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "sì ìwọ yóò gbé dìde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgọ́-ìgbé (Mishkan) náà"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "àgọ́-ìgbé (Mishkan) náà"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "gẹ́gẹ́ bí òfin rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "a fi hàn ọ́"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ní òkè"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:03.840200030Z",
+  "model": "glm-5.3"
+}

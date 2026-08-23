@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Kí o sì fi ⟨את⟩ wọn sí ìlànà méjì, mẹ́fà lórí ìlànà kan, lórí tábìlì mímọ́ níwájú Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "kí o sì fi sí"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn àkárà)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "ìlànà"
+    },
+    {
+      "surface": "שש",
+      "gloss": "mẹ́fà"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "ìlànà kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tábìlì"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:51.680158672Z",
+  "model": "glm-5.3"
+}

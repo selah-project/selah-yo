@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Kí wọn má baà jẹ́ bíi àwọn baba wọn — ìran tí ó yípadà, tí ó sì gbéyàwọ́, ìran tí kò ṣetí ọkàn rẹ̀, ẹ̀mí rẹ̀ sì kò dúró lọ́tọ́ pẹ̀lú ⟨את⟩ El.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kí wọn má baà"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "bíi àwọn baba wọn"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "tí ó yípadà"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "tí ó sì gbéyàwọ́"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ṣetí… sílẹ̀"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sì kò"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "dúró lọ́tọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ẹ̀mí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:04.387052754Z",
+  "model": "glm-5.3"
+}

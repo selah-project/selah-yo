@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Ìwọ ni ó mọ̀ ìgbanilẹ́tọ̀ mi àti àìníyì mi àti ègàn mi; níwájú rẹ ni gbogbo àwọn ọ̀tá mi wà.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ ni ó"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ìgbanilẹ́tọ̀ mi"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "àti àìníyì mi"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "àti ègàn mi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "níwájú rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "àwọn ọ̀tá mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:24.826753687Z",
+  "model": "glm-5.3"
+}

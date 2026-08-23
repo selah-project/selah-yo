@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó tú, òòrùn; ó sì ń wọ̀, òòrùn; ó ń shúfẹ́ sí ibi rẹ̀ tí ó ti ń tú — òun wà níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "ó tú"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "òòrùn"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ó sì ń wọ̀"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "òòrùn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ibi rẹ̀"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ń shúfẹ́"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "tó ń tú"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:47.422446972Z",
+  "model": "glm-5.3"
+}

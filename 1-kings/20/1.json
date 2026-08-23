@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ben-Hadad, ọba Aram, kó ⟨את⟩ gbogbo ọmọ-ogun rẹ̀ pọ̀, àti àwọn ọba mẹ́rìnlélógójì pẹ̀lú ⟨את⟩ rẹ̀, àti ẹṣin àti àwọn ọkọ̀ ogun; ó gòkè, ó sì kéèkùn lórí Shomeron, ó sì bá a jà.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "kó pọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọmọ-ogun rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ọmọ-ogun rẹ̀"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "àti mẹ́rìnlélógójì"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pẹ̀lú ⟨את⟩ rẹ̀",
+      "marks": "rẹ̀"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "àti ẹṣin"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "àti àwọn ọkọ̀ ogun"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ó gòkè"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ó sì kéèkùn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ó sì bá a jà"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-23T01:23:46.305346075Z",
+  "model": "glm-5.3"
+}

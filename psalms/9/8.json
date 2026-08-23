@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Yahweh sì ń jọkọ́ títí láé; Ó ti dá àga-ìjọba rẹ̀ sílẹ̀ fún ìdájọ́.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh sì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láé"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ń jọkọ́"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "Ó ti dá sílẹ̀"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "fún ìdájọ́"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "aga-ìjọba rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:00.112303434Z",
+  "model": "glm-5.3"
+}

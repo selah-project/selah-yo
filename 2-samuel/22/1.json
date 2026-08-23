@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Dawidi sọ̀rọ̀ sí Yahweh ⟨àwọn⟩ ọ̀rọ̀ orin yìí, ní ọjọ́ tí Yahweh gbà á là ní ọwọ́ gbogbo àwọn ọ̀tá rẹ̀, àti ní ọwọ́ Shaulu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ó sọ̀rọ̀ sí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀rọ̀ orin yìí"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "orin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "tí ó gbà là"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ó (Dawidi)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "ní ọwọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "àwọn ọ̀tá rẹ̀"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "àti ní ọwọ́"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulu"
+    }
+  ],
+  "timestamp": "2026-08-23T01:07:20.062962908Z",
+  "model": "glm-5.3"
+}

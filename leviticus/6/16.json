@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Gbogbo mìnnàh ẹlẹ́sìn ni kí ó jẹ́ ti a ó sun jẹ pátápátá; kì í gbọ́dọ̀ jẹ ẹ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mìnnàh"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ẹlẹ́sìn"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "pátápátá"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ni kí ó jẹ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "gbọ́dọ̀ jẹ ẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:31.711745357Z",
+  "model": "glm-5.3"
+}

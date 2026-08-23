@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 6:24",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ó sì wáyé lẹ́yìn èyí, Ben-Hadad ọba Aram ko ⟨את⟩ gbogbo ọ̀gagún rẹ̀ jọ; ó sì wọ̀kè, ó sì fi ìdè sí Shomron.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wáyé"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ó sì ko… jọ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọ̀gagún rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "ọ̀gagún rẹ̀"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ó sì wọ̀kè"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ó sì fi ìdè sí"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-08-23T01:28:29.280815799Z",
+  "model": "glm-5.3"
+}

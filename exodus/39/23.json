@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 39:23",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Ẹnu ẹ̀wù náà sì wà ní àárín rẹ̀, gẹ́gẹ́ bí ẹnu ẹ̀wù takara; èè́ rẹ̀ sì wà ní ìtòsí ẹnu rẹ̀, ní ìyípo gbogbo, kí ó má baà fa.",
+  "tokens": [
+    {
+      "surface": "ופי",
+      "gloss": "Ẹnu ... sì"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ẹ̀wù náà"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "ní àárín rẹ̀"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gẹ́gẹ́ bí ẹnu"
+    },
+    {
+      "surface": "תחרא",
+      "gloss": "ẹ̀wù takara"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "èè́"
+    },
+    {
+      "surface": "לפיו",
+      "gloss": "ní ìtòsí ẹnu rẹ̀"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní ìyípo gbogbo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kí ... má baà"
+    },
+    {
+      "surface": "יקרע",
+      "gloss": "fa"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:41.201482632Z",
+  "model": "glm-5.3"
+}

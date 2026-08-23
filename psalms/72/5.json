@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Wọn ó bẹ̀rù rẹ pẹ̀lú òòrùn, àti níwájú òsùpà, ìran-ìran lọ́nà ìran.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Wọn ó bẹ̀rù rẹ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "òòrùn"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "àti níwájú"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "òsùpà"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ìran lọ́nà ìran"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:57.451649227Z",
+  "model": "glm-5.3"
+}

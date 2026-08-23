@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ọjọ́ ìfún ẹ̀kún àti ìkígbe ogun, lórí àwọn ìlú tí wọ́n ti fi ìdẹ̀rí ṣe ìdáàbò bo, àti lórí àwọn igun ilé tí ó giga.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ìfún ẹ̀kún"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "àti ìkígbe ogun"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "tí wọ́n ti fi ìdẹ̀rí ṣe ìdáàbò bo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "àwọn igun ilé"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "tí ó giga"
+    }
+  ],
+  "timestamp": "2026-08-23T03:15:24.136804130Z",
+  "model": "glm-5.3"
+}

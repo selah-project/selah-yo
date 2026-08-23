@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ó sì ṣẹlẹ̀, tí ó ń gun kẹ́tẹ́kẹ́tẹ, tí ó sì ń bọ̀ sọ́dọ̀ nípasẹ̀ ìgbò ókè, kiakia, Dawidì àti àwọn ọkùn rẹ̀ ń bọ̀ sódò rẹ̀; ó sì pàdé ⟨את⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ó ṣẹlẹ̀"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "ń gun kẹ́tẹ́kẹ́tẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-orí"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "kẹ́tẹ́kẹ́tẹ"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "ń bọ̀ sọ́dọ̀"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nípasẹ̀ ìgbò ìkọkọ̀"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ókè"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kiakia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidì"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "àwọn ọkùn rẹ̀"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "ń bọ̀ sódò"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "sódò rẹ̀"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "pàdé"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:54:27.355121630Z",
+  "model": "glm-5.3"
+}

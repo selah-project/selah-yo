@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ọ̀kan sì wí pé: Jẹ́ kí o ṣe ànùwọ́, jọwọ́, kí o sì lọ pẹ̀lú ⟨את⟩ àwọn ìránṣẹ́ rẹ. Ó sì wí pé: Èmi yóò lọ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí pé"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "Ọ̀kan"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Jẹ́ kí o ṣe ànùwọ́"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọwọ́"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "kí o sì lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pẹ̀lú àwọn ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "àwọn ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "yóò lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:28:18.187080419Z",
+  "model": "glm-5.3"
+}

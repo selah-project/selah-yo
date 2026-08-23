@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Kì yóò fi di aláìmọ́ gẹ́gẹ́ bí olóyè láwọn ènìyàn rẹ̀, láti sọ ara rẹ̀ di aìmọ́.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "yóò fi di aláìmọ́"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "gẹ́gẹ́ bí olóyè"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "láwọn ènìyàn rẹ̀"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "láti sọ ara rẹ̀ di aìmọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:43:05.133898069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ẹni tí ó ń ṣọ́ afẹ́fẹ́ kì í gbìn; àti ẹni tí ó ń wo kìírún kì í kẹ́kúnnu.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ń ṣọ́"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "afẹ́fẹ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "gbìn"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "àti...ń wo"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "kìírún"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "kẹ́kúnnu"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:50.610015414Z",
+  "model": "glm-5.3"
+}

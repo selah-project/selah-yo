@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Mo ó lu àwọn òtá rẹ̀ jákpajá kúrò níwájú rẹ̀, mo ó sì lu àwọn tí ó kórìíra rẹ̀ láwọ̀.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "mo ó sì lu... jákpajá"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kúrò níwájú rẹ̀"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "àwọn òtá rẹ̀"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "àwọn tí ó kórìíra rẹ̀"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "mo ó lu... láwọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:31.999797144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Ọkàn àwọn aláiyà-súrà yóò dá òye lóye ìmọ̀, àti ètè àwọn atọ̀fà yóò yára láti sọ̀rọ̀ ṣótító.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "àwọn aláiyà-súrà"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "yóò dá òye"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "lóye ìmọ̀"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "àti ètè"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "àwọn atọ̀fà"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "yóò yára"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "láti sọ̀rọ̀"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "ṣótító"
+    }
+  ],
+  "timestamp": "2026-08-23T05:55:11.515045980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Sí ìyàwó ẹlẹgbẹ́ rẹ ni kí o má ṣe fún ní ìbálòpọ̀ rẹ, láti di aláìmọ́ pẹ̀lú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ìyàwó"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ẹlẹgbẹ́ rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kí o má ṣe"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "ìbálòpọ̀ rẹ"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ní ìbálòpọ̀-irú"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "láti di aláìmọ́"
+    },
+    {
+      "surface": "בה",
+      "gloss": "pẹ̀lú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:48.043306048Z",
+  "model": "glm-5.3"
+}

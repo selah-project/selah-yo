@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Yahweh sì gbé afẹ́fẹ́ ńlá sọ́nu òkun, ó sì di ijòpijòpò ńlá nínú òkun; ọkọ̀ odo náà sì ń ṣèírò pé ó lè fọ́.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh sì"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "gbé ... sọ́nu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "afẹ́fẹ́"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הים",
+      "gloss": "òkun náà"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì di"
+    },
+    {
+      "surface": "סער",
+      "gloss": "ijòpijòpò"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "בים",
+      "gloss": "nínú òkun"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "ọkọ̀ odo náà sì"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "ń ṣèírò"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "pé ó lè fọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:10:32.700447465Z",
+  "model": "glm-5.3"
+}

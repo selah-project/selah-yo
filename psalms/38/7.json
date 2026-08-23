@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Mo ṣe yí padà, mo tẹ́ sálẹ̀ púpọ̀ jù; gbogbo ọjọ́ ni mo ń rin ní ìbànújẹ́.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "Mo ṣe yí padà"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "mo tẹ́ sálẹ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "púpọ̀ jù"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀ jù"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ní ìbànújẹ́"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "mo ń rin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:12.992530513Z",
+  "model": "glm-5.3"
+}

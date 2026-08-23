@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àti ⟨את⟩ ará méjì, àti ⟨את⟩ ọra tí ó wà lórí wọn, tí ó sì wà lórí àwọn èjìká, àti ⟨את⟩ kàn-àn tí ó wà lórí jẹ́dọ-jẹ́dọ — lórí àwọn ará ni ó gbé e kúrò.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ará méjì"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ará"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ọra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "lórí wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó sì wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "àwọn èjìká"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "kàn-àn"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "kàn-àn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jẹ́dọ-jẹ́dọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "àwọn ará"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ó gbé e kúrò"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:48.997762630Z",
+  "model": "glm-5.3"
+}

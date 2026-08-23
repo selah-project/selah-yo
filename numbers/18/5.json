@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ẹ̀yin yóò ṣọ́ ⟨את⟩ ìṣọ́ àwọn ohun mímọ́ àti ⟨את⟩ ìṣọ́ pẹpẹ yàtọ̀; bíbúru kì í ṣe ṣe máa tún wá lé orí àwọn ọmọ Yisraẹl mọ́.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ẹ̀yin yóò ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìṣọ́ àwọn ohun mímọ́"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ìṣọ́"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "àwọn ohun mímọ́"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ìṣọ́ pẹpẹ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ìṣọ́"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ṣe máa wáyé"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tún"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "bíbúru"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé lórí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹl"
+    }
+  ],
+  "timestamp": "2026-08-22T23:58:04.504223005Z",
+  "model": "glm-5.3"
+}

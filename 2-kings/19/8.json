@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ravshakeh sì padà, ó sì rí ⟨את⟩ ọba Ashur tí ń jagun lórí Livnah; nítorí tí ó gbọ́ pé ó ti kúrò ní Lakish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ó sì padà"
+    },
+    {
+      "surface": "רב",
+      "gloss": "olóyè"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Ravshakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ó sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ń jagun"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ó gbọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ó ti kúrò"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "ní Lakish"
+    }
+  ],
+  "timestamp": "2026-08-23T01:35:11.510595427Z",
+  "model": "glm-5.3"
+}

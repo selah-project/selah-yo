@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "àti ⟨את⟩ àwọn ẹ̀jẹ̀kẹ́ méjì, àti ⟨את⟩ ọra tí ó wà lé wọn, tí ó wà lórí àwọn èjìká, àti ⟨את⟩ èwùn tí ó wà lórí ẹ̀dọ̀, lórí àwọn ẹ̀jẹ̀kẹ́ ni yóò ṣe é kúrò.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ẹ̀jẹ̀kẹ́ méjì"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "àwọn ẹ̀jẹ̀kẹ́"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ọra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "lé wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "àwọn èjìká"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "èwùn"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "èwùn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ẹ̀dọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "àwọn ẹ̀jẹ̀kẹ́"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "yóò ṣe é kúrò"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:32.900988241Z",
+  "model": "glm-5.3"
+}

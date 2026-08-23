@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Gbogbo àwọn ìlú pẹtẹ́ ìsàlẹ̀, àti gbogbo Gilead, àti gbogbo Bashan, títí dé Salchah àti Edrei — àwọn ìlú ìjọba Og ní Bashan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "pẹtẹ́ ìsàlẹ̀"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salchah"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "àti Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ní Bashan"
+    }
+  ],
+  "timestamp": "2026-08-23T05:45:03.136225627Z",
+  "model": "glm-5.3"
+}

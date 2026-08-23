@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Ṣíṣe bẹ́ẹ̀ gán-an, òkúkú kò lè pamọ́ kúrò lọ́dọ̀ Rẹ; òru sì ń tan bí ọjọ́; òkúkú dà bí ìmọ́lẹ̀ ní ojú Rẹ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ṣíṣe bẹ́ẹ̀ gán-an"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "òkúkú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò lè"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "pamọ́"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kúrò lọ́dọ̀ Rẹ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "òru sì"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bí ọjọ́"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ń tan"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "òkúkú dà bí"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "ìmọ́lẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:52.590960716Z",
+  "model": "glm-5.3"
+}

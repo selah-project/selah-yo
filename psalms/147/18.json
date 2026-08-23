@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Ó rán ọ̀rọ̀ rẹ̀, ó sí wọ́n wá; Ó fi ẹfúufú rẹ̀ fọ́nà, omi sì ń sàn.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ó rán"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "ó sì wọ́n wá"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "Ó fi... fọ́nà"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ẹfúufú rẹ̀"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "sì ń sàn"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:47.996108508Z",
+  "model": "glm-5.3"
+}

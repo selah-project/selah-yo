@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Moshe sì kó pẹpẹ sílẹ̀, ó sì pe orúkọ rẹ̀ ní Yahweh-Nissi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "sì kó pẹpẹ sílẹ̀"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ó sì pe orúkọ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi (Àmì mi)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:12.366466324Z",
+  "model": "glm-5.3"
+}

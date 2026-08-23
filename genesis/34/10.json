@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Kí ẹ sì gbé pẹ̀lú ⟨את⟩ wa; ilẹ̀ yóò sì wà níwájú yín; ẹ gbé níbẹ̀, ẹ ṣòwò níbẹ̀, kí ẹ sì fi ọwọ́ di ilẹ̀ náà mú.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩",
+      "marks": "wa (ìtumọ̀: pẹ̀lú wa)"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "kí ẹ gbé"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ilẹ̀ yóò sì"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "níwájú yín"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ẹ gbé"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "ẹ ṣòwò níbẹ̀"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "ẹ fi ọwọ́ di… mú"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:44.277430906Z",
+  "model": "glm-5.3"
+}

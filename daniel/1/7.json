@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 1:7",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Olú-ògá àwọn agùntàn-ọba sì fi orúkọ tuntun kan wọ́n; ó sì fi Belteshatsar sí Daniel, àti Shadrak sí Hananyah, àti Meshak sí Mishael, àti Abed-Nego sí Azaryah.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "fi orúkọ tuntun kan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Olú-ògá"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "àwọn agùntàn-ọba"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "orúkọ tuntun"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "sí Daniel"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Belteshatsar"
+    },
+    {
+      "surface": "ולחנניה",
+      "gloss": "àti sí Hananyah"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Shadrak"
+    },
+    {
+      "surface": "ולמישאל",
+      "gloss": "àti sí Mishael"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshak"
+    },
+    {
+      "surface": "ולעזריה",
+      "gloss": "àti sí Azaryah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Abed"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    }
+  ],
+  "timestamp": "2026-08-23T04:46:27.119709941Z",
+  "model": "glm-5.3"
+}

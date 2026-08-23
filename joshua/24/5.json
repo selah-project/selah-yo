@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Mo sì fi ránṣẹ́ ⟨את⟩ Moshe àti ⟨את⟩ Aharon, mo sì lu ⟨את⟩ Mitzrayim ní ìyà, bí mo ṣe ṣe ní àárín rẹ̀; lẹ́yìn náà ni mo mú ⟨את⟩yín jáde.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "mo sì fi ránṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "mo sì lu ní ìyà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitzrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mo ṣe ṣe"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ní àárín rẹ̀"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "lẹ́yìn náà"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "mo mú jáde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:52.610118746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Láti fi mọ́ àwọn ọmọ ènìyàn ṣe ìṣẹ̀gbà rẹ̀, àti ọlá ọ̀làlá ìjọba rẹ̀.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "láti fi mọ́"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "ìṣẹ̀gbà rẹ̀"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ọlá sì"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ọ̀làlá"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ìjọba rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:17.821669342Z",
+  "model": "glm-5.3"
+}

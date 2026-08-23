@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 5:16",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ó sì san ⟨את⟩ ohun tí ó ṣẹ̀ nínú ohun mímọ̀ náà padà, ó sì fi ⟨את⟩ ẹ̀kárún-un rẹ̀ kún un, ó sì fún adaríṣà ní ⟨את⟩ rẹ̀; adaríṣà ó sì ṣe ìtanidọ́tàn fún un pẹ̀lú àgbò àṣamọ́ náà, wọn ó sì jì í.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí ó ṣẹ̀ nínú ohun mímọ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ó ṣẹ̀"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nínú"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ohun mímọ̀ náà"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ó sì san ... padà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀kárún-un rẹ̀"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "ẹ̀kárún-un rẹ̀"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ó sì fi ... kún un"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kún un"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ó sì fún ... ní"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rẹ̀ (ìsanàn tí ó fún adaríṣà)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "adaríṣà"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "adaríṣà ó sì"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ṣe ìtanidọ́tàn"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "pẹ̀lú àgbò"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "àṣamọ́ náà"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "wọn ó jì í"
+    }
+  ],
+  "timestamp": "2026-08-22T23:36:17.339490055Z",
+  "model": "glm-5.3"
+}

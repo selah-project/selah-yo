@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ogun rẹ̀ àti àwọn tí a ka papọ̀ wá jẹ́ méje ó lé àádọ́ta ẹgbẹ̀run àti igba ó lé ogójì.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ogun rẹ̀"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "àwọn tí a ka papọ̀"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "méje"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ó lé àádọ́ta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbẹ̀run"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "àti mẹ̀rin"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ógórú-oòrùn (ìgbà mẹ́rin)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:48:57.319646443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 64,
+  "translation": "Àwọn ìlú mímọ́ rẹ di igbó-àijọ, Tsiyon di igbó-àijọ, Yerushalayim di elésẹ̀.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "mímọ́ rẹ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "igbó-àijọ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "igbó-àijọ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "di"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "elésẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:04:34.376165811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 85,
+  "translation": "Ṣé títi láéláé ni ìwọ ó fi ń bínú sí wa? Ṣé ìwọ ó fa ìbínú rẹ gedengbe láti ìran dé ìran?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Ṣé títi láéláé ni"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ó fi ń bínú"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sí wa"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "ó fa ... gedengbe"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ìbínú rẹ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "láti ìran"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dé ìran"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:21.068003383Z",
+  "model": "glm-5.3"
+}

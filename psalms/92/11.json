@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 92,
+  "translation": "Ìwọ sì gbé ọ̀gà mi sókè bí ti ẹranko-igbó lágbára; èmi ti wúwo pẹ̀lú epo tuntun wúwo.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "sì gbé ... sókè"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "bí ti ẹranko-igbó lágbára"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ọ̀gà mi"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ti wúwo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "pẹ̀lú epo"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "tuntun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:30.044491783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 96,
+  "translation": "Nítorí Yahweh tóbi, ó sì tó yíyọ̀ gidigidi; ẹrù ni ó jẹ́ lórí àwọn elohim gbogbo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tóbi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ó sì tó yíyọ̀"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gidigidi"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ẹrù ni ó jẹ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "àwọn elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:16.760632637Z",
+  "model": "glm-5.3"
+}

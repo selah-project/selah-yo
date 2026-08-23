@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 4:7",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Lórí tábìlì ojú náà, wọ́n yóò sá bẹ́gẹd tchelet, wọ́n yóò sí i lórí ⟨את⟩ àwọn àgbàlà, àti ⟨את⟩ àwọn ìgbẹ́rú, àti ⟨את⟩ àwọn kọ̀nkọ̀, àti ⟨את⟩ àwọn ìkòkò ẹ̀jẹ̀-títù; búrẹ́dì àìpẹ́ náà yóò wà lórí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tábìlì"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "wọ́n yóò sá"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "bẹ́gẹd"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tchelet"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "wọ́n yóò sí i lórí"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àgbàlà"
+    },
+    {
+      "surface": "הקערת",
+      "gloss": "àwọn àgbàlà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìgbẹ́rú"
+    },
+    {
+      "surface": "הכפת",
+      "gloss": "àwọn ìgbẹ́rú"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn kọ̀nkọ̀"
+    },
+    {
+      "surface": "המנקית",
+      "gloss": "àwọn kọ̀nkọ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìkòkò ẹ̀jẹ̀-títù"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "àwọn ìkòkò"
+    },
+    {
+      "surface": "הנסך",
+      "gloss": "ẹ̀jẹ̀-títù"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "àti búrẹ́dì"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "àìpẹ́ náà"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:52.450437952Z",
+  "model": "glm-5.3"
+}

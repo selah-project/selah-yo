@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ó sọ̀rọ̀, ìdònkí sì wá, àwọn kòkòrò kéékéé ní gbogbo ààlà wọn.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ó sọ̀rọ̀"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "sì wá"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ìdònkí"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "àwọn kòkòrò kéékéé"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ààlà wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:36.760440302Z",
+  "model": "glm-5.3"
+}

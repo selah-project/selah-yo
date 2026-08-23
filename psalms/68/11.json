@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Ìjọ alãye rẹ gbé inú rẹ̀ dúró; ìwọ, nípa rere rẹ, pèsè fún àwọn aláìní, Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "ìjọ alãye rẹ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "gbé inú rẹ̀ dúró"
+    },
+    {
+      "surface": "בה",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "pèsè"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "nípa rere rẹ"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "fún àwọn aláìní"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:48.448201183Z",
+  "model": "glm-5.3"
+}

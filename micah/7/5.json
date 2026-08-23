@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 7:5",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Má ṣe gbàwọ́ nínú ọrẹ, má ṣe gbẹ́kẹ̀ lé alùfẹ̀; láti ẹni tí ó sùn nínú ìmunrẹ̀, ṣọ́ ihò ẹnu rẹ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "gbàwọ́"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "nínú ọrẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "באלוף",
+      "gloss": "alùfẹ̀"
+    },
+    {
+      "surface": "משכבת",
+      "gloss": "tí ó sùn"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "nínú ìmunrẹ̀"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ṣọ́"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "ihò"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ẹnu rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:12:52.592305987Z",
+  "model": "glm-5.3"
+}

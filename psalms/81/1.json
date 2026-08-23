@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 81,
+  "translation": "Fún olùdarí-orin, lórí Gittith, fún Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí-orin"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "fún Asaf"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:11.804461176Z",
+  "model": "glm-5.3"
+}

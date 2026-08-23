@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 85,
+  "translation": "O gbé àṣìṣe ènìyàn rẹ sókè kúrò, O bò gbogbo ẹṣẹ̀ wọn — Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "O gbé sókè kúrò"
+    },
+    {
+      "surface": "עון",
+      "gloss": "àṣìṣe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ènìyàn rẹ"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "O bò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ẹṣẹ̀ wọn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:24.156145867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Àti tí ó bá tàn ká sí àwọn ní awọ ara, kọ́hẹn yóò sì dá ⟨את⟩ ẹni náà lẹ́wọ̀; ìkọlu ni ó jẹ́.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "àti tí"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "tàn"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "tàn ká"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ní awọ ara"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dá… lẹ́wọ̀"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kọ́hẹn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ẹni náà"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ìkọlu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:39:42.652450051Z",
+  "model": "glm-5.3"
+}

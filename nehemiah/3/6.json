@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 3:6",
+  "book": "nehemiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àti ⟨את⟩ ọ̀nà ìrọ̀lẹ̀ jáde Yeshanah, Yoyada ọmọ Paseach àti Meshullam ọmọ Besodeyah ni ó ṣe mú ipa mọ́; wọn gbé igi ìṣẹ́ rẹ̀ sókè, wọ́n sì ṣẹ́ àwọn ilẹ̀kùn rẹ̀, àwọn ìpa rẹ̀ àti àwọn ẹ̀wọ̀n rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọ̀nà ìrọ̀lẹ̀ jáde",
+      "marks": "ọ̀nà ìrọ̀lẹ̀ jáde"
+    },
+    {
+      "surface": "הישנה",
+      "gloss": "Yeshanah (ti ó ti gbọ́n)"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "ṣe mú ipa mọ́"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseach"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "àti Meshullam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "בסודיה",
+      "gloss": "Besodeyah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "gbé igi ìṣẹ́ rẹ̀ sókè"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "wọ́n sì ṣẹ́"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "àwọn ilẹ̀kùn rẹ̀"
+    },
+    {
+      "surface": "ומנעליו",
+      "gloss": "àti àwọn ìpa rẹ̀"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "àti àwọn ẹ̀wọ̀n rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:02:18.113698409Z",
+  "model": "glm-5.3"
+}

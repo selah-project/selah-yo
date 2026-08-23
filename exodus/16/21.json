@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Wọ́n sì jọ ⟨את⟩ wọ́nyú lálàárùn-ọ́jọ́, lálàárùn-ọ́jọ́, ẹnikẹ́ni nígbà tí ó mu tó, nígbà tí oòrùn gbóná, ó sì tú ká.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "wọ́n sì jọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wọ́nyú (omimi) — lálàárùn-ọ́jọ́"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "lálàárùn-ọ́jọ́"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "lálàárùn-ọ́jọ́"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnikẹ́ni"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "nígbà tí ó mu tó"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "jíjẹ rẹ̀"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "nígbà tí oòrùn gbóná"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "oòrùn"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ó sì tú ká"
+    }
+  ],
+  "timestamp": "2026-08-22T23:20:58.474973531Z",
+  "model": "glm-5.3"
+}

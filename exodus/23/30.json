@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Díẹ̀díẹ̀ ni èmi yóò ṣàjá wọn kúrò níwájú rẹ, títí tí ìwọ yóò fi pọ̀ sí i, tí ìwọ yóò sì jẹ́ oyè ilẹ̀ náà.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "díẹ̀"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "díẹ̀"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "èmi yóò ṣàjá wọn"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kúrò níwájú rẹ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí tí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "ìwọ yóò fi pọ̀ sí i"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "ìwọ yóò sì jẹ́ oyè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:35.688988737Z",
+  "model": "glm-5.3"
+}

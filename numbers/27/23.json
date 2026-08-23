@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ó sì fi ⟨את⟩ ọwọ́ rẹ̀ lé e lórí, ó sì pàṣẹ fún ⟨את⟩ ọn, gẹ́gẹ́ bí Yahweh ti sọ nípa ọwọ́ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "Ó sì fi… lé e lórí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lé e lórí"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "ó sì pàṣẹ fún ọn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nípa ọwọ́"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-23T00:01:58.022214813Z",
+  "model": "glm-5.3"
+}

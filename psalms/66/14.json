@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 66,
+  "translation": "Èyí tí ètè mi ti ṣí síta, ẹnu mi sì ti sọ nígbà ìpèníjà mi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Èyí tí"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "ti ṣí síta"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ètè mi"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "sì ti sọ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nígbà ìpèníjà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:36.684782735Z",
+  "model": "glm-5.3"
+}

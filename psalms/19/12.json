@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Bákan náà, èrùǹgbìn rẹ di olójúṣe náà nípasẹ̀ wọn; nípa ṣíṣe ìṣọ wọn, ìṣẹ̀gun ńlá wà.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bákan náà"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "èrùǹgbìn rẹ"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "di olójúṣe náà"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nípasẹ̀ wọn"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "nípa ṣíṣe ìṣọ wọn"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ìṣẹ̀gun"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ńlá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:35.696541420Z",
+  "model": "glm-5.3"
+}

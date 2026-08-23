@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 56,
+  "translation": "Ní ọjọ́ tí mo bẹ̀rù, èmi, ní ọ̀dọ̀ rẹ ni mo gbẹ́kẹ̀ lé.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Ní ọjọ́"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "tí mo bẹ̀rù"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ní ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "mo gbẹ́kẹ̀ lé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:04.223918495Z",
+  "model": "glm-5.3"
+}

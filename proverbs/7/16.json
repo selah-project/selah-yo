@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 7:16",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Mo ti fi àwọn aṣọ ìdẹ̀bọ́ bo orí ìtẹ́ mi, pẹ̀lú àwọn aṣọ ìkọ̀nta ti a kọ sílẹ̀, ti aṣọ òwú Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "àwọn aṣọ ìdẹ̀bọ́"
+    },
+    {
+      "surface": "רבדתי",
+      "gloss": "mo ti fi … bo"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "orí ìtẹ́ mi"
+    },
+    {
+      "surface": "חטבות",
+      "gloss": "aṣọ ìkọ̀nta ti a kọ sílẹ̀"
+    },
+    {
+      "surface": "אטון",
+      "gloss": "aṣọ òwú"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T04:05:02.035552216Z",
+  "model": "glm-5.3"
+}

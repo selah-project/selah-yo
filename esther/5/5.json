@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ọba sọ pé: Ẹ ṣe kíkía mú ⟨את⟩ Haman láti ṣe ⟨את⟩ ọ̀rọ̀ Esther; Ọba àti Haman sì wá sí àlejò tí Esther ṣe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sọ pé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "ẹ ṣe kíkía"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wá sí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "àti Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "àlejò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    }
+  ],
+  "timestamp": "2026-08-23T04:44:27.801925586Z",
+  "model": "glm-5.3"
+}

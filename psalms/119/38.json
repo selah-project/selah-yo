@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Fún ìránṣẹ́ rẹ, jẹ́ kí ọ̀rọ̀ rẹ dúró ṣinṣin, èyí tí ó jẹ́ ti ẹ̀rù rẹ.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "jẹ́ kí … dúró ṣinṣin"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "fún ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ọ̀rọ̀ rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "ti ẹ̀rù rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:03.102249424Z",
+  "model": "glm-5.3"
+}

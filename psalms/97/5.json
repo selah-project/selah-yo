@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 97,
+  "translation": "Àwọn òkè wú láìró kérégé bí dúkìa, níwájú Yahweh, níwájú Adonai ti gbogbo ayé.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Àwọn òkè"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "bí dúkìa"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "wú láìró kérégé"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:24.393810891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Paroh pe Moshe àti Aharon, ó sì wí pé: Ẹ lọ, ẹ rúbọ fún Elohim yín nínú ⟨ìlẹ̀⟩ náà.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ó pe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "àti Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ẹ lọ"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "ẹ rúbọ"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "fún Elohim yín"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nínú ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:44.450080738Z",
+  "model": "glm-5.3"
+}

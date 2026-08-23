@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Nígbà tí ẹ bá ri ⟨את⟩ ikore ilẹ̀ yín, ẹ má ṣe parí etí pẹpẹ rẹ ní rírí, àti èyí tí ó tù ní ikore rẹ, ẹ má ṣe kó ọ́.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "nígbà tí ẹ bá ri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikore"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ikore"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ilẹ̀ yín"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "parí"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "etí"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "pẹpẹ rẹ"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "ní rírí"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "àti èyí tí ó tù"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ikore rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kó ọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:07.526422887Z",
+  "model": "glm-5.3"
+}

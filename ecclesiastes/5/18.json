@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 5:18",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Bákan náà, ẹni tí Elohim ti fún ní ọrọ̀ àti àwọn ohun-ìní, tí ó sì fi agbára fún un láti jẹ nínú rẹ̀, láti gba ⟨את⟩ ìpín rẹ̀, àti láti yọ nínú iṣẹ́ rẹ̀ — ẹbùn Elohim ni èyí.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "gbogbo ènìyàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ti fún"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ní"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ọrọ̀"
+    },
+    {
+      "surface": "ונכסים",
+      "gloss": "àti àwọn ohun-ìní"
+    },
+    {
+      "surface": "והשליטו",
+      "gloss": "fi agbára fún un"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "láti jẹ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "ולשאת",
+      "gloss": "láti gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìpín rẹ̀"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "ìpín rẹ̀"
+    },
+    {
+      "surface": "ולשמח",
+      "gloss": "àti láti yọ"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "nínú iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "ẹbùn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-23T06:09:54.995070514Z",
+  "model": "glm-5.3"
+}

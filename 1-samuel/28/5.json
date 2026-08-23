@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Shaul sì rí ⟨את⟩ ogun àwọn Pelishti, ó bẹ̀rù, ọkàn rẹ̀ sì tù titàn púpọ̀.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "sì rí"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogun"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Pelishti"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ó bẹ̀rù"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "sì tù titàn"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:56:17.072410245Z",
+  "model": "glm-5.3"
+}

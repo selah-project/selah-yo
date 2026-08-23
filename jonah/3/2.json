@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Dídé, lọ sí Nineveh, ìlú ńlá náà, kí o sì ké ⟨את⟩ ìkínníyàn náà tí èmi ń bá ọ̀ sọrọ̀,",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Dídé"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "kí o sì ké"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "líti rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìkínníyàn náà"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "ìkínníyàn náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ń bá ọ̀ sọrọ̀"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ọ̀dọ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:09:29.804956930Z",
+  "model": "glm-5.3"
+}

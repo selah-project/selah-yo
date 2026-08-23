@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Ó ṣe àwọn ọ̀nà rẹ mọ́ fún Moshe, àwọn iṣẹ́-ìyanu rẹ fún àwọn ọmọ Yisrael.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Ó ṣe … mọ́"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "àwọn ọ̀nà rẹ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "fún Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "àwọn iṣẹ́-ìyanu rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:17.552110560Z",
+  "model": "glm-5.3"
+}

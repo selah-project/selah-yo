@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ìwón ìdá kan, ìwón ìdá kan fún ⟨the⟩ aguntan keere-kọ̀ọ̀kan, fún àwọn aguntan meje.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "ìwón ìdá kan"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ìwón ìdá kan"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "fún aguntan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "keere-kọ̀ọ̀kan"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "fún meje"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "àwọn aguntan"
+    }
+  ],
+  "timestamp": "2026-08-23T00:02:14.920768039Z",
+  "model": "glm-5.3"
+}

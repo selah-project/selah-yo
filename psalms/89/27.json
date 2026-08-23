@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Òun yóò pè Mí: 'Baba mi ni ⟨ìwọ⟩, El mi, àti òkúta ìgbàlà mi.'",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Òun"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "yóò pè Mí"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Baba mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ìwọ⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mi"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "àti òkúta"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ìgbàlà mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:40.879545039Z",
+  "model": "glm-5.3"
+}

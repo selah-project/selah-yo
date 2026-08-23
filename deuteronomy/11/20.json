@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ẹ sì kọ̀ ọ́ sí orí àwọn ìlẹ̀kùn-ògangan ilé yín, àti sí àwọn ọ̀nà-ìwọlé yín.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ẹ sì kọ̀ ọ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "àwọn ìlẹ̀kùn-ògangan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ilé yín"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "àti sí àwọn ọ̀nà-ìwọlé yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:28.974462200Z",
+  "model": "glm-5.3"
+}

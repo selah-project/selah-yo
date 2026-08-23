@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 98,
+  "translation": "Pẹ̀lú ilé ayànjẹ àti ohùn abẹ̀rẹ̀ ewúrẹ́, kí ẹ sọ ọ̀pọ̀lọú fún ọ́wọ́ ọba Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Pẹ̀lú ilé ayànjẹ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "àti ohùn"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "abẹ̀rẹ̀ ewúrẹ́"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "kí ẹ sọ ọ̀pọ̀lọú"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fún ọ́wọ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:24.512235919Z",
+  "model": "glm-5.3"
+}

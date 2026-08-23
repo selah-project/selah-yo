@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Kí alákọ̀bọ sì wo ⟨את⟩ ara láàyè, kí ó sọ ó di aláìmọ́; ara láàyè aláìmọ́ ni; ìrora ni.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kí ó sì wo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "alákọ̀bọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ara láàyè"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "החי",
+      "gloss": "láàyè"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "kí ó sọ ó di aláìmọ́"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "החי",
+      "gloss": "láàyè"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "aláìmọ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ìrora"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:39:08.147575728Z",
+  "model": "glm-5.3"
+}

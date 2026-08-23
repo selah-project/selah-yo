@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Èmí mi wà nínú ọwọ́ mi nígbà gbogbo, ṣùgbọ́n òfin rẹ emi kò gbàgbé.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "èmi mí"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "nínú ọwọ́ mi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ṣùgbọ́n òfin rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "emi gbàgbé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:56.153939426Z",
+  "model": "glm-5.3"
+}

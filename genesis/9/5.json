@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Dájúdájú, ⟨את⟩ ẹjẹ̀ yín — èyí tí ó jẹ́ ìyè yín — ni èmi yóò bèèrè rẹ̀; ní ọwọ́ ẹranko ìyè gbogbo ni èmi yóò bèèrè rẹ̀; àti ní ọwọ́ ènìyàn, ní ọwọ́ ọkùnrin ará rẹ̀, ni èmi yóò bèèrè ⟨את⟩ ẹ̀mí ènìyàn.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "dájúdájú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹjẹ̀ yín"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "ẹjẹ̀ yín"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "èyí tí ó jẹ́ ìyè yín"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "èmi yóò bèèrè rẹ̀"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ní ọwọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ẹranko ìyè"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "èmi yóò bèèrè rẹ̀"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "àti ní ọwọ́"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ní ọwọ́"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ará rẹ̀"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "èmi yóò bèèrè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí ènìyàn"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:54.532106415Z",
+  "model": "glm-5.3"
+}

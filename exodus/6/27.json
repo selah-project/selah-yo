@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àwọn wọnyí ni àwọn tí ó bá Paroh, ọba Mitzrayim, sọ̀rọ̀, láti mú ⟨את⟩ àwọn ọmọ Yisrael jáde kúrò ní Mitzrayim; Moshe ni ìyẹn, àti Aharon.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Àwọn wọnyí"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "àwọn tí ó sọ̀rọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bá"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "láti mú ... jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kúrò ní Mitzrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ìyẹn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "àti Aharon"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:57.017292488Z",
+  "model": "glm-5.3"
+}

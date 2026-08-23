@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Nígbà tí Shaddai fi àwọn ọba sọ́nù níbẹ̀, ẹ jọ yìnrín ní Tsalmón.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "nígbà tí ó fi sọ́nù"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "ẹ jọ yìnrín"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "ní Tsalmón"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:11.938778317Z",
+  "model": "glm-5.3"
+}

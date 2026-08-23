@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Kí gbogbo ayé bẹ̀rù Yahweh; kí gbogbo àwọn olùgbé àgbáyé yàra sínú ẹ̀rù rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "kí … bẹ̀rù"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "kí … yàra sínú ẹ̀rù"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn olùgbé"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "àgbáyé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:28.574340020Z",
+  "model": "glm-5.3"
+}

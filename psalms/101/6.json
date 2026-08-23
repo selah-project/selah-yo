@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 101,
+  "translation": "Ojú mi ⟨yóò wà⟩ sí àwọn olóòtítọ́ ilẹ̀ yìí, láti wá gbé pẹ̀lú mi; ẹnì tí ó ń rìn nínú ọ̀nà títọ́, òun yóò sìn mí.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "sí àwọn olóòtítọ́"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "láti wá gbé"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "pẹ̀lú mi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ń rìn"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nínú ọ̀nà"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "títọ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "yóò sìn mí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:24.771624571Z",
+  "model": "glm-5.3"
+}

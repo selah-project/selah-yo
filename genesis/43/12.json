@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 43:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Ẹ sì mú owó lọ́nà meji nínú ọwọ́ yín; ⟨את⟩ owó náà tí a padà sí nínú ẹnu àwọn àpò yín, ẹ padà á nínú ọwọ́ yín; ó ṣe é jẹ́ àṣìṣe ni.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "àti owó"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "lọ́nà meji"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ẹ mú"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "nínú ọwọ́ yín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "owó náà"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "owó náà"
+    },
+    {
+      "surface": "המושב",
+      "gloss": "tí a padà sí"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "nínú ẹnu"
+    },
+    {
+      "surface": "אמתחתיכם",
+      "gloss": "àwọn àpò yín"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "ẹ padà á"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "nínú ọwọ́ yín"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ó ṣe é"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "àṣìṣe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:12:40.295961992Z",
+  "model": "glm-5.3"
+}

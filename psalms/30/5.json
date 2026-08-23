@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ẹ kọ orin fún Yahweh, àwọn olùfẹ́-olóòtítọ́ rẹ̀, ẹ sì dúpẹ́ nítorí ìrántí mímọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ẹ-kọ-orin-fún"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún-Yahweh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "àwọn-olùfẹ́-olóòtítọ́-rẹ̀"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "ẹ-sì-dúpẹ́"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "nítorí-ìrántí"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mímọ́-rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:54.752136452Z",
+  "model": "glm-5.3"
+}

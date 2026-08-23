@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 3:7",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì lọ, ó sì firanṣẹ́ sí Yehoshafat, ọba Yehuda, ó wí pé, “Ọba Moab ti ṣẹ̀ṣẹ́ sí mi; ṣé o ó náà pẹ̀lú ⟨את⟩ mi lọ sí Moab fún ogun?” Ó sì dáhùn pé, “Èmi yóò gòkè; bí èmi, bí i ọ; bí i ènìyàn mi, bí i ènìyàn rẹ; bí i ẹṣin mi, bí i ẹṣin rẹ.”",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì firanṣẹ́ sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó wí pé"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ti ṣẹ̀ṣẹ́"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "ṣé o ó náà lọ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "pẹ̀lú ⟨את⟩ mi",
+      "marks": "mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "fún ogun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì dáhùn pé"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "èmi yóò gòkè"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "bí èmi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "bí i ọ"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "bí i ènìyàn mi"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "bí i ènìyàn rẹ"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "bí i ẹṣin mi"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "bí i ẹṣin rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T05:52:32.522699126Z",
+  "model": "glm-5.3"
+}

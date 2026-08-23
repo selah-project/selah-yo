@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ra Yisrael jáde, Elohim, kúrò nínú gbogbo ìṣòro rẹ̀.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "ra … jáde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kúrò nínú gbogbo"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ìṣòro rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:54.124570213Z",
+  "model": "glm-5.3"
+}

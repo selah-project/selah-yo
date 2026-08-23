@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 58,
+  "translation": "Rárá o, ní ọkàn yín ẹ ń ṣe ìkọ̀; ní ilẹ̀ ayé, ẹ ń ṣàkàwe ìpa àwọn ọwọ́ yín.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Rárá o"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ní ọkàn"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ìkọ̀"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "ẹ ń ṣe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀ ayé"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìpa"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "àwọn ọwọ́ yín"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "ẹ ń ṣàkàwe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:28.328109780Z",
+  "model": "glm-5.3"
+}

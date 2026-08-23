@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 57,
+  "translation": "Òun ó fi ránṣẹ́ láti ọ̀run, ó sì gbà mí là; ⟨the⟩ Ẹni tí ó ń fi ẹnu mimú mi ṣe ìṣẹ̀lẹ̀ àwî: Selah. Elohim ó fi ránṣẹ́ chesed rẹ̀ àti òtítọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Òun ó fi ránṣẹ́"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "láti ọ̀run"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "ó sì gbà mí là"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ń fi ẹnu ṣe ìṣẹ̀lẹ̀ àwî"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "tí ó ń mimú mi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ó fi ránṣẹ́"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed rẹ̀"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "àti òtítọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:17.306209405Z",
+  "model": "glm-5.3"
+}

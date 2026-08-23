@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Nísinsin yìí, gbọ́, Yaakov ẹrú mi, àti Yisrael, ti mo yàn nínu rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Nísinsin yìí"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ẹrú mi"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "àti Yisrael"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ti mo yàn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nínu rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:57:15.319766986Z",
+  "model": "glm-5.3"
+}

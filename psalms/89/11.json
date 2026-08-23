@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Iwọ ti lu Rahab já gẹ́gẹ́ bí ẹni tí wọ́n ti pa; pẹ̀lú ọwọ́ agbára Rẹ, Iwọ ti sọ àwọn ọ̀tá Rẹ ká.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwọ"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "ti lu ... já"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "bí ẹni tí wọ́n ti pa"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "pẹ̀lú ọwọ́"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "agbára Rẹ"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "ti sọ ... ká"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "àwọn ọ̀tá Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:01.482411667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ọ̀rọ̀ tí ó wá sí Yirmeyahu lati ọ̀dọ̀ Yahweh nípa àwọn ìgbà ọ̀gbẹ́ náà.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wá"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ó wá"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ... ọ̀dọ̀"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "àwọn ìgbà ọ̀gbẹ́ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T02:14:00.581809553Z",
+  "model": "glm-5.3"
+}

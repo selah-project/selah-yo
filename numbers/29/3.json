@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Àti ẹbùn yẹ̀yẹ́ wọn: yàrá-àṣẹ tí a pòò pẹ̀lú epo, ẹ̀rún mẹ́ta fún ọ̀kan nínu máàlù, ẹ̀rún méjì fún agùntàn-àgbo.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "ẹbùn yẹ̀yẹ́ wọn"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "yàrá-àṣẹ"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "tí a pòò"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "pẹ̀lú epo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ẹ̀rún mẹ́wàa"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "fún máàlù"
+    },
+    {
+      "surface": "שני",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ẹ̀rún mẹ́wàa"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "fún agùntàn-àgbo"
+    }
+  ],
+  "timestamp": "2026-08-23T00:02:40.755748685Z",
+  "model": "glm-5.3"
+}

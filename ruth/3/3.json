@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ìwọ sì máa fọ ara rẹ, ki o si fi adìrọ kún ara, ki o si wọ aṣọ rẹ sí ara rẹ, ki o si sọ ara rẹ kalẹ̀ sí àgbàlá náà; má ṣe fi ọ̀kan hàn ọkùnrin náà títí ó fi parí jíjẹ àti mímu.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "máa fọ ara rẹ"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "fi adìrọ kún ara"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "wọ"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "aṣọ rẹ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sí ara rẹ"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "sọ ara rẹ kalẹ̀"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "sí àgbàlá náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "fi ọ̀kan hàn"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ó fi parí"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "jíjẹ"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "àti mímu"
+    }
+  ],
+  "timestamp": "2026-08-23T04:35:19.874816179Z",
+  "model": "glm-5.3"
+}

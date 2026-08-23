@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Yehoshua sì sọ̀ọ́rọ̀ ní àárọ̀, ó sì sún ⟨את⟩ Yisraẹlẹ̀ wá sípasẹ̀ àwọn ìran wọn; ìran Yehuda sì jẹ́ ẹni tí a mú.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "sì sọ̀ọ́rọ̀"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ó sì sún…wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraẹlẹ̀"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹlẹ̀"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "sípasẹ̀ àwọn ìran wọn"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "sì jẹ́ ẹni tí a mú"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-23T00:26:23.445607456Z",
+  "model": "glm-5.3"
+}

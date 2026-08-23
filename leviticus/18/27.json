@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nítorí àwọn ọkùnrin ilẹ̀ náà, àwọn tí ó wà ṣáájú yín, ṣe ⟨את⟩ gbogbo ìkorira wọnyí, ilẹ̀ náà sì diímọ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ìkorira wọnyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "ìkorira"
+    },
+    {
+      "surface": "האל",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "wà ṣáájú yín"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "diímọ́ sì"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:26.943053289Z",
+  "model": "glm-5.3"
+}

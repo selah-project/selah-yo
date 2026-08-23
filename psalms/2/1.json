@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Èjìká ni àwọn orílẹ̀-èdè ṣe rúgbọ́, àwọn ènìyàn sì ń ṣe èrò òfo?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Èjìká"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "ṣe rúgbọ́"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "àti àwọn ènìyàn"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ń ṣe èrò"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "òfo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:18.995245078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Wọ́n sì fi ⟨את⟩ Yahweh sílẹ̀, wọ́n sì ṣe ìjọsìn fún Baal àti fún àwọn Ashtaroth.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "wọ́n sì fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "wọ́n sì ṣe ìjọsìn fún"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "àti fún àwọn Ashtaroth"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:27.879380026Z",
+  "model": "glm-5.3"
+}

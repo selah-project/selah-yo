@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àti ⟨את⟩ ilẹ̀ ilé náà ó bọ́ pẹ̀lú wúrà, ní inú àti ní àtàwà.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ ilé náà"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "ilẹ̀ ilé"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "ó bọ́ (pẹ̀lú wúrà)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ní inú"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "àti ní àtàwà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:13:04.315859769Z",
+  "model": "glm-5.3"
+}

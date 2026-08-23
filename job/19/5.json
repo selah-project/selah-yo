@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 19:5",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Bí ẹ bá gbilẹ̀ lórí mi ní òtítọ́, kí ẹ sì fi ẹ̀gàn mi rí mi lẹ́bi lórí mi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "ní òtítọ́"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "תגדילו",
+      "gloss": "ẹ gbilẹ̀"
+    },
+    {
+      "surface": "ותוכיחו",
+      "gloss": "kí ẹ sì rí mi lẹ́bi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ẹ̀gàn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:22:00.827929657Z",
+  "model": "glm-5.3"
+}

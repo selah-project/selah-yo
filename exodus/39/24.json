@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 39:24",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Wọ́n sì ṣe lórí ìgbanu ẹ̀wù náà àwọn èso rímónì ti àwọ̀ aró, àti ti àwọ̀ aró-pupa, àti ti kùrùnkuru pupa, ti asọ ti a mó kan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Wọ́n sì ṣe"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "ìgbanu"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ẹ̀wù náà"
+    },
+    {
+      "surface": "רמוני",
+      "gloss": "àwọn èso rímónì"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "àwọ̀ aró"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "àti ti àwọ̀ aró-pupa"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "àti ti kùrùnkuru"
+    },
+    {
+      "surface": "שני",
+      "gloss": "pupa"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ti a mó kan"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:41.201662112Z",
+  "model": "glm-5.3"
+}

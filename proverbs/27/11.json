@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 27:11",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ṣe ọmọ tí ó ọgbọ́n mi, kí o lè mú okàn mi dùn; kí n lè dá ẹni tí ó ń bú mi lóhun.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ṣe ọmọ tí ó ọgbọ́n"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "kí o lè mú… dùn"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "okàn mi"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "kí n lè dá… lóhun"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "ẹni tí ó ń bú mi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lóhun"
+    }
+  ],
+  "timestamp": "2026-08-23T04:12:44.892743820Z",
+  "model": "glm-5.3"
+}

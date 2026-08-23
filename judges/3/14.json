@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn ọmọ Yisrael sì ṣe ìṣẹ́bàwí́ fún ⟨את⟩ Eglon ọba Moab fún ọdún méjìdínlógún.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "wọ́n sì ṣe ìṣẹ́bàwí́ fún"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon ọba Moab"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "mẹ́jọ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dínlógún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    }
+  ],
+  "timestamp": "2026-08-23T00:34:21.353301169Z",
+  "model": "glm-5.3"
+}

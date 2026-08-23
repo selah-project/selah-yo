@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Láti gbogbo ọ̀nà búburú ni mo ti pa ẹsẹ̀ mi hin, kí n lè ṣọ́ ọ̀rọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "láti gbogbo"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "mo ti pa ... hin"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ẹsẹ̀ mi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí n lè"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ṣọ́"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ọ̀rọ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:17.851241028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Èmi sì máa yọ ⟨את⟩ ìsẹ̀mgbé Yehuda padà àti ⟨את⟩ ìsẹ̀mgbé Yisrael, èmi sì máa kọ wọn bí àkọ́kọ́.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "èmi-sì-máà-yọ...padà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìsẹ̀mgbé Yehuda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ìsẹ̀mgbé"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ìsẹ̀mgbé Yisrael"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ìsẹ̀mgbé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "èmi-sì-máà-kọ-wọn"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "bí-àkọ́kọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T02:22:56.064239026Z",
+  "model": "glm-5.3"
+}

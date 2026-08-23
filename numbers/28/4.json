@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Àgùntàn kan ni kí o ṣe ní àárọ̀, àgùntàn kejì sì ni kí o ṣe láàrin ìrọ̀lẹ́ méjì.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgùntàn náà"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "àgùntàn náà"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ni kí o ṣe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àgùntàn kejì"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "àgùntàn kejì"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kejì"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ni kí o ṣe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàrin"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ìrọ̀lẹ́ méjì"
+    }
+  ],
+  "timestamp": "2026-08-23T00:02:28.431972244Z",
+  "model": "glm-5.3"
+}

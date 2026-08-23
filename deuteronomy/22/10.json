@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Má ṣe oko pẹ̀lú màlúù àti kẹ́tẹ́kẹ́tẹ́ papọ̀.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "oko"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "pẹ̀lú màlúù"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "àti kẹ́tẹ́kẹ́tẹ́"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "papọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:15:29.870973806Z",
+  "model": "glm-5.3"
+}

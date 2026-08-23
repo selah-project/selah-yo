@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Havel ti àwọn havel, Qohelet wí, ohun gbogbo ni havel.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Havel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ti àwọn havel"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ohun gbogbo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "havel"
+    }
+  ],
+  "timestamp": "2026-08-23T04:44:00.038939895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Wọ́n sì padà, wọ́n sì wá sí En-Mishpat — èyí ni Kadesh — wọ́n sì ṣá ⟨את⟩ gbogbo ilẹ̀ àwọn Amalekite, àti ⟨את⟩ àwọn Amorite tí ó ń gbé ní Hazezon-Tamar.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "wọ́n sì padà"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wọ́n sì wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Mishpat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "èyí ni"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ó ṣá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ilẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ilẹ̀ \/ pàtàkì"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "àwọn Amalekite"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Amorite"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "àwọn Amorite"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "tí ó ń gbé"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "ní Hazezon"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    }
+  ],
+  "timestamp": "2026-08-22T22:58:03.987275531Z",
+  "model": "glm-5.3"
+}

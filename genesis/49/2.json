@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Jọra yín papọ̀, ẹ sì gbọ́, àwọn ọmọ Yaakov; ẹ sì gbọ́ sí Yisrael, baba yín.",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "jọra yín papọ̀"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ẹ sì gbọ́"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ẹ sì gbọ́ sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "baba yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:44.345389253Z",
+  "model": "glm-5.3"
+}

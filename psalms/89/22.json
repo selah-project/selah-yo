@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Ẹni tí ọwọ́ mi yóò dúróṣẹ́ pẹ̀lú rẹ̀; bẹ́ẹ̀ gẹ́gẹ́ ni ìka-ọwọ́ mi yóò fún un ní agbára.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ẹni tí"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "yóò dúróṣẹ́"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bẹ́ẹ̀ gẹ́gẹ́"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "ìka-ọwọ́ mi"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "yóò fún un ní agbára"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:31.999470906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ní orí ogun ẹ̀ka-ìdí àwọn ọmọ Zevulun, Eliav ọmọ Helon.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ní orí"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ẹ̀ka-ìdí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Helon"
+    }
+  ],
+  "timestamp": "2026-08-22T23:52:35.160249409Z",
+  "model": "glm-5.3"
+}

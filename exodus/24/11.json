@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Sí àwọn ọmọ-ìlú ti àwọn ọmọ Yisrael ò fi ọwọ́ rẹ̀ rán; wọ́n sì rí ⟨את⟩ ⟨the⟩ Elohim, wọ́n sì jẹ, wọ́n sì mu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Sí"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "àwọn ọmọ-ìlú"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ti àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò \/ ò"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "fi… rán"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "wọ́n sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "wọ́n sì jẹ"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "wọ́n sì mu"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:32.492092027Z",
+  "model": "glm-5.3"
+}

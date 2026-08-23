@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Òun ni ó gbé ọ̀dọ̀ ọǹ nígbà tí ó sún ìrọ̀run rẹ̀ mọ́ ìjọkòọ lórí omi; òun ni ó ṣe kíkirí ìgọ̀rọ̀ di ọkọ̀ ìjàgun rẹ̀, òun sì ń rìn lórí ìyẹ́ afẹ́fẹ́.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "ó gbé ọ̀dọ̀ ọǹ lórí omi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nínu omi"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "yàrá òkè rẹ̀"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ó sọ di"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "kíkirí ìgọ̀rọ̀"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "ọkọ̀ ìjàgun rẹ̀"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "ó ń rìn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ìyẹ́"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "afẹ́fẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:12.429096897Z",
+  "model": "glm-5.3"
+}

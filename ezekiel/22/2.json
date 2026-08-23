@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ìwọ, ọmọ ènìyàn, ṣé ìwọ yóò dá léhìn, ṣé ìwọ yóò dá léhìn lórí ⟨את⟩ ìlú ẹ̀jẹ̀ èyíkéyìá? Ìwọ yóò sì mọ̀ ọ́n kí ó mọ ⟨את⟩ gbogbo ìbí-ìṣẹ́ rẹ̀",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "ṣé ìwọ yóò dá léhìn"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "ṣé ìwọ yóò dá léhìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìlú ẹ̀jẹ̀ èyíkéyìá"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "ẹ̀jẹ̀ èyíkéyìá"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "ìwọ yóò sì mọ̀ ọ́n kí ó mọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ìbí-ìṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "ìbí-ìṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:43:45.638082350Z",
+  "model": "glm-5.3"
+}

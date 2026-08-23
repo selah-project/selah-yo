@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Òun ń ka iye àwọn ìràwọ̀; ó ń pè gbogbo wọn ní orúkọ wọn.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "ń ka iye"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "àwọn ìràwọ̀"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "gbogbo wọn"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ní orúkọ wọn"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ń pè"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:57.432080057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Èyí tí ó jẹ́ ọ̀rọ̀ Yahweh sí Yirmeyahu wòlyàh, nípa àwọn Falisitì, ṣáájú kí Farao ó lu ⟨את⟩ Gaza.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ó jẹ́"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "wòlyàh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Falisitì"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ṣáájú kí"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ó lu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    }
+  ],
+  "timestamp": "2026-08-23T02:27:13.328674171Z",
+  "model": "glm-5.3"
+}

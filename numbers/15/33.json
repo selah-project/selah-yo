@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Wọ́n sì mú un wá — àwọn tí ó rí i ⟨nígbà tí⟩ ó ń kó igbọ́ — wá sí ọ̀dọ̀ Moshe, àti sí ọ̀dọ̀ Aharon, àti sí ọ̀dọ̀ gbogbo àwọn ìjọ.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "Wọ́n sì mú un wá"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "un"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "àwọn tí ó rí i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "i"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "ó ń kó igbọ́"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "igbọ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí ọ̀dọ̀"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí ọ̀dọ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "àwọn ìjọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:56:28.543751654Z",
+  "model": "glm-5.3"
+}

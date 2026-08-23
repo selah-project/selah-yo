@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Àti pé pẹ̀lú ⟨את⟩ ọkùnrin má ṣe sùn lọ ní sísun obìnrin; ìṣẹ́gùn ni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti pé pẹ̀lú ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "sùn lọ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ní sísun"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "obìnrin"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ìṣẹ́gùn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:53.888650545Z",
+  "model": "glm-5.3"
+}

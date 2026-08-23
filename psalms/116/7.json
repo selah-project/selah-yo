@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Dà padà, ọkàn mi, sí ìsinmi rẹ; nítorí Yahweh ti ṣe ohun rere fún ọ.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Dà padà"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "sí ìsinmi rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ti ṣe ohun rere"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "fún ọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:58.777878906Z",
+  "model": "glm-5.3"
+}

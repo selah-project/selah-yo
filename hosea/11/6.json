@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Idà sì ń pa ní àwọn ìlú rẹ̀, ó sì parun àwọn ọ̀nà ìdènà rẹ̀, ó sì jẹ ó lọ nítorí ìmọ̀ràn wọn.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "sì ń pa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "Idà"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "ní àwọn ìlú rẹ̀"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "ó sì parun"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "àwọn ọ̀nà ìdènà rẹ̀"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ó sì jẹ ó lọ"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "nítorí ìmọ̀ràn wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:04:16.552993424Z",
+  "model": "glm-5.3"
+}

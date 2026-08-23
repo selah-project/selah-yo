@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àwa yóò yọ̀ sínú ní ìgbàlà rẹ, àti ní orúkọ Elohim wa àwa yóò gbé flags sókè; Yahweh yóò parọ́n gbogbo ìbéèrè rẹ.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "Àwa yóò yọ̀ sínú"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ní ìgbàlà rẹ"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "àti ní orúkọ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "àwa yóò gbé flags sókè"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "yóò parọ́n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "ìbéèrè rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:49.507173736Z",
+  "model": "glm-5.3"
+}

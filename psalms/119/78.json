@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Jẹ́ kí àwọn àsànwọ̀n dígbà, nítorí pé wọ́n ṣe ẹ̀ṣẹ̀ pẹ̀lú òtítọ̀-ẹ̀ké sí mi; èmi yóò sọ̀rọ̀ sọ́kọ̀ nínú àwọn òfin-àṣẹ rẹ.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Jẹ́ kí… dígbà"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "àwọn àsànwọ̀n"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "pẹ̀lú òtítọ̀-ẹ̀ké"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "wọ́n ṣe ẹ̀ṣẹ̀ sí mi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "yóò sọ̀rọ̀ sọ́kọ̀"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "nínú àwọn òfin-àṣẹ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:28.989882067Z",
+  "model": "glm-5.3"
+}

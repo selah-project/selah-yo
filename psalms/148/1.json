@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 148,
+  "translation": "Ẹyin Halleluyah — Ẹ yin Yah, ẹ yin Yahweh láti inú ⟨את⟩ àwọn ọ̀run, ẹ y ín fún òun ní àwọn ipò gíga.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ẹ yin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ẹ yin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ẹ yín fún òun"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ní àwọn ipò gíga"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:24.916479565Z",
+  "model": "glm-5.3"
+}

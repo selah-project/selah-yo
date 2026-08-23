@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ojìjí ma ń ṣíṣẹ́ nípa ìránṣẹ́ Yahweh, yányanjú láyika àwọn tí ó ń bẹ́rà lára rẹ̀, ó sì nín gbà wọn là.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "ma ń ṣíṣẹ́"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ìránṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "àwọn tí ó ń bẹ́rà lára rẹ̀",
+      "gloss": ""
+    },
+    {
+      "surface": "סביב",
+      "gloss": "yányanjú láyika"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "àwọn tí ó ń bẹ́rà lára rẹ̀"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "ó sì nín gbà wọn là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:07.659572792Z",
+  "model": "glm-5.3"
+}

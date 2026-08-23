@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Kíyèsi, èmi ń lu sí yín ⟨את⟩ irúgbìn yín, èmi óò tú igbẹ́ lórí ojú yín, igbẹ́ àwọn ọdún ayẹyẹ yín, ó sì gbé ⟨את⟩ yin sí i.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Kíyèsi, èmi"
+    },
+    {
+      "surface": "גער",
+      "gloss": "ń lu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sí yín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irúgbìn yín"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "irúgbìn yín"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "èmi óò tú"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "igbẹ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "ojú yín"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "igbẹ́"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "àwọn ọdún ayẹyẹ yín"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ó sì gbé"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yin",
+      "marks": "yin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sí i"
+    }
+  ],
+  "timestamp": "2026-08-23T03:21:56.930163623Z",
+  "model": "glm-5.3"
+}

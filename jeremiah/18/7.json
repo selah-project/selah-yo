@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 18:7",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ní ìgbà díẹ̀, mo máa ń bá orílẹ̀-èdè kan sọ̀rọ̀, àti pẹ̀lú ìjọba kan, láti fà yọ àti láti wó á lú, àti láti pa á run:",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "Ní ìgbà díẹ̀"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mo máa ń sọ̀rọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "orílẹ̀-èdè kan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti nípa"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ìjọba kan"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "láti fà yọ"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "àti láti wó lú"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "àti láti pa run"
+    }
+  ],
+  "timestamp": "2026-08-23T02:15:50.497546220Z",
+  "model": "glm-5.3"
+}

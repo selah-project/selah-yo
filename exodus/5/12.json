@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àwọn ènìyàn náà sì tàn káàkiri ní gbogbo ilẹ̀ Mitsrajim, láti kó kúkúta fún pagba.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "sì tàn káàkiri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "láti kó"
+    },
+    {
+      "surface": "קש",
+      "gloss": "kúkúta"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "fún pagba"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:09.263838350Z",
+  "model": "glm-5.3"
+}

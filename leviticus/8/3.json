@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "kí o sì gbàjọ ⟨את⟩ gbogbo ìjọ náà pọ̀ sí ọ̀nà-ìgbà Ohel Mo'ed.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kí o sì gbàjọ ⟨את⟩",
+      "marks": "gbogbo ìjọ náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "gbàjọ pọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọ̀nà-ìgbà"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mo'ed"
+    }
+  ],
+  "timestamp": "2026-08-22T23:36:46.237301912Z",
+  "model": "glm-5.3"
+}

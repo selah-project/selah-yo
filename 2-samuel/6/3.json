@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 6:3",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Wọ́n sì fi ⟨את⟩ ágùn Elohim gun ọkọ̀ tuntun kan, wọ́n sì gbé e sókè láti ilé Avinadav tí ó wà ní Gibea; Uza àti ará rẹ̀, àwọn ọmọ Avinadav, ni wọ́n ń ṣàkóso ⟨את⟩ ọkọ̀ tuntun náà.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "wọ́n sì fi gun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ágùn Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ágùn"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "ọkọ̀"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "tuntun"
+    },
+    {
+      "surface": "וישאהו",
+      "gloss": "wọ́n sì gbé e sókè"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "láti ilé"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "àti ará rẹ̀"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "ń ṣàkóso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkọ̀ tuntun náà"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ọkọ̀ náà"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "tuntun"
+    }
+  ],
+  "timestamp": "2026-08-23T01:00:21.428140725Z",
+  "model": "glm-5.3"
+}

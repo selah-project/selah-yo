@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Yahweh, gbọ́ ìbéèrò mi, kí ìkígbe mi sì dé ọ̀dọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ìbéèrò mi"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "kí ìkígbe mi sì"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dé ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "dé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:02.734004880Z",
+  "model": "glm-5.3"
+}

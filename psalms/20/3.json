@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ki ó rán ìrànlọ́wọ́ rẹ jáde láti ⟨ìyè⟩-mímọ́, kí ó sì tì ọ́ lẹ́yìn láti Tsiyoni.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ki ó rán … jáde"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "ìrànlọ́wọ́ rẹ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "láti ⟨ìyè⟩-mímọ́"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "kí ó sì … láti Tsiyoni"
+    },
+    {
+      "surface": "יסעdḵā",
+      "gloss": "tì ọ́ lẹ́yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:22.458153357Z",
+  "model": "glm-5.3"
+}

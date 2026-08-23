@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Àwọn ará ìdílé rẹ̀ sì lọ láti bọ́ ⟨את⟩ àwọn àgùntàn baba wọn ní Shékem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "sì lọ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "àwọn ará ìdílé rẹ̀"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "láti bọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àgùntàn"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "àwọn àgùntàn"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baba wọn"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "ní Shékem"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:18.243274055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ṣùgbọ́n ẹ kọ̀ láti gbéga, ẹ sì gbéyàwọ́ sí ⟨את⟩ ẹnu Yahweh Elohim yín.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n kọ̀"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "ẹ kọ̀ láti"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "gbéga"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "ẹ sì gbéyàwọ́ sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹnu Yahweh Elohim yín"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:57.433453761Z",
+  "model": "glm-5.3"
+}

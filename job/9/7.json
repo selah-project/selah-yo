@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ẹni tí ń sọ fún ⟨את⟩ òòrùn, kí ó má yọ; tí ń fi ìdì dé ⟨את⟩ àwọn ìràwọ́.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Ẹni tí ń sọ fún"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "Òòrùn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí ó má"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "yọ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "tí ń fi ìdì dé"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "àwọn ìràwọ́"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "dé (bí ìdì)"
+    }
+  ],
+  "timestamp": "2026-08-23T04:18:13.661525012Z",
+  "model": "glm-5.3"
+}

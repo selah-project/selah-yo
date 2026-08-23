@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ìwọ sì, gbé ọ̀pá rẹ sókè, té ọwọ́ rẹ sí oún lábé orí omi náà, kí o sì bu ọ́ ká; àwọn ọmọ Yisrael sì jẹ́ kí wọ́n wọ inú omi náà, lórí ilẹ̀ gbígbẹ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ìwọ sì"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "gbé… sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀pá rẹ"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "ọ̀pá rẹ"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "té"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí oún lábé orí"
+    },
+    {
+      "surface": "הים",
+      "gloss": "omi náà"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "kí o sì bu ọ́ ká"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kí wọ́n wọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inú"
+    },
+    {
+      "surface": "הים",
+      "gloss": "omi náà"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "lórí ilẹ̀ gbígbẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:20:15.729835131Z",
+  "model": "glm-5.3"
+}

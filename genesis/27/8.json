@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Nítorí náà ní àńọ̀, gbọ́ ohùn mi, sí ⟨ìjọra⟩ tí èmi ń pa ⟨את⟩ iwo lẹ́ṣẹ̀.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Nítorí náà ní àńọ̀"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ mi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sí ⟨ìjọra⟩ tí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ń pa ... lẹ́ṣẹ̀"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo"
+    }
+  ],
+  "timestamp": "2026-08-23T05:38:56.013618088Z",
+  "model": "glm-5.3"
+}

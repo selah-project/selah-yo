@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Èmi yóò gbé O ga, Yahweh, nítorí tí O ti fa mí sókè láti inú iho, kí O sì má jẹ́ kí àwọn ọ̀tá mi yọ̀ sí mi lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "Èmi yóò gbé O ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "O ti fa mí sókè (gẹ́gẹ́ bí ìkókó omi)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí O sì má jẹ́ kí"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "yọ̀"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sí mi lọ́wọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:35.328036991Z",
+  "model": "glm-5.3"
+}

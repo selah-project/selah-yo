@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Èdùnmárò ayé Peleg jẹ́ ọgbọ̀n ọdún; ó sì bí ⟨את⟩ Reu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ó ṣe àyẹ̀wò ayé — ṣàṣẹ́lẹ̀"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ọgbọ̀n"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨⟨את⟩⟩",
+      "marks": "Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:25.338283523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Àwọn tí ó gbẹ́yìn lé ọrọ̀ wọn, àti tí wọ́n ń fúnra wọn láraya nínú ìpọ̀nju ọrọ̀-rere wọn.",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "Àwọn tí ó gbẹ́yìn lé"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ọrọ̀ wọn"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "àti nínú ìpọ̀nju"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "ọrọ̀-rere wọn"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "wọ́n ń fúnra wọn láraya"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:25.573807960Z",
+  "model": "glm-5.3"
+}

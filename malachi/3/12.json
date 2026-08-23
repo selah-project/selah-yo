@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Gbogbo àwọn orílẹ̀-èdè yóò sì dupẹ́ fún yín ⟨את⟩, nítorí pé ẹ̀yin jẹ́ ilẹ̀ ìnínú olóore, wí ni Yahweh Tsavaot.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "yóò sì dupẹ́ fún"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ẹ jẹ́"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ìnínú olóore"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsavaot"
+    }
+  ],
+  "timestamp": "2026-08-23T03:23:15.907779339Z",
+  "model": "glm-5.3"
+}

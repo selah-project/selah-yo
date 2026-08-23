@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àti fún àwọn Rubeni àti àwọn Gadi mo fún ní láti Gilẹadi títí dé odò Arnoni, àárín odò náà, àti àlà, títí dé odò Yaboku, odò tí ó jẹ́ àlà àwọn ọmọ Amọni.",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "Àti fún àwọn Rubeni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "àti àwọn Gadi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mo fún"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilẹadi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "odò"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnoni"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "àárín"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "odò náà"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "àti àlà"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yaboku"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "odò náà"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "àlà"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amọni"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:18.557021661Z",
+  "model": "glm-5.3"
+}

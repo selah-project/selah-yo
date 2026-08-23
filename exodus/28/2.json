@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ìwọ ó sì ṣe àwọn aṣọ mímọ́ fún Aharon arákùnrin rẹ, fún ọlá àti fún ẹwà.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ìwọ ó sì ṣe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "àwọn aṣọ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "fún Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "arákùnrin rẹ"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "fún ọlá"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "àti fún ẹwà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:02.666969448Z",
+  "model": "glm-5.3"
+}

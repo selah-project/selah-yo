@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Má ṣe jẹ́ kí ẹni tí a lù pa padà lọ ní àìnílọ́kàn; kí ẹni tí ó kẹ̀rẹ̀ àti aláìní ṣe ìyìn fún Orúkọ rẹ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe jẹ́ kí"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "padà lọ"
+    },
+    {
+      "surface": "דך",
+      "gloss": "ẹni tí a lù pa"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "ní àìnílọ́kàn"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ẹni tí ó kẹ̀rẹ̀"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "àti aláìní"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ṣe ìyìn"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Orúkọ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:09.235186178Z",
+  "model": "glm-5.3"
+}

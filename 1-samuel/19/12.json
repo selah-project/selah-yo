@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Mikal sì sọ ⟨את⟩ Dawidi sí i lọ sókè-àlà fi ẹnu-fẹ̀rẹ́té; ó sì lọ, ó sì sálọ̀, ó sì yè.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "sì sọ… sí i lọ"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "fi ẹnu-fẹ̀rẹ́té"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "ẹnu-fẹ̀rẹ́té náà"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ó sì sálọ̀"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ó sì yè"
+    }
+  ],
+  "timestamp": "2026-08-23T00:51:10.191885624Z",
+  "model": "glm-5.3"
+}

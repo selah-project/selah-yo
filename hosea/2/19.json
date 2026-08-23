@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Èmi yóò sì yọ ⟨את⟩ àwọn orúkọ Baalim kúrò nínú ẹnu rẹ̀; wọn kì yóò sì tún rántí wọn ní àwọn orúkọ wọn mọ́.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Èmi yóò sì yọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn orúkọ Baalim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "àwọn orúkọ"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "kúrò nínú ẹnu rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì yóò sì tún"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "rántí"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "ní àwọn orúkọ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:01:42.299091467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 86,
+  "translation": "Ṣọ́ ọkàn mi, nítorí tí mo jẹ́ ẹni tí ó léèmeji; gba èrú rẹ là, iyẹ́ wo, Elohim mi, ẹni tí ó gbẹ́yìn lé ọ.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "ṣọ́"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ẹni tí ó léèmeji"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo jẹ́"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "gba là"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "èrú rẹ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iyẹ́ wo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "ẹni tí ó gbẹ́yìn lé"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:32.644401120Z",
+  "model": "glm-5.3"
+}

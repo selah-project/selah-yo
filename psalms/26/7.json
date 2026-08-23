@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ní láti gbọ́ ohùn ìdúpọ́, àti láti sọ gbogbo iṣẹ́ ìyanu rẹ nínú ìtàn.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "Ní láti gbọ́"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ìdúpọ́"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "àti láti sọ nínú ìtàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "iṣẹ́ ìyanu rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:19.766625192Z",
+  "model": "glm-5.3"
+}

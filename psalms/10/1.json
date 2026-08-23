@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Èéti Yahweh ń dúró ní ìjìnnà, tí ìwọ ń fi ara pamọ́ ní àwọn àsìkò ìpànìyàn?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "èéti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ń dúró"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "ní ìjìnnà"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "ń fi ara pamọ́"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ní àwọn àsìkò"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ìpànìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:27.232245542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Adonai ti sọ pé: Láti Bashan ni èmi yóò da ⟨wọn⟩ padà; yóò sì da ⟨wọn⟩ padà láti àwọn ijìn ilẹ̀ odò.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ti sọ pé"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "láti Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "yóò da padà"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "yóò da padà"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "láti àwọn ijìn ilẹ̀"
+    },
+    {
+      "surface": "ים",
+      "gloss": "odò"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:47.312929613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Ọwọ́ ọ̀tún Yahweh gòkè; ọwọ́ ọ̀tún Yahweh ń ṣe iṣẹ́ ìgboyà.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "ọwọ́ ọ̀tún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "gòkè"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ọwọ́ ọ̀tún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "iṣẹ́ ìgboyà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:32.018412245Z",
+  "model": "glm-5.3"
+}

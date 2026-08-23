@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Àti ní gbogbo ọwọ́ alágbára, àti ní gbogbo ẹ̀rù ńlá tí Moshe ṣe níwájú ojú gbogbo Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "àti ní gbogbo"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "àti ní gbogbo"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "ẹ̀rù"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "níwájú ojú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T00:22:41.373326399Z",
+  "model": "glm-5.3"
+}

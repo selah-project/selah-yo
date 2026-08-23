@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 52,
+  "translation": "Ó sì bá ⟨את⟩ rẹ̀ sọ̀rọ̀ dáadáa, ó sì gbé ⟨את⟩ ìtẹ́ rẹ̀ sókè lọ sí ìtẹ́ àwọn ọba tí ⟨את⟩ wà pẹ̀lú rẹ̀ ní Babel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ó sì bá...sọ̀rọ̀"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rẹ̀"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "dáadáa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìtẹ́ rẹ̀"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ìtẹ́ rẹ̀"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "sókè lọ sí"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "ìtẹ́"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "ní Babel"
+    }
+  ],
+  "timestamp": "2026-08-23T02:34:16.612408453Z",
+  "model": "glm-5.3"
+}

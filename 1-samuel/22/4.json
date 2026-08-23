@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ó sì mú ⟨את⟩ ojú ọba Moav wá, wọ́n sì gbé pẹ̀lú rẹ̀ gbogbo ọjọ́ tí Dawid wà nínú àárín-ogun-ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ó sì mú... wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú ọba Moav"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wọ́n sì gbé"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "היות",
+      "gloss": "tí... wà"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "nínú àárín-ogun-ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:54:05.526315854Z",
+  "model": "glm-5.3"
+}

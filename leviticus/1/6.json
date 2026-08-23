@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Kí ó sì yọ ⟨את⟩ ahọ́ ẹranko náà kúrò, kí ó sì gé ⟨את⟩ i lọ́nà sí àwọn ipín rẹ̀.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "kí ó sì yọ ahọ́ kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹranko náà"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹranko ẹrù sílẹ̀"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "kí ó sì gé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "i"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "sí àwọn ipín rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:01.342422099Z",
+  "model": "glm-5.3"
+}

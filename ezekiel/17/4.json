@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ó ge ⟨את⟩ orí ìrọ̀ rẹ̀ tuntun lọ, ó sì gbé e lọ sí ilẹ̀ Kenaanu; ní ìlú oníṣòwò ló gbé e sí.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orí ìrọ̀ rẹ̀ tuntun"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "ìrọ̀ rẹ̀ tuntun"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "ó ge lọ"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ó sì gbé e lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ní ìlú"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "oníṣòwò"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ló gbé e sí"
+    }
+  ],
+  "timestamp": "2026-08-23T02:40:33.963184638Z",
+  "model": "glm-5.3"
+}

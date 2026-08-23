@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ó sì dídé, ó sì lọ; Yihonatan sì wọ inú ìlú náà.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ó sì dídé"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Yihonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ó wọ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:52:51.391960914Z",
+  "model": "glm-5.3"
+}

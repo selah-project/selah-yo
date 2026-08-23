@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó gbọ̀n lẹ́wẹ̀ẹ́ níwájú òòrùn, àti lórí ọgbìn rẹ̀ ni ọmọ-ewé rẹ̀ ti ń jáde.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "gbọ̀n lẹ́wẹ̀ẹ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "òòrùn"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "ọgbìn rẹ̀"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "ọmọ-ewé rẹ̀"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ń jáde"
+    }
+  ],
+  "timestamp": "2026-08-23T04:17:27.070073322Z",
+  "model": "glm-5.3"
+}

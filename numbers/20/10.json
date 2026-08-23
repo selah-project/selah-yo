@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 20:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Moshe àti Aharon sì papọ̀ gbé ⟨את⟩ àwọn ènìyàn jáde síwájú àpáta náà, ó sì wí fún wọn pé, ẹ gbọ́, ẹnu àṣẹ, àwọn olẹ́tẹ̀: ṣé láti inú àpáta yìí ni kí a lè mú omi jáde fún yín?",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "sì papọ̀ gbé…jáde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "àti Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "àwọn ènìyàn (ìpàrọwọ̀)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "פני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "àpáta náà"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ẹ gbọ́"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ẹnu àṣẹ"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "àwọn olẹ́tẹ̀"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ṣé láti"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "àpáta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "נוציא",
+      "gloss": "kí a lè mú…jáde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:58:19.538920893Z",
+  "model": "glm-5.3"
+}

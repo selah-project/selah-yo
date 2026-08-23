@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ó sì di ⟨את⟩ Tofet ní àlẹ́, tí ó wà ní ihò àwọn ọmọ Hinnom, kí ènìyàn má ṣe le ⟨את⟩ ọmọkùnrin rẹ̀ àti ⟨את⟩ ọmọbìnrin rẹ̀ kọjá nínú iná fún Molech.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "ó sì di ní àlẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "ní ihò"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kí ... má ṣe"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "le ... kọjá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọkùnrin rẹ̀"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọkùnrin rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọbìnrin rẹ̀"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ọmọbìnrin rẹ̀"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nínú iná"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fún Molech"
+    }
+  ],
+  "timestamp": "2026-08-23T01:38:12.430454921Z",
+  "model": "glm-5.3"
+}

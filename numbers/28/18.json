@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ní ọjọ́ kìíní ⟨ṣe⟩ ìpè mímọ́; iṣẹ́ iṣẹ́-ọwọ́ gbogbo èyítí kì í ṣe ìjìnnà-síṣe ẹ̀yin kò gbọdọ̀ ṣe.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ní ọjọ́ kìíní"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kìíní"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ìpè mímọ́"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "iṣẹ́ iṣẹ́-ọwọ́"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "iṣẹ́ ìjìnnà-síṣe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò gbọdọ̀"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ẹ̀yin kò gbọdọ̀ ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T00:02:31.643370786Z",
+  "model": "glm-5.3"
+}

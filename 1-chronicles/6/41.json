@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Wọ́n sì fún Kalebu ọmọ Yefunneh ní ⟨את⟩ pápá ìlú náà àti ⟨את⟩ àgbàlá rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pápá ìlú náà"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pápá"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àgbàlá rẹ̀"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "àgbàlá rẹ̀"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "wọ́n fún…ní"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunneh"
+    }
+  ],
+  "timestamp": "2026-08-23T05:10:32.108177936Z",
+  "model": "glm-5.3"
+}

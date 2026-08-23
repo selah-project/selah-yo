@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 2:10",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Òun kò mọ̀ pé èmi ni mo ti fún un ní ààrún, tírùùsù tuntun àti epo; èmi ni mo sọ ọ̀wọ́ pọ̀ fún un; wọ́n sì ṣe wúrà fún Baal.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mo ti fún un ní"
+    },
+    {
+      "surface": "לה",
+      "gloss": "un"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "ààrún"
+    },
+    {
+      "surface": "והתירוש",
+      "gloss": "tírùùsù tuntun"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "epo"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ọ̀wọ́"
+    },
+    {
+      "surface": "הרביתי",
+      "gloss": "mo sọ pọ̀"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wọ́n ṣe"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "fún Baal"
+    }
+  ],
+  "timestamp": "2026-08-23T03:00:56.037622668Z",
+  "model": "glm-5.3"
+}

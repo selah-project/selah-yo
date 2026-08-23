@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Ó sì dí lọ́dọ̀̀nà yẹn, ó sì gba ⟨את⟩ àwọn aya rẹ̀ méjì, àti ⟨את⟩ àwọn ẹrú-obìnrin rẹ̀ méjì, àti ⟨את⟩ àwọn ọmọ rẹ̀ mọ́kànlá, ó sì kọja ⟨את⟩ ààbò odò Yabboq.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ó sì dí"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "lọ́dọ̀̀nà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn aya rẹ̀ méjì"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "àwọn aya rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ẹrú-obìnrin rẹ̀ méjì"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "àwọn ẹrú-obìnrin rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀ mọ́kànlá"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mọ́kàn"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-lá (ọ̀kànlá)"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ó sì kọja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ààbò odò Yabboq"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ààbò"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabboq"
+    }
+  ],
+  "timestamp": "2026-08-22T23:05:59.102143212Z",
+  "model": "glm-5.3"
+}

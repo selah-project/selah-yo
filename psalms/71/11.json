@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Wí pé, Elohim ti fi sílẹ̀; Ẹ̀yin kí i lẹ́yìn, ẹ fi mú, nítorí tí aìní ẹnití ó gbà.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ti fi (ẹ̀) sílẹ̀"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ẹ̀yin kí i lẹ́yìn"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "ẹ fi mú (ẹ̀)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aìní"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ẹnití ó gbà (ààbò)"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:19.587481406Z",
+  "model": "glm-5.3"
+}

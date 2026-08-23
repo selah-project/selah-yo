@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àwọn ọmọ Elohim sì rí ⟨את⟩ àwọn ọmọbìnrin ènìyàn, pé wọ́n dara; wọ́n sì gba àwọn obìnrin yọ fún ara wọn láti gbogbo tí wọ́n yan.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "wọ́n sì rí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọbìnrin ènìyàn"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "àwọn ọmọbìnrin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "èniyàn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "dara"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "wọ́n sì gba yọ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún ara wọn"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "àwọn obìnrin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "láti gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "wọ́n yan"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:56.699344019Z",
+  "model": "glm-5.3"
+}

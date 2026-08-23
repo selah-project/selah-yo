@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Yahweh, òun ni agbára fún wọn, òun ni ìgbàlà ààbò fún Mashiach rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "agbára"
+    },
+    {
+      "surface": "למו",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "àti ìgbàlà ààbò"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiach rẹ̀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:53.668348578Z",
+  "model": "glm-5.3"
+}

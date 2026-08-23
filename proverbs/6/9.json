@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Títí dé ìgbà wo ni ìwọ, aláìṣiṣẹ́, yóò ṣùn? Ìgbà wo ni ìwọ yóò dìde kúrò nínú orun rẹ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ìgbà wo"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "aláìṣiṣẹ́"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ìwọ yóò ṣùn"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ìgbà wo"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ìwọ yóò dìde"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "kúrò nínú orun rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:04:16.909969663Z",
+  "model": "glm-5.3"
+}

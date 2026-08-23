@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Kí ó sì pa ⟨את⟩ ọmú-málùù níwájú Yahweh; kí àwọn ọmọ Aharon, àwọn àlùfáà, sì mú ⟨את⟩ ẹ̀jẹ̀ wá, kí wọ́n sìṣá ⟨את⟩ ẹ̀jẹ̀ lórí pẹpẹ̀ ní àlàárùn-ún, tí ó wà ní ẹnu-ọ̀nà ahọ́ ìpàdé.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "kí ó sì pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmú-málùù"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmú"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "málùù"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "kí wọ́n sì mú wá"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀jẹ̀"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ẹ̀jẹ̀"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "kí wọ́n sìṣá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀jẹ̀"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ẹ̀jẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ̀"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní àlàárùn-ún"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ẹnu-ọ̀nà"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:01.342060123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Bẹ́ẹ̀ ni rere rẹ ṣe pọ̀ tí ó pa mọ́ fún àwọn tí ó ń bẹ̀rù̀ rẹ, tí ó ṣe fún àwọn tí ó ń gbẹ́bọ́ sí ọ́ níwájú àwọn ọmọ ènìyàn!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pọ̀"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "rere rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "ó pa mọ́"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "fún àwọn tí ó ń bẹ̀rù̀ rẹ"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "fún àwọn tí ó ń gbẹ́bọ́ sí ọ́"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sí ọ́"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:46.606346780Z",
+  "model": "glm-5.3"
+}

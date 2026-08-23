@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 30:22",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ẹ ó sì sẹ̀ ⟨את⟩ ìdídà àwọn ère ìkọ́kọ́ fàdákà rẹ, àti ⟨את⟩ ìdídà ohun-èlè tí wọ́n rọ̀, wúrà rẹ; ẹ ó sì sọ wọn ká, gẹ́gẹ́ bí aṣẹ́ ìsẹ́; 'Jáde lọ,' ni ẹ ó wí fún un.",
+  "tokens": [
+    {
+      "surface": "וטמאתם",
+      "gloss": "ẹ ó sì sẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdídà àwọn ère ìkọ́kọ́ fàdákà rẹ"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "ìdídà (tí wọ́n fi wúrà\/fàdákà bọ́)"
+    },
+    {
+      "surface": "פסילי",
+      "gloss": "àwọn ère ìkọ́kọ́"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "fàdákà rẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìdídá ohun-èlè tí wọ́n rọ̀ wúrà rẹ"
+    },
+    {
+      "surface": "אפדת",
+      "gloss": "ìdídá (ìforíṣọ́)"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "ohun-èlè tí wọ́n rọ̀"
+    },
+    {
+      "surface": "זהבך",
+      "gloss": "wúrà rẹ"
+    },
+    {
+      "surface": "תזרם",
+      "gloss": "ẹ ó sì sọ wọn ká"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "aṣẹ́ ìsẹ́ (tí obìnrin ń ṣe)"
+    },
+    {
+      "surface": "צא",
+      "gloss": "jáde"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ẹ ó wí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    }
+  ],
+  "timestamp": "2026-08-23T01:51:24.250674181Z",
+  "model": "glm-5.3"
+}

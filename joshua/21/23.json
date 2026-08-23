@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Àti láti inú ẹ̀yà Dan, ⟨את⟩ Elteqeh àti ⟨את⟩ àgbàlá rẹ̀, ⟨את⟩ Giveton àti ⟨את⟩ àgbàlá rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "àti láti inú ẹ̀yà"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elteqeh"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Elteqeh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àgbàlá rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "àgbàlá rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giveton"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Giveton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àgbàlá rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "àgbàlá rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:29:42.207153300Z",
+  "model": "glm-5.3"
+}

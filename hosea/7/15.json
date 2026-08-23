@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Èmi sì, mo kọ́ wọn ní ẹ̀kọ́, mo fípá mú ẹ̀gbẹ́ wọn, ṣùgbọ́n lódì sí mi ni wọ́n ń gbé ìròyìn búburú gbé.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Èmi sì"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "mo kọ́ wọn ní ẹ̀kọ́"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "mo fípá mú"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "ẹ̀gbẹ́ wọn"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "lódì sí mi"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "wọ́n ń gbé ìròyìn gbé"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:02:17.169452461Z",
+  "model": "glm-5.3"
+}

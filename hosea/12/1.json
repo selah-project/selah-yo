@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Efrajim yí mi ká ní òdààbọ̀, àti ilé Yisraeli ní ètan; Yehuda sì tún ń rìn rọ̀ pẹ̀lú El, àti pẹ̀lú ⟨àwọn⟩ mímọ́ tí ó ṣe àmọ̀dájú.",
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "yí mi ká"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "ní òdààbọ̀"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "àti ní ètan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehuda sì"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tún"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ń rìn rọ̀"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "àti pẹ̀lú"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "tó ṣe àmọ̀dájú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:03:29.527492080Z",
+  "model": "glm-5.3"
+}

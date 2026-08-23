@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 2:12",
+  "book": "malachi",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Yahweh gbọdọ̀ gé ọkùnrin tí ó ṣe é kúrò — ẹni tí ó jí àti ẹni tí ó dáhùn — láti inú àwọn àgọ́ Yaakov, àti ẹni tí ó ń mú ẹbùn wá fún Yahweh gbogbo-ogun.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "gbọdọ̀ gé kúrò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "fún ọkùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "ó ṣe é"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ẹni tí ó jí"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "àti ẹni tí ó dáhùn"
+    },
+    {
+      "surface": "מאהלי",
+      "gloss": "láti inú àwọn àgọ́"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ומגיש",
+      "gloss": "àti ẹni tí ó ń mú wá"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ẹbùn (ẹ̀bùn ìforíkọ́nà)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "gbogbo-ogun"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:12.557087384Z",
+  "model": "glm-5.3"
+}

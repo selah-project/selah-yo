@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Ó sì fi ṣe ⟨את⟩ àwọn ipilẹ̀ ẹnu-ọ̀nà ahọ́ ìpàdé, àti ⟨את⟩ pẹpẹ bronze náà, àti ⟨את⟩ ẹ̀rọ̀ iṣẹ́-àtiṣẹ bronze rẹ̀, àti ⟨את⟩ gbogbo irinṣẹ́ pẹpẹ náà.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ipilẹ̀ ẹnu-ọ̀nà ahọ́ ìpàdé"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "àwọn ipilẹ̀"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ẹnu-ọ̀nà"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "pẹpẹ bronze náà"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "bronze náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹ̀rọ̀ iṣẹ́-àtiṣẹ bronze rẹ̀"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "ẹ̀rọ̀ iṣẹ́-àtiṣẹ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "bronze náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ọ̀ wà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo irinṣẹ́ pẹpẹ náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "irinṣẹ́"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:46.290458924Z",
+  "model": "glm-5.3"
+}

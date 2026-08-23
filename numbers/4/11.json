@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 4:11",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Wọ́n ó sì lé aṣọ̀ tekelet lórí pẹpẹ wúrà náà, wọ́n ó bo ⟨את⟩ i ní àbọ́ ara tàcháshì, wọ́n ó sì fi ⟨את⟩ àwọn ọ̀pá rẹ̀ sí i.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà náà"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "wọ́n ó lé (té)"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "aṣọ̀"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelet"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "wọ́n ó bo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ i",
+      "marks": "i (pẹpẹ wúrà náà)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "ní àbọ́"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ara"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tàcháshì"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "wọ́n ó sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀pá rẹ̀"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "àwọn ọ̀pá rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:50:25.849126315Z",
+  "model": "glm-5.3"
+}

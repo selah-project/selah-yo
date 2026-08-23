@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 119:52",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Mo ti rántí ìdájọ́ rẹ tí ó ti ṣẹ́láìjọ, Yahweh; èmi sì fi ara túrà.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "mo ti rántí"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ìdájọ́ rẹ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "tí ó ti ṣẹ́láìjọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואתנחם",
+      "gloss": "èmi sì fi ara túrà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:22.404509664Z",
+  "model": "glm-5.3"
+}

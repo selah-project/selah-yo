@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Sí àti pé, bí ó bá pa ⟨את⟩ wọn mọ́ lẹ́yìn ìgbà tí ó gbọ́, ó sì máa gbé ⟨את⟩ ẹ̀ṣẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "sí àti pé, bí"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pa… mọ́"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "ó pa wọ́n mọ́"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (ìmúlára rẹ̀)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn ìgbà tí"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ó gbọ́"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ó sì máa gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀ṣẹ̀ rẹ̀"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ẹ̀ṣẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:04:29.707927978Z",
+  "model": "glm-5.3"
+}

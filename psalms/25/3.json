@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Bẹ́ẹ̀ ni, gbogbo àwọn tí ó ń dúró de rẹ kì í ṣe àìníyà; àwọn tí ó dá wọlé-òdì láìní ìdí, àwọn wọnyín ni yóò ṣe àìníyà.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "àwọn tí ó ń dúró de rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ṣe àìníyà"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "yóò ṣe àìníyà"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "àwọn tí ó dá wọlé-òdì"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "láìní ìdí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:22.250837675Z",
+  "model": "glm-5.3"
+}

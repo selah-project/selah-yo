@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 143,
+  "translation": "Ẹ̀kọ́ mi láti ṣe ìfẹ́ Rẹ, nítorí tí Iwọ ni Elohim mi; ẹ̀mí Rẹ ti ó dára ni yóò gbé mi lọ́nà ilẹ̀ rígbí.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Ẹ̀kọ́ mi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "ìfẹ́ Rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Iwọ"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ẹ̀mí Rẹ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ti ó dára"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "yóò gbé mi lọ́nà"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "rígbí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:52.451449887Z",
+  "model": "glm-5.3"
+}

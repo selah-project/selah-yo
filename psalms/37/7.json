@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Dúró lálẹ́ fún Yahweh, ṣe ìfaradà fún Un; má ṣe bínu sí ẹni tí ó ń seéṣe lọ́nà rẹ, táb í ọkùnrin tí ó ń ṣe ìlànà búburú.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Dúró lálẹ́"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "ṣe ìfaradà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún Un"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "bínu"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "sí ẹni tí ó ń seéṣe"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "lọ́nà rẹ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "táb í ọkùnrin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "ìlànà búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:38.188759249Z",
+  "model": "glm-5.3"
+}

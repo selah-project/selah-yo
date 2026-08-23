@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Kì í ṣe nípa ìpúpọ̀ ogun ni ọba fi ń ṣè ààyò; alágbára kì í gbà níyè nípa púpọ̀ agbára.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "ń ṣè ààyò"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nípa ìpúpọ̀"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "gbà"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nípa ìpúpọ̀"
+    },
+    {
+      "surface": "כח",
+      "gloss": "agbára"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:56.521599734Z",
+  "model": "glm-5.3"
+}

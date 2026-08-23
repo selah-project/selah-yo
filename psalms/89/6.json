@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Àwọn ọ̀run á ọdọ́rùn ìṣẹ́ ìyanu rẹ, Yahweh, ìgbẹ́sẹ̀ rẹ gẹ́gẹ́ bákan náà nínu àpapọ̀ àwọn mímọ́.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "wọ́n á ọdọ́rùn"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ìṣẹ́ ìyanu rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gẹ́gẹ́ bákan náà"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ìgbẹ́sẹ̀ rẹ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nínu àpapọ̀"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "àwọn mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:08.716850148Z",
+  "model": "glm-5.3"
+}

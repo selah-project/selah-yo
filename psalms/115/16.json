@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 115,
+  "translation": "Àwọn ọ̀run — ọ̀run ṣoṣo — jẹ́ ti Yahweh; ṣùgbọ́n ilẹ̀, ó ti fún àwọn ọmọ ènìyàn lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ọ̀run ṣoṣo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ti Yahweh"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ilẹ̀ sì"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ó ti fún… lọ́wọ́"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:11.741851694Z",
+  "model": "glm-5.3"
+}

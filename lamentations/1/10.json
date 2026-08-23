@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 1:10",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ọwọ́ ọ̀tá naà, ó ti tú ka sórí gbogbo nnkan ìfẹ́ rẹ̀; nítorí tí ó rí i pé àwọn orílẹ̀-èdè wọ inú ibi mímọ́ rẹ̀, àwọn tí I ṣe àṣẹ pé ki wọn má wọ inú àpapọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ó ti tú ka"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ọ̀tá naà"
+    },
+    {
+      "surface": "על",
+      "gloss": "sórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מחמדיה",
+      "gloss": "nnkan ìfẹ́ rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ó rí i"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "באו",
+      "gloss": "wọ"
+    },
+    {
+      "surface": "מקדשה",
+      "gloss": "inú ibi mímọ́ rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "àwọn tí"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "I ṣe àṣẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "wọ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "inú àpapọ̀"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:37:55.953598421Z",
+  "model": "glm-5.3"
+}

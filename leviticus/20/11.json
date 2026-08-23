@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àti ọkùnrin tí ó bá sùn pẹ̀lú ⟨את⟩ aya baba rẹ̀, ìròhùn baba rẹ̀ ni ó ti ṣí; wọn méjèèjì ni a ó pa ikú pa; ẹ̀jẹ̀ wọn wà lórí wọn.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "àti ọkùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "sùn pẹ̀lú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aya baba rẹ̀"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ìròhùn"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ti ṣí"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ni a ó pa pa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wọn méjèèjì"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ẹ̀jẹ̀ wọn"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wà lórí wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:57.423916495Z",
+  "model": "glm-5.3"
+}

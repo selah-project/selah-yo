@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ọba Israẹli sọ pé, Ẹ gba ⟨את⟩ Mikaiahu, kí ẹ̀ sì da padà sí Amoni, ọ̀gá ìlú náà, àti sí Yoashi ọmọ ọba náà.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sọ pé"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Ẹ gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikaiahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaiahu"
+    },
+    {
+      "surface": "ווהשיבהו",
+      "gloss": "kí ẹ̀ sì da padà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ọ̀gá"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoashi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:29:00.196957186Z",
+  "model": "glm-5.3"
+}

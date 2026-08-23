@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Yahweh sì wí sí mi pé: Sọ fún wọn pé, ẹ má gòkè, ẹ má sì jagun; nítorí pé èmi kò sí nínú yín; kí ẹ má ṣègbé níwájú ọ̀ta yín.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ẹ má"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "gòkè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ẹ má sì"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "jagun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "èmi kò sí"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "nínú yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí ẹ má"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "ṣègbé"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ọ̀ta yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:39.040717638Z",
+  "model": "glm-5.3"
+}

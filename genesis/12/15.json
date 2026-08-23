@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Àwọn ìjòyè Paroh sì rí i, wọ́n sì yé Paroh pé ọ̀dọ́ arẹwà ni, ó sì mú obìnrin náà sínú ilé Paroh.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "wọ́n sì rí i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "i"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "àwọn ìjòyè"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "wọ́n sì yé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ó sì mú"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "obìnrin náà"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:35.595247017Z",
+  "model": "glm-5.3"
+}

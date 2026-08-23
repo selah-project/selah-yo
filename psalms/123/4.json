@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 123,
+  "translation": "Púpọ̀ ló ti kún ẹ̀mí wa pẹ̀lú ìrẹ̀gìn ti àwọn aláìsànígbà, pẹ̀lú ìwọ̀sì ti àwọn agbéraga.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Púpọ̀"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ló ti kún"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fún"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ẹ̀mí wa"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "ìrẹ̀gìn"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "àwọn aláìsànígbà"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "ìwọ̀sì"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "ti àwọn agbéraga"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:31.103125758Z",
+  "model": "glm-5.3"
+}

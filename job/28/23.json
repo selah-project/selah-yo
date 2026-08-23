@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Elohim ni ó ye ọ̀nà rẹ̀ lòye, òun nàà ni ó mọ ⟨את⟩ ibi rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ni ó ye lòye"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "òun nàà ni ó"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibi rẹ̀"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "ibi rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:24:45.897961987Z",
+  "model": "glm-5.3"
+}

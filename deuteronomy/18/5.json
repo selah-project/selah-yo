@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 18:5",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nítorí Yahweh Elohim rẹ ti yán án láti gbogbo àwọn èyà rẹ, láti dúró láti ṣe ìṣẹ́ ní orúkọ Yahweh — òun àti àwọn ọmọ rẹ, ní gbogbo ọjọ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "án"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ti yán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "láti gbogbo"
+    },
+    {
+      "surface": "שבטיך",
+      "gloss": "àwọn èyà rẹ"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "láti dúró"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "láti ṣe ìṣẹ́"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ní orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "àti àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:14:58.033710777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ìwọ sì gbọ́dọ̀ ṣọ́ ⟨את⟩ àṣẹ náà, àti ⟨את⟩ àwọn èèwọn, àti ⟨את⟩ àwọn òfin, tí mo ń pa fún ọ̀ lónìí, láti ṣe wọn.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Ìwọ sì gbọ́dọ̀ ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àṣẹ náà"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "àṣẹ náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn èèwọn"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "àwọn èèwọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn òfin"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "àwọn òfin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ń pa fún ọ̀"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "láti ṣe wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:03.519812702Z",
+  "model": "glm-5.3"
+}

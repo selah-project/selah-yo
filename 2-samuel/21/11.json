@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Wọ́n sì sọ ⟨את⟩ ohun tí Ritspah ọmọbirin Aiyah, ìyàwó-ìkekeré Sha'ul, ti ṣe fún David.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "wọ́n sì sọ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí Ritspah ti ṣe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ti ṣe"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbirin"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aiyah"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "ìyàwó-ìkekeré"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-23T01:06:32.163415697Z",
+  "model": "glm-5.3"
+}

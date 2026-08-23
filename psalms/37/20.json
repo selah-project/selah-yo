@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Nítorí tí àwọn aláṣẹ ìkọ̀ wọ́n yóò ṣègbé, àti ọ̀tá Yahweh, bí i ìyì tí àwọn ọ̀yà — tí wọ́ń lọ bí èémí-ògiri, tí wọ́ń lọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn aláṣẹ ìkọ̀ wọ́n"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "yóò ṣègbé"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "àti ọ̀tá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "bí i ìyì"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "tí àwọn ọ̀yà"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tí wọ́ń lọ"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "bí èémí-ògiri"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tí wọ́ń lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:53.282301398Z",
+  "model": "glm-5.3"
+}

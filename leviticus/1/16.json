@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì yọ ⟨את⟩ ìdí-ọ̀fun rẹ̀ pẹ̀lú ewú rẹ̀ kúrò, ó sì sọ ⟨את⟩ ọn sí ẹ̀gbẹ́ pẹpẹ ní ìhà ìlà-oòrùn, sí ibi èérù.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "ó yọ … kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdí-ọ̀fun rẹ̀"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "ìdí-ọ̀fun rẹ̀"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "pẹ̀lú ewú rẹ̀"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ó sọ … sí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ọn (ìdí-ọ̀fun náà)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "sí ẹ̀gbẹ́"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ní ìhà ìlà-oòrùn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "èérù"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:34.006245581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Gbogbo níka tí ọwọ́ rẹ bá rí láti ṣe, ṣe é pẹ̀lú agbára rẹ; nítorí kò sí iṣẹ́, bíbéèrò̀, ìmọ̀, tàbí ọgbọ́n nínú Sheol, ibi tí o nlọ lọ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo níka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bá rí"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "pẹ̀lú agbára rẹ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe é"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "bíbéèrò̀"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ìmọ̀"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ọgbọ́n"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "nínú Sheol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibi tí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nlọ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:43:33.215846987Z",
+  "model": "glm-5.3"
+}

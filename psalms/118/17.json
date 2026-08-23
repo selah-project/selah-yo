@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Nní kẹ́míì kú, ṣùgbọ́n ní mo yóò yẹ àti sọ ìṣẹ́ Yah fún ènìyàn ní gbogbo ìgbà.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ní mo yóò kú"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ní mo yóò yẹ"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "àti sọ ìṣẹ́ … fún ènìyàn"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ìṣẹ́"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:42.401326668Z",
+  "model": "glm-5.3"
+}

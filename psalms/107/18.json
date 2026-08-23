@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Gbogbo oúnjẹ, ẹ̀mí wọn kórìíra ẹ́, wọ́n sì dé ibi àwọn ìlẹ̀kùn ikú.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "kórìíra"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ẹ̀mí wọn"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "wọ́n sì dé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "àwọn ìlẹ̀kùn"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:00.072467295Z",
+  "model": "glm-5.3"
+}

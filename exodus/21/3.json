@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Bí ó ti wọ̀ wá ní ìkànìyàn rẹ̀, bẹ́ẹ̀ ni yóò jáde ní ìkànìyàn rẹ̀; tí ó bá jẹ́ ọkọ obìnrin kan, ìyàwo rẹ̀ yóò jáde pẹ̀lú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Bí"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "ní ìkànìyàn rẹ̀"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ó wọ̀ wá"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "ní ìkànìyàn rẹ̀"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yóò jáde"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ọkọ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "obìnrin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó jẹ́"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "yóò jáde"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ìyàwo rẹ̀"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:10.735203730Z",
+  "model": "glm-5.3"
+}

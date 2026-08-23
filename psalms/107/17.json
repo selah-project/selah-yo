@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Àwọn aìwaṣe, nítorí ọ̀nà ìwọ̀-ẹ̀sẹ̀ wọn àti nítorí àwọn àìṣedédé wọn, wọ́n wà nínú ìpọ́njú.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Àwọn aìwaṣe"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "nítorí ọ̀nà ìwọ̀-ẹ̀sẹ̀"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "àti nítorí àwọn àìṣedédé wọn"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "wọ́n wà nínú ìpọ́njú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:00.072221915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ìlànà Yahweh, tí ó pé, tí ó ń da ⟨ẹ̀mí⟩ padà; ẹ̀rí Yahweh, tí ó dájú, tí ó ń fi ọgbọ́n fún àwọn aláìmọ̀kan.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "ìlànà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "tí ó pé"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "tí ó ń da … padà"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨ẹ̀mí⟩"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ẹ̀rí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "tí ó dájú"
+    },
+    {
+      "surface": "מחḱימת",
+      "gloss": "tí ó ń fi ọgbọ́n fún"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "àwọn aláìmọ̀kan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:41.680490444Z",
+  "model": "glm-5.3"
+}

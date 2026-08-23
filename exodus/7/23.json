@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Paroh sì yìpadà, ó sì wọ inú ilé rẹ̀, kò sì fi ọkàn rẹ̀ sí i, bí àti ní èyí.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "sì yìpadà"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì wọ inú"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inú"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "שת",
+      "gloss": "fi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bí àti"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ní èyí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:41.336451579Z",
+  "model": "glm-5.3"
+}

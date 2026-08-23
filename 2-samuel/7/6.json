@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Nítorí èmi kò tíì jọkòó nínú ilé láti ọjọ́ tí mo gbé ⟨את⟩ àwọn ọmọ Yisrael sókè kúrò lọ́dọ̀ Mitzrayim, títí di ọjọ́ yìí; mo sì ti ń rìn káàbọ̀ nínú àgàmà àti nínú mishkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "èmi … tíì jọkòó"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nínú ilé"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "láti ọjọ́ tí"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "mo gbé … sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kúrò lọ́dọ̀ Mitzrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "mo sì ti"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ń rìn káàbọ̀"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nínú àgàmà"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "àti nínú mishkan"
+    }
+  ],
+  "timestamp": "2026-08-23T00:59:36.032557882Z",
+  "model": "glm-5.3"
+}

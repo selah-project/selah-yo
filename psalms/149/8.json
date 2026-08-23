@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 149,
+  "translation": "Láti di àwọn ọba wọn ní àwọn ẹ̀wọǹ, àti àwọn olókìkí wọn ní àwọn okùn irin.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "láti di"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "àwọn ọba wọn"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "ní àwọn ẹ̀wọǹ"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "àti àwọn olókìkí wọn"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "ní àwọn okùn"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "irin"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:50.020662284Z",
+  "model": "glm-5.3"
+}

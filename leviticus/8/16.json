@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì gba ⟨את⟩ gbogbo ọra tí ó wà lórí èso inú, àti ⟨את⟩ èsoèso jẹ́dọjẹ́dọ́, àti ⟨את⟩ awọ eyín kìíníní méjèèjì, àti ⟨את⟩ ọra wọn; Moshe sì sún ọórùn sí ⟨élẹ́bọ̀⟩ oúnjẹ náà.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ọra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "èso inú"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "èsoèso jẹ́dọjẹ́dọ́"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "èsoèso"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jẹ́dọjẹ́dọ́"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "awọ eyín kìíníní méjèèjì"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjèèjì"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "awọ eyín kìíníní"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọra wọn"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "ọra wọn"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ó sì sún ọórùn sí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "oúnjẹ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:38:07.756175335Z",
+  "model": "glm-5.3"
+}

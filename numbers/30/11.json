@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ṣùgbọ́n tí ó bá wà ní ilé ọkọ rẹ̀, tí ó bá ṣe ìlérí, tàbí tí ó bá di ọkàn rẹ̀ mọ́lẹ̀ pẹ̀lú ìgbé mọ́lẹ̀ nínú ìbúra,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ṣùgbọ́n tí ó bá"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ọkọ rẹ̀"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "ṣe ìlérí"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "di … mọ́lẹ̀"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ìgbé mọ́lẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "pẹ̀lú ìbúra"
+    }
+  ],
+  "timestamp": "2026-08-23T00:03:57.052341848Z",
+  "model": "glm-5.3"
+}

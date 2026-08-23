@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 70,
+  "translation": "Ṣùgbọ́n èmi, aláìní àti aláìní owó ni mí; Elohim, kí o ṣiyára wá sí ọ̀dọ̀ mi; ìrànlọ́wọ́ mi àti olùgbà mi ni ⟨ìwọ⟩; Yahweh, má ṣe kọ̀sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aláìní"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "àti aláìní owó"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "kí o ṣiyára"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wá sí ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ìrànlọ́wọ́ mi"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "àti olùgbà mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ìwọ⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "kọ̀sílẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:27.402574612Z",
+  "model": "glm-5.3"
+}

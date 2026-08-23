@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 75,
+  "translation": "Ìwọ ni mo ti sọ̀rọ̀ nígbà gbogbo, mo óò orin fún Elohim Yaakov.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ìwọ ni"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "mo ti sọ̀rọ̀"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mo óò orin"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "fún Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:25.473234247Z",
+  "model": "glm-5.3"
+}

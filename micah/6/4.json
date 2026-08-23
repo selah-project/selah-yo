@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Nítorí mo mú ọ sókè kúrò nínú ilẹ̀ Mitzrayim, kúrò nínú ilé ẹrú ni mo rá ọ́ ní ìrọ̀run, èmi sì fi ⟨את⟩ Moshe, Aharon àti Miriam ránṣẹ́ síwájú rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "mo mú ọ sókè kúrò"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nínú ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "kúrò nínú ilé"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ẹrú"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "mo rá ọ́ ní ìrọ̀run"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "èmi sì fi … ránṣẹ́"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "síwájú rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "àti Miriam"
+    }
+  ],
+  "timestamp": "2026-08-23T03:13:40.465485680Z",
+  "model": "glm-5.3"
+}

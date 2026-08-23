@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 12:5",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ìbínú David sì gboná lójú ọkùnrin náà púpọ̀, ó sì wí fún Natan: Bí Yahweh ṣe wà làlà, ọmọ ikú ni ọkùnrin tí ó ṣe nǹkan yìí.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "sì gboná"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ìbínú"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "lójú ọkùnrin náà"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wà làlà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bí… ṣe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "tí ó ṣe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nǹkan yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:25.442904561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Eliyahu dáhùn, ó sì bá adarí àádọ́ta náà sọ̀rọ̀: \"Tí mo bá jẹ́ ènìyàn Elohim, jẹ́ kí iná wá sàlẹ̀ láti ọ̀run, kí ó sì jẹ ⟨את⟩ ọ àti ⟨את⟩ àádọ́ta rẹ̀.\" Iná sì wá sàlẹ̀ láti ọ̀run, ó sì jẹ ⟨את⟩ oun àti ⟨את⟩ àádọ́ta rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "dáhùn"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ó sì sọ̀rọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "שר",
+      "gloss": "adarí"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "àádọ́ta náà"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tí mo bá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "jẹ́ kí ... wá sàlẹ̀"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "kí ó sì jẹ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ọ",
+      "marks": "ọ (ìgbaninímọ̀ fún 'jẹ ọ')"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àádọ́ta rẹ"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "àádọ́ta rẹ"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "iná sì wá sàlẹ̀"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ó sì jẹ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ oun",
+      "marks": "oun (ìgbaninímọ̀ fún 'jẹ oun')"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àádọ́ta rẹ"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "àádọ́ta rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:26:23.787821267Z",
+  "model": "glm-5.3"
+}

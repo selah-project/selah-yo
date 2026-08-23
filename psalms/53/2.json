@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 53,
+  "translation": "Aṣiwèrè wí nínú ọkàn rẹ̀ pé, kò sí Elohim; wọ́n bàjẹ́, wọ́n sì ṣe ìwọ̀-búburú ti àìṣedeede; kò sí ẹni tí ó ń ṣe rere.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "aṣiwèrè"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "nínú ọkàn rẹ̀"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "wọ́n bàjẹ́"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "wọ́n sì ṣe ìwọ̀-búburú"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ti àìṣedeede"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ẹni tí ó ń ṣe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:41.929562187Z",
+  "model": "glm-5.3"
+}

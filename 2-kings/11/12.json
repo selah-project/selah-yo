@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó sì mú ⟨את⟩ ọmọ ọba náà jáde, ó sì fi ⟨את⟩ ìlẹ́kẹ̀-orí àti ⟨את⟩ ẹ̀rì́ lé e lórí; wọ́n sì fi jẹ́ ọba ⟨את⟩+rẹ̀, wọ́n sì yọ ọ pẹ̀lú òróró, wọ́n sì gbé apá pá, wọ́n sì wí pé: Kí ọba ó gbé!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ó sì mú jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ ọba náà"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fi lé e lórí"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lóri rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìlẹ́kẹ̀-orí"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "ìlẹ́kẹ̀-orí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹ̀rí́"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ẹ̀rí́"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "wọ́n sì fi jẹ́ ọba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩+rẹ̀",
+      "marks": "ọmọ ọba náà"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "wọ́n sì yọ ọ pẹ̀lú òróró"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wọ́n sì gbé apá pá"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ọwọ́ (pá)"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí pé"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "kí ó gbé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T01:32:34.993777796Z",
+  "model": "glm-5.3"
+}

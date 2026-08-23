@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ẹ sì máa fi ńńkan ṣàmì ìpín-ìlà ìlà-oòrùn fún yín ara yín, láti Chatsar-Enan dé Shepham.",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "ẹ sì máa fi ńńkan ṣàmì"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín ara yín"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "ìpín-ìlà"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ìlà-oòrùn"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "láti Chatsar"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Enan"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "dé Shepham"
+    }
+  ],
+  "timestamp": "2026-08-23T00:05:03.079292483Z",
+  "model": "glm-5.3"
+}

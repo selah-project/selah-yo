@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Wò ó, ìjọba tí iwọ kò mọ̀ ni iwọ yóò pè, àti ìjọba tí kò mọ̀ ọ́ ni yóò sáré sí ọ̀dọ̀ rẹ, nítorí Yahweh, Elohim rẹ, àti nítorí Mímọ́ ti Yisrael, nítorí tí ⟨ó⟩ ti fi ọ̀lá bọ̀ ọ́.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "iwọ kò mọ̀"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "iwọ yóò pè"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "àti ìjọba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "kò mọ̀ ọ́"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "yóò sáré"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "àti nítorí Mímọ́ ti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "ó ti fi ọ̀lá bọ̀ ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T02:00:11.790327380Z",
+  "model": "glm-5.3"
+}

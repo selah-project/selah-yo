@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Ṣàjọ́ mi, Elohim, kí o sì ba mi jiyàn èjọ́ mi nípa orílẹ̀-èdè tí kò píyù; láti ọ̀dọ̀ ọkùnrin ìtan àti ìṣẹ̀, kí o gbà mi lọ́fà.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "ṣàjọ́ mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "kí o sì ba mi jiyàn"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "èjọ́ mi"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "nípa orílẹ̀-èdè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tí kò"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "píyù"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "láti ọ̀dọ̀ ọkùnrin"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ìtan"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "àti ìṣẹ̀"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "kí o gbà mi lọ́fà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:08.703126408Z",
+  "model": "glm-5.3"
+}

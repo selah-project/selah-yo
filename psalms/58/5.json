@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 58,
+  "translation": "Ègbín wọn dà bí ègbín ejò, bí pẹtan adìti tí ó ń ti etí rẹ̀ dé.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "ègbín"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨wọn⟩"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "bí ti"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ègbín"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ejò"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bí"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "pẹtan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "adìti"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "ń ti … dé"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "etí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:19.919814875Z",
+  "model": "glm-5.3"
+}

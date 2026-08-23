@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 15:18",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Sọ̀rọ̀ sí àwọn ọmọ Yisrael, kí o sì wí fún wọn pé: Nígbà tí ẹ bá wọ ilẹ̀ yìí tí èmi ń mú yín wá ⟨את⟩ — sí ibẹ̀:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sọ̀rọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "kí o sì wí"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "nígbà tí ẹ bá wọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ń mú wá"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "yín ⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sí ibẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:56:29.729431403Z",
+  "model": "glm-5.3"
+}

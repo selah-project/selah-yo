@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Wáà Yahweh, gbàlà wá ṣẹ́ ànú; wáà Yahweh, ìṣẹ̀gun wá ṣẹ́ ànú.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "wáà (jẹ̀ẹ́ wá)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "gbàlà wá ṣẹ́"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ànú"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "wáà (jẹ̀ẹ́ wá)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "ìṣẹ̀gun wá ṣẹ́"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ànú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:28.057221315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ohun tí ó ti wà, kíakía ni ó ti wà tẹ́lẹ̀; àti ohun tí ó ń bọ̀, kíakia ni ó ti wà tẹ́lẹ̀; Elohim sì ń wá ⟨את⟩ ohun tí a lẹ́gàn.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ó ti wà"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kíakia ni ó ti wà tẹ́lẹ̀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "àti ohun tí"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ó ń bọ̀"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kíakia ni ó ti wà tẹ́lẹ̀"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ó ti wà"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim sì"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ń wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí a lẹ́gàn"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "ohun tí a lẹ́gàn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:35.076469293Z",
+  "model": "glm-5.3"
+}

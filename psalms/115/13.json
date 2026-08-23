@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 115,
+  "translation": "Yahweh yóò bukún àwọn tí ń bẹ̀rù rẹ̀ — àwọn kéékèké pẹ̀lú àwọn tó tóbi.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "yóò bukún"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "àwọn tí ń bẹ̀rù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "àwọn kéékèké"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "àwọn tó tóbi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:11.741350974Z",
+  "model": "glm-5.3"
+}

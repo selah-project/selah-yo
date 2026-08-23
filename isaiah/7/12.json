@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ahaz sọ wí pé: Emi kì í bẹ̀rẹ̀ rárá, emi kì í ṣe ìdánwò fún ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sọ wí pé"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "bẹ̀rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kì í"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "ṣe ìdánwò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:11.081784794Z",
+  "model": "glm-5.3"
+}

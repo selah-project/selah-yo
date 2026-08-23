@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Gbọ́, ènìyàn Mi, Èmí yóò sọ̀rọ̀; Yisraeli, Èmí yóò ṣe ẹ̀rí lọ́dọ̀ rẹ: Elohim, Elohim rẹ ni Èmí.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ènìyàn Mi"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "Èmí yóò sọ̀rọ̀"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "Èmí yóò ṣe ẹ̀rí"
+    },
+    {
+      "surface": "בך",
+      "gloss": "lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Èmí"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:24.760684199Z",
+  "model": "glm-5.3"
+}

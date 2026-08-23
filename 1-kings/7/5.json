@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àti gbogbo àwọn ìlẹ̀kùn àti àwọn ìgbari-ìlẹ̀kùn, inú-gun-mẹ́rin pẹ̀lú fẹ̀rẹ̀tí-ìfọ̀kàn; àti fẹ̀rẹ̀tí dojú kọ fẹ̀rẹ̀tí, ẹ̀ẹ̀ta ìrànkẹ́.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Àti gbogbo"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "àwọn ìlẹ̀kùn"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "àti àwọn ìgbari-ìlẹ̀kùn"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "inú-gun-mẹ́rin"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "fẹ̀rẹ̀tí-ìfọ̀kàn"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "àti dojú kọ"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "fẹ̀rẹ̀tí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "fẹ̀rẹ̀tí"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ẹ̀ẹ̀ta"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ìrànkẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:13:49.219798293Z",
+  "model": "glm-5.3"
+}

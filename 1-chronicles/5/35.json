@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àti Akimaats bí ⟨את⟩ Azarjah, àti Azarjah bí ⟨את⟩ Yokanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "àti Akimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "àti Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yokanan"
+    }
+  ],
+  "timestamp": "2026-08-23T05:09:58.606471303Z",
+  "model": "glm-5.3"
+}

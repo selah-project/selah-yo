@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Fún olúṣàkóso. Orin Dafidi. Yahweh, ìwọ ti ṣèwádìí mi, tí ìwọ sì mọ̀.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fún olúṣàkóso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dafidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "ìwọ ti ṣèwádìí mi"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "tí ìwọ sì mọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:22.758837787Z",
+  "model": "glm-5.3"
+}

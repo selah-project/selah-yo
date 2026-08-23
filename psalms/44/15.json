@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "O ṣe wa ní àkọ́jọ́-ọ̀rọ̀ làárin àwọn orílẹ̀-èdè, ní ìgbérí olú káàkiri làárin àwọn ìjọ ènìyàn.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "O ṣe wa ní"
+    },
+    {
+      "surface": "משל",
+      "gloss": "àkọ́jọ́-ọ̀rọ̀"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "làárin àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "ní ìgbẹ́rí"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "olú káàkiri"
+    },
+    {
+      "surface": "בל",
+      "gloss": "làárin"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "àwọn ìjọ ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:41.174770320Z",
+  "model": "glm-5.3"
+}

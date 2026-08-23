@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Yahweh Elohim sì sọ Adamu jáde láti ọ̀gbà Eden, láti ṣiṣẹ́ ⟨את⟩ ilẹ̀ tí a ti gba á láti ibẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "ó sì sọ ọ́ jáde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "láti ọ̀gbà"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "láti ṣiṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a ti gba á"
+    },
+    {
+      "surface": "משם",
+      "gloss": "láti ibẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:11.552824975Z",
+  "model": "glm-5.3"
+}

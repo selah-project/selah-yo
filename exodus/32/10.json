@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Nítorí náà, jẹ́ kí n ṣùn-àná fúnra mi, kí ibínú mi ló bọ̀ sínú wọn, kí n sì pa wọ́n run; èmi yóò sì ṣe ⟨את⟩ ọ sí ìṣẹ̀bí àgbà.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Nítorí náà"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "jẹ́ kí n ṣùn-àná"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fúnra mi"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "kí ibínú ló bọ̀"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ibínú mi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sínú wọn"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "kí n sì pa wọ́n run"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "èmi yóò sì ṣe"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ọ",
+      "marks": "ìṣẹ̀bí àgbà"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "sí ìṣẹ̀bí"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "àgbà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:37.070528697Z",
+  "model": "glm-5.3"
+}

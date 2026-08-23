@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 26:39",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Àwọn tí ó kù nínú yín óó rùn tí wọ́n ń parun nínú ẹ̀ṣẹ̀ wọn, ní àwọn ilẹ̀ àwọn ọ̀tá yín; àti nínú ẹ̀ṣẹ̀ àwọn baba wọn, pẹ̀lú ⟨את⟩ wọn ni wọ́n óó rùn.",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "àwọn tí ó kù"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nínú yín"
+    },
+    {
+      "surface": "ימקו",
+      "gloss": "óó rùn, óó parun"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "nínú ẹ̀ṣẹ̀ wọn"
+    },
+    {
+      "surface": "בארצת",
+      "gloss": "ní àwọn ilẹ̀"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "àwọn ọ̀tá yín"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "àti"
+    },
+    {
+      "surface": "בעונת",
+      "gloss": "nínú ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pẹ̀lú wọn",
+      "marks": "pẹ̀lú wọn"
+    },
+    {
+      "surface": "ימקו",
+      "gloss": "wọ́n óó rùn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:47:45.771364881Z",
+  "model": "glm-5.3"
+}

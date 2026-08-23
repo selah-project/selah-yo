@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ó sì pè orúkọ rẹ̀ ní Yosef, nípa títi wí pé, Yahweh máa fi ọmọkùnrin míràn kún mi.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "ó sì pè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nípa títi wí pé"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "máa fi ... kún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọkùnrin"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "míràn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:04:25.393536305Z",
+  "model": "glm-5.3"
+}

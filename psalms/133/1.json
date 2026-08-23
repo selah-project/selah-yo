@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 133,
+  "translation": "Orin ti ìgìlẹ̀ fún David. Ki á rí i, ìwọ̀ tí ó dára, ìwọ̀ tí ó dùn lọ́pọlọpọ, ti áwọn ará sùn-ọ́jọ́ papọ̀, wọ́n sì jọ dọ̀gbọ́n ⟨gán-an⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ti ìgìlẹ̀"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ki á rí i"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ìwọ̀ tí"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ó dára"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ìwọ̀ tí ó dùn lọ́pọlọpọ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "dùn lọ́pọlọpọ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ti áwọn ará sùn-ọ́jọ́"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sì"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "papọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:25.384599120Z",
+  "model": "glm-5.3"
+}

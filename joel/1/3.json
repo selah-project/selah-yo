@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Nípa rẹ̀,ẹ sọ fún àwọn ọmọ yín, àwọn ọmọ yín sọ fún àwọn ọmọ wọn, àwọn ọmọ wọn sọ fún ìràn míràn.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Nípa rẹ̀"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "fún àwọn ọmọ yín"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ẹ sọ"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "àwọn ọmọ yín"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "fún àwọn ọmọ wọn"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "àwọn ọmọ wọn"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "fún ìràn"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "míràn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:04:05.617234253Z",
+  "model": "glm-5.3"
+}

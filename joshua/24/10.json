@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ṣùgbọ́n èmi kò fẹ́ gbọ́ ti Bilam, ó sì bùkún — ó bùkún yín, èmi si gbà yín là ⟨את⟩ láti ọwọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וולא",
+      "gloss": "ṣùgbọ́n kò"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "èmi kò fẹ́"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "gbọ́ ti"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ó sì bùkún"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ó bùkún"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "èmi si gbà yín là"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "láti ọwọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:19.581564830Z",
+  "model": "glm-5.3"
+}

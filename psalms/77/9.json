@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 77,
+  "translation": "Ṣé chesed rẹ̀ parun ní pátápátá? Ṣé ọ̀rọ̀-lẹ́rọ̀ rẹ̀ ti parí fún ⟨ìran⟩ lọ́ọ̀run-ìran?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "ṣé ó parun"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ní pátápátá"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed rẹ̀"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ó parí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ọ̀rọ̀-lẹ́rọ̀ rẹ̀"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "fún ìran"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "àti ìran"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:04.080860343Z",
+  "model": "glm-5.3"
+}

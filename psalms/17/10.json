@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Orí rẹ̀ ti pa wọ́n dé nínú ọra wọn; ẹnu wọn sì ń sọ̀rọ̀ pẹ̀lú ìgbéga.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "ọra wọn"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ti pa dé"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ẹnu wọn"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ń sọ̀rọ̀"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "pẹ̀lú ìgbéga"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:44.707029431Z",
+  "model": "glm-5.3"
+}

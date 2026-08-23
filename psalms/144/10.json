@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 144,
+  "translation": "Ẹni tí ó ń fún àwọn ọba ní ìgbàlà, Ẹni tí ó ń gbà ⟨את⟩ David ìránṣẹ́ rẹ̀ lọ́wọ̀ idà búburú.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Ẹni tí ó ń fún"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "Ẹni tí ó ń gbà ... lọ́wọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "lọ́wọ̀ idà"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:52.249228587Z",
+  "model": "glm-5.3"
+}

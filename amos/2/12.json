@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ẹ̀yin sì mú ⟨את⟩ àwọn Nazirai mu ọtí, ẹ sì pàṣẹ fún àwọn wòlíì pé, Ẹ má ṣe sọ̀ọ́sọ̀.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "ẹ sì mú mu ọtí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Nazirai"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "àwọn Nazirai"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ọtí"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "àwọn wòlíì"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "ẹ pàṣẹ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "sọ̀ọ́sọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:05:08.115373604Z",
+  "model": "glm-5.3"
+}

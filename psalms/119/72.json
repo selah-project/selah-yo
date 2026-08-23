@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ó dára síi fún mi, òfin ẹnu rẹ, lére àwọn ẹgbẹ̀rún wúrà àti fàdákà.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ó dára síi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "òfin"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ẹnu rẹ"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "lére àwọn ẹgbẹ̀rún"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "àti fàdákà",
+      "surface_note": "וכסף"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:41.740503277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Nígbà náà ni mo gba ⟨את⟩ Yaazanyah ọmọ Yirmeyahu, ọmọ Chavatsanyah, àti ⟨את⟩ àwọn ará rẹ̀, àti ⟨את⟩ gbogbo àwọn ọmọ rẹ̀, àti ⟨את⟩ gbogbo ilé àwọn Rekabi.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Nígbà náà ni mo gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazanyah"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Chavatsanyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ará rẹ̀"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "àwọn ará rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ilé àwọn Rekabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "àwọn Rekabi"
+    }
+  ],
+  "timestamp": "2026-08-23T02:23:07.685390011Z",
+  "model": "glm-5.3"
+}

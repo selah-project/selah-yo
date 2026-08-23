@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 5:9",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Yahweh sì wí fún Yehoshua wí pé, Lónìí ni mo ti yọ ⟨את⟩ ìwà-ìdí-ẹ̀yà ti Mitzrayim kúrò lórí yín; wọ́n sì pe orúkọ ibi náà ní Gilgal, títí di ọjọ́ yìí.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    },
+    {
+      "surface": "גלותי",
+      "gloss": "mo ti yọ (kúrò)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìwà-ìdí-ẹ̀yà ti Mitzrayim"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ìwà-ìdí-ẹ̀yà"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "lórí yín"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wọ́n sì pe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "náà"
+    },
+    {
+      "surface": "גלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:22:47.216951575Z",
+  "model": "glm-5.3"
+}

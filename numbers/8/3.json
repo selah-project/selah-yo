@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Aharon sì ṣe bẹ́ẹ̀; níwájú ojú àtẹ ìmọ́lẹ̀ ló gbé àwọn atọ́ná ìmọ́lẹ̀ rẹ̀ sókè, gẹ́gẹ́ bí Yahweh ti pa ⟨את⟩ Moshe lẹ́ṣẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "àtẹ ìmọ́lẹ̀"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "gbé sókè"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "àwọn atọ́ná ìmọ́lẹ̀ rẹ̀"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pa lẹ́ṣẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:53:43.924845770Z",
+  "model": "glm-5.3"
+}

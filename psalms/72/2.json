@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Kí ó dá ènìyàn rẹ lọ́lá ní ìdọ̀tun, àti àwọn tálúkà rẹ ní ìdájọ́.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "kí ó dá lọ́lá"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ènìyàn rẹ"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ní ìdọ̀tun"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "àti àwọn tálúkà rẹ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ní ìdájọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:12.460079621Z",
+  "model": "glm-5.3"
+}

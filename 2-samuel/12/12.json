@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Nítorí ìwọ ti ṣe é ní ìkọ̀kọ́, èmi sì máa ṣe ⟨את⟩ ọ̀rọ̀ yìí níwájú gbogbo Israẹli àti níwájú oòrùn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ti ṣe é"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ní ìkọ̀kọ́"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "èmi sì"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "máa ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ yìí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "àti níwájú"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "oòrùn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:01.674435156Z",
+  "model": "glm-5.3"
+}

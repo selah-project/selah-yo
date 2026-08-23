@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ta ni Ẹni tí ó jẹ́ Ọba ògo? Yahweh, alágbára àti ológun, Yahweh, alágbára ogun.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ẹni tí ó jẹ́"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ògo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "àti ológun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ogun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:52.726480001Z",
+  "model": "glm-5.3"
+}

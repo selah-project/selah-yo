@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "kí èmi ó sì padà ní àlàáfíà sí ilé bàbá mi, Yahweh yóò sì jẹ́ Elohim fún mi.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "kí èmi ó sì padà"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ní àlàáfíà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bàbá mi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "yóò sì jẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "gẹ́gẹ́ bí Elohim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:03:48.234887320Z",
+  "model": "glm-5.3"
+}

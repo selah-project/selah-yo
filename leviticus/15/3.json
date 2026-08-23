@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Èyí ni àìmọ́ rẹ̀ nínú èyí tí ó ń sàn jáde: nígbà tí ara rẹ̀ bá ń sàn lára rẹ̀ ⟨את⟩ èyí tí ó ń sàn, tàbí tí ara rẹ̀ bá tí mọ́rnù dí èyí tí ó ń sàn, àìmọ́ ìṣẹ̀míṣẹ̀ rẹ̀ ni.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ní"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "àìmọ́ rẹ̀"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "nínú èyí tí ó ń sàn"
+    },
+    {
+      "surface": "רר",
+      "gloss": "ń sàn lára rẹ̀"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ara rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èyí tí ó ń sàn"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "èyí tí ó ń sàn"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "tí ó tí mọ́rnù dí"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ara rẹ̀"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "dí èyí tí ó ń sàn"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "àìmọ́ ìṣẹ̀míṣẹ̀ rẹ̀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:40:24.232148657Z",
+  "model": "glm-5.3"
+}

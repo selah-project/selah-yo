@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 4:16",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ọkùnrin náà sì wí fún Eli pé, Ìṣe-èmi ni tí ó ń bọ̀ láti inú ogun jàngànà náà, èmi sì sálọ lóníí láti inú jàngànà náà. Ó sì wí pé, Ìṣe ni ó ṣẹlẹ̀, ọmọ mi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "Ọkùnrin náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ìṣe-èmi ni"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "tí ó ń bọ̀"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti inú"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "ogun jàngànà náà"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "èmi sì"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti inú"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "jàngànà náà"
+    },
+    {
+      "surface": "נסתי",
+      "gloss": "sálọ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lóníí"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí pé"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ìṣe ni"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ṣẹlẹ̀"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ohun tí ó ṣẹlẹ̀"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:40.478322720Z",
+  "model": "glm-5.3"
+}

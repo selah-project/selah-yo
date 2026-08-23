@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 18:19",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ẹ sì ń wí pé: Kí ló dé tí ọmọ kì í gbé ẹ̀ṣẹ̀ baba náà? Ọmọ náà sì ṣe ⟨את⟩ ìdájọ́ àti ⟨את⟩ ẹ̀tọ́ — gbogbo àwọn òfin mi ni ó pa mọ́, ó sì ṣe ⟨את⟩ wọn — dájúdájú ni yóò yè.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "ẹ sì ń wí"
+    },
+    {
+      "surface": "מדע",
+      "gloss": "kí ló dé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "ọmọ náà"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "האב",
+      "gloss": "baba náà"
+    },
+    {
+      "surface": "והבן",
+      "gloss": "ọmọ náà sì"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "àti ẹ̀tọ́"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdájọ́ àti ẹ̀tọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "àwọn òfin mi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "pa mọ́"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "dájúdájú"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yóò yè"
+    }
+  ],
+  "timestamp": "2026-08-23T02:42:50.738682678Z",
+  "model": "glm-5.3"
+}

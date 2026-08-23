@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 113,
+  "translation": "Ta ni ó dà bí Yahweh, Elohim wa, ẹni tí ó ń ṣe ara ga láti jọkọ sí òkè?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ta ni ó"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "dà bí Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "ẹni tí ó ń ṣe ara ga"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "láti jọkọ sí òkè"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:59.251162690Z",
+  "model": "glm-5.3"
+}

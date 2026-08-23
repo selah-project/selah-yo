@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Òun ni Yahweh, Elohim wa; ní gbogbo ayé ni àwọn ìdájọ́ rẹ̀ wà.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Òun ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "àwọn ìdájọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:00.176829023Z",
+  "model": "glm-5.3"
+}

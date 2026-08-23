@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 85,
+  "translation": "Chesed àti òtítọ́ pàdé ara wọn; dídúró-ṣẹsẹ̀ àti shalom fẹ́ra wọn.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "àti òtítọ́"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "pàdé ara wọn"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dídúró-ṣẹsẹ̀"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "àti shalom"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "fẹ́ra wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:20.555174383Z",
+  "model": "glm-5.3"
+}

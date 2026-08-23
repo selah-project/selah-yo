@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Kí o sì má ṣe sọ nínú ọkàn rẹ pé, Agbára mi àti ipá ọwọ́ mi ni ó ṣe ⟨את⟩ rògbòdìyàn yìí fún mi.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "kí o sì má ṣe sọ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "nínú ọkàn rẹ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "agbára mi"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "àti ipá"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rògbòdìyàn yìí"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "rògbòdìyàn náà"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:40.522854183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Àti Avraham fún ⟨את⟩ gbogbo ohun tí ó ní fún Yitschak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Àti fún"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ohun tí ó ní"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ó ní"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "fún Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-22T23:02:57.600713525Z",
+  "model": "glm-5.3"
+}

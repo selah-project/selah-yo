@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Yahweh sì pèsè ẹja nlá láti mì ⟨את⟩ Jonah mi, Jonah sì wà nínú ikùn ẹja náà ọjọ́ mẹ́ta àti òru mẹ́ta.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "sì pèsè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דג",
+      "gloss": "ẹja"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nlá"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "láti mì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sì wà"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "nínú ikùn"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ẹja náà"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "àti mẹ́ta"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "òru"
+    }
+  ],
+  "timestamp": "2026-08-23T03:10:25.455937845Z",
+  "model": "glm-5.3"
+}

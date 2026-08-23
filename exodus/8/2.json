@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Aharon na ⟨את⟩ ọwọ́ rẹ sí orí omi Mitzrayim, àwọn ọ̀pọ̀lọ́àyàkúko sì gbèrú dìde, wọ́n sì bo ⟨את⟩ ilẹ̀ Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "omi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "sì gbèrú dìde"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "àwọn ọ̀pọ̀lọ́àyàkúko"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "sì bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ Mitzrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:35.653005463Z",
+  "model": "glm-5.3"
+}

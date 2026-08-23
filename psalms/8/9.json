@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ẹyẹ ojú-ọrun, àti àwọn ẹja inú odò, gbogbo tí ó ń ṣàbùkú nípasẹ̀ àwọn ọ̀nà ibi omi.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "ẹyẹ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ojú-ọrun"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "àti àwọn ẹja inú odò"
+    },
+    {
+      "surface": "הים",
+      "gloss": ""
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ń ṣàbùkú"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "àwọn ọ̀nà"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ibi omi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:21.179295319Z",
+  "model": "glm-5.3"
+}

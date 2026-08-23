@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Gbogbo nǹkan wọ̀nyí ṣẹlẹ̀ sí wa, ṣùgbọ́n a kò gbàgbé Ẹ, a sì kò dá pàpọ̀ júọ̀ nínú májẹ̀mú Rẹ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nǹkan wọ̀nyí"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "ṣẹlẹ̀ sí wa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n a kò"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "gbàgbé Ẹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a sì kò"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "dá paàpọ̀ júọ̀"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "nínuú májẹ̀mú Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:22.823468890Z",
+  "model": "glm-5.3"
+}

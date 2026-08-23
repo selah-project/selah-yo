@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Kíyèsi i, nínú àìṣẹ̀mílọ̀rí ni wọ́n bí mi, ìyá mi sì lóyún mí nínú ẹ̀ṣẹ̀.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kíyèsi i"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "nínú àìṣẹ̀mílọ̀rí"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "wọ́n bí mi"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "àti nínú ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "ó lóyún mí"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ìyá mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:22.417520226Z",
+  "model": "glm-5.3"
+}

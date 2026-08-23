@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Nítorí náà, Yahweh gbọ́, ó bínú; iná sì já sí Yaakov, bínú sì gòkè sí Yisrael.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Nítorí náà"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "ó bínú"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "àti iná"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "já sí"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "sí Yaakov"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti bákannáà"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bínú"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "gòkè sí"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sí Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:49.707054668Z",
+  "model": "glm-5.3"
+}

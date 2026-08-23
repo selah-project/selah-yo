@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Elohi ìrora má ṣe ṣe sí ara rẹ rárá.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "elohi ìrora"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ìrora (ohun tí a ṣubú ṣe)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "rárá"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "má ṣe ṣe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sí ara rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:29:53.118304466Z",
+  "model": "glm-5.3"
+}

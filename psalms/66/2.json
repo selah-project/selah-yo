@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 66,
+  "translation": "Ẹ kọ orin sí ìgìnlásì orúkọ rẹ̀; ẹ sọ ìgìnlásì di ti ìyìn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ẹ kọ orin sí"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ìgìnlásì"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ẹ sọ … di"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ìgìnlásì"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ìyìn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:00.802253185Z",
+  "model": "glm-5.3"
+}

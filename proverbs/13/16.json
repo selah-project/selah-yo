@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ọlọ́gbọ́n gbogbo lo ọgbọ́n ṣiṣẹ́; ṣùgbọ́n aṣiwèrè ń tàn ìwà aṣiwèrè kálẹ̀ fún gbogbo ènìyàn.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ọlọ́gbọ́n (oníṣe ìlera)"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ń ṣiṣẹ́"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "pẹ̀lú ọgbọ́n"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ṣùgbọ́n aṣiwèrè"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "ń tàn (ń ṣí kálẹ̀)"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ìwà aṣiwèrè"
+    }
+  ],
+  "timestamp": "2026-08-23T04:06:35.757394810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 141,
+  "translation": "Orin-kínilọ́kan ti David. Yahweh, mo ti pè Ẹ; tara wá sí mi; fúnní gbọ́ ohùn mi nígbà tí mo bá pè Ẹ.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "orin-kínilọ́kan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mo ti pè Ẹ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "tara wá"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "fúnní gbọ́"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "nígbà tí mo bá pè"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:11.911252977Z",
+  "model": "glm-5.3"
+}

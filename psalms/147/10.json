@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Kì í ṣe nínú agbára ẹṣin tí ó fẹ́, kì í ṣe nínú ẹsẹ ènìyàn tí ó ṣe àyọ̀.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kì í ṣe"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "nínú agbára"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ẹṣin"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "tí ó fẹ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "nínú ẹsẹ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "èniyàn"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "tí ó ṣe àyọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:33.012281650Z",
+  "model": "glm-5.3"
+}

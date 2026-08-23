@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ọba Yisrael sọ fún àwọn ìránṣẹ́ rẹ̀ pé: Ṣé ẹ mọ̀ pé Ramot ni tiwa ní Gilad, àti àwa dúró ṣinṣin láìgbà ⟨את⟩ rẹ̀ lọ́wọ́ ọba Aram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Ṣé ẹ mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ni tiwa"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ní Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "àti àwa"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "dúró ṣinṣin"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "láìgbà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "rẹ̀ (Ramot)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-23T05:53:06.626646836Z",
+  "model": "glm-5.3"
+}

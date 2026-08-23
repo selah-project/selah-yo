@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ní ìbẹ̀rẹ̀, Elohim dá ⟨את⟩ àwọn ọ̀run àti ⟨את⟩ ayé.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Ní ìbẹ̀rẹ̀"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "dá"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀run"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ayé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-22T22:53:13.758896737Z",
+  "model": "glm-5.3"
+}

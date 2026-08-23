@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ẹ tí ń bẹ̀rù Yahweh, ẹ yìn ọ́n; gbogbo ìran Yaakov, ẹ gbé ọ́n ga; ẹ̀yin gbogbo ìran Yisrael, ẹ bẹ̀rù rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "ẹ tí ń bẹ̀rù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ẹ yìn ọ́n"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "ẹ gbé ọ́n ga"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "àti ẹ bẹ̀rù"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:06.488788464Z",
+  "model": "glm-5.3"
+}

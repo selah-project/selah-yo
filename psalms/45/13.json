@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Àti ọmọbìnrin Tsor pẹ̀lú ẹbùn, ojú rẹ ni àwọn olówó ti ìjọ yóò bẹ̀ wọ̀.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Àti ọmọbìnrin"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "pẹ̀lú ẹbùn"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "yóò bẹ̀ wọ̀"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "àwọn olówó"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti ìjọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:37.897502744Z",
+  "model": "glm-5.3"
+}

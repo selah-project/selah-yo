@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 2:19",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àwọn ènìyàn yóò wọ inú àwọn iho apáta, àti inú àwọn ihò ilẹ̀ èfúfú, nítorí ẹ̀rù Yahweh àti nítorí ògo ògo rẹ̀, nígbà tí ó bá dìde láti mú ilẹ̀ ayé bẹ́ru.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "yóò wọ inú"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "àwọn iho"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "apáta"
+    },
+    {
+      "surface": "ובמחלות",
+      "gloss": "àti inú àwọn ihò"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ilẹ̀ èfúfú"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nítorí ẹ̀rù"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ìbàlẹ̀-ẹ̀rù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "àti nítorí ògo"
+    },
+    {
+      "surface": "גאונו",
+      "gloss": "ìgà rẹ̀"
+    },
+    {
+      "surface": "בקומו",
+      "gloss": "nígbà tí ó bá dìde"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "láti mú… bẹ́ru"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:38:39.501165758Z",
+  "model": "glm-5.3"
+}

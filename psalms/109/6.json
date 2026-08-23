@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Fi ènìyàn búburú sí ipò rẹ̀ lórí, kí sàtán dúró ní ọ̀tún rẹ̀.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "fi sí ipò"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rí lórí"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ènìyàn búburú"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "sàtán"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "kí ó dúró"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ọ̀tún rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:04.652472600Z",
+  "model": "glm-5.3"
+}

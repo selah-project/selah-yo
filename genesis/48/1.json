@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Ó sì ṣẹlẹ̀ lẹ́yìn àwọn ohun tí ó ṣẹlẹ̀ yìí, wọ́n sì sọ fún Yosef pé, wò ó, baba rẹ ṣàìsàn; ó sì gba àwọn ọmọ rẹ̀ méjì pẹ̀lú rẹ̀ gbé — ⟨את⟩ Menashsheh àti ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ohun tí ó ṣẹlẹ̀"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wọ́n sì sọ fún"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "fún Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba rẹ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ṣàìsàn"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba … gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀ méjì"
+    },
+    {
+      "surface": "שני",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashsheh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:13:57.173964379Z",
+  "model": "glm-5.3"
+}

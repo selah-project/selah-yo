@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ìpàdé àwọn orílẹ̀-èdè yóò yi ọ́ ká, àti lórí wọn ní ìgiga, padà.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "àti ìpàdé"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "yóò yi ọ́ ká"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "àti lórí rẹ̀"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "sí ìgiga"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "padà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:56.851990111Z",
+  "model": "glm-5.3"
+}

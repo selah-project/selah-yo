@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Nítorí bí ohùn ìròrí àwọn ọ̀yà ní abẹ́ ìkòkò, bẹ́ gẹ́gẹ́ ni ẹ̀rìn ọmọ-ọ̀yà; àti pé èyí ni hàbẹl.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "bí ohùn"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "àwọn ọ̀yà"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní abẹ́"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ìkòkò"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ gẹ́gẹ́"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ẹ̀rìn"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ọmọ-ọ̀yà"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti pé"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hàbẹl"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:53.711930460Z",
+  "model": "glm-5.3"
+}

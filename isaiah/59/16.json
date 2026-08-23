@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 59:16",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 59,
+  "translation": "Ó sì rí i pé ọkùnrin kò sí, ó sì ya wúnrẹ̀n pé ẹni-gbégalẹ̀ kò sí; ọwọ́-agbára rẹ̀ sì gbà á là, ìdajọ-tó-tọ́ rẹ̀ òun ni ó gbé e lárọ̀.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "sì rí i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "וישתומם",
+      "gloss": "sì ya wúnrẹ̀n"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "מפגיע",
+      "gloss": "ẹni-gbégalẹ̀"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "sì gbà á là"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ọwọ́-agbára rẹ̀"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ìdajọ-tó-tọ́ rẹ̀"
+    },
+    {
+      "surface": "היא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "סמכתהו",
+      "gloss": "gbé e lárọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:03:02.036560561Z",
+  "model": "glm-5.3"
+}

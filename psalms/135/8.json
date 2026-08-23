@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Òun ni ó lu àwọn akọ́bí Mitzrayim, láti ènìyàn dé ẹranko.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Òun ni ó lu"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "àwọn akọ́bí"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "láti ènìyàn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ẹranko"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:09.181612632Z",
+  "model": "glm-5.3"
+}

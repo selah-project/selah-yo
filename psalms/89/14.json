@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Ìgúnwà ní ti ẹni tí ó lagbara; ọwọ́ rẹ kúkurú lagbara, ọ̀tún rẹ sí ga lókè.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ní ti rẹ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ìgúnwà"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "agbára"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ó lagbara"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ó ga lókè"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ọ̀tún rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:50.595493661Z",
+  "model": "glm-5.3"
+}

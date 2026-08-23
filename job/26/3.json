@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 26:3",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Báwo ni ìwọ ti ṣe ìmọ̀ràn fún ẹni tí kò ní ọgbọ́n, àti báwo ni ìwọ ti kéde ìmọ̀ ọgbọ́n-on tí ó pọ̀npjú!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Báwo ni"
+    },
+    {
+      "surface": "יעצת",
+      "gloss": "ti ṣe ìmọ̀ràn"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "fún ẹni tí kò ní"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ọgbọ́n"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "àti ìmọ̀ ọgbọ́n-on"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "tí ó pọ̀npjú"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "ti kéde"
+    }
+  ],
+  "timestamp": "2026-08-23T04:24:21.689395623Z",
+  "model": "glm-5.3"
+}

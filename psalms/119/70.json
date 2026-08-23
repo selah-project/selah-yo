@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ọkàn wọn gbọ́n dọ̀tọ̀ bí ọra; ⟨sì⟩ èmi ń dùnú sí òfin rẹ.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "gbọ́n dọ̀tọ̀"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "bí ọra"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ọkàn wọn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "òfin rẹ"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "ń dùnú sí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:41.740234281Z",
+  "model": "glm-5.3"
+}

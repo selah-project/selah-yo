@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Àwọn ọmọ Shimon ní ìdílé wọn: ti Nemuel, ìdílé àwọn Nemueli; ti Yamin, ìdílé àwọn Yamini; ti Yakin, ìdílé àwọn Yakini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Àwọn ọmọ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ní ìdílé wọn"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "ti Nemuel"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ìdílé"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "àwọn Nemueli"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "ti Yamin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ìdílé"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "àwọn Yamini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "ti Yakin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ìdílé"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "àwọn Yakini"
+    }
+  ],
+  "timestamp": "2026-08-23T00:01:07.551979432Z",
+  "model": "glm-5.3"
+}

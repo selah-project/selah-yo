@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Àwọn Levi náà kò ní kókó gbé ⟨את⟩ àgọ́ yàrá ìjọsìn mókòmókò mókònkò tàbí ⟨את⟩ ohun èlò rẹ̀ gbogbo fún iṣẹ́ rẹ̀ mọ́.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "àwọn Levi náà kò"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "àwọn Levi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò ní"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kókó gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgọ́ yàrá ìjọsìn"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "àgọ́ yàrá ìjọsìn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "tàbí ⟨את⟩",
+      "marks": "ohun èlò rẹ̀ gbogbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ohun èlò rẹ̀"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "fún iṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:18:38.820742349Z",
+  "model": "glm-5.3"
+}

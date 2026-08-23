@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Àwọn olùṣọ́ ẹran pọ̀ ti bà ìgbo ọ̀gbìn mi jẹ́, wọ́n ti tẹ ⟨את⟩ pápá mi lẹ́sẹ̀; wọ́n fi ⟨את⟩ pápá ìnùfẹ̀ mi sí àgbẹ̀ ijò ìparun.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "àwọn olùṣọ́ ẹran"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pọ̀"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ti bà ... jẹ́"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ìgbo ọ̀gbìn mi"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "ti tẹ ... lẹ́sẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pápá mi"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "pápá mi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "fi ... sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pápá ìnùfẹ̀ mi"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "pápá"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "ìnùfẹ̀ mi"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "sí àgbẹ̀ ijò"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ìparun"
+    }
+  ],
+  "timestamp": "2026-08-23T02:12:59.747633675Z",
+  "model": "glm-5.3"
+}

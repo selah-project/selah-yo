@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Mo lẹ́mọ̀ mọ́ ẹ̀rí rẹ, Yahweh, má ṣe jẹ́ kí a ti mi lẹ́nu.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "mo lẹ́mọ̀ mọ́"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "ẹ̀rí rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "jẹ́ kí a ti mi lẹ́nu"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:58.917900760Z",
+  "model": "glm-5.3"
+}

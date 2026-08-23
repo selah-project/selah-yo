@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Yahweh ológun púpọ̀ ⟨wà⟩ pẹ̀lú wa; Ògiri-ààbọ̀ wa ni Elohim Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ológun púpọ̀"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "⟨wà⟩ pẹ̀lú wa"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "Ògiri-ààbọ̀"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:01.446896393Z",
+  "model": "glm-5.3"
+}

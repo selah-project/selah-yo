@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ẹ wá, kí a padà sí Yahweh; nítorí tí òun ti pa wá rún, ó sì máa gbọ́ wá; ó ti lu wá, ó sì máa fi bò wá.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ẹ wá"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "kí a padà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ti pa wá rún"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "ó sì máa gbọ́ wá"
+    },
+    {
+      "surface": "יך",
+      "gloss": "ó ti lu wá"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "ó sì máa fi bò wá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:00:48.562026823Z",
+  "model": "glm-5.3"
+}

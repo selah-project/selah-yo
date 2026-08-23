@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Ọkàn wa kò padà sẹ́yìn, àwọn ọ̀nà-ìrìn wa sì kò yẹ̀ kúrò láti ọ̀nà rẹ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "padà sẹ́yìn"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "sẹ́yìn"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ọkàn wa"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "sì kò yẹ̀"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "àwọn ọ̀nà-ìrìn wa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kúrò láti"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "ọ̀nà rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:59.069330189Z",
+  "model": "glm-5.3"
+}

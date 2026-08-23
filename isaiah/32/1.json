@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Wò ó, ní òdodo ni ọba yóò jẹ́ oyè, àti àwọn olórí, ní ìdájọ ni wọn yóò ṣàkóso.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "ní òdodo"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "yóò jẹ́ oyè"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "àti àwọn olórí"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ní ìdájọ"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "yóò ṣàkóso"
+    }
+  ],
+  "timestamp": "2026-08-23T05:55:04.299622298Z",
+  "model": "glm-5.3"
+}

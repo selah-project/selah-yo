@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Dawidi sì gba ⟨את⟩ àwọn àwòṣe wúrà tí ó wà lára àwọn ẹrú Hadadezer, ó sì mú wọn wá sí Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "sì gba"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àwòṣe wúrà"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "àwọn àwòṣe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ó wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lára"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "àwọn ẹrú ti"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ó sì mú wọn wá sí"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:17:08.045405037Z",
+  "model": "glm-5.3"
+}

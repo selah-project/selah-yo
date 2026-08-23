@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Àgbájọ̀ gbogbo náà gbé ⟨orí⟩ sókè, wọ́n sì fi ⟨את⟩ ohun wọn hann, àwọn ènìyàn náà sì sunkún lórúú yẹn.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "wọ́n sì gbé ⟨orí⟩ sókè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "àgbájọ̀ náà"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "wọ́n sì fi… hann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun wọn"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ohun wọn"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "wọ́n sì sunkún"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "lórúú"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yèn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:55:16.283279600Z",
+  "model": "glm-5.3"
+}

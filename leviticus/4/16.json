@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Adarí aláwọ̀-Mashiach sì mú ẹ̀jẹ màlúù náà wá sí àgọ ìpàdé",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "sì mú ... wá"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adarí"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "aláwọ̀-Mashiach"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ẹ̀jẹ ... tí"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "màlúù náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:50.793025208Z",
+  "model": "glm-5.3"
+}

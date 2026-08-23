@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 4:31",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìwọ̀ yii ni ìṣọ́-ìṣírò ẹrù wọn, nígbà gbogbo iṣẹ́ wọn nínú àgọ́ ìpàdé: àwọn pálánkí ti abúlẹ́ náà, àti àwọn ọ̀nà rẹ̀, àti àwọn kolùn rẹ̀, àti àwọn ìpilẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ìwọ̀ yii"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ìṣọ́-ìṣírò"
+    },
+    {
+      "surface": "משאם",
+      "gloss": "ẹrù wọn"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "iṣẹ́ wọn"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nínú àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "àwọn pálánkí"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "abúlẹ́ náà"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "àti àwọn ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "ועמודיו",
+      "gloss": "àti àwọn kolùn rẹ̀"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "àti àwọn ìpilẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:50:05.333276383Z",
+  "model": "glm-5.3"
+}

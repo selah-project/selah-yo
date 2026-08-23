@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Wọ́n gé ⟨את⟩ àgbò náà sí ìpín rẹ̀; Moshe sì sún ⟨את⟩ orí rẹ̀, ⟨את⟩ àwọn ìpín rẹ̀ àti ⟨את⟩ ọra rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àgbò náà"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "àgbò náà"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "wọ́n gé ... sí ìpín"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "sí àwọn ìpín rẹ̀"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ó sì sún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orí rẹ̀"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "orí rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìpín rẹ̀"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "àwọn ìpín rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọra rẹ̀"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ọra rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:36.763575124Z",
+  "model": "glm-5.3"
+}

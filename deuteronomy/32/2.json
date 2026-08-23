@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Ẹ̀kọ́ mi yóò rọ̀ bí òjò, ọ̀rọ̀ mi yóò sì rọ̀ bí i iyẹ́ òòrùn lórí koriko tútù àti bí i òjò ńlá lórí koriko.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "yóò rọ̀ (bí òjò)"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "bí òjò"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "ẹ̀kọ́ mi"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "yóò rọ̀ lọ́dọ̀dọ̀"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "bí i iyẹ́ òòrùn"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ọ̀rọ̀ mi"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "bí i òjò kékeré"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "koriko tútù"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "àti bí i òjò ńlá"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "koriko"
+    }
+  ],
+  "timestamp": "2026-08-23T00:20:50.239536382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "àti sí àwọn ọba tí ó wà ní àríwá, ní òkè àti ní Arabah, gúúsù Kinerot, àti ní ilẹ̀ isàlẹ̀, àti ní àwọn etí Dor ní ìwọ̀-oòrùn;",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ní àríwá"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ní òkè"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "àti ní Arabah"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "gúúsù"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Kinerot"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "àti ní ilẹ̀ isàlẹ̀"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "àti ní àwọn etí"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ní ìwọ̀-oòrùn (eti odò)"
+    }
+  ],
+  "timestamp": "2026-08-23T00:27:41.209514640Z",
+  "model": "glm-5.3"
+}

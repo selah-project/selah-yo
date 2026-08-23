@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 4:1",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Tí ìwọ bá padà, Yisrael, ọ̀rọ̀ Yahweh ni, padà sí ẹ̀mi; àti tí ìwọ bá yọ àwọn ohun ègbé rẹ̀ kúrò níwájú èmi, ìwọ kì ní yì káàkiri.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí ìwọ bá"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "padà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ọ̀rọ̀ (ọ̀rọ̀ ìfihàn)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí ẹ̀mi"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "padà"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "àti tí ìwọ bá"
+    },
+    {
+      "surface": "תסיר",
+      "gloss": "yọ ... kúrò"
+    },
+    {
+      "surface": "שקוציך",
+      "gloss": "àwọn ohun ègbé rẹ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì ní"
+    },
+    {
+      "surface": "תנוד",
+      "gloss": "yì káàkiri"
+    }
+  ],
+  "timestamp": "2026-08-23T06:17:40.474903161Z",
+  "model": "glm-5.3"
+}

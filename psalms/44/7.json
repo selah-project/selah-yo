@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Nítorí èmi kò gbẹ́kẹ̀ lé nínú ohun ẹja mi, idà mi kì í ṣe èyí tí ó ń gbà mí là.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "nínú ohun ẹja mi"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "àti idà mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "èyí tí ó ń gbà mí là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:58.018782738Z",
+  "model": "glm-5.3"
+}

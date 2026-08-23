@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Èmi yóò fún yín lọ́nà àánú, ó sì yóò sànú ⟨את⟩ yín, ó sì yóò sọ ⟨את⟩ yín padà sí ilẹ̀ yín.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Èmi yóò fún"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yín"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "lọ́nà àánú"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ó sì yóò sànú"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ó sì yóò sọ…padà"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ilẹ̀ yín"
+    }
+  ],
+  "timestamp": "2026-08-23T02:29:05.260464689Z",
+  "model": "glm-5.3"
+}

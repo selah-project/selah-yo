@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Má ṣe jẹ́ kí odò ńlá kún mí lọ́nà omi, má ṣe jẹ́ kí jinlẹ̀ mi mi, má ṣe jẹ́ kí ihò ńlá pa ẹnu rẹ dé lórí mi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Má ṣe jẹ́ kí"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "odò ńlá kún mi lọ́nà omi"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "odò ńlá"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "má ṣe jẹ́ kí"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "mi mi"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "jinlẹ̀"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "má ṣe jẹ́ kí"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "pa ẹnu rẹ dé"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ihò ńlá"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ẹnu rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:53.930209350Z",
+  "model": "glm-5.3"
+}

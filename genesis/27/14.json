@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ó sì lọ, ó sì mú wọn, ó sì gbé wọn wá fún ìyá rẹ̀; ìyá rẹ̀ sì ṣe oúnjẹ tí ó dùn bíi ti ẹnu ti baba rẹ̀ fẹ́rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì mú wọn"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì gbé wọn wá"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "fún ìyá rẹ̀"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ìyá rẹ̀"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "ounjẹ tí ó dùn bíi ti ẹnu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bíi ti"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "fẹ́rẹ̀"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:04:09.401818248Z",
+  "model": "glm-5.3"
+}

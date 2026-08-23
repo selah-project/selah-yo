@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ṣùgbọ́n olórí àwọn ológun-ìdájọ́ fi àwọn aláìní-agbára ilẹ̀ náà sílẹ̀ láti jẹ́ àwọn olùgbìn àti àwọn àgbẹ̀.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "àwọn aláìní-agbára"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "fi … sílẹ̀"
+    },
+    {
+      "surface": "רב",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "àwọn ológun-ìdájọ́"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "láti jẹ́ àwọn olùgbìn"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "àti àwọn àgbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:39.338643788Z",
+  "model": "glm-5.3"
+}

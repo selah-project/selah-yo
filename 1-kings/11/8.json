@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Bẹ́ẹ̀ gẹ́gẹ́ ni ó ṣe fún gbogbo àwọn aya rẹ̀ alàjèjì, ẹni tí wọ́n ń sun ìtàjẹ wẹ́wẹ́ àti ń rubọ fún àwọn ọlọ́run wọn.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Bẹ́ẹ̀ gẹ́gẹ́"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "àwọn aya rẹ̀"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "alàjèjì"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "ń sun ìtàjẹ wẹ́wẹ́"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "àti ń rubọ"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "fún àwọn ọlọ́run wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:18:09.976306313Z",
+  "model": "glm-5.3"
+}

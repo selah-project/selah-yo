@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 148,
+  "translation": "Ẹ yín fún òun, gbogbo àwọn ìránṣẹ́ rẹ̀; ẹ yín fún òun, gbogbo àwọn ọmọ-ogun rẹ̀.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ẹ yín fún òun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ẹ yín fún òun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "àwọn ọmọ-ogun rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:24.916761400Z",
+  "model": "glm-5.3"
+}

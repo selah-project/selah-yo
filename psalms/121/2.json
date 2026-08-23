@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 121,
+  "translation": "Ìrànlọ́wọ́ mi ⟨wá⟩ láti ọ̀dọ̀ Yahweh, Òǹṣe ⟨àwọn⟩ ọ̀run àti ayé.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Ìrànlọ́wọ́ mi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "láti ọ̀dọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Òǹṣe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨àwọn⟩ ọ̀run"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "àti ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:37.337451019Z",
+  "model": "glm-5.3"
+}

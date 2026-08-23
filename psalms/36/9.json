@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Wọ́n á yó nínú órọ̀-ọ̀rẹ́ ilé rẹ, àti odò ayò rẹ ni ìwọ yóò fún wọn ní mu.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "wọ́n á yó"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "órọ̀-ọ̀rẹ́"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ilé rẹ"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "àti odò"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "ayò rẹ"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "ìwọ yóò fún wọn ní mu"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:39.763875995Z",
+  "model": "glm-5.3"
+}

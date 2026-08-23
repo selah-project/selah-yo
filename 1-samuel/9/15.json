@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Yahweh sì ti fi etí Shemuẹl ṣí ṣáájú ọjọ́ kan kí Shaúl tó dé, wí pé,",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh sì"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "fi etí…ṣí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etí Shemuẹl"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "etí"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuẹl"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ṣáájú"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "tó dé"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    }
+  ],
+  "timestamp": "2026-08-23T00:46:44.510304983Z",
+  "model": "glm-5.3"
+}

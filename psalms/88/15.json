@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Ìdí tí Yahweh fi ń sọ ẹ̀mí mi nù, tí ó ń fi ojú rẹ pamọ́ lọ́dọ̀ mi?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ìdí tí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ń sọ nù"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ń pamọ́"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "lọ́dọ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:21.897290359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Àwọn ọ̀rọ̀ wọnyí ni tí Yahweh ti sọ nípa Yisrael àti nípa Yehuda.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Àwọn … wọnyí"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti nípa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-23T02:20:59.487918194Z",
+  "model": "glm-5.3"
+}

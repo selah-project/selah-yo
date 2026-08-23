@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Nígbà náà ni Avraham ṣe gbàdùrà sí Elohim, tí Elohim sì ṣe ìwòsàn fún ⟨את⟩ Avimelekh, àti ⟨את⟩ aya rẹ̀, àti àwọn ẹrú bínrin rẹ̀; wọ́n sì bí ọmọ.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ó gbàdùrà sí"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ó sì ṣe ìwòsàn fún"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "aya rẹ̀"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "aya rẹ̀"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "àti àwọn ẹrú bínrin rẹ̀"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "wọ́n sì bí ọmọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:00:13.223785920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 7:18",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ó sì mú ⟨את⟩ ilé rẹ̀ wá ọkọ̀ọ̀kan-ọkọ̀ọ̀kan; wọ́n sì mú Akan ọmọ Karmi, ọmọ Zavdi, ọmọ Zerach, ní ìdí-ọmọ Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ó sì mú … wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé rẹ̀"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "ọkọ̀ọ̀kan-ọkọ̀ọ̀kan"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "wọ́n sì mú"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Akan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "Karmi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zavdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ní ìdí-ọmọ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-23T00:26:06.143106270Z",
+  "model": "glm-5.3"
+}

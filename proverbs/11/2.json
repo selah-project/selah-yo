@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Bí ìgbega bá dé, ìṣẹ̀rí ń bọ̀; ṣùgbọ́n pẹ̀lú ⟨את⟩ àwọn onírẹ̀lẹ̀ ni ọgbọ́n wà.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "dé"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ìgbega"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ń bọ̀"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ìṣẹ̀rí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn onírẹ̀lẹ̀"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "àwọn onírẹ̀lẹ̀"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ọgbọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T04:07:09.525002725Z",
+  "model": "glm-5.3"
+}

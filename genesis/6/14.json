@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ṣe fún ra rẹ ọkọ̀ ti igi gopher; yára-yára ni ìwọ gbọ́dọ̀ ṣe ⟨את⟩ ọkọ̀ náà, kí o sì fi ẹ̀rọ̀ bọ́ ⟨את⟩ ọ́ ní inú àti ní ìta pẹ̀lú ẹ̀rọ̀.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ṣe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ra rẹ"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "ọkọ̀"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ti igi"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gopher"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "yára-yára"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ìwọ gbọ́dọ̀ ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkọ̀ náà"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ọkọ̀ náà"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "kí o sì fi ẹ̀rọ̀ bọ́"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ọ́"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ní inú"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "àti ní ìta"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "pẹ̀lú ẹ̀rọ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:27.192785298Z",
+  "model": "glm-5.3"
+}

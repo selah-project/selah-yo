@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Paroh sì kíyàn láti pe Moshe àti Aharon; ó sì wí pé, Mo ti ẹ̀ṣẹ̀ sí Yahweh, Elohim yín, àti sí yín.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "sì kíyàn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "láti pe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "àti Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Mo ti ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "àti sí yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:46.489913304Z",
+  "model": "glm-5.3"
+}

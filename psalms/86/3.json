@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 86,
+  "translation": "Ṣe àánú fún mi, Adonai, nítorí tí èmi nké lọ sí ọ gbogbo ọjọ́.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ṣe àánú fún mi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "èmi nké lọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:32.644513660Z",
+  "model": "glm-5.3"
+}

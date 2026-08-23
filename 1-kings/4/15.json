@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Achimaats, ní Naphtali; òun náà gba ⟨את⟩ Basemat, ọmọbìnrin Shelomoh, láti ṣe ìyàwó.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "ní Naphtali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basemat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basemat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbìnrin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "láti ṣe ìyàwó"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:25.227686828Z",
+  "model": "glm-5.3"
+}

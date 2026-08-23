@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àwọn ọmọ Yisra'el sì kó ara wọn jóọ̀ ní Gilgal, wọ́n sì ṣe ⟨את⟩ Pesach ní ọjọ́ kẹrìnlá oṣù náà ní ìrọ̀lẹ́, ní àwọn pẹ̀tẹ́lẹ̀ Yericho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "sì kó ara wọn jóọ̀"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ní Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "wọ́n sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "kẹrìn(lá)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "oṣù náà"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ní ìrọ̀lẹ́"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "ní àwọn pẹ̀tẹ́lẹ̀"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yericho"
+    }
+  ],
+  "timestamp": "2026-08-23T00:22:47.217365736Z",
+  "model": "glm-5.3"
+}

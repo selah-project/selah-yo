@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ọ̀rọ̀ tí ó wá sí Yirmeyahu láti ọ̀dọ̀ Yahweh ⟨את⟩, wí pé:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Ọ̀rọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ó wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "láti ọ̀dọ̀ ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    }
+  ],
+  "timestamp": "2026-08-23T02:20:59.487412340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Yahweh ń kó Yerushalayim díẹ̀ sí i; ó ń kójọ àwọn tí wọ́n ti sọ Yisrael nù ká.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "ń kó díẹ̀ sí i"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "àwọn tí wọ́n ti sọ... nù ká"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "ń kójọ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:57.431872068Z",
+  "model": "glm-5.3"
+}

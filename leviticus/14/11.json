@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Adarí-ìjànbá tí ó ń mọ́ ẹni náà mó sì máa ṣe kí ⟨את⟩ ọkùnrin tí wọ́n ń mọ́ ó mó àti wọ́n (nǹkan wọn) dúró níwájú Yahweh, ní ọ̀nà-ìnú àgọ ìpàdé.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "ó máa ṣe kí... dúró"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adarí-ìjànbá"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "tí ó ń mọ́... mó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkùnrin tí wọ́n ń mọ́ ó mó"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "tí wọ́n ń mọ́ ó mó"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "àti ⟨את⟩ wọn",
+      "marks": "nǹkan wọn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọ̀nà-ìnú"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:39:39.935306361Z",
+  "model": "glm-5.3"
+}

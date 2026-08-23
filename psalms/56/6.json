@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 56,
+  "translation": "Gbogbo ọjọ́ ni wọ́n ń fa ọ̀rọ̀ mi wéré; gbogbo èrò inú wọn sì wà lójú mi fún ìkà.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀ mi"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "ń fa wéré"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lójú mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "èrò inú wọn"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "fún ìkà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:38.681065330Z",
+  "model": "glm-5.3"
+}

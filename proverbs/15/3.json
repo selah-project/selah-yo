@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ní ibi gbogbo ni ojú Yahweh ti wà, ń ṣọ́ àwọn búburú àti àwọn olóore.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "ń ṣọ́"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "àwọn búburú"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "àti àwọn olóore"
+    }
+  ],
+  "timestamp": "2026-08-23T04:08:30.742298932Z",
+  "model": "glm-5.3"
+}

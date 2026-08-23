@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ìwọ mọ ⟨את⟩ Avner, ọmọ Ner, pé ó wá láti tà ọ́ lọ́nà èké, àti láti mọ ⟨את⟩ ìṣàwọ̀ rẹ àti ⟨את⟩ ìwọ̀lé rẹ, àti láti mọ ⟨את⟩ gbogbo ohun tí ìwọ ń ṣe.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ìwọ mọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "láti tà ọ́ lọ́nà èké"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ó wá"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "àti láti mọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìṣàwọ̀ rẹ"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "ìṣàwọ̀ rẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìwọ̀lé rẹ"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "ìwọ̀lé rẹ"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "àti láti mọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ohun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T00:58:40.093287639Z",
+  "model": "glm-5.3"
+}

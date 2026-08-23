@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Tí ń ṣe tirẹ ni ọjọ́, bẹ́ẹ̀ gẹ́gẹ́ ni òru jẹ́ tirẹ; ìwọ fi ìmọ́lẹ̀ àti òòrùn ṣẹ̀ṣẹ́ lé pẹ̀lú ìmọ̀ràn.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tirẹ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bẹ́ẹ̀ gẹ́gẹ́"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tirẹ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "ṣẹ̀ṣẹ́ lé pẹ̀lú ìmọ̀ràn"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ìmọ́lẹ̀"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "àti òòrùn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:27.413020191Z",
+  "model": "glm-5.3"
+}

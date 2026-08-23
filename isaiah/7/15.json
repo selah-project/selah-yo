@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Warankasi àti oyin ni ó máa jẹ, láti mọ̀ láti kọ̀ búburú kúrò, àti láti yàn dídára.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "Warankasi"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "àti oyin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ni ó máa jẹ"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "láti mọ̀"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "láti kọ̀ … kúrò"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "àti láti yàn"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dídára"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:47.581141250Z",
+  "model": "glm-5.3"
+}

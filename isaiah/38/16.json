@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Adonai, ní àwọn nǹkan wọ̀nyí ni àwọn ènìyàn ń yè, àti nínú gbogbo wọn ni ìyè ẹ̀mí mi wà; ìwọ sì máa sàn mí fún mi, kí ìwọ sọ mí di ààyè.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ní àwọn nǹkan wọ̀nyí"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "àwọn ènìyàn ń yè"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "àti nínú gbogbo"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ìyè"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "ותחלימני",
+      "gloss": "ìwọ sì máa sàn mí fún mi"
+    },
+    {
+      "surface": "והחיני",
+      "gloss": "kí ìwọ sọ mí di ààyè"
+    }
+  ],
+  "timestamp": "2026-08-23T01:53:07.079683656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 79,
+  "translation": "Wọ́n fi ⟨את⟩ òkú àwọn ìránṣẹ́ Rẹ ṣe oúnjẹ fún ẹyẹ̀ òfurufú, ẹran ara àwọn olókìkí Rẹ fún ẹranko ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "wọ́n fi ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òkú àwọn ìránṣẹ́ Rẹ"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "òkú"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "àwọn ìránṣẹ́ Rẹ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "fún ẹyẹ̀"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "òfurufú"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ẹran ara"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "àwọn olókìkí Rẹ"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "fún ẹranko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:44.058017602Z",
+  "model": "glm-5.3"
+}

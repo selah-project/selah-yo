@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 96,
+  "translation": "Ẹ kọ orin fún Yahweh, ẹ bukún orúkọ rẹ̀; Ẹ sọ ìgbàlà rẹ̀ dúró láti ọjọ́ sí ọjọ́.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ẹ kọ orin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ẹ bukún"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ẹ sọ ìròyìn rere \/ ẹ sọ dúró"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "láti ọjọ́"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sí ọjọ́"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ìgbàlà rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:16.760378881Z",
+  "model": "glm-5.3"
+}

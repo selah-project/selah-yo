@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 18:17",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ṣùgbọ́n akọbí ẹfọ̀n, tàbí akọbí àgùntàn, tàbí akọbí ewúrẹ́, iwọ kò ní gbà̀rà; mímọ́ ni wọ́n: ⟨את⟩ ẹjẹ́ wọn ni iwọ ó sọ ṣáájú lórí pẹpẹ, àti ⟨את⟩ iyẹ́ wọn ni iwọ ó fi ṣe ẹrù-ìjẹfun, ìrúbọ iná fún ìwọ̀ ẹrù-ìdúnù fún Yahweh.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ṣùgbọ́n"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "akọbí"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ẹfọ̀n"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "akọbí"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "àgùntàn"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "akọbí"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ewúrẹ́"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "gbà̀rà"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹjẹ́ wọn"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ẹjẹ́ wọn"
+    },
+    {
+      "surface": "תזרק",
+      "gloss": "sọ ṣáájú"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "iyẹ́ wọn"
+    },
+    {
+      "surface": "חלבם",
+      "gloss": "iyẹ́ wọn"
+    },
+    {
+      "surface": "תקטיר",
+      "gloss": "fi ṣe ẹrù-ìjẹfun"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ìrúbọ iná"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "fún ìwọ̀"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ẹrù-ìdúnù"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:58:14.256480227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Satan sì dáhùn ⟨את⟩ Yahweh, ó sì wí pé, 'Awọ ní nípa awọ; àti gbogbo ohun tí ó wà lọ́dọ̀ ọkùnrin, ó máa fi ta nípa èèmí rẹ̀.'",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "sì dáhùn"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "עור",
+      "gloss": "awọ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "עור",
+      "gloss": "awọ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ó wà lọ́dọ̀ ọkùnrin"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ó máa fi ta"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "èèmí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:16:40.273292455Z",
+  "model": "glm-5.3"
+}

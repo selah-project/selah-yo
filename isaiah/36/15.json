@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Ki Chizkiyahu má ṣe jẹ́ kí ẹ gbẹ́kẹ̀ lé ⟨אתכם⟩ sí Yahweh, ó wí pé, Yahweh yóò gbà wá là gan-an; ìlú yìí kì yóò sì fi sílẹ̀ sí ọwọ́ ọba Ashur.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ki … má ṣe"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "yín"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó wí pé"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "gbà … là gan-an"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "yóò gbà wá là"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "yóò fi sílẹ̀"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sí ọwọ́"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-23T01:53:44.578011297Z",
+  "model": "glm-5.3"
+}

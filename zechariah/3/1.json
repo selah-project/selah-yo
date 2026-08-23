@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 3:1",
+  "book": "zechariah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì fi hàn mí ⟨את⟩ Yehoshua aláboòrùn ńlá, dúró níwájú ojìṣẹ́ Yahweh; Sátáànì sì dúró ní ọ̀tún rẹ̀ láti jiyàn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "ó sì fi hàn mí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aláboòrùn"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ojìṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והשטן",
+      "gloss": "Sátáànì sì"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ọ̀tún rẹ̀"
+    },
+    {
+      "surface": "לשטנו",
+      "gloss": "láti jiyàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:18:29.251344196Z",
+  "model": "glm-5.3"
+}

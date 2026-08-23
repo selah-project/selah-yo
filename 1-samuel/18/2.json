@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Sha'ul sì gba á ní ọjọ́ yẹn, kò sì fún un láàyè láti padà sí ilé baba rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "sì gba á"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "fún un láàyè"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "láti padà"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sí ilé"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:51:39.958952168Z",
+  "model": "glm-5.3"
+}

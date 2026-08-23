@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Àwọn ìbàjẹ́ ti dúró de mi láti pa mí run; ṣùgbọ́n ní àwọn ẹ̀rì rẹ ni mo máa ń ṣe ìròyìn ìmọ̀lẹ̀.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "de mi"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "ti dúró de"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn ìbàjẹ́"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "láti pa mí run"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "àwọn ẹ̀rì rẹ"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "mo máa ń ṣe ìròyìn ìmọ̀lẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:46.800449146Z",
+  "model": "glm-5.3"
+}

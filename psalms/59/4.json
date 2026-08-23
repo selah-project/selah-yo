@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 59,
+  "translation": "Nítorí wo, wọ́n fi ọ̀nà-dínà sílẹ̀ fún èmí mi; àwọn alágbára ti kó ara wọn jọ lódí mi — kì í ṣe ìjàmbá mi, kì í ṣe ẹ̀ṣẹ̀ mi, Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "wọ́n fi ọ̀nà-dínà sílẹ̀"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "fún èmí mi"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "wọ́n kó ara wọn jọ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lódí mi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "àwọn alágbára"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ìjàmbá mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kì í ṣe"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ẹ̀ṣẹ̀ mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:13.305653883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Njẹ́ èmi kò tíì kọ ọ́ ní ìsálẹ̀-ọjọ́ àtijọ́, ní ìmọ̀ràn àti ní ìmọ̀?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "njẹ́ ... kò"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "èmi kò tíì kọ ọ́"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ́"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ní ìsálẹ̀-ọjọ́ àtijọ́"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "ní ìmọ̀ràn"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "àti ní ìmọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:10:46.606977549Z",
+  "model": "glm-5.3"
+}

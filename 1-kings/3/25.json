@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ọba wí pé: Ẹ gé ⟨את⟩ omọ alààyè náà sí méjì, kí ẹ fi ⟨את⟩ ìdàmẹ́jì fún ẹyọkan, àti ⟨את⟩ ìdàmẹ́jì fún ìkejì.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ọba wí pé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "Ẹ gé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omọ alààyè náà"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "omọ alààyè náà"
+    },
+    {
+      "surface": "החי",
+      "gloss": "alààyè"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "sí méjì"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "kí ẹ fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdàmẹ́jì"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ìdàmẹ́jì"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "fún ẹyọkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìdàmẹ́jì"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ìdàmẹ́jì"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "fún ìkejì"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:54.055187015Z",
+  "model": "glm-5.3"
+}

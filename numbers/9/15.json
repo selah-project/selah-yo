@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ní ọjọ́ tí wọ́n gbé ⟨את⟩ àgọ́ dílẹ̀, kíkún bo ⟨את⟩ àgọ́ yìí, àgọ́ ẹ̀rí yìí; ní ìṣálẹ́ ó sì wà lórí àgọ́ yìí bí irísí iná títí di àárọ̀.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "gbé dílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgọ́"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "kíkún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgọ́ yìí"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "fún àgọ́"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ẹ̀rí"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "ní ìṣálẹ́"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ó sì wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "bí irísí"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "àárọ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:53:42.789637808Z",
+  "model": "glm-5.3"
+}

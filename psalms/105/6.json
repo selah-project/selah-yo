@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ẹyin ìrúgbìn Avraham, ìránṣẹ́ rẹ̀; ọmọ Yaakov, àwọn tí ó yan.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "ìrúgbìn"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "àwọn tí ó yan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:00.176657067Z",
+  "model": "glm-5.3"
+}

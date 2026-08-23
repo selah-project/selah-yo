@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 43:33",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Wọ́n sì jókòó níwájú rẹ̀, àkọ́bí ní gẹ́gẹ́ bí ìbí-àkọ́bí rẹ̀, àti ọmọ kékeré ní gẹ́gẹ́ bí kékerákéerẹ̀ rẹ̀; àwọn ọkùnrin sì ya wéré, ọkùnrin síi wo ẹlòmíràn.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "wọ́n sì jókòó"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "níwájú rẹ̀"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "àkọ́bí"
+    },
+    {
+      "surface": "כבכרתו",
+      "gloss": "gẹ́gẹ́ bí ìbí-àkọ́bí rẹ̀"
+    },
+    {
+      "surface": "והצעיר",
+      "gloss": "àti ọmọ kékeré"
+    },
+    {
+      "surface": "כצערתו",
+      "gloss": "gẹ́gẹ́ bí kékerákéerẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ויתמהו",
+      "gloss": "wọ́n sì ya wéré"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin kọ̀ọ̀kan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ẹlòmíràn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:10:50.103012660Z",
+  "model": "glm-5.3"
+}

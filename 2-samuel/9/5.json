@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Nígbà náà, ọba David fi ránṣẹ́, ó sì gbé e ní ilé Machir, ọmọ Ammiel, láti Lo-Devar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ó fi ránṣẹ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "ó sì gbé e"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "láti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lo-Devar"
+    }
+  ],
+  "timestamp": "2026-08-23T01:00:04.237944903Z",
+  "model": "glm-5.3"
+}

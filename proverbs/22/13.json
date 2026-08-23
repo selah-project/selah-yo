@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ìwọ̀-inú sọ pé: Kìkún àti wà níta; ní àárín àwọn ọ̀nà gbòòrò ni a ó pa mí.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sọ pé"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "Ìwọ̀-inú"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "Kìkún"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "àti wà níta"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ní àárín"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "àwọn ọ̀nà gbòòrò"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "a ó pa mí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:10:44.397530Z",
+  "model": "glm-5.3"
+}

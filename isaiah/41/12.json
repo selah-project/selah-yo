@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Iwọ yóò wá wọn, ṣùgbọ́n iwọ kì yóò rí wọn — àwọn ọkùnrin ìṣàkíyàn rẹ; wọn yóò di bí ohun tí kò tíì wà àti bí òfo, àwọn ọkùnrin ogun rẹ.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "Iwọ yóò wá wọn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n iwọ kì yóò"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "rí wọn"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "ìṣàkíyàn rẹ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "wọn yóò di"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "bí ohun tí kò tíì wà"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "àti bí òfo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "ogun rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:55:21.822192414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ní ọjọ́ yìí, Yahweh gbogbo-àwọn-ogun yóò jẹ́ adé ògo, àti àkọ̀tán ẹwa, fún ìdíwọ̀n àwọn ènìyàn rẹ̀,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́ yìí"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "gbogbo-àwọn-ogun"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "fún adé"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "ògo"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "àti fún àkọ̀tán"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "ẹwa"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "fún ìdíwọ̀n"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "àwọn ènìyàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:49:14.421183568Z",
+  "model": "glm-5.3"
+}

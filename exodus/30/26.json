@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ìwọ kí ó sì fi yọ inú rẹ̀ ⟨את⟩ àgọ́ ìpàdé àti ⟨את⟩ àpótí ẹ̀rí.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "kí ó sì fi yọ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inú rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgọ́ ìpàdé"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àpótí ẹ̀rí"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "àpótí"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ẹ̀rí"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:33.632245080Z",
+  "model": "glm-5.3"
+}

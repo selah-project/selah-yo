@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Láti inú ìfẹsẹ̀-jẹ̀ Rẹ wọ́n sálẹ̀; láti ohùn ìrun-mẹ́ta Rẹ wọ́n yára lọ kúrò.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "láti inú"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "ìfẹsẹ̀-jẹ̀ Rẹ"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "wọ́n sálẹ̀"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "ìrun-mẹ́ta Rẹ"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "wọ́n yára lọ kúrò"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:06.440762848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Elohim mi, èmi ń pè ọ́ ní ọ̀sán ṣùgbọ́n o kò dáhùn, àti ní ọ̀rán ìdálú, kò sí ìdákẹ́jẹ́ fún mi.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "èmi ń pè ọ́"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ní ọ̀sán"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n kò"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "dáhùn (o kò)"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "àti ní ọ̀rán ìdálú"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ìdákẹ́jẹ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:11.294410887Z",
+  "model": "glm-5.3"
+}

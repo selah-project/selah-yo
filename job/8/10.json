@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 8:10",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ṣé wọn kì í yó ọ́ ní kínní? Wọn yóò sọ fún ọ́, wọn yóò sì jáde wọ́ ọ̀rọ̀ láti inú ọkàn wọn.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ṣé…kì í"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "yó ọ́"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wọn yóò sọ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ́"
+    },
+    {
+      "surface": "ומלבם",
+      "gloss": "láti inú ọkàn wọn"
+    },
+    {
+      "surface": "יוצאו",
+      "gloss": "jáde wọ́"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "ọ̀rọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:16:56.960174977Z",
+  "model": "glm-5.3"
+}

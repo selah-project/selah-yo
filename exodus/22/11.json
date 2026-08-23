@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ṣùgbọ́n tí wọ́n bá jí gbé lọ lọ́dọ̀ rẹ̀, ó máa san padà fún olúwa rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ṣùgbọ́n tí"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "jí"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "gbé lọ"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "lọ́dọ̀ rẹ̀"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ó máa san padà"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "fún olúwa rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:24.371499182Z",
+  "model": "glm-5.3"
+}

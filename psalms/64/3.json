@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 64,
+  "translation": "Fi mi pamọ́ kúrò lọ́dọ̀ ìpàjọ ìrẹ́lẹ̀, kúrò nínú ìbínú sílẹ̀ ti àwọn olṣe ìkọ̀rùn.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Fi mi pamọ́"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "kúrò lọ́dọ̀ ìpàjọ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ìrẹ́lẹ̀ (àwọn ènìyàn búburú)"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "kúrò nínú ìbínú sílẹ̀"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "àwọn olṣe"
+    },
+    {
+      "surface": "און",
+      "gloss": "ìkọ̀rùn (aṣiwèrè)"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:48.778225500Z",
+  "model": "glm-5.3"
+}

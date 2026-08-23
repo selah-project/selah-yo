@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 133,
+  "translation": "Gẹ́gẹ́ bí oyì́ Chermon tí ó ń sọ̀kalè sí àwọn òkè Tsion, nítorí níbẹ̀ ni Yahweh pàṣẹ ⟨את⟩ ìbùkún — ìyè títí láéláé.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Gẹ́gẹ́ bí oyì́"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "tí ó ń sọ̀kalè"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí àwọn òkè"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìbùkún"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ìbùkún"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ìyè"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:25.385137433Z",
+  "model": "glm-5.3"
+}

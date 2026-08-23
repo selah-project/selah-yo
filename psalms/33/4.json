@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Nítorí ọ̀rọ̀ Yahweh kọ́ sí, àti gbogbo iṣẹ́ rẹ̀ sì wà ní ìgbẹ́mí-lé-gbẹ́mí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "kọ́ sí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ní ìgbẹ́mí-lé-gbẹ́mí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:06.604516463Z",
+  "model": "glm-5.3"
+}

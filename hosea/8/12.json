@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Mo ti kọ ọ́nọ̀ ọ̀pọ̀lọpọ̀ nnkan nípa òfin mi, wọ́n sì ka wọn sí bí ohun àjèjì.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "Mo ti kọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ọ̀pọ̀lọpọ̀ nnkan"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "nípa òfin mi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bí"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ohun àjèjì"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "a ka wọn sí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:02:22.432398004Z",
+  "model": "glm-5.3"
+}

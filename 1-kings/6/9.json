@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ó sì kọ́ ⟨את⟩ ilé yìí, ó sì parí rẹ̀; ó sì bo ⟨את⟩ ilé yìí ní ìgbin igi àti ìlànà igiáradì.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Ó sì kọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé yìí"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé yìí"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "ó sì parí rẹ̀"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "ó sì bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé yìí"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé yìí"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ní ìgbin igi"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "àti ìlànà igi"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "igiáradì"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:18.802312819Z",
+  "model": "glm-5.3"
+}

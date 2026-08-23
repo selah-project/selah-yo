@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ọkàn àwọn ọlọgbọ́n wa ní ilé ìbánújẹ́, àti ọkàn àwọn aláìmọ̀kan wa ní ilé ayẹyẹ.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "àwọn ọlọgbọ́n"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ìbánújẹ́"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "àti ọkàn"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "àwọn aláìmọ̀kan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ayẹyẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:26.973680020Z",
+  "model": "glm-5.3"
+}

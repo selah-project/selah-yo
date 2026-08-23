@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Tí ó ba jẹ́ pé ọkùnrin aláìnítorọ̀ ni, má ṣe fi ìdúnìwọ̀n rẹ̀ sùn pẹ̀lú.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tí ó ba jẹ́ pé"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aláìnítorọ̀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "sùn"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "pẹ̀lú ìdúnìwọ̀n rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:16:44.918105393Z",
+  "model": "glm-5.3"
+}

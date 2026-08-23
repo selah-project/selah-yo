@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Dafidi sì béèrè lọ́wọ́ Yahweh pé, Ṣé èmi ó lọ, ṣẹ́ àwọn Plishti wọ̀nyí bí? Yahweh sì sọ fún Dafidi pé, Lọ, ṣẹ àwọn Plishti, kí o sì gbà Kẹila là ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "sì béèrè lọ́wọ́"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Ṣé èmi ó lọ"
+    },
+    {
+      "surface": "וְהִכֵּיתִי",
+      "gloss": "ṣẹ"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "àwọn Plishti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọ̀nyí"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lọ"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ṣẹ"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "àwọn Plishti"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "kí o sì gbà... là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kẹila"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kẹila"
+    }
+  ],
+  "timestamp": "2026-08-23T00:53:20.111069952Z",
+  "model": "glm-5.3"
+}

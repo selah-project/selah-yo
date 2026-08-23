@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àti bíi tilẹ̀ sí orí àwọn ẹrú àti sí orí àwọn ẹrú tí wọ́n fi ṣe ìrànlọ́wọ́ lọ́dọ̀ yín, ní àwọn ọjọ́ yẹn ni èmi yóò wú ⟨את⟩ ẹ̀mí mi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "àti bíi tilẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "àwọn ẹrú"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti sí orí"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "àwọn ẹrú tí wọ́n fi ṣe ìrànlọ́wọ́ lọ́dọ̀ yín"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ní àwọn ọjọ́"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "èmi yóò wú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí mi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ẹ̀mí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:05:35.243646733Z",
+  "model": "glm-5.3"
+}

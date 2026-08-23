@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 80,
+  "translation": "Àwọn òkè bo ìmọ́lẹ̀ rẹ̀, èso rẹ̀ sì jẹ́ àwọn sédárà ti El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "ìmọ́lẹ̀ rẹ̀"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "èso rẹ̀"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "àwọn sédárà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti El"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:49.975453316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ní ọjọ́ yìí Adonai yóò yọ ⟨את⟩ ọgbọ́n ti àwọn èrùǹgbà ẹsẹ̀ kọ́kọ́, àti àwọn àmì ìdí bílálí, àti àwọn àkànṣe òṣùpá kúrò.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "yóò yọ kúrò"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbọ́n ti àwọn èrùǹgbà ẹsẹ̀"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ọgbọ́n \/ ògo"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "àwọn èrùǹgbà ẹsẹ̀"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "àwọn àmì ìdí bílálí"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "àwọn àkànṣe òṣùpá"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:06.370058852Z",
+  "model": "glm-5.3"
+}

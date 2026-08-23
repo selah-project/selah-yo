@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ó sì yẹ nígbà tí Baasha gbọ́, ó sì dá dúró kúrò ní kíkọ́ ⟨את⟩ Rama, ó sì jẹ́ kí iṣẹ́ rẹ̀ dúró.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì yẹ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nígbà tí ó gbọ́"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "ó sì dá dúró kúrò"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ní kíkọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ó sì jẹ́ kí ó dúró"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "iṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:29:02.692937548Z",
+  "model": "glm-5.3"
+}

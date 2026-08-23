@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 18:29",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nínú gbogbo àwọn ẹ̀bùn yín, ẹ gbé ⟨את⟩ gbogbo èrùníyà Yahweh — kúrò nínú gbogbo ipò rẹ̀ tí ó gbé jùlà, ⟨את⟩ èpọ̀ mímọ́ rẹ̀ ní nínú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "nínú gbogbo"
+    },
+    {
+      "surface": "מתנתיכם",
+      "gloss": "àwọn ẹ̀bùn yín"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ẹ gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo èrùníyà Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "èrùníyà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kúrò nínú gbogbo"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "ipò rẹ̀ tí ó gbé jùlà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èpọ̀ mímọ́ rẹ̀"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "èpọ̀ mímọ́ rẹ̀"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ní nínú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:58:18.087150362Z",
+  "model": "glm-5.3"
+}

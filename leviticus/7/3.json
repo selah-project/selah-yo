@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àti ⟨את⟩ gbogbo ọra rẹ̀ ni yóò mú wá láti inú rẹ̀: ⟨את⟩ ẹyẹ-ìròké ara àti ⟨את⟩ ọra tí ó bo ⟨את⟩ inú ara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ọra rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "ọra rẹ̀"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "yóò mú wá"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "láti inú rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹyẹ-ìròké ara"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ẹyẹ-ìròké ara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ọra"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "tí ó bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inú ara"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "inú ara"
+    }
+  ],
+  "timestamp": "2026-08-22T23:36:02.149618070Z",
+  "model": "glm-5.3"
+}

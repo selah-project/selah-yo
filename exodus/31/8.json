@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "àti ⟨את⟩ àgọnàyàn àti ⟨את⟩ ohun-èlò rẹ̀, àti ⟨את⟩ ìjọ-ìtan mímọ́ àti ⟨את⟩ gbogbo ohun-èlò rẹ̀, àti ⟨את⟩ pẹpẹ egbógí:",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àgọnàyàn"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "àgọnàyàn náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìjọ-ìtan mímọ́"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ìjọ-ìtan"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "pẹpẹ egbógí"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "egbógí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:57.065523200Z",
+  "model": "glm-5.3"
+}

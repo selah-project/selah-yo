@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Ó lé wọn lọ, ó kọjà ní àlàáfíà — ọ̀nà kan pẹ̀lú ẹsẹ̀ rẹ̀ kò fi bọ́.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "ó lé wọn lọ"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ó kọjá"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ní àlàáfíà"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "pẹ̀lú ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "fi bọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:56:59.395442791Z",
+  "model": "glm-5.3"
+}

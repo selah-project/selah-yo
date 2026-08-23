@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ó sì ṣe é dúró fún Yaakov gẹ́gẹ́ bí òfin, fún Yisrael gẹ́gẹ́ bí májẹ̀mú àìnípẹ̀kun,",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "Ó sì ṣe é dúró fún"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "fún Yaakov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "gẹ́gẹ́ bí òfin"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fún Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "àìnípẹ̀kun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:43.885949469Z",
+  "model": "glm-5.3"
+}

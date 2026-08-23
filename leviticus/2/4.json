@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 2:4",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ìwọ̀síwọ̀sí tí ó bá sì kó ebo ìròybọ̀ — oúnjín nínú àgọ́-íná — ìròsùn fífẹ̀ ni yóò jẹ́: àkàrà láìsí ìsú, tí a bá pò pọ̀ nínú epo, àti àwọn àkàrà-títí láìsí ìsú, tí a fi epo kún.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ìwọ̀síwọ̀sí tí ó bá sì"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "kó"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ebo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ìròybọ̀"
+    },
+    {
+      "surface": "מאפה",
+      "gloss": "oúnjín"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "nínú àgọ́-íná"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ìròsùn fífẹ̀"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "àkàrà"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "láìsí ìsú"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "tí a bá pò pọ̀"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "nínú epo"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "àti àwọn àkàrà-títí"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "láìsí ìsú"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "tí a fi epo kún"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "nínú epo"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:00.204802547Z",
+  "model": "glm-5.3"
+}

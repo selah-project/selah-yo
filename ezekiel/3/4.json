@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì wí fún mi pé: Ọmọ ènìyàn, lọ, wá sí ilé Yisrael, ó sì bá wọn sọ̀rọ̀ ní àwọn ọ̀rọ̀ mi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ó sì…sọ̀rọ̀"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "ní àwọn ọ̀rọ̀ mi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "bá wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:35:46.192171649Z",
+  "model": "glm-5.3"
+}

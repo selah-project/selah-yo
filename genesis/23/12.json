@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Avraham sì forí kan ilẹ̀ níwájú àwọn ènìyàn ilẹ̀ náà.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "sì forí kan ilẹ̀"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "עם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:00:30.302792036Z",
+  "model": "glm-5.3"
+}

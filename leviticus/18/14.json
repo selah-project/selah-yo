@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ihòhò ara ará bàbá rẹ, mà ṣe fò ọ́; sí ojú ìyàwó rẹ, má ṣe sún mọ́; ìyàwó ará-bàbá rẹ ni.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ihòhò ara"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ará"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bàbá rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mà ṣe"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "fò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ojú"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ìyàwó rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "sún mọ́"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "ìyàwó ará-bàbá rẹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:47.458443269Z",
+  "model": "glm-5.3"
+}

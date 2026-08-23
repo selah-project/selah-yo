@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 92,
+  "translation": "Nítorí kíyèsi, àwọn ọ̀tá rẹ, Yahweh; nítorí kíyèsi, àwọn ọ̀tá rẹ yóò ṣègbé; gbogbo àwọn oníṣẹ́ búburú yóò tú ká.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kíyèsi"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "àwọn ọ̀tá rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kíyèsi"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "àwọn ọ̀tá rẹ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "yóò ṣègbé"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "yóò tú ká"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "àwọn oníṣẹ́"
+    },
+    {
+      "surface": "און",
+      "gloss": "búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:30.044346960Z",
+  "model": "glm-5.3"
+}

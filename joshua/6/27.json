@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Yahweh sì wà pẹ̀lú Yehoshua; ìròyìn rẹ̀ sì kàn gbogbo ilẹ̀ náà.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "pẹ̀lú ⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wà"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ìròyìn rẹ̀"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kàn gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:24:36.418637359Z",
+  "model": "glm-5.3"
+}

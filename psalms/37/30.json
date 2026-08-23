@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ẹnu olódọ̀tun máa ń parọ̀rọ̀ ọgbọ́n, ahọ́n rẹ̀ sì máa ń sọ ìdájọ tó tọ́.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olódọ̀tun"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "máa ń parọ̀rọ̀"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ọgbọ́n"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ahọ́n rẹ̀ sì"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "máa ń sọ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ tó tọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:11.391111057Z",
+  "model": "glm-5.3"
+}

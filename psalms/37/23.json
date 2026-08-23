@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Láti ọ̀dọ̀ Yahweh ni àwọn ìrìn-àjò ẹ̀dá ènìyàn ti wà láìṣe; Yahweh sì fẹ́ ọ̀nà rẹ̀.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "láti ọ̀dọ̀ Yahweh"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "àwọn ìrìn-àjò"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ẹ̀dá ènìyàn"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "ti wà láìṣe"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "Yahweh fẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:15.196877064Z",
+  "model": "glm-5.3"
+}

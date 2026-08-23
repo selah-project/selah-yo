@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Nínú ìbàmúra ó gbin ⟨את⟩ ará rẹ̀ lẹ́sẹ̀, nínú agbára rẹ̀ sì ó ṣerá pẹ̀lú ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "nínú ìbàmúra"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ó gbin lẹ́sẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ará rẹ̀"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ará rẹ̀"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "àti nínú agbára rẹ̀"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ó ṣerá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:03:29.528141511Z",
+  "model": "glm-5.3"
+}

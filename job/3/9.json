@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ki àwọn ìràwọ̀ ìrọ̀lẹ́ rẹ̀ dìdu dúdú; kí ó retí ìmọ́lẹ̀, ṣùgbọ́n kò sí; kí ó má sì ríi pálé ojú òwúrọ̀.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "ki wọn dìdu dúdú"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "àwọn ìràwọ̀"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "ìrọ̀lẹ́ rẹ̀"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "kí ó retí"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ìmọ́lẹ̀"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ṣùgbọ́n kò sí"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí ó má"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ríi"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "pálé ojú"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "òwúrọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:15:05.564569367Z",
+  "model": "glm-5.3"
+}

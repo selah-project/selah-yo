@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Àwọn olóòtítọ́ sì yọ̀ ayọ̀, kí wọ́ gorí ayọ̀ níwájú Elohim, kí wọ́ sì dùn ìnu pẹ̀lú ayọ̀ tó pọ̀.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "àwọn olóòtítọ́ sì"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "yọ̀ ayọ̀"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "kí wọ́ gorí ayọ̀"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "kí wọ́ sì dùn ìnu"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "pẹ̀lú ayọ̀ tó pọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:55.940110760Z",
+  "model": "glm-5.3"
+}

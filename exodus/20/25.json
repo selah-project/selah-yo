@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "̀Ìgbà tí ó bá jẹ́ pé o ṣe àwọn òkúta fún mi gẹ́gẹ́ bí pẹpẹ, má ṣe kọ́ ọ́ láti ⟨את⟩ òkúta tí a gé — nítorí tí o bá ti gbé ọ̀kọ̀ rẹ bá àárín òkúta, o ti di aláìmọ́.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ìgbà tí ó bá jẹ́ pé"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "àwọn òkúta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o ṣe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "kọ́"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òkúta tí a gé"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "òkúta tí a gé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ọ̀kọ̀ rẹ"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "o gbé sókè"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "bá á lọ́run"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "ò di aláìmọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:06.219612294Z",
+  "model": "glm-5.3"
+}

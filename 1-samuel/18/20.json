@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Míkál, ọmọbìnrin Sháúl, sì fẹ́ ⟨את⟩ Dáfídì; wọ́n sì sọ fún Sháúl, ohun náà sì dùn ún lójú.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "ó sì fẹ́"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Míkál"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbìnrin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sháúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dáfídì"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dáfídì"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "wọ́n sì sọ fún"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sháúl"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ó sì tọ́ \/ ó sì dùn ún"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ohun náà"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "lójú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:51:36.874659394Z",
+  "model": "glm-5.3"
+}

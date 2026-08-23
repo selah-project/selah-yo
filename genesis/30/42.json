@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ṣùgbọ́n nígbà tí àwọn àgùntàn bá le lára, òun kì í fi àwọn ọ̀yà sílẹ̀; àwọn tí ó le lára sì jẹ́ ti Lavan, àwọn tí ó le sì jẹ́ ti Yaakov.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "ṣùgbọ́n nígbà tí àwọn àgùntàn bá le lára"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "àwọn àgùntàn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "fi àwọn ọ̀yà sílẹ̀"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "sì jẹ́"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "àwọn tí ó le lára"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ti Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "àwọn tí ó le"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ti Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-22T23:05:34.914279888Z",
+  "model": "glm-5.3"
+}

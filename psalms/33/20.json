@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ẹ̀mí wa ti dúró-dè Yahweh; ìrànlọ́wọ́ wa àti ààbò wa ni ⟨Ó⟩.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "ẹ̀mí wa"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "ti dúró-dè"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "ìrànlọ́wọ́ wa"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "àti ààbò wa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni ⟨Ó⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:35.737155478Z",
+  "model": "glm-5.3"
+}

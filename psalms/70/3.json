@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 70,
+  "translation": "Wọn ó bu ẹnu tí wọn ó si ṣẹ̀rí nípa àwọn tí ń wà nípa emi-ìyè mi; wọn ó padà sẹ́yìn tí wọn ó si tìmọ́lẹ̀ — àwọn tí ó fẹ́rẹ̀ bùkú mi.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Wọn ó bu ẹnu"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "tí wọn ó si ṣẹ̀rí"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "àwọn tí ń wà nípa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "emi-ìyè mi"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "wọn ó padà"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "sẹ́yìn"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "tí wọn ó si tìmọ́lẹ̀"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "àwọn tí ó fẹ́rẹ̀"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bùkú mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:51.812347823Z",
+  "model": "glm-5.3"
+}

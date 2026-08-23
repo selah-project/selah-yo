@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ní ọjọ́ kẹsàn-án oṣù náà, ebi bori lórí ìlú naa, ki ise wà oúnjẹ fún àwọn ènìyàn ilẹ̀ naa.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "ní ọjọ́ kẹsàn-án"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "oṣù náà"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ebi bori lórí"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ebi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "lorí ìlú naa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ki ise"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "fún àwọn ènìyàn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ naa"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:58.526609675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Bẹ́ẹ̀ gẹ́gẹ́ ni ọkùnrin tí ó tàn ⟨את⟩ ọrẹ́ rẹ̀ jẹ́, ó sì wí pé, Ṣé èmi kì í ṣere?",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ gẹ́gẹ́ ni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "tí ó tàn jẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrẹ́ rẹ̀"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ọrẹ́ rẹ̀"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ṣé"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "kì í ṣere"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:12:34.241928465Z",
+  "model": "glm-5.3"
+}

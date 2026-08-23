@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Yiftach sì dá Yisrael lẹ́bi fún ọdún mẹfà; Yiftach ará Gilad sì kú, wọ́n sì sin ín sí àwọn ìlú Gilad.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dá lẹ́bi fún"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שש",
+      "gloss": "mẹfà"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kú"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftach"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "ará Gilad"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "sì sin ín"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "sí àwọn ìlú"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-23T00:37:21.139619572Z",
+  "model": "glm-5.3"
+}

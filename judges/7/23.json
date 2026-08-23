@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 7:23",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àwọn ọkùnrin Israeli sì kígbè péjọ láti inu Naftali, àti láti inu Asher, àti láti inu gbogbo Menashe; wọ́n sì lé Midian lẹ́yìn.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ó kígbè péjọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "מנפתלי",
+      "gloss": "láti inu Naftali"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "àti láti inu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "àti láti inu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "wọ́n lé lẹ́yìn"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    }
+  ],
+  "timestamp": "2026-08-23T00:36:03.672538926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 10:12",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ìyè àti chesed ni ìwọ ṣe pẹ̀lú mi, ìtọ́sí rẹ̀ sì gbà èémí mi mọ́.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Ìyè"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "àti chesed"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ìwọ ṣe"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "pẹ̀lú mi"
+    },
+    {
+      "surface": "ופקדתך",
+      "gloss": "ìtọ́sí rẹ̀"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "gbà … mọ́"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "èémí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:10.949837010Z",
+  "model": "glm-5.3"
+}

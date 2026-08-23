@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Àti tí kí ó bá ra ⟨את⟩ pápá naa padà, tàbí tí ó bá tà ⟨את⟩ pápá naa fún ọkùnrin míràn, kì í tún ra padà mọ́.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "àti tí ó bá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ra padà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pápá naa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pápá naa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tàbí tí ó bá"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "tà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pápá naa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pápá naa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "fún ọkùnrin"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "míràn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ra padà"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:43:15.652154227Z",
+  "model": "glm-5.3"
+}

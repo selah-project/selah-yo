@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Yoabu sì bá Rabbah ti àwọn ọmọ Ammoni ja ogun, ó sì gba ⟨את⟩ ìlú ìjọba náà.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "sì bá … ja ogun"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammoni"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìlú ìjọba náà"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ìjọba náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:20.673850110Z",
+  "model": "glm-5.3"
+}

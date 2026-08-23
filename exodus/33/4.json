@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Nígbà tí àwọn ènìyàn gbọ́ ⟨את⟩ ọ̀rọ̀ búburú yìí, wọ́n bẹ̀rù sí í ṣọ́fọ́; ẹnikẹ́ni kò sì wọ aṣọ ẹ̀wà rẹ̀ mó.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ búburú yìí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "bẹ̀rù sí í ṣọ́fọ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "wọ mó"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnikẹ́ni"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "aṣọ ẹ̀wà rẹ̀"
+    },
+    {
+      "surface": "עליו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-22T23:29:11.272985252Z",
+  "model": "glm-5.3"
+}

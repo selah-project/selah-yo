@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Àwọn orílẹ̀-èdè ṣe ìbúru, àwọn ìjọba sún; ó sọ ohùn rẹ̀ kalẹ̀, ayé sì wọ̀.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "ṣe ìbúru"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "sún"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "àwọn ìjọba"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "sọ ohùn rẹ̀ kalẹ̀"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "pẹ̀lú ohùn rẹ̀"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "wọ̀"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:52.091764737Z",
+  "model": "glm-5.3"
+}

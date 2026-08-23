@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àti ogun rẹ̀, àti ìkànìyàn wọn — ẹ̀rún-lọ́nà-àádọ́ta ⟨⟨àti⟩⟩ ẹ̀dẹ́gbẹ̀ta ⟨⟨àti⟩⟩ márùn-ún-lọ́nà-ọgọ́rùn-ún.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Àti ogun rẹ̀"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "àti ìkànìyàn wọn"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ẹ̀rún (kẹta)"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "àti àádọ́ta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbẹ̀rún"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "àti mẹ́rin"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́rùn-ún"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:01.091519300Z",
+  "model": "glm-5.3"
+}

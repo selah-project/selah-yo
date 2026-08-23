@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Yahweh, Elohim wa, ge májẹ̀mú pẹ̀lú wa ní Horev.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ge"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "pẹ̀lú wa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ní Horev"
+    }
+  ],
+  "timestamp": "2026-08-23T00:08:11.870105078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ọ̀rọ̀ náà sì dára lójú ọba, àti lójú gbogbo ìjọ náà.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "dára lójú"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀ náà"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "lójú"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "àti lójú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ìjọ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:35:14.442925168Z",
+  "model": "glm-5.3"
+}

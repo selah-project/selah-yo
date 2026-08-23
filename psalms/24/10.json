@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ta ni ọba Ògo yìí? Yahweh tí ó jẹ́ ológun-àpapọ̀ — òun ni ọba Ògo. Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ó⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "Ògo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "tí ó jẹ́ ológun-àpapọ̀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "Ògo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:01.984923203Z",
+  "model": "glm-5.3"
+}

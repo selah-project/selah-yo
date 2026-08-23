@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Pẹ̀lú rẹ ni a gbà á bọ́ àwọn ọ̀tá wa; pẹ̀lú orúkọ rẹ ni a fi ẹsẹ̀ tẹ àwọn tí ó dìde lọ́dọ̀ wa.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "pẹ̀lú rẹ"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "àwọn ọ̀tá wa"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "a gbà á bọ́ wọ́n"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "pẹ̀lú orúkọ rẹ"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "a fi ẹsẹ̀ tẹ"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "àwọn tí ó dìde lọ́dọ̀ wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:58.018648546Z",
+  "model": "glm-5.3"
+}

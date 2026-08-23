@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Bí ìpín rímónnù kan ni ìrora ẹ̀rí ọrun rẹ láàárín ewé irun rẹ.",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "bí ìpín"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "rímónnù"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "ìrora ẹ̀rí ọrun rẹ"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "ewé irun rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:09:56.950349487Z",
+  "model": "glm-5.3"
+}

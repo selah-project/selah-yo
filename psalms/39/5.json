@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Fihàn mí Yahweh, ìparí mi, àti ìwọ̀n ọjọ́ mi — kí ni ó jẹ́ — kí n lè mọ̀ ìdíwọ̀n tí èmi ṣe jẹ́.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "Fihàn mí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "ìparí mi"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "àti ìwọ̀n"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́ mi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ó jẹ́"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "kí n lè mọ̀"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ìdíwọ̀n"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "tí ó dúró"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:19.471835379Z",
+  "model": "glm-5.3"
+}

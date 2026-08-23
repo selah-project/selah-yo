@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Èmi óò fi ⟨את⟩ àwọn ìlú yìn sílẹ̀ láìnílè, èmi óò pa ⟨את⟩ àwọn ibi-mímọ́ yìn run, èmi kì yóò sì rì àròdọ̀ dùn yìn.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "èmi óò fi … sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìlú yìn"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "àwọn ìlú yìn"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "láìnílè"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "èmi óò pa … run"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ibi-mímọ́ yìn"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "àwọn ibi-mímọ́ yìn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì yóò sì"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "rì"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "àròdọ̀ dùn"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "yìn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:47:40.421253386Z",
+  "model": "glm-5.3"
+}

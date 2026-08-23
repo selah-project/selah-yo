@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Má ṣe pamọ́ ojú rẹ kúrò lọ́dọ̀ mi ní ọjọ́ ìpọ́njú mi; kọ etí rẹ sí mi; ní ọjọ́ tí mo bá pè ọ́, ṣeé yara dàhùn mi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "pamọ́"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kúrò lọ́dọ̀ mi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ìpọ́njú"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "kọ sí"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "etí rẹ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mo bá pè ọ́"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ṣeé yara"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "dàhùn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:02.734159212Z",
+  "model": "glm-5.3"
+}

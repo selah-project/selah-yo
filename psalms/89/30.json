@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Èmi yóò sì fi ẹ̀yìn rẹ̀ dúró títí láé láé, àti ìgbà ìjọba rẹ̀ gẹ́gẹ́ bí ọjọ́ àwọn ọ̀run.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "èmi yóò sì fi … dúró"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "títí láé láé"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ẹ̀yìn rẹ̀"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "àti ìgbà ìjọba rẹ̀"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "gẹ́gẹ́ bí ọjọ́"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "àwọn ọ̀run"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:05.249655211Z",
+  "model": "glm-5.3"
+}

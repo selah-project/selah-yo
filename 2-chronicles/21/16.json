@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Yahweh sì gbé ⟨את⟩ ẹ̀mí àwọn Filistini àti àwọn Arabu, tí ó wà ní etí àwọn Kushi, dìde lé Jehoram lórí.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "sì gbé ... dìde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé ... lórí"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí àwọn Filistini àti àwọn Arabu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "àwọn Filistini"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "àti àwọn Arabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní etí"
+    },
+    {
+      "surface": "יד",
+      "gloss": "etí"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "àwọn Kushi"
+    }
+  ],
+  "timestamp": "2026-08-23T05:30:56.923261806Z",
+  "model": "glm-5.3"
+}

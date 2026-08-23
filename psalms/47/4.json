@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Ó ń sọ àwọn ènìyàn di lábẹ́ wa, àti àwọn orílẹ̀-èdè lábẹ́ ẹsẹ̀ wa.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Ó ń sọ… di lábẹ́"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "lábẹ́ wa"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "àti àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ẹsẹ̀ wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:51.747372724Z",
+  "model": "glm-5.3"
+}

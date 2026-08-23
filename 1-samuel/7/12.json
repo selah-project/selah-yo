@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 7:12",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Samuelu sì gba ọ̀kúta kan, ó sì fi sí láàárín Mitzpa àti Shen, ó sì pe ⟨את⟩ orúkọ rẹ̀ ní Even-haezer, ó sì wí pé, títí dé ibí, Yahweh ti ràn wá lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "sì gba"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuelu"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ọ̀kúta"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "sì fi sí"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti"
+    },
+    {
+      "surface": "השן",
+      "gloss": "Shen"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sì pe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "Even-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "haezer"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ibí"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "ti ràn wá lọ́wọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:20.729273103Z",
+  "model": "glm-5.3"
+}

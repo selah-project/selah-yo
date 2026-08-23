@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ní ọjọ́ yẹn ni èmi ó ó gbé ⟨את⟩ gbogbo ohun tí mo ti sọ nípa ilé rẹ̀ dídé sí Eli: èmi ó ó bẹ̀rẹ̀, èmi ó ó sì parí.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ó ó gbé…dédé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ohun tí mo ti sọ nípa ilé rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mo ti sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "החל",
+      "gloss": "èmi ó ó bẹ̀rẹ̀"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "èmi ó ó sì parí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:43:45.208870134Z",
+  "model": "glm-5.3"
+}

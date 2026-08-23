@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Yahweh sì sọ fún ẹja náà, ó sì gbé ⟨את⟩ Yonah jáde sí ilẹ̀ gbígbẹ náà.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "fún ẹja náà"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "ó sì gbé jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ilẹ̀ gbígbẹ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:09:28.662683580Z",
+  "model": "glm-5.3"
+}

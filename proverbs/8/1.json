@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ṣé ògbenchewa kì í pè, bí? ṣíṣe ìmọ̀lágbára ń fi ohùn rẹ̀ kan?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ṣé… bí?"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ògbenchewa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "kì í pè"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ṣíṣe ìmọ̀lágbára"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ń fi"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "ohùn rẹ̀ kan"
+    }
+  ],
+  "timestamp": "2026-08-23T04:05:04.109107933Z",
+  "model": "glm-5.3"
+}

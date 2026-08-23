@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Ó ṣe àwọn ojíṣẹ́ rẹ̀ di àwọn afẹ́fẹ́, àwọn ìránṣẹ́ rẹ̀ di iná tí ó ń jó lásà.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "àwọn ojíṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "àwọn afẹ́fẹ́"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "להט",
+      "gloss": "tí ó ń jó lásà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:12.429222473Z",
+  "model": "glm-5.3"
+}

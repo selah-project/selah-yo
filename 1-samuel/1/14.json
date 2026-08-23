@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Eli sì wí fún un pé: Ìgbà wo ní ìwọ yóò fi máa say? Yo ⟨את⟩ ôtín rẹ̀ kúrò lọ́ra rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ìgbà wo"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "ìwọ yóò fi máa say"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Yo… kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ôtín rẹ̀"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "ôtín rẹ̀"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "lọ́ra rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:48:15.175124965Z",
+  "model": "glm-5.3"
+}

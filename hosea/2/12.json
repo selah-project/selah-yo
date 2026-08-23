@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Nísì yìí, èmi yóò ṣí ⟨את⟩ ìwọ̀ rẹ̀ sí ojú àwọn olùfẹ́ rẹ̀; ẹnikẹ́ni kì yóò le gbà á là ní owo mi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "nísì yìí"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "èmi yóò ṣí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìwọ̀ rẹ̀"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "ìwọ̀ rẹ̀"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "sí ojú"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "àwọn olùfẹ́ rẹ̀"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ẹnikẹ́ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì yóò le"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "gbà á là"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ní owo mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:00:56.037951592Z",
+  "model": "glm-5.3"
+}

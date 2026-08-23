@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àwọn ọmọ Arach, ogóje àti márùn-ún lẹ́yìn igba méje ⟨ni wọ́n jẹ́⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Àwọn ọmọ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Arach"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "méje"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ogórùn-ún (gba)"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "márùn-ún"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "àti ogóje"
+    }
+  ],
+  "timestamp": "2026-08-23T04:55:00.701056455Z",
+  "model": "glm-5.3"
+}

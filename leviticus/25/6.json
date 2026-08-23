@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ìsinmi ilẹ̀ náà yóò sì jẹ́ oúnjẹ fún yín — fún ẹ, fún ìránṣẹ́ rẹ, fún ìránṣẹ́bìnrin rẹ, fún ọ̀ṣẹ́ rẹ, àti fún àlè rẹ tí ó ń ṣẹ́lẹ̀ pẹ̀lú rẹ.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "yóò sì jẹ́"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ìsinmi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ẹ"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "fún ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "fún ìránṣẹ́bìnrin rẹ"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "fún ọ̀ṣẹ́ rẹ"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "fún àlè rẹ"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "tí ó ń ṣẹ́lẹ̀"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pẹ̀lú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:54.340761921Z",
+  "model": "glm-5.3"
+}

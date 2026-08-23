@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "ọkàn rẹ sì gbé ga, ìwọ sì gbàgbé ⟨את⟩ Yahweh Elohim rẹ, Ẹni tí ó gbé ọ jáde kúrò ní ilẹ̀ Mitzrayim, kúrò ní ilé ẹrú",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "sì gbé ga"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ọkàn rẹ"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "ìwọ sì gbàgbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "Ẹni tí ó gbé ọ jáde"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kúrò ní ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kúrò ní ilé"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ẹrú"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:28.334614005Z",
+  "model": "glm-5.3"
+}

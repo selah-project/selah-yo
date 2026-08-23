@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ó máa jẹ́ línlọ̀nà-mẹ́rẹ̀ẹ́rin ⟨ní⟩ ìdàbọ̀lọ̀pọ̀; ìlà-oùn jẹ́ ìlà-ọwọ́, ìbò-oùn sì jẹ́ ìlà-ọwọ́.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "línlọ̀nà-mẹ́rẹ̀ẹ́rin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ó máa jẹ́"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "⟨ní⟩ ìdàbọ̀lọ̀pọ̀"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "ìlà-ọwọ́"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ìlà-oùn"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ìlà-ọwọ́ sì"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ìbò-oùn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:42.463874715Z",
+  "model": "glm-5.3"
+}

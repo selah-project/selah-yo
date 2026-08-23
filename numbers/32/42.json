@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Nobach sì lọ, ó gba ⟨את⟩ Kenat àti ⟨את⟩ àwọn ọmọbìnrin rẹ̀ mú, ó sì pè é ní Nobach, ní orúkọ rẹ̀ ti fúnra rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Nobach"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ó gba mú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọbìnrin rẹ̀"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "àwọn ọmọbìnrin rẹ̀"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ó sì pè"
+    },
+    {
+      "surface": "לה",
+      "gloss": "é"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Nobach"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ní orúkọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:02:57.205917274Z",
+  "model": "glm-5.3"
+}

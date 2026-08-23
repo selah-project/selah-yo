@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 98,
+  "translation": "Òkun yóò kígbe, àti gbogbo ènìyàn rẹ̀; ayé, àti àwọn tí ó ń gbé inú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "yóò kígbe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "òkun"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "àti gbogbo ènìyàn rẹ̀"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "àti àwọn tí ó ń gbé"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:24.512372727Z",
+  "model": "glm-5.3"
+}

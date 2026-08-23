@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Athaljah sì gbọ́ ⟨את⟩ ohùn àwọn olùsáré àti ⟨ti⟩ àwọn ènìyàn, ó sì wá sí ọ̀dọ̀ àwọn ènìyàn, sínú ilé Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "sì gbọ́"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Athaljah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohùn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "àwọn olùsáré"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ó sì wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sínú ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T01:32:32.185037441Z",
+  "model": "glm-5.3"
+}

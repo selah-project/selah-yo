@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "O sì gbé ⟨את⟩ àwọn òpá náà wọ inú àwọn kánkán ní àwọn ẹ̀gbẹ́ áká náà, láti gbé ⟨את⟩ áká náà ní wọn.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "o sì gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òpá náà"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "àwọn òpá náà"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "wọ inú àwọn kánkán"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "àwọn ẹ̀gbẹ́"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "áká náà"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "láti gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áká náà"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "áká náà"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ní wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:25:45.668761958Z",
+  "model": "glm-5.3"
+}

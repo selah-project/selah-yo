@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Wọ́n sì gba ⟨את⟩ gbogbo owó wọn, àti ⟨את⟩ gbogbo àwọn ọmọ kékeré wọn, àti ⟨את⟩ àwọn aya wọn lọ ní ìgbèkùn; wọ́n sì jí wón, àti ⟨את⟩ gbogbo ohun tí ó wà ní àwọn ilé wọn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo owó wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "owó wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ọmọ kékeré wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "àwọn ọmọ kékeré wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn aya wọn"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "àwọn aya wọn"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "wọ́n gba... lọ ní ìgbèkùn"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "wọ́n sì jí wón"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ohun tí ó wà ní àwọn ilé wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ó wà ní àwọn ilé wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:52.449782769Z",
+  "model": "glm-5.3"
+}

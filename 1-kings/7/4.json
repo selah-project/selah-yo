@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àwọn fèrèsé mẹpò wa nínú àwọn sáfúrá mẹ́ta, fèrèsé sì dojú kọ fèrèsé, ní ìgbà mẹ́ta.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "àwọn fèrèsé mẹpò"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "àwọn sáfúrá"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "fèrèsé sì dojú kọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fèrèsé"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "fèrèsé"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ìgbà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:13:21.746677983Z",
+  "model": "glm-5.3"
+}

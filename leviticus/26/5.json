@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ìgbé yín yóò bó ti ìkọ̀rẹ̀-grape, ìkọ̀rẹ̀ yóò sì bó ti àkókò ìgbìn; ẹ yóò jẹ oúnjẹ yín títí ẹ fi yóò kún, ẹ sì yóò gbé ní ààbọ̀ ní ilẹ̀ yín.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "yóò bó ti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yín"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "ìgbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìkọ̀rẹ̀-grape"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "ìkọ̀rẹ̀-grape"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "ììkọ̀rẹ̀ sì"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "yóò bó ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìrògbìn"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ìrògbìn"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ẹ yóò sì jẹ"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "oúnjẹ yín"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "títí ẹ fi yóò kún"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ẹ sì yóò gbé"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ní ààbọ̀"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "ní ilẹ̀ yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:32.805846043Z",
+  "model": "glm-5.3"
+}

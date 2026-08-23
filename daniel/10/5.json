@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Mo gbé ⟨את⟩ ojú mi sókè, mo sì rí i, sì jẹ́ pé: ọkùnrin kan wọ aṣọ ìrá, ìṣẹ́ ìbàdí rẹ̀ sì ni wúrà Úfaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Mo gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú mi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "mo sì rí i"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sì jẹ́ pé"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "wọ"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "aṣọ ìrá"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "ìbàdí rẹ̀"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "ní ìṣẹ́"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ní wúrà"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Úfaz"
+    }
+  ],
+  "timestamp": "2026-08-23T04:54:17.396913091Z",
+  "model": "glm-5.3"
+}

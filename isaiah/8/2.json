@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Èmi yóò sì mú ẹlẹ́rìí olóòtítọ́ wá fún mi: ⟨את⟩ Uriyah àlùfáà, àti ⟨את⟩ Zecharyahu, ọmọ Jeberekiahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "èmi yóò sì mú… wá jẹ́ ẹlẹ́rìí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ẹlẹ́rìí"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "olóòtítọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah àlùfáà"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zecharyahu ọmọ Jeberekiahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zecharyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jeberekiahu"
+    }
+  ],
+  "timestamp": "2026-08-23T01:42:22.403982835Z",
+  "model": "glm-5.3"
+}

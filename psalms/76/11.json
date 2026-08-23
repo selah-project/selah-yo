@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 76,
+  "translation": "Nít'óótọ́, ìbínú ènìyàn yóò dúpró fún ọ; èyí tí ó kù nínú ìbínú, ìwọ yóò fi pa mọ́ra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nít'óótọ́"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ìbínú"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "yóò dúpró fún ọ"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "èyí tí ó kù"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ìmú-inú ìbínú"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "ìwọ yóò fi pa mọ́ra"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:47.133058249Z",
+  "model": "glm-5.3"
+}

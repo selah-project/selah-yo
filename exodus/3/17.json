@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Mo ti sọ pé: Èmi yóò gbé ⟨את⟩ yín sókè látì inú ìpèníjà Mitsrayim, sí ilẹ̀ Kenani, àti Hiti, àti Emori, àti Perizi, àti Hivi, àti Yebusi — sí ilẹ̀ tí ó ń sàn wára àti oyin.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mo ti sọ pé"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Èmi yóò gbé yín sókè"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín (ìtumọ̀ àwọn ènìyàn)"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "ìnú ìpèníjà"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "àti Hiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "àti Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "àti Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "àti Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "àti Yebusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "tí ó ń sàn"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "wára"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "àti oyin"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:30.616484668Z",
+  "model": "glm-5.3"
+}

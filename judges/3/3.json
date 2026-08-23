@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 3:3",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn adíwọ̀ márùn-ún ti Pelishti, àti gbogbo Kenaani, àti Tsidoni, àti Hiwi tí ó ń gbé òkè Lebanon, láti òkẹ Baal-Hermon dé ìwọ̀lé Hamat.",
+  "tokens": [
+    {
+      "surface": "חמשת",
+      "gloss": "márùn-ún"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "àwọn adíwọ̀"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "והצידני",
+      "gloss": "àti Tsidoni"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "àti Hiwi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ń gbé"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "láti òkẹ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ìwọ̀lé"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    }
+  ],
+  "timestamp": "2026-08-23T00:32:41.922137480Z",
+  "model": "glm-5.3"
+}

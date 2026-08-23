@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 90,
+  "translation": "Ṣáájú kí àwọn òkè tí bí, kí o sì ṣẹ̀dá ayé àti àgbáyé, láti ayédèuru dé ayédèuru ìwọ ni El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Ṣáájú kí"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "tí bí"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "kí o sì ṣẹ̀dá"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "àti àgbáyé"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "láti ayédèuru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ayédèuru"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:38.406140259Z",
+  "model": "glm-5.3"
+}

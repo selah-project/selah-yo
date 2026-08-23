@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Nítorí náà báyìí, Yahweh, gbé ⟨את⟩ ẹ̀mí mi kúrò lọ́dọ̀ mi; nítorí tí ikú mi dára ju ìyè mi lọ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "nítorí náà báyìí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "gbé kúrò"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọwọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí mi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "lọ́dọ̀ mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dára ju"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ikú mi"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "ìyè mi lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:09:56.007296676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Àwọn ọkùnrin náà sì fi ⟨את⟩ ọwọ́ wọn jáde, wọ́n sì mú ⟨את⟩ Lot wá sí ọ̀dọ̀ wọn, sínú ilé, wọ́n sì pa ⟨את⟩ ilẹ̀kùn náà dé.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "wọ́n sì fi… jáde"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "àwọn ọkùnrin náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ wọn"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ọwọ́ wọn"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "wọ́n sì mú… wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sí ọ̀dọ̀ wọn"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "sínú ilé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀kùn náà"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ilẹ̀kùn náà"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "wọ́n sì pa… dé"
+    }
+  ],
+  "timestamp": "2026-08-22T22:59:32.248106232Z",
+  "model": "glm-5.3"
+}

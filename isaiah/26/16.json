@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Yahweh, nínú ìṣòro ni wọ́n ti wá ọ̀; wọ́n sọ ọ́rọ̀ pẹ̀lú ohùn kíkí nígbà tí ìdanimọ̀ rẹ wà lórí wọn.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nínú ìṣòro"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "ni wọ́n ti wá ọ̀"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "wọ́n sọ ọ́rọ̀"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "pẹ̀lú ohùn kíkí"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "ìdanimọ̀ rẹ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:48:08.748105167Z",
+  "model": "glm-5.3"
+}

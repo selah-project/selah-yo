@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 101,
+  "translation": "Mo ó ṣe gbọ́n nínú ọ̀nà tó pé; ìgbà wo ni ìwọ ó dé bá mi? Mo ó rìn ká ní pàṣẹ̀ okàn tó pé, nínú ilé mi.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "mo ó ṣe gbọ́n"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nínú ọ̀nà"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tó pé"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ìgbà wo ni"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ìwọ ó dé"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bá mi"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "mo ó rìn ká"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "ní pàṣẹ̀"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "okàn"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nínú"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ilé mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:50.802625306Z",
+  "model": "glm-5.3"
+}

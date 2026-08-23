@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Ẹmí mi yóò dùn ún lára nínù Yahweh, yóò yọ̀ nínù ìgbàlà rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Ẹmí mi"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "yóò dùn ún lára"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nínù Yahweh"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "yóò yọ̀"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "nínù ìgbàlà rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:56.227775919Z",
+  "model": "glm-5.3"
+}

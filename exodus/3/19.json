@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ṣùgbọ́n èmi mọ̀ pé ọba Mitsrayim kì yóò fún yín ní ⟨את⟩ àṣẹ láti lọ, bí kò ṣe pẹ̀lú ọwọ́ lile.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mọ̀ pé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì yóò"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "fún yín ní àṣẹ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín (àwọn ènìyàn)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "láti lọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bí kò ṣe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pẹ̀lú ọwọ́"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "lile"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:30.617044944Z",
+  "model": "glm-5.3"
+}

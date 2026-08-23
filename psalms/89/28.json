@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Bákan náà, emi yóò fi jẹ́ ọ̀ nínú àkọ́kọ́-bíbí, gíga jù àwọn ọba ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Bákan náà"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emi"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "àkọ́kọ́-bíbí"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "yóò fi jẹ́ ọ̀"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "gíga jù"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:40.879684622Z",
+  "model": "glm-5.3"
+}

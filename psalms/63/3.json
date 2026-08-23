@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 63,
+  "translation": "Bẹ́ẹ̀ ni mo ti rí ⟨iwe⟩ ní ààyè mímọ́, láti wo agbára rẹ àti ọlá rẹ.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Bẹ́ẹ̀"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ní ààyè mímọ́"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "mo ti rí"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "láti wo"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "agbára rẹ"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "àti ọlá rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:06.636664372Z",
+  "model": "glm-5.3"
+}

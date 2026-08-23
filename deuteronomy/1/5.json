@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ní ẹnu-ònà Yardeni, ní ilẹ̀ Moabi, Moshe bẹ̀rẹ̀ sí í ṣàlàyé ⟨את⟩ Tọ́rà yìí, wí pé,",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "ní ẹnu-ònà"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "bẹ̀rẹ̀ sí í ṣe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ṣàlàyé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tọ́rà yìí"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tọ́rà"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:10.554992542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Níbo ni ọba rẹ tí ó wà báyìí, tí yóò gbà yọ́ nínú àwọn ìlú rẹ gbogbo? Àti àwọn adájọ́ rẹ tí ó sọ pé, Fún mi ní ọba àti àwọn ìjòyè?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "Níbo"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "ọba rẹ"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "báyìí"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "tí yóò gbà yọ́"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní àwọn … gbogbo"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "ìlú rẹ"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "Àti àwọn adájọ́ rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ó sọ pé"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Fún"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi ní"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "àti àwọn ìjòyè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:02:42.789559766Z",
+  "model": "glm-5.3"
+}

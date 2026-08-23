@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 12:2",
+  "book": "zechariah",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Wò ó, èmi ń fi Yerushalayim ṣe ⟨את⟩ ìgbò ìrẹ́lẹ̀ fún gbogbo àwọn èlẹ̀yàn tí ó wà ní ìkàlẹ̀; àti lórí Yhudah ni yóò wà ní ìgbẹ́jọ síta sí Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ń fi … ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סף",
+      "gloss": "ìgbò"
+    },
+    {
+      "surface": "רעל",
+      "gloss": "ìrẹ́lẹ̀"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "àwọn èlẹ̀yàn"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tí ó wà ní ìkàlẹ̀"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yhudah"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ní ìgbẹ́jọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "síta sí"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:20:29.582030931Z",
+  "model": "glm-5.3"
+}

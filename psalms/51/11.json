@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Pamọ́ ojú rẹ kúrò lọ́wọ́ ẹ̀ṣẹ̀ mi, pa gbogbo ìwà ìbajẹ́ mi rẹ́.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "pamọ́"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "kúrò lọ́wọ́ ẹ̀ṣẹ̀ mi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "ìwà ìbajẹ́ mi"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "pa rẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:08.375013938Z",
+  "model": "glm-5.3"
+}

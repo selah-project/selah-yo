@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ó sì wọlé, ó sì sọ fún olúwa rẹ̀ pé, bíi èyí àti bíi èyí ni ọmọbìnrin tí ó jẹ́ láti ilẹ̀ Yísraẹli sọ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ó sì wọlé"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ó sì sọ fún"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "olúwa rẹ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "bíi èyí"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "àti bíi èyí"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "ni ... sọ"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "ọmọbìnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó jẹ́"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "láti ilẹ̀"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yísraẹli"
+    }
+  ],
+  "timestamp": "2026-08-23T01:28:48.690992740Z",
+  "model": "glm-5.3"
+}

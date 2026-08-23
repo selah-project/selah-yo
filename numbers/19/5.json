@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ó sì jọ ⟨את⟩ ọ̀kẹ́ abọ́ náà sínú iná níwájú ojú rẹ̀; ⟨את⟩ awọ rẹ̀ àti ⟨את⟩ ẹran rẹ̀ àti ⟨את⟩ ẹjẹ rẹ̀, lé ìgbó rẹ̀ lọ ó jọ.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "ó sì jọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀kẹ́ abọ́ náà"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "ọ̀kẹ́ abọ́ náà"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "níwájú ojú rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awọ rẹ̀"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "awọ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹran rẹ̀"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "ẹran rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹjẹ rẹ̀"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ẹjẹ rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "ìgbó rẹ̀ lọ"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ó jọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:58:38.312822538Z",
+  "model": "glm-5.3"
+}

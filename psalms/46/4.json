@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Omí rẹ̀ ń kígbe, ń ru lórí ara wọn, àwọn òkè ń rú lulẹ̀ ní ìgbéraga rẹ̀. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "ń kígbe"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "ń ru lórí ara wọn"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "Omí rẹ̀"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "ń rú lulẹ̀"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "ní ìgbéraga rẹ̀"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:30.414573126Z",
+  "model": "glm-5.3"
+}

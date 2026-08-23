@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Nítorí pé baba mi àti ìyá mi gbà mi sílẹ̀, ṣùgbọ́n Yahweh yóò gba mi pamọ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba mi"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "àti ìyá mi"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "gbà mi sílẹ̀"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ṣùgbọ́n Yahweh"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "yóò gba mi pamọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:46.862304933Z",
+  "model": "glm-5.3"
+}

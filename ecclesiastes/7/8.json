@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Dára ìparí ọ̀rọ̀ ju ìbẹ̀rẹ̀ rẹ̀ lọ; dára ẹni tí ó ní ẹ̀mí gígùn ju ẹni tí ó ní ẹ̀mí gíga lọ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ìparí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "ìbẹ̀rẹ̀ rẹ̀"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "gígùn"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "gíga"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:53.712282970Z",
+  "model": "glm-5.3"
+}

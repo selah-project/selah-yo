@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àti ⟨את⟩ Cheshbon pẹ̀lú ⟨את⟩ ilẹ̀ ẹ̀gbẹ́ rẹ̀, àti ⟨את⟩ Yaazeir pẹ̀lú ⟨את⟩ ilẹ̀ ẹ̀gbẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pẹ̀lú ⟨את⟩",
+      "marks": "ilẹ̀ ẹ̀gbẹ́ rẹ̀"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ilẹ̀ ẹ̀gbẹ́ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yaazeir"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "Yaazeir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pẹ̀lú ⟨את⟩",
+      "marks": "ilẹ̀ ẹ̀gbẹ́ rẹ̀"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ilẹ̀ ẹ̀gbẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:10:17.955977005Z",
+  "model": "glm-5.3"
+}

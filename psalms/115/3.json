@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 115,
+  "translation": "Ṣùgbọ́n Elohim wa wà ní àwọn ọ̀run; gbogbo tí ó fẹ́, ó ti ṣe.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Ṣùgbọ́n Elohim wa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ní àwọn ọ̀run"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ó fẹ́"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ti ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:50.027845549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Avimelekh sì lọ sí Tevetz, ó sì kó ipá dé ìlú Tevetz, ó sì gba a.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tevetz"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "ó sì kó ipá dé"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "ìlú Tevetz"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ó sì gba a"
+    }
+  ],
+  "timestamp": "2026-08-23T05:47:54.682254524Z",
+  "model": "glm-5.3"
+}

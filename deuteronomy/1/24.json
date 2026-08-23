@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Wọ́n sí padà, wọ́n gòkè sí orí òkè náà, wọ́n sì dé odò Eshcol, wọ́n sì ṣàwárí ⟨את⟩ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "wọ́n sì padà"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "wọ́n gòkè"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "sí orí òkè náà"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wọ́n sì dé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "odò"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshcol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "wọ́n sì ṣàwárí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "rẹ̀ (ilẹ̀\/odò náà)"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:19.663579197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ó sọ fún Yehoshafat pé: Ṣé ì gbé lọ ⟨את⟩ pẹ̀lú mi sí ogun Ramot ní Gilad? Yehoshafat sì sọ fún ọba Yisrael pé: Èmi ni bíi ti ọ̀, àwọn ènìyàn mi bíi ti ẹ̀, ẹṣin mi sì bíi ti ẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "Ṣé ì gbé lọ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pẹ̀lú mi",
+      "marks": "pẹ̀lú mi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sí ogun"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ní Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "bíi ti mi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "bíi ti ọ̀"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "bíi àwọn ènìyàn mi"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "bíi ti ẹ̀"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "bíi ẹṣin mi"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "bíi ti ẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:53:06.626911072Z",
+  "model": "glm-5.3"
+}

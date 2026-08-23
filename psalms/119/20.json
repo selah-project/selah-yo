@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ìfẹ́ ẹ̀mí mi ti gbọ́n díẹ̀ sí ìfẹ́ fún àwọn ìdájọ́ Rẹ nígbà gbogbo.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "ti gbọ́n díẹ̀"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "sí ìfẹ́ fún"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(àṣẹ sí)"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "àwọn ìdájọ́ Rẹ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "(nígbà)"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:17.256833052Z",
+  "model": "glm-5.3"
+}

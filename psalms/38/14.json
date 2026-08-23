@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Ṣùgbọ́n èmi, bí adití, èmi kò gbọ́; àti bí ẹni-èéfó, ẹnu rẹ̀ kì í ṣí.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "bí adití"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "èmi gbọ́"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "àti bí ẹni-èéfó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ṣí"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ẹnu rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:26.886311758Z",
+  "model": "glm-5.3"
+}

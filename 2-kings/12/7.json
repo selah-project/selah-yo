@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ó sì ṣẹlẹ̀ ní ọdún ogún-ọ̀kan-dín-lọ́gbọ̀n ti ọba Yehoash, pé àwọn àlùfáà kò tíì ṣe ⟨את⟩ ihò ilé náà lágbára.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ní ọdún"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ọ̀kan-dín-lọ́gbọ̀n"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ti ọba"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ṣe...lágbára"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihò ilé náà"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ihò"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:31:34.273838199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Shelach sì gbé ọdún mọ́kànlélọ́gbọ̀n, ó sì bí ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Shelach sì"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mọ́kànlélọ́gbọ̀n ọdún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:20.795262823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Kí àwọn ọmọ Yisraẹl ṣe ⟨את⟩ ẹyọ-ìrántí Pésaḣ ní àkókò rẹ̀ tí a yàn.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "kí … ṣe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹyọ-ìrántí Pésaḣ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ẹyọ-ìrántí Pésaḣ"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "ní àkókò rẹ̀ tí a yàn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:53:37.559755594Z",
+  "model": "glm-5.3"
+}

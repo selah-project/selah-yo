@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 148,
+  "translation": "Kí wọ́n ṣe ìyin fún orúkọ Yahweh, nítorí pé òun pàṣẹ, wọ́n sì dá wọn.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Kí wọ́n ṣe ìyin fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "wọ́n sì dá wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:49.578280131Z",
+  "model": "glm-5.3"
+}

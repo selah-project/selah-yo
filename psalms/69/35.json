@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Jẹ́ kí àwọn ọ̀run àti ayé yin-ín ìyin, àwọn òkun àti gbogbo nǹkan tí ó ń rì rìn lára wọn",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "jẹ́ kí wọ́n yin-ín ìyin (jẹ́ kí ó yin ìyin)"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "àti ayé"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "àwọn òkun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nǹkan tí ó ń rì rìn"
+    },
+    {
+      "surface": "בם",
+      "gloss": "lára wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:38.577542281Z",
+  "model": "glm-5.3"
+}

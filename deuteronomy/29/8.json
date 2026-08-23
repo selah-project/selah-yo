@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ẹ sì ṣọ́ ⟨את⟩ ọ̀rọ̀ májẹ̀mú yìí, ẹ sì ṣe ⟨את⟩ wọn, kí ẹ lè ṣàṣeyọrí ní ⟨את⟩ gbogbo tí ẹ bá ṣe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ẹ sì ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ májẹ̀mú yìí"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ẹ sì ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí ẹ lè"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "ṣàṣeyọrí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ẹ bá ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T00:19:48.550402925Z",
+  "model": "glm-5.3"
+}

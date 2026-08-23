@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ìtirò Yitro, ẹni-ìyàwó ti Moshe, gba ⟨את⟩ Tzipporah, ìyàwó Moshe, lẹ́yìn ìfiránṣẹ́ rẹ̀ padà.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ẹni-ìyàwó"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzipporah"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tzipporah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ìyàwó"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "ìfiránṣẹ́ rẹ̀ padà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:11.530334266Z",
+  "model": "glm-5.3"
+}

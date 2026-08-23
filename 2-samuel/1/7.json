@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì yanjú padà sí ẹ̀yìn rẹ̀, ó sì rí i, ó sì pé àwàárọ̀ fún mi, èmi sì wí pé, èmi ní mí nítorí.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "sì yanjú padà"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sí ẹ̀yìn rẹ̀"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "ó sì rí i, fún mi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ó sì pé àwàárọ̀"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "èmi sì wí"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "èmi ní mí nítorí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:56:47.700202671Z",
+  "model": "glm-5.3"
+}

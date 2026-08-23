@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 143,
+  "translation": "Nítorí ọ̀tá ń lé ẹ̀mí mi lẹ́yìn, ó lu ìgbésí ayé mi sí ilẹ̀, ó sì jẹ́ kí n gbé ní ìkùnkùn, bí àwọn òkú ti àtijọ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí pé"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ń lé lẹ́yìn"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ọ̀tá"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "lu"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sí ilẹ̀"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "ìgbésí ayé mi"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ó sì jẹ́ kí n gbé"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "ní ìkùnkùn"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "bí àwọn òkú"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ti àtijọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:09.836765826Z",
+  "model": "glm-5.3"
+}

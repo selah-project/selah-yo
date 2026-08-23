@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 1:4",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Wọ́n sì fúnra wọn gbé àwọn obìrin Moav — orúkọ ẹ̀kan ni Orpa, orúkọ èkejì sì ni Rut; wọ́n sì gbé níbẹ̀ fún bí ọdún mẹ́wàá.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "wọ́n sì gbé (fúnra wọn)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fúnra wọn"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "àwọn obìrin"
+    },
+    {
+      "surface": "מאביות",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ẹ̀kan"
+    },
+    {
+      "surface": "ערפה",
+      "gloss": "ni Orpa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "orúkọ sì"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "èkejì"
+    },
+    {
+      "surface": "רות",
+      "gloss": "ni Rut"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wọ́n sì gbé"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "כעשר",
+      "gloss": "fún bí mẹ́wàá"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    }
+  ],
+  "timestamp": "2026-08-23T04:35:48.565328684Z",
+  "model": "glm-5.3"
+}

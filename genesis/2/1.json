@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì parí ⟨ìṣẹ́⟩ àwọn ọ̀run àti ayé, àti gbogbo ọmọ-ogun wọn.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "ó sì parí"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "àti ayé"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ọmọ-ogun wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:07.977580030Z",
+  "model": "glm-5.3"
+}

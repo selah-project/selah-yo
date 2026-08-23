@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ó sì wà tí àwọn ọmọ Yisrael ṣe ẹ̀ṣẹ̀ sí Yahweh, Elohim wọn, ẹni tí ó gbé ⟨את⟩ wọn sóke láti ilẹ̀ Mitsrayim, láti abẹ́ ọwọ́ Paroh, ọba Mitsrayim; wọ́n sì bọ̀rùnsìn fún àwọn elohim míràn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wà tí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tí"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ṣe ẹ̀ṣẹ̀ sí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wọn"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "ẹni tí ó gbé… sóke"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "láti ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "láti abẹ́"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "wọ́n sì bọ̀rùnsìn fún"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "àwọn elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "míràn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:23.324220135Z",
+  "model": "glm-5.3"
+}

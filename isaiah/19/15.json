@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Kò sì ní sí iṣẹ́ kan fún Mitsrayim, tí orí tàbí ẹ̀yin-ìná, ewe-ọ̀pẹ tàbí ológbò-omi, lè ṣe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kò sì ní"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sí"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "fún Mitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́ kan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "lè ṣe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "ויזנב",
+      "gloss": "tàbí ẹ̀yin-ìná"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ewe-ọ̀pẹ"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "tàbí ológbò-omi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:47:04.106005532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Iyob sì dìde, ó sì fa ⟨את⟩ èwù rẹ̀, ó sì kọ ⟨את⟩ orí rẹ̀ lọ, ó sì ṣubú sí ilẹ̀, ó sì kúnlẹ̀ sìn.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sì dìde"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ó sì fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èwù rẹ̀"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "èwù rẹ̀"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "ó sì kọ… lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orí rẹ̀"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "orí rẹ̀"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ó sì ṣubú"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sí ilẹ̀"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ó sì kúnlẹ̀ sìn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:16:08.988916006Z",
+  "model": "glm-5.3"
+}

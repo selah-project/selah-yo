@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "⟨Eni tí⟩ ó dá àwọn ẹ̀ṣẹ̀ rẹ lọ́tun nígbà gbogbo, ⟨eni tí⟩ ó wo gbogbo àìsàn rẹ.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "⟨Eni tí⟩ ó dá … lọ́tun"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "àwọn ẹ̀ṣẹ̀ rẹ"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "⟨eni tí⟩ ó wo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "àìsàn rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:27.861345768Z",
+  "model": "glm-5.3"
+}

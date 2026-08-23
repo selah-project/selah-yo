@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Yí ọkàn mi sùn sí àwọn ẹ̀rí rẹ, kí ó má sì yí sí èrè àìṣeéṣe.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Yí… sùn"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "àwọn ẹ̀rí rẹ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí ó má sì yí sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "èrè àìṣeéṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:39.334412137Z",
+  "model": "glm-5.3"
+}

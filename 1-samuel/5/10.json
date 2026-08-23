@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Wọ́n sì firánṣẹ́ ⟨את⟩ áàrùn Elohim lọ sí Ekron; ó sẹ́ bí áàrùn Elohim ṣe ń wọ̀ Ekron, àwọn ará Ekron ké sílẹ̀ wí pé: Ẹ ti gbé ⟨את⟩ áàrùn Elohim Israẹli yí wá sí ọ̀dọ̀ wa, láti pa mí àti ⟨את⟩ ìjọ mi.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Wọ́n sì firánṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áàrùn Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "áàrùn"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sẹ́"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "bí...ṣe ń wọ̀"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "áàrùn"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "ké sílẹ̀"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "àwọn ará Ekron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "ẹ gbé...yí wá"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí ọ̀dọ̀ wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áàrùn Elohim Israẹli"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "áàrùn"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "láti pa mí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọ mi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ìjọ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:45.944665350Z",
+  "model": "glm-5.3"
+}

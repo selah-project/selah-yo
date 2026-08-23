@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ta ni ó ṣe àwárí ⟨את⟩ ẹ̀mí Yahweh? Àti ẹni tí ó jẹ́ olùṣe ìgbìmọ̀ rẹ̀, ta ni yóò fi mọ̀ Ọ́?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ta ni ó"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ṣe àwárí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "àti ẹni"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "ìgbìmọ̀ rẹ̀"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "fi mọ̀ Ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:55:52.775604319Z",
+  "model": "glm-5.3"
+}

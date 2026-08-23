@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Nínú òfin Rẹ ni èmi yóò dùnú, èmi kì yóò gba ọ̀rọ̀ Rẹ lọ́fin.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "nínú òfin Rẹ"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "èmi yóò dùnú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "gba lọ́fin"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ọ̀rọ̀ Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:42.129467726Z",
+  "model": "glm-5.3"
+}

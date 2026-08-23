@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ti Dawidu. Sí ọ̀dọ̀ rẹ, Yahweh, ẹ̀mí mi ni mo gbé sókè.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ti Dawidu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ni mo gbé sókè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:22.250390794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Òun ń bá ⟨את⟩ gbogbo èye gíga rí; òun ni ọba lórí gbogbo àwọn ọmọ ìgbéraga.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo èye gíga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "èye gíga"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ń rí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "ìgbéraga"
+    }
+  ],
+  "timestamp": "2026-08-23T04:31:32.182210374Z",
+  "model": "glm-5.3"
+}

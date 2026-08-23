@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Ó sì so ⟨את⟩ àwọn àwọ̀lẹ̀mọ́ márùn-ún ní ìkanra, àti ⟨את⟩ àwọn àwọ̀lẹ̀mọ́ mẹfà ní ìkanra.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ó sì so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àwọ̀lẹ̀mọ́ márùn-ún"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "márùn-ún"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "àwọn àwọ̀lẹ̀mọ́"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ní ìkanra"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn àwọ̀lẹ̀mọ́ mẹfà"
+    },
+    {
+      "surface": "שש",
+      "gloss": "mẹfà"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "àwọn àwọ̀lẹ̀mọ́"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ní ìkanra"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:56.147198700Z",
+  "model": "glm-5.3"
+}

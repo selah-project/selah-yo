@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Èmi, mo ti pè ọ́, nítorí tí ìwọ yóò dá mi lóhun, El; kún ẹnu-ọ̀run rẹ sí mi, gbọ́ ọ̀rọ̀ mi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mo ti pè ọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ìwọ yóò dá mi lóhun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "kún...sí"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ẹnu-ọ̀run rẹ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ọ̀rọ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:15.415433034Z",
+  "model": "glm-5.3"
+}

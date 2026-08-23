@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 66,
+  "translation": "Ìwọ gbé àwọn ènìyàn lórí orí wa gbé ìṣeré-ẹṣin; a kọjá nínú iná àti nínú omi; ìwọ sì mú wa jáde sí ibi ìròró ọ̀pọ̀lọpọ̀.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Ìwọ gbé … lórí … gbé ìṣeré-ẹṣin"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "lórí orí wa"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "a kọjá"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nínú iná"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "àti nínú omi"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "ìwọ sì mú wa jáde"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "sí ibi ìròró ọ̀pọ̀lọpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:19.783657433Z",
+  "model": "glm-5.3"
+}

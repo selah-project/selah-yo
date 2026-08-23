@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Jẹ́ kí ọjọ́ rẹ̀ dí díẹ̀; jẹ́ kí ènìyàn míràn gba ìṣàkóso rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "jẹ́ kí ó jẹ́"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ọjọ́ rẹ̀"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "dí díẹ̀"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ìṣàkóso rẹ̀"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "jẹ́ kí ó gba"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ènìyàn míràn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:04.652702971Z",
+  "model": "glm-5.3"
+}

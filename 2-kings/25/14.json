@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Àti ⟨את⟩ àwọn ìkòkò, àti ⟨את⟩ àwọn fùpà, àti ⟨את⟩ àwọn ẹ̀wọ́ fitila, àti ⟨את⟩ àwọn àwo, àti ⟨את⟩ gbogbo àwọn irińṣẹ́ adirẹ tí wọ́n fi ń ṣe ìsìn pẹ̀lú wọn — wọ́n mú wọn lọ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìkòkò"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "àwọn ìkòkò"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn fùpà"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "àwọn fùpà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ẹ̀wọ́ fitila"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "àwọn ẹ̀wọ́ fitila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn àwo"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "àwọn àwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn irińṣẹ́ adirẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "àwọn irińṣẹ́"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "adirẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "wọ́n fi ń ṣe ìsìn"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pẹ̀lú wọn"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "wọ́n mú lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:40:02.508822723Z",
+  "model": "glm-5.3"
+}

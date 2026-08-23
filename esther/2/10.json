@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ester kò sọ ⟨את⟩ orílẹ̀-èdì rẹ̀ àti ⟨את⟩ ìdílé rẹ̀; nítorí Mordechai ti pàṣẹ lórí rẹ̀ pé kí ó má ṣe sọ ọ́.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orílẹ̀-èdì rẹ̀"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "orílẹ̀-èdì rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìdílé rẹ̀"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "ìdílé rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pàṣẹ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kí ó má ṣe"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "sọ ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:44:44.432219291Z",
+  "model": "glm-5.3"
+}

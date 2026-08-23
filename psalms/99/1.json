@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 99,
+  "translation": "Yahweh ti gorí oyè jọba — kí àwọn ènìyàn bẹ̀rù; Ẹni tí ó ń jọkọ orí àwọn kerubimu — kí ayé máa mi pamí-pamí.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti gorí oyè jọba"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "kí wọn bẹ̀rù (mì mírìnírì)"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ń jọkọ"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "àwọn kerubimu"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "máa mi pamí-pamí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé ⟨naa⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:10.616582401Z",
+  "model": "glm-5.3"
+}

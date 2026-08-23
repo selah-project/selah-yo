@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Àwọn Mitzrayim yóò sì mọ̀ pé èmi ni Yahweh, nígbà tí èmi bá fi ọlá mi ṣe Farao, ní àwọn ọkọ̀-ogun rẹ̀ àti ní àwọn olùṣọ́-ẹṣin rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "yóò sì mọ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Àwọn Mitzrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "nígbà tí èmi bá fi ọlá mi ṣe"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "ní àwọn ọkọ̀-ogun rẹ̀"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "àti ní àwọn olùṣọ́-ẹṣin rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:20:47.445580751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Nígbà tí o bá ń rìn, yóò gbà ⟨את⟩ rẹ lọ́nà; nígbà tí o bá subú, yóò ṣọ́ rẹ̀; nígbà tí o bá jí, òun ni yóò bá rẹ̀ sọ̀rọ̀.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "Nígbà tí o bá ń rìn"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "gbà … lọ́nà"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ rẹ",
+      "marks": "ìwọ"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "nígbà tí o bá subú"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ṣọ́"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "nígbà tí o bá jí"
+    },
+    {
+      "surface": "היא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "bá rẹ̀ sọ̀rọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:04:03.856626939Z",
+  "model": "glm-5.3"
+}

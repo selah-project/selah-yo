@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Chazaeli, ọba Aramu, sì tẹ ⟨את⟩ Israel lọ́wọ́ gbogbo ọjọ́ Yehoachazi.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Chazaeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "tẹ lọ́wọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachazi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:31:51.717636252Z",
+  "model": "glm-5.3"
+}

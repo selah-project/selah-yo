@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ọrọ̀ ń pọ̀ àwọn ọ̀rẹ́ sí i púpọ̀; talíàkà sì ń yà kúrò lọ́dọ̀ ọ̀rẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Ọrọ̀"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ń pọ̀ sí i"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "àwọn ọ̀rẹ́"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "talíàkà sì"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "lọ́dọ̀ ọ̀rẹ́ rẹ̀"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ń yà kúrò"
+    }
+  ],
+  "timestamp": "2026-08-23T04:10:25.209240589Z",
+  "model": "glm-5.3"
+}

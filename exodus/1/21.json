@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì ṣẹlẹ̀, nítorí pé àwọn alágbà-ìbímọ bẹ̀rù̀ Elohim, pé Ó ṣe ⟨את⟩ ilé fún wọn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bẹ̀rù̀"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "àwọn alágbà-ìbímọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ilé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:19.003297672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "David sì gbọ́ ní ijọ pé Nabal ń gé wúrà ⟨את⟩ àwọn àgùntàn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "sì gbọ́"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní ijọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ń gé wúrà"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àgùntàn rẹ̀"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "àwọn àgùntàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:53:57.486399581Z",
+  "model": "glm-5.3"
+}

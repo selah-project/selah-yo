@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "⟨את⟩ àwọn àsò-òpó ti ogbọ̀ náà, ⟨את⟩ àwọn ìgún ọ̀gangan rẹ̀ àti ⟨את⟩ àwọn ìdí rẹ̀, àti ⟨את⟩ àsò-ìbojú ọ̀nà ìwọ̀lé ogbọ̀ náà,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àsò-òpó ti ogbọ̀ náà"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "àwọn àsò-òpó"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ogbọ̀ náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìgún ọ̀gangan rẹ̀"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "àwọn ìgún ọ̀gangan rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìdí rẹ̀"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "àwọn ìdí rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àsò-ìbojú ọ̀nà ìwọ̀lé ogbọ̀ náà"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "àsò-ìbojú"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọ̀nà ìwọ̀lé"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ogbọ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:37.542287858Z",
+  "model": "glm-5.3"
+}

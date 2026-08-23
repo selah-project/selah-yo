@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Fọ́ shofar ní Gibea, fọ́ trorompẹ ní Rama; pa ìkìlẹ̀ soke ní Beth-Aven: lẹ́yìn rẹ, eyin Binyamin!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "fọ́"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "ní Gibea"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "trorompẹ"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "ní Rama"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "pa ìkìlẹ̀ soke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "lẹ́yìn rẹ"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "eyin Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:00:49.473762390Z",
+  "model": "glm-5.3"
+}

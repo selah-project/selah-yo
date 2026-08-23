@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ìṣẹ́ rẹ̀ yóó padà lórí orí rẹ̀, àti ìwà-ipá rẹ̀ yóó sọ̀rí ìròkò-orí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "yóó padà"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ìṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "lórí orí rẹ̀"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti sí orí"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "ìròkò-orí rẹ̀"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ìwà-ipá rẹ̀"
+    },
+    {
+      "surface": "יירד",
+      "gloss": "yóó sọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:21:43.312363207Z",
+  "model": "glm-5.3"
+}

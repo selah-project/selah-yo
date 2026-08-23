@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ẹnikẹni tí a bá rí yóò jẹ́ kí wọ́n fọ̀n lọ́nà kọnà; Ẹnikẹni tí a bá mú yóò ṣubú lọ́nà idà.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ẹnikẹni"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "tí a bá rí"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "yóò jẹ́ kí wọ́n fọ̀n lọ́nà kọnà"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "Ẹnikẹni"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "tí a bá mú"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "yóò ṣubú"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "lọ́nà idà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:54:06.438555749Z",
+  "model": "glm-5.3"
+}

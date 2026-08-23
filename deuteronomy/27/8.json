@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Kí o sì kọ ọ́ sí orí ⟨את⟩ àwọn okúta — gbogbo ọ̀rọ̀ Tíórà yìí — kí o sì sọ ọ́ ní kedere gan-an.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "kí o sì kọ ọ́ sí orí"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "àwọn okúta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọ̀rọ̀ Tíórà yìí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tíórà"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kí o sì sọ ọ́ ní kedere"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "gan-an"
+    }
+  ],
+  "timestamp": "2026-08-23T00:17:36.787966194Z",
+  "model": "glm-5.3"
+}

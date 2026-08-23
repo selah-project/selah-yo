@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ó sì mu wa ⟨את⟩ jáde láti ibẹ̀, láti lè mú ⟨את⟩ wa wọ̀, láti fún wa ní ⟨את⟩ ilẹ̀ náà tí ó ti búra fún àwọn baba wa.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ wa",
+      "marks": "mu wa jáde"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ó mu jáde"
+    },
+    {
+      "surface": "משם",
+      "gloss": "láti ibẹ̀"
+    },
+    {
+      "surface": "למען",
+      "gloss": "láti lè"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "mú wọ̀"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ wa",
+      "marks": "mú wa wọ̀"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "láti fún"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó ti"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "búra fún"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "àwọn baba wa"
+    }
+  ],
+  "timestamp": "2026-08-23T00:08:15.936858666Z",
+  "model": "glm-5.3"
+}

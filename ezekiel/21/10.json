@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 21:10",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Kí gbogbo ẹ̀dá ara lè mọ̀ pé èmi, Yahweh, ni mo ti yọ idà mi jáde láti inú ìdàn rẹ; kì yóò sì padà mọ́ rárá.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "kí wọn lè mọ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ẹ̀dá ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "mo ti yọ … jáde"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "idà mi"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "láti inú ìdàn rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "yóò padà"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́ rárá"
+    }
+  ],
+  "timestamp": "2026-08-23T02:42:17.421390974Z",
+  "model": "glm-5.3"
+}

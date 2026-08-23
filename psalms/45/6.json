@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Àwọn ọfà rẹ ṣe mú lékúnún; àwọn orílẹ̀-èdè ṣubú lábẹ́ rẹ — sínú ọkàn àwọn ọ̀tá ⟨ti⟩ ọba.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "àwọn ọfà rẹ"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ṣe mú lékúnún"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "lábẹ́ rẹ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ṣubú"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sínú ọkàn"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "àwọn ọ̀tá"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:26.861966002Z",
+  "model": "glm-5.3"
+}

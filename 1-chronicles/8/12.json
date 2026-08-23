@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àwọn ọmọ Elpaal: Ever, Misham, àti Shemed; òun ni ó kó Ono àti Lod pẹ̀lú àwọn abúlé wọn dúró.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Àwọn ọmọ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "àti Shemed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ó kó…dúró"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "pẹ̀lú àwọn abúlé wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:10:34.112812956Z",
+  "model": "glm-5.3"
+}

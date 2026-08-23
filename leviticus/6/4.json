@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ó sì yó ⟨את⟩ aṣọ rẹ̀, ó wọ aṣọ míràn, ó sì mú ⟨את⟩ eérú náà jáde sí ìta ogun, sí ibi mímọ́.",
+  "tokens": [
+    {
+      "surface": "וופשט",
+      "gloss": "ó sì yó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ó wọ"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "aṣọ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "míràn"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ó sì mú jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eérú náà"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "eérú náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ìta"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:00.114969669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "fún àwọn tí ó ń ṣọ́ májẹ̀mú rẹ̀, àti fún àwọn tí ó ń rántí àṣẹ rẹ̀, láti ṣe wọ́n",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "fún àwọn tí ó ń ṣọ́"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "májẹ̀mú rẹ̀"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "àti fún àwọn tí ó ń rántí"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "àṣẹ rẹ̀"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "láti ṣe wọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:36.530088352Z",
+  "model": "glm-5.3"
+}

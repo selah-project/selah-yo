@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Bí agbọ́nrìn ṣe ń fẹ́ẹ́-fẹ́ẹ́ wá omi àwọn odò, bẹ́ẹ̀ gẹ́gẹ́ ni ẹ̀mí mi ń tọ ìwọ wá, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "bí agbọ́nrìn"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ń fẹ́ẹ́-fẹ́ẹ́ wá"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "àwọn odò"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ gẹ́gẹ́ ni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ń tọ ìwọ wá"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ìwọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:24.123231645Z",
+  "model": "glm-5.3"
+}

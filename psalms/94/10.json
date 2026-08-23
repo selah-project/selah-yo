@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "Ẹni tí ó ń pa àwọn orílẹ̀-èdè lọ́tọ́, ṣé kì í ṣe ìdájọ́? Ẹni tí ó ń kọ́ ènìyàn ìmọ̀, ṣé kì í mọ?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Ẹni tí ó ń pa lọ́tọ́"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ṣé kì í"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ṣe ìdájọ́"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Ẹni tí ó ń kọ́"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ìmọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:55.089799198Z",
+  "model": "glm-5.3"
+}

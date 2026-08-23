@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Ìlérí mi sí Yahweh ni èmi máa ṣe, níwájú gbogbo èrùọ̀ rẹ̀, jọ̀wọ́.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ìlérí mi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sí Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "èmi máa ṣe"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọ̀wọ́"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "èrùọ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:02.525490939Z",
+  "model": "glm-5.3"
+}

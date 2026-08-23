@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Kush sì bí ⟨את⟩ Nimrod; òun ni ó bẹ̀rẹ̀ síí jẹ́ alágbára ní ayé.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kush sì"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "החל",
+      "gloss": "bẹ̀rẹ̀"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "síí jẹ́"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T05:07:49.245677793Z",
+  "model": "glm-5.3"
+}

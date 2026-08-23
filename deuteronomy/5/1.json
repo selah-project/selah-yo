@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Moshe pe gbogbo Israẹli, ó sì wí fún wọn pé: Gbọ́, Israẹli, ⟨את⟩ àwọn òfin àti ⟨את⟩ àwọn ìdájọ́ tí mo ń sọ nínú etí yín lónìí, kí ẹ kọ́ ẹ̀kọ́ wọn, kí ẹ sì ṣọ́ láti ṣe wọn.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ó pe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òfin"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "àwọn òfin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìdájọ́"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "àwọn ìdájọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ń sọ"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "nínú etí yín"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "kí ẹ kọ́ ẹ̀kọ́"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "kí ẹ sì ṣọ́"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "láti ṣe wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:08:11.869713300Z",
+  "model": "glm-5.3"
+}

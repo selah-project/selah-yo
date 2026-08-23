@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àwọn oníṣègùn-ìròyin ṣe bẹ́ẹ̀ nípa ìdán wọn, wọ́n sì gbé ⟨את⟩ àwọn ọ̀kẹ̀-ọ̀fun sóke lórí ilẹ̀ Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "wọ́n ṣe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "àwọn oníṣègùn-ìròyin"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "nípa ìdán wọn"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "wọ́n sì gbé sóke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀kẹ̀-ọ̀fun"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "àwọn ọ̀kẹ̀-ọ̀fun"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:45.359465640Z",
+  "model": "glm-5.3"
+}

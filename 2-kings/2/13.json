@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó gbé ⟨את⟩ àsọ ìránmọ́ Eliyahu tí ó ṣubú kúrò lóríì rẹ̀ sókè, ó sì padà, ó sì dúró lé orí etí odò Yarden.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "ó gbé sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àsọ ìránmọ́ Eliyahu"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "àsọ ìránmọ́"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "ó ṣubú"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kúrò lóríì rẹ̀"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó padà"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ó dúró"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé orí"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "etí (odò)"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "odò Yarden"
+    }
+  ],
+  "timestamp": "2026-08-23T01:26:54.393546026Z",
+  "model": "glm-5.3"
+}

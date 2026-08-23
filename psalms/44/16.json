@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Ojújúmọ́ gbogbo ni ẹ̀gbin mi wà níwájú mi, àti àṣìṣe yìí ti ojú mi bò mí ká.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ojújúmọ́"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "ẹ̀gbin mi"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "níwájú mi"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "àti àṣìṣe yìí"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "bò mí ká"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:41.174957366Z",
+  "model": "glm-5.3"
+}

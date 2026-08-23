@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Gbígba ⟨את⟩ orí àwọn ọmọ Gershon, àwọn náà, nípa ilé àwọn baba wọn, nípa àwọn ẹbí wọn",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "gbígba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orí"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "àwọn náà"
+    },
+    {
+      "surface": "הם",
+      "gloss": "àwọn"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nípa ilé"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nípa àwọn ẹbí wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:54.583846356Z",
+  "model": "glm-5.3"
+}

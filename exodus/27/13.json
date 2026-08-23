@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ìbùú àárín-òwọ́ náà, lóríddú ìla-oòrùn, sì jẹ́ àwọn ẹ̀wùn ogójọ́ àmọ̀nà.",
+  "tokens": [
+    {
+      "surface": "ו",
+      "gloss": "sì"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Ìbùú"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "àárín-òwọ́ náà"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "lórí àwọn ẹ̀gbẹ́"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ìwọ̀-oòrùn-ìlà-oòrùn"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ní ìlà-oòrùn (oòrùn ń rọ̀)"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ogójọ́"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "àmọ̀nà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:10.567157153Z",
+  "model": "glm-5.3"
+}

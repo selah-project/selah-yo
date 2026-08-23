@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 110,
+  "translation": "Orin Daviudu: Gbérọ́ Yahweh fún Adonai mi: “Jókòó sí ẹ̀tù́ òwọ̀ ọ̀tún mi, títí tí mo fi á ṣe àwọn ọ̀tá rẹ̀ díì ìtì-ẹsẹ̀ fún àwọn ẹsẹ̀ rẹ.”",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ti Daviudu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gbérọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "fún Adonai mi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "jókòó"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "sí ẹ̀tù́ òwọ̀ ọ̀tún mi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mo fi á ṣe"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "àwọn ọ̀tá rẹ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "díì ìtì-ẹsẹ̀"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "fún àwọn ẹsẹ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:42.709073453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Mo yóò gbà á lọ́wọ́ ọba Ashur, ìwọ àti ⟨את⟩ ìlú yìí; èmi yóò dá ìlú yìí lọ́là.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "lóòwọ́"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "Mo yóò gbà á (ìwọ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìlú yìí"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "èmi yóò dá ... lọ́là"
+    },
+    {
+      "surface": "על",
+      "gloss": "fún"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:53:31.576036983Z",
+  "model": "glm-5.3"
+}

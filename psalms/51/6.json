@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Sí ọ̀dọ̀ rẹ, ìwọ̀ nìkan ni mo ṣe ẹ̀ṣẹ̀ sí; èyí burúku ni mo ṣe ní ojú rẹ, kí ìwọ́ lè jẹ́ olóòtítọ́ nínú ọ̀rọ̀ rẹ, kí ìwọ́ lè jẹ́ mímọ́ nínú ìdájọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ìwọ̀ nìkan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mo ṣe ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "àti èyí burúku"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ní ojú rẹ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mo ṣe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí... lè"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "ìwọ́ jẹ́ olóòtítọ́"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "nínú ọ̀rọ̀ rẹ"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "ìwọ́ jẹ́ mímọ́"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "nínú ìdájọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:22.417381094Z",
+  "model": "glm-5.3"
+}

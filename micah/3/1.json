@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Mo sì wí: Ẹ gbọ́, ẹ jọwọ́, àwọn olórí Yaakov, àti àwọn adarí ti ilé Yisrael — ṣé kì í ṣe tiyín ni láti mọ ⟨את⟩ ìdájọ́?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mo sì wí"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Ẹ gbọ́"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ẹ jọwọ́"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "àti àwọn adarí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ṣé kì í ṣe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tiyín"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "láti mọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdájọ́"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ìdájọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:11:19.028535896Z",
+  "model": "glm-5.3"
+}

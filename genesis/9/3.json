@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Gbogbo ohun tí ó ń ṣàwọ̀pọ̀, tí ó sì wà láàyè, jẹ́ tiyín ní oúnjẹ; gẹ́gẹ́ bí èso ewébìí ni mo ti fún yín ní ⟨את⟩ gbogbo rẹ̀.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ohun tí ó ń ṣàwọ̀pọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wà láàyè"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tiyín"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ní oúnjẹ"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "gẹ́gẹ́ bí èso"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ewébìí"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mo ti fún"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:46.530062785Z",
+  "model": "glm-5.3"
+}

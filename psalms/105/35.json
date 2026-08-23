@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ó jẹ gbogbo koríko ní ilẹ̀ wọn, ó sì jẹ èso ilẹ̀-alápá wọn.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Ó jẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "koríko"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "ní ilẹ̀ wọn"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ó sì jẹ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "èso"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ilẹ̀-alápá wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:58.017306281Z",
+  "model": "glm-5.3"
+}

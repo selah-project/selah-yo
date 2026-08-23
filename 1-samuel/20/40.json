@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Yehonatan sì fún ọmọkunrin tí ó bá wà lọ́wọ́ rẹ̀ ní ⟨את⟩ ohun ìjà rẹ̀, ó sì wí fún un pé, Lọ, mú un lọ sí ìlú náà.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fún… ní"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun ìjà rẹ̀"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ohun ìjà rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ọmọkunrin náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ó bá wà lọ́wọ́ rẹ̀"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "mú un lọ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:52:30.880807731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 87,
+  "translation": "Ti àwọn ọmọ Korach — mizmor, orin. Ìpìlẹ̀ rẹ̀ ⟨wa⟩ ní àwọn òkè ⟨mímọ́⟩.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ti àwọn ọmọ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "ìpìlẹ̀ rẹ̀"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "ní àwọn òkè"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:46.983104050Z",
+  "model": "glm-5.3"
+}

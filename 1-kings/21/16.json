@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 21:16",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ó sì ṣe bíi tí, nígbà tí Ahab gbọ́ pé Naboth ti kú, Ahab sì dìde láti lọ sí ibi ọ̀gbìn Naboth ará Yizreeli, láti gba á ni ohun-iní.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì ṣe bíi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nígbà tí ó gbọ́"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ó ti kú"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naboth"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ó sì dìde"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "láti lọ ṣùbú"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ibi ọ̀gbìn"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naboth"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "ará Yizreeli"
+    },
+    {
+      "surface": "לרשתו",
+      "gloss": "láti gba á ni ohun-iní"
+    }
+  ],
+  "timestamp": "2026-08-23T01:23:17.192059669Z",
+  "model": "glm-5.3"
+}

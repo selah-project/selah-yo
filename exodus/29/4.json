@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ìwọ ó sì mú ⟨את⟩ Aharon àti ⟨את⟩ àwọn ọmọ rẹ wá sí ènu-ọ̀nà Ahọ́ntíjọ, ìwọ ó sì wẹ ⟨את⟩ wọn pẹ̀lú omi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ìwọ ó mú wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ènu-ọ̀nà"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahọ́ntí"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ìwọ ó sì wẹ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "במים",
+      "gloss": "pẹ̀lú omi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:28:25.267386179Z",
+  "model": "glm-5.3"
+}

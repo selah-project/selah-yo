@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Bí ẹ bá fi ọ̀kan wọ́n bí ẹnu ⟨את⟩ wọn gan-an — nítorí pé bí wọn kígbé sí mi díẹ̀ díẹ̀, èmi yóò gbọ́ ìkígbé wọn lóótọ́:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "fi ọ̀kan wọ́n bí ẹnu"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ẹ bá fi ọ̀kan wọ́n bí ẹnu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אם",
+      "gloss": "díẹ̀ díẹ̀"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "kígbé"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "bá kígbé"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "yóò gbọ́"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "ìkígbé wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:49.046440376Z",
+  "model": "glm-5.3"
+}

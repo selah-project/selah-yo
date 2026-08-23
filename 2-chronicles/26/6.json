@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ó sì jáde, ó sì jagun pẹ̀lú ⟨את⟩ àwọn Falisitini; ó sì wó ⟨את⟩ ogiri Gat àti ⟨את⟩ ogiri Yavneh àti ⟨את⟩ ogiri Ashdod; ó sì kọ́ àwọn ìlú ní Ashdod àti ní ilẹ̀ Falisitini.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ó sì jáde"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ó sì jagun pẹ̀lú"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "àwọn Falisitini"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "ó sì wó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogiri Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ogiri"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ogiri Yavneh"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ogiri"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yavneh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ogiri Ashdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ogiri"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ó sì kọ́"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "ní Ashdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "àti ní ilẹ̀ Falisitini"
+    }
+  ],
+  "timestamp": "2026-08-23T05:32:45.508918174Z",
+  "model": "glm-5.3"
+}

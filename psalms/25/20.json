@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ṣọ́ ìgbàlá mi, gbà mí là; jẹ́ kí n má ṣe tìàmú-tàka, nítorí mo sá sí ìdanìmọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "ṣọ́"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ìgbàlá mi"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "gbà mí là"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jẹ́ kí ... má ṣe"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "tìàmú-tàka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mo sá sí ìdanìmọ́"
+    },
+    {
+      "surface": "בך",
+      "gloss": "rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:13.965727859Z",
+  "model": "glm-5.3"
+}

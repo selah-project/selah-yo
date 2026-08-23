@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "ìmú-bínú mi yóò gbóná, èmi yóò sì pa ⟨את⟩ yín pẹ̀lú idà; àwọn ayàwó yín yóò sì di alámatàn, àwọn ọmọ yín sì yóò di àìbí.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "yóò gbóná"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ìmú-bínú mi"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "èmi yóò pa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yín"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "pẹ̀lú idà"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "yóò di"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "àwọn ayàwó yín"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "alámatàn"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "àwọn ọmọ yín"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "àìbí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:49.046680666Z",
+  "model": "glm-5.3"
+}

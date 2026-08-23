@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Bẹ́ẹ̀ ni Yahweh wí — Òun ni ó ṣe ⟨àgbálà yìí⟩, Yahweh ni ó yọ ọ́ láti fi ⟨את⟩ dúró ṣinṣin — Yahweh ni orúkọ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Òun ni ó ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "ni ó yọ ọ́"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "láti fi dúró ṣinṣin (ìdásílẹ̀ rẹ̀)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "láti fi dúró ṣinṣin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:58:13.859746595Z",
+  "model": "glm-5.3"
+}

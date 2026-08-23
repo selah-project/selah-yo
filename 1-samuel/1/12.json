@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì ṣe, bí ó ti pẹ́ nínú ìgbàdùrà níwájú Yahweh, Elii sì ń ṣọ́ ⟨את⟩ ẹnu rẹ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bí ó ti"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "pẹ́"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "nínú ìgbàdùrà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "Elii sì"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ń ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹnu rẹ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ẹnu rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:42:00.959927179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "adóṣọọṣe náà sì gbé ⟨את⟩ ìyàwó náà sún mọ́, ó sì dúró síwájú Yahweh",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "sì gbé sún mọ́"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ìyàwó náà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adóṣọọṣe náà"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "sì jẹ́ kí ó dúró"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:51:04.838064696Z",
+  "model": "glm-5.3"
+}

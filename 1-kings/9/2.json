@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Yahweh sì farahàn sí Shelomah ní ìgbà kejì, gẹ́gẹ́ bí ó ti farahàn sí i ní Givon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "sì farahàn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ní ìgbà kejì"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ó ti farahàn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "ní Givon"
+    }
+  ],
+  "timestamp": "2026-08-23T01:16:24.761537954Z",
+  "model": "glm-5.3"
+}

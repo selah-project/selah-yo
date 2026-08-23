@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Ní ìgbà ìṣaájú, ìwọ gbé ilẹ̀ ayé ìpìlẹ̀; àwọn ọ̀run sì ni iṣẹ́ ọwọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Ní ìgbà ìṣaájú"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "ìwọ gbé ìpìlẹ̀"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "àti iṣẹ́"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "àwọn ọ̀run"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:48.665481369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Abigail sì bí ⟨את⟩ Amasa; baba Amasa sì ⟨ni⟩ Yeter, ará Ismaeli.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Abigail sì"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "baba sì"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "ará Ismaeli"
+    }
+  ],
+  "timestamp": "2026-08-23T05:08:17.528412888Z",
+  "model": "glm-5.3"
+}

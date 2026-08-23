@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Yahweh, jẹ́ kí n má ṣe tìraka, nítorí tí mo pè ọ́; jẹ́ kí àwọn ènìyàn búburú tìraka, jẹ́ kí wọ́n dánu sí Sheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "jẹ́ kí n tìraka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mo pè ọ́"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "jẹ́ kí wọ́n tìraka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn ènìyàn búburú"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "jẹ́ kí wọ́n dánu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "sí Sheol"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:46.605975797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ẹni tí ó bá jẹ ọ́, ẹ̀ṣẹ̀ rẹ̀ ni yóò mú; nítorí pé ó ti sọ ⟨את⟩ míìràn Yahweh di àìmọ́; ẹ̀mí yẹn ni wọ́n ó gé kúrò lára àwọn ènìyàn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "ẹni tí ó bá jẹ ọ́"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ẹ̀ṣẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "yóò mú"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "míìràn Yahweh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "míìràn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ó ti sọ di àìmọ́"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "wọ́n ó gé kúrò"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "lára àwọn ènìyàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:22.113873666Z",
+  "model": "glm-5.3"
+}

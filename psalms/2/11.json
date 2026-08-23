@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ẹ ṣíṣẹ́ ⟨את⟩ Yahweh pẹ̀lú ẹ̀rù, kí ẹ sì dúnpọ̀ pẹ̀lú ìgbà-lọ́nà jijọ.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "ẹ ṣíṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "pẹ̀lú ẹ̀rù"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "kí ẹ sì dúnpọ̀"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "pẹ̀lú ìgbà-lọ́nà jijọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:13.503924742Z",
+  "model": "glm-5.3"
+}

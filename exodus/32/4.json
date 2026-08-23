@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Ó gba wọn lọ́wọ́ wọn, ó sì kọ ọ́ da pẹ̀lú irinṣẹ́ iṣẹ́-ọdẹ, ó sì ṣe é di ọmọ abàlà tí a tú sórí ara rẹ̀; wọ́n sì wí pé: Àwọn wọnyí ni àwọn ọlọ́run rẹ, yín Israel, tí ó gbé yín sóke láti ilẹ̀ Mitzrajim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ó gba wọn"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "lọ́wọ́ wọn"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ó sì kọ ọ́ da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ rẹ̀",
+      "marks": "irinṣẹ́ iṣẹ́-ọdẹ"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "pẹ̀lú irinṣẹ́ iṣẹ́-ọdẹ"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "ó sì ṣe é di"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ọmọ abàlà"
+    },
+    {
+      "surface": "מסכha",
+      "gloss": "tí a tú sórí ara rẹ̀"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí pé"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọnyí"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "àwọn ọlọ́run rẹ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "ó gbé yín sóke"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "láti ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrajim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:08.041971714Z",
+  "model": "glm-5.3"
+}

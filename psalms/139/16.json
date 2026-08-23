@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Ojú rẹ rí ẹ̀dà tí a kò tíì ṣèdá pẹ̀lú fọ́ọ̀mù; nínú́ ìwé rẹ gbogbo wọn wà, àwọn ọjọ́ tí a yàn wọ́n síṣẹ́, tí ẹ̀yìn kan kò tíì wà lára wọn.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "ẹ̀dà tí a kò tíì ṣèdá pẹ̀lú fọ́ọ̀mù"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "rí"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "Ojú rẹ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nínú́ ìwé rẹ"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "ìwé rẹ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "gbogbo wọn"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "wà tí a kọ sílẹ̀"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "àwọn ọjọ́"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "tí a yàn wọ́n síṣẹ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tí … kò"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ẹ̀yìn kan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "lára wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:29.646272048Z",
+  "model": "glm-5.3"
+}

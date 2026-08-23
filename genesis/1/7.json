@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Elohim sì ṣe ⟨את⟩ fífẹ́ náà, ó sì kúnà láàárín àwọn omi tí ó wà ní ìsàlẹ̀ fífẹ́ àti láàárín àwọn omi tí ó wà ní òkè fífẹ́; ó sì rí bẹ́ẹ́.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fífẹ́ náà"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "fífẹ́ náà"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "sì kúnà"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "המים",
+      "gloss": "àwọn omi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ìsàlẹ̀"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "fífẹ́"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàárín"
+    },
+    {
+      "surface": "המים",
+      "gloss": "àwọn omi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "fífẹ́"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì rí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ́"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:40.558059704Z",
+  "model": "glm-5.3"
+}

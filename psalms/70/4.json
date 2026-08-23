@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 70,
+  "translation": "Wọn ó yí padà nítorí ìtiju ti ẹsẹ̀ wọn — àwọn tí ó ń sọ pé, Héè! Héè!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Wọn ó yí padà"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ti ẹsẹ̀"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ìtiju wọn"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "àwọn tí ó ń sọ pé"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Héè!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Héè!"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:51.812493137Z",
+  "model": "glm-5.3"
+}

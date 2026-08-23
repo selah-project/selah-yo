@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó ń kọ́ ọwọ́ mí ní ogun, apá mi sì sọ tàkáadà idẹ wàlé.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Ó ń kọ́"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mí"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ní ogun"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "sọ ... wàlé"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "tàkáadà"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "idẹ"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "apá mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:49.373404473Z",
+  "model": "glm-5.3"
+}

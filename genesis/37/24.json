@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Wọ́n sì mú un, wọ́n sì sọ ⟨את⟩ ó sínú iho náà; iho náà sì ṣófo, kò sí omi nínú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "wọ́n sì mú un"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "wọ́n sì sọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ó"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "sínú iho náà"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "iho náà sì"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ṣófo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nínu rẹ̀"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:09:25.462536902Z",
+  "model": "glm-5.3"
+}

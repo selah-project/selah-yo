@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Gbọ́ èyí, gbogbo àwọn ènìyàn;ẹ tẹ́tí, gbogbo àwọn tí ó ń gbé ⟨the⟩ ayé ìgbà díẹ̀.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ẹ tẹ́tí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "àwọn tí ó ń gbé"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ayé ìgbà díẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:00.490037332Z",
+  "model": "glm-5.3"
+}

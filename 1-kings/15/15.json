@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ó sì gbé ⟨את⟩ àwọn ohun mímọ́ baba rẹ̀ àti ohun mímọ́ tí òun fúnra rẹ̀ fi iyebíye sílẹ̀ wá sí ilé Yahweh — fàdákà, wúrà àti àwọn ohun-èlò.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ó sì gbé … wá sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ohun mímọ́ baba rẹ̀"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "àwọn ohun mímọ́"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "àti ohun mímọ́ tí òun fi iyebíye sílẹ̀"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "àti wúrà"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "àti àwọn ohun-èlò"
+    }
+  ],
+  "timestamp": "2026-08-23T01:20:47.454872444Z",
+  "model": "glm-5.3"
+}

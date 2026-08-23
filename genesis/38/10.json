@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Ohun tí ó ṣe sì burú ní ojú Yahweh; ó sì kú gẹ́gẹ́ ⟨את⟩ òun náà.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ó sì burú"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ó sì kú"
+    },
+    {
+      "surface": "גם",
+      "gloss": "náà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "òun (Onan)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:10:05.662436658Z",
+  "model": "glm-5.3"
+}

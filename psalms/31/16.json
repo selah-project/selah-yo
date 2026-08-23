@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Ní ọwọ́ rẹ ni àwọn àkókò yìí wà; gbà mí lọ́wọ́ ọwọ́ ọ̀ta mi, àti láti ọ̀dọ̀ àwọn tí ó ń lé mí lẹ́yìn.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Ní ọwọ́ rẹ"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "àwọn àkókò yìí"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "gbà mí lọ́wọ́"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ọ̀ta mi"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "àti láti ọ̀dọ̀ àwọn tí ó ń lé mí lẹ́yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:01.521645880Z",
+  "model": "glm-5.3"
+}

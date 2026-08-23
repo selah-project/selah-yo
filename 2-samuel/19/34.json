@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 19:34",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ọba sì wí fún Barzillai pé: 'Ẹ kọjá ⟨את⟩ mi lọ, èmi yóò sì bójú tọ́ Ẹ pẹ̀lú mi ní Yerushalayim.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzillai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ẹ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kọjá lọ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mi"
+    },
+    {
+      "surface": "וכלכלתי",
+      "gloss": "èmi yóò sì bójú tọ́"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ Ẹ",
+      "marks": "Ẹ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "pẹ̀lú mi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T01:07:13.573202835Z",
+  "model": "glm-5.3"
+}

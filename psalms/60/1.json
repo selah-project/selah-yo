@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 60,
+  "translation": "Fún Olùdarí orin, nípa “Shushan-Eduth,” orin mímọ́ ti David, fún ìkọ́ni.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún Olùdarí orin"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "orin mímọ́"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "fún ìkọ́ni"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:28.994249407Z",
+  "model": "glm-5.3"
+}

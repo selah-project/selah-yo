@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Wọ́n sì gba ⟨את⟩ aṣọ Yosef, wọ́n sì pa ọ̀bọ́ ewúrẹ̀, wọ́n sì bù ⟨את⟩ aṣọ náà sínú ẹ̀jẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Wọ́n sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aṣọ Yosef"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "aṣọ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "wọ́n sì pa"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ọ̀bọ́"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ewúrẹ̀"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "wọ́n sì bù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aṣọ náà"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "aṣọ náà"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "sínú ẹ̀jẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:09:01.911385892Z",
+  "model": "glm-5.3"
+}

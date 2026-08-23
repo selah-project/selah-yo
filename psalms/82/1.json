@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 82,
+  "translation": "Orin ìnira fún Asaf. Elohim dúró ṣinṣin nínú àpéjọ ⟨ti⟩ El; láàárín àwọn elohim ni Elohim ń ṣe ìdájọ́.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Orin ìnira"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "fún Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "dúró ṣinṣin"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "nínú àpéjọ ⟨ti⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "àwọn elohim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "Elohim ń ṣe ìdájọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:52.090931005Z",
+  "model": "glm-5.3"
+}

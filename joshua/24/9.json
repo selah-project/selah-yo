@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 24:9",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Nígbà náà ni Balak ọmọ Tzippor, ọba Moab, dìde, ó si jagun pẹ̀lú Yisrael; ó sì ránṣẹ́, ó pe Bilam ọmọ Beor láti kẹ ẹ̀yin.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dìde"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tzippor"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ó si jagun"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "pẹ̀lú Yisrael"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì ránṣẹ́"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ó pe"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "לקלל",
+      "gloss": "láti kẹ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ẹ̀yin",
+      "marks": "ẹ̀yin"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:19.581337806Z",
+  "model": "glm-5.3"
+}

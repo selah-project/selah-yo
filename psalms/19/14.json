@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 19:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Gbé ọmọ-ọ̀dọ̀ rẹ yà kúrò ní àwọn ṣìṣe tí ó gbájú mọ́lẹ̀; máà jẹ́ kí wọ́n jọba lórí mi; ìgbà yìí ni mo di ẹni tí ó pé, mo di mímọ́ kúrò nínú ìṣẹ̀gba púpọ̀.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ìgbà yìí naà"
+    },
+    {
+      "surface": "מזדים",
+      "gloss": "àwọn ṣìṣe tí ó gbájú mọ́lẹ̀"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gbé ... yà kúrò"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ọmọ-ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "máà jẹ́ kí"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "wọ́n jọba"
+    },
+    {
+      "surface": "בי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ìgbà yìí"
+    },
+    {
+      "surface": "איתם",
+      "gloss": "mo di ẹni tí ó pé"
+    },
+    {
+      "surface": "ונקיתי",
+      "gloss": "mo di mímọ́ kúrò"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "níkàn ìṣẹ̀gba"
+    },
+    {
+      "surface": "רב",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:35.203067450Z",
+  "model": "glm-5.3"
+}

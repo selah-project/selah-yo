@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ó sì fi orin tuntun, ìyìn fún Elohim wa, sí ẹnu mi; ọ̀pọ̀ yóò rí i, wọn yóò sì bẹ̀rù, wọn yóò sì gbégbá lé Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ó sì fi… sí ẹnu mi"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sí ẹnu mi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tuntun"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ìyìn"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "fún Elohim wa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ọ̀pọ̀ yóò rí i"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọ̀pọ̀"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "wọn yóò sì bẹ̀rù"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "wọn yóò sì gbégbá lé"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:47.233228439Z",
+  "model": "glm-5.3"
+}

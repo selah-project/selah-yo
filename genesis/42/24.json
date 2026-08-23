@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ó sì padá kúrò lọ́dọ̀ wọn, ó bẹ́ sún; ó sì padà sí wọn, ó sì sọ̀rọ̀ sí wọn; ó sì gbà ⟨את⟩ láti ọ̀dọ̀ wọn ⟨את⟩ Shimon, ó sì di ⟨את⟩ ọ́ níwájú ojú wọn.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ó sì padá"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kúrò lọ́dọ̀ wọn"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ó bẹ́ sún"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó sì padà"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ó sì sọ̀rọ̀"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gbà"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ láti ọ̀dọ̀ wọn",
+      "marks": "láti ọ̀dọ̀ wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimon"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "ó sì di"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ọ́",
+      "marks": "Shimon"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "níwájú ojú wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:12:03.405943413Z",
+  "model": "glm-5.3"
+}

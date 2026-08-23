@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 57,
+  "translation": "Ní ìpẹ̀tẹ ìrìnàjò rẹ ni o ṣọ́ gan-an, ṣùgbọ́n kò sọ pé 'kò sí ìrètí'; ìgbésí owó rẹ ni o rí báyi; nítorí náà kò ṣàìsàn.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ní ìpẹ̀tẹ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ìrìnàjò rẹ"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "o ṣọ́ gan-an"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "kò sí ìrètí"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ìgbésí"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "owó rẹ"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "o rí"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "náà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ṣàìsàn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:01:36.837531555Z",
+  "model": "glm-5.3"
+}

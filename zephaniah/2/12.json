@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ẹ̀yin náà, àwọn ará Kushi, àwọn tí idà mi ti fò gan-an ni wọ́n.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "náà"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Ẹ̀yin"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "àwọn ará Kushi"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "àwọn tí ... ti fò"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "idà mi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni wọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:14:48.962756427Z",
+  "model": "glm-5.3"
+}

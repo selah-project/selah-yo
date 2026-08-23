@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Àwọn ènìyàn náà gbé ⟨את⟩ ìgbin ẹ̀wà wọn sókè, kí ó tó di óórùn sílẹ̀; àwọn agbá ẹ̀wà wọn sì wà ní ìdiẹ́ mọ́ àwọn aṣọ wọn lórí èjìká wọn.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "gbé sókè"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìgbin ẹ̀wà wọn"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "ìgbin ẹ̀wà wọn"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "kí ó tó"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "di óórùn sílẹ̀"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "àwọn agbá ẹ̀wà wọn"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "wà ní ìdiẹ́"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "mọ́ àwọn aṣọ wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "èjìká wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:46.353173891Z",
+  "model": "glm-5.3"
+}

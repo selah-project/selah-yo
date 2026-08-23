@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó ru kan nínú rẹ̀ sórí pẹpẹ náà ní ìgbà méje, ó sì fẹ̀mi ⟨את⟩ pẹpẹ náà àti ⟨את⟩ gbogbo ohun-èlò rẹ̀, àti ⟨את⟩ ahún-iwẹ̀ náà àti ⟨את⟩ ijókòó rẹ̀, láti fí mú ní mímọ́.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "Ó ru kan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "sórí"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ náà"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "méje"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ìgbà"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ó sì fẹ̀mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pẹpẹ náà"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ahún-iwẹ̀ náà"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ahún-iwẹ̀ náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ijókòó rẹ̀"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ijókòó rẹ̀"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "láti fí mú ní mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:48.984375377Z",
+  "model": "glm-5.3"
+}

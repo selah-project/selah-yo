@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 146,
+  "translation": "Ẹ má ṣe gbẹ́kẹ̀ lé àwọn ọmọólọ́la, lára ọmọ ènìyàn, tí ìgbàlà kò sí lọ́wọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "àwọn ọmọólọ́la"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "lára ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lọ́wọ́ rẹ̀"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ìgbàlà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:09.505193086Z",
+  "model": "glm-5.3"
+}

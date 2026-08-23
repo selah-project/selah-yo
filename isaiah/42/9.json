@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Wò ó, àwọn nǹkan àtijọ́ ti wá, àti àwọn titun ni èmi ń ṣe ìkéde rẹ̀, ṣáájú kí wón tó bùjá ni èmi ń jẹ́ kí ⟨את⟩ ẹ̀yin gbọ́ wọn.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "àwọn nǹkan àtijọ́"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ti wá"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "àti àwọn titun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ń ṣe ìkéde rẹ̀"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ṣáájú kí wón tó"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "bùjá"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "ń jẹ́ kí ... gbọ́ wọn"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ẹ̀yin"
+    }
+  ],
+  "timestamp": "2026-08-23T01:55:28.928632900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 33:52",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "ẹyin yóò sì fi ⟨את⟩ gbogbo àwọn olùgbé ⟨ilẹ̀ náà⟩ kúrò níwájú yín, ẹ sì parun ⟨את⟩ gbogbo àwọn àwòrán wọn, àti ⟨את⟩ gbogbo àwọn àwòrán ìlẹ̀kùn wọn ni ẹyin gbọ́dọ̀ parun, àti ⟨את⟩ gbogbo àwọn ibi-gíga wọn ni ẹyin gbọ́dọ̀ dàrú.",
+  "tokens": [
+    {
+      "surface": "והורשתם",
+      "gloss": "ẹyin yóò sì fi … kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn olùgbé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn olùgbé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ilẹ̀ náà⟩"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "níwájú yín"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "ẹ sì parun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn àwòrán wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "משכיתם",
+      "gloss": "àwọn àwòrán wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn àwòrán ìlẹ̀kùn wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "àwọn àwòrán"
+    },
+    {
+      "surface": "מסכתם",
+      "gloss": "ìlẹ̀kùn wọn"
+    },
+    {
+      "surface": "תאבדו",
+      "gloss": "ẹyin gbọ́dọ̀ parun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ibi-gíga wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "àwọn ibi-gíga wọn"
+    },
+    {
+      "surface": "תשמידו",
+      "gloss": "ẹyin gbọ́dọ̀ dàrú"
+    }
+  ],
+  "timestamp": "2026-08-23T00:05:19.964761373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 33:26",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ó gbàdọ̀ sí Eloah, ó sì tẹ́ ẹ lọ́rẹ́, ó sì rí ojú rẹ̀ pẹ̀lú ayọ̀ ìborí, ó sì da ẹ̀tọ́ ènìyàn náà padà fún un.",
+  "tokens": [
+    {
+      "surface": "יעתר",
+      "gloss": "gbàdọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "וירצהו",
+      "gloss": "ó sì tẹ́ ẹ lọ́rẹ́"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ó sì rí"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "pẹ̀lú ayọ̀ ìborí"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó sì da padà"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "fún ènìyàn náà"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ẹ̀tọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:28:01.156873729Z",
+  "model": "glm-5.3"
+}

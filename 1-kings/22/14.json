@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Mikhayhu sì wí pé: Bíi tí Yahweh ṣe wà láàyè, nítorí ⟨את⟩ ohun tí Yahweh bá sọ sí mi, ⟨את⟩ un ni mo máa sọ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayhu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wà láàyè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bá sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ un ni"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mo máa sọ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:25:39.584379489Z",
+  "model": "glm-5.3"
+}

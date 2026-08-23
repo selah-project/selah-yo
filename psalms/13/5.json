@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Nítorí kí ọ̀ta mi má baà wí pé “Mo gbé e lẹ́yìn,” àwọn ìyà mi kí wọ́n má baà yọ̀ nígbà tí mo bá ṣubú.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "nítorí kí…má baà"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ọ̀ta mi"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "mo gbé e lẹ́yìn"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "àwọn ìyà mi"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "kí wọ́n má baà yọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "mo bá ṣubú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:42.579781414Z",
+  "model": "glm-5.3"
+}

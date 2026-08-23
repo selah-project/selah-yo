@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 38:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Àwọn tí wọ́n ń wà nǹkan èmi, wọ́n gbé ọ̀nà àṣìṣe fún mi; àti àwọn tí wọ́n ń wà ìbàjẹ́ fún mi, wọ́n sọ̀rọ̀ ìpara-mọ́lé, àti èké ni wọ́n ń ròójú ṣe gbogbo ọjọ́.",
+  "tokens": [
+    {
+      "surface": "וינקשו",
+      "gloss": "wọ́n gbé ọ̀nà àṣìṣe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "àwọn tí wọ́n ń wà"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nǹkan èmi"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "àti àwọn tí wọ́n ń wà"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ìbàjẹ́ fún mi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "wọ́n sọ̀rọ̀"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ìpara-mọ́lé"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "àti èké"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "wọ́n ń ròójú ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:26.886068312Z",
+  "model": "glm-5.3"
+}

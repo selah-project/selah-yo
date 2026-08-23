@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Èmi yóò sì rin pẹ̀lú yín ní ìtako, Èmi yóò lu ⟨את⟩ yín ìyẹn náà nígbà míràn méje nítorí ẹ̀ṣẹ̀ yín.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "Èmi yóò sì rin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ìyẹn náà"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pẹ̀lú yín"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ní ìtako"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "Èmi yóò lu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yín"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ìyẹn náà"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "méje"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ẹ̀ṣẹ̀ yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:47:19.555164292Z",
+  "model": "glm-5.3"
+}

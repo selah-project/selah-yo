@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 10:8",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Àwọn ọmọ Aharon, àwọn àlùfáà, ni yóò máa gbé àwọn fèrè; ó sì jẹ́ òfin àìnípẹ̀kun fún yín àti fún ìran yín.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "yóò máa gbé"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "àwọn fèrè"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ó sì jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "òfin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "àìnípẹ̀kun"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "fún ìran yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:52:35.218135631Z",
+  "model": "glm-5.3"
+}

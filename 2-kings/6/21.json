@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ó sì wí, ọba YisraEl sọ fún Elisha, nígbà tí ó rí ⟨את⟩wọn: «Bàbá mi, ṣé èmi ó lu, ṣé èmi ó lu?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "YisraEl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sọ fún"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "nígbà tí ó rí"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩wọn",
+      "marks": "àwọn ọ̀gagún tí ó gbà mímú"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "ṣé èmi ó lu"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ṣé èmi ó lu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bàbá mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:28:29.280133263Z",
+  "model": "glm-5.3"
+}

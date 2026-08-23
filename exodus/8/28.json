@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Paroh sì ṣe okàn rẹ̀ diwù lẹ́ẹ̀kẹta ní àkókò yìí, kò sì fi ⟨את⟩ èrùòngbà náà lọ.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "ó sì ṣe…diwù"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okàn rẹ̀"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "okàn rẹ̀"
+    },
+    {
+      "surface": "גם",
+      "gloss": "lẹ́ẹ̀kẹta\/síbẹ̀"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ní àkókò"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "fi…lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èrùòngbà náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "èrùòngbà náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:03.997822987Z",
+  "model": "glm-5.3"
+}

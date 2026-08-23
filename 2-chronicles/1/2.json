@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 1:2",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Shelomah sì sọ̀rọ̀ sí gbogbo Israẹli, sí àwọn aṣáájú ẹgbẹ̀rún àti ọgọ́rún, sí àwọn adájọ́, àti sí gbogbo olórí ní gbogbo Israẹli, àwọn olóri ìdílé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ̀rọ̀"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sí gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "sí àwọn aṣáájú"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ẹgbẹ̀rún"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "àti ọgọ́rún"
+    },
+    {
+      "surface": "ולשפטים",
+      "gloss": "àti sí àwọn adájọ́"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "àti sí gbogbo"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "àwọn olóri"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ìdílé"
+    }
+  ],
+  "timestamp": "2026-08-23T05:21:33.884286019Z",
+  "model": "glm-5.3"
+}

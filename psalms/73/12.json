@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Wò ó, àwọn èṣe ni wọ̀nyí; àwọn tí ó rọ́rùn fún nígbà gbogbo sì ti gbàgbé pọ̀ ní ọrọ̀.",
+  "tokens": [
+    {
+      "surface": "הִנֵּה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "אֵ֥לֶּה",
+      "gloss": "wọ̀nyí"
+    },
+    {
+      "surface": "רְשָׁעִ֑ים",
+      "gloss": "àwọn èṣe"
+    },
+    {
+      "surface": "וְשַׁלְוֵ֥י",
+      "gloss": "àwọn tí ó rọ́rùn fún sì"
+    },
+    {
+      "surface": "עוֹלָ֗ם",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "הִשְׂגּ֧וּ",
+      "gloss": "ti gbàgbé pọ̀"
+    },
+    {
+      "surface": "חָֽיִל",
+      "gloss": "ní ọrọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:53.559134919Z",
+  "model": "glm-5.3"
+}

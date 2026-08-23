@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ẹ má ṣe jẹ́ kí nínú rẹ̀ ṣẹ́ títí di àárọ̀; àti èyí tí yóò ṣẹ́ nínú rẹ̀ títí di àárọ̀, ẹ jọ́ná sínú iná.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "àti má ṣe"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "jẹ́ kí ó ṣẹ́"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "àárọ̀"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "àti èyí tí ó ṣẹ́"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "àárọ̀"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sínú iná"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "ẹ jọ́ná"
+    }
+  ],
+  "timestamp": "2026-08-23T05:42:02.684128910Z",
+  "model": "glm-5.3"
+}

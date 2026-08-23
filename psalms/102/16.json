@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Nígbà náà ni àwọn orílẹ̀-èdè yóò bẹ̀rù ⟨את⟩ orúkọ Yahweh, àti gbogbo àwọn ọba ilẹ̀ ayé ⟨את⟩ ọlá rẹ.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "yóò bẹ̀rù"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọlá rẹ"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ọlá rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:42.241233612Z",
+  "model": "glm-5.3"
+}

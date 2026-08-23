@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Paro pa áṣẹ fún àwọn ọkùnrin nípa rẹ̀; wọ́n sì fi ráǹṣẹ́ ⟨את⟩ u, àti ⟨את⟩ arábìnrin rẹ̀, àti ⟨את⟩ gbogbo ohun tí ó ní.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ó pa áṣẹ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nípa rẹ̀"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "wọ́n sì fi ráǹṣẹ́"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ u"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "arábìnrin rẹ̀"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "arábìnrin rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ohun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ó ní"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:49.420735705Z",
+  "model": "glm-5.3"
+}

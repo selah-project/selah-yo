@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Àti ìpín mẹ́wàá kan fún ọ̀dọ́ àgùntàn kan, fún àwọn mẹ́rìnlá.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "àti ìpín mẹ́wàá"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "fún ọ̀dọ́ àgùntàn"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "fún mẹ́rin"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-lá (mẹ́rìnlá)"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "àwọn ọ̀dọ́ àgùntàn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:02:49.475564511Z",
+  "model": "glm-5.3"
+}

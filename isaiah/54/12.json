@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 54:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 54,
+  "translation": "Èmi yóò sọ àwọn fèrèsé rẹ di kadkodi, àwọn ọ̀nà ìwọlé rẹ di àwọn òkúta iná-jinìnà, àti gbogbo ààlà rẹ di àwọn òkúta ayọ̀.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Èmi yóò sọ... di"
+    },
+    {
+      "surface": "כדכד",
+      "gloss": "kadkodi"
+    },
+    {
+      "surface": "שמשתיך",
+      "gloss": "àwọn fèrèsé rẹ"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "àti àwọn ọ̀nà ìwọlé rẹ"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "di àwọn òkúta"
+    },
+    {
+      "surface": "אקדח",
+      "gloss": "iná-jinìnà"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ààlà rẹ"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "di àwọn òkúta"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ayọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:00:19.409064262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ó ń kójọpọ̀ bí òkúta kún omi òkun; ó ń pamọ́ àwọn ìjinlẹ̀ omi sínú àwọn ilé-ìdẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Ó ń kójọpọ̀"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "bí òkúta kún"
+    },
+    {
+      "surface": "מי",
+      "gloss": "omi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "òkun"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ó ń pamọ́ sílẹ̀"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "sínú àwọn ilé-ìdẹ̀"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "àwọn ìjinlẹ̀ omi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:28.574206300Z",
+  "model": "glm-5.3"
+}

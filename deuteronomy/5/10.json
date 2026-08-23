@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "àti tí ń ṣe chesed fún àwọn ẹgbẹ̀rún, fún àwọn tí ó fẹ́ràn mi, àti fún àwọn tí ó ń pa ìpinnu rẹ̀ mọ́.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "àti tí ń ṣe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "fún àwọn ẹgbẹ̀rún"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "fún àwọn tí ó fẹ́ràn mi"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "àti fún àwọn tí ó ń pa mọ́"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "ìpinnu rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:54.251900296Z",
+  "model": "glm-5.3"
+}

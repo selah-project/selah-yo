@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Àwọn àgbà ìlú yẹn náà sì máa gba ⟨את⟩ ọkùnrin náà, wọ́n sì máa fi ìjìyà jẹ́ ẹ ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "wọ́n sì máa gba"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkùnrin náà"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "wọ́n sì máa fi ìjìyà jẹ́"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ (ọkùnrin náà)"
+    }
+  ],
+  "timestamp": "2026-08-23T00:16:55.396141339Z",
+  "model": "glm-5.3"
+}

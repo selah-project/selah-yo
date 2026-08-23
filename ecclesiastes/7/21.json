@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Bákan náà, fún gbogbo àwọn ọ̀rọ̀ tí wọ́n bá sọ, má ṣe fi ọkàn rẹ da — pé kí o má gbọ́ ⟨את⟩ ẹrú rẹ tí ó ń nwín rẹ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bákan náà"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "wọ́n bá sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "fi … da"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ọkàn rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pépé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kí o má"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹrú rẹ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ẹrú rẹ"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "nwín rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:56.191027673Z",
+  "model": "glm-5.3"
+}

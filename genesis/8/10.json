@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì dúró ìgbà díẹ̀ síi, ọjọ́ méje míràn, ó sì tún rán ⟨את⟩ adàbà náà lọ kúrò nínú ọkọ̀ náà.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ó sì dúró ìgbà díẹ̀"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "síi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "méje"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "míràn"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ó sì tún"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "rán … lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adàbà náà"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "adàbà náà"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ọkọ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:18.069536481Z",
+  "model": "glm-5.3"
+}

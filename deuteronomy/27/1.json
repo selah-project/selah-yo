@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Moshe àti àwọn àgbà Yisrael sọ ⟨את⟩ ìjọ náà pé kí wọ́n ṣe bíi èyí: Ṣọ́ ⟨את⟩ gbogbo àṣẹ tí èmi ń pa ⟨את⟩ yín ṣe lónìí.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "sọ pé kí wọ́n ṣe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "àti àwọn àgbà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọ náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé kí wọ́n ṣe bíi èyí"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àṣẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "àṣẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ń pa yín ṣe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:17:59.771169593Z",
+  "model": "glm-5.3"
+}

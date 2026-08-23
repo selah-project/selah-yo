@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Moshe sì fi ⟨את⟩ ọ́wọ́ rẹ sí àwọn ọ̀run, òkùnkùn ìpàkọ̀ sì wà ní gbogbo ilẹ̀ Mitzrayim ọjọ́ mẹ́ta.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "sì fi sí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ́wọ́ rẹ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọ́wọ́ rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sì wà"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "òkùnkùn"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "ìpàkọ̀ (òkùnkùn ìròjinlẹ̀)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:27.586867899Z",
+  "model": "glm-5.3"
+}

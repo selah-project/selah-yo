@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ṣùgbọ́n ní àkókò yìí, nǹkan kan wọ ọ̀ wá, ìwọ sì sẹ́rẹ́; ó kan ọ̀ dé, ìwọ sì bẹ́rẹ́ wà láìní-lórí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n ní"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ní àkókò yìí"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wọ ọ̀ wá"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ọ̀"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "ìwọ sì sẹ́rẹ́"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "ó kan"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "dé ọ̀"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "ìwọ sì bẹ́rẹ́ wà láìní-lórí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:15:03.550837129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 85,
+  "translation": "Ṣíṣe ààbọ̀ rẹ̀ kù sí àwọn tí ó ń bẹ̀rù̀ rẹ̀, kí ikúnra lè gbé ní ilẹ̀ wa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ṣíṣe … kù sí"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "kù sí"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "àwọn tí ó ń bẹ̀rù̀ rẹ̀"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ṣíṣe ààbọ̀ rẹ̀"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "kí … lè gbé"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ikúnra"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ní ilẹ̀ wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:20.555035932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 18:21",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Sí àwọn ọmọ Levi: wò ó, mo ti fún wọn ní gbogbo ìdá-mẹ́wàá ní Yisrael ní ètùọ́-ojú, lódò iṣẹ́ wọn, èyí tí wọ́n ń ṣiṣẹ́ ⟨את⟩ iṣẹ́ ahọ ìpàdé.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "sí àwọn ọmọ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mo ti fún"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ìdá-mẹ́wàá"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ní Yisrael"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ní ètùọ́-ojú"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "lódò"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "iṣẹ́ wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ń ṣiṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣẹ́ ahọ ìpàdé"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahọ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:58:27.643205202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 97,
+  "translation": "Ẹ tí ń fẹ́ Yahweh, ẹ kórìíra búburú; ⟨olùṣọ́⟩ ní òun fún àwọn ẹ̀mí àwọn olódìímú rẹ̀; láti ọwọ́ àwọn olèṣẹ́ ló máa gbà wọn là.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "ẹ tí ń fẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "ẹ kórìíra"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "⟨olùṣọ́⟩ (ó ń ṣọ́)"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "àwọn ẹ̀mí"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "àwọn olódìímú rẹ̀"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "láti ọwọ́"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn olèṣẹ́"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "ó máa gbà wọn là"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:32.400494890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Nítorí Yahweh, El Elyon, jẹ́ ẹni tí wọ́n ń bẹ̀rù; ọba tó tóbi lórí ⟨the⟩ ayé gbogbo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon (Ègbẹ́-Òkè)"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ẹni tí wọ́n ń bẹ̀rù"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:51.747248742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ta ni ẹni yìí, ọkùnrin tí ó ń bẹ̀rù Yahweh? Yahweh máa kọ́ ọ́ nínú ọ̀nà tí ó bá yàn.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ta ni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ẹni yìí"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "tí ó ń bẹ̀rù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "Yahweh máa kọ́ ọ́"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nínú ọ̀nà"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "tí ó bá yàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:14.348354150Z",
+  "model": "glm-5.3"
+}

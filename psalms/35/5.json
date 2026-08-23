@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Jẹ́ kí wọn jẹ́ bí adiré níwájú afẹ́fẹ́, àti òjíṣẹ́ Yahweh ń gbé wọn lẹ́wọ̀n.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "jẹ́ kí wọn jẹ́"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "bí adiré"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "afẹ́fẹ́"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "àti òjíṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "ń gbé wọn lẹ́wọ̀n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:08.817863337Z",
+  "model": "glm-5.3"
+}

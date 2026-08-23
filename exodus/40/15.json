@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Sí o ó ṣe òróró ⟨את⟩ wọn bí o ti ṣe òróró ⟨את⟩ baba wọn, wọ́n ó sì jẹ́ àlùfáà fún Mi; ìrọ́rò wọn yóò sì jẹ́ láti jẹ́ ipò àlùfáà ayérayé fún wọn, fún àwọn ìran wọn.”",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "sí o ó ṣe òróró"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí o ti ṣe òróró"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "o ṣe òróró"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba wọn"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baba wọn"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "wọ́n ó sì jẹ́ àlùfáà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún Mi"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "yóò sì jẹ́"
+    },
+    {
+      "surface": "להית",
+      "gloss": "láti jẹ́"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "ìrọ́rò wọn"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "ipò àlùfáà"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ayérayé"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "fún àwọn ìran wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:41.774465179Z",
+  "model": "glm-5.3"
+}

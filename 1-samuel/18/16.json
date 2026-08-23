@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ṣùgbọ́n gbogbo Yisrael àti Yehuda ń fẹ́ ⟨את⟩ David, nítorí tí ⟨ó⟩ máa ń jáde àti wọlé níwájú wọn.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ṣùgbọ́n gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "àti Yehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ń fẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ó⟩"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "máa ń jáde"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "àti wọlé"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "níwájú wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:50:35.702372718Z",
+  "model": "glm-5.3"
+}

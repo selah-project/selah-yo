@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ìdáhùn rọrọ̀ máa ń da ìbínú padà; ọ̀rọ̀ èrùnjẹ sì máa ń gbe ìbínú sókè.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "ìdáhùn"
+    },
+    {
+      "surface": "רך",
+      "gloss": "rọrọ̀"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "máa ń da … padà"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ìbínú"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ọ̀rọ̀ sì"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "èrùnjẹ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "máa ń gbe … sókè"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ìbínú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:08:30.741958413Z",
+  "model": "glm-5.3"
+}

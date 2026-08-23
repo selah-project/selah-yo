@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Àti ⟨את⟩ gbogbo àwọn ọba wọ̀nyí àti ⟨את⟩ ilẹ̀ wọn ni Yehoshua mú ní ìgbà kan ṣoṣo; nítorí pé Yahweh, Elohim Yisrael, ń bá Yisrael jagun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Àti ⟨את⟩",
+      "marks": "gbogbo àwọn ọba wọ̀nyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọ̀nyí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilẹ̀ wọn"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ilẹ̀ wọn"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "mú (gba mú)"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "ní ìgbà"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kan ṣoṣo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ń jagun"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "bá Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T00:26:47.016905205Z",
+  "model": "glm-5.3"
+}

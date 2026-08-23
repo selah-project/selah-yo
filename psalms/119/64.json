@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ilẹ̀ ayé kun fun chesed rẹ, Yahweh; kọ́ àwọn òfin rẹ mí.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "chesed rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "kun fun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "àwọn òfin rẹ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "kọ́ mí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:39.761823549Z",
+  "model": "glm-5.3"
+}

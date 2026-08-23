@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ọmọ Yehonatan ni Meriv-Baal; Meriv-Baal sì bí ⟨את⟩ Mikha.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ọmọ sì"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "Meriv-Baal sì"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-(Baal)"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikha"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mikha"
+    }
+  ],
+  "timestamp": "2026-08-23T05:11:53.120473034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 8:8",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Gẹ́gẹ́ bí àwọn iṣẹ́ gbogbo tí wọ́n ti ṣe, láti ọjọ́ tí mo gbé ⟨את⟩wọn sókè láti Mitzrayim títí di ọjọ́ yìí, tí wọ́n sì fi mí sílẹ̀ láti ṣínṣin àwọn ọlọ́run mìíràn; bẹ́ẹ̀ gan-an ni wọ́n ń ṣe sí ọ̀gangan.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "gẹ́gẹ́ bí gbogbo"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "àwọn iṣẹ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wọ́n ti ṣe"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "láti ọjọ́"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "mo gbé sókè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩wọn",
+      "marks": "àwọn ènìyàn náà, tí a gbé sókè láti Mitzrayim"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "láti Mitzrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ויעזבני",
+      "gloss": "wọ́n sì fi mí sílẹ̀"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "láti ṣínṣin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "àwọn ọlọ́run"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "mìíràn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ gan-an"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sí ọ̀gangan"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:18.937569108Z",
+  "model": "glm-5.3"
+}

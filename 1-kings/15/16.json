@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ìjà sílẹ̀ sílẹ̀ sì wà láàárín Asa àti láàárín Baasha ọba Israẹl, gbogbo ọjọ́ wọn.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Ìjà sílẹ̀ sílẹ̀ sì"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàárín"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ọjọ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:20:47.454991056Z",
+  "model": "glm-5.3"
+}

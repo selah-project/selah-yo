@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "\"Ẹ jẹ́ kí a fa ⟨את⟩ ìwọ̀n wọn já, kí a sì sọ ìṣì wọn kúrò lọ́wọ́ wa.\"",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "ẹ jẹ́ kí a fa já"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìwọ̀n wọn"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "ìwọ̀n wọn"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "kí a sì sọ kúrò"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "lọ́wọ́ wa"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "ìṣì wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:18.995616705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Wò ìpọ̀njù mi, kí o sì gbà mí là, nítorí tí èmí kò gbé òfin rẹ̀ nínú.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Wò"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ìpọ̀njù mi"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "kí o sì gbà mí là"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "òfin rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "èmi kò gbé nínú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:04.330709520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Mo le ka gbogbo egungun ara mi; àwọn ìjọ wọ́n wo mi, wọ́n wo èdídú mi.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "mo le ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "egungun ara mi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "àwọn ìjọ wọ́n"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "wọ́n wo (pẹ̀lú ìròrí)"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "wọ́n wo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:18.994761802Z",
+  "model": "glm-5.3"
+}

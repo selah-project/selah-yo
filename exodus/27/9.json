@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ìwọ sì máa ṣe ⟨את⟩ ọ̀gba ti Mishkan, ní etí gúúsù ní gúúsù: àwọn asọ-àlà funfun-òwú tí a pọn mọ́ ara wọn fún ọ̀gba náà, ọgọ́rún ìwọ̀n ẹlẹgbẹ́ gígùn fún ẹ̀wọ̀n kan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ìwọ sì máa ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀gba"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "ọ̀gba"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ní etí"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "gúúsù"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ní gúúsù"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "àwọn asọ-àlà"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "fún ọ̀gba"
+    },
+    {
+      "surface": "שש",
+      "gloss": "funfun-òwú"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tí a pọn mọ́ ara wọn"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ọgọ́rún"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ìwọ̀n ẹlẹgbẹ́"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "gígùn"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "fún ẹ̀wọ̀n"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-08-22T23:25:35.994066914Z",
+  "model": "glm-5.3"
+}

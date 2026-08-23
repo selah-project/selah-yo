@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ìrora ń ba ọ̀nà rẹ̀ ní àkókò gbogbo; ìdájọ́ Rẹ ti ọ̀kè wà kúrò níwájú rẹ̀; ọ̀tá rẹ̀ gbogbo ni ó fi ẹnu fúyẹ́ yẹ̀ wọn.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "ìrora ń ba"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nígbà"
+    },
+    {
+      "surface": "עת",
+      "gloss": "àkókò gbogbo"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ti ọ̀kè"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ìdájọ́ Rẹ"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "wà kúrò níwájú rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "ọ̀tá rẹ̀"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "ó fi ẹnu fúyẹ́"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "yẹ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:27.750085147Z",
+  "model": "glm-5.3"
+}

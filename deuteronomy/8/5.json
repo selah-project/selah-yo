@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Kí o sì mọ̀ pẹ̀lú ọkàn rẹ pé, bíi ti ọkùnrin tí ó ń kọ́ni iṣẹ́ ⟨את⟩ ọmọ rẹ ṣe, Yahweh Elohim rẹ ń ṣe ⟨את⟩ kíkọ́ rẹ ni.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Kí o sì mọ̀"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ọkàn rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bíi ti"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "tí ó ń kọ́ni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ rẹ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "ń ṣe kíkọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:20.464714675Z",
+  "model": "glm-5.3"
+}

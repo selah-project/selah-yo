@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ọ̀rọ̀ Yahweh sì dé ọ̀dọ̀ rẹ̀, wí pé:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "dé ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    }
+  ],
+  "timestamp": "2026-08-23T05:51:35.717211383Z",
+  "model": "glm-5.3"
+}

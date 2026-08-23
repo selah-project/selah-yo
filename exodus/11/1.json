@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Yahweh sọ fún Moshe pé: Ègbéran kan sí ni èmi óò mú wá lórí Parao àti lórí Mitsrajim; lẹ́yìn ìgbà náà ni yóò fi yín lẹ́jọ́ kúrò níbí: nígbà tí ó bá ń fi yín lẹ́jọ́, ó óò yín kúrò níbí pátápátá, ó óò kó yín kúrò níbi pátápátá.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sí"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ègbéran"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "èmi óò mú wá"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn ìgbà"
+    },
+    {
+      "surface": "כן",
+      "gloss": "náà"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "yóò fi lẹ́jọ́"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kúrò níbí"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "nígbà tí ó bá ń fi lẹ́jọ́"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pátápátá"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "ó óò yín kúrò"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "ó óò kó yín kúrò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "níbi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:00.172997930Z",
+  "model": "glm-5.3"
+}

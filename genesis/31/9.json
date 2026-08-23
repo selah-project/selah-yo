@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Nítorí náà, Elohim mú ⟨את⟩ ẹran-ọ̀sìn baba yín lọ, ó sì fún mi ní i.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "mú...lọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹran-ọ̀sìn baba yín"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "baba yín"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fún"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi ní i"
+    }
+  ],
+  "timestamp": "2026-08-22T23:06:13.042648669Z",
+  "model": "glm-5.3"
+}

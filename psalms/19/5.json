@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Sí gbogbo ayé ni òwọ́ wọn ti jáde, àti sí ìparí àgbáyé ni ọ̀rọ̀ wọn wà; fún òòrùn ni ⟨ó⟩ gbé agọ́ sílẹ̀ ní àwọn ⟨ọ̀run⟩.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sí gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ti jáde"
+    },
+    {
+      "surface": "קום",
+      "gloss": "òwọ́ wọn"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "àti sí ìparí"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "àgbáyé"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "ọ̀rọ̀ wọn"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "fún òòrùn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gbé … sílẹ̀"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "agọ́"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ní wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:41.680022442Z",
+  "model": "glm-5.3"
+}

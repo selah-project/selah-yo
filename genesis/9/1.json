@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Elohim sì bùkún fún ⟨את⟩ Noachi àti ⟨את⟩ àwọn ọmọ rẹ̀, ó sì wí fún wọn pé, ẹ ṣe èso, ẹ pọ̀ sí i, ki ẹ sì kún ⟨את⟩ ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "sì bùkún fún"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noachi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ẹ ṣe èso"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ẹ pọ̀ sí i"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ki ẹ sì kún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:46.529048121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Dúpẹ́, ẹ̀mí mi, fún ⟨את⟩ Yahweh, má ṣe gbàgbé gbogbo èrè rere rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Dúpẹ́"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "gbàgbé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "èrè rere rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:27.861195574Z",
+  "model": "glm-5.3"
+}

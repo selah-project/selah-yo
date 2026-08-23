@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ìwọ sì ti dé ibẹ̀, kí o sì wá ibẹ̀ Yehu ọmọ Yehoshafat ọmọ Nimshi; ìwọ sì yóò wọ̀ọ́, kí o sì gbé e díde láti ààrín arákùnrin rẹ̀, kí o sì mú ⟨את⟩ un lọ sí yàrá ìnú yàrá.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "ìwọ sì ti dé"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kí o sì wá"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ìwọ sì yóò wọ̀ọ́"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "kí o sì gbé e díde"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "láti ààrín"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arákùnrin rẹ̀"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "kí o sì mú … lọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "un (Yehu)"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "yàrá"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "ìnú yàrá"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:26.997155955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Kí a mọ̀, kí a tẹ̀sílẹ̀ láti mọ̀ ⟨את⟩ Yahweh; ìjáde rẹ̀ dẹ́dẹ́ bí àárọ̀, ó sì máá wá bí òjò wá, bí òjò ìkẹhìn tí ó ń rọ̀ lórí ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "kí a mọ̀"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "kí a tẹ̀sílẹ̀"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "láti mọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "bí àárọ̀"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "dẹ́dẹ́"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ìjáde rẹ̀"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ó sì máá wá"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "bí òjò"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wá"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "bí òjò ìkẹhìn"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "tí ó ń rọ̀"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lórí ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:00:48.562398391Z",
+  "model": "glm-5.3"
+}

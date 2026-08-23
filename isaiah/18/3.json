@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Gbogbo àwọn tí ó ń gbé ayé, àti àwọn olùgbé ilẹ̀, bí a bá gbé ìkọ́ sí ókè, ẹ rí i; àti bí a bá fẹ̀ ṣófà, ẹ gbọ́.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn tí ó ń gbé"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "àti àwọn olùgbé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "bí a bá gbé"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ìkọ́"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sí ókè"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ẹ rí i"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "àti bí a bá fẹ̀"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ṣófà"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ẹ gbọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:47:22.266834732Z",
+  "model": "glm-5.3"
+}

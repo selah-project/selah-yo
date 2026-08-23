@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ọmọ mi, má ṣẹ̀sìn nínú ọ̀nà ⟨pẹ̀lú⟩ wọn, ṣe ìdènà ẹsẹ̀ rẹ kúrò lọ́nà wọn.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ọmọ mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ṣẹ̀sìn"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nínú ọ̀nà"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pẹ̀lú",
+      "marks": "wọn"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "ṣe ìdènà"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ẹsẹ̀ rẹ"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "kúrò lọ́nà wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:41.941019220Z",
+  "model": "glm-5.3"
+}

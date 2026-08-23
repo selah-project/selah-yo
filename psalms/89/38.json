@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Bí òsùpá ó ṣẹ́ṣẹ́ dúró fún irún ayé, àti bí ẹlẹ́rìí tí ó ṣeé gbẹ́kẹ̀ lé ní ọ̀run. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "bí òsùpá"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ó ṣẹ́ṣẹ́ dúró"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fún irún ayé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "àti bí ẹlẹ́rìí"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "ní ọ̀run"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "tí ó ṣeé gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:42.596548820Z",
+  "model": "glm-5.3"
+}

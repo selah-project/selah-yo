@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Adìmú ni a óò jẹ fún ọjọ́ méje ⟨hùwà⟩, àti kí ó má ṣe farahan fún ọ nípa ìṣu, àti kí ó má ṣe farahan fún ọ nípa burukú nínú ààlà rẹ gbogbo.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "adìmú"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ni a óò jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọjọ́ méje"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "méje"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kí ó má ṣe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "farahan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ìṣu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kí ó má ṣe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "farahan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "burukú"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nínú… gbogbo"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "ààlà rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:24.565430429Z",
+  "model": "glm-5.3"
+}

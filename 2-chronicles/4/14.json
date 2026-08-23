@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "ó sì ṣe ⟨את⟩ àwọn ìdí ìkọ̀, ó sì ṣe ⟨את⟩ àwọn ihò-omi ìwe lórí àwọn ìdí ìkọ̀ náà",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sì",
+      "marks": "àwọn ìdí ìkọ̀"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "àwọn ìdí ìkọ̀"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sì",
+      "marks": "àwọn ihò-omi ìwe"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "àwọn ihò-omi ìwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "àwọn ìdí ìkọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:23:24.306053014Z",
+  "model": "glm-5.3"
+}

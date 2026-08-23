@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 22:14",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ṣé ọkàn rẹ lè dúró, tàbí ọwọ́ rẹ lè le, ní àwọn ọjọ́ tí èmi ń ṣe ⟨את⟩ ọ? Èmi, Yahweh, ti sọ ọ́; èmi yóò sì ṣe é.",
+  "tokens": [
+    {
+      "surface": "היעמד",
+      "gloss": "ṣé ọkàn rẹ lè dúró"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ọkàn rẹ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "תחזקנה",
+      "gloss": "lè le"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "ní àwọn ọjọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ọ (iwọ)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ti sọ ọ́"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "yóò sì ṣe é"
+    }
+  ],
+  "timestamp": "2026-08-23T02:44:42.853898617Z",
+  "model": "glm-5.3"
+}

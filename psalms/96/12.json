@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 96,
+  "translation": "Ki pápá lọ ìdẹ̀ra gbé, àti gbogbo tí ó wà nínú rẹ̀; lẹ́yìn náà ni gbogbo igi igbó yóò kọrin ayọ̀.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "lọ ìdẹ̀ra gbé"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "pápá"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wà nínú rẹ̀"
+    },
+    {
+      "surface": "אז",
+      "gloss": "lẹ́yìn náà"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "kọrin ayọ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "igi"
+    },
+    {
+      "surface": "יער",
+      "gloss": "igbó"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:21.128561419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Nítorí ta ni yóò jẹ, àti ta ni yóò sára láìsìn sí mi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yóò jẹ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "àti ta"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "yóò sára"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "láìsìn"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:08.658725683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 47,
+  "translation": "Gbogbo àwọn ènìyàn, ẹ ka owó yọ; ẹ kígbe sí Elohim pẹ̀lú ohùn ayọ̀.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ẹ ka owó yọ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "owó (ikànnú)"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ẹ kígbe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sí Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "pẹ̀lú ohùn"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ayọ̀ (kígbe ayọ̀)"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:51.747093699Z",
+  "model": "glm-5.3"
+}

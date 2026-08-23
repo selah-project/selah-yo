@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 137,
+  "translation": "Lórí àwọn odò Babel, níbẹ̀ ni a jókòó, bákan náà ni a sọ̀rọ̀-ógun, nígbà tí a rántí ⟨את⟩ Tsiyon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Lórí"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "àwọn odò"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "a jókòó"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "a sọ̀rọ̀-ógun"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "nígbà tí a rántí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:35.015971582Z",
+  "model": "glm-5.3"
+}

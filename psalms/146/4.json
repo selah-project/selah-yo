@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 146,
+  "translation": "Ẹ̀mí rẹ̀ jáde, ó padà sí ilẹ̀ rẹ̀; ní ọjọ́ yìí, èrò rẹ̀ di ìparun.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "jáde"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ẹ̀mí rẹ̀"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ó padà sí"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "ilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "di ìparun"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "èrò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:09.505357028Z",
+  "model": "glm-5.3"
+}

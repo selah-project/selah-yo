@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "àti ⟨את⟩ wúrà náà — ìwọ̀n fún àwọn tábìlì ìsọ̀ oúnjẹ ìfi hàn, fún tábìlì àti tábìlì; àti fàdàkà fún àwọn tábìlì fàdàkà.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "wúrà náà"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà náà"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ìwọ̀n"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "fún àwọn tábìlì"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "ìsọ̀ oúnjẹ ìfi hàn"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "fún tábìlì"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "àti tábìlì"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "àti fàdàkà"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "fún àwọn tábìlì"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fàdàkà náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:21:09.874269014Z",
+  "model": "glm-5.3"
+}

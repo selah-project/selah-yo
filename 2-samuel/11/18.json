@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Yóábù sì ránṣẹ́, ó sì sọ fún Dáfídì gbogbo ⟨את⟩ ìṣẹ̀lẹ̀ ogun náà.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì ránṣẹ́"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yóábù"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ó sì sọ fún"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dáfídì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ìṣẹ̀lẹ̀ ogun náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ìṣẹ̀lẹ̀"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ogun náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:50:31.416284864Z",
+  "model": "glm-5.3"
+}

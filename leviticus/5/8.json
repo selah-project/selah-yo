@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ó sì máa mú ⟨את⟩-wọn wá sí ọ̀dọ̀ álùfáà náà; ó sì máa kó ⟨את⟩ eyí tí ó jẹ́ ti ẹ̀ṣẹ̀-ìfọ̀rọ̀hàn ẹ̀kíní, ó sì máa gé ⟨את⟩ ọrí rẹ̀ kúrò níwájú ǹǹkàn rẹ̀, kí ó má fi pín sí ìdí-ẹ̀yìn.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Ó sì máa mú wá"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-wọn",
+      "marks": "wọn (àwọn ẹyẹ méjì náà)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "álùfáà náà"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ó sì máa kó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eyí tí ó jẹ́ ti ẹ̀ṣẹ̀-ìfọ̀rọ̀hàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyí tí"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ó jẹ́ ti ẹ̀ṣẹ̀-ìfọ̀rọ̀hàn"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "ẹ̀kíní"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ó sì máa gé ... kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrí rẹ̀"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ọrí rẹ̀"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "ǹǹkàn rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí ó má"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "fi pín sí ìdí-ẹ̀yìn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:36:43.429104204Z",
+  "model": "glm-5.3"
+}

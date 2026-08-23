@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 7:2",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Wọn kò sọ fún ọkàn wọn pé mo ti rántí gbogbo búburú wọn; nísinsiní ìṣe wọn ti yí wọn po, wọn ⟨wà⟩ níwájú ojú mi.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "kò ... nítorí"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wọ́n sọ"
+    },
+    {
+      "surface": "ללבבם",
+      "gloss": "fún ọkàn wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "búburú wọn"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "mo ti rántí"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nísinsiní"
+    },
+    {
+      "surface": "סבבום",
+      "gloss": "ti yí wọn po"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ìṣe wọn"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wọn wà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:02:10.741981730Z",
+  "model": "glm-5.3"
+}

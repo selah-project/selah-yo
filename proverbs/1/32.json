@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Nítorí ìyípadà àwọn àìmọ̀ ni yóò pa wọ́n, àti ìdàkkẹ́ àwọn aṣiwèrè ni yóò pa wọ́n run.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "ìyípadà"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "àwọn àìmọ̀"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "yóò pa wọ́n"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "àti ìdàkkẹ́"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "àwọn aṣiwèrè"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "yóò pa wọ́n run"
+    }
+  ],
+  "timestamp": "2026-08-23T04:02:23.828708726Z",
+  "model": "glm-5.3"
+}

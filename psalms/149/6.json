@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 149,
+  "translation": "Ìgbéga-orín fún El nínu ọ̀fun wọn, àti idà pípẹ̀ẹ́-méjì nínu ọwọ́ wọn.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "ìgbéga-orín"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "nínu ọ̀fun wọn"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "àti idà"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "pípẹ̀ẹ́-méjì"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "nínu ọwọ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:50.020381401Z",
+  "model": "glm-5.3"
+}

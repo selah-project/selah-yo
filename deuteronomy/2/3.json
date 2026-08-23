@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó pọ̀ fún yín, láti yí ⟨את⟩ òkè yìí ká; yípadà fún yín sí àríwá.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Ó pọ̀"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "סב",
+      "gloss": "láti yí … ká"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òkè yìí"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "yípadà"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "sí àríwá"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:47.054820586Z",
+  "model": "glm-5.3"
+}

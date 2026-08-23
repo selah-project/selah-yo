@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ẹni-ìkà, nígbà tí imú rẹ̀ gbẹ́ sí òke, kì í wá Elohim rere; \"kò sí Elohim\" ni gbogbo èrò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "ẹni-ìkà"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "gbẹ́ sí òke"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "imú rẹ̀"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "wá ... rere"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "èrò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:27.232772578Z",
+  "model": "glm-5.3"
+}

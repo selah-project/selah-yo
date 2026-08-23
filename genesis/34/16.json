@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Nígbà náà ni a ó fún yín lọ́wọ́ ⟨את⟩ àwọn ọmọbìnrin wa, àti ⟨את⟩ àwọn ọmọbìnrin yín ni a ó gba fún ara wa; a ó sì gbé ⟨את⟩ yín, a ó sì jẹ́ ènìyàn kan ṣoṣo.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "a ó fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọbìnrin wa"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "àwọn ọmọbìnrin wa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọbìnrin yín"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "àwọn ọmọbìnrin yín"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "a ó gba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún ara wa"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "a ó sì gbé"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pẹ̀lú yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "a ó sì jẹ́"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "èníyàn kan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ṣoṣo"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:22.922549659Z",
+  "model": "glm-5.3"
+}

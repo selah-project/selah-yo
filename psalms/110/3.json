@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 110,
+  "translation": "Àwọn ènìyàn rẹ, ìfẹ́-ọ̀fẹ́ ni ní ọjọ́ ogun rẹ, ní ìyẹ̀ mímọ́ — láti inú ikún ní àárọ̀ fún ọ ni yiye ti ìgbà ìwàwọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "àwọn ènìyàn rẹ"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "ìfẹ́-ọ̀fẹ́"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "ogun rẹ"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "ní ìyẹ̀"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "láti inú ikún"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "àárọ̀"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "טל",
+      "gloss": "yiye"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ìgbà ìwàwọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:42.709429860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ìrù Moab. Nítorí pé ní òru ni a pa Ar ti Moab run — ó parun; nítorí pé ní òru ni a pa Kir ti Moab run — ó parun.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Ìrù"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Nítorí pé"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ní òru"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "a pa … run"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ó parun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ní òru"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "a pa … run"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ó parun"
+    }
+  ],
+  "timestamp": "2026-08-23T01:46:28.935908506Z",
+  "model": "glm-5.3"
+}

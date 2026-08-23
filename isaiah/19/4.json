@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Èmi óò sì le ⟨את⟩ Mitsrayim lọ́wọ́ àwọn olóyè lekeleke, ọba tí ó lágbára óò sì jọba lórí wọn — ìsọnípa Adonai, Yahweh Čevaot.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "Èmi óò sì le…lọ́wọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "àwọn olóyè"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "lekeleke"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tí ó lágbára"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "óò sì jọba lórí"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ìsọnípa"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Čevaot"
+    }
+  ],
+  "timestamp": "2026-08-23T01:47:08.720956804Z",
+  "model": "glm-5.3"
+}

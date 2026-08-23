@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Kí àwọn tí ń bẹ́rù Yahweh wí pé, nítorí pé ìfẹ́ olóòtítọ́ rẹ̀ máa ń wà tí ìgbà gbogbo.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Kí ... wí"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bí ẹ bá ṣe kọ̀ọ́kan"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "àwọn tí ń bẹ́rù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tí ìgbà gbogbo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:12.048112401Z",
+  "model": "glm-5.3"
+}

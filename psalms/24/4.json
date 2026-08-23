@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ẹni tí owó rẹ̀ mọ́, tí ọkàn rẹ̀ sí mọ́, ẹni tí kò gbé ẹ̀mí rẹ̀ sókè sí ohun òfo, tí kò sì búra láti pa ẹ́.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "owó rẹ̀"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "tí ọkàn rẹ̀ sí mọ́"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "gbé … sókè"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "sí ohun òfo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tí kò sì"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "búra"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "láti pa ẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:10.105925086Z",
+  "model": "glm-5.3"
+}

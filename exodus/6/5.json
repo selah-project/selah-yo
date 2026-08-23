@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àti pé èmi gbo ⟨את⟩ ìkígbe àwọn ọmọ Yisrael, tí Mitzrayim ń ṣe ní ẹrú; èmi sì rántí ⟨את⟩ májẹ̀mú mi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "àti pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "gbo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìkígbe"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "ìkígbe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "ń ṣe ní ẹrú"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "èmi sì rántí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "májẹ̀mú mi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "májẹ̀mú mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:38.420569332Z",
+  "model": "glm-5.3"
+}

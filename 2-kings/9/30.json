@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Yehu sì wá sí Yizreel, Izebel sì gbọ́, ó sì fi púkù sí ojú rẹ̀, ó sì tún ⟨את⟩ orí rẹ̀, ó sì kí láti inú ⟨the⟩ fèrèsé náà.",
+  "tokens": [
+    {
+      "surface": "ובוא",
+      "gloss": "Yehu sì wá"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "sí Yizreel"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "Izebel sì"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "ó sì fi"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "púkù"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "ó sì tún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orí rẹ̀"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "orí rẹ̀"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "ó sì kí"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "láti inú"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fèrèsé náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:29.119177698Z",
+  "model": "glm-5.3"
+}

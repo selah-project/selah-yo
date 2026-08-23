@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Kí wọn dúró níwájú Yahweh nígbà gbogbo; kí ó sì pa ìrántí wọn rẹ́ kúrò lórí ayé.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "kí wọn dúró"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "kí ó sì pa ... rẹ́"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kúrò lórí ayé"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ìrántí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:28.506291789Z",
+  "model": "glm-5.3"
+}

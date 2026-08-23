@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 60,
+  "translation": "Àwọn ọmọ àjèjì yóò kó ìdí tí wọ́n fi ń kọ ilé, ìdí wọnyí ni àwọn ogiri rẹ, àti àwọn ọba wọn yóò sìn ọ́; nítorí ní ìbínú mi ni mo fi lù ọ́, ṣùgbọ́n ní ìfẹ́ rere mi ni mo fi ṣàánú fún ẹ.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "yóò kó ilé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "àjèjì"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "àwọn ogiri rẹ"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "àti àwọn ọba wọn"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "yóò sìn ọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "ní ìbínú mi"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "mo fi lù ọ́"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "ṣùgbọ́n ní ìfẹ́ rere mi"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "mo fi ṣàánú fún ẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:02:06.237869218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Yitschak-ìran kò sí; Yosef sì fi ìbúra fún ⟨את⟩ àwọn ọmọ Yisrael, ó wí pé, \"Elohim yóò dá lóhùn-àǹfààní ⟨את⟩ yín, ẹ̀yin sì gbọdọ̀ gbé ⟨את⟩ egungun mi sókè láti ibì yìí.\"",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "sì fi ìbúra fún"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó wí pé"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "dá lóhùn-àǹfààní"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "yóò dá lóhùn-àǹfààní"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "ẹ̀yin sì gbọdọ̀ gbé sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egungun mi"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "egungun mi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "láti ibì yìí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:10.956261244Z",
+  "model": "glm-5.3"
+}

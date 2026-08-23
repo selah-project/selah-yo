@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 2:13",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Wò ó, èmi yóò tí ẹ̀ mọ́ lẹ́sẹ̀, gẹ́gẹ́ bí ọkọ̀ tí ó ti kún fún àwọn ọka bàbà ṣe máa ń fan lẹ́sẹ̀.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "מעיק",
+      "gloss": "yóò tí ẹ̀ mọ́ lẹ́sẹ̀"
+    },
+    {
+      "surface": "תחתיכם",
+      "gloss": "lẹ́sẹ̀ yín"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "תעיק",
+      "gloss": "ṣe máa ń fan"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ọkọ̀"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "tí ó ti kún"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fún ara rẹ̀"
+    },
+    {
+      "surface": "עמיר",
+      "gloss": "àwọn ọka bàbà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:05:21.635705159Z",
+  "model": "glm-5.3"
+}

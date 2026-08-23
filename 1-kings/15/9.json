@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 15:9",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ní ọdún ọ̀kànlélógún ti Yarovam, ọba Israẹl, Asa di ọba ti Yehuda.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "Ní ọdún"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ọ̀kànlélógún"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "ti Yarovam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "di ọba"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-23T01:20:32.409083973Z",
+  "model": "glm-5.3"
+}

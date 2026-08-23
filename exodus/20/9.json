@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ọjọ́ mẹfà ni wà ó gbà láti ṣiṣẹ́, àti láti ṣe gbogbo iṣẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "mẹfà"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "iwọ ó gbà láti ṣiṣẹ́"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "àti láti ṣe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "iṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:11.680877609Z",
+  "model": "glm-5.3"
+}

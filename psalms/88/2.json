@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Yahweh, Elohim ti ìgbàlà mi, ní ọjọ́ mo kígbe, ní òru, níwájú rẹ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ìgbàlà mí"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "mo kígbe"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ní òru"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "níwájú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:14.190664919Z",
+  "model": "glm-5.3"
+}

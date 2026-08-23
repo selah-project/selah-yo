@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Adonai Yahweh ṣí etí fún mi, àti èmi kò gbéraga, mo kò sì padà sẹ́yìn.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ṣí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "etí"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "àti èmi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "mo gbéraga"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "sẹ́yìn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "mo padà"
+    }
+  ],
+  "timestamp": "2026-08-23T02:00:19.449436690Z",
+  "model": "glm-5.3"
+}

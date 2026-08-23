@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 95,
+  "translation": "Nítorí Elohim tó tóbi ni Yahweh, ọba tó tóbi lórí gbogbo àwọn ọlọ́run.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim tó tóbi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "àwọn ọlọ́run"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:24.827024282Z",
+  "model": "glm-5.3"
+}

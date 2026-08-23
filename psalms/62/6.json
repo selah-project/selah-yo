@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 62,
+  "translation": "Níkan sí ⟨אלהים⟩ Elohim ni nefesh mi dúró dẹ̀dẹ̀; nítorí tí láti ọ̀dọ̀ Rẹ̀ ni ìrètí mi ti wá.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Níkan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sí Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "dúró dẹ̀dẹ̀"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "láti ọ̀dọ̀ Rẹ̀"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ìrètí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:41.549173608Z",
+  "model": "glm-5.3"
+}

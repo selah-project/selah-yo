@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Nígbà náà ni wọ́n kígbe sí Yahweh ní ìpọ̀njú wọn; ó gbà wọn là nínu ìpọ́nju wọn.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "nígbà náà ni wọ́n kígbe sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ní ìpọ̀njú"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "nínu ìpọ́nju wọn"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "ó gbà wọn là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:31.989743880Z",
+  "model": "glm-5.3"
+}

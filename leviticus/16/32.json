@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Àti adóhùn tí a ó yọ ọ́ epo, tí a ó sì fi ẹ́ṣẹ́ rẹ̀ kún láti jẹ́ adóhùn ní ipò baba rẹ̀, òun ni yóò ṣe ìpẹ̀, ó sì máa wọ ⟨את⟩ aṣọ bàwànnà, aṣọ ìmímọ́.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "yóò sì ṣe ìpẹ̀"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adóhùn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "a ó yọ ọ́ epo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ òun",
+      "marks": "òun (adóhùn)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "tí a ó sì"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "kún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ́ṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ẹ́ṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "láti jẹ́ adóhùn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ó sì máa wọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aṣọ bàwànnà"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aṣọ"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "bàwànnà"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aṣọ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ìmímọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:34.016252111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Gbogbo àwọn ènìyàn sì fa ⟨את⟩ àwọn ìró wúrà tí ó wà nínú etí wọn jáde, wọ́n sì mú wá fún Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "wọ́n sì fa jáde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìró wúrà"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "àwọn ìró"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "nínú etí wọn"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "wọ́n sì mú wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:08.039663808Z",
+  "model": "glm-5.3"
+}

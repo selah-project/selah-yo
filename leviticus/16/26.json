@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ẹni tí ó gbé ⟨את⟩ ẹwùrẹ akọ náà lọ sí Azazel yóò fọ aṣọ rẹ̀, ó sì yóò yọ ⟨את⟩ ara rẹ̀ nínu omi, lẹ́yìn tí ó ṣe bẹ́ẹ̀ ni yóò wọ inú ⟨the⟩ ìpàdé-ogun.",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "Ẹni tí ó gbé ... lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹwùrẹ akọ náà"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ẹwùrẹ akọ náà"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "sí Azazel"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "yóò fọ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "aṣọ rẹ̀"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ó sì yóò yọ ... nínu omi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ara rẹ̀"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ara rẹ̀"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nínu omi"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "lẹ́yìn tí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ó ṣe bẹ́ẹ̀"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "yóò wọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inú"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ìpàdé-ogun"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:36.384142726Z",
+  "model": "glm-5.3"
+}

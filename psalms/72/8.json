@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Òun ó sì jọba láti okun títí dé okun, àti láti odò náà títí dé ìpari ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Òun ó sì jọba"
+    },
+    {
+      "surface": "מים",
+      "gloss": "láti okun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "ים",
+      "gloss": "okun"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "àti láti odò náà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ìpari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:57.452131510Z",
+  "model": "glm-5.3"
+}

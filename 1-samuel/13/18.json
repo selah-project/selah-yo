@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 13:18",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ìpìn kejì yọ sí ọ̀nà Beti-Horon; ìpìn kẹta yọ sí ọ̀nà àlà tí ó ń wo ijù Tseboim, sí etí ijù.",
+  "tokens": [
+    {
+      "surface": "והראש",
+      "gloss": "ìpìn kejì"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kejì"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "yóò yọ sí"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "Beti-Horon"
+    },
+    {
+      "surface": "והראש",
+      "gloss": "ìpìn kẹta"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kẹta"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "yóò yọ sí"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "àlà"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "tí ó ń wo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "גי",
+      "gloss": "ijù"
+    },
+    {
+      "surface": "הצבעים",
+      "gloss": "Tseboim"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "sí etí ijù"
+    }
+  ],
+  "timestamp": "2026-08-23T00:47:17.964761403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 27:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ìbínú kò sí lọ́dọ̀ mi; ta ló gbà mí níyànjú pé kí n sọ ọ̀kẹ̀-ẹ̀gìnrìn di iyọ́nú fún ìjà? Ní ìjà ni mo fi ẹsẹ̀ kán-án; mo sì sun ọ́n lẹ́gbẹ̀ẹ-kọ̀ọ̀kan.",
+  "tokens": [
+    {
+      "surface": "חמה",
+      "gloss": "Ìbínú"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lọ́dọ̀ mi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "ló gbà mí níyànjú pé"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ọ̀kẹ̀-ẹ̀gìnrìn"
+    },
+    {
+      "surface": "שית",
+      "gloss": "ẹ̀gìnrìn pàtàkì"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "fún ìjà"
+    },
+    {
+      "surface": "אפשעה",
+      "gloss": "mo fi ẹsẹ̀ kán-án"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ín"
+    },
+    {
+      "surface": "אציתנה",
+      "gloss": "mo sun ọ́n"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "lẹ́gbẹ̀ẹ-kọ̀ọ̀kan"
+    }
+  ],
+  "timestamp": "2026-08-23T01:48:54.262630250Z",
+  "model": "glm-5.3"
+}

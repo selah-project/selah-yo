@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 99,
+  "translation": "Àti agbára ọba — ìdájọ́ ni ó fẹ́ràn; ìwọ ni ó gbé òdodo kalẹ̀; ìdájọ́ àti olóòtítọ́ ló ṣe nínú Yaakov, ìwọ gan-an.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "àti agbára"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ó fẹ́ràn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "ìwọ gbé kalẹ̀"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "òdodo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "àti olóòtítọ́"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "nínú Yaakov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ gan-an"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ìwọ ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:24.723635904Z",
+  "model": "glm-5.3"
+}

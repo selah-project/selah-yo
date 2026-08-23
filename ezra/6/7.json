@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 6:7",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ẹ jẹ́ kí iṣẹ́ ilé Eloah yìí wà ní ìrọ̀rùn; kí gómìnà àwọn Yude àti àwọn àgbà Yude kó ilé Eloah yìí dá sí ibi rẹ̀.",
+  "tokens": [
+    {
+      "surface": "שבקו",
+      "gloss": "Ẹ jẹ́ kí — wà ní ìrọ̀rùn"
+    },
+    {
+      "surface": "לעבידת",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "דך",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "gómìnà"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "àwọn Yude"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "àti àwọn àgbà"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "Yude"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "דך",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "יבנון",
+      "gloss": "kí wọ́n kó — dá"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אתרה",
+      "gloss": "ibi rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:58:23.899941236Z",
+  "model": "glm-5.3"
+}

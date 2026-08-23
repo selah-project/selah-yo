@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 7:8",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àwọn ọmọ Yisrael wí fún Shemueli pé: \"Má ṣe di ọ̀run pamọ́ fún wa, kí o má ṣe kigbe sí Yahweh, Elohim wa, kí ó lè gbà wá là láti ọwọ́ àwọn Filistini.\"",
+  "tokens": [
+    {
+      "surface": "vayomru",
+      "gloss": "wí"
+    },
+    {
+      "surface": "bnei",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "Yisrael",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "el",
+      "gloss": "fún"
+    },
+    {
+      "surface": "Shmuel",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "al",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "tacharash",
+      "gloss": "di ọ̀run pamọ́"
+    },
+    {
+      "surface": "mimmenu",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "miz'eq",
+      "gloss": "kígbè sí"
+    },
+    {
+      "surface": "el",
+      "gloss": "sí"
+    },
+    {
+      "surface": "YHWH",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "Eloheinu",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "veyoshi'enu",
+      "gloss": "kí ó lè gbà wá là"
+    },
+    {
+      "surface": "miyad",
+      "gloss": "láti ọwọ́"
+    },
+    {
+      "surface": "pelistím",
+      "gloss": "àwọn Filistini"
+    }
+  ],
+  "timestamp": "2026-08-23T05:49:15.986961753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ó sì wáyé, nígbà tí Baasha gbọ́ èyí, ó dá dúró láti kíkọ́ ⟨את⟩ Rama, ó sì gbé sí Tirzah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nígbà tí ó gbọ́"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "ó dá dúró"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "láti kíkọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó sì gbé sí"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirzah"
+    }
+  ],
+  "timestamp": "2026-08-23T01:21:42.392196251Z",
+  "model": "glm-5.3"
+}

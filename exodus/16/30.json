@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Nígbà náà ni àwọn ènìyàn sìn dúró sínú isinmi lójó kẹje.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "sìn dúró sínú isinmi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "lójó"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "kẹje"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:02.213873063Z",
+  "model": "glm-5.3"
+}

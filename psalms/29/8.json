@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ohùn Yahweh ń pa ijù jẹ; Yahweh ń pa ijù Kadesi jẹ.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ń pa ... jẹ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ijù"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ń pa ... jẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ijù"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:37.692182321Z",
+  "model": "glm-5.3"
+}

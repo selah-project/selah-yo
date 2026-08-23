@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Kí o sì gbà ⟨את⟩ àgbò náà ìkejì, kí Aharon àti àwọn ọmọ rẹ̀ sì fi ⟨את⟩ àwọn ọwọ́ wọn lé lórí orí àgbò náà.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kí o sì gbà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgbò náà ìkejì"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "àgbò náà"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ìkejì"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "kí ... sì fi lé"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "àti àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọwọ́ wọn"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "àwọn ọwọ́ wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "àgbò náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:28:33.097398330Z",
+  "model": "glm-5.3"
+}

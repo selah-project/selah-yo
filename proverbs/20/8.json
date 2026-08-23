@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ọba tí ó jókòó lórí àga ẹjọ́, ó ń tú ⟨gbogbo⟩ búburú káàkiri pẹ̀lú ojú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "jókòó"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "àga"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ẹjọ́"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "ń tú ká"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "pẹ̀lú ojú rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:09:44.710326044Z",
+  "model": "glm-5.3"
+}

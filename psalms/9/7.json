@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àwọn ọ̀tá ti parun; àwọn ibi ìṣọ̀fọ̀ ní títí láé; àti àwọn ìlú tí O tú káàkiri — ìrántí wọn ti parun pẹ̀lú wọn.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "Àwọn ọ̀tá"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ti parun"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "àwọn ibi ìṣọ̀fọ̀"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "títí láé"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "àti àwọn ìlú"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "O tú káàkiri"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ti parun"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ìrántí wọn"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:00.112166848Z",
+  "model": "glm-5.3"
+}

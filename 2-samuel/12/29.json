@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Davide kó ⟨את⟩ gbogbo ènìyàn jọ, ó sì lọ sí Rabbah, ó sì jagun lórí rẹ̀, ó sì mú u.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ó sì kó jọ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ènìyàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "sí Rabbah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ó sì jagun"
+    },
+    {
+      "surface": "בה",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ó sì mú u"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:48.027476078Z",
+  "model": "glm-5.3"
+}

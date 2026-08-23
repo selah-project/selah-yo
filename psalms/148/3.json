@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 148,
+  "translation": "Ẹ yín fún òun, ìòrùn àti òsùpá; ẹ yín fún òun, gbogbo àwọn ìràwọ̀ ìmọ́lẹ̀.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ẹ yín fún òun"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ìòrùn"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "àti òsùpá"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ẹ yín fún òun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "àwọn ìràwọ̀"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìmọ́lẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:24.916868772Z",
+  "model": "glm-5.3"
+}

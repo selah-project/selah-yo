@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Ó sì fi ⟨את⟩ àwọn ará rẹ̀ lọ, wọ́n sì lọ; ó sì wí fún wọn pé, ẹ má ṣe bínú síra yín lọ́nà.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì fi … lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ará rẹ̀"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "àwọn ará rẹ̀"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wọ́n sì lọ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "bínú síra yín"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lọ́nà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:12:49.155082044Z",
+  "model": "glm-5.3"
+}

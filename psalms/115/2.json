@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 115,
+  "translation": "Èló ni ìdí tí àwọn orílẹ̀-èdè yóò wí pé, Níbo ni Elohim wọn wà ní báyìí?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Èló ni ìdí tí"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yóò wí"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Níbo ni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ní báyìí"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:50.027708301Z",
+  "model": "glm-5.3"
+}

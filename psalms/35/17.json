@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Adonai, ìgbà wo ni ìwọ gbọ́dọ̀ rí? Dá ẹ̀mí mi padà kúrò lọ́wọ́ ìṣọ̀ wọn, kúrò lọ́wọ́ àwọn kìnìún ọ̀dọ̀, ẹni àìní-ìyà mi.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ìgbà wo ni"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ìwọ gbọ́dọ̀ rí"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "dá… padà"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "kúrò lọ́wọ́ ìṣọ̀ wọn"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "kúrò lọ́wọ́ àwọn kìnìún ọ̀dọ̀"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "ẹni àìní-ìyà mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:53.103655529Z",
+  "model": "glm-5.3"
+}

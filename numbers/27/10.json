@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ìwọ̀n bí kò sí àwọn ará-kùnrin fún un, ẹ̀yin yóò fún ⟨את⟩ ìdílé-ogún rẹ̀ fún àwọn ará baba rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ìwọ̀n bí kò"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "àwọn ará-kùnrin"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ẹ̀yin yóò fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdílé-ogún rẹ̀"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ìdílé-ogún rẹ̀"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "fún àwọn ará"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:01:46.924862806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 115,
+  "translation": "Ọwọ́ wọn ní, ṣùgbọ́n wọn kò fara kàn nnkan; ẹsẹ̀ wọn ní, ṣùgbọ́n wọn kò rìn; wọn kò se àwọ̀ nínú ọ̀fun wọn.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "ọwọ́ wọn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n wọn kò"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "fara kàn nnkan"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ẹsẹ̀ wọn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n wọn kò"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "rìn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wọn kò"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "se àwọ̀"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "nínú ọ̀fun wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:28.383529848Z",
+  "model": "glm-5.3"
+}

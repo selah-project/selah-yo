@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ó sì ṣe àyosùn, ó sì bí ọmọkùnrin, ó sì wí pé, Elohim ti kó ⟨את⟩ ìdì èéfín mi kúrò.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ó sì ṣe àyosùn"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọkùnrin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ti kó ... kúrò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìdì èéfín mi"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ìdì èéfín mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:04:25.393403264Z",
+  "model": "glm-5.3"
+}

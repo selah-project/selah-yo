@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àti ní kíá, ṣé Boaz, ọ̀rẹ́-mómú wa, tí ìwọ wà pẹ̀lú ⟨את⟩ àwọn ọmọbìnrin rẹ̀, kì í ṣe bẹ́ẹ̀? Wò ohun: òun ń fọ́nà ⟨את⟩ àgbàlá ọ̀gẹ̀dẹ̀ àgbàdo òwú yòòdé ní òru yìí.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Àti ní kíá"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ṣé"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "ọ̀rẹ́-mómú wa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ìwọ wà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọbìnrin rẹ̀"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "àwọn ọmọbìnrin rẹ̀"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Wò ohun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "ń fọ́nà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgbàlá"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "àgbàlá"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ọ̀gẹ̀dẹ̀ àgbàdo òwú"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ní òru yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:35:19.874664853Z",
+  "model": "glm-5.3"
+}

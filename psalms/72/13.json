@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Ó máa ṣàánù fún aláìní àti ẹlẹ́wọn, àti èmí àwọn ẹlẹ́wọn ni ó máa gbà là",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "ó máa ṣàánù"
+    },
+    {
+      "surface": "על",
+      "gloss": "fún"
+    },
+    {
+      "surface": "דל",
+      "gloss": "aláìní"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "àti ẹlẹ́wọn"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "àti èmí"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "àwọn ẹlẹ́wọn"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ni ó máa gbà là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:04.111182585Z",
+  "model": "glm-5.3"
+}

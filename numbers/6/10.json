@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ní ọjọ́ kẹ́jọ yóò mú ẹyẹ tórótóró méjì tàbí ọmọ adábà méjì wá sí ọ̀dọ̀ adóṣọ, sí ẹnu-ọ̀nà àgọ́ pàdé.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Ní ọjọ́"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kẹ́jọ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "yóò mú wá"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "ẹyẹ tórótóró"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "שני",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "adábà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adóṣọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ẹnu-ọ̀nà"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:51:08.171566099Z",
+  "model": "glm-5.3"
+}

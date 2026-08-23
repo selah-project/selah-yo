@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ó sì jọ ⟨את⟩ ẹran ara àti ⟨את⟩ awọ rẹ̀ ní iná, ní ìta ìpẹ̀já.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹran ara"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ẹran ara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "awọ rẹ̀"
+    },
+    {
+      "surface": "העור",
+      "gloss": "awọ rẹ̀"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ó sì jọ ní iná"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ní iná"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ní ìta"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ìpẹ̀já"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:15.989313821Z",
+  "model": "glm-5.3"
+}

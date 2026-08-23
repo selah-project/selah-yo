@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Kí ilé Aharon wí pé, nítorí pé ìfẹ́ olóòtítọ́ rẹ̀ máa ń wà tí ìgbà gbogbo.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Kí ... wí"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bí ẹ bá ṣe kọ̀ọ́kan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tí ìgbà gbogbo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:12.047972989Z",
+  "model": "glm-5.3"
+}

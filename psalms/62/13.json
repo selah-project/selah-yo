@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 62,
+  "translation": "Àti ti Adonai ni chesed; nítorí ìwọ ni yóò san fún ẹ̀nì kọ̀ọ̀kan gẹ́gẹ́ bí iṣẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "àti ti ìwọ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "yóò san fún"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "fún ẹ̀nì kọ̀ọ̀kan"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "gẹ́gẹ́ bí iṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:18.882563953Z",
+  "model": "glm-5.3"
+}

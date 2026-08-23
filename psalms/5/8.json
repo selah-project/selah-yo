@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ṣùgbọ́n èmi, nínú púpọ̀ ti chesed rẹ ni mo ó wọ inú ilé rẹ; mo ó fọwọ́ káwọ́ sí ọ̀nà nítorí heikali mímọ́ rẹ, nínú ẹ̀rù rẹ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nínú púpọ̀ ti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed rẹ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "mo ó wọ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "inú ilé rẹ"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "mo ó fọwọ́ káwọ́ sí ọ̀nà nítorí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀nà nítorí"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heikali"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "mímọ́ rẹ"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "nínú ẹ̀rù rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:00.825443373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Kì í ṣe pẹ̀lú ⟨את⟩ àwọn baba wa ni Yahweh ge ⟨את⟩ májẹ̀mú yìí, ṣùgbọ́n pẹ̀lú ⟨את⟩ wa ni — àwa, àwọn wọnyí, tí a wà níbí lónìí, gbogbo wa láàyè.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kì í ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pẹ̀lú àwọn baba wa"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "àwọn baba wa"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "májẹ̀mú yìí"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ pẹ̀lú wa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "àwa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọnyí"
+    },
+    {
+      "surface": "פה",
+      "gloss": "níbí"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "gbogbo wa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "láàyè"
+    }
+  ],
+  "timestamp": "2026-08-23T00:08:11.870332042Z",
+  "model": "glm-5.3"
+}

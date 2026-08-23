@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ṣé bí Karkemish kì í ṣe bí Kalno? Bí Arfad kì í ṣe bí Chamat? Bí Damasek kì í ṣe bí Shomron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ṣé"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "bí Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "bí Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "bí Arfad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "bí Damasek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-08-23T01:43:33.409976995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Kí Yahweh Elohim rẹ sì sọ fún wa ⟨את⟩ ọ̀nà tí a gbọdọ̀ rìn níbẹ̀, àti ⟨את⟩ ọ̀rọ̀ tí a gbọdọ̀ ṣe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kí ó sì sọ fún"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀nà"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ọ̀nà náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "a gbọdọ̀ rìn"
+    },
+    {
+      "surface": "בה",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "a gbọdọ̀ ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T02:26:30.021058301Z",
+  "model": "glm-5.3"
+}

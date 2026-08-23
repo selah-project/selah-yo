@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Kí ìran ìkẹyìn lè mọ̀ ọ́, àwọn ọmọ tí wọn yió bí, kí wọ́n dìde, kí wọ́n sì sọ ọ́ fún àwọn ọmọ wọn.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kí"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "lè mọ̀"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ìkẹyìn"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "tí wọn yió bí"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "kí wọ́n dìde"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "kí wọ́n sì sọ ọ́"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "fún àwọn ọmọ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:04.386780782Z",
+  "model": "glm-5.3"
+}

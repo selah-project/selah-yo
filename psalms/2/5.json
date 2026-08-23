@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Nígbà náà ni ⟨ó⟩ máa sọ̀rọ̀ sí wọn nínú ìbínú rẹ̀, àti nínú ìbínú rẹ̀ tó ń jó ni ⟨ó⟩ máa fọ́ wọn ní ẹ̀rù.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Nígbà náà"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "máa sọ̀rọ̀"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "nínú ìbínú rẹ̀"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "àti nínú ìbínú rẹ̀ tó ń jó"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "máa fọ́ wọn ní ẹ̀rù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:52.432164387Z",
+  "model": "glm-5.3"
+}

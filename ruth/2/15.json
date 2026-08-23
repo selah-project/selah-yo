@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì dìde láti kó èso; Bóáz sì pàṣẹ fún ⟨את⟩ àwọn ọmọ-ọkùnrin rẹ̀ pé, \"Kí ó lè kó èso láàárín àwọn ẹ̀ka náà, ẹ má ṣe bú ọ́.\"",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Ó sì dìde"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "láti kó èso"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "Ó sì pàṣẹ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Bóáz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ-ọkùnrin rẹ̀"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "àwọn ọmọ-ọkùnrin rẹ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pàápàá"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "àwọn ẹ̀ka náà"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kí ó lè kó èso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "bú ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:35:32.240691313Z",
+  "model": "glm-5.3"
+}

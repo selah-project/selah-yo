@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ẹ̀ẹ̀gún àti ẹ̀kanràn ni yóò so sílẹ̀ fún ẹ; ìwọ yóò sì jẹ ⟨את⟩ ẹ̀wù̀gbìn ⟨the⟩ oko.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "ẹ̀ẹ̀gún"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "ẹ̀kanràn"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "yóò so sílẹ̀"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ẹ"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ìwọ yóò sì jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀wù̀gbìn"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ẹ̀wù̀gbìn"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "oko"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:56.058658414Z",
+  "model": "glm-5.3"
+}

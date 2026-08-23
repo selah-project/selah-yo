@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ẹyin ó ṣègbé láàárín àwọn orílẹ̀-èdè, ilẹ̀ àwọn ọ̀tá yín sì jẹ ⟨את⟩ ẹyin.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "ẹyin ó ṣègbé"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "láàárín àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "sì jẹ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ẹyin",
+      "marks": "ẹyin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "àwọn ọ̀tá yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:47:45.771184168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 76,
+  "translation": "A ti jẹ́ wọ́n ní ikọ́gbé, àwọn olókàn-lágbára; wọ́n sùn orun-sùn wọn, àwọn ọkùnin alágbára kò rí ọwọ́ wọn.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "a ti jẹ́ wọ́n ní ikọ́gbé"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "àwọn olókàn"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lágbára"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "wọ́n sùn orun"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "sùn wọn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "rí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "àwọn ọkùnin alágbára kọ̀ọ̀kan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ọkùnin"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ọwọ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:17.436987555Z",
+  "model": "glm-5.3"
+}

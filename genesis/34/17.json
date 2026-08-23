@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ṣùgbọ́n tí ẹ bá kọ̀ gbọ́ sí i tí ẹ kò ì gbé sílà, a ó gba ọmọbìnrin wa, a ó sì lọ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ṣùgbọ́n tí ẹ bá kọ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "gbọ́ sí i tí ẹ kò ì gbé sílà"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sí i tí"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "gbé sílà"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "a ó gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọbìnrin wa"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "ọmọbìnrin wa"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "a ó sì lọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:00.604168891Z",
+  "model": "glm-5.3"
+}

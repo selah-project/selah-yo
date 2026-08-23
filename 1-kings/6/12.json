@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 6:12",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Nípa ilé yìí tí ìwọ ń kọ́, bí o bá ń rìn nínú òfin mi, tí o sì ń ṣe ⟨את⟩ ìdájọ́ mi, tí o sì ń pa ⟨את⟩ àṣẹ mi gbogbo mọ́ láti rìn nínú wọn, èmi yóò sì mú ọ̀rọ̀ mi dúró pẹ̀lú rẹ̀, èyí tí mo sọ fún David baba rẹ.",
+  "tokens": [
+    {
+      "surface": "הבית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ń kọ́"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí o bá"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ń rìn"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "ninú òfin mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ìdájọ́ mi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ìdájọ́ mi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "tí o sì ń pa... mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àṣẹ mi gbogbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "àṣẹ mi"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "láti rìn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ninú wọn"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "èmi yóò sì mú... dúró"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ mi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀ mi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "pẹ̀lú rẹ̀ ⟨את⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mo sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:18.802857547Z",
+  "model": "glm-5.3"
+}

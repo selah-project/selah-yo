@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Kí ìparun jẹ́ ìpayín rẹ̀; ní ìran míràn kí orúkọ wọn parun.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "kí ó jẹ́"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "ìpayín rẹ̀"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ní ìparun"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ní ìran"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "míràn"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "kí ... parun"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "orúkọ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:28.505902768Z",
+  "model": "glm-5.3"
+}

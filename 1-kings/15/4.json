@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ṣùgbọ́n nítorí Davíd, Yahweh Elohim rẹ̀ fún un ní fitilà ní Yerushalayim, láti gbé ⟨את⟩ ọmọ rẹ̀ dìde lẹ́yìn rẹ̀, àti láti fi ⟨את⟩ Yerushalayim dúró.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ṣùgbọ́n nítorí"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "fún un ní"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim rẹ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "fitilà"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "láti gbé dìde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "lẹ́yìn rẹ̀"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "àti láti fi dúró"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T01:21:37.000926544Z",
+  "model": "glm-5.3"
+}

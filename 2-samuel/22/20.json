@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ó sì mú mi jáde wá sí ibi gbígbẹ; Ó yọ mí nílé, nítorí pé Ó fẹ́ràn mi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ó sì mú mi jáde wá sí"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ibi gbígbẹ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "Ó yọ mí nílé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Ó fẹ́ràn"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:08:15.344173625Z",
+  "model": "glm-5.3"
+}

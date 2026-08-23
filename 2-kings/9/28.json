@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Wọ́n sì gbé ⟨את⟩ e lọ sí Yerushalayim, àwọn ọmọ-ọ̀dọ̀ rẹ̀; wọ́n sì sin ⟨את⟩ e sínú ibí-síṣe rẹ̀, pẹ̀lú àwọn baba rẹ̀, ní ìlú David.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "wọ́n sì gbé e lọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e (Ahaziah)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ọmọ-ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "wọ́n sì sin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e (Ahaziah)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "sínú ibí-síṣe rẹ̀"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "àwọn baba rẹ̀"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ní ìlú"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-23T01:30:58.915463419Z",
+  "model": "glm-5.3"
+}

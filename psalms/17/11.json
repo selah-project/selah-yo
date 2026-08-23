@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Wọ́n ti yí i ká nísinsin yìí nígbà ìrìn wa; wọ́n fi ojú wọn ṣẹ̀ṣìn láti dojú kọ ilẹ̀ ṣubú.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "ìrìn wa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nísinsin yìí"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "wọ́n ti yí i ká"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ojú wọn"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "wọ́n fi ṣẹ̀ṣìn"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "láti dojú kọ ṣubú"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:44.707138974Z",
+  "model": "glm-5.3"
+}

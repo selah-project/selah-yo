@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Síwọ̀sí, oó ṣe ⟨את⟩ àwọn pápákú fún Mishkan náà — ìgì shittim tí ó dúró.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "oó ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn pápákú"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "àwọn pápákú"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "fún Mishkan náà"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ìgì"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "tí ó dúró"
+    }
+  ],
+  "timestamp": "2026-08-22T23:25:54.435079772Z",
+  "model": "glm-5.3"
+}

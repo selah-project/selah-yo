@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 131,
+  "translation": "Kí Yisrael gbé ẹ̀retí kalẹ̀ sí Yahweh, láti ìsinsin-yìí wá, títí dé àìgbẹ̀yìn.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "gbé ẹ̀retí kalẹ̀"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "láti ìsinsin-yìí wá"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "àìgbẹ̀yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:35.817281122Z",
+  "model": "glm-5.3"
+}

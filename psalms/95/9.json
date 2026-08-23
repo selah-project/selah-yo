@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 95,
+  "translation": "Nígbà tí àwọn baba yín ṣe ìdánwò fún Mi, wọ́n dán Mi wò, pẹ̀lú pé wọ́n rí iṣẹ́ Mi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nígbà tí"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "ṣe ìdánwò fún Mi"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "àwọn baba yín"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "wọ́n dán Mi wò"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pẹ̀lú pé"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wọ́n rí"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "iṣẹ́ Mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:18.719117760Z",
+  "model": "glm-5.3"
+}

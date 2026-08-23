@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 10:16",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Gbogbo Israẹli sì, nítorí tí obà kò gbọ́ wọn, àwọn ènìyàn dáhùn sí ⟨את⟩ obà wí pé, Kí ni ipín fún wa níbí Dawidu, àti pé kò sí àrọ̀mọ̀ níbí ọmọ Yishai; ẹni kọ̀ọ̀kan lọ sí àgọ̀ rẹ, Israẹli; nísinsin-yìí wo ilé rẹ, Dawidu. Gbogbo Israẹli sì lọ sí àgọ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "sì gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "obà"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "dáhùn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "obà"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ipín"
+    },
+    {
+      "surface": "בדויד",
+      "gloss": "níbí Dawidu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti pé kò"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "àrọ̀mọ̀"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "níbí ọmọ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni kọ̀ọ̀kan"
+    },
+    {
+      "surface": "לאהליך",
+      "gloss": "lọ sí àgọ̀ rẹ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nísinsin-yìí"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ilé rẹ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "sì lọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "sí àgọ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:27:14.297430846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 83,
+  "translation": "Bẹ́ẹ̀ gẹ́gẹ́, ṣe ìlépa wọ́n pẹ̀lú ìjì rẹ, àti pẹ̀lú ìjì ọ̀fúfúlé rẹ sọ wọn di ẹ̀rù.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Bẹ́ẹ̀ gẹ́gẹ́"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "ṣe ìlépa wọ́n"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "pẹ̀lú ìjì rẹ"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "àti pẹ̀lú ìjì ọ̀fúfúlé rẹ"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "sọ wọn di ẹ̀rù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:03.495574866Z",
+  "model": "glm-5.3"
+}

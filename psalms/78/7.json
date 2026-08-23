@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Kí wọ́n fi ìgbẹ́kẹ̀lé wọn sílẹ̀ ní Elohim, kí wọ́n má ṣe gbagbé ìṣẹ́ El, kí wọ́n sì ṣọ́ àwọn àṣẹ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "kí wọ́n fi sí"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ní Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "ìgbẹ́kẹ̀lé wọn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí wọ́n má ṣe"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "gbagbé"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ìṣẹ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "àwọn àṣẹ rẹ̀ sì"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ṣọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:04.386910266Z",
+  "model": "glm-5.3"
+}

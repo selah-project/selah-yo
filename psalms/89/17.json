@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Nínú orúkọ rẹ ni wọ́n yọ̀ ayọ̀ gbogbo ọjọ́, àti nínú ìdajì rẹ ni wọ́n ⟨gbà⟩ ga.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "nínú orúkọ rẹ"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "ni wọ́n yọ̀ ayọ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "àti nínú ìdajì rẹ"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ni wọ́n gbà ga"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:15.253496324Z",
+  "model": "glm-5.3"
+}

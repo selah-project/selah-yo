@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ṣùgbọ́n bí kò bá fọ̀ wọ́n, kò sì wẹ ara rẹ̀, ó sì ru ẹ̀ṣẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ṣùgbọ́n bí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò bá"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "fọ̀ wọ́n"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "àti ara rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "wẹ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ó sì ru"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ẹ̀ṣẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:24.980285535Z",
+  "model": "glm-5.3"
+}

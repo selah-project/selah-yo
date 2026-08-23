@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Moshe sì gbà láti gbé pẹ̀lú ⟨את⟩ ọkùnrin náà, ó sì fún Moshe ni ⟨את⟩ Tzipporah, ọmọbìnrin rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "ó sì gbà láti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "láti gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkùnrin náà"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzipporah"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tzipporah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ọmọbìnrin rẹ̀"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:23.832495097Z",
+  "model": "glm-5.3"
+}

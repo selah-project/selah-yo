@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àṣà àwọn àlùfáà lọ́dọ̀ ⟨את⟩ ènìyàn ni èyí: ẹnikẹ́ni tí ó bá rúbọ, ọmọ àlùfáà yóò sì wá, nígbà tí ẹran bá ń sè, pẹ̀lú ìka-ẹ̀jẹ́ mẹ́ta ní ọwọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "Àṣà"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ènìyàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ẹnikẹ́ni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "rúbọ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "rúbọ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "yóò sì wá"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "nígbà tí ... ń sè"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ẹran"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "pẹ̀lú ìka-ẹ̀jẹ́"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ẹ̀jẹ́"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ní ọwọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:43:45.233278883Z",
+  "model": "glm-5.3"
+}

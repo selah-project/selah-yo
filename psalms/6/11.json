@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Jẹ́ kí gbogbo ọ̀tá mi yẹnu àti di aláìlérìí púpọ̀; jẹ́ kí wọ́n padà sẹ́yin, jẹ́ kí wọ́n yẹnu ní ìṣẹ́jú kéré.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "jẹ́ kí wọn yẹnu"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "àti di aláìlérìí"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ọ̀tá mi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jẹ́ kí wọ́n padà sẹ́yin"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "jẹ́ kí wọ́n yẹnu"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ní ìṣẹ́jú kéré"
+    }
+  ],
+  "timestamp": "2026-08-23T03:21:47.004167298Z",
+  "model": "glm-5.3"
+}

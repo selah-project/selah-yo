@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Wọ́n dáhùn, wọ́n sì wí fún Nevukadnetsar ọba náà: Ọba, jẹ́ lààyè láéláé!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Wọ́n dáhùn"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "wọ́n sì wí"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "fún Nevukadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "láéláé"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "jẹ́ lààyè"
+    }
+  ],
+  "timestamp": "2026-08-23T04:49:45.314389578Z",
+  "model": "glm-5.3"
+}

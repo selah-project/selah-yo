@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 30:6",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Eré tí ó wúwo ti àwọn ẹranko ilẹ̀ gúúsù: ní ilẹ̀ ìṣòro àti ìpẹ́nijá, níbi kínnímún-erin àti erin, ibi tí eyọ àti ejò sànfẹ́è ti ó ń fò ti wá; wọ́n gbé èròjà wọn sí èjìká àwọn ẹlẹ́dẹ̀, àti ohun-ipamọ́ wọn sí igbẹ̀di àwọn rakúnmẹ̀, sí àwọn ènìyàn tí kò lè wù wọn lọ́rọ̀.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "eré tí ó wúwo"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "àwọn ẹranko"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ilẹ̀ gúúsù"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ìṣòro"
+    },
+    {
+      "surface": "וצוקה",
+      "gloss": "àti ìpẹ́nijá"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "kínnímún-erin"
+    },
+    {
+      "surface": "וליש",
+      "gloss": "àti erin"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "láti ọ̀dọ̀ wọn"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "eyọ"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "àti ejò sànfẹ́è"
+    },
+    {
+      "surface": "מעופף",
+      "gloss": "ti ó ń fò"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "wọ́n gbé"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "èjìká"
+    },
+    {
+      "surface": "עירים",
+      "gloss": "àwọn ẹlẹ́dẹ̀"
+    },
+    {
+      "surface": "חילהם",
+      "gloss": "èròjà wọn"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "דבשת",
+      "gloss": "igbẹ̀di"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "àwọn rakúnmẹ̀"
+    },
+    {
+      "surface": "אוצרתם",
+      "gloss": "ohun-ipamọ́ wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "lè wù wọn lọ́rọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:51:40.325623938Z",
+  "model": "glm-5.3"
+}

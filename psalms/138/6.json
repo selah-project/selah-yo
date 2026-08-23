@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 138,
+  "translation": "Nítorí pé Yahweh ga; ṣùgbọ́n ó rí ẹni-ìkẹ̀dùn; ẹni tí ó gaára sì ló mọ̀ látijíìnà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "ṣùgbọ́n ó rí ẹni-ìkẹ̀dùn"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ó rí"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ẹni tí ó gaára sì ló mọ̀"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "látijíìnà"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "ó mọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:57.887701880Z",
+  "model": "glm-5.3"
+}

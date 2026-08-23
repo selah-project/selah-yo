@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ṣé ìwọ yóò dá wọ́n lẹ́bi, ìwọ yóò sì dá wọ́n lẹ́bi, àkúnrin? Jẹ́ kí wọn mọ ⟨את⟩ ìṣẹ́bù áwọn baba wọn.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Ṣé ìwọ yóò dá lẹ́bi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "ìwọ yóò sì dá lẹ́bi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "àkúnrin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìṣẹ́bù áwọn baba wọn"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ìṣẹ́bù"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "Jẹ́ kí wọn mọ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:43:10.177961250Z",
+  "model": "glm-5.3"
+}

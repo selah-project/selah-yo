@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó wí pé, \"Èwo ni ẹ̀ṣẹ̀ mi, pé ìwọ ń fi ⟨את⟩ ìránṣẹ́ rẹ lé ọwọ́ Ahab, láti pa mí?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó wí"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Èwo ni"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ẹ̀ṣẹ̀ mi"
+    },
+    {
+      "surface": "ᛥי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ń fi lé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ní ọwọ́"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "láti pa mí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:21:57.641621311Z",
+  "model": "glm-5.3"
+}

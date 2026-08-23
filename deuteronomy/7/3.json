@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ìwọ kò gbọdọ̀ ṣe ìgbéyàwó pẹ̀lú wọn: ọmọbìnrin rẹ kì í ṣe fún ọmọkùnrin wọn lọ, ọmọbìnrin wọn kì í sì gba fún ọmọkùnrin rẹ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kò gbọdọ̀ sì"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "ṣe ìgbéyàwó"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pẹ̀lú wọn"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ọmọbìnrin rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "fún ... lọ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "fún ọmọkùnrin wọn"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "àti ọmọbìnrin wọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í sì"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "fún ọmọkùnrin rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:09:40.277461970Z",
+  "model": "glm-5.3"
+}

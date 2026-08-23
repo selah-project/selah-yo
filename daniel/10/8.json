@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 10:8",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Mo sì kù nìkan; mo sì rí ⟨את⟩ ìfarahàn ńlá yìí, kò sì sí agbára tí ó kù nínú mi; ọlá mi sì yí padà di ìbàjẹ́ lórí mi; èmi kò sì le dáàbọ̀ agbára rárá.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mo sì"
+    },
+    {
+      "surface": "נשארתי",
+      "gloss": "kù"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "nìkan"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mo sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìfarahàn ńlá yìí"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ìfarahàn"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ńlá"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "kù"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nínú mi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "agbára"
+    },
+    {
+      "surface": "והודי",
+      "gloss": "ọlá mi"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "yí padà"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "למשחית",
+      "gloss": "di ìbàjẹ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "עצרתי",
+      "gloss": "le dáàbọ̀"
+    },
+    {
+      "surface": "כח",
+      "gloss": "agbára"
+    }
+  ],
+  "timestamp": "2026-08-23T04:54:17.397667167Z",
+  "model": "glm-5.3"
+}

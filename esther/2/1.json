@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Lẹ́yìn ìṣẹlẹ̀ wọnyí, nígbà tí ìbínú ọba Achashverosh kọ́lá sílẹ̀, ó rántí ⟨את⟩ Vashti, àti ⟨את⟩ ohun tí ó ṣe, àti ⟨את⟩ ohun tí a ké lu ú lórí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Lẹ́yìn"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ìṣẹlẹ̀"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "nígbà tí… kọ́lá sílẹ̀"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ìbínú"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ó rántí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ohun tí ó ṣe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ohun tí a ké lu ú lórí rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "a ké lu ú"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "lórí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:44:35.796401696Z",
+  "model": "glm-5.3"
+}

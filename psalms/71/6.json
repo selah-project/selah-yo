@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Lórí rẹ ni mo gbẹ́kẹ̀ lé láti inú ìkun; láti inú ìdò ara ìyá mi ni ìwọ gbé mi jáde; nípa rẹ ni ìyìn mi, láìńdíìn.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Lórí rẹ"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "mo gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "láti inú ìkun"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "láti inú ìdò ara"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ìyá mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "gbé mi jáde"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nípa rẹ"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ìyìn mi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "láìńdíìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:07.631369431Z",
+  "model": "glm-5.3"
+}

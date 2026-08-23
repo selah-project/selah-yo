@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ó sì wáyé, nígbà tí wọ́n bá wọ̀, ó rí ⟨את⟩ Eliyab, ó sì wí pé, Láìsísẹ́, níwájú Yahweh ni Ẹni-Àmì-Òróró rẹ̀ wà.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "nígbà tí wọ́n bá wọ̀"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ó rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliyab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Láìsísẹ́"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Ẹni-Àmì-Òróró rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:48:54.736122741Z",
+  "model": "glm-5.3"
+}

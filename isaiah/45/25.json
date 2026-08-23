@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Nínú Yahweh ni gbogbo ìrúnlẹ̀wọ́sì Yisrael ti yóò ṣe òdodo, àti tí yóò gbọ́raga.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Nínú Yahweh"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "yóò ṣe òdodo"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "àti tí yóò gbọ́raga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ìrúnlẹ̀wọ́sì"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T01:57:06.641102141Z",
+  "model": "glm-5.3"
+}

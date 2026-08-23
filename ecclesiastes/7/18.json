@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ó dára tí ìwọ gbà èyí mú, àti láti èyí náà má ṣe fi ⟨את⟩ ọwọ́ rẹ sílẹ̀; nítorí ẹni tí ó bẹ̀rù Elohim yóò jáde lára wọn gbogbo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ó dára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "ìwọ gbà … mú"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "láti èyí náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "fi … sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ẹni tí ó bẹ̀rù"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yóò jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wọn gbogbo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wọn gbogbo"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:21.490832964Z",
+  "model": "glm-5.3"
+}

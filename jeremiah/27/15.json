@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 27:15",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Nítorí tí èmi kò rán wọ́n, Yahweh sọ; ṣùgbọ́n wọ́n ń sọtalọ̀ irọ́ nínú orúkọ mi, láti lè le yín ⟨את⟩ kúrò, kí ẹ sì parun — ẹyin àti àwọn wòlíì tí ń sọtalọ̀ fún yín.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "rán wọn"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sọ nínú ìpolongo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ṣùgbọ́n wọ́n"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "ń sọtalọ̀"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "nínú orúkọ mi"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "irọ́"
+    },
+    {
+      "surface": "למען",
+      "gloss": "láti lè"
+    },
+    {
+      "surface": "הדיחי",
+      "gloss": "le yín kúrò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yín"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "kí ẹ parun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹyin"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "àti àwọn wòlíì"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "tí ń sọtalọ̀"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    }
+  ],
+  "timestamp": "2026-08-23T02:19:24.108063773Z",
+  "model": "glm-5.3"
+}

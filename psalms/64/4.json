@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 64,
+  "translation": "Ẹniti wọ́n fi ìrọ̀run ge dá bí idà, wọ́n kọ̀ ọ̀fà wọn — ọ̀rọ̀ ìbúburú.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ẹniti (àwọn)"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "wọ́n ge dá (mú lára) gaya"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "bí idà"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ìrọ̀run wọn"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "wọ́n kọ̀\/ṣe títì sí"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "ọ̀fà wọn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ìbúburú (àyàwọ̀ kórò)"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:48.778358781Z",
+  "model": "glm-5.3"
+}

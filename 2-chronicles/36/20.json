@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 36:20",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Ó sì gbé àwọn tí ó ṣàìsẹ́ ìdà jáde lọ sí Babyloni, wọ́n sì di ẹrún-ọ̀dọ̀ fún un àti fún àwọn ọmọ rẹ̀, títí di ìgbà tí ìjọba Paras fi ń jọba.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Ó sì gbé...jáde lọ"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "àwọn tí ó ṣàìsẹ́...jáde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ìdà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babyloni"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wọ́n sì di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "àti fún àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ẹrún-ọ̀dọ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ń jọba"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    }
+  ],
+  "timestamp": "2026-08-23T05:38:04.484300419Z",
+  "model": "glm-5.3"
+}

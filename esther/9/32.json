@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ìpinnu Ester sì gbé ọ̀rọ̀ Purim wọnyí kalẹ̀, ó sì wà nínú ìwé náà.",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "ìpinnu sì"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "קים",
+      "gloss": "ó gbé kalẹ̀"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "Purim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "ó sì wà nínú ìwé"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "nínu ìwé náà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:47:32.835933502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 5:3",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ẹ gbọ́, àwọn ọba; ẹ sọ etí dá, àwọn asáájú; èmi, fún Yahweh, èmi ni yóò kọ orin; èmi yóò kọ orin ìyìn fún Yahweh, Elohim Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ẹ gbọ́"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ẹ sọ etí dá"
+    },
+    {
+      "surface": "רזנים",
+      "gloss": "àwọn asáájú"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi ni"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "yóò kọ orin"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "yóò kọ orin ìyìn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T00:33:30.998422226Z",
+  "model": "glm-5.3"
+}

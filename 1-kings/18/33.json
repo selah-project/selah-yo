@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó sì ṣe àgbékalẹ̀ ⟨את⟩ igi náà, ó sì gé ⟨את⟩ màlúù náà sí ìpín, ó sì fi lé lórí igi náà.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "ó sì ṣe àgbékalẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igi náà"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "igi náà"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "ó sì gé sí ìpín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "màlúù náà"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "màlúù náà"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ó sì fi lé"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "igi náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:22:48.549428488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ẹbun-iṣẹ́ àti ẹbun-ọ̀gẹ́dọ̀ ìwọ kò fẹ́; etí ìwọ ti kọ́ fún mi; ẹbun-iná àti ẹbun-ẹṣẹ̀ ìwọ kò bẹ́ẹ̀rẹ̀.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "ẹbun-iṣẹ́"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "àti ẹbun-ọ̀gẹ́dọ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ìwọ fẹ́"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "etí"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "ìwọ ti kọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ẹbun-iná"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "àti ẹbun-ẹṣẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ìwọ bẹ́ẹ̀rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:05.598846670Z",
+  "model": "glm-5.3"
+}

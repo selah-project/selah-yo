@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 23:26",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Bilam sì dáhùn, ó sì wí fún Balak pé: “Ìwọ ṣe kò ní kí ó tíì sọ fún ọ pé gbogbo ohun tí Yahweh bá sọ, ⟨את⟩ ni èmi yóò ṣe?”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "sì dáhùn"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ṣe kò ní"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mo ti sọ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bá sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí Yahweh bá sọ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "èmi yóò ṣe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:59:55.445643383Z",
+  "model": "glm-5.3"
+}

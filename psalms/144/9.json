@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 144,
+  "translation": "Elohim, orin tuntun ni mo máa kọ fún ọ, nípa nnígbà àwọn òrùn mẹ́wàà ni mo máa lu àsọ fún ọ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tuntun"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "mo máa kọ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nípa nnígbà"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "àwọn òrùn mẹ́wàà"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mo máa lu àsọ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:52.249000538Z",
+  "model": "glm-5.3"
+}

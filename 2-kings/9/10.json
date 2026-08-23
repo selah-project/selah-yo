@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àwọn ajá yóò sì jẹ ⟨את⟩ Izevel ní ipín Jizreel, kò sí ẹnibíkan láti sin í. Ó sì ṣí ilẹ̀kùn náà, ó sì sáré lo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yóò sì jẹ"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "Àwọn ajá"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "ní ipín"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sí ẹnibíkan"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "láti sin í"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "Ó sì ṣí"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ilẹ̀kùn náà"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ó sì sáré lo"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:45.937657162Z",
+  "model": "glm-5.3"
+}

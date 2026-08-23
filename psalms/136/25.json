@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 136,
+  "translation": "Òun ló ń fún gbogbo ẹran ara ní oúnjẹ, nítorí pé ìfẹ́ olóòtítọ́ rẹ̀ wà fíẹ̀ẹ̀ láé.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ń fún"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ẹran ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "fíẹ̀ẹ̀ láé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:42.763353314Z",
+  "model": "glm-5.3"
+}

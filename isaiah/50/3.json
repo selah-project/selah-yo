@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Mo wọ̀ àwọn ọ̀run aṣọ dúdú, mo fi aṣọ ìbánújẹ́ wé wọn.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "mo wọ̀"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "aṣọ dúdú"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "aṣọ ìbánújẹ́"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "mo fi wé"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:01:16.330081218Z",
+  "model": "glm-5.3"
+}

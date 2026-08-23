@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Yahweh sì gbọ́ ohùn Eliyahu, ẹ̀mí ọmọ náà sì padà sí inú rẹ̀, ó sì wà lààyè.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ó sì gbọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ó sì padà"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ọmọ náà"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "inú rẹ̀"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "ó sì wà lààyè"
+    }
+  ],
+  "timestamp": "2026-08-23T01:20:55.763987001Z",
+  "model": "glm-5.3"
+}

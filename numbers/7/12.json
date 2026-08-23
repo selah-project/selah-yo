@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ẹni tí ó kún ⟨את⟩ ẹbún-ìṣẹ́lẹ̀ rẹ̀ ní ọjọ́ kìíní náà ni Nachshon, ọmọ Aminadav, fún ẹbí-idile Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sì ṣẹlẹ̀ pé"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "Ẹni tí ó kún"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kìíní náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹbún-ìṣẹ́lẹ̀ rẹ̀"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ẹbún-ìṣẹ́lẹ̀ rẹ̀"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "fún ẹbí-idile"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-23T05:44:20.070218743Z",
+  "model": "glm-5.3"
+}

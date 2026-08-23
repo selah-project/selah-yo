@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Wọ́n sì dá Yehoshua lóhù pé:Gbogbo ohun tí o pàṣẹ fún wa là á ṣe, àti sí ibi gbogbo tí o bá rán wa là á lọ.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "wọ́n sì dá lóhù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "o pàṣẹ fún wa"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "là á ṣe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ibi gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "o bá rán wa"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "là á lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:23:21.590806471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 6:14",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Wọ́n sì ń bá a sọ̀rọ̀ tún, nígbà tí àwọn agbára-òrè ọba dé, wọ́n sì gbéra láti mú ⟨את⟩ Haman lọ sí àgbàlejò tí Ester ṣe.",
+  "tokens": [
+    {
+      "surface": "עודם",
+      "gloss": "sì tún"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "ń bá a sọ̀rọ̀"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bá a"
+    },
+    {
+      "surface": "וסריסי",
+      "gloss": "àti àwọn agbára-òrè"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "dé"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "sì gbéra"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "láti mú lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "àgbàlejò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-23T04:46:14.524757903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ó sì wáyé ní ọjọ́ yìí gangan, Yahweh mú ⟨את⟩ àwọn ọmọ Yisrael jáde kúrò lórílẹ̀-ayé Mitzrayim, ní ìkọ̀-ogun wọn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ní ... gangan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "mú ... jáde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kúrò lórílẹ̀-ayé"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "ìkọ̀-ogun wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:56.216539012Z",
+  "model": "glm-5.3"
+}

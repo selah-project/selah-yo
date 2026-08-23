@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Bat-Sheva wí pé: Dára; èmi yóò sọ̀rọ̀ nípa rẹ sí ọba náà.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Bat-Sheva wí pé"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Dára"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "yóò sọ̀rọ̀"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nípa rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:11:40.437127285Z",
+  "model": "glm-5.3"
+}

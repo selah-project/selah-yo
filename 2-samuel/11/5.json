@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó sì ṣe árùn oyún, arábìnrin náà; ó sì ránṣẹ́, ó sì sọ fún David, ó sì wí pé, mo lóyún.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ó sì ṣe árùn oyún"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "arábìnrin náà"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "ó sì ránṣẹ́"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ó sì sọ fún"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "mo lóyún"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:10.998392746Z",
+  "model": "glm-5.3"
+}

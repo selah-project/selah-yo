@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 20:15",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ó wí pé, Ẹ gbọ́ọ́sọ, gbogbo Yehudah àti àwọn olùgbé Yerushalayim, àti ọba Yehoshaphat: bíi báyìí ni Yahweh wí fún yín: Ẹ ṣé bẹ̀rù̀, ẹ ma ṣe sọ̀rí sílẹ̀ nítorí ìpọ̀njù pàtàkì yìí; nítorí tí ogun náà kì í ṣe tiyín, ṣùgbọ́n ti Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó wí pé"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "Ẹ gbọ́ọ́sọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "àti àwọn olùgbé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "àti ọba"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshaphat"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bíi báyìí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yín"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ṣé bẹ̀rù̀"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ẹ ma ṣe"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "sọ̀rí sílẹ̀"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ìpọ̀njù"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "pàtàkì"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tiyín"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ogun náà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ti Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:30:17.031836244Z",
+  "model": "glm-5.3"
+}

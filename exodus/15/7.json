@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Nínú ìgbéraga rẹ̀ ni o ti ṣẹ́ wọn tí ó dúró lódì rẹ̀; o rán ìbínú rẹ̀ tí ó jẹ wón bíi ọ̀gẹ̀dẹ̀ gbígbẹ.",
+  "tokens": [
+    {
+      "surface": "וברב",
+      "gloss": "ní nínú ìpọ̀n rẹ̀"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "ìgbéraga rẹ̀"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "o ṣẹ́ wọn"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "àwọn tí ó dúró lódì rẹ"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "o rán"
+    },
+    {
+      "surface": "חרנך",
+      "gloss": "ìbínú rẹ"
+    },
+    {
+      "surface": "יאכלמו",
+      "gloss": "tí ó jẹ wón"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "bíi ọ̀gẹ̀dẹ̀ gbígbẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:40.033173708Z",
+  "model": "glm-5.3"
+}

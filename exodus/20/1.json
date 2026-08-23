@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Elohim sì sọ ⟨את⟩ gbogbo àwọn ọ̀rọ̀ wọnyí pé:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sì sọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ọ̀rọ̀ wọnyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:07.411414323Z",
+  "model": "glm-5.3"
+}

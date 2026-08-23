@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Ìdàkáso ni ti ẹni tí ó ń ṣe àgbọ́rún sí aláìnítorí; ní ọjọ́ ìbuburu Yahweh yóò gbà á là.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ìdàkáso ni ti"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ẹni tí ó ń ṣe àgbọ́rún"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "דל",
+      "gloss": "aláìnítorí"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ìbuburu"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "yóò gbà á là"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:51.616148066Z",
+  "model": "glm-5.3"
+}

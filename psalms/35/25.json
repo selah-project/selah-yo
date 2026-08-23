@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Kí wọ́n má ṣe sọ nínú ọkàn wọn, “Heáha, ìgbékún là ń bé”; kí wọ́n má ṣe sọ, “A gbè ⟨את⟩ ú mínú.”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kí … má ṣe"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wọ́n sọ"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "nínú ọkàn wọn"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heáha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ìgbékún là ń bé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kí … má ṣe"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wọ́n sọ"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "a gbè ⟨את⟩ ú mínú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:22.856813535Z",
+  "model": "glm-5.3"
+}

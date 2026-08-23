@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Ní ṣoṣo ní ojú rẹ ni iwọ yóò fi rí i, àti iwọ yóò rí ìdáhùn ìwà búburú ti àwọn aláṣẹ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ní ṣoṣo"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "yóò fi rí i"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "ìdáhùn ìwà búburú ti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn aláṣẹ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "yóò rí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:44.807104970Z",
+  "model": "glm-5.3"
+}

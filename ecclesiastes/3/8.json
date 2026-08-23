@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àkókò láti fẹ́, àti àkókò láti kórìíra; àkókò ogun, àti àkókò àlàáfíà.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "àkókò"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "láti fẹ́"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "àti àkókò"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "láti kórìíra"
+    },
+    {
+      "surface": "עת",
+      "gloss": "àkókò"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "àti àkókò"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:10.505212591Z",
+  "model": "glm-5.3"
+}

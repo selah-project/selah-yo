@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 3:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ìjọ mi — ọmọdé ni àwọn agbájalẹ̀ rẹ, àti àwọn obìnrin ṣe ìjọba lórí i rẹ. Ìjọ mi — àwọn olùbùkún rẹ ń ṣèfọ́ ọ́, wọ́n sì gbé ọ̀nà àwọn ipa-ọ̀nà rẹ jẹ.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "ìjọ mi"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "àwọn agbájalẹ̀ rẹ"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "ọmọdé"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "àti àwọn obìnrin"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ṣe ìjọba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lórí i rẹ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ìjọ mi"
+    },
+    {
+      "surface": "מאשריך",
+      "gloss": "àwọn olùbùkún rẹ"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "ń ṣèfọ́ ọ́"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "àti ọ̀nà"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "àwọn ipa-ọ̀nà rẹ"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "wọ́n gbé jẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:17.421656045Z",
+  "model": "glm-5.3"
+}

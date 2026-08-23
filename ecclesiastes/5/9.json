@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ẹni tí ó fẹ́ràn fàdá kì yóò kún pẹ̀lú fàdá; àti ẹni tí ó fẹ́ràn pọ̀rọ̀ ogún, kì í ṣe èrè; èyí náà jẹ́ ⟨hével⟩.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ẹni tí ó fẹ́ràn"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì yóò"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "kún"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pẹ̀lú fàdá"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "àti ẹni tí"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ó fẹ́ràn"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "pọ̀rọ̀ ogún"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "èrè"
+    },
+    {
+      "surface": "גם",
+      "gloss": "náà"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "⟨hével⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:56.590077402Z",
+  "model": "glm-5.3"
+}

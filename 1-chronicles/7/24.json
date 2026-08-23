@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àti ọmọbìnrin rẹ̀ ni Sheerah; ó sì kọ́ ⟨את⟩ ilé Bet-Horon ìsàlẹ̀ àti ⟨את⟩ òkè, àti ⟨את⟩ Uzzen-Sheerah.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "àti ọmọbìnrin rẹ̀"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheerah"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "ó sì kọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé Bet-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Bet-Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "ìsàlẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "òkè"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Uzzen-Sheerah"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheerah"
+    }
+  ],
+  "timestamp": "2026-08-23T05:11:19.113062296Z",
+  "model": "glm-5.3"
+}

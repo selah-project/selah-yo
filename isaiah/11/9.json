@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Wọn kì í ṣe ìkà, wọn kì í ṣègbé ní gbogbo òkè mímọ́ mi; nítorí ilẹ̀ ti kún mọ́ ìmọ̀ ⟨את⟩ Yahweh, bí omi tí ó ń bo òkun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ṣe ìkà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kì í"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "ṣègbé"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mímọ́ mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ti kún"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ìmọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "bí omi"
+    },
+    {
+      "surface": "לים",
+      "gloss": "òkun"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "tí ó ń bo"
+    }
+  ],
+  "timestamp": "2026-08-23T01:44:29.044827303Z",
+  "model": "glm-5.3"
+}

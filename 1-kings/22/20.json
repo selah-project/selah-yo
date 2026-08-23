@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Yahweh sì wí pé, Ta ni yóò darí ⟨את⟩ Ahab, kí ó lè gòórò sókè kí ó sì ṣubú ní Ramot Gilad? Ẹní sì wí pé bẹ́ẹ̀, èmí sì wí pé bẹ́ẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ta ni"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "yóò darí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kí ó lè gòórò sókè"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kí ó sì ṣubú"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "ní Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ẹní"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "pé bẹ́ẹ̀"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "èmí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "pé bẹ́ẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:25:46.824987997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ṣe kí ẹnikẹ́ni nínú àwọn ọkùnrin wọnyí, ìrún búburú yìí, kí ó lè rí ⟨את⟩ ilẹ̀ rere tí mo ti búra láti fún àwọn baba yín ni",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ṣe kí"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnikẹ́ni ọkùnrin"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "nínú àwọn ọkùnrin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ìrún"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ rere"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "rere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mo ti búra"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "láti fún"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "àwọn baba yín ni"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:39.280739980Z",
+  "model": "glm-5.3"
+}

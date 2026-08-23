@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Láti ṣe ìfẹ́ rẹ, Elohim mi, mo gbádùn; àti òfin rẹ sì wà láàrin inú mi.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "ìfẹ́ rẹ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "mo gbádùn"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "àti òfin rẹ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàrin"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "inú mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:39.209378243Z",
+  "model": "glm-5.3"
+}

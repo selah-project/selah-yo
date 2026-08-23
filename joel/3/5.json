@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 3:5",
+  "book": "joel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ẹ̀yin tí ẹ mú fàdákà mi àti wúrà mi, ẹ̀yin tí ẹ gbe àwọn ohun rere mi tí ó dára lọ sí àwọn tempili yín.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fàdákà mi"
+    },
+    {
+      "surface": "כספי",
+      "gloss": "fàdákà mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "wúrà mi"
+    },
+    {
+      "surface": "זהבי",
+      "gloss": "wúrà mi"
+    },
+    {
+      "surface": "לקחתם",
+      "gloss": "ẹ̀yin tí ẹ mú"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ohun rere mi"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "àwọn ohun rere mi"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "tí ó dára"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ẹ gbe lọ"
+    },
+    {
+      "surface": "להיכליכם",
+      "gloss": "sí àwọn tempili yín"
+    }
+  ],
+  "timestamp": "2026-08-23T03:04:22.073931294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 53,
+  "translation": "Fún olùdarí-orin, lórí ⟨orin⟩ Machalath, orin-ẹ̀kọ́ ti David kọ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí-orin"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalath"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "orin-ẹ̀kọ́"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti David kọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:41.929267662Z",
+  "model": "glm-5.3"
+}

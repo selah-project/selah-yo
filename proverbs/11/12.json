@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ẹni tí ó bú ọ̀rẹ̀ rẹ̀, ó kún lókàn ti kò-gbọ́n; ṣùgbọ́n ọkọ̀ ìmọ̀-ọ̀ye, ó dákẹ́.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "ó bú"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ọ̀rẹ̀ rẹ̀"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ó kún ti kò-gbọ́n"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lókàn"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ṣùgbọ́n ọkọ̀"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ìmọ̀-ọ̀ye"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "dákẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:06:38.201134840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Àti fún arábìnrin-ìyá rẹ̀, wúndíá kan, tí ó súnmọ́ ọ́, ẹni tí kò tíì lọ́kọ̀; nítorí rẹ̀ ni kí ó lè di aláìmọ́.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "àti fún arábìnrin-ìyá rẹ̀"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "wúndíá kan"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "tí ó súnmọ́ ọ́"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tíì"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "lọ́kọ̀"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nítorí rẹ̀"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kí ó lè di aláìmọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:43:05.133693420Z",
+  "model": "glm-5.3"
+}

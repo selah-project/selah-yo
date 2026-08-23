@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ní ohun ìkùnbọ̀, pẹ̀lú àwọn fáìtà ìgbà kan yìí ni kí ó jẹ́ kí ó ṣe ⟨את⟩ rẹ̀; gẹ́gẹ́ bí ó ti han ⟨את⟩ ọ lórí òkè, bẹ́ẹ̀ ni wọn yóó ṣe é.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "ohun ìkùnbọ̀"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "pẹ̀lú àwọn fáìtà"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kí ó ṣe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ rẹ̀",
+      "marks": "pẹpẹ náà"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ó ti han"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ọ",
+      "marks": "ìwọ (Moshe)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "lórí òkè"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "wọn yóó ṣe é"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:30.364503026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Odò kan sì jáde kúrò lẹ́yìn Eden láti lọ fi omi san ọgbìn náà, ó sì pín sí láti ibẹ̀, ó di orí mẹ́rin.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "odò…sì"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "jáde kúrò"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "lẹ́yìn Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "láti lọ fi omi san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbìn náà"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ọgbìn náà"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ó sì…láti ibẹ̀"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "pín sí"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ó di"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "mẹ́rin"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "orí"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:40.535804925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Shimei sì dìde, ó sì ṣe kẹ̀ẹ́kẹ̀ ⟨את⟩ ẹṣin-àgbà rẹ̀, ó sì lọ sí Gath, sí Akish, láti wá ⟨את⟩ ìránṣẹ́ rẹ; Shimei sì lọ, ó sì mú ⟨את⟩ ìránṣẹ́ rẹ wá láti Gath.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sì dìde"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimei"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "ó sì ṣe kẹ̀ẹ́kẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹṣin-àgbà rẹ"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "ẹṣin-àgbà rẹ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "sí Gath"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "láti wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "sì lọ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimei"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì mú ... wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "láti Gath"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:59.147936439Z",
+  "model": "glm-5.3"
+}

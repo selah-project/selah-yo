@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó sì ṣí wọn lọ́nà pẹ̀lú kíkún ní ọ̀sán, àti gbogbo òru pẹ̀lú ìmọ́lẹ̀ iná.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Ó sì ṣí wọn lọ́nà"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "pẹ̀lú kíkún"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ní ọ̀sán"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "באור",
+      "gloss": "pẹ̀lú ìmọ́lẹ̀"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:42.446595212Z",
+  "model": "glm-5.3"
+}

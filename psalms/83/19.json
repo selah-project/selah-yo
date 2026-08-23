@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 83,
+  "translation": "Kí wọn ó sì mọ̀ pé ìwọ — orúkọ rẹ̀ ni Yahweh — ìwọ nìkan ni El Elyon, ⟨El⟩ Gíga-jùlọ lórí gbogbo ayé.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Kí wọn ó sì mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ìwọ nìkan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon, ⟨El⟩ Gíga-jùlọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:28.851084536Z",
+  "model": "glm-5.3"
+}

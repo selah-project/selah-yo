@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Èmi ni Yahweh, kò sí ⟨ìmíràn⟩; yàtò sí mi kò sí Elohim; èmi fi ìgbìmọ́ mú ọ́, ṣùgbọ́n ọ kò tíì mọ̀ mí.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "àti kò sí"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨ìmíràn⟩"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "yàtò sí mi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "mo fi ìgbìmọ́ mú ọ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n kò"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "o kò tíì mọ̀ mí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:58:01.642440246Z",
+  "model": "glm-5.3"
+}

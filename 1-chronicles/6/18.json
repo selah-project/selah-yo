@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 6:18",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àwọn tí ó dúró yìí àti àwọn ọmọ wọn: láti àwọn ọmọ Kehati — Heiman akọrin, ọmọ Yoel, ọmọ Shemuel.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "àwọn yìí sì"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "àwọn tí ó dúró"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "àti àwọn ọmọ wọn"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "láti àwọn ọmọ"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Kehati"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Heiman"
+    },
+    {
+      "surface": "המשורר",
+      "gloss": "akọrin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    }
+  ],
+  "timestamp": "2026-08-23T05:10:41.094768247Z",
+  "model": "glm-5.3"
+}

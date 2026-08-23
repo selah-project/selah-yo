@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Nígbà náà ni ọba mú Shadrach, Meshach àti Abed-Nego ṣe àṣeyọrí ní ìpínlẹ̀ Babel.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "nígbà náà"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "mú...ṣe àṣeyọrí"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrach"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshach"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "àti"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abed-Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "ní ìpínlẹ̀"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-08-23T04:50:02.060653357Z",
+  "model": "glm-5.3"
+}

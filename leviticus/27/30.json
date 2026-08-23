@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Àti gbogbo ẹ̀kẹ́wá ilẹ̀ yìí — láti inú irúgbìn ilẹ̀ yìí, àti láti inú èso igi — ti Yahweh ni; ⟨ó⟩ jẹ́ mímọ́ fún Yahweh.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ẹ̀kẹ́wá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "láti inú irúgbìn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "láti inú èso"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:47:56.875633256Z",
+  "model": "glm-5.3"
+}

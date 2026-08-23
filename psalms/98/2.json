@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 98,
+  "translation": "Yahweh ti ṣe ìmọ̀lẹ̀ ìgbàlà rẹ̀; ó ti ṣe ìfihàn ìdájọ́ rẹ̀ níwájú ojú àwọn orílẹ̀-èdè.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "ti ṣe ìmọ̀lẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ìgbàlà rẹ̀"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "níwájú ojú"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ó ti ṣe ìfihàn"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ìdájọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:27.874789594Z",
+  "model": "glm-5.3"
+}

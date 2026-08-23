@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ìwọ yóò ṣe lórí ⟨i⟩ àpètè ààyà ìgboyà méjì wúrà, ìwọ yóò sì fi ⟨את⟩ ìgboyà méjì náà sí lórí méjèèjì òpin àpètè ààyà náà.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ìwọ yóò ṣe"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "⟨i⟩ àpètè ààyà"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "ìgboyà"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ìwọ yóò sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìgboyà méjì náà"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "ìgboyà náà"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí lórí"
+    },
+    {
+      "surface": "שני",
+      "gloss": "méjèèjì"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "òpin"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "àpètè ààyà náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:08.486170578Z",
+  "model": "glm-5.3"
+}

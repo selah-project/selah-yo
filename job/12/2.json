@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ní òtítọ́, ẹ̀yin ni ⟨ìjọ⟩ náà, àti ogbón ni yóò kú pẹ̀lú yín.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "ní òtítọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨(àṣà ìṣe)⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨ìjọ⟩"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "pẹ̀lú yín"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "yóò kú"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ogbón"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:23.356914157Z",
+  "model": "glm-5.3"
+}

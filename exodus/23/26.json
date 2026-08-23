@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Kì í ṣe ìkúnlọ́mọ yóò wà, bẹ́ẹ̀ ni aláìní-ẹ̀jẹ́ ní ilẹ̀ rẹ; èmi óò dúró èye ⟨את⟩ ọjọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "ìkúnlọ́mọ"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "aláìní-ẹ̀jẹ́"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ní ilẹ̀ rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èye ọjọ́ rẹ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "èye"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ọjọ́ rẹ"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "èmi óò dúró"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:11.297182821Z",
+  "model": "glm-5.3"
+}

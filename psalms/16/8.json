@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Mo ti fi Yahweh sí ìwájú mi nígbà gbogbo; nítorí tí ó wà ní ọwọ́ ọtún mi, èmi kì í ṣù.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Mo ti fi sí ìwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ní ìwájú mi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "ní ọwọ́ ọtún mi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ṣù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:49.980854770Z",
+  "model": "glm-5.3"
+}

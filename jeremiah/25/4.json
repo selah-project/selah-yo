@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Yahweh sì ti rán gbogbo àwọn ìránṣẹ́ rẹ̀, àwọn wòlíì, sí yín, ⟨את⟩ — ní kíkún àárọ̀ Ó ń rán wọn — ṣùgbọ́n ẹ kò gbọ́, ẹ kò sì tú ⟨את⟩ etí yín láti gbọ́.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "sì ti rán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sí yín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ìránṣẹ́ rẹ̀, àwọn wòlíì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "àwọn wòlíì"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "ní kíkún àárọ̀"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "Ó ń rán wọn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n kò"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ẹ gbọ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "ẹ tú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etí yín"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "etí yín"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "láti gbọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T02:18:56.218688768Z",
+  "model": "glm-5.3"
+}

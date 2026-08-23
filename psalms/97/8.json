@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 97,
+  "translation": "Tsiyon gbọ́, ó sì dùnún lára; àwọn ọmọbìnrin Yehudah sì yọ̀ sílẹ̀, nítorí ìdájọ́ rẹ, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Tsiyon gbọ́"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ó sì dùnún lára"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "sì yọ̀ sílẹ̀"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "àwọn ọmọbìnrin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ìdájọ́ rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:34.725649876Z",
+  "model": "glm-5.3"
+}

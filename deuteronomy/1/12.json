@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Báwo ni èmi fi lè ní ṣoṣo gbá ẹrù yín, àti ẹrù ìròyìn yín, àti àwọn àbájọ yín?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Báwo ni"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "fi lè gbá"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ní ṣoṣo èmi"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "ẹrù yín"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "àti ẹrù ìròyìn yín"
+    },
+    {
+      "surface": "ויבכם",
+      "gloss": "àti àwọn àbájọ yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:13.206408568Z",
+  "model": "glm-5.3"
+}

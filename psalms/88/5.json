@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Wọ́n kà mí mọ́ àwọn tí ń bọ̀ sínú iho; mo di bí ọkùnrin tí kò ní ipá.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "wọ́n kà mí"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "àwọn tí ń bọ̀"
+    },
+    {
+      "surface": "בור",
+      "gloss": "sínú iho"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mo di"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "bí ọkùnrin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò ní"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ipá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:46.436296024Z",
+  "model": "glm-5.3"
+}

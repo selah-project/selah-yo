@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 146,
+  "translation": "Ìdúnnu fún ẹni tí Elohim Yaakov jẹ́ ìrànlọ́wọ́ rẹ̀, tí ìrètí rẹ̀ sì wà lórí Yahweh, Elohim rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ìdúnnu"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ẹni tí ó ní"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "ní ìrànlọ́wọ́ rẹ̀"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ìrètí rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:52.766970966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ẹrù-ìpa àti ìrẹ̀lẹ̀-jẹ́ ni; láti ọ̀dọ̀ rẹ̀ ni ìdájọ́ rẹ̀ àti ìgbéga rẹ̀ ti ń jáde.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "ẹrù-ìpa"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "àti ìrẹ̀lẹ̀-jẹ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "láti ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "ìdájọ́ rẹ̀"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "àti ìgbéga rẹ̀"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "jáde"
+    }
+  ],
+  "timestamp": "2026-08-23T06:02:55.792416972Z",
+  "model": "glm-5.3"
+}

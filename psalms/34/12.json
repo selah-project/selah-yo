@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ẹ wá, àwọn ọmọ; ẹ gbọ́ tí n ì í sọ; ìbẹ̀rù Yahweh ni n ó kọ́ yín.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ẹ wá"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ẹ gbọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tí n ì í sọ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ìbẹ̀rù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "ni n ó kọ́ yín"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:07.213319246Z",
+  "model": "glm-5.3"
+}

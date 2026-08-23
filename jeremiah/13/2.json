@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Nítorí náà, mo ra ⟨את⟩ ìgbaná náà, gẹ́gẹ́ bí ọ̀rọ̀ Yahweh, mo sì jẹ́ kí ó wà lórí ìgbàjá mi.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "mo ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìgbaná náà"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "ìgbaná náà"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "gẹ́gẹ́ bí ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "mo sì jẹ́ kí ó wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ìgbàjá mi"
+    }
+  ],
+  "timestamp": "2026-08-23T02:13:32.699029784Z",
+  "model": "glm-5.3"
+}

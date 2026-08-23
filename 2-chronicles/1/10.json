@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Nísinsìnyí, fún mi ní ọgbọ́n àti ìmọ̀, kí n lè jáde wọ̀ láwọ́lé ènìyàn yìí; nítorí ta lè ṣe ìdájọ́ ⟨את⟩ ènìyàn rẹ yìí, tí ó tóbi bẹ́ẹ̀?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nísinsìnyí"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ọgbọ́n"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "àti ìmọ̀"
+    },
+    {
+      "surface": "תן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi ní"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "kí n lè jáde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "láwọ́lé"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "kí n lè wọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "lè ṣe ìdájọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ènìyàn rẹ yìí"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ènìyàn rẹ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "tí ó tóbi bẹ́ẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:21:18.360536448Z",
+  "model": "glm-5.3"
+}

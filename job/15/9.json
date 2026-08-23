@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Kí ni o mọ̀, tí a kò mọ̀? Kí ni o gbọ́n, tí ⟨èyí⟩ kò wà pẹ̀lú wa?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o mọ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tí a kò"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "o gbọ́n"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tí kò"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "wà pẹ̀lú wa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨èyí⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T04:20:32.000759532Z",
+  "model": "glm-5.3"
+}

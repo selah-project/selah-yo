@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Yaakov sì wí fún Yosef pé, El Shaddai farahàn sí mi ní Luz, ní ilẹ̀ Kenaan, ó sì bùkún fún ⟨את⟩ mi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí fún"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "farahàn sí"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "ní Luz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ó sì bùkún fún"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mi",
+      "marks": "mi (Yaakov)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:13:57.174491020Z",
+  "model": "glm-5.3"
+}

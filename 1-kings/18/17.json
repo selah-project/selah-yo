@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó sì ṣẹlẹ̀, nígbà tí Achab rí ⟨את⟩ Eliyahu, Achab sì wí fún un pé, Ṣé ìwọ ni ènìyàn yìí, ènì tí ó ń ṣòfò Ísráẹ̀lì?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "nígbà tí ó rí"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Ṣé ìwọ ni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ènìyàn yìí"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "tí ó ń ṣòfò"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísráẹ̀lì"
+    }
+  ],
+  "timestamp": "2026-08-23T01:22:43.737328473Z",
+  "model": "glm-5.3"
+}

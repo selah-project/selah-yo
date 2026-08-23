@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Iwọ fi ọ̀nà ìyè hàn mi; ìdùnnú pípẹ́ ni pẹ̀lú ⟨את⟩ ojú rẹ; nnkan tó dùn ni ní ọwọ́ ọ̀tún rẹ fún láéláé.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "iwọ fi … hàn mi"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ìyè"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pípẹ́"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "ìdùnnú"
+    },
+    {
+      "surface": "את",
+      "gloss": "pẹ̀lú ⟨את⟩",
+      "marks": "ojú rẹ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "nnkan tó dùn"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "ní ọwọ́ ọ̀tún rẹ"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "fún láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:43.677612921Z",
+  "model": "glm-5.3"
+}

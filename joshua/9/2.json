@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "wọ́n sì gbàra pọ̀ papọ̀ láti jagun pẹ̀lú Yehoshua àti pẹ̀lú Yisrael — ẹnu kan ṣoṣo.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "wọ́n gbàra pọ̀"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "papọ̀"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "láti jagun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "àti pẹ̀lú"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan ṣoṣo"
+    }
+  ],
+  "timestamp": "2026-08-23T00:26:30.138543840Z",
+  "model": "glm-5.3"
+}

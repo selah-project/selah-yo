@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Nítorí ta ni nínu àwọn sánmà tí ó lè fi ara rẹ wé Yahweh? Ta ni nínu àwọn ọmọ àwọn ọlọ́run tí ó lè jọ Yahweh?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "nínu àwọn sánmà"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "tí ó lè fi ara rẹ wé"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "tí ó lè jọ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "nínu àwọn ọmọ"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "àwọn ọlọ́run"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:08.716970253Z",
+  "model": "glm-5.3"
+}

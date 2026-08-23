@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Mo gbà àwọn iṣẹ́ mi lárugẹ, mo kọ́ ilé fúnra mi, mo gbìn àwọn ibi ẹ̀wẹ̀n fúnra mi.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "Mo gbà lárugẹ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "àwọn iṣẹ́ mi"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "mo kọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fúnra mi"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "mo gbìn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fúnra mi"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "àwọn ibi ẹ̀wẹ̀n"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:41.495074170Z",
+  "model": "glm-5.3"
+}

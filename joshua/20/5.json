@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 20:5",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àti pé tí olùgbàlà-ẹjẹ bá lé e lẹ́yìn, wọn kì í gbé e sọ́lé ní ìka ọwọ́ rẹ̀, nítorí tí ó lu ⟨את⟩ ọ̀rẹ́ rẹ̀ láìmọ̀, kò sì kọ́ ọ́ rárá láti àná-àná ẹ̀yin-ẹ̀yin.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "àti pé tí"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "lé e lẹ́yìn"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "olùgbàlà-ẹjẹ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ẹjẹ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "lẹ́yìn rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "gbé e sọ́lé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀run-pa-ènìyàn"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ọ̀run-pa-ènìyàn"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ní ìka ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "láì"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ímọ̀"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rẹ́ rẹ̀"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ọ̀rẹ́ rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "kọ́ ọ́ rárá"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "láti àná-àná"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ẹ̀yin-ẹ̀yin"
+    }
+  ],
+  "timestamp": "2026-08-23T00:30:40.167508336Z",
+  "model": "glm-5.3"
+}

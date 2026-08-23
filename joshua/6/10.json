@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Yehoshua sì pa ⟨את⟩ ìjọ náà ní àṣẹ, wí pé, Ẹ kì í gbé, kí ẹ sì má ṣe jẹ́ kí ⟨את⟩ ohùn yín dúró; ọ̀rọ̀ kì í jáde nínú ẹnu yín, títí di ọjọ́ tí mo bá wí fún yín pé, Ẹ gbé — nígbà náà ni ẹ ó gbé.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọ náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pa ní àṣẹ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "ẹ gbé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti pé kì í"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "ẹ má ṣe jẹ́ kí ó dúró"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohùn yín"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "ohùn yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti pé kì í"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ó ní jáde"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "nínú ẹnu yín"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "tí mo bá wí"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ẹ gbé"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "nígbà náà ni ẹ ó gbé"
+    }
+  ],
+  "timestamp": "2026-08-23T00:24:08.724682435Z",
+  "model": "glm-5.3"
+}

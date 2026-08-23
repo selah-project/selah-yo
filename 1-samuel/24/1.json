@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "David sì sọ̀kan sókè láti ibẹ̀, ó sì gbé sílẹ̀ ní àwọn agbára-fúnnú ti Ein Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "sì sọ̀kan sókè"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "láti ibẹ̀"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ó sì gbé sílẹ̀"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "ní àwọn agbára-fúnnú"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:53:25.511863929Z",
+  "model": "glm-5.3"
+}

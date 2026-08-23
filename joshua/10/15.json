@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Yehoshua sì padà sí ẹnu ìpamọ́, pẹ̀lú gbogbo Yisrael, sí Gilgala.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "sì padà sí"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ẹnu ìpamọ́"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgala"
+    }
+  ],
+  "timestamp": "2026-08-23T00:25:30.818149254Z",
+  "model": "glm-5.3"
+}

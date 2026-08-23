@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 77,
+  "translation": "Ìwọ ni ⟨את⟩ El, ẹni tí ó ń ṣe ìyanu; ìwọ ti fi agbára rẹ hàn án láàárín àwọn orílẹ̀-èdè.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ìwọ"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ẹni tí ó ń ṣe"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ìyanu"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "ìwọ ti fi ... hàn án"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "láàárín àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "agbára rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:08.200612604Z",
+  "model": "glm-5.3"
+}

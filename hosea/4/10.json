@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Wọ́n óó jẹ, ṣùgbọ́n wọn kì yóò kún; wọ́n ṣe àgbèrè, ṣùgbọ́n wọn kì yóò pọ̀ jù; nítorí wọ́ ti fi ⟨את⟩ Yahweh sílẹ̀ láti pa ìmọ́ra mọ́.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "wọ́n óó jẹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n wọn kì yóò"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kún (yóò yé)"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "wọ́n ṣe àgbèrè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n wọn kì yóò"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "pọ̀ jù"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "wọ́ ti fi sílẹ̀"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "láti pa ìmọ́ra mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T02:59:51.223973255Z",
+  "model": "glm-5.3"
+}

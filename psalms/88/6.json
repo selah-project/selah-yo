@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Láàárín àwọn òkú ni a kọ̀ mí sílẹ̀ gẹ́gẹ́ bí ẹni tí a pa, tí ó sú lórí ìsìnkú, tí ìwọ kò rántí wọ́n mọ́; wọ́n sì jẹ́ wíwí kúrò lọ́wọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "láàárín àwọn òkú"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "a kọ̀ mí sílẹ̀"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ẹni tí a pa"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "tí ó sú lórí"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ìsìnkú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "ìwọ rántí wọ́n"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "wọ́n sì"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "kúrò lọ́wọ́ rẹ"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "jẹ́ wíwí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:46.436530572Z",
+  "model": "glm-5.3"
+}

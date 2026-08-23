@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Shen ìkan ⟨ni⟩ àpáta tí ó gà soaring ní àríwá, níwájú Mikmash, àti ìkejì ní gúúsù, níwájú Geba.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "Shen ìkan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ìkan"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "àpáta"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ní àríwá"
+    },
+    {
+      "surface": "מול",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmash"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "àti ìkejì"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "ní gúúsù"
+    },
+    {
+      "surface": "מול",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    }
+  ],
+  "timestamp": "2026-08-23T00:47:39.600389647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Èmi fúnra mi ni yóò jagun pẹ̀lú ⟨את⟩ yín pẹ̀lú ọwọ́ tí a té sókè, àti pẹ̀lú ẹ̀gbá lágbára, àti ní bínú, àti ní ìbínú, àti ní ìjínú tó tóbọ́.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "èmi ni yóò jagun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi fúnra mi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "pẹ̀lú yín (àwọn tí ń gbọ́)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pẹ̀lú ọwọ́"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "tí a té sókè"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "àti pẹ̀lú ẹ̀gbá"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "lágbára"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "àti ní bínú"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "àti ní ìbínú"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "àti ní ìjínú"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tó tóbọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T02:17:03.589192662Z",
+  "model": "glm-5.3"
+}

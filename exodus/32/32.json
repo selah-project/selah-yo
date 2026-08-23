@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Àti nísisìyí, bí O ṣe gbà ẹ̀ṣẹ̀ wọn — bí kò ṣe bẹ́ẹ̀, ṣè ìmbó, jọ̀wọ́ pa mí kúrò nínú ìwé rẹ̀ tí O ti kọ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "àti nísisìyí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "O ṣe gbà"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ẹ̀ṣẹ̀ wọn"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "bí kò ṣe bẹ́ẹ̀"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò ṣe bẹ́ẹ̀"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "pa mí kúrò"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ṣè ìmbó, jọ̀wọ́"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "nínú ìwé rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "O ti kọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:02.033299260Z",
+  "model": "glm-5.3"
+}

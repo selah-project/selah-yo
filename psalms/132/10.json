@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 132,
+  "translation": "Nítorí Dafidi, ìránṣẹ́ rẹ, má ṣe yọrípadà ojú Mashiach rẹ.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "yọrípadà"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiach rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:22.685046235Z",
+  "model": "glm-5.3"
+}

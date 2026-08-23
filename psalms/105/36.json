@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ó lu gbogbo akọbí ní ilẹ̀ wọn, ìṣáájú gbogbo agbára wọn.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ó lu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "akọbí"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "ní ilẹ̀ wọn"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ìṣáájú"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "agbára wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:58.017421095Z",
+  "model": "glm-5.3"
+}

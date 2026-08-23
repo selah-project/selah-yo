@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Kí o má ṣe fipamọ́ yọ ọ̀rọ̀ òótọ́ kúrò ní ẹnu mi rárá; nítorí tí mo retí ìdájọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kí o má ṣe"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "yọ ... kúrò ní ẹnu mi"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "kúrò ní ẹnu mi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "òótọ́"
+    },
+    {
+      "surface": "עד",
+      "gloss": "rárá"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rárá (púpọ̀)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "ìdájọ́ rẹ"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "mo retí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:31.677516909Z",
+  "model": "glm-5.3"
+}

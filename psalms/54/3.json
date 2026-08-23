@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 54,
+  "translation": "Elohim, nípa orúkọ rẹ gbà mí, àti nípa agbára rẹ ṣe ìdájọ́ fún mi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nípa orúkọ rẹ"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "gbà mí"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "àti nípa agbára rẹ"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "ṣe ìdájọ́ fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:59.553978376Z",
+  "model": "glm-5.3"
+}

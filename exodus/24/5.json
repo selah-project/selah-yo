@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ó sì rán ⟨את⟩ àwọn ọmọkùnrin tí ó jẹ́ ọmọ Yisrael, wọ́n sì gbé ẹbùn-ìsọ́-èémí lọ́run, wọ́n sì pa ẹran-ẹbùn àlàáfíà fún Yahweh, àwọn malù.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ó sì rán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọkùnrin"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "àwọn ọmọkùnrin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "wọ́n sì gbé lọ́run"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ẹbùn-ìsọ́-èémí"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "wọ́n sì pa ẹran-ẹbùn"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ẹran-ẹbùn"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "àwọn malù"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:30.872938142Z",
+  "model": "glm-5.3"
+}

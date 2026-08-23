@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Tí mo bá ti san búburú fún ẹni tí ó bá mi lálàáfíà, àti tí mo bá ti gbà ọ̀tá mi jáde láìní-ìdí —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí mo bá"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "mo ti san"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "ẹni tí ó bá mi lálàáfíà"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "àti tí mo ti gbà jáde"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ọ̀tá mi"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "láìní-ìdí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:56.851424133Z",
+  "model": "glm-5.3"
+}

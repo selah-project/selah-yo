@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Bẹ́ẹ̀ni, èépo ni wọn pọ̀ síi — iṣẹ́ rẹ, Yahweh! Gbogbo wọn ní ọgbọ́n ni O ṣe; ayé kún fún ẹ̀dá rẹ.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bẹ́ẹ̀ni, èépo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ni wọn pọ̀ síi"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "iṣẹ́ rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "gbogbo wọn"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ní ọgbọ́n"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ni O ṣe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "kún"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "ẹ̀dá rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:49.023410385Z",
+  "model": "glm-5.3"
+}

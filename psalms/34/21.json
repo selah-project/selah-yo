@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ó ń ṣọ́ gbogbo egungun rẹ̀; ẹyọkan nínú wọn kò ṣẹ́.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Ó ń ṣọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "egungun rẹ̀"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ẹyọkan"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "nínú wọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ṣẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:10.064932047Z",
+  "model": "glm-5.3"
+}

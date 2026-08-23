@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 36:34",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Ó sì fi wúrà bọ ⟨את⟩ àwọn ìgbẹ́igi, ó sì ṣe ⟨את⟩ àwọn ìrókè wọn ní wúrà, ilé ni wọ́n jẹ́ fún àwọn ọ̀pá̀ rẹ̀, ó sì bọ ⟨את⟩ àwọn ọ̀pá̀ náà ní wúrà.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sì ⟨את⟩",
+      "marks": "àwọn ìgbẹ́igi"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "àwọn ìgbẹ́igi"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "fi wúrà bọ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sì ⟨את⟩",
+      "marks": "àwọn ìrókè wọn"
+    },
+    {
+      "surface": "טבעתם",
+      "gloss": "àwọn ìrókè wọn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ilé ni wọ́n jẹ́"
+    },
+    {
+      "surface": "לבריחם",
+      "gloss": "fún àwọn ọ̀pá̀ rẹ̀"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ó sì bọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀pá̀ náà"
+    },
+    {
+      "surface": "הבריחם",
+      "gloss": "àwọn ọ̀pá̀ náà"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:21.726553539Z",
+  "model": "glm-5.3"
+}

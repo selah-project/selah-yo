@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Avshalom sì àti gbogbo àwọn ènìyàn, àwọn ọkùnrin Yisrael, dé Yerushalayim, Achitofel sì ⟨את⟩-wàín pẹ̀lú rẹ̀",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Avshalom sì"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "Achitofel sì"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-wàín pẹ̀lú rẹ̀",
+      "marks": "wàín pẹ̀lú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:04:09.374513285Z",
+  "model": "glm-5.3"
+}

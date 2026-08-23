@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Elohim, pẹ̀lú etí wa gbọ́ wa; àwọn baba wa sọ̀rọ̀ fún wa nípa iṣẹ́ tí ó ṣe ní ọjọ́ wọn, ní ọjọ́ ìgbà àtijọ́.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "pẹ̀lú etí wa"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "gbọ́ wa"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "àwọn baba wa"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "sọ̀rọ̀"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "tí ó ṣe"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "ní ọjọ́ wọn"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ìgbà àtijọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:16.412016167Z",
+  "model": "glm-5.3"
+}

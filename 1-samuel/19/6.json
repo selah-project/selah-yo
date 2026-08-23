@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Shaul sì gbọ́ ohùn Yonatan, Shaul sì búra pé, 'Bí Yahweh ṣe ṣe àyè, kì í ṣe kí ó kú.'",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "gbọ́ sì"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "búra sì"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "bí ... ṣe ṣe àyè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kì í ṣe kí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ó kú"
+    }
+  ],
+  "timestamp": "2026-08-23T00:50:34.848279683Z",
+  "model": "glm-5.3"
+}

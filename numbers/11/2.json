@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Àwọn ènìyàn sì kigbe sí Moshe, Moshe sì gbàdùrà sí Yahweh, iná náà sì dákú.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "sì kigbe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Àwọn ènìyàn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "sì gbàdùrà"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "sì dákú"
+    },
+    {
+      "surface": "האש",
+      "gloss": "iná náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:44:20.255407408Z",
+  "model": "glm-5.3"
+}

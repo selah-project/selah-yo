@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 141,
+  "translation": "Ẹ gbé ẹ̀ṣọ́ sí ẹnu mi, Yahweh; dáàbọ bò ilẹ̀kùn èté mi.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "ẹ gbé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "ẹ̀ṣọ́"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sí ẹnu mi"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "dáàbọ bò"
+    },
+    {
+      "surface": "על",
+      "gloss": "lóri"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ilẹ̀kùn"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "èté mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:11.911682202Z",
+  "model": "glm-5.3"
+}

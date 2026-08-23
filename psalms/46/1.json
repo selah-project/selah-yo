@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Fún Olùdarí, fún àwọn ọmọ Korach, lórí Alamot — orin kan.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún Olùdarí"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin kan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:30.414156432Z",
+  "model": "glm-5.3"
+}

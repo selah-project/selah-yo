@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Ìṣúnù ni yóò kó wọn; yóò sì sọ wọn sí Sheol láìkú; nítorí bíburu wà nínú ilé ìdílé wọn, ní àárín wọn.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "ìṣúnù"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "kó wọn"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "yóò sì sọ wọn sí"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "láìkú"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "bíburu"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "nínú ilé ìdílé wọn"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "ní àárín wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:13.947188288Z",
+  "model": "glm-5.3"
+}

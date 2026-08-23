@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Àwọn ọmọkùnrin mẹ́wàá tí wọ́n ń ru ohun ìjà Yọabu sì yí i ká, wọ́n sì lu ⟨את⟩ Avshalomu, wọ́n sì pa á.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "sì yí i ká"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "àwọn ọmọkùnrin"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "tí wọ́n ń ru"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ohun ìjà"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yọabu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wọ́n sì lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalomu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomu"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "wọ́n sì pa á"
+    }
+  ],
+  "timestamp": "2026-08-23T01:06:25.275898866Z",
+  "model": "glm-5.3"
+}

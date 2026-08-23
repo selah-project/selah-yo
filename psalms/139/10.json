@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "níbẹ̀ gan-an ni ọwọ́ Rẹ yóò ṣe àtọ́na fún mi, àti ọwọ́ ọ̀tún Rẹ yóò mú mí lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gan-an"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ Rẹ"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "yóò ṣe àtọ́na fún mi"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "yóò sì mú mí lọ́wọ́"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ọwọ́ ọ̀tún Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:52.590575297Z",
+  "model": "glm-5.3"
+}

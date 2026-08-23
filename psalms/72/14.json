@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Láti inú ìpanilára àti ọ̀daràn ni ó máa ra wọn padà; ẹjọ wọn dúrà púpọ̀ nínú ojú rẹ̀",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "láti inú"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "àti ọ̀daràn"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ni ó máa ra wọn padà"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "⟨wọn⟩"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "dúrà púpọ̀"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ẹjọ wọn"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "nínú ojú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:04.111404899Z",
+  "model": "glm-5.3"
+}

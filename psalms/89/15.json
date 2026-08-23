@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Ọ̀títọ́ àti ìdájọ́ ni ìpilẹ̀ ìtẹ́ rẹ; chesed àti òtítọ́ ń ṣiṣẹ́ ṣáwájú ojú rẹ.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Ọ̀títọ́"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "àti ìdájọ́"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ìpilẹ̀"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ìtẹ́ rẹ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "àti òtítọ́"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "ń ṣiṣẹ́ ṣáwájú"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:50.595620830Z",
+  "model": "glm-5.3"
+}

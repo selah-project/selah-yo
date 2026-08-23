@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ní ọjọ́ ogún-àti-mẹ́rin, oṣù ìkẹfà, ní ọdún èjì Daryavesh ọba náà.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "àti mẹ́rin"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "oṣù"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "ìkẹfà"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ní ọdún"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "èjì"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "Daryavesh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:15:30.934701570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ó sì ṣẹlẹ̀ fún un bẹ́ẹ̀: àwọn ènìyàn fọ́ ⟨את⟩ ọ́ pamí nínú ọ̀nà àgbà, ó sì kú.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "wọ́n sì fọ́… pamí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "fún un"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "nínú ọ̀nà àgbà"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ó sì kú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:30:03.242618603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Nítorí Yahweh ti ṣe ìsọjúsílẹ̀ láti gíga ààyọ̀ rẹ̀, láti ọ̀run sí ilẹ̀ ayé ó ti wo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ṣe ìsọjúsílẹ̀"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "láti gíga"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ààyọ̀ rẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "láti ọ̀run"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ó ti wo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:46.857499793Z",
+  "model": "glm-5.3"
+}

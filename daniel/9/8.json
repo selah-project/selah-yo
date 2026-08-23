@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Yahweh, tiwa ni ìtirí ojú, fún àwọn ọba wa, fún àwọn olórí wa àti fún àwọn baba wa, tí a ti ṣẹ̀ sí Ọ̀.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tiwa ni"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ìtirí ojú"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "fún àwọn ọba wa"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "fún àwọn olórí wa"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "àti fún àwọn baba wa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí a ti"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "ṣẹ̀"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sí Ọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:53:00.388734011Z",
+  "model": "glm-5.3"
+}

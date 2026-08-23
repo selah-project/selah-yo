@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Nígbà náà ni mo bá wọn tí wọ́n gbé lọ ní ìgbìmọ̀ sọ̀rọ̀, mo sò fi hàn mi.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "mo bá…sọ̀rọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nípa sí"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "wọn tí wọ́n gbé lọ ní ìgbìmọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọ̀rọ̀ Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ò fi hàn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T02:36:23.993240705Z",
+  "model": "glm-5.3"
+}

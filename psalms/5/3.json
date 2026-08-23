@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Dájúdájú, gbọ́ ohùn ìkìlọ̀ mí, ọba mi àti Elohim mi; nítorí ní ọ̀dọ̀ rẹ ni èmi yóò gbàdùn.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "gbọ́ ohùn ìkìlọ̀ mí"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ohùn ìkìlọ̀ mí"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "ìkìlọ̀ mí"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ọba mi"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "àti Elohim mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ní ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "ni èmi yóò gbàdùn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:43.492142528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Mo fi aṣọ sákè ṣe aṣọ mi, mo sì di àkànlọ́ fún wọn.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "mo fi … ṣe"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "aṣọ mi"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sákè"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "mo sì di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "àkànlọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:39.501874208Z",
+  "model": "glm-5.3"
+}

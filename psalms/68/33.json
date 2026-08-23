@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Àwọn ìjọba ilẹ̀ yìí, ẹ kọ orin fún Elohim, ẹ kọ ìyìn fún Adonai — Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "àwọn ìjọba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ẹ kọ orin"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "fún Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ẹ kọ ìyìn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:34.185313202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 142,
+  "translation": "Mo ṣàṣèdá ohùn-ọkàn mi síwájú rẹ̀; ìpọnjú mi síwájú rẹ̀, mo sọ ọ́ jáde.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "Mo ṣàṣèdá"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "síwájú rẹ̀"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "ohùn-ọkàn mi"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ìpọnjú mi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "síwájú rẹ̀"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "mo sọ ọ́ jáde"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:07.239272917Z",
+  "model": "glm-5.3"
+}

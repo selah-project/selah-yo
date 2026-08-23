@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Asa ọba sì gba gbogbo Yehuda, wọ́n sì gbé ⟨את⟩ àwọn òkúta Rama lọ, àti ⟨את⟩ igi rẹ̀, tí Baasha fi kọ́; ó sì fi kọ́ ⟨את⟩ Géba àti ⟨את⟩ haMitspa pẹ̀lú wọn.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Asa sì"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "wọ́n sì gbé lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òkúta Rama"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "àwọn òkúta"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "igi rẹ̀"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "igi rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "fi kọ́"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ó sì fi kọ́"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pẹ̀lú wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Géba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Géba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "haMitspa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "haMitspa"
+    }
+  ],
+  "timestamp": "2026-08-23T05:29:02.693191005Z",
+  "model": "glm-5.3"
+}

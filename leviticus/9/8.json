@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Aharon sì sún mọ́ pẹpẹ náà, ó sì pa ⟨את⟩ mumú ẹṣẹ̀ tí í ṣe ti ara rẹ.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "sì sún mọ́"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": " sí"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ náà"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "ó sì pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mumú ẹṣẹ̀"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "mumú"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ẹṣẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí í ṣe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ti ara rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:57.523528264Z",
+  "model": "glm-5.3"
+}

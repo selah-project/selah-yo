@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 9:4",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ìwọ sì, tí o bá rìn síwájú mi, gẹ́gẹ́ bí David baba rẹ ti rìn, ní òtítọ́ ọkàn àti ní òdodo, láti ṣe bí gbogbo nǹkan tí mo pàṣẹ fún ọ, tí o sì pa àwọn òfin mi àti àwọn òdọ́dọ́ mi mọ́.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ìwọ sì"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí o bá"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "rìn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ti rìn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba rẹ"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "ní òtítọ́"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "ובישר",
+      "gloss": "àti ní òdodo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bí gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nǹkan tí"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "mo pàṣẹ fún ọ"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "àwọn òfin mi"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "àti àwọn òdọ́dọ́ mi"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "o pa mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:16:24.762045889Z",
+  "model": "glm-5.3"
+}

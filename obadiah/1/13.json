@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "obadiah 1:13",
+  "book": "obadiah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Má ṣe wọ inú ọ̀nà ìṣẹ́ju ti ènìyàn mi ní ọjọ́ ìṣẹ̀lẹ̀ wọn; má ṣe rí i, ìwọ pẹ̀lú, ní ìbàjẹ́ wọn ní ọjọ́ ìṣẹ̀lẹ̀ wọn; kí ẹ má sì fi ọwọ́ sí gbogbo ogun wọn ní ọjọ́ ìṣẹ̀lẹ̀ wọn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wọ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "inú ọ̀nà ìṣẹ́ju"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ti ènìyàn mi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "ìṣẹ̀lẹ̀ wọn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "rí i"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "ní ìbàjẹ́ wọn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "ìṣẹ̀lẹ̀ wọn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí ẹ má sì"
+    },
+    {
+      "surface": "תשלחנה",
+      "gloss": "fi ọwọ́ sí"
+    },
+    {
+      "surface": "בחילו",
+      "gloss": "gbogbo ogun wọn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "ìṣẹ̀lẹ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:08:22.296866074Z",
+  "model": "glm-5.3"
+}

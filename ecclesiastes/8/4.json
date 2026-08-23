@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Níbi tí ọ̀rọ̀ ọba wà, agbára ìjọba ni; ẹnì kan lè sọ fún un pé, Èé ṣe ni?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "níbi tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "agbára ìjọba"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "tàí"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "lè sọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "מה",
+      "gloss": "èé ṣe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:51.252959438Z",
+  "model": "glm-5.3"
+}

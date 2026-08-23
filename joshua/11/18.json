@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Yehoshua ṣe ⟨את⟩ gbogbo àwọn ọba wọnyí ogun fún ọjọ́ pípẹ́.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pípẹ́"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ọba wọnyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ogun"
+    }
+  ],
+  "timestamp": "2026-08-23T00:27:30.231039332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Èmi óó ṣe ìdíẹ̀sí pẹ̀lú ibínú àti pẹ̀lú bínú tí ó burú sí ⟨את⟩ àwọn orílẹ̀-èdè, tí wọn kò gbọ́ràn.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "èmi óó ṣe"
+    },
+    {
+      "surface": "באף",
+      "gloss": "pẹ̀lú ibínú"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "àti pẹ̀lú bínú tí ó burú"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ìdíẹ̀sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wọn … gbọ́ràn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:09:19.294339580Z",
+  "model": "glm-5.3"
+}

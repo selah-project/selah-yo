@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Moshe sì sọ̀rọ̀ nípa ⟨את⟩ àwọn àpapọ̀-ìpàdé Yahweh sí àwọn ọmọ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sì sọ̀rọ̀ nípa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àpapọ̀-ìpàdé Yahweh"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "àwọn àpapọ̀-ìpàdé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:15.909535880Z",
+  "model": "glm-5.3"
+}

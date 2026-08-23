@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Yahweh sì bùkún ⟨את⟩ ìparí ìgbéyàwó ti Iyob ju ìbẹ̀rẹ̀ rẹ̀ lọ; ó sì ní ẹ̀wá-èrún àlẹ́fà mẹ́rìnláàdíndínlógún àgùntàn, àti álàfàà-mẹfa kámélù, àti álàfàà ẹ̀yà abọ́ málùù, àti álàfàà kétèké-ẹlẹ́dẹ̀-abọ́.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh sì"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bùkún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìparí ìgbéyàwó ti Iyob"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ìparí ìgbéyàwó"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ti Iyob"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "ju ìbẹ̀rẹ̀ rẹ̀ lọ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ní"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "mẹ́rin"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "èrún (mẹ́rìnlá)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "àlẹ́fà"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "àgùntàn"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "àti mẹ́fà"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "álàfàà"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "kámélù"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "àti álàfàà"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "ẹ̀yà abọ́ málùù"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "málùù"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "àti álàfàà"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "kétèké-ẹlẹ́dẹ̀-abọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:33:19.366928177Z",
+  "model": "glm-5.3"
+}

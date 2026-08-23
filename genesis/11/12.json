@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Arpakhshad sì wà láàyè ní ọdún márùndínlógójì, ó sì bí ⟨את⟩ Shelach.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpakhshad sì"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wà láàyè"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "márùn"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dínlógójì"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "sì bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:13.853033101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ọba sì yọ ⟨את⟩ màjẹ̀mù-ìka rẹ̀ tí ó ti gba lọ́dọ̀ Haman, ó sì fún Mordekai ní i; Ester sì fi ⟨את⟩ Mordekai jókòó lórí ilé Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "sì yọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "màjẹ̀mù-ìka rẹ̀"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "màjẹ̀mù-ìka rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ti gba lọ́dọ̀"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "sì fún…ní i"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "fún Mordekai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "sì fi…jókòó"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    }
+  ],
+  "timestamp": "2026-08-23T04:47:09.512449739Z",
+  "model": "glm-5.3"
+}

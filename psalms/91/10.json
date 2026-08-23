@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Ìwọ̀ kì í ṣe ẹ̀wùn yóò kàn sí ọ, àti ìkọlù kì í ṣe ó máa sún mọ́ àgọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "yóò kàn sí"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ẹ̀wùn"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "àti ìkọlù"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ó máa sún mọ́"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "àgọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:11.491162986Z",
+  "model": "glm-5.3"
+}

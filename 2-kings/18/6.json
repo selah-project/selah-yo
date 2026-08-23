@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 18:6",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó yọkan sí Yahweh, kò yẹra kúrò lẹ́yìn rẹ̀, ó sì ṣọ́ àwọn àṣẹ rẹ̀, èyí tí Yahweh pàṣẹ lé ⟨את⟩ Moshe lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "וידבק",
+      "gloss": "Ó yọkan sí"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "סר",
+      "gloss": "yẹra kúrò"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "lẹ́yìn rẹ̀"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ó sì ṣọ́"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "àwọn àṣẹ rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-23T01:33:52.211094600Z",
+  "model": "glm-5.3"
+}

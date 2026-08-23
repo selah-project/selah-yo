@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "A kò gbọdọ̀ sè é pẹ̀lú ìsú; ipa wọn ni mo ti fún wọn ⟨את⟩ rẹ̀ láti inú ẹbù iná mi; mímọ́ àwọn mímọ́ ni, gẹ́gẹ́ bí ẹbù ẹ̀ṣẹ̀ àti gẹ́gẹ́ bí ẹbù ìṣẹ̀.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a kò gbọdọ̀"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "sè é"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "pẹ̀lú ìsú"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ipa wọn"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mo ti fún wọn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "rẹ̀ (ipa yìí)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "láti inú ẹbù iná mi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "àwọn mímọ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "gẹ́gẹ́ bí ẹbù ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "àti gẹ́gẹ́ bí ẹbù ìṣẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:30.530431073Z",
+  "model": "glm-5.3"
+}

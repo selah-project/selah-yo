@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àwọn tí ó ń kó ogunlọ́gọ̀ sí ẹ̀gbẹ́ rẹ̀ ni ebí Yissaskar; ọmọ tí ó jẹ́ olórí fún àwọn ọmọ Yissaskar ni Netanél, ọmọ Tṣuar.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "àwọn tí ó ń kó ogunlọ́gọ̀"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sí ẹ̀gbẹ́ rẹ̀"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ebí"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ọmọ tí ó jẹ́ olórí"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanél"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tṣuar"
+    }
+  ],
+  "timestamp": "2026-08-22T23:48:57.319103222Z",
+  "model": "glm-5.3"
+}

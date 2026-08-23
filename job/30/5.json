@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Láàárín àwọn ènìyàn ni wọ́n ti kó wọn lẹ́nu, wọ́n ń kigbe lẹ́yìn wọn gẹ́gẹ́ bí a ti ń ṣe lẹ́yìn olè.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "גו",
+      "gloss": "àárín"
+    },
+    {
+      "surface": "יגרשו",
+      "gloss": "wọ́n kó wọn lẹ́nu"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "wọ́n ń kigbe"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "lẹ́yìn wọn"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "gẹ́gẹ́ bí olè"
+    }
+  ],
+  "timestamp": "2026-08-23T06:09:17.383189652Z",
+  "model": "glm-5.3"
+}

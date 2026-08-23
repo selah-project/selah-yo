@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ṣé lórí èyí ni ìwọ ṣe máa ṣí ojú rẹ, ìwọ sì máa mú mi wá sí ìdájọ́ pẹ̀lú rẹ?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ṣé"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "ìwọ ṣe máa ṣí"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ìwọ sì máa mú ⟨mi⟩ wá"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sí ìdájọ́"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pẹ̀lú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:53.519328862Z",
+  "model": "glm-5.3"
+}

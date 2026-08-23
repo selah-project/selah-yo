@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Wọ́n sì gbé ⟨את⟩ ọ̀ka wọn sórí àwọn kẹ́tẹ́kẹ́tẹ́ wọn, wọ́n sì lọ kúrò níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "wọ́n sì gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀ka wọn"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "ọ̀ka wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "sórí"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "àwọn kẹ́tẹ́kẹ́tẹ́ wọn"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wọ́n sì lọ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kúrò níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:11:31.477785883Z",
+  "model": "glm-5.3"
+}

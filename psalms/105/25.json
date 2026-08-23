@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "⟨O⟩ yí ọkàn wọn padà láti kórìíra iṣẹ́ rẹ̀, láti fi ẹ̀tàn ṣe àwọn ìránṣẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "yí … padà"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ọkàn wọn"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "láti kórìíra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "láti fi ẹ̀tàn ṣe"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:12.537429935Z",
+  "model": "glm-5.3"
+}

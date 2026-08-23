@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 1:50",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ṣùgbọ́n iwo, yan àwọn Levíìm ó dúró lórí Mishkan Ẹ̀rí̀, àti lórí gbogbo ohun-èlò rẹ̀, àti lórí gbogbo ohun tí ó ní: àwọn ni yóò gbé ⟨את⟩ Mishkan náà àti ⟨את⟩ gbogbo ohun-èlò rẹ̀, ìwọ̀n yóò sìn ín, ní àáyè tí ó yí i ká ni yóò gbe léte.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ṣùgbọ́n iwo"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "yan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Levíìm"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "àwọn Levíìm"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Ẹ̀rí̀"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ó ní"
+    },
+    {
+      "surface": "המה",
+      "gloss": "àwọn ni"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "yóò gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan náà"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ìwọ̀n"
+    },
+    {
+      "surface": "ישרתהו",
+      "gloss": "yóò sìn ín"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "ní àáyè tí ó yí i ká"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkan náà"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "yóò gbe léte"
+    }
+  ],
+  "timestamp": "2026-08-22T23:47:37.641897924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Ìbùkún fún Adonai, ọjọ́ lọ́ọ̀jọ́, Òun ń ru ẹrù wa fún wa; El ni Ìgbàlà wa. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ìbùkún fún"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "ń ru ẹrù wa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "Ìgbàlà wa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:01.627614874Z",
+  "model": "glm-5.3"
+}

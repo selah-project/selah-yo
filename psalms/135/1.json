@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Ẹyin ẹ gbé Yah níga, ẹ gbé ⟨את⟩ orúkọ Yahweh níga, ẹ gbé Yahweh níga, àwọn ìránṣẹ́ Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ẹ gbé…níga"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ẹ gbé…níga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ẹ gbé…níga"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:06.614612131Z",
+  "model": "glm-5.3"
+}

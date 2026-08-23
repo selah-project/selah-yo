@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Nítorí tí èmi ni Yahweh, Elohim rẹ, Ẹ̀mí Mímọ́ ti Yisraél, Olùgbàlà rẹ; mo fi Mísráìm ṣe ìràpadà fún ọ́, Kush àti Seva ní ipò rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Ẹ̀mí Mímọ́"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "Olùgbàlà rẹ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mo fi"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "ṣe ìràpadà fún ọ́"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mísráìm"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "àti Seva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ní ipò rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T05:54:51.876089002Z",
+  "model": "glm-5.3"
+}

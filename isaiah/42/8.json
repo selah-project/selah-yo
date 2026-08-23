@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ẹmi ni Yahweh, ìdí ni orúkọ mi; ọlá mi kì í ṣe ti ẹlòmíràn, èmi kì í fún ẹnìkejì; ìyìn mi kì í ṣe ti àwọn òrìṣà ìkọ̀kọ̀.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ẹmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ìdí ni"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "orúkọ mi"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ọlá mi"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "ti ẹlòmíràn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "èmi kì í fún"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ìyìn mi"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "àwọn òrìṣà ìkọ̀kọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:55:33.420445965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Ìgbàgbọ́ mi àti chesed mi yóò wà pẹ̀lú rẹ̀, àti nínú orúkọ mi ni kánnù rẹ̀ yóò gbé ga.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "Ìgbàgbọ́ mi"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "chesed mi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yóò wà pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "àti nínú orúkọ mi"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "yóò gbé ga"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "kánnù rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:40.879223841Z",
+  "model": "glm-5.3"
+}

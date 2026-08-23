@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Lẹ́ẹ̀kan ni mo ti búra pẹ̀lú mímọ́ mi: èmi kì yóò parọ́ fún David.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "lẹ́ẹ̀kan"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ni mo ti búra"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "pẹ̀lú mímọ́ mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ìbéèrè-ọ̀rọ̀⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "parọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:15.235580454Z",
+  "model": "glm-5.3"
+}

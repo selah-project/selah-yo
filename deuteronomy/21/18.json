@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Tí ọkùnrin kan bá ní ọmọ asẹ́mọ̀-ẹni àti ìtẹ̀sí-ìgbọ́ràn, tí kì í gbọ́ ohùn baba rẹ̀ àti ohùn ìyá rẹ̀, tí wọ́n bá tì ⟨את⟩ ọn lọ́nà tí kò sì gbọ́ wọn:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tí…bá"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bá ní"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ọkùnrin kan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "asẹ́mọ̀-ẹni"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "àti ìtẹ̀sí-ìgbọ́ràn"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "àti ohùn"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ìyá rẹ̀"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "wọ́n bá tì lọ́nà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ọn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:16:24.904715464Z",
+  "model": "glm-5.3"
+}

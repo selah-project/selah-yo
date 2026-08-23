@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ṣé ògórógóró rẹ̀ kì í bà yín ní ẹ̀rù, àti ẹ̀rù rẹ̀ kì í ṣubú lé yín lórí?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ṣé … kì í"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "ògórógóró rẹ̀"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "bà yín ní ẹ̀rù"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "àti ẹ̀rù rẹ̀"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ṣubú"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "lé yín lórí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:34.712618252Z",
+  "model": "glm-5.3"
+}

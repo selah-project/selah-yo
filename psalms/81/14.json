@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 81,
+  "translation": "Ká ba jẹ́ pé ìjọ Mi ń gbọ́ Tẹmi, Yisrael bá ti rìn nínú àwọn ọ̀nà Mi!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Ká ba jẹ́ pé"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ìjọ Mi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ń gbọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Tẹmi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "nínú àwọn ọ̀nà Mi"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "bá ti rìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:11.172351118Z",
+  "model": "glm-5.3"
+}

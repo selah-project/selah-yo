@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 136,
+  "translation": "Eni tí ó mú àwọn ènìyàn rẹ̀ kọjá ní ijọ́, nítorí chesed rẹ̀ dúró títí láé láé.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Eni tí ó mú … kọjá"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "àwọn ènìyàn rẹ̀"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní ijọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láé láé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:08.532491342Z",
+  "model": "glm-5.3"
+}

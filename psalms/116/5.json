@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Yahweh ⟨ṣe⟩ aláàánú tí ó ṣe olóòtítọ́, áti Elohim wa ⟨ṣe⟩ aláàánú-lọ́kàn.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "aláàánú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "áti tí ó ṣe olóòtítọ́"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "áti Elohim wa"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "aláàánú-lọ́kàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:58.777382805Z",
+  "model": "glm-5.3"
+}

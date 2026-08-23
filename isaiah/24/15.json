@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 24:15",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Nítorí náà ní àwọn ìmọ́lẹ̀ ẹ yọ Yahweh sókè; ní àwọn Èrùfu òkun ẹ sọ orúkọ Yahweh, Elohim ti Yisrael di mímọ́.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "náà"
+    },
+    {
+      "surface": "בארים",
+      "gloss": "ní àwọn ìmọ́lẹ̀"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "ẹ yọ sókè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באיי",
+      "gloss": "ní àwọn Èrùfu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "òkun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T01:49:29.035986909Z",
+  "model": "glm-5.3"
+}

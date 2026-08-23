@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ìwọ àti sì fi ⟨את⟩ rẹ̀ sí abẹ́ etí alájàpọ̀ ara pẹ̀lú àwọn pẹpẹ yìí, ní ìsàlẹ̀; àti jẹ́ pé àwọ̀ ìṣọ̀ náà yóó dé ìwọ̀n ìdajì ti pẹpẹ náà.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "àti sì fi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ rẹ̀",
+      "marks": "ràshẹ́ náà (etí alájàpọ̀)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sí abẹ́"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "etí alájàpọ̀ ara pẹpẹ yìí"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ náà"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "ní ìsàlẹ̀"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "àti jẹ́ pé"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "àwọ̀ ìṣọ̀ náà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yóó dé"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ìwọ̀n ìdajì"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti pẹpẹ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:30.363827152Z",
+  "model": "glm-5.3"
+}

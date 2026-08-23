@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Mo ń pè ní Yahweh, ẹni tí a ń yọ̀ sí; nítorí náà, wọ́n gbà mí là kúrò lọ́dọ̀ àwọn ọ̀tá mi.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "ẹni tí a ń yọ̀ sí"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mo ń pè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "àti láti"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "wọ́n gbà mí là"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:33.235266027Z",
+  "model": "glm-5.3"
+}

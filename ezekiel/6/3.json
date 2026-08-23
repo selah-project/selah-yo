@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 6:3",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Kí o sì wí pé: Àwọn òkè Yisrael, gbọ́ òrọ̀ Adonai Yahweh; bíi báyìí ni Adonai Yahweh ti wí fún àwọn òkè àti fún àwọn òkè kéékèèké, fún àwọn odò ìsálẹ̀ ilẹ̀ àti fún àwọn ìdíhùn-ilẹ̀: Kiye i, èmi yóò mú ìdà wá lé yín lọ́run, èmi sì yóò pa àwọn ipò mímọ́ yín run.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "kí o sì wí pé"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "òrọ̀"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bíi báyìí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להרים",
+      "gloss": "fún àwọn òkè"
+    },
+    {
+      "surface": "ולגבעות",
+      "gloss": "àti fún àwọn òkè kéékèèké"
+    },
+    {
+      "surface": "לאפיקים",
+      "gloss": "fún àwọn odò ìsálẹ̀ ilẹ̀"
+    },
+    {
+      "surface": "ולגאית",
+      "gloss": "àti fún àwọn ìdíhùn-ilẹ̀"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Kìye i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "yóò mú...wá"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "lé yín lọ́run"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ìdà"
+    },
+    {
+      "surface": "ואבדתי",
+      "gloss": "èmi sì yóò pa...run"
+    },
+    {
+      "surface": "במותיכם",
+      "gloss": "àwọn ipò mímọ́ yín"
+    }
+  ],
+  "timestamp": "2026-08-23T02:35:17.942806154Z",
+  "model": "glm-5.3"
+}

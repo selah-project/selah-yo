@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sọ pé: “Sí ọ̀la.” Ó sì sọ pé: “Gẹ́gẹ́ bí ọ̀rọ̀ rẹ ti wí, láti jẹ́ kí o mọ̀ pé kò sí ⟨ẹni tí ó dọ́gba⟩ bíi Yahweh, Elohim wa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "sí ọ̀la"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì sọ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "gẹ́gẹ́ bí ọ̀rọ̀ rẹ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "láti jẹ́ kí"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "o mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí ⟨ẹni tí ó dọ́gba⟩"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "bíi Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:57.016811014Z",
+  "model": "glm-5.3"
+}

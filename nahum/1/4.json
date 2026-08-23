@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó ń bu ẹnu tì oúnú odò naa, ó sì fi hàn gbẹ; gbogbo àwọn odò náà sì gbẹ gan-an; Bashan ń wọ́, Karmel sì ń wọ́, èso Lebanoni sì ń wọ́.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "Ó ń bu ẹnu tì oúnú"
+    },
+    {
+      "surface": "בים",
+      "gloss": "odò naa"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "ó sì fi hàn gbẹ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "àwọn odò náà"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "ó sì gbẹ gan-an"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ń wọ́"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "Karmel sì"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "èso"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanoni"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ń wọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:12:54.643280156Z",
+  "model": "glm-5.3"
+}

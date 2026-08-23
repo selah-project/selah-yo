@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 8:7",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àti láti àwọn ọmọ Elam, Jeshajah ọmọ Atalyah, àti pẹ̀lú rẹ̀ ọgọ́rin àwọn ọkùnrin.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "Àti láti àwọn ọmọ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Jeshajah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalyah"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "àti pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ọgọ́rin"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "àwọn ọkùnrin"
+    }
+  ],
+  "timestamp": "2026-08-23T04:59:10.693684889Z",
+  "model": "glm-5.3"
+}

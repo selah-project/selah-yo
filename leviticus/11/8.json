@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Láti ẹran wọn ẹ kò gbọdọ̀ jẹ, àti nípa ìsọ́-òkú wọn ẹ kò gbọdọ̀ fi ọwọ́ kàn; wọ́n jẹ́ àìmọ́ fún yín.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "láti ẹran wọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ẹ kò gbọdọ̀"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jẹ"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "àti nípa ìsọ́-òkú wọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ẹ kò gbọdọ̀"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "fi ọwọ́ kàn"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "wọ́n jẹ́ àìmọ́"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:48.992018671Z",
+  "model": "glm-5.3"
+}

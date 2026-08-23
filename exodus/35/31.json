@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Ó ti kún ⟨אתו⟩ un ní ẹ̀mí Elohim — ní ọgbọ́n, ní ìyélọ́ràn, àti ní ìmọ̀, àti ní gbogbo iṣẹ́-ọnà.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ti kún"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalel"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ní ọgbọ́n"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ní ìyélọ́ràn"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "àti ní ìmọ̀"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "àti ní gbogbo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iṣẹ́-ọnà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:38.471557870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 5:8",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Nígbà yẹn ni gbogbo àwọn ọlọgbọ́n ọba wọ̀ wá, ṣùgbọ́n wọn kò lè ka ìwé náà, wọn kò sì lè fi ìtumọ̀ rẹ̀ hàn fún ọba.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "nígbà yẹn"
+    },
+    {
+      "surface": "עללין",
+      "gloss": "wọ̀ wá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "àwọn ọlọgbọ́n"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n wọn kò"
+    },
+    {
+      "surface": "כהלין",
+      "gloss": "lè"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ìwé náà"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "ìtumọ̀ rẹ̀"
+    },
+    {
+      "surface": "להודעה",
+      "gloss": "fi hàn"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "fún ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T04:51:50.009906188Z",
+  "model": "glm-5.3"
+}

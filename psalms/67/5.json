@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 67,
+  "translation": "Ki wọ́n dúnilẹ̀, ki wọ́n kọrin ayọ̀, àwọn orílẹ̀-èdè; nítorí tí ìwọ ń dá àwọn ènìyàn lẹ́bọ̀ ní òdodo, àti pé ní àwọn orílẹ̀-èdè lórí ayé ni ìwọ ń ṣe àtọ́na wọn. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ki wọ́n dúnilẹ̀"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "ki wọ́n kọrin ayọ̀"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "ìwọ ń dá lẹ́bọ̀"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ní òdodo"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "àti pé ní àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lórí ayé"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "ìwọ ń ṣe àtọ́na wọn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:07.718373656Z",
+  "model": "glm-5.3"
+}

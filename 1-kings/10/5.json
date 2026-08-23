@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 10:5",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "àti oúnjẹ tábìlì rẹ̀, àti ìjókòo àwọn ìránṣẹ́ rẹ̀, àti ipò-dúró àwọn olùṣè rẹ̀ àti aṣọ wọn, àti ohun-mímí rẹ̀, àti ẹ̀bà-ọ̀tún rẹ̀ tí ó ń fi gú sókè ní ilé Yahweh — kì í ṣe pé ẹ̀mí tí ó kú wà ní inú rẹ̀ sí",
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "àti oúnjẹ"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "tábìlì rẹ̀"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "àti ìjókòo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "àti ipò-dúró"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "àwọn olùṣè rẹ̀"
+    },
+    {
+      "surface": "ומלבשיהם",
+      "gloss": "àti aṣọ wọn"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "àti ohun-mímí rẹ̀"
+    },
+    {
+      "surface": "ועלתו",
+      "gloss": "àti ẹ̀bà-ọ̀tún rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ó ń fi gú sókè"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í ṣe pé"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ní inú rẹ̀"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sí"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:16:16.596232056Z",
+  "model": "glm-5.3"
+}

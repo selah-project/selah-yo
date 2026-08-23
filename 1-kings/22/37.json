@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ọba náà sì kú, wọ́n sì wá sí Shomeron, wọ́n sì sìn ⟨את⟩ ọba náà ní Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ó sì kú"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "wọ́n sì wá sí"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "wọ́n sì sìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọba náà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ní Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-23T01:25:13.105333044Z",
+  "model": "glm-5.3"
+}

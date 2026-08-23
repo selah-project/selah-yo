@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Má ṣe jẹ́ kí wọ́n fi mi lé àwọn ọ̀tá mi lọ́wọ́ nípa èmí-ìfẹ́ wọn; nítorí tí àwọn ẹlẹ́rí òdọ̀ ti dìde lọ́dọ̀ mi, ẹni tí ó ń fẹ́ ìwọ̀ ipá jáde.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "jẹ́ kí wọ́n fi mi lé… lọ́wọ́"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nípa èmí-ìfẹ́"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ti dìde"
+    },
+    {
+      "surface": "בי",
+      "gloss": "lọ́dọ̀ mi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "àwọn ẹlẹ́rí"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "òdọ̀"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ẹni tí ó ń fẹ́… jáde"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ìwọ̀ ipá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:46.862630969Z",
+  "model": "glm-5.3"
+}

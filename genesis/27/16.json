@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ó sì fi ⟨את⟩ awọ àgbo èwúrẹ́ bọ́ òwọ́ rẹ̀ àti agbára ọ̀fun rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ó sì fi ⟨את⟩",
+      "marks": "awọ àgbo èwúrẹ́"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "awọ"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "àgbo kekeré"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "èwúrẹ́"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "bọ́ (fi bọ́)"
+    },
+    {
+      "surface": "על",
+      "gloss": "lorí"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "òwọ́ rẹ̀"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "agbára tí ó lọ̀"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "ọ̀fun rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:04:09.402178954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Dafidi wí pé, bí Yahweh ṣe wà láàyè, láìse pé Yahweh ara rẹ̀ ló máa lu ú, tàbí ọjọ́ rẹ̀ yóò dé, ó sì kú, tàbí ó máa wọ inú ogun, ó sì parun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafidi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "bí … ṣe wà láàyè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אם",
+      "gloss": "láìse pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "ló máa lu ú"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ọjọ́ rẹ̀"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "yóò dé"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ó sì kú"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "inú ogun"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ó máa wọ"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "ó sì parun"
+    }
+  ],
+  "timestamp": "2026-08-23T00:55:26.549515449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìwọ, ọmọ ènìyàn, mú fálọ̀ fún ra rẹ, ó sì gbé e síwájú rẹ, ó sì kọ ⟨את⟩ ìlú sí i — ⟨את⟩ Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ìwọ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "קח",
+      "gloss": "mú"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ra rẹ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "fálọ̀"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ó sì gbé e"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "fálọ̀ (gbé e síwájú rẹ)"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "síwájú rẹ"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "ó sì kọ sí i"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìlú"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T02:36:04.623162332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Òun sì kò lè fi ọ̀rọ̀ kan padà sí ⟨את⟩ Avner mọ́, nítorí ẹ̀rù rẹ̀ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sì kò"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "fi ... padà sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀ kan"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "nítorí ẹ̀rù rẹ̀"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ó"
+    }
+  ],
+  "timestamp": "2026-08-23T00:57:21.115711249Z",
+  "model": "glm-5.3"
+}

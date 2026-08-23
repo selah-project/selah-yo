@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Ẹ dáwọ́ dúró, kí ẹ sì mọ̀ pé èmi ni Elohim; èmi ni wúndíá láàárín àwọn orílẹ̀-èdè, èmi ni wúndíá ní ayé.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "ẹ dáwọ́ dúró"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "kí ẹ sì mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "èmi ni wúndíá"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "láàárín àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "èmi ni wúndíá"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:01.446693957Z",
+  "model": "glm-5.3"
+}

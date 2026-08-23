@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Yàtọ̀ sí ẹbùn-ìjẹ́ àtẹ́rò-lárùùńgbé tí ó jẹ́ ti ẹbùn-ìjẹ́ àtẹ́rò, ẹ máa ṣe ⟨את⟩ àwọn wọ̀nyí.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "Yàtọ̀ sí"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ẹbùn-ìjẹ́"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "àtẹ́rò-lárùǹgbé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó jẹ́ ti"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ẹbùn-ìjẹ́ ⟨ti⟩"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "àtẹ́rò"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ẹ máa ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn wọ̀nyí"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọ̀nyí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:02:04.017491896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "Wọ́n ń kọrin-òṣeré, wọ́n ń sọ ọ̀rọ̀ àìníṣẹ́-ìwà; gbogbo àwọn olṣṣisẹ́ búburú ń gbéraga.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Wọ́n ń kọrin-òṣeré"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "wọ́n ń sọ"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ọ̀rọ̀ àìníṣẹ́-ìwà"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "ń gbéraga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "àwọn olṣṣisẹ́"
+    },
+    {
+      "surface": "און",
+      "gloss": "búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:11.846340084Z",
+  "model": "glm-5.3"
+}

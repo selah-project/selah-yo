@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Àwọn àgùntàn yín pẹ̀lú àti màlúù yín, ẹ mú wọn gẹ́gẹ́ bí ẹ ti sọ, kí ẹ sì lọ; ẹ sì bùkún mi pẹ̀lú ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "Àwọn àgùntàn yín"
+    },
+    {
+      "surface": "גם",
+      "gloss": "àti"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "màlúù yín"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ẹ mú wọn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "ẹ ti sọ"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "kí ẹ sì lọ"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "ẹ sì bùkún"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:52.976245910Z",
+  "model": "glm-5.3"
+}

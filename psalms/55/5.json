@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Ọkàn mi ń yì padà láàárín mi, àti ìrù ẹrù ikú sì ṣubú lórí mi.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Ọkàn mi"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ń yì padà"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "láàárín mi"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "àti ìrù ẹrù"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ṣubú"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:45.721178228Z",
+  "model": "glm-5.3"
+}

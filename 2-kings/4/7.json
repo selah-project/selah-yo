@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì wá, ó sọ fún ẹni-Elohim; ó sì wí pé, 'Lọ, ta ⟨את⟩ epo náà, san ⟨את⟩ àwọn gbese rẹ̀; ìwọ àti àwọn ọmọ rẹ̀ sì jẹ́ mí lórinkù.'",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ó sì wá"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "fún ẹni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "-Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "lọ"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "epo náà"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "epo náà"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn gbese rẹ̀"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "àwọn gbese rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ìwọ àti"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "jẹ́ mí"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "lórinkù"
+    }
+  ],
+  "timestamp": "2026-08-23T01:28:15.739004715Z",
+  "model": "glm-5.3"
+}

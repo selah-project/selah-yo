@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 60,
+  "translation": "O ti fún àwọn tí ó ń bẹ̀rù rẹ ní àmì-ìtàjà, kí ó lè di gíga nítorí ⟨òtítọ́⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "O ti fún"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "àwọn tí ó ń bẹ̀rù rẹ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "àmì-ìtàjà"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "kí ó lè di gíga"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "⟨òtítọ́⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:51.169178517Z",
+  "model": "glm-5.3"
+}

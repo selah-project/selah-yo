@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Nítorí pé nínú mí ni ó ti fẹ́ ìfẹ́, èmi yóò sì gbà á là; èmi yóò gbé e ga, nítorí pé Orúkọ mi ni ó mọ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nínú mi"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ó fẹ́ ìfẹ́"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "èmi yóò sì gbà á là"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "èmi yóò gbé e ga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ó mọ́"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Orúkọ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:45.430763247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Àti gbogbo irinṣẹ tí ó bá síi, tí kò sì sí ìbò tí a fi ìsọ̀ bọ́ ọ́ — aláìmọ́ ni.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "irinṣẹ"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "tí ó bá síi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sì sí"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "ìbò"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ìsọ̀"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "bọ́ ọ́"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "aláìmọ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:59:02.405581742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó sì jẹ́ olùtako fún Yisrael nígbà gbogbo ọjọ́ Shelomoh, pẹ̀lú ⟨את⟩ búburú tí Hadad ṣe, ó sì kórìíra Yisrael, ó sì jogún ìjọba lórí Aram.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì jẹ́"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "olùtako"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fún Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "búburú"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "ó sì kórìíra"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ó sì jogún ìjọba"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-23T05:52:47.518816390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 122,
+  "translation": "Nítorí níbẹ̀ ni àwọn ìtẹ́ ti wà fún ìdájọ́, àwọn ìtẹ́ fún ilé Davidi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ti wà (ti jókòó)"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "àwọn ìtẹ́"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "fún ìdájọ́"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "àwọn ìtẹ́"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fún ilé"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:37.766730576Z",
+  "model": "glm-5.3"
+}

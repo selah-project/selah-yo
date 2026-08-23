@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Wọ́n sì gba ⟨את⟩ gbogbo ààlà Emori ní àjọṣe, láti Arnon dé Yabboq, àti láti ijù dé Yardeno.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "wọ́n sì gba ní àjọṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ààlà Emori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ààlà"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "láti Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabboq"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "àti láti"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ijù"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeno"
+    }
+  ],
+  "timestamp": "2026-08-23T00:37:33.094564719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 140,
+  "translation": "Ó dá ọ̀run-mọ́lẹ̀, àwọn olódodo yóò dúpẹ́ lóri orúkọ rẹ; àwọn olóòtítọ́ yóò gbé ⟨את⟩ ojú rẹ dúró.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ó dá ọ̀run-mọ́lẹ̀"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "àwọn olódodo"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "yóò dúpẹ́"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "lóri orúkọ rẹ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "yóò gbé... dúró"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "àwọn olóòtítọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú rẹ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:45.001855047Z",
+  "model": "glm-5.3"
+}

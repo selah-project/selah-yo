@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 40:11",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ifè Paroh sì wà lọ́wọ́ mi; mo sì gba ⟨את⟩ àwọn ọnábù náà, mo sì fọ́n ⟨את⟩ wọn sí inú ifè Paroh, mo sì fi ⟨את⟩ ifè náà lé orí ọwọ́ Paroh.",
+  "tokens": [
+    {
+      "surface": "וכוס",
+      "gloss": "ifè"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "lọ́wọ́ mi"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "mo sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọnábù náà"
+    },
+    {
+      "surface": "הענבים",
+      "gloss": "àwọn ọnábù náà"
+    },
+    {
+      "surface": "וואשחט",
+      "gloss": "mo sì fọ́n"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩⟨wọn⟩",
+      "marks": "àwọn ọnábù náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí inú"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "ifè"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "mo sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifè náà"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ifè náà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé orí"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:11:56.822791621Z",
+  "model": "glm-5.3"
+}

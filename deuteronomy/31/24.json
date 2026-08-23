@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Ó sì wáyé pé nígbà tí Moshe parí kíkọ ⟨את⟩ ọ̀rọ̀ Tórà yìí sí orí ìwé, tí ó pé tán títí.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé pé"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "nígbà tí ... parí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "kíkọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ Tórà yìí"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tórà"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ìwé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "tí ó pé tán"
+    }
+  ],
+  "timestamp": "2026-08-23T00:21:21.775632092Z",
+  "model": "glm-5.3"
+}

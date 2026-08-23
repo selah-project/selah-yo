@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Nítorí náà, mo gbà gbogbo àwọn òfin rẹ wọ́ sí ọ̀nà tó tọ́ nípa gbogbo nǹkan, èmi sì kórìíra gbogbo ọ̀nà ìparun ẹ̀ke.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "àwọn òfin rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nípa gbogbo"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "mo gbà wọ́ sí ọ̀nà tó tọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ìparun ẹ̀ke"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mo kórìíra"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:27.194139976Z",
+  "model": "glm-5.3"
+}

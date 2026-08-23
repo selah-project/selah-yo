@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì ṣe ⟨את⟩ párókò náà — tèkèlèti, àwọ̀ arágámánà, àwọ̀ èso kármíni, àti aṣọ ofùrùfù — ó sì gbé àwọn kerubu sórí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "párókò náà"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "párókò náà"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tèkèlèti"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "àwọ̀ arágámánà"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "àwọ̀ èso kármíni"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "àti aṣọ ofùrùfù"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ó sì gbé sórí"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rí"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "àwọn kerubu"
+    }
+  ],
+  "timestamp": "2026-08-23T05:22:59.298700040Z",
+  "model": "glm-5.3"
+}

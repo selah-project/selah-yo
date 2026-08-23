@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Àti ọ̀gbìn rẹ, ẹ má ṣe fọ́ nù tán; àti èso tí ó ṣubú ní ọ̀gbìn rẹ, ẹ má ṣe kó; fún aláìní àti fún àlejò ni ẹ fi sílẹ̀ ⟨אתם⟩; emí ni Yahweh, Elohim yín.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "àti ọ̀gbìn rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "fọ́ nù tán"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "àti èso tí ó ṣubú"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "ọ̀gbìn rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kó"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "fún aláìní"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "àti fún àlejò"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ẹ fi sílẹ̀"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wọ́n (aláìní àti àlejò)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:07.526811396Z",
+  "model": "glm-5.3"
+}

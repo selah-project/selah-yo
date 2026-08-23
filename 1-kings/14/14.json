@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 14:14",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Yahweh sì máa gbé ọba kan dìde fún un lórí Israẹli, tí ó máa kọ ⟨את⟩ ilé Yarobeam rú; ẹni tí ó ṣe é ni ọjọ́ yìí — kí ni? gànán báyìí.",
+  "tokens": [
+    {
+      "surface": "והקים",
+      "gloss": "sì máa gbé dìde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "máa kọ rú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé Yarobeam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ẹni tí ó ṣe é ni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́ yìí"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kí ni sì"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gànán"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "báyìí"
+    }
+  ],
+  "timestamp": "2026-08-23T05:53:05.565248839Z",
+  "model": "glm-5.3"
+}

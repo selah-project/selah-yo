@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì gbà ⟨את⟩ àwọn àgbà ìlú náà mú, àti ⟨את⟩ àwọn ìgì kòkòrò ijù, àti ⟨את⟩ àwọn eégún rẹ̀, ó sì fi kọ́ àwọn ọkùnrin Sukot ìjìyà pẹ̀lú wọn.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ó sì gbà … mú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àgbà ìlú náà"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìgì kòkòrò ijù"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "àwọn ìgì kòkòrò"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ijù"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn eégún"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "àwọn eégún rẹ̀"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ó sì fi kọ́ ìjìyà"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pẹ̀lú wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọkùnrin Sukot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    }
+  ],
+  "timestamp": "2026-08-23T00:35:33.708077804Z",
+  "model": "glm-5.3"
+}

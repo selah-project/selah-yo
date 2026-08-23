@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Omi sì padà kúrò lórí ayé, tí ń lọ tí ń bọ̀; omi sì dín kù lẹ́yìn ìparí ọjọ́ mẹ́tàlélọ́gọ́ta àti ọgọ́rùn-ún.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "sì padà"
+    },
+    {
+      "surface": "המים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kúrò lórí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "tí ń lọ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "tí ń bọ̀"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "sì dín kù"
+    },
+    {
+      "surface": "המים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "lẹ́yìn ìparí"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mẹ́tàlélọ́gọ́ta"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "àti ọgọ́rùn-ún"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:18.616703594Z",
+  "model": "glm-5.3"
+}

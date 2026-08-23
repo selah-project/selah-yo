@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Lórí àwọn tí ó ṣẹ̀ àmì-ìdánimọ̀ ni: Nechemyah, hatirshata, ọmọ Chakalyah, àti Tsidqiyah.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "àwọn tí ó ṣẹ̀ àmì-ìdánimọ̀"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemyah"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "hatirshata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Chakalyah"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "àti Tsidqiyah"
+    }
+  ],
+  "timestamp": "2026-08-23T05:04:53.087959280Z",
+  "model": "glm-5.3"
+}

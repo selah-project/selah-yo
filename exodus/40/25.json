@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ó sì mú dàndì wo ⟨את⟩ níwájú Yahweh, gẹ́gẹ́ bí Yahweh ti pa Moshe lṣ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "mú dàndì wo"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "àwọn dàndì"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pa ... lṣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:25.391520318Z",
+  "model": "glm-5.3"
+}

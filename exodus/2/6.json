@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì ṣí i, ó sì rí i — ⟨את⟩ omọkùnrin náà, kíyèsi i, ọmọdé ń sunkún; ó sì ṣàánú lórí rẹ̀, ó sì wí pé, Ń ṣe ọ̀kan nínú àwọn ọmọ Hébérù ni èyí.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "ó sì ṣí i"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "ó sì rí i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omọkùnrin náà"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "omọkùnrin náà"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kíyèsi i"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ọmọdé"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ń sunkún"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "ó sì ṣàánú"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "ń ṣe ọ̀kan nínú àwọn ọmọ"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hébérù"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:49.774331172Z",
+  "model": "glm-5.3"
+}

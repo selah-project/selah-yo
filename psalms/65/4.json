@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 65,
+  "translation": "Àwọn ọ̀rọ̀ aìṣẹ̀tí ṣẹ́lẹ́ ju mi lọ; àwọn ìṣẹ̀gàn wa — ìwọ ni ó óò boò wọn.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "aìṣẹ̀tí"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ṣẹ́lẹ́ ju mi lọ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ju mi lọ"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "àwọn ìṣẹ̀gàn wa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "ó óò boò wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:01.745479805Z",
+  "model": "glm-5.3"
+}

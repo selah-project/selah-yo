@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ó sì yọ kúrò ní gbogbo àwọn ìlú Yehuda ⟨את⟩ àwọn bàmọ̀ àti ⟨את⟩ àwọn àwòrán òòrùn; ìjọba sì dà lálẹ̀ níwájú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Ó sì yọ kúrò"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn bàmọ̀"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "àwọn bàmọ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn àwòrán òòrùn"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "àwọn àwòrán òòrùn"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "ìjọba sì dà lálẹ̀"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "níwájú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:28:19.199097341Z",
+  "model": "glm-5.3"
+}

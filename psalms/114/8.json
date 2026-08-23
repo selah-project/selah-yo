@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 114,
+  "translation": "Eni tí ó yí òkuta di odò omi, kòkòrò òkuta sọ́nù di ìgbàlá omi.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Eni tí ó yí"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "òkuta"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "di odò omi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "kòkòrò òkuta sọ́nù"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "di ìgbàlá"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:43.162384451Z",
+  "model": "glm-5.3"
+}

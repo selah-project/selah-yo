@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 4:7",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìbẹ̀rẹ̀ ògbón ni ⟨èyí⟩: rà ⟨את⟩ ògbón, àti pẹ̀lú gbogbo ohun ìrà rẹ rà ⟨את⟩ òye.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ìbẹ̀rẹ̀"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ògbón"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "rà"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ògbón"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "àti pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "ohun ìrà rẹ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "rà"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "òye"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:59.012892011Z",
+  "model": "glm-5.3"
+}

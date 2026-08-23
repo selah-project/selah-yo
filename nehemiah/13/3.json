@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ó sì wáyé, nígbà tí wọ́n gbọ́ ⟨את⟩ Tórah náà, wọ́n yọ gbogbo àwọn ajọ́mọ́ra kúrò lára Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "nígbà tí wọ́n gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tórah náà"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tórah náà"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "wọ́n yọ ... kúrò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "àwọn ajọ́mọ́ra"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "lára Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T05:07:23.501818722Z",
+  "model": "glm-5.3"
+}

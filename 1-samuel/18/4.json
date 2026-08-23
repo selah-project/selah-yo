@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Yehonatan sì yọ ⟨את⟩ èwù tí ó wò kúrò lórí rẹ̀, ó sì fi fún David, àti aṣọ rẹ̀, títí dé idà rẹ̀, títí dé orun rẹ̀, títí dé ṣòó rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "sì yọ ... kúrò lórí rẹ̀"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èwù"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "èwù"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ó wò"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ó sì fi fún"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "àti aṣọ rẹ̀"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "idà rẹ̀"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "orun rẹ̀"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "ṣòó rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:51:39.959226676Z",
+  "model": "glm-5.3"
+}

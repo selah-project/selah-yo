@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó pè sí Moshe, Yahweh sì sọ̀rọ̀ sí i láti inú àgọ̀ ìpàdé, wí pé,",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ó pè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "sì sọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "láti inú àgọ̀"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:49.428401620Z",
+  "model": "glm-5.3"
+}

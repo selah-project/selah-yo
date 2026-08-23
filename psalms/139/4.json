@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Nítorí pé ọ̀rọ̀ kò sí lórí àwọ̀n mi; ṣùgbọ́n kíyèsi, Yahweh, ìwọ mọ ọ́ pátápátá.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "lórí àwọ̀n mi"
+    },
+    {
+      "surface": "הן",
+      "gloss": "kíyèsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ìwọ mọ ọ́"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pátápátá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:22.759379654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 53,
+  "translation": "Elohim yọ làáfíà láti ọ̀run, ó wo àwọn ọmọ Adámù, láti rí boya ẹni ìmọ̀-ọ̀gbọ́n wà, ẹni tí ó ń wá ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "láti ọ̀run"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "yọ làáfíà, ó wo"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adámù"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "láti rí"
+    },
+    {
+      "surface": "היש",
+      "gloss": "boya … wà"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ẹni ìmọ̀-ọ̀gbọ́n"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ẹni tí ó ń wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:41.929770885Z",
+  "model": "glm-5.3"
+}

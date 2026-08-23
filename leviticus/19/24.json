@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ní ọdún kẹrin sì, gbogbo èso rẹ̀ yóò jẹ́ mímọ́ — ìyìn ayọ̀ fún Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "ní ọdún sì"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "kẹrin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "surface",
+      "gloss": ""
+    },
+    {
+      "surface": "פריו",
+      "gloss": "èso rẹ̀"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "ìyìn ayọ̀"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:02.673721706Z",
+  "model": "glm-5.3"
+}

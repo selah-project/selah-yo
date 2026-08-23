@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Jẹ́ kí n gbọ́ ayọ̀ àti ìdùnnú; kí ẹ̀ẹ̀gún tí ìwọ ti fọ́ lè dúnrọ́.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "jẹ́ kí n gbọ́"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ayọ̀"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "àti ìdùnnú"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "kí ó dúnrọ́"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ẹ̀ẹ̀gún"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "tí ìwọ ti fọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:08.374883884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "O jókòó, o sì ń sọ ọ̀rọ̀ lódì ará rẹ, o sì ń fi eégún ṣàfihàn fún ọmọ ìyá rẹ.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "o jókòó"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "lódì ará rẹ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "o ń sọ ọ̀rọ̀"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "fún ọmọ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ìyá rẹ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "o ń fi"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "eégún ṣàfihàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:27.813887638Z",
+  "model": "glm-5.3"
+}

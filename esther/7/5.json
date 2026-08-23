@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ọba Achashverosh sì sọ̀rọ̀, ó wí fún Esteri, ayaba náà: Ta ni èyí, àti ibó ni èyí, ẹni tí ọkàn rẹ̀ ti kún fún láti ṣe bẹ́ẹ̀?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ̀rọ̀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó wí"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "fún Esteri"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ayaba ⟨náà⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "àti ibó"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ti kún"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:48:10.234931419Z",
+  "model": "glm-5.3"
+}

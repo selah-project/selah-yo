@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ó sì tún ⟨את⟩ pẹpẹ Yahweh ṣe, ó sì ró ẹbùn àlàáfíà àti ẹbùn oore-ọ̀fẹ́ lórí rẹ̀, ó sì pa Yehudah lé láti ṣe ìjọsín ⟨את⟩ Yahweh, Elohim Israél.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "ó sì tún ... ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pẹpẹ Yahweh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "ó sì ró ẹbùn"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ẹbùn"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "àti ẹbùn oore-ọ̀fẹ́"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì pa ... lé"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "láti ṣe ìjọsín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-23T05:36:25.281519442Z",
+  "model": "glm-5.3"
+}

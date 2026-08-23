@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "àti ìgbà méjì tí ń jáde ní ọjọ́ Shabbat, gbogbo rẹ̀ ni yóò ṣọ́ ⟨את⟩ ìṣọ́ ilé Yahweh nípa ọba náà",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "àti ìgbà méjì"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "ìgbà"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nínu yín"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo rẹ̀"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "tí ń jáde"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ọjọ́ Shabbat"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "yóò ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìṣọ́"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ìṣọ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:30:30.860106018Z",
+  "model": "glm-5.3"
+}

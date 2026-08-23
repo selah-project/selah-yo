@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Lórí àwọn ọwọ́ wọn ni wọ́n gbé ọ sókè, kí o má baà ṣẹ́ ẹsẹ̀ rẹ mọ́ọ̀rùn.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "àwọn ọwọ́"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "wọ́n gbé ọ sókè"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí o má baà"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ṣẹ́… mọ́ọ̀rùn"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "mọ́ọ̀rùn"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ẹsẹ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:11.491428315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ní àkókò yẹn, àwọn ìránṣẹ́ Nebukadnezzar ọba Babel dé ìrọ̀wọ́sí wá sí Yerushalayim, ìlú náà sì wọ ìgbẹ̀yànwọ́.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Ní àkókò"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "dé ìrọ̀wọ́sí wá"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnezzar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "sì wọ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ìgbẹ̀yànwọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:53:21.613799915Z",
+  "model": "glm-5.3"
+}

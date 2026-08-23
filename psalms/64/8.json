@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 64,
+  "translation": "Ṣùgbọ́n Elohim fi ọfà yọ wọ́n; lójúú ni àwọn ìnira wọn di.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "ṣùgbọ́n fi yọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "ọfà"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "lójúú"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "àwọn ìnira wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:08.624933533Z",
+  "model": "glm-5.3"
+}

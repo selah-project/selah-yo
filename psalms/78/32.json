@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Nínú gbogbo èyí, wọn dàṣẹ̀ sí i síwájú sí i, wọn kò sì gbàgbọ́ nínú àwọn iṣẹ́ ìyanu rẹ̀.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "nínú gbogbo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "wọn dàṣẹ̀ sí i"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "síwájú sí i"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wọn kò sì"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "gbàgbọ́"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "nínú àwọn iṣẹ́ ìyanu rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:25.151707624Z",
+  "model": "glm-5.3"
+}

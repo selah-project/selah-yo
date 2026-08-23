@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ó sì jẹ́ pé nínú èrè-ìjọba wọn ni wọn ní Be'er-Sheva, àti Sheva, àti Moladah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì jẹ́ pé"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn ní"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "nínú èrè-ìjọba wọn"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "àti Sheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "àti Moladah"
+    }
+  ],
+  "timestamp": "2026-08-23T00:29:03.780982671Z",
+  "model": "glm-5.3"
+}

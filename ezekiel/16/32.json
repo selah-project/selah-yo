@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Obìrin tí ó ń ṣe àṣẹ̀ṣe-àgbèré, ní ipò ọkọ rẹ ni ó ti ń gba ⟨את⟩ àwọn àjèjì.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "obìrin"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "tí ó ń ṣe àṣẹ̀ṣe-àgbèré"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ọkọ rẹ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ó ń gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àjèjì"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "àwọn àjèjì"
+    }
+  ],
+  "timestamp": "2026-08-23T02:39:17.189063328Z",
+  "model": "glm-5.3"
+}

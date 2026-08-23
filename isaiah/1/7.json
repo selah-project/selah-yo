@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ilẹ̀ yín di ìgbó-àjẹ; àwọn ìlú yín jóná pẹ̀lú iná; ilẹ̀-ìkórẹ́ yín, àwọn àjèjì ń jẹ ⟨את⟩ níwájú yín, ó sì di ìgbó-àjẹ, bí ìṣubú àwọn àjèjì.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "ilẹ̀ yín"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ìgbó-àjẹ"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "àwọn ìlú yín"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "wọ́n jónú"
+    },
+    {
+      "surface": "אש",
+      "gloss": "pẹ̀lú iná"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ilẹ̀-ìkórẹ́ yín"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "níwájú yín"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "àwọn àjèjì"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "ń jẹ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀-ìkórẹ́ yín (ohun tí wọ́n ń jẹ)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "àti ìgbó-àjẹ"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "bí ìṣubú"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "àwọn àjèjì"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:33.563738301Z",
+  "model": "glm-5.3"
+}

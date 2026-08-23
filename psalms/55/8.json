@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Wò ó, èmi yóò fi ìrìn jìnà já, mo yóò sì sun ní àwọ̀n ilẹ̀. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "yóò fi ìrìn jìnà já"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ń sàlọ"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "yóò sì sun"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní àwọ̀n ilẹ̀"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:45.721704536Z",
+  "model": "glm-5.3"
+}

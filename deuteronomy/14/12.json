@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Àti èyí tí ẹ kò gbọdọ̀ jẹ́ lára wọn: ha-nesher, àti ha-peres, àti ha-azniah.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Àti èyí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò gbọdọ̀"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "lára wọn"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ha-nesher"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "àti ha-peres"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "àti ha-azniah"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:51.495836518Z",
+  "model": "glm-5.3"
+}

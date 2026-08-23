@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó tòbi títí dé ogun ⟨àwọn⟩ ọ̀run, ó sì subú kúrò nínú ogun náà àti kúrò nínú àwọn ìràwọ̀ sí ilẹ̀, ó sì tẹ ⟨wọn⟩ lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "ó tòbi sí i"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ó sì subú"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sí ilẹ̀"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ogun náà"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "àti kúrò nínú"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "àwọn ìràwọ̀"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "ó sì tẹ wọn lọ́wọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:52:31.604149760Z",
+  "model": "glm-5.3"
+}

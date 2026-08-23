@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Láti sọ orúkọ Yahweh kalẹ̀ ní Tsiyon, àti ìyìn rẹ̀ ní Yerushalayim",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "láti sọ kalẹ̀"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ní Tsiyon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "àti ìyìn rẹ̀"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:09.217526015Z",
+  "model": "glm-5.3"
+}

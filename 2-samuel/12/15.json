@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Natan lọ sí ilé rẹ̀; Yahweh sì lu ⟨את⟩ ọmọ náà tí iyàwó Uriyah bí fún Dawidu, ó sì ṣàìsàn láìlòògù.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ó lọ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "ó lu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ náà"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ọmọ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ó bí"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "iyàwó"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún Dawidu"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "ó ṣàìsàn láìlòògù"
+    }
+  ],
+  "timestamp": "2026-08-23T01:01:31.755072066Z",
+  "model": "glm-5.3"
+}

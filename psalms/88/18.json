@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Wọ́n yí mi ká bí omi ní gbogbo ọjọ́; wọ́n ti yí ìkàwọ́ ká lórí mi papọ̀.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "wọ́n yí mi ká"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "bí omi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́ náà"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "wọ́n ti yí ìkàwọ́ ká"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "papọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:10.609079737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Firanṣẹ́ ìmọ́lẹ̀ rẹ àti òtítọ́ rẹ; ìwọnyí ni yóò tọ̀ mí lọ, yóò sì mú mi wá sí òkè mímọ́ rẹ, àti sí àwọn ibi ìgbé rẹ.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "firanṣẹ́"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ìmọ́lẹ̀ rẹ"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "àti òtítọ́ rẹ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ìwọnyí"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "yóò tọ̀ mí lọ"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "yóò mú mi wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "mímọ́ rẹ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "àwọn ibi ìgbé rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:08.703612988Z",
+  "model": "glm-5.3"
+}

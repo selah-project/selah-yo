@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àwọn olùgbé Givon sì gbọ́ ⟨את⟩ nǹkan tí Yehoshua ṣe sí Yericho àti sí Ai.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Àwọn olùgbé"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nǹkan tí Yehoshua ṣe sí Yericho àti sí Ai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "sí Yericho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "àti sí Ai"
+    }
+  ],
+  "timestamp": "2026-08-23T00:26:30.138717941Z",
+  "model": "glm-5.3"
+}

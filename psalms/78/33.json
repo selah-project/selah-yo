@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Nítorí náà, ó parun ọjọ́ wọn ní òfufo, àti ọdún wọn ní ẹ̀rù-ijàmbá.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ó parun"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ní òfufo"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ọjọ́ wọn"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "àti ọdún wọn"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "ní ẹ̀rù-ijàmbá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:17.902729284Z",
+  "model": "glm-5.3"
+}

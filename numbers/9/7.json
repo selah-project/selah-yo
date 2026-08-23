@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 9:7",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àwọn ọkùnrin yẹn sì wí fún-un pé: Àwa ni aláìmọ́ nítorí ẹ̀mí-èníyàn kan; èrìílọ́jọ́ ni tí wọ́n fi ń yẹ wa kúrò, kí a má baà gbé ⟨את⟩ ẹbọ Yahweh lọ ní àkókò rẹ̀, láàárín àwọn ọmọ Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wí fún-un pé"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún-un"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "àwa"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "aláìmọ́"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nítorí ẹ̀mí"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "èníyàn kan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "èrìílọ́jọ́ ni"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "wọ́n fi ń yẹ wa kúrò"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kí a má baà"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "gbé ẹbọ lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹbọ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ẹbọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במעדו",
+      "gloss": "ní àkókò rẹ̀"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-22T23:53:21.961573097Z",
+  "model": "glm-5.3"
+}

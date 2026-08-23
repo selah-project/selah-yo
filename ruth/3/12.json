@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ní báyìí, ó sì jẹ́ pé, dájúdájú, olùgbàlà-ẹbí ni èmi, ṣùgbọ́n tún olùgbàlà-ẹbí míìràn wà tí ó sún mọ́ ju mi lọ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ní báyìí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ó sì jẹ́ pé"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "dájúdájú"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ó sì jẹ́"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dájú"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "olùgbàlà-ẹbí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ṣùgbọ́n tún"
+    },
+    {
+      "surface": "יש",
+      "gloss": "wà"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "olùgbàlà-ẹbí"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "tí ó sún mọ́"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ju mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:35:08.506667696Z",
+  "model": "glm-5.3"
+}

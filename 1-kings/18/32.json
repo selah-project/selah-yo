@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó sì kọ ⟨את⟩ àwọn ọ̀kúta di pẹpẹ ní orúkọ Yahweh; ó sì ṣe ihò-odò tí ó tó ilẹ̀ iye ọ̀kẹ̀ méjì irúgbìn káàkiri pẹpẹ náà.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "ó sì kọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀kúta"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "àwọn ọ̀kúta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ní orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ihò-odò"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "bí ilẹ̀ tí ó tó"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "iye ọ̀kẹ̀ méjì"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "irúgbìn"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "káàkiri"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "pẹpẹ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:23:23.346834555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Shelomoh sì fẹ́ràn ⟨את⟩ Yahweh, láti máa rìn nínú òfin Dawidu baba rẹ̀; níkan ní àwọn bama ni ó ti ń ṣe ẹbọ àti ń sun itura.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "sì fẹ́ràn"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "láti máa rìn"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "nínú òfin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "רק",
+      "gloss": "níkan"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ní àwọn bama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ń ṣe ẹbọ"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "àti ń sun itura"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:01.890131940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 33:5",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Àwọn tí wọ́n ń bọ̀ láti bá ⟨את⟩ àwọn Kasudi jà, àti láti kún wọn pẹ̀lú ⟨את⟩ èjìká àwọn ènìyàn, èyí tí mo kọ́ nínú ìbínú mi àti nínú ìbunú mi; àti èyí tí mo fi ojú mi bo ìlú yìí, nítorí gbogbo búburú wọn.",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "àwọn-tí-wọ́n-ń-bọ̀"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "láti-bá...jà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Kasudi"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "àwọn-Kasudi"
+    },
+    {
+      "surface": "ולמלאם",
+      "gloss": "àti-láti-kún-wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èjìká àwọn ènìyàn"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "èjìká"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "àwọn-ènìyàn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí-tí"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "mo-kọ́"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "nínú-ìbínú-mi"
+    },
+    {
+      "surface": "ובחמתי",
+      "gloss": "àti-nínú-ìbunú-mi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "àti-èyí-tí"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "mo-fi-ojú-mi-bo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú-mi"
+    },
+    {
+      "surface": "מהעיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "búburú-wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:22:56.063882917Z",
+  "model": "glm-5.3"
+}

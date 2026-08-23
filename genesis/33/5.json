@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ó sì gbé ojú rẹ̀ sókè, ó sì rí ⟨את⟩ àwọn obìnrin àti ⟨את⟩ àwọn ọmọ, ó sì wí pé, Ta ni àwọn wọnyí tí ó wà pẹ̀lú rẹ? Ó sì wí pé, Àwọn ọmọ ni tí Elohim ti ṣe àánú fún ìránṣẹ rẹ.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ó sì gbé sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú rẹ̀"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ó sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn obìnrin"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "àwọn obìnrin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ta ni"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọnyí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tí ó wà pẹ̀lú rẹ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "Àwọn ọmọ ni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ti ṣe àánú fún"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìránṣẹ rẹ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:05:52.785697194Z",
+  "model": "glm-5.3"
+}

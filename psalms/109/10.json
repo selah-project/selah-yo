@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Kí àwọn ọmọ rẹ̀ máa rìn káàkiri láìní ìdásílẹ̀, kí wọ́n bẹ́ ⟨oúnjẹ⟩, kí wọ́n sì wá oúnjẹ wọn kúrò nú àwọn ibi-òfò wọn.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "káàkiri"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "kí àwọn ọmọ rẹ̀ máa rìn"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "kí wọ́n bẹ́"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "kí wọ́n sì wá"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "kúrò nú àwọn ibi-òfò wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:30.920157505Z",
+  "model": "glm-5.3"
+}

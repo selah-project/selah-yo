@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 9:11",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Hiram, ọba Tzor, ti ran Shlomoh lọ́wọ́ pẹ̀lú àwọn igi araraba àti àwọn igi berot, àti pẹ̀lú wúrà, fún gbogbo ohun tí ó fẹ́; nígbà náà ni Shlomoh ọba fún Hiram lọ́wọ́ ilẹ̀kùn ogún ní ilẹ̀ HaGalil.",
+  "tokens": [
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tzor"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ti ran lọ́wọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shlomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "pẹ̀lú àwọn igi"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "araraba"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "àti pẹ̀lú àwọn igi"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "berot"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "àti pẹ̀lú wúrà"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "ohun tí ó fẹ́"
+    },
+    {
+      "surface": "אז",
+      "gloss": "nígbà náà ni"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "fún lọ́wọ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "לחירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ilẹ̀kùn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "הגליל",
+      "gloss": "HaGalil"
+    }
+  ],
+  "timestamp": "2026-08-23T01:15:32.622463301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ọ̀tá sọ pé: Nígbà tí mo bá lé wọ́n lẹ́yìn, ni mo máa gbé lé; mo máa pín ogun; ẹ̀mí mi máa kún; mo ó foo idà mi síta, ọwọ́ mi ó sì máa fi jẹ wọ́n.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ọ̀tá"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "mo bá lé wọ́n lẹ́yìn"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "mo máa gbé lé"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "mo máa pín"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "máa kún"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "mo ó foo síta"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "idà mi"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "ó sì máa fi jẹ wọ́n"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:31.561490421Z",
+  "model": "glm-5.3"
+}

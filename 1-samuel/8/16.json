@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì máa gba ⟨את⟩ àwọn ẹrú okùnrin yín, ⟨את⟩ àwọn ẹrú obìnrin yín, ⟨את⟩ àwọn ọmọkùnrin yín tí ó dára jù, àti ⟨את⟩ àwọn kétékété yín, ó sì máa fi wọ́n ṣiṣẹ́ iṣẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sì",
+      "marks": "àwọn ẹrú okùnrin yín"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "àwọn ẹrú okùnrin yín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ àti",
+      "marks": "àwọn ẹrú obìnrin yín"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "àwọn ẹrú obìnrin yín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ àti",
+      "marks": "àwọn ọmọkùnrin yín"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "àwọn ọmọkùnrin yín"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "tí ó dára jù"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ àti",
+      "marks": "àwọn kétékété yín"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "àwọn kétékété yín"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ó máa gba"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ó sì máa fi wọ́n ṣiṣẹ́"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "iṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:43:44.020171496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ẹni tí a ṣègbé tí ó sì ní ìránṣẹ́, dára ju ẹni tí ó fi ara rẹ̀ ṣe pàtàkì lọ, tí ó sì ṣàìní oúnjẹ lọ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dára ju"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ẹni tí a ṣègbé"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "àti ní ìránṣẹ́"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lorí rẹ̀"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "ẹni tí ó fi ara rẹ̀ ṣe pàtàkì"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "àti ṣàìní"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "oúnjẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:06:15.250407228Z",
+  "model": "glm-5.3"
+}

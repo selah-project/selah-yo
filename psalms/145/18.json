@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Sún mọ́ ni Yahweh fún gbogbo àwọn tí ń pè é, fún gbogbo àwọn tí ń pè é ní òtítọ́.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "sún mọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "àwọn tí ń pè é"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "ń pè é"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ní òtítọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:36.973008855Z",
+  "model": "glm-5.3"
+}

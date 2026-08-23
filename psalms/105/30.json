@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ilẹ̀ wọn sọ̀ọ́ jáde pẹ̀lú àwọn àgbálùmọ̀, nínú àwọn yàrá àwọn ọba wọn.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "sọ̀ọ́ jáde pẹ̀lú"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ilẹ̀ wọn"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "àwọn àgbálùmọ̀"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "nínú àwọn yàrá"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "àwọn ọba wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:36.760323473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 36:8",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Gbogbo ọlọgbọ́n-ọkàn lára àwọn tí ń ṣe iṣẹ́ náà sì ṣe ⟨את⟩ àgọ́ náà pẹ̀lú àwọn àsò ìdènà mẹ́wàá: asọ funfun tí a fi mọ́ pọ̀, àti àwọ̀ buuru (tekhelet), àti àwọ̀ àró, àti kòkòrò pupa (shani); pẹ̀lú kérúbùù, iṣẹ́ oníṣẹ́-ọnà ni wọ́n fi ṣe ⟨את⟩ wọn.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ọlọgbọ́n"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "lára àwọn tí ń ṣe"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "iṣẹ́ náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgọ́ náà"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "àgọ́ náà"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "àwọn àsò ìdènà"
+    },
+    {
+      "surface": "שש",
+      "gloss": "asọ funfun"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tí a fi mọ́ pọ̀"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "àti àwọ̀ buuru"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "àti àwọ̀ àró"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "àti kòkòrò"
+    },
+    {
+      "surface": "שני",
+      "gloss": "pupa"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kérúbùù"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "oníṣẹ́-ọnà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn àsò ìdènà náà)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:02.967327636Z",
+  "model": "glm-5.3"
+}

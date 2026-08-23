@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 6:4",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àwọn tí ó bó sínú ìbùsùn eyín, tí ó doju sílẹ̀ lórí ìbùsùn wọn, tí ó sì ń jẹ àgbọ̀nràn láti inú ọ̀tàn, àti màlúù kékeré láti àárín ìtẹ̀ máalù.",
+  "tokens": [
+    {
+      "surface": "השכבים",
+      "gloss": "Àwọn tí ó bó sínú ìbùsùn"
+    },
+    {
+      "surface": "על",
+      "gloss": "sínú"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "ìbùsùn"
+    },
+    {
+      "surface": "שן",
+      "gloss": "eyín"
+    },
+    {
+      "surface": "וסרחים",
+      "gloss": "tí ó doju sílẹ̀ lórí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ערשותם",
+      "gloss": "ìbùsùn wọn"
+    },
+    {
+      "surface": "ואכלים",
+      "gloss": "tí ó sì ń jẹ"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "àgbọ̀nràn"
+    },
+    {
+      "surface": "מצאן",
+      "gloss": "láti inú ọ̀tàn"
+    },
+    {
+      "surface": "ועגלים",
+      "gloss": "àti màlúù kékeré"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "láti àárín"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "ìtẹ̀ máalù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:08:03.370813548Z",
+  "model": "glm-5.3"
+}

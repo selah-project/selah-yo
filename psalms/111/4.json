@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 111,
+  "translation": "Ó ṣe ìrántí fún àwọn iṣẹ́ ìyanu rẹ̀; Yahweh ni Olùṣàànú àti aláàánú.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ìrántí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ó ṣe"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "fún àwọn iṣẹ́ ìyanu rẹ̀"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Olùṣàànú"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "àti aláàánú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:20.513339055Z",
+  "model": "glm-5.3"
+}

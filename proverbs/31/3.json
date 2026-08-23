@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Má ṣe fún àwọn obìnrin ní agbára rẹ, àti àwọn ọ̀nà rẹ, láti pa àwọn ọba jẹ́.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Má ṣe"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "àwọn obìnrin"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "agbára rẹ"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "àti àwọn ọ̀nà rẹ"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "láti pa jẹ́"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "àwọn ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T04:14:45.278929037Z",
+  "model": "glm-5.3"
+}

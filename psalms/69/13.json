@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Àwọn tí ó ń jókòó ní ọ̀nà ìlú ń bá mi sọ̀rọ̀; àwọn olùmu waini sì ń kọ orin nípa mi.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "ń bá mi sọ̀rọ̀"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nípa mi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn tí ó ń jókòó"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ní ọ̀nà ìlú"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "sì ń kọ orin"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "àwọn olùmu"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "waini"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:53.929629386Z",
+  "model": "glm-5.3"
+}

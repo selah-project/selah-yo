@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Shaul sì rán ⟨את⟩ àwọn ìránṣẹ́ náà láti rí ⟨את⟩ David, ó sì sọ pé: Gbé ⟨את⟩ òun sókè nínú bẹ́dì sí ọ̀dọ̀ mi, láti pa á.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì rán"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìránṣẹ́ náà"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "àwọn ìránṣẹ́ náà"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "láti rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó sì sọ pé"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "gbé e sókè"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ òun",
+      "marks": "òun (David)"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "nínú bẹ́dì"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "láti pa á"
+    }
+  ],
+  "timestamp": "2026-08-23T00:50:25.872537660Z",
+  "model": "glm-5.3"
+}

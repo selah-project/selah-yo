@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Wọ́n sì fi ⟨את⟩ àpò́tí Yahweh sí orí àgàlà náà, àti ⟨את⟩ àpò kèké sí, àti ⟨את⟩ àwọn eku wúrà, àti ⟨את⟩ àwọn àwòrán àrùn kòkòrò wọn.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "Wọ́n sì fi sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àpò́tí Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "àpò́tí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "àgàlà náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àpò kèké"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "àpò kèké"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn eku wúrà"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "àwọn eku"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn àwòrán àrùn kòkòrò wọn"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "àwọn àwòrán"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "àrùn kòkòrò wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:50.563115128Z",
+  "model": "glm-5.3"
+}

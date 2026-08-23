@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 77,
+  "translation": "Ní ọjọ́ ìdínilẹ̀ mi, Adonai ni mo gbìmọ̀ wá; ọwọ́ mi jáde ní òru, kò sì gbẹ́mí; ẹ̀mí mi kọ̀ láti faradà ìtùnu.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ìdínilẹ̀ mi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "mo gbìmọ̀ wá"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ní òru"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "jáde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "gbẹ́mí"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "kọ̀ láti"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "faradà ìtùnu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:36.293070909Z",
+  "model": "glm-5.3"
+}

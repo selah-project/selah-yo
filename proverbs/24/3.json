@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Nípa ọgbọ́n ni ilé tí a ń kọ́, nípa ìmọ̀-làìrí-ìsọdáṣịṣe sì ni a fi ń ṣẹ́ dá a lẹ́ṣẹ́.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "nípa ọgbọ́n"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ni a ń kọ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "sì nípa ìmọ̀-làìrí-ìsọdáṣịṣe"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "ni a fi ń ṣẹ́ dá lẹ́ṣẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:11:51.475728732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Èmi yóò sọ ọ́ di aya fún mi nínú óòtítọ́; ìwọ yóò sì mọ̀ Yahweh.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "èmi yóò sọ ọ́ di aya fún mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "nínú óòtítọ́"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ìwọ yóò sì mọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:00:27.290867343Z",
+  "model": "glm-5.3"
+}

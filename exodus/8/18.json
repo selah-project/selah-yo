@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 8:18",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Èmi yóò ṣàyàtọ̀ ní ọjọ́ yẹn ⟨את⟩ ilẹ̀ Goshen, tí ènìyàn mi dúró lé e, kí eṣinṣin ìjọpọ̀ má ṣe wà níbẹ̀; kí o lè mọ̀ pé èmi ni Yahweh ní àárín ⟨ilẹ̀ ayé⟩.",
+  "tokens": [
+    {
+      "surface": "והפליתי",
+      "gloss": "èmi yóò ṣàyàtọ̀"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ Goshen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ènìyàn mi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "lé e"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kí… má ṣe"
+    },
+    {
+      "surface": "היות",
+      "gloss": "wà"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "eṣinṣin ìjọpọ̀"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí o lè"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ní àárín"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:57.895076728Z",
+  "model": "glm-5.3"
+}

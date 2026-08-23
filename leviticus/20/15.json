@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àti ọkùnrin tí ó bá fi ìdọ̀bálẹ̀ rẹ̀ sí ẹranko — ikú ni yóò kú; ẹ̀yin yóò pa ⟨את⟩ ẹranko náà.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "àti ọkùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "fi"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "ìdọ̀bálẹ̀ rẹ̀"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "sí ẹranko"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "yóò kú"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹranko náà"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ẹranko náà"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "ẹ̀yin yóò pa"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:30.678185449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Yonatan sì lu ⟨את⟩ ológun ìdá sílẹ̀ ti àwọn Filistini tí ó wà ní Geva; àwọn Filistini sì gbọ́; Shaul sì fon fẹ́rẹ́ẹ́ àgbọ̀n ní gbogbo ilẹ̀ náà, ó sì wí pé, Ẹ jẹ́ kí àwọn Hébérù gbọ́.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ó sì lu"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ológun ìdá sílẹ̀ ti àwọn Filistini"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "ológun ìdá sílẹ̀"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ti àwọn Filistini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "ní Geva"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ó sì dé etí — sì gbọ́"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Filistini"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaul sì"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ó fon"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "fẹ́rẹ́ẹ́ àgbọ̀n"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "Ẹ jẹ́ kí — gbọ́"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "àwọn Hébérù"
+    }
+  ],
+  "timestamp": "2026-08-23T00:47:20.455975743Z",
+  "model": "glm-5.3"
+}

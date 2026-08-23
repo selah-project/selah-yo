@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Fi irọ̀ rẹ̀ lé e lórí; rántí ogun — má ṣe tún ṣe ọ́ mọ́.",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "fi ... lé"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lé e lórí"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "irọ̀ rẹ̀"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "rántí"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "tún ṣe ọ́ mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:31:22.133723361Z",
+  "model": "glm-5.3"
+}

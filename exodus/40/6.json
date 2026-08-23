@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Kí o sì fi ⟨את⟩ pẹpẹ ẹbọ sísun sí iwájú ọ̀nà-ìwọle àgọ́ náà, àgọ́ ìpàdé.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "kí o sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pẹpẹ ẹbọ sísun"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbọ sísun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sí iwájú"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọ̀nà-ìwọle"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "àgọ́ náà"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:44.675704232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Wọ́n fi ọmọ-ọdọ ni ṣe ní àwọn ipò gíga púpọ̀, nígbà tí àwọn olówó gbé ní ipò ìsálù, wọ́n jókòó níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "wọ́n fi"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "ọmọ-ọdọ ni ṣe"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ní àwọn ipò gíga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "nígbà tí àwọn olówó"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "ní ipò ìsálù"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "wọ́n jókòó níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:29.880292691Z",
+  "model": "glm-5.3"
+}

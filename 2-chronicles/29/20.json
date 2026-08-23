@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Chizkiyahu ọba sì sọ́kọ̀, ó gbà ⟨את⟩ àwọn ìjòyè ìlú náà papọ̀, ó sì gòórò sórí ilé Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "sì sọ́kọ̀"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ó gbà...papọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìjòyè ìlú náà"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "àwọn ìjòyè"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ó sì gòórò sórí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T05:34:09.368983619Z",
+  "model": "glm-5.3"
+}

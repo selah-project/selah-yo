@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì sọ fún mi pé: Ben-Adam, dúró lórí ẹsẹ rẹ, èmi yóò sì bá ⟨את⟩ ọ sọ̀rọ̀.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì sọ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ẹsẹ rẹ"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "èmi yóò sì sọ̀rọ̀"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ọ",
+      "marks": "ọ (òun tí a ń bà á sọ̀rọ̀)"
+    }
+  ],
+  "timestamp": "2026-08-23T02:34:04.988638205Z",
+  "model": "glm-5.3"
+}

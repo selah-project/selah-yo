@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Elohim sì ṣe ⟨את⟩ ẹranko ilẹ̀ ayé ní àwọn irú rẹ̀, àti ⟨את⟩ ẹran-ọ̀sìn ní àwọn irú rẹ̀, àti ⟨את⟩ gbogbo nǹkan tó ń lkẹ̀sẹ̀ lọ lórí ilẹ̀ ní àwọn irú rẹ̀; Elohim sì rí i pé ó dára.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹranko ilẹ̀ ayé"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ní àwọn irú rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ní àwọn irú rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo nǹkan tó ń lkẹ̀sẹ̀ lọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nǹkan tó ń lkẹ̀sẹ̀ lọ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ní àwọn irú rẹ̀"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "sì rí i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ó dára"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:20.669391039Z",
+  "model": "glm-5.3"
+}

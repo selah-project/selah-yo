@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Wọ́n sì sọ fún Yoav pé: kíyèsi i, ọba ń kọ́ ọfọ́, ó sì ń ṣe ìgbọ́-àníyan fún Avshalom.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "wọ́n sì sọ fún"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kíyèsi i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ń kọ́ ọfọ́"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "ń ṣe ìgbọ́-àníyan"
+    },
+    {
+      "surface": "על",
+      "gloss": "fún"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-23T01:06:57.178544581Z",
+  "model": "glm-5.3"
+}

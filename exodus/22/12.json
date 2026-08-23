@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Tí ẹranko-àwọ̀sà bá sì jẹ ẹ́, kí ó mu ìdí ẹ̀rí wá; ẹranko tí wọ́n jẹ, kò ní san padà.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Tí ... bá sì"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ẹranko-àwọ̀sà"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "jẹ ẹ́"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "kí ó mu ... wá"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ìdí ẹ̀rí"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "ẹranko tí wọ́n jẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ní san padà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:24.371636431Z",
+  "model": "glm-5.3"
+}

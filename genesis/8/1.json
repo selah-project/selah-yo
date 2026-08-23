@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Elohim sì rántí ⟨את⟩ Noach, àti ⟨את⟩ gbogbo ẹranko-alàyè, àti ⟨את⟩ gbogbo ẹran-ọ̀sìn tí ó wà lára rẹ̀ nínú ọkọ̀; Elohim sì fi afẹ́fẹ́ kàn ayé, omi sì dúró dàgbà-sókè.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "sì rántí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ẹranko-alàyè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ẹranko-alàyè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "wà lára rẹ̀ ⟨את⟩"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "nínú ọkọ̀"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "sì fi ... kàn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "afẹ́fẹ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé ... lórí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "sì dúró dàgbà-sókè"
+    },
+    {
+      "surface": "המים",
+      "gloss": "omi"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:18.616007693Z",
+  "model": "glm-5.3"
+}

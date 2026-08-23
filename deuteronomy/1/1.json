@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ìwọ̀nyí ni àwọn ọ̀rọ̀ tí Moshe sọ fún gbogbo Israẹli, ní ẹ̀gbẹ́ ke mí nína Yorudani, ní ijù, ní pẹ̀tẹ́ ilẹ̀, níwájú Suph, láàrin Paran àti láàrin Tofel, Laban, Haserot, àti Di-Zahabu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ìwọ̀nyí"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ní ẹ̀gbẹ́ ke mí nína"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudani"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní ijù"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "ní pẹ̀tẹ́ ilẹ̀"
+    },
+    {
+      "surface": "מול",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàrin"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàrin"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "Tofel"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "Haserot"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "àti Di-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahabu"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:26.229115478Z",
+  "model": "glm-5.3"
+}

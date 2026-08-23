@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àti pé a fi ìlẹ́kún pa ⟨את⟩wọ́n run, bí a ti ṣe sí Sichon ọba Cheshbon; a fi ìlẹ́kún pa gbogbo ìlú run — àwọn okùnrin pẹ̀lú àwọn obìnrin àti àwọn ọmọdé.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "Àti pé a fi ìlẹ́kún pa … run"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩wọ́n",
+      "marks": "wọ́n (àwọn ìlú yẹn)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí a ti ṣe"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "sí Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "a fi ìlẹ́kún pa … run"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "àwọn okùnrin"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "àwọn obìnrin"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "àti àwọn ọmọdé"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:51.989866717Z",
+  "model": "glm-5.3"
+}

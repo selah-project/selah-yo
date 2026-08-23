@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì ṣe pátákó ẹ̀rú ilẹ̀ yìdí, ọgbọ̀n ẹsẹ̀ gígùn rẹ̀, ọgbọ̀n ẹsẹ̀ gbòòrò rẹ̀, ẹ̀wá ẹsẹ̀ gíga rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pátákó yìdí"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ẹ̀rú ilẹ̀"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ọgbọ̀n"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ẹsẹ̀"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "gígùn rẹ̀"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ọgbọ̀n"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ẹsẹ̀"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "gbòòrò rẹ̀"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ẹ̀wá"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ẹsẹ̀"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "gíga rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:24:36.022103959Z",
+  "model": "glm-5.3"
+}

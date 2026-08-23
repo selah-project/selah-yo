@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Kí àwọn ẹlẹ́ṣẹ̀ parun kúrò láti inú ayé, àwọn búburú sì kò ní sí mọ́. Búkún ⟨את⟩ Yahweh, ẹ̀mí mi. Halleluyah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "kí wọ́n parun"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "àwọn ẹlẹ́ṣẹ̀"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò láti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "inú ayé"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "àwọn búburú sì"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "kò ní sí"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Búkún"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ẹ gbé sọ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:11.470248765Z",
+  "model": "glm-5.3"
+}

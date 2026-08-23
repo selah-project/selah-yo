@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ìṣẹ́bẹ́ ni? Bí wàrà ni ìwọ dùn mí sóde, bí ọ̀gì tí ó tí tí nnkan lẹ́ẹ̀ ni ìwọ fi mí pọ́?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ìṣẹ́bẹ́ ni?"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "bí wàrà"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "ìwọ dùn mí sóde"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "bí ọ̀gì tí ó tí nnkan"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "ìwọ fi mí pọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:10.949528876Z",
+  "model": "glm-5.3"
+}

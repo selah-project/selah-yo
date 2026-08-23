@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Nítorí tí èmi ni aláìní àti aláìnírọ̀, ọkàn mi sì ti ṣègbé nínú mi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aláìní"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "àti aláìnírọ̀"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi ni"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ọkàn mi sì"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ti ṣègbé"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "nínú mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:46.077259884Z",
+  "model": "glm-5.3"
+}

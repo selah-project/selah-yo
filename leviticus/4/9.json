@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "àti ⟨את⟩ ìdájì àwọn ẹ̀dọ̀fóró, àti ⟨את⟩ ọra tí ó wà lé wọn, tí ó sì wà lé àwọn ẹ̀gbẹ́ ikún, àti ⟨את⟩ ipàkẹ̀ tí ó wà lórí ⟨the⟩ ẹ̀dọ̀ — lé àwọn ẹ̀dọ̀fóró ló fi máa yọ ọ́ kúrò.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìdájì àwọn ẹ̀dọ̀fóró"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ìdájì"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "àwọn ẹ̀dọ̀fóró"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ọra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "ó wà lé wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó sì wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "àwọn ẹ̀gbẹ́ ikún"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ipàkẹ̀"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ipàkẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ẹ̀dọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "àwọn ẹ̀dọ̀fóró"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ló fi máa yọ ọ́ kúrò"
+    }
+  ],
+  "timestamp": "2026-08-22T23:35:49.196506970Z",
+  "model": "glm-5.3"
+}

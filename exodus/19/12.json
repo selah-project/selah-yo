@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "\"Ìwọ kí o si pa ìlà-ọ̀nà fún ⟨את⟩ àwọn ènìyàn ní ìkàlẹ̀, wí pé: Ẹ ṣọ́ fún ara yín kí ẹ má ṣé òkè náà, kí ẹ̀yin àti kí ẹ kàn ìparun rẹ̀; ẹnikẹ́ni tí ó bá kàn òkè náà ni kí a pa lọ́wọ́ ikú.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "kí o si pa ìlà-ọ̀nà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní ìkàlẹ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Ẹ ṣọ́ fún ara yín"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún ara yín"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "kí ẹ má ṣé"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "òkè náà"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "àti kí ẹ kàn"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "ìparun rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ẹnikẹ́ni tí ó bá"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kàn"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "òkè náà"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ni kí a pa lọ́wọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:51.706421279Z",
+  "model": "glm-5.3"
+}

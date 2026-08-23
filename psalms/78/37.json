@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ẹnu-ọ̀kan wọn kò dúró ṣinṣin pẹ̀lú Rẹ̀, wọn kò dúró láṣẹ̀sẹ̀ nínú májẹ̀mú Rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "ẹnu-ọ̀kan wọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "dúró ṣinṣin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú Rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wọn kò"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "dúró láṣẹ̀sẹ̀"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "nínú májẹ̀mú Rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:19.099011714Z",
+  "model": "glm-5.3"
+}

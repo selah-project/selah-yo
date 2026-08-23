@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Gbéga, Yerushalayim, Yahweh ⟨את⟩; yin Elohim rẹ, Tsiyon.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Gbéga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "yin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:33.012556401Z",
+  "model": "glm-5.3"
+}

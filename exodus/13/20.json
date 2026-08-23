@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Wọ́n sì bẹ̀rẹ̀ ìrìnàjò láti Sukkot, wọ́n sì kó àtẹ́lé ìdúró ní Etam, ní etí ijù náà.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Wọ́n sì bẹ̀rẹ̀ ìrìnàjò láti"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wọ́n sì kó àtẹ́lé ìdúró ní"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ní etí"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ijù náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:20:47.616013085Z",
+  "model": "glm-5.3"
+}

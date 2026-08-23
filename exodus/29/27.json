@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ìwọ ó sì yọ́ọ́ mọ́ ⟨את⟩ ọkàn-ayá ti ẹbun-ífọ̀n àti ⟨את⟩ ẹsẹ̀ ti ẹbun-ìgbéga, tí a fọn tí a sì gbé sókè, láti inú abọ́ àgbò ti ìgbé-iyè, láti ti Aharon àti láti ti àwọn ọmọ rẹ.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "ìwọ ó sì yọ́ọ́ mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn-ayá"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ọkàn-ayá"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "ti ẹbun-ífọ̀n"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹsẹ̀"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ẹsẹ̀"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "ti ẹbun-ìgbéga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "a fọn"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "tí a sì"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "gbé sókè"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "láti inú abọ́ àgbò"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ti ìgbé-iyè"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "láti ti"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "àti láti ti"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "àwọn ọmọ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:28:48.915045299Z",
+  "model": "glm-5.3"
+}

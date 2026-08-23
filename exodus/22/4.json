@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Tí ènìyàn bá jẹ́ kí ọ̀pọ̀n àti kìkì ìgébè jẹ́ ohun, ó sì fi ⟨את⟩ ẹran rẹ̀ sílẹ̀, ó sì jẹ láàárín pámọ́ ẹlòmíràn; láti èrèjà pámọ́ ara rẹ̀ àti èrèjà kìkì ara rẹ̀ ni ó gbọdọ̀ san.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "bá jẹ́ kí... jẹ́ ohun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ọ̀pọ̀n"
+    },
+    {
+      "surface": "או",
+      "gloss": "àti"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kìkì ìgébè"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ó sì fi... sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹran rẹ̀"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "ẹran rẹ̀"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ó sì jẹ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "láàárín pámọ́"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ẹlòmíràn"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "làti èrèjà"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "pámọ́ ara rẹ̀"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "àti èrèjà"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "kìkì ìgébè ara rẹ̀"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ó gbọdọ̀ san"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:27.981560603Z",
+  "model": "glm-5.3"
+}

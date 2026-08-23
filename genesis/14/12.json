@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Wọ́n sì gba ⟨את⟩ Lóòtì àti ⟨את⟩ ohun-ìní rẹ̀, ọmọ arábirin Avraham, wọ́n sì lọ; òun sì ń gbé ní Sodomu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "wọ́n sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lóòtì"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lóòtì"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ohun-ìní rẹ̀"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ohun-ìní rẹ̀"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "arábirin"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wọ́n sì lọ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "òun sì"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ń gbé"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "ní Sodomu"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:36.980407556Z",
+  "model": "glm-5.3"
+}

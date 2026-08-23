@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ṣùgbọ́n láìlọ́pọ̀ ni o gbọ́dọ̀ pa á; ọwọ́ rẹ ni yóò wà ní àkọ́kọ́ láti pa á, tí ọwọ́ gbogbo ènìyàn sì wà ní ìparí;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "láìlọ́pọ̀ (pa)"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "ni o gbọ́dọ̀ pa á"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ní"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "ní àkọ́kọ́"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "láti pa á"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "tí ọwọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "ní ìparí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:58.084255733Z",
+  "model": "glm-5.3"
+}

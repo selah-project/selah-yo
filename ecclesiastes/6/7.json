@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Gbogbo iṣẹ́ akíyèsí ènìyàn ní fún ẹnu rẹ̀, ṣùgbọ́n ẹ̀mí ìyè kò ní kún.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "iṣẹ́ akíyèsí"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn (ìtumọ̀ 'èníyàn')"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "fún ẹnu rẹ̀"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ṣùgbọ́n pẹ̀lú"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ẹ̀mí ìyè"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "kún"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:22.007326779Z",
+  "model": "glm-5.3"
+}

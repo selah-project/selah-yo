@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó sì fi ìran rẹ̀ léyẹ̀ idà lọ, ó sì bínú sí àjogún rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "ó sì fi léyẹ̀ lọ"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "idà"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ìran rẹ̀"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "sí àjogún rẹ̀"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "ó bínú sí"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:37.279889974Z",
+  "model": "glm-5.3"
+}

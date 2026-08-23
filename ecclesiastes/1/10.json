@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ṣé nnkan kan wà tí a lè sọ pé: Wò àyìí, èyí tuntun ni? Ó ti wà nísàálẹ́ láti ìgbà pípẹ́, láàárín àwọn ìgbà tí ó wà ṣáájú wa.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ṣé nnkan kan wà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nnkan"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "tí a lè sọ pé"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wò"
+    },
+    {
+      "surface": "זה",
+      "gloss": "àyìí"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tuntun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ó ti wà nísàálẹ́ láti ìgbà pípẹ́"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ó ti wà"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "láàárín àwọn ìgbà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ó wà"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "ṣáájú wa"
+    }
+  ],
+  "timestamp": "2026-08-23T04:39:59.539522078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ọba Aramu sì ti pàṣẹ fún ⟨את⟩ awọn adarí ti ọkọ̀ ìjà tí ó jẹ́ ti rẹ̀, wí pé: \"Ẹ má ṣe já wọn ⟨את⟩ ẹnì kẹ́rẹ́ tí ó kéré, ⟨את⟩ ẹnì tó tóbi, àfi ⟨את⟩ Ọba Israẹli nìkan.\"",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Ọba sì"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pàṣẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awọn adarí ti ọkọ̀ ìjà"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "awọn adarí"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ti ọkọ̀ ìjà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jẹ́ ti rẹ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "já wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹnì kẹ́rẹ́ tí ó kéré"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ẹnì kẹ́rẹ́ tí ó kéré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹnì tó tóbi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ẹnì tó tóbi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "àfi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "àfi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ọba Israẹli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nìkan"
+    }
+  ],
+  "timestamp": "2026-08-23T05:30:11.566380749Z",
+  "model": "glm-5.3"
+}

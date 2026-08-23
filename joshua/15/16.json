@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Kalev sì wí pé: Ẹni tí ó bá lu ⟨את⟩ Kiryat-Sefar lù, tí ó sì mú u gbé, èmi yóò fún un ní ⟨את⟩ Akhsah ọmọbìnrin mi níyàwó.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "bá lu … lù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefar"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefar"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "tí ó sì mú u gbé"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "èmi yóò fún un ní"
+    },
+    {
+      "surface": "לו",
+      "gloss": "un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsah"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsah"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ọmọbìnrin mi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "níyàwó"
+    }
+  ],
+  "timestamp": "2026-08-23T00:28:32.735779861Z",
+  "model": "glm-5.3"
+}

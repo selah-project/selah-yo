@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 24:12",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Nítorí tí o bá sọ pé, Ki ni, a kò mọ̀ ohun yìí — ṣé Ẹni tí ó ń ṣe ìwòn ọkàn kì í ṣe ẹni tí ó ń gbọ́n? Àti Ẹni tí ó ń ṣọ́ ẹ̀mí rẹ, ṣé kì í ṣe ẹni tí ó mọ̀? Ó sì máa fi ẹ̀san fún ènìyàn gẹ́gẹ́ bí iṣẹ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "o bá sọ pé"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ki ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "a mọ̀"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ohun yìí"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ṣé kì í ṣe"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "Ẹni tí ó ń ṣe ìwòn"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "tí ó ń gbọ́n"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "Àti Ẹni tí ó ń ṣọ́"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ẹ̀mí rẹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ẹni"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tí ó mọ̀"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "Ó sì máa fi ẹ̀san fún"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "gẹ́gẹ́ bí iṣẹ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:11:09.854627386Z",
+  "model": "glm-5.3"
+}

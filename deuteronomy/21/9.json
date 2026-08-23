@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ìwọ kì í, o máa gbé ⟨ẹjẹ⟩ ẹ̀jẹ́ ènìyàn aláìẹ̀jẹ́ kúrò nínú àrin rẹ, nítorí pé o ń ṣe ohun tó tọ́ nínú ojú Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ìwọ kì í"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "o máa gbé"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "⟨ẹjẹ⟩ ẹ̀jẹ́"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "ènìyàn aláìẹ̀jẹ́"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "kúrò nínú àrin rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o ń ṣe"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ohun tó tọ́"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nínú ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:15:16.435439168Z",
+  "model": "glm-5.3"
+}

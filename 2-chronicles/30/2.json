@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Nítorí ọba àti àwọn olórí rẹ̀, àti gbogbo ìjọ náà ní Yerushalayim, ti pinnu láti ṣe Pesach náà ní oṣù kejì.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "ti pinnu (gbìmọ̀)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "àti àwọn olórí rẹ̀"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach náà"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ní oṣù"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kejì"
+    }
+  ],
+  "timestamp": "2026-08-23T05:35:14.442657413Z",
+  "model": "glm-5.3"
+}

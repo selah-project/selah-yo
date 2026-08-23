@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Orúkọ mẹfà lórí ⟨the⟩ òkúta kan, àti ⟨את⟩ àwọn orúkọ tí ó ku mẹfà lórí ⟨the⟩ òkúta kejì, gẹ́gẹ́ bí ìbí wọn.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "mẹfà"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "nínú àwọn orúkọ wọn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "⟨the⟩ òkúta"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn orúkọ tí ó ku mẹfà"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "àwọn orúkọ"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "mẹfà"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "tí ó ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "⟨the⟩ òkúta"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "kejì"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "gẹ́gẹ́ bí ìbí wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:17.660425810Z",
+  "model": "glm-5.3"
+}

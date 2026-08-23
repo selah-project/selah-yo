@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Èmi ó sì fún ilẹ̀ yín ní òjò ní àsìkò rẹ̀, yóòrẹ́ àti málkóṣu, ẹ ó sì kó àgbàdo yín, àti tíròṣu yín, àti epo òórùn yín.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "èmi ó sì fún"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ní òjò"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ilẹ̀ yín"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ní àsìkò rẹ̀"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "yóòrẹ́"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "àti málkóṣu"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ẹ ó sì kó"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "àgbàdo rẹ"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "àti tíròṣu rẹ"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "àti epo òórùn rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:07.512783088Z",
+  "model": "glm-5.3"
+}

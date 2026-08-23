@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó sì ṣẹlẹ̀, nígbà tí Davidi wà pẹ̀lú ⟨את⟩ Edomu, nígbà tí Yoabu, olórí ogun náà, ń gun láti sin ⟨את⟩ àwọn tí wọ́n ti pa, ó sì pa gbogbo okùnrin ní Edomu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì ṣẹlẹ̀"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "nígbà tí…wà"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "nígbà tí…ń gun"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ogun náà"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "láti sin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn tí wọ́n ti pa"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "àwọn tí wọ́n ti pa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ó sì pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "okùnrin"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ní Edomu"
+    }
+  ],
+  "timestamp": "2026-08-23T01:17:58.246731660Z",
+  "model": "glm-5.3"
+}

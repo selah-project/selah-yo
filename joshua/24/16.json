@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Àwọn ènìyàn náà sì dáhùn, wọ́n sì wí pé: Kí ó jìnà sí wa láti fi sílẹ̀ ⟨את⟩ Yahweh, láti jọ́sín fún àwọn ọlọ́run míràn.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "sì dáhùn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Àwọn ènìyàn náà"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wọ́n sì wí pé"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "kí ó jìnà sí wa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "láti fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "láti jọ́sín fún"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "àwọn ọlọ́run"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "míràn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:32:09.309852764Z",
+  "model": "glm-5.3"
+}

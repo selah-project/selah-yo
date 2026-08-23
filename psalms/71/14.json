@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Ṣùgbọ́n èmi, nígbà gbogbo ni mo ń retí; èmi sì máa fi kún lórí gbogbo ìyìn rẹ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "mo ń retí"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "èmi sì máa fi kún"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ìyìn rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:55.067817973Z",
+  "model": "glm-5.3"
+}

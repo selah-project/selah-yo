@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Nítorí náà a kì í bẹ̀rù, bí ayé bá yí padà, àti bí àwọn òkè bá gbẹ̀mí sí ọkàn òkun.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "náà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "bẹ̀rù"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "bí ... bá yí padà"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "àti bí ... bá gbẹ̀mí"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sí ọkàn"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "òkun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:30.414459013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó sọ nínú ọkàn rẹ̀ pé, 'Èmi kì yóò ṣíṣẹ́; láti ìran dé ìran, ⟨èmi⟩ kì í bá wà nínú ìrora.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "nínú ọkàn rẹ̀"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í ṣe pé"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "èmi yóò ṣíṣẹ́"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "láti ìran"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dé ìran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨èmi⟩ kì í"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "wà nínú ìrora"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:27.750339382Z",
+  "model": "glm-5.3"
+}

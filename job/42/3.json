@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ta ni eyí tí ń fi ⟨ìmọ̀rà⟩ pamọ́ láìní ìmọ̀? Nítorí náà mo ti sọ̀rọ̀, èmi kò sì gbọ́n; nǹkan ìyanu ni ó kọjá mi, èmi kò sì mọ̀.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ni eyí"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "tí ń fi pamọ́"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ìmọ̀rà"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "láìní"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ìmọ̀"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "mo ti sọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "èmi kò sì"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "gbọ́n"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "nǹkan ìyanu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kọjá mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:32:00.162332957Z",
+  "model": "glm-5.3"
+}

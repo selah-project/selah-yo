@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Ó sì gbé ọwọ́ rẹ̀ sókè sí wọn, láti jẹ́ kí ⟨את⟩ wọn ṣubú nínú àgbálágbulà.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "sì gbé ... sókè"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "láti jẹ́ kí ... ṣubú"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "nínú àgbálágbulà"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nínú àgbálágbulà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:13.494717688Z",
+  "model": "glm-5.3"
+}

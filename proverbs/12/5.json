@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ìroǹú àwọn olódodo ni ìdájọ́; ìgbìmọ̀ràn àwọn èyí kẹ̀sẹ̀ jẹ́ ètan.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "ìroǹú"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "àwọn olódodo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "ìgbìmọ̀ràn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn èyí kẹ̀sẹ̀"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ètan"
+    }
+  ],
+  "timestamp": "2026-08-23T04:06:13.033239044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ìwàdùfà Daviidi. Gbọ́, Yahweh, ⟨ìdájọ́ ododo⟩; fi etí sílẹ̀ fún ìkìlọ̀ mi; fi ọ̀rún sílẹ̀ fún ìwàdùfà mi, láìsẹ́ èté ètè ẹ̀tan.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Ìwàdùfà"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Daviidi"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Gbọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ododo ⟨ìdájọ́⟩"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "fi etí sílẹ̀"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "fún ìkìlọ̀ mi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "fi ọ̀rún sílẹ̀"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "fún ìwàdùfà mi"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "láìsẹ́"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "èté"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ẹ̀tan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:34.232915718Z",
+  "model": "glm-5.3"
+}

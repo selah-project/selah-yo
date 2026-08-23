@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Ìrò-inú wọn ni pé ilé wọn yóò dúró láélái, ibùgbé wọn fún ìran lẹ́yìn ìran; wọ́n ń pè orúkọ wọn sórí àwọn ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "ìrò-inú wọn"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "ilé wọn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "láélái"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "ibùgbé wọn"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "fún ìran"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "àti ìran"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "wọ́n pè"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "pẹ̀lú orúkọ wọn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sórí"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "àwọn ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:40.151637308Z",
+  "model": "glm-5.3"
+}

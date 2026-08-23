@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 37:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ó sì yọ fún un àwọn ìrígí wúrà mẹrin lórí àwọn ẹsẹ̀ rẹ̀ mẹrin; àwọn ìrígí méjì lórí ẹgbẹ kan rẹ̀, àti àwọn ìrígí méjì lórí ẹgbẹ kejì rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "ó sì yọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mẹrin"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "àwọn ìrígí"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mẹrin"
+    },
+    {
+      "surface": "פעמתיו",
+      "gloss": "àwọn ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "àwọn ìrígí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "ẹgbẹ ... rẹ̀"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "àti ... méjì"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "àwọn ìrígí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "ẹgbẹ rẹ̀"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "kejì"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:34.484350193Z",
+  "model": "glm-5.3"
+}

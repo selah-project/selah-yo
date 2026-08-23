@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Ṣùgbọ́n ⟨את⟩ wúrà, àti ⟨את⟩ fàdákà, ⟨את⟩ kòǹkò, ⟨את⟩ irin, ⟨את⟩ tin, àti ⟨את⟩ òbú,",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wúrà"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "fàdákà"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòǹkò"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kòǹkò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irin"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "irin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tin"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "tin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "òbú"
+    },
+    {
+      "surface": "העfרת",
+      "gloss": "òbú"
+    }
+  ],
+  "timestamp": "2026-08-23T00:03:18.720263805Z",
+  "model": "glm-5.3"
+}

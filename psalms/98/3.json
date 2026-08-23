@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 98,
+  "translation": "Ó ti rántí chesed rẹ̀ àti òtítọ́ rẹ̀ sí ilé Yisrael; gbogbo ìgbà-òpin ilẹ̀ ayé ti rí ⟨את⟩ ìgbàlà Elohim wa.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ó ti rántí"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed rẹ̀"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "àti òtítọ́ rẹ̀"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sí ilé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ti rí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ìgbà-òpin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìgbàlà"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:27.874952473Z",
+  "model": "glm-5.3"
+}

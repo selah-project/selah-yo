@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "àti ⟨את⟩ Kesed, àti ⟨את⟩ Chazo, àti ⟨את⟩ Pildash, àti ⟨את⟩ Yidlaph, àti ⟨את⟩ Bethuel;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Kesed"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Kesed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Chazo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Chazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Pildash"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yidlaph"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Yidlaph"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Bethuel"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Bethuel"
+    }
+  ],
+  "timestamp": "2026-08-23T05:39:06.939183730Z",
+  "model": "glm-5.3"
+}

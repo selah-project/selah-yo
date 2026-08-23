@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ki Yahweh dáhùn ọ́ ní ọjọ́ ìṣòro; orúkọ Elohim Yaakov gbe ọ́ sókè.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "Ki … dáhùn ọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "צרha",
+      "gloss": "ìṣòro"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "gbe ọ́ sókè"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:22.458004808Z",
+  "model": "glm-5.3"
+}

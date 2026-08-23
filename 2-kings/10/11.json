@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Yehu sì lu ⟨את⟩ gbogbo ènìyàn tí ó ṣẹ̀kù fún ilé Achav ní Yizreel, àti gbogbo àwọn olórí rẹ̀, àti àwọn ọ̀rẹ́ rẹ̀, àti àwọn àlùfáà rẹ̀, tí ó fi tí kò fi enìkan sílẹ̀ fún un láì ní àwọn àláfíà.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Yehu sì lu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ènìyàn tí ó ṣẹ̀kù"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ènìyàn tí ó ṣẹ̀kù"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fún ilé"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "ní Yizreel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "àwọn olórí rẹ̀"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "àti àwọn ọ̀rẹ́ rẹ̀"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "àti àwọn àlùfáà rẹ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tí ó fi"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "tí kò"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "fi enìkan sílẹ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "láì ní àwọn àláfíà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:32.566395168Z",
+  "model": "glm-5.3"
+}

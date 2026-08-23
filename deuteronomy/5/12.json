@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ṣọ́ ⟨את⟩ ọjọ́ Shabbat láti ṣọ́ọ́ mímọ́, gẹ́gẹ́ bí Yahweh, Elohim rẹ, ti pàṣẹ fún ọ.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọjọ́ Shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "láti ṣọ́ọ́ mímọ́"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ti pàṣẹ fún ọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:54.252252446Z",
+  "model": "glm-5.3"
+}

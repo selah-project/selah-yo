@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 11:7",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ṣé ìwádìí Eloah ni o lè rí? Ṣé títí dé ìparí Shaddai ni o lè rí?",
+  "tokens": [
+    {
+      "surface": "החקר",
+      "gloss": "ìwádìí"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "o lè rí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ṣé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "ìparí"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "o lè rí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:30.279541378Z",
+  "model": "glm-5.3"
+}

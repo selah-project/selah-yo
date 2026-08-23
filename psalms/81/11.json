@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 81,
+  "translation": "Èmi ni Yahweh, Elohim rẹ, ẹni tí ó gbé e sókè láti ilẹ̀ Mitsrayim; fẹ̀ ẹnu rẹ kí ó tóbi, èmi yóò kún inú rẹ.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "ẹni tí ó gbé e sókè"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "láti ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "fẹ̀…kí ó tóbi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ẹnu rẹ"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "èmi yóò kún inú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:52.006532926Z",
+  "model": "glm-5.3"
+}

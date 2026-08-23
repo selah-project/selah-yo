@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Nígbà tí ọ̀tá mí bá padà sẹ́yìn, wọn yóò ṣẹ́fà, wọn yóò sì parun níwájú ojú rẹ.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "nígbà tí ... bá padà"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ọ̀tá mí"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "sẹ́yìn"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "wọn yóò ṣẹ́fà"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "wọn yóò sì parun"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "níwájú ojú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:10.905909284Z",
+  "model": "glm-5.3"
+}

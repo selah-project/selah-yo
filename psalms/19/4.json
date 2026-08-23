@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Kò sí ọ̀rọ̀, kò sì ọ̀rọ̀-ìjábọ̀; líle kò sí, ohùn wọn kò gbọ́.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Kò sí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ọ̀rọ̀-ìjábọ̀"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "líle kò sí"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kò gbọ́"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ohùn wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:19.340756682Z",
+  "model": "glm-5.3"
+}

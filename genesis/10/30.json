@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ibùgbé wọn sì jẹ́ láti Mesha, ní ìrìnàjò dé Sephar, òkè ìlà-oòrùn.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jẹ́ sì"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "ibùgbé wọn"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "láti Mesha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "ní ìrìnàjò dé"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Sephar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "ìlà-oòrùn"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:12.965050330Z",
+  "model": "glm-5.3"
+}

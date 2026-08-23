@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àwọn ọ̀gá-ọ̀nà sì kígbe, wọ́n sì kọ́ ọ sí inú ilé ọba.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sì kígbe"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "àwọn ọ̀gá-ọ̀nà"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "wọ́n sì kọ́ ọ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "sí inú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:30:28.042691479Z",
+  "model": "glm-5.3"
+}

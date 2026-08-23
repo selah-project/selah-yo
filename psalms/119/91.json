@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Gẹ́gẹ́ bí òfin ìdájọ́ rẹ, wọ́n dúró ⟨ní⟩ ọjọ́ yìí; nítorí gbogbo nǹni ⟨jẹ́⟩ ìránṣẹ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "Gẹ́gẹ́ bí òfin ìdájọ́ rẹ"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "wọ́n dúró"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨ní⟩ ọjọ́ yìí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "gbogbo nǹni"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "⟨jẹ́⟩ ìránṣẹ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:11.453223989Z",
+  "model": "glm-5.3"
+}

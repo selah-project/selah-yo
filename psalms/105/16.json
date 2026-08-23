@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ó sì pè ẹ̀bíọ̀nù dé orí ilẹ̀ yìí, ó sì fọ gbogbo ọ̀nà búrà dánú.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ó sì pè"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ẹ̀bíọ̀nù dé"
+    },
+    {
+      "surface": "על",
+      "gloss": "orí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ yìí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "búrà"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ó sì fọ dánú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:03.193302859Z",
+  "model": "glm-5.3"
+}

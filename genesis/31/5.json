@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Ó sì wí fún wọn pé, Mo ń rí ⟨את⟩ ojú baba yín, nítorí pé kò sí sí mi bí tí àná àti ìjọ́lá; ṣùgbọ́n Elohim ti baba mi ti wà pèlú mi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí"
+    },
+    {
+      "surface": "להן",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Mo ń rí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú baba yín"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "baba yín"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "bí tí àná"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "àti ìjọ́lá"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ṣùgbọ́n Elohim ti"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba mi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ti wà"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "pèlú mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:06:17.421531632Z",
+  "model": "glm-5.3"
+}

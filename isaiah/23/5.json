@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Bí ìgbà tí ìròyìn dé Mísráìmù ṣe rí, ṣe ni ⟨wọn⟩ ń yọ̀ ara-wẹ̀ nígbà tí wọn gbọ́ ìròyìn Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "bí ìgbà tí"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ìròyìn"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "dé Mísráìmù"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "wọn ń yọ̀ ara-wẹ̀"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nígbà tí wọn gbọ́ ìròyìn"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    }
+  ],
+  "timestamp": "2026-08-23T01:48:50.382476568Z",
+  "model": "glm-5.3"
+}

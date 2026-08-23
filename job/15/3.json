@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ṣé ó di ìjà ọ̀rọ̀ pẹ̀lú ọ̀rọ̀ tí kò ní ànfààní, àti ọ̀rọ̀-sísọ tí kò lè ṣe èrere nínú wọn?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "di ìjà ọ̀rọ̀"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "pẹ̀lú ọ̀rọ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "ní ànfààní"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "àti ọ̀rọ̀-sísọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "lè ṣe èrere"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nínú wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:21:27.437048298Z",
+  "model": "glm-5.3"
+}

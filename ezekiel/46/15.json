@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Wọ́n máa ṣe ⟨את⟩ ẹran agbọn náà, àti ⟨את⟩ ẹbọ ọ̀rẹ̀ náà, àti ⟨את⟩ epo náà, ní àárọ̀, ní àárọ̀ — ẹbọ iná pẹ̀tẹ́lẹ̀.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "wọ́n máa ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹran agbọn náà"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ẹran agbọn náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹbọ ọ̀rẹ̀ náà"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ẹbọ ọ̀rẹ̀ náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "epo náà"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "epo náà"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ẹbọ iná"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pẹ̀tẹ́lẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:58:06.220465731Z",
+  "model": "glm-5.3"
+}

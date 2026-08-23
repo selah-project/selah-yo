@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Yaakov, baba wọn, sọ fún wọn pé: Ẹ ti jé ⟨את⟩ mi lọ́mọ; Yosef kò sí, Shimoni sì kò sí, ẹ sì ń gbà ⟨את⟩ Binjamini lọ́dọ̀ mi; gbogbo rẹ̀ ti wáyé di mi mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baba wọn"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mi",
+      "marks": "mi"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "ẹ ti jé ... lọ́mọ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "Shimoni sì"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamini"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamini"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ẹ ń gbà"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lọ́dọ̀ mi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ti wáyé"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "gbogbo rẹ̀ di mi mu"
+    }
+  ],
+  "timestamp": "2026-08-22T23:11:39.461996488Z",
+  "model": "glm-5.3"
+}

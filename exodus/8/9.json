@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Yahweh sì ṣe gẹ́gẹ́ bí ọ̀rọ̀ Moshe; àwọn ọ̀pọ́lọ́ sì kú, kúrò láti inú àwọn ilé, láti inú àwọn ọ̀gbà, àti láti inú àwọn pápá.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "gẹ́gẹ́ bí ọ̀rọ̀"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "sì kú"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "àwọn ọ̀pọ́lọ́"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò láti inú"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "àwọn ilé"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti inú"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "àwọn ọ̀gbà"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "àti láti inú"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "àwọn pápá"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:21.404899747Z",
+  "model": "glm-5.3"
+}

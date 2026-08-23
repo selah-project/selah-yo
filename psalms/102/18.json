@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Ó ti yí lẹ́wà sí àdúà ẹni tí ó sọ̀fó-àìní, kò sì kẹ̀ẹ̀dí ⟨את⟩ àdúà wọn.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "yí lẹ́wà sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "àdúà"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "ẹni tí ó sọ̀fó-àìní"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "kẹ̀ẹ̀dí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àdúà wọn"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "àdúà wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:46.857211179Z",
+  "model": "glm-5.3"
+}

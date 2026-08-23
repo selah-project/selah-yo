@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ó sì mú ⟨את⟩ gbogbo ẹni tí a rí ní Yerushalayim àti ní Binyamìn dúró láti tẹ̀lé ẹ́; àwọn olùgbé Yerushalayim sì ṣe bíi májẹ̀mú Elohim, Elohim ti àwọn baba wọn.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ó sì mú… dúró"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ẹni tí a rí ní Yerushalayim àti ní Binyamìn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ẹni tí a rí"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "àti ní Binyamìn"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn olùgbé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "bíi májẹ̀mú"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "àwọn baba wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:37:50.069320191Z",
+  "model": "glm-5.3"
+}

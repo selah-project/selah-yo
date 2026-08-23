@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 59,
+  "translation": "Fún Olùṣàkóso-orin — 'Má ṣe ṣègbé' — fún Davíd, miktam, nígbà tí Shaul rán wọ́n, wọ́n sì ṣọ́ ⟨את⟩ ilé náà láti pa á.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún Olùṣàkóso-orin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Má ṣe"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ṣègbé"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún Davíd"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "nígbà tí … rán wọ́n"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "wọ́n sì ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé náà"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "láti pa á"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:13.304961941Z",
+  "model": "glm-5.3"
+}

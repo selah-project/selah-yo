@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Mo kọ̀ àwọn tí ó ń ṣọ́ ìrẹ́jì èké; ṣùgbọ́n èmi, nípa Yahweh ni mo gbẹ́kẹ̀ lé.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "mo kọ̀"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "àwọn tí ó ń ṣọ́"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ìrẹ́jì"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "èké"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mo gbẹ́kẹ̀ lé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:09.793533845Z",
+  "model": "glm-5.3"
+}

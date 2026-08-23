@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "(Nítorí Yoabu àti gbogbo Israẹli gbé ibẹ̀ fún oṣù mẹfa, tí wọ́n fi kéṣẹ́ gbogbo okùnrin ní Edomu.)",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "mẹfa"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "oṣù"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "fi kéṣẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "okùnrin"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ní Edomu"
+    }
+  ],
+  "timestamp": "2026-08-23T01:17:58.246897094Z",
+  "model": "glm-5.3"
+}

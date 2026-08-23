@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Tí àwọn ọmọ rẹ bá ṣẹ̀ sí i, ó sì fi wọ́n lé owó ìjàmbá wọn lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Tí…bá"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ṣẹ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ó sì fi wọ́n lé…lọ́wọ́"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ní owó"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ìjàmbá wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:17:32.778910843Z",
+  "model": "glm-5.3"
+}

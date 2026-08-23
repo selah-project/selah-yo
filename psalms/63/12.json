@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 63,
+  "translation": "Ọba sì yóò dúnmọ́ nínú Elohim; gbogbo ẹni tí ó búra níbẹ̀ yóò gbeega; nítorí ẹnu àwọn olósọ̀rọ̀-ìró yóò di dídẹ.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ọba sì"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "yóò dúnmọ́"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nínú Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "yóò gbeega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "ẹni tí ó búra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "níbẹ̀ (nípa Rẹ̀)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "yóò di dídẹ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "àwọn olósọ̀rọ̀"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ìró"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:17.298865126Z",
+  "model": "glm-5.3"
+}

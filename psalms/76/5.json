@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 76,
+  "translation": "Ìmọ́lẹ̀-ewá ni Ẹ, alágbára, láti inú àwọn òkè ìkọ́gbé.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Ìmọ́lẹ̀-ewá"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ni Ẹ"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "láti inú àwọn òkè"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ìkọ́gbé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:17.436748097Z",
+  "model": "glm-5.3"
+}

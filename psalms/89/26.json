@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Emi yóò gbé ọwọ́ rẹ̀ sí ori òkun, àti ọwọ́ ọ̀tún rẹ̀ sí ori àwọn odò.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Emi yóò gbé"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sí ori òkun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "àti sí ori àwọn odò"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ọwọ́ ọ̀tún rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:40.879440404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ègàn fún ọ, ilẹ̀, tí ọba rẹ jẹ́ ọmọdé, tí àwọn ìjòyè rẹ sì ń jẹun ní àárọ̀.",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ègàn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "tí ọba rẹ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "jẹ́ ọmọdé"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "tí àwọn ìjòyè rẹ sì"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ń jẹun"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:44.741859069Z",
+  "model": "glm-5.3"
+}

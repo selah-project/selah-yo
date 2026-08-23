@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 67,
+  "translation": "Ayé ti fúnní ní èso rẹ̀; ki Elohim, Elohim wa, ṣe ìbùkún fún wa.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ti fúnní ní"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "èso rẹ̀"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "ki ó ṣe ìbùkún fún wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:07.718834887Z",
+  "model": "glm-5.3"
+}

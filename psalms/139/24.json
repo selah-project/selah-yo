@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Ki o sì rí wí pé bí a ṣe bá ọ̀nà ìṣẹ̀gbé-sí-idì ní mi, ki o sì gbé mi lọ́ọ̀nà láéláé.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ki o sì rí wí pé"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ìṣẹ̀gbé-sí-idì"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ní mi"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "ki o sì gbé mi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lọ́ọ̀nà"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:35.163782478Z",
+  "model": "glm-5.3"
+}

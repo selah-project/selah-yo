@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "⟨את⟩ àpótá ẹ̀rí, àti ⟨את⟩ àwọn ọ̀pá rẹ̀, àti ⟨את⟩ ìbùjé-ìdákẹ́jẹ́ (kapporet).",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àpótá ẹ̀rí"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "àpótá"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ẹ̀rí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọ̀pá rẹ̀"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "àwọn ọ̀pá rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìbùjé-ìdákẹ́jẹ́ (kapporet)"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ìbùjé-ìdákẹ́jẹ́ (kapporet)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:23.612819638Z",
+  "model": "glm-5.3"
+}

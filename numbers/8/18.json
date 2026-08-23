@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Èmi sì gba ⟨את⟩ àwọn Levì ní ipò gbogbo akọbíbí nínú àwọn ọmọ Yisraél.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Èmi sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Levì"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "àwọn Levì"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "akọbíbí"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "nínú àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    }
+  ],
+  "timestamp": "2026-08-22T23:53:38.341557071Z",
+  "model": "glm-5.3"
+}

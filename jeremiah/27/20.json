@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 27:20",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "èyí tí Nevukhadnetstsar, ọba Bavel, kò mú kúrò, nígbà tí ó sọnú ⟨את⟩ Yekonyah, ọmọ Yehoyakim, ọba Yehudah, kúrò ní Yerushalayim, lọ sí Bavel, àti ⟨את⟩ gbogbo àwọn olóyè Yehudah àti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "לקחם",
+      "gloss": "mú kúrò"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "בגלותו",
+      "gloss": "nígbà tí ó sọnú … kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekonyah"
+    },
+    {
+      "surface": "יכוניה",
+      "gloss": "Yekonyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "kúrò ní Yerushalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "lọ sí Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn olóyè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "àwọn olóyè"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "àti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T02:20:30.452579482Z",
+  "model": "glm-5.3"
+}

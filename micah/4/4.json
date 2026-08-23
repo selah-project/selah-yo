@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Wọn ó sì jọkọ ṣíṣe ẹni kọ̀ọ̀kan ní abẹ́ ìgi àjàrà rẹ̀ àti ní abẹ́ ìgi ọsàn-mímú rẹ̀; kò sì ẹni tí ó ń pa ìjaya; nítorí ẹnu Yahweh-tí-ó-borí-àwọn-ogun ni ó ti sọ ọ́.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "wọn ó sì jọkọ ṣíṣe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni kọ̀ọ̀kan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní abẹ́"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "ìgi àjàrà rẹ̀"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "àti ní abẹ́"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "ìgi ọsàn-mímú rẹ̀"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "ẹni tí ó ń pa ìjaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "tí ó borí àwọn ogun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ni ó ti sọ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:03:22.698085234Z",
+  "model": "glm-5.3"
+}

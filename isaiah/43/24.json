@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 43:24",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Kò sí ìgbà tí o ra ⟨את⟩ ẹ̀ka olóòórùn fún mi ní fàdákà, o sì kò sàn án mí lóore pẹ̀lú iwọ̀-ọrọ ìrúbọ rẹ; ṣùgbọ́n ìwọ fa mí lọ́nà pẹ̀lú ẹ̀ṣẹ̀ rẹ, o sì sọ mí lẹ́rù pẹ̀lú àìṣeède rẹ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò sí ìgbà tí"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "o ra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ní fàdákà"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ẹ̀ka olóòórùn"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "pẹ̀lú iwọ̀-ọrọ"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "ìrúbọ rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הרויתני",
+      "gloss": "sàn án mí lóore"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "העבדתני",
+      "gloss": "ìwọ fa mí lọ́nà"
+    },
+    {
+      "surface": "בחטאותיך",
+      "gloss": "pẹ̀lú ẹ̀ṣẹ̀ rẹ"
+    },
+    {
+      "surface": "הוגעתני",
+      "gloss": "o sì sọ mí lẹ́rù"
+    },
+    {
+      "surface": "בעונתיך",
+      "gloss": "pẹ̀lú àìṣeède rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:56:18.893067732Z",
+  "model": "glm-5.3"
+}

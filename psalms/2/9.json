@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Iwọ ó máa ṣí wọ́n pẹ̀lú ọ̀yà iyọ̀n; gẹ́gẹ́ bí àwọn ohun-èlò amùṣẹ, iwọ ó sì máa fọ́ wọ́n.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "iwọ ó máa ṣí wọ́n"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "pẹ̀lú ọ̀yà"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "iyọ̀n"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "gẹ́gẹ́ bí àwọn ohun-èlò"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "amùṣẹ"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "iwọ ó sì máa fọ́ wọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:13.503463779Z",
+  "model": "glm-5.3"
+}

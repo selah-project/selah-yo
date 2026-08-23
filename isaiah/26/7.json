@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Ọ̀nà fún eni olódodo jẹ́ ìdọ̀tun; Ẹni tí ó dọ̀tún, ó wẹ́wẹ́ ọ̀nà olódodo ṣe ìdọ̀tun.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "fún eni olódodo"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ìdọ̀tun"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Ẹni tí ó dọ̀tún"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olódodo"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "ó wẹ́wẹ́ ... ṣe ìdọ̀tun"
+    }
+  ],
+  "timestamp": "2026-08-23T01:47:47.521634843Z",
+  "model": "glm-5.3"
+}

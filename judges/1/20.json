@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Wọ́n sì fún Kalebu ní ⟨את⟩ Chevron, gẹ́gẹ́ bí Moshe ti sọ; ó sì pa ⟨את⟩ àwọn ọmọ mẹ́ta Anaki kúrò níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Wọ́n sì fún"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "ó sì pa kúrò"
+    },
+    {
+      "surface": "משם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ mẹ́ta Anaki"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anaki"
+    }
+  ],
+  "timestamp": "2026-08-23T00:32:15.238962207Z",
+  "model": "glm-5.3"
+}

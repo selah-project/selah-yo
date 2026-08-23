@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Èmi yóò fi ⟨את⟩ ọwọ́ mi sílẹ̀, èmi yóò lu ⟨את⟩ Mitsrayim pẹ̀lú gbogbo ìyanu mi tí èmi yóò ṣe nínú rẹ̀; lẹ́yìn ìyẹn, ó máa fi ⟨את⟩ yín lọ.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Èmi yóò fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ mi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "Èmi yóò lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "ìyanu mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "èmi yóò ṣe"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ìyẹn"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ó máa fi lọ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín (àwọn ènìyàn)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:16:30.617235918Z",
+  "model": "glm-5.3"
+}

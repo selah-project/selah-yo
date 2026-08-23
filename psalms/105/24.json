@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ó sì fún ⟨את⟩ àwọn ènìyàn rẹ̀ lókúnjọ, ó sì fi agbára tó ju ti ọ̀tá wọn lọ fún wọn.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "Ó sì fún... lókúnjọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn rẹ̀"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "àwọn ènìyàn rẹ̀"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "lókúnjọ pàjáwìrì"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "ó sì fi agbára tó ju ti... lọ fún wọn"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "ọ̀tá wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:42.030396323Z",
+  "model": "glm-5.3"
+}

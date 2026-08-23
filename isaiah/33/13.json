@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ẹ gbọ́, ẹ̀yin tí ń ṣájù jìnnà, nnkan tí mo ṣe; ẹ̀yin tí ń ṣájù sunmọ́, ẹ mọ̀ agbára mi.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ẹ gbọ́"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "ẹ̀yin tí ń ṣájù jìnnà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mo ṣe"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "ẹ mọ̀"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "ẹ̀yin tí ń ṣájù sunmọ́"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "agbára mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:50:25.841146383Z",
+  "model": "glm-5.3"
+}

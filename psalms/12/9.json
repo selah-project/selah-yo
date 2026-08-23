@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Nílílọ̀ káàkiri ni àwọn olè ṣe ń rin, nígbà tí àìwọ̀ ṣe ń gbé sókè láàárín àwọn ọmọ ènìyàn.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "nílílọ̀ káàkiri"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn olè"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "ṣe ń rin"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ṣe ń gbé sókè"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "àìwọ̀"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "láàárín àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:19.251177637Z",
+  "model": "glm-5.3"
+}

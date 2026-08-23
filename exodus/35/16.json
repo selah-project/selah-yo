@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "⟨את⟩ pẹpẹ ẹbun-ìsunjẹ, àti ⟨את⟩ àtẹ bronze rẹ̀, àti ⟨את⟩ àwọn ọ̀pá rẹ̀, àti ⟨את⟩ gbogbo àwọn ohun-èlò rẹ̀, ⟨את⟩ kònkò ìwẹ̀ àti ⟨את⟩ ìgun rẹ̀;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pẹpẹ ẹbun-ìsunjẹ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹbun-ìsunjẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àtẹ bronze rẹ̀"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "àtẹ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "bronze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ọ̀wọ́ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀pá rẹ̀"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "àwọn ọ̀pá rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "àwọn ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kònkò ìwẹ̀"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kònkò ìwẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìgun rẹ̀"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ìgun rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:16.099354172Z",
+  "model": "glm-5.3"
+}

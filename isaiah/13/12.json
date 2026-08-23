@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Èmi yóò ṣe ènìyàn kéré ju wúrà pẹ̀rẹ̀yẹ̀, ènìyàn kéré ju wúrà ti Ophir.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Èmi yóò ṣe ... kéré ju wúrà lọ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ènìyàn (aláìsí-ikú)"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "ju wúrà pẹ̀rẹ̀yẹ̀ lọ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ju wúrà ti Ophir lọ"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ophir"
+    }
+  ],
+  "timestamp": "2026-08-23T01:43:46.399313054Z",
+  "model": "glm-5.3"
+}

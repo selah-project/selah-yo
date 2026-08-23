@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Àwọn èwè méjìlá ⟨ni⟩ àwa, ọmọ baba wa kan; ẹnìkan kò sí mọ́, èwe kékeré náà sì wà lónìí ⟨pẹ̀lú את⟩ baba wa ní ilẹ̀ Kenaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lá (mẹ́wàá)"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "àwa"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "àwọn èwè"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baba wa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ẹnìkan"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "kò sí mọ́"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "èwe kékeré náà sì"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨pẹ̀lú⟩",
+      "marks": "baba wa"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baba wa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-22T23:11:37.268919785Z",
+  "model": "glm-5.3"
+}

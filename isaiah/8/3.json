@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Nígbà náà ni mo sun mọ́ adífáyabàà náà; ó lóyún, ó sì bí ọmọkùnrin. Yahweh sì sọ fún mi pé: \"Pe orúkọ rẹ̀ ní Maher-Shalal-Chash-Baz.\"",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "mo sun mọ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "adífáyabàà náà"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ó lóyún"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọkùnrin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ fún mi pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "pe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Maher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Chash"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz"
+    }
+  ],
+  "timestamp": "2026-08-23T01:42:22.404137036Z",
+  "model": "glm-5.3"
+}

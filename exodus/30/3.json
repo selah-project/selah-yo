@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "O si máa bọ ọ́ ni wúrà mímọ́ — ⟨את⟩ orí rẹ̀, ati ⟨את⟩ àwọn ẹ̀gbẹ́ rẹ̀ ní ayika, ati ⟨את⟩ àwọn ìbọ́ rẹ̀; o si máa ṣe àṣà wúrà fún un ní ayika.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "O si máa bọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ọ́",
+      "marks": "ọ́ (pẹpẹ náà)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orí rẹ̀"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "orí rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ati ⟨את⟩",
+      "marks": "àwọn ẹ̀gbẹ́ rẹ̀"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "àwọn ẹ̀gbẹ́ rẹ̀"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní ayika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ati ⟨את⟩",
+      "marks": "àwọn ìbọ́ rẹ̀"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "àwọn ìbọ́ rẹ̀"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "o si máa ṣe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "זר",
+      "gloss": "àṣà"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní ayika"
+    }
+  ],
+  "timestamp": "2026-08-22T23:28:24.009249903Z",
+  "model": "glm-5.3"
+}

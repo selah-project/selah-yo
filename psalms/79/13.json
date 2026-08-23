@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 79,
+  "translation": "Àwa sì, àwọn ènìyàn rẹ àti ọ̀tá olùgbé irànú rẹ, á ṣe àǹfààní fún ẹ títí láé, láti ìran dé ìran; á ṣàlàyé ìgbórí-gbérè rẹ.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "àwa sì"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "àwọn ènìyàn rẹ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "àti ọ̀tá"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "olùgbé irànú rẹ"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "á ṣe àǹfààní"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ẹ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láé"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "láti ìran"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dé ìran"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "á ṣàlàyé"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ìgbórí-gbérè rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:28.371570693Z",
+  "model": "glm-5.3"
+}

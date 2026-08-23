@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Wọ́n sì fún wọn ní ⟨את⟩ Kiryat-Arba, baba ⟨the⟩ Anak — èyí ni Chevron — ní òkè Yehudah, àti ⟨את⟩ ààlà-ìlú rẹ̀ ní ìkàlẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "wọ́n sì fún wọn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "היא",
+      "gloss": "èyí ni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ní òkè"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ààlà-ìlú rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ààlà-ìlú rẹ̀"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "ní ìkàlẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:29:48.940114437Z",
+  "model": "glm-5.3"
+}

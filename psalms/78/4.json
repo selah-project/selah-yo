@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "A kì ní fi wọ́n pamọ́ kúrò lọ́dọ̀ àwọn ọmọ wọn; a ń sọ ìyin Yahweh fún ìràn tí ó ń bọ̀, àti agbára rẹ̀, àti ìṣẹ́ rere rẹ̀, tí ó ṣe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì ní (a kì í)"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "fi … pamọ́ kúrò"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "lọ́dọ̀ àwọn ọmọ wọn"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "fún ìràn"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "tí ó ń bọ̀ (ìgbà yòókù)"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "a ń sọ"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ìyin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "àti agbára rẹ̀"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "àti ìṣẹ́ rere rẹ̀ (ìyanu rẹ̀)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:51.717401563Z",
+  "model": "glm-5.3"
+}

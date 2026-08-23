@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 14:9",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "⟨את⟩ ⟨nípa⟩ Kedorlaomer, ọba Elam, àti Tidal, ọba àwọn orílẹ̀-èdè, àti Amrafel, ọba Shinar, àti Ariok, ọba Ellasar — ọba mẹ́rin ⟨náà⟩ pẹ̀lú ⟨את⟩ àwọn márùn-ún.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨nípa⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ותדעל",
+      "gloss": "àti Tidal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ואמרפל",
+      "gloss": "àti Amrafel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    },
+    {
+      "surface": "ואריוך",
+      "gloss": "àti Ariok"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אלסר",
+      "gloss": "Ellasar"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "mẹ́rin"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn márùn-ún"
+    },
+    {
+      "surface": "החמשה",
+      "gloss": "àwọn márùn-ún"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:36.979301012Z",
+  "model": "glm-5.3"
+}

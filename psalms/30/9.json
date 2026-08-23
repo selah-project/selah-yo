@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Lọ́dọ̀ rẹ, Yahweh, ni mo ń pè, àti lọ́dọ̀ Adonai ni mo ń béẹ̀bẹ̀.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mo ń pè"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti lọ́dọ̀"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "mo ń béẹ̀bẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:19.063690930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ó sì ni kí ó paṣẹ aláburúú, kí a sì pa ẹyẹ kan sínu àpò iyẹ̀ oríṣiríṣi ⟨את⟩ lára orí omi tí ó ń sàn.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ó sì ni kí ó paṣẹ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aláburúú"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "kí a sì pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹyẹ kan"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ẹyẹ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sínu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "àpò oríṣiríṣi"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ìyẹ̀ ilẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lára orí"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tí ó ń sàn (líflífe)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:40:27.423077612Z",
+  "model": "glm-5.3"
+}

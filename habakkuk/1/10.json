@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 1:10",
+  "book": "habakkuk",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Òun ń ṣe yèyé lọ́láwọn àwọn ọba, àwọn olórí sì jẹ́ èkére-èfọ́ fún un; òun ń rin irẹ̀jẹ fún gbogbo ilẹ̀-odì, ó sì kọ ìròké ejò dómi, ó sì mú u.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ìwọ̀ntún òun"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "lọ́láwọn àwọn ọba"
+    },
+    {
+      "surface": "יתקלס",
+      "gloss": "ń ṣe yèyé"
+    },
+    {
+      "surface": "ורזנים",
+      "gloss": "àwọn olórí sì"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "èkére-èfọ́"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ìwọ̀sì é"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ilẹ̀-odì"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ń rin irẹ̀jẹ"
+    },
+    {
+      "surface": "ויצבר",
+      "gloss": "ó sì kọ ìròké ejò dómi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "(ejò)"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ó sì mú u"
+    }
+  ],
+  "timestamp": "2026-08-23T03:12:52.816329588Z",
+  "model": "glm-5.3"
+}

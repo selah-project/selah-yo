@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Yahweh sì wí pé, Yehudah yóò gòkè lọ; wò ó, mo ti fi ⟨את⟩ ilẹ̀ náà sílẹ̀ nínú ọwọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "yóò gòkè lọ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mo ti fì sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nínú ọwọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:32:03.479874351Z",
+  "model": "glm-5.3"
+}

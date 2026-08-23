@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Fún olùdarí orin; orin Davídih. Nínú Yahweh ni mo gbábẹ́; ẹ jẹ́ kí ẹ sọ fún ẹ̀mí mi pé: Sá lọ sí òkè gígó bíi ẹyẹ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí orin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "orin Davídih"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Nínú Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mo gbábẹ́"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ẹ jẹ́ kí ẹ"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "fún ẹ̀mí mi"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Sá lọ"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "sí òkè gígó"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "bíi ẹyẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:44.266219714Z",
+  "model": "glm-5.3"
+}

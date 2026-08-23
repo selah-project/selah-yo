@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 140,
+  "translation": "Yahweh, máṣe fún ⟨àwọn⟩ ìfẹ́-ọkàn olè-èké; èrò-ipaniyan rẹ̀, máṣe jẹ́ kí ó ṣẹ; kí wọn má ṣe gbé ga. Selah",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "máṣe (kò gbọdọ̀)"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "ìfẹ́-ọkàn"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "olè-èké"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "èrò-ipaniyan rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "máṣe"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "jẹ́ kí ó ṣẹ"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "kí wọn má ṣe gbé ga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:21.333394597Z",
+  "model": "glm-5.3"
+}

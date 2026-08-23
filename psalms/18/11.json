@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó gun lórí kerubu, ó sì fò; ó fò lórí apá ìjì.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "Ó gun"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerubu"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "Ó sì fò"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "Ó fò (lórí)"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "apá"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ìjì"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:30.811776282Z",
+  "model": "glm-5.3"
+}

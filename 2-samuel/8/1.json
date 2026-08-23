@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ó sì yẹ nígbà tí ó ṣẹlẹ̀ lẹ́yìn ìyẹn, Dawidì lu ⟨את⟩ àwọn Falisitini, ó sì fi wọ́n lẹ́tọ̀; Dawidì sì gba ⟨את⟩ ìṣàkóso ìlú-ìyá lọ́wọ́ àwọn Falisitini.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì yẹ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nígbà tí ó ṣẹlẹ̀ lẹ́yìn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ìyẹn"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "Dawidì lu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Falisitini"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Falisitini"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ó sì fi wọ́n lẹ́tọ̀"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìṣàkóso ìlú-ìyá"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "ìṣàkóso"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ìlú-ìyá"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Falisitini"
+    }
+  ],
+  "timestamp": "2026-08-23T00:59:57.929794345Z",
+  "model": "glm-5.3"
+}

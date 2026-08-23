@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 67,
+  "translation": "Kí ọ̀nà rẹ lè ṣé àmọ̀ ní ayé, ìgbàlà rẹ̀ láàárín gbogbo àwọn orílẹ̀-èdè.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "kí … lè ṣé àmọ̀"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ayé"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ọ̀nà rẹ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "láàárín gbogbo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ìgbàlà rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:09.766769138Z",
+  "model": "glm-5.3"
+}

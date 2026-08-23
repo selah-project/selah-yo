@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 60,
+  "translation": "Ta ni àwọn wọ̀nyí tí wọ́n ń fò bí àsọ̀run, àti bí àwọn àdàbà sí àwọn fèrèsé wọn?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ta ni"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọ̀nyí"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "bí àsọ̀run"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "wọ́n ń fò"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "àti bí àwọn àdàbà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "àwọn fèrèsé wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:02:37.560223270Z",
+  "model": "glm-5.3"
+}

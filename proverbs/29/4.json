@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ọba nípasẹ̀ òdodo gbé ilẹ̀ dúró ṣinṣin; ẹni tí ó ń gbà ejìká sì máa jẹ́ kí ó ṣẹ́ wọ́.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "nípasẹ̀ òdodo"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "gbé … dúró ṣinṣin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "ejìká"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "máa jẹ́ kí ó ṣẹ́ wọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:13:01.572977849Z",
+  "model": "glm-5.3"
+}

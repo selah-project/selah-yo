@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Èmi yóò te lórí Yerushalayim ⟨את⟩ ilà Shamaron àti ⟨את⟩ owó-ìwọ̀n ilé Achav; èmi yóò nu Yerushalayim rẹ́, gẹ́gẹ́ bí ẹnìyàn tí ó bá ń nu ⟨את⟩ àwọ̀nú — nù tí ó nù, ó sì yí i lẹ́nu padà.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "èmi yóò te lórí"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilà Shamaron"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ilà"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shamaron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "owó-ìwọ̀n ilé Achav"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "owó-ìwọ̀n"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "èmi yóò nu rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "ó bá ń nu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọ̀nú"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "àwọ̀nú"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "nù tí ó nù"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "ó sì yí padà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lẹ́nu"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "padà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:37:31.403249985Z",
+  "model": "glm-5.3"
+}

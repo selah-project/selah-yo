@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ó sì rí ⟨את⟩ Amaleki, ó sì gbé àpamọ̀ rẹ̀ sókè, ó sì sọ pé: Amaleki ni ìkẹ́kọ̀ọ́kọ́ lára àwọn orílẹ̀-èdè, ṣùgbọ́n òpin rẹ̀ ni ìparun títí àìnípẹ̀kun.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ó sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ó sì gbé … sókè"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "àpamọ̀ rẹ̀"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì sọ pé"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ìkẹ́kọ̀ọ́kọ́"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "lára àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "ṣùgbọ́n òpin rẹ̀"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "títí"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ìparun"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:57.079824732Z",
+  "model": "glm-5.3"
+}

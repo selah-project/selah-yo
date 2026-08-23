@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ní ọlá rẹ àti ní ìmọ̀ ọgbọ́n rẹ, ìwọ ti ṣe olówó fún ara rẹ; ìwọ sì ti ṣe àkójọpọ̀ góòlù àti fàdàkà sí àwọn ibi ìṣúra rẹ.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "ní ọlá rẹ"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "àti ní ìmọ̀ ọgbọ́n rẹ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ìwọ ti ṣe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ara rẹ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "olówó"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ìwọ sì ti ṣe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "góòlù"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "àti fàdàkà"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "sí àwọn ibi ìṣúra rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:48:13.148282669Z",
+  "model": "glm-5.3"
+}

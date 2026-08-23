@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Yahweh sì sọ̀rọ̀ sí Moshe, wí pé",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sì sọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:51:46.079779242Z",
+  "model": "glm-5.3"
+}

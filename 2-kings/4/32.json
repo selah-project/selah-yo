@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Elisha sì wọ ilé náà, kí o sì ki ọmọ náà ti kú, ó sì dubú lé orí bẹ́dẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "sì wọ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kí o sì ki"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ọmọ náà"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ti kú"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "dubú"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé orí"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "bẹ́dẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:27:37.462917934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Bẹ́ẹ̀ ni àwọn baba yìn ṣe, nígbà tí mo rán wọn láti Kadesh-Barnea láti lè rí ⟨את⟩ ilẹ̀ náà.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "àwọn baba yìn"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "nígbà tí mo rán wọn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Kadesh-Barnea"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "láti Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "láti lè rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:03:13.101873017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ki èyí, láti bukún ni mo ti gbà láṣẹ; ó ti bukún, èmi kì í leè da á padà.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ki èyí"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "láti bukún"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "mo ti gbà láṣẹ"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ó ti bukún"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í leè"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "da á padà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:37.477714694Z",
+  "model": "glm-5.3"
+}

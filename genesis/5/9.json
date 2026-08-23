@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Enosh sùn-ún lí wà ní ọ̀dún mẹ́sàn-án, ó sì bí ⟨את⟩ Kenan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "sùn-ún lí wà"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "mẹ́sàn-án"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọ̀dún"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:10.810485600Z",
+  "model": "glm-5.3"
+}

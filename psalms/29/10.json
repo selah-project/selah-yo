@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Yahweh gbé jókòó lórí ìkàwọ̀ gbígbóná; Yahweh jókòó gẹ́gẹ́ bí Ọba títí láéláé.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "lórí ìkàwọ̀ gbígbóná"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "gbé jókòó"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jókòó"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:58.405298985Z",
+  "model": "glm-5.3"
+}

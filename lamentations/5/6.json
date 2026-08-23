@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "A ti fowó sí Mitzrayim, sí Ashur, láti kún un ní oúnjẹ.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "a ti fowó sí"
+    },
+    {
+      "surface": "יד",
+      "gloss": "owó"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "láti kún un"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ní oúnjẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:39:29.879395270Z",
+  "model": "glm-5.3"
+}

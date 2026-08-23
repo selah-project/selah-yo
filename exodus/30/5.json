@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ó sì ṣe ⟨את⟩ àwọn agbá ní igi shittim, ó sì bo ⟨את⟩ wọn ní wúrà.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn agbá"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "àwọn agbá"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "igi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ó sì bo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn agbá)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ní wúrà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:20.324466455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Nní, èmi wà bí ọkùnrin tí kò gbọ́, àti tí àwọn ìgbaniníyelé kò sí nínú ẹnu rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Nní, èmi wà"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "bí ọkùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "àti tí ... kò sí"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "nínú ẹnu rẹ̀"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "àwọn ìgbaniníyelé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:26.886450919Z",
+  "model": "glm-5.3"
+}

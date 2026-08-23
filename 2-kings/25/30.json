@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Oúnjẹ rẹ̀, oúnjẹ lódeejìí, ni a ń fún-un lọ́ láti ọ̀dọ̀ ⟨את⟩ ọba, iye ọjọ́ kọ̀ọ̀kan ní ọjọ́ rẹ̀, gbogbo ọjọ́ ayé rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "oúnjẹ rẹ̀ sì"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "lódeejìí"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ni a ń fún-un"
+    },
+    {
+      "surface": "לו",
+      "gloss": "un"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ láti ọ̀dọ̀",
+      "marks": "ọba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iye"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́ kọ̀ọ̀kan"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ní ọjọ́ rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "ayé rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:38:15.132357932Z",
+  "model": "glm-5.3"
+}

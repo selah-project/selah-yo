@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Mo mọ̀, Yahweh, pé òdodo ni àwọn ìdájọ rẹ, pé síṣe-ìgbégbáwo ni o fi ṣe ìnira fún mi.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "mo mọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "òdodo"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "àwọn ìdájọ rẹ"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "síṣe-ìgbégbáwo"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "o fi ṣe ìnira fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:46.640370761Z",
+  "model": "glm-5.3"
+}

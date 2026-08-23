@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Ní ipò àwọn baba rẹ ni àwọn ọmọ rẹ yóò wà; iwọ yóò ṣèjọ wọn gẹ́gẹ́ bí àwọn adarígun ní gbogbo ayé.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "àwọn baba rẹ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "ióò ṣèjọ wọn"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "gẹ́gẹ́ bí àwọn adarígun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:53.596667009Z",
+  "model": "glm-5.3"
+}

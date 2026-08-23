@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "láti ṣe àgbékalẹ̀ àwọn èrò-iṣẹ́ onímọ̀-ọ̀nà, láti ṣiṣẹ́ nínú wúrà àti nínú fàdákà àti nínú idẹ",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "láti ṣe àgbékalẹ̀"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "àwọn èrò-iṣẹ́ onímọ̀-ọ̀nà"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣiṣẹ́"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "nínú wúrà"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "àti nínú fàdákà"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "àti nínú idẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:12:30.769748670Z",
+  "model": "glm-5.3"
+}

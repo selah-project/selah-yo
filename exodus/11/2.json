@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Wá bá wọn sọ̀rọ̀, jọwọ́, ní etí àwọn ènìyàn náà, kí wọ́n lè béèrè lọ́wọ́: ọkùnrin kọ̀ọ̀kan lọ́dọ̀ ⟨את⟩ ọrẹ̀ rẹ̀, obìnrin kọ̀ọ̀kan lọ́dọ̀ ⟨את⟩ ọrẹ̀ obìnrin rẹ̀, ohun èlù fàdákà àti ohun èlù wúrà.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "wá bá wọn sọ̀rọ̀"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọwọ́"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ní etí"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "kí wọ́n lè béèrè"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin kọ̀ọ̀kan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "lọ́dọ̀ ⟨את⟩",
+      "marks": "ọrẹ̀ rẹ̀"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ọrẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "obìnrin kọ̀ọ̀kan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "lọ́dọ̀ ⟨את⟩",
+      "marks": "ọrẹ̀ obìnrin rẹ̀"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "ọrẹ̀ obìnrin rẹ̀"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ohun èlù"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "àti ohun èlù"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:00.173365890Z",
+  "model": "glm-5.3"
+}

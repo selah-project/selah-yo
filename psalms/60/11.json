@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 60,
+  "translation": "Ta ló máa gbé mi lọ sí ìlú tí ó ní ìdànì làgbára? Ta ló máa ṣàríjà mí dé Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ta ló"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "máa gbé mi lọ sí"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "tí ó ní ìdànì làgbára"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ló"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "máa ṣàríjà mí"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:03.425641121Z",
+  "model": "glm-5.3"
+}

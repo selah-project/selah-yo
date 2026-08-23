@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Kí o ṣẹ́ ní ṣíṣẹ́ ⟨את⟩ ìyá náà, àti ⟨את⟩ àwọn ọmọ náà ni kí o gbá fúnra rẹ, kí ó lè dára fún rẹ, kí o sì gba ọjọ́ gígùn.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "kí o ṣẹ́"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ní ṣíṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìyá náà"
+    },
+    {
+      "surface": "האם",
+      "gloss": "ìyá náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ náà"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "àwọn ọmọ náà"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kí o gbá"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fúnra rẹ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí ó lè"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún rẹ"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "kí o sì gba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́ gígùn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:16:34.287452943Z",
+  "model": "glm-5.3"
+}

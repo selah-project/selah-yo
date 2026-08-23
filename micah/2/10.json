@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Dídẹ̀, ẹ sì lọ; nítorí èyí kì í ṣe ibi ìsinmi yín; nítorí ìṣẹ̀ṣe rẹ̀ yóò ṣe ìparun, ìparun tí ó le gidigidi.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "Dídẹ̀"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ẹ sì lọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "ibi ìsinmi yín"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ìṣẹ̀ṣe rẹ̀"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "yóò ṣe ìparun"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "ìparun"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "tí ó le gidigidi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:09:53.478253910Z",
+  "model": "glm-5.3"
+}

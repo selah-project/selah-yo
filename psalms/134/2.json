@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 134,
+  "translation": "Ẹ gbé ọwọ́ yín sókè ⟨ní⟩ ààyè mímọ́, kí ẹ sì gbéyàwọ́ ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ẹ gbé … sókè"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "ọwọ́ yín"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ààyè mímọ́"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "kí ẹ sì gbéyàwọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:01.390426129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Èmi yóò dupé lọ́dọ̀ Yahweh pẹ̀lú ọkàn mi gbogbo; èmi yóò ṣàpèjúwe gbogbo ìṣẹ́-ìyanu rẹ.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "èmi yóò dupé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "èmi yóò ṣàpèjúwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ìṣẹ́-ìyanu rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:10.905599501Z",
+  "model": "glm-5.3"
+}

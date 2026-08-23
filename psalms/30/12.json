@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "O yí ìkígbe ìsọ̀rọ̀ mi padà di ijó fún mi, o ṣí àsọ ìbànújẹ́ mi sílẹ̀, o sì di idúnú úndí mi.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "o yí … padà"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "ìkígbe ìsọ̀rọ̀ mi"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "di ijó"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "o ṣí … sílẹ̀"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "àsọ ìbànújẹ́ mi"
+    },
+    {
+      "surface": "ותאזרenu",
+      "gloss": "o sì di … mi (bí ìgbingbin) lọ́ránú"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "idúnú úndí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:19.064450431Z",
+  "model": "glm-5.3"
+}

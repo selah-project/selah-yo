@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ó sì máa ń rìn láti ọdún dé ọdún, ó ń yíká Bet-El, Gilgal àti haMitspa, ó sì máa ń dá ⟨את⟩ Yisrael lẹ́bi ní ⟨את⟩ gbogbo àwọn ibùgbé wọnyí.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "sì máa ń rìn"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "láti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "dé ọdún"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "ó ń yíká"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "haMitspa"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ó sì máa ń dá...lẹ́bi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ibùgbé wọnyí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "àwọn ibùgbé"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:45.838239391Z",
+  "model": "glm-5.3"
+}

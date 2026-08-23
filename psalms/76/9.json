@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 76,
+  "translation": "Láti ọ̀run ni O ti fi ìdájọ́ gbọ́; ayé bẹ̀rù, ó sì dàróò.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "láti ọ̀run"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "O ti fi gbọ́"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bẹ̀rù"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "ó sì dàróò"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:47.132749395Z",
+  "model": "glm-5.3"
+}

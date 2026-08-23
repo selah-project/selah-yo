@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Jẹ́ kí ẹ̀mí mi yẹ́, àti jẹ́ kí ó yín rẹ̀, kí àwọn ìdájọ́ rẹ sì ràn mí lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "jẹ́ kí ó yẹ́"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "àti jẹ́ kí ó yín rẹ̀"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "àti àwọn ìdájọ́ rẹ"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "kí wọ́n ràn mí lọ́wọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:21.381804457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Paroh sì rí i pé ìsinmi ⟨wà⟩, ó sì le ⟨את⟩ ọkàn rẹ̀, kò sì gbọ́ wọn, gẹ́gẹ́ bí Yahweh ti sọ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "sì rí i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "ìsinmi"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "ó sì le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:21.405993788Z",
+  "model": "glm-5.3"
+}

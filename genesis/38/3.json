@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Ó sì ṣe àjàbọ̀, ó sì bí ọmọkùnrin; ó sì pè ⟨את⟩ orúkọ rẹ̀ Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ó sì ṣe àjàbọ̀"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọkùnrin"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ó sì pè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-08-22T23:09:00.776533080Z",
+  "model": "glm-5.3"
+}

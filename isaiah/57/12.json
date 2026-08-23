@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 57,
+  "translation": "Èmi yóò sọ ìdájọ́ rẹ jáde, àti ⟨את⟩ iṣẹ́ rẹ; kíǹkan náà kò sì ní ṣe àǹfààní fún ọ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "yóò sọ... jáde"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ìdájọ́ rẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "iṣẹ́ rẹ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "iṣẹ́ rẹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì ní"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "ṣe àǹfààní fún ọ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:01:36.837858024Z",
+  "model": "glm-5.3"
+}

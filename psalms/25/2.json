@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Elohim mi, nínú rẹ ni mo gbẹ́kẹ̀ lé; má ṣe jẹ́ kí mo ṣe àìníyà; kí àwọn ọ̀tá mi má ṣe yọ̀ lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nínú rẹ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ni mo gbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "jẹ́ kí mo ṣe àìníyà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "yọ̀ lọ́wọ́"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:22.250674808Z",
+  "model": "glm-5.3"
+}

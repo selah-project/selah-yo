@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Ohùn ayọ̀ àti ìgbàlà wà nínú àwọn àgọ́ àwọn olódodo; ọwọ́ ọ̀tún Yahweh ń ṣe iṣẹ́ ìgboyà.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ayọ̀ ìkínlọ́dà"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "àti ìgbàlà"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "nínú àwọn àgọ́"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "àwọn olódodo"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ọwọ́ ọ̀tún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "iṣẹ́ ìgboyà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:32.018298893Z",
+  "model": "glm-5.3"
+}

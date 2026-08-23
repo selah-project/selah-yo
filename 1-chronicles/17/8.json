@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 17:8",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "èmi sì ti wà pẹ̀lú rẹ nígbà gbogbo tí ìwọ ti rìn; mo sì ti kọ́ ⟨את⟩ gbogbo ọ̀tá rẹ kúrò láti ojú rẹ, mo sì ń ṣe orúkọ fún ọ, bíi orúkọ àwọn ńlá tí ó wà lórí ayé.",
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "èmi sì ti wà"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pẹ̀lú rẹ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ìwọ ti rìn"
+    },
+    {
+      "surface": "ואכרית",
+      "gloss": "mo sì ti kọ́ kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọ̀tá rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ọ̀tá rẹ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "láti ojú rẹ"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "mo sì ń ṣe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "bíi orúkọ"
+    },
+    {
+      "surface": "הגדולים",
+      "gloss": "àwọn ńlá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "wà lórí ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T05:17:53.293408795Z",
+  "model": "glm-5.3"
+}

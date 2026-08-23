@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ẹ sọ fún àwọn ará tẹyin, Ammi, àti fún àwọn arábìnrin tẹyin, Ruhama.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ẹ sọ fún"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "àwọn ará tẹyin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "àti fún àwọn arábìnrin tẹyin"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhama"
+    }
+  ],
+  "timestamp": "2026-08-23T03:01:23.953148004Z",
+  "model": "glm-5.3"
+}

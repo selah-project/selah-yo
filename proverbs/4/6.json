@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Má ṣe fi sílẹ̀, kí ó sì ṣọ́ ⟨o⟩; fẹ́ ẹ́, kí ó sì dáàbò bọ́ ⟨o⟩ lọ́rùn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "fi sílẹ̀ (ẹ́)"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "kí ó sì ṣọ́ o"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "fẹ́ ẹ́"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "kí ó sì dáàbò bọ́ o"
+    }
+  ],
+  "timestamp": "2026-08-23T06:08:00.357278382Z",
+  "model": "glm-5.3"
+}

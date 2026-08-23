@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "àti ⟨את⟩ Yevusi, àti ⟨את⟩ Haemori, àti ⟨את⟩ Girgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yevusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Haemori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Haemori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashi"
+    }
+  ],
+  "timestamp": "2026-08-23T05:07:44.691681287Z",
+  "model": "glm-5.3"
+}

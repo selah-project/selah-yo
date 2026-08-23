@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ọkàn mi sìnà, ẹ̀rù borí mi; ⟨את⟩ alẹ́ ìfẹ́ mi ni ó ti yí di ìrọ̀rùn èrù fún mi.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "sìnà"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "Ọkàn mi"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ẹ̀rù"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "borí mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alẹ́ ìfẹ́ mi"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "alẹ́"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "ìfẹ́ mi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ó ti yí di"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "ìrọ̀rùn èrù"
+    }
+  ],
+  "timestamp": "2026-08-23T01:46:35.753479018Z",
+  "model": "glm-5.3"
+}

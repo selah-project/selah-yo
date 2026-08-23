@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Àwọn ọ̀rọ̀ ẹnu rẹ̀ ni ìkọ̀-ẹ̀ṣẹ̀ àti ègàn; ó ti dáwọ́ olóye-dá ìwà rere sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ẹnu rẹ̀"
+    },
+    {
+      "surface": "און",
+      "gloss": "ìkọ̀-ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "àti ègàn"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ó ti dáwọ́ sílẹ̀"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "olóye-dá"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ìwà rere"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:53.200990668Z",
+  "model": "glm-5.3"
+}

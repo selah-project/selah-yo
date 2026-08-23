@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì sẹ́yìn, ní òpin ọjọ́ mẹ́ta, àwọn olùṣàkóso sì kọjá láàárín ⟨àwọn⟩ ogun.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì sẹ́yìn"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ní òpin"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "wọ́n sì kọjá"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "àwọn olùṣàkóso"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "⟨àwọn⟩ ogun"
+    }
+  ],
+  "timestamp": "2026-08-23T00:23:36.628168130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Kò ṣe àṣírí-sísọ lórí àwọ̀ rẹ; kò ṣe ìwà búburù sí ọrẹ rẹ̀; kò gbé ọ̀rọ̀ àyàbà sókè sí ẹniti ó súnmọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ṣe àṣírí-sísọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "àwọ̀ rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sí ọrẹ rẹ̀"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ìwà búburù"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "àti ọ̀rọ̀ àyàbà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "gbé sókè"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ẹniti ó súnmọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:05.237970606Z",
+  "model": "glm-5.3"
+}

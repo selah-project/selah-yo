@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ester sì tún bẹ̀rẹ̀, ó sọ̀rọ̀ níwájú ọba, ó sì ṣubú níwájú ẹsẹ̀ rẹ̀, ó sì súnkun, ó sì bẹ̀ bẹ́ẹ̀lọ̀ fún-un, kí wọn ó lè da ⟨את⟩ búburú Haman Agagi kúrò, àti ⟨את⟩ ète rẹ̀ tí ó gbé kalẹ̀ lórí àwọn Yuda.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "sì tún bẹ̀rẹ̀"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "sì sọ̀rọ̀"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "sì ṣubú"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "sì súnkun"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "sì bẹ̀ bẹ́ẹ̀lọ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún-un"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "kí wọn ó lè da…kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "búburú"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ète rẹ̀"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "ète rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ó gbé kalẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "àwọn Yuda"
+    }
+  ],
+  "timestamp": "2026-08-23T04:47:09.512643659Z",
+  "model": "glm-5.3"
+}

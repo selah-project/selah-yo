@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 7:22",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Nítorí ní ọjọ́ tí mo mú ⟨את⟩ wọn jáde kuro ní ilẹ̀ Mitsraim, èmi kò sọ̀rọ̀ sí ⟨את⟩ àwọn baba yín, kò sì pàṣẹ wọ́nnípa ọ̀rọ̀ ẹbọ ẹran-ọ̀jọ́ àti ẹbọ ìkúnlà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mo ... sọ̀rọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn baba yín"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "àwọn baba yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "pàṣẹ wọ́n"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́ tí"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "mo mú ... jáde"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọn"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuro ní ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "על",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ẹbọ ẹran-ọ̀jọ́"
+    },
+    {
+      "surface": "וזבח",
+      "gloss": "àti ẹbọ ìkúnlà"
+    }
+  ],
+  "timestamp": "2026-08-23T02:10:29.620681504Z",
+  "model": "glm-5.3"
+}

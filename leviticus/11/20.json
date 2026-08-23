@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Gbogbo ṣerets tí ó ń fò, tí ó ń rìn lórí ẹsẹ̀ mẹ́rin — ohun-ẹ̀gbin ni ó jẹ́ fún yín.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ṣerets (ohun tí ó ń kókó-latù)"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "tí ó ń fò"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "tí ó ń rìn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ẹsẹ̀ mẹ́rin"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ohun-ẹ̀gbin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:38:04.760809035Z",
+  "model": "glm-5.3"
+}

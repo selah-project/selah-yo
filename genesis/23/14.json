@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Efroni sì dáhùn ⟨את⟩ Abraham, wí fún un pé:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "dáhùn"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    }
+  ],
+  "timestamp": "2026-08-22T23:01:06.884335233Z",
+  "model": "glm-5.3"
+}

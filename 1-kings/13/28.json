@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 13:28",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ó sì lọ, ó sì rí ⟨את⟩ ẹjẹ́-òkú rẹ̀ tí a sí sínú ọ̀nà, àti ẹlọ́mọ́ náà àti kìnnìún náà tí wọ́n dúró lẹ́gbẹ́ ẹjẹ́-òkú náà; kìnnìún náà kò jẹ ⟨את⟩ ẹjẹ́-òkú náà, ó kò sì fọ́ ⟨את⟩ ẹlọ́mọ́ náà.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ó sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹjẹ́-òkú rẹ̀"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "ẹjẹ́-òkú rẹ̀"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "tí a sí sínú"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "àti ẹlọ́mọ́ náà"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "àti kìnnìún náà"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "tí wọ́n dúró"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "lẹ́gbẹ́"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "ẹjẹ́-òkú náà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jẹ"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "kìnnìún náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹjẹ́-òkú náà"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "ẹjẹ́-òkú náà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ó kò sì"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "fọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹlọ́mọ́ náà"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ẹlọ́mọ́ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:18:06.681762921Z",
+  "model": "glm-5.3"
+}

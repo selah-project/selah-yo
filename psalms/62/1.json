@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 62,
+  "translation": "Fún olùdarí-orin, lórí Jeduthun; orin-mímọ́ fún David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí-orin"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Jeduthun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin-mímọ́"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:24.033563641Z",
+  "model": "glm-5.3"
+}

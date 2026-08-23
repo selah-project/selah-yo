@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Kí o sì wo, kí o sì ṣe ṣíṣe bí àpẹẹrẹ wọn, èyítí o ń rí ní orí òkè.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kí o sì wo"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kí o sì ṣe ṣíṣe"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "bí àpẹẹrẹ wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyítí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ń rí"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ní orí òkè"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:03.955823287Z",
+  "model": "glm-5.3"
+}

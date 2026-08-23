@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Kì í padà sí ilé rẹ̀ mọ́, ibi tí ó dúró sí náà kì í mọ̀ ọ́ mọ́.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "padà sí"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "mọ̀ ọ́"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ibi tí ó dúró sí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:16:39.835151931Z",
+  "model": "glm-5.3"
+}

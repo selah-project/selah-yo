@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Yoabu sì dìde, ó sì lọ sí Geshuru, ó sì mú ⟨את⟩ Avshalom wá sí Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ó sì dìde"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "sí Geshuru"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì mú … wá sí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T01:02:54.355449301Z",
+  "model": "glm-5.3"
+}

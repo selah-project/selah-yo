@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Yahweh sì ṣèrànlọ́ wọn, ó sì gbà wọn là; ó gbà wọn là láti ọ̀dọ̀ àwọn èṣẹ́, ó sì gbà wọn gbà; nítorí tí wọ́n sá sábẹ́ Òun.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "ṣèrànlọ́ wọn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "gbà wọn là"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "gbà wọn là (lẹ́ẹ̀kan si)"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "láti ọ̀dọ̀ àwọn èṣẹ́"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "gbà wọn gbà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "wọ́n sá sábẹ́"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Òun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:01.651207726Z",
+  "model": "glm-5.3"
+}

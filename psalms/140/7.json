@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 140,
+  "translation": "Mo ti sọ fún Yahweh pé, Ìwọ ni Elohim mi; fún etí, Yahweh, ohùn àbẹ̀wọ̀ mí.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Mo ti sọ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ìwọ ni"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "fún etí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "àbẹ̀wọ̀ mí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:56.178049541Z",
+  "model": "glm-5.3"
+}

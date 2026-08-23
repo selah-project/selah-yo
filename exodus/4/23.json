@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Èmi sì ti wí fún ọ: Fi ⟨את⟩ ọmọ mi lọ, kí ó lè sìn mí; ṣùgbọ́n o kọ̀ láti fi lọ — wò ó, èmi ń pa ⟨את⟩ ọmọ rẹ, àkọ́bí rẹ.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Èmi sì ti wí"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Fi lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ mi"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "kí ó lè sìn mí"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "o kọ̀"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "láti fi lọ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wò ó"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ń pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ rẹ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ọmọ rẹ"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "àkọ́bí rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:43.020179391Z",
+  "model": "glm-5.3"
+}

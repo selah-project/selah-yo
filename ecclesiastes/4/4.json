@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Mo rí, èmi, ⟨את⟩ gbogbo iṣẹ́ láìsìrò àti ⟨את⟩ gbogbo ìmùgborì iṣẹ́, nítorí pé ìgbéraga ọkọ̀ọkanṣe pẹ̀lú olólùfẹ́-ẹni rẹ̀ ni; èyí náà jẹ́ ìṣòfo àti fífẹ́-éfẹ́ ẹ̀mí.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Mo rí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo iṣẹ́ láìsìrò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "iṣẹ́ láìsìrò"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ìmùgborì iṣẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "ìmùgborì"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ní"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ìgbéraga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkọ̀ọkanṣe"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "pẹ̀lú olólùfẹ́-ẹni rẹ̀"
+    },
+    {
+      "surface": "גם",
+      "gloss": "náà"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "jẹ́ ìṣòfo"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "àti fífẹ́-éfẹ́"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:14.945930176Z",
+  "model": "glm-5.3"
+}

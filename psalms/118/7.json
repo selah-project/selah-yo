@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Yahweh ⟨wà⟩ ti mi, láti àwọn olùrànlọ́wọ́ mi; àti èmi, èmi óò ṣe èrò sí àwọn olójìí mi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ti mi"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "àti àwọn olùrànlọ́wọ́ mi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "àti èmi"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ṣè èrò \/ rí"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "sí àwọn olójíí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:04.381176545Z",
+  "model": "glm-5.3"
+}

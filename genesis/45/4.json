@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Yosef sì wí fún àwọn ọmọ ìyá rẹ̀ pé, Ẹ sun mọ́ mi, ẹ jọwọ́; wọ́n sì sun mọ́ ọ̀n; ó sì wí pé, Èmi ni Yosef arákùnrin yín, ẹnití ẹ ta ⟨את⟩ mi lọ sí Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "àwọn ọmọ ìyá rẹ̀"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Ẹ sun mọ́"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ẹ jọwọ́"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "wọ́n sì sun mọ́ ọ̀n"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Èmi ni"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "arákùnrin yín"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹnití"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "ẹ ta lọ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "sí Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:13:46.639231354Z",
+  "model": "glm-5.3"
+}

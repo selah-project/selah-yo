@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Wọn yóò sì jẹ́ ọ̀kàn-ìkọ̀ fún yín; ẹyin kò ní jẹ ara wọn, àti ⟨את⟩ ẹ̀mí-òkú wọn ni ẹyin gbọdọ̀ kọ̀ sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "ọ̀kàn-ìkọ̀"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "Wọn yóò sì jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ara wọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò ní"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ẹ̀mí-òkú wọn"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "ẹ̀mí-òkú wọn"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ẹyin gbọdọ̀ kọ̀ sílẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:37:17.191427462Z",
+  "model": "glm-5.3"
+}

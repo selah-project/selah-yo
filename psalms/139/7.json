@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Níbo ni èmi ó lọ kúrò lọ́dọ̀ ẹ̀mí rẹ? Tàbí níbo ni èmi ó sá sí kúrò lọ́wọ́ ojú rẹ?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "níbo"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mo ó lọ"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "kúrò lọ́dọ̀ ẹ̀mí rẹ"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "tàbí níbo"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kúrò lọ́wọ́ ojú rẹ"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "mo ó sá sí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:06.776106549Z",
+  "model": "glm-5.3"
+}

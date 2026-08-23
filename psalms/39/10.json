@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Mo di aláìsọ̀rọ̀, kò ṣí ẹnu mi; nítorí ìwọ ni ó ṣe ⟨é⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "mo di aláìsọ̀rọ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ṣí"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ó ṣe ⟨é⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:49.968930427Z",
+  "model": "glm-5.3"
+}

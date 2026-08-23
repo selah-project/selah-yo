@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Kelubu, ará Shuhah, sì bí ⟨את⟩ Mehir; òun ni baba Eshton.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Kelubu sì"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "arakúnrin"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Shuhah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mehir"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mehir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Eshton"
+    }
+  ],
+  "timestamp": "2026-08-23T05:09:57.476414014Z",
+  "model": "glm-5.3"
+}

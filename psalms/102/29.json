@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Àwọn ọmọ ìránṣẹ́ rẹ yóó gbé àdúróṣẹ́ṣẹ́, àti ìrìnlànà wọn níwájú rẹ yóó dúró ṣinṣin.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "yóó gbé àdúróṣẹ́ṣẹ́"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "àti ìrìnlànà wọn"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "níwájú rẹ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "yóó dúró ṣinṣin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:48.127232289Z",
+  "model": "glm-5.3"
+}

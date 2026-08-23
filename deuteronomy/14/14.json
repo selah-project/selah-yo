@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "àti ⟨את⟩ gbogbo ẹyẹ rafufu ti ìran rẹ̀",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ẹyẹ rafufu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ẹyẹ rafufu"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ti ìran rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:49.449021561Z",
+  "model": "glm-5.3"
+}

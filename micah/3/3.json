@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn tí ó jẹ ẹran ènìyàn mi, tí ó yọ ẹwàra wọn kúrò lórí wọn, tí ó sì fọ ⟨את⟩ egungun wọn, tí ó sì tú wọ́n jẹ bíi ti nínú àgbon, àti bíi ẹran nínú ikòkò.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "àwọn tí ó"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "jẹ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ẹran"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ènìyàn mi"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "àti ẹwàra wọn"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kúrò lórí wọn"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "tí ó yọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "egungun wọn"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "egungun wọn"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "tí ó sì fọ"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "tí ó sì tú wọ́n jẹ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bíi ti"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "nínú àgbon"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "àti bíi ẹran"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nínú"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "ikòkò"
+    }
+  ],
+  "timestamp": "2026-08-23T03:11:19.028959065Z",
+  "model": "glm-5.3"
+}

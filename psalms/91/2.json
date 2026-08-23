@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Èmi yóò wí fún Yahweh: ààbò mi àti ilé ìdánimọ̀ mi ni Ọlọ́hun mi; nínu rẹ̀ ni èmi ń gbékẹ̀ lé.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Èmi yóò wí"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ààbò mi"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "àti ilé ìdánimọ̀ mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ọlọ́hun mi"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "èmi ń gbékẹ̀ lé"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nínu rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:40.016319832Z",
+  "model": "glm-5.3"
+}

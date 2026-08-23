@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 52,
+  "translation": "Nítorí bí èyí Yahweh ti sọ: Láìni ohunkóhun ni wọ́n ta yín, àti ní láìni owó ni a gbà yín níyà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bí èyí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "láìni ohunkóhun"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "wọ́n ta yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti ní láìní"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ní owó"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "a gbà yín níyà"
+    }
+  ],
+  "timestamp": "2026-08-23T02:00:27.778104723Z",
+  "model": "glm-5.3"
+}

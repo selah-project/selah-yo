@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Wọ́n sì kú bákan náà, méjèèjì — Machlon àti Kilyon; obìnrin náà sì ṣì tí ó sì yẹ̀ndé sí àwọn ọmọ rẹ̀ méjèèjì àti sí ọkọ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "wọ́n sì kú"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "méjèèjì"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "àti Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ó sì yẹ̀ndé"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "obìnrin náà"
+    },
+    {
+      "surface": "משני",
+      "gloss": "sí àwọn… méjèèjì"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "àti sí ọkọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:35:07.758711136Z",
+  "model": "glm-5.3"
+}

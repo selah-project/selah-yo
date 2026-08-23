@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Yahweh si gbọ́ ohùn Yisrael, ó si fi ⟨את⟩ Kenaani sílẹ̀ fún wọn lọ́wọ́; wọ́n si fi ⟨את⟩ wọn àti ⟨את⟩ àwọn ìlú wọn nípa cherem; wọ́n si pe orúkọ ibi náà ni Chormah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó si fi sílẹ̀ fún wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "wọ́n si fi nípa cherem"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn (Kenaani)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìlú wọn"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "àwọn ìlú wọn"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wọ́n si pe orúkọ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ibi náà"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Chormah"
+    }
+  ],
+  "timestamp": "2026-08-22T23:59:08.040020551Z",
+  "model": "glm-5.3"
+}

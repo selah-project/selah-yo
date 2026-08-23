@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ó sì lọ lọ́nà míràn, ó kò sì padà lọ́nà tí ó ti wá sí Beit-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lọ́nà"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "míràn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "שב",
+      "gloss": "padà"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lọ́nà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ó ti wá"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nípa rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-23T01:18:36.696799137Z",
+  "model": "glm-5.3"
+}

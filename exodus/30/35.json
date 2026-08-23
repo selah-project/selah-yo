@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ìwọ sì ni kí ó ṣe é di kítárítá-oró, iṣẹ́ olùṣe-oró, tí a fi iyọ̀ ṣe, mímọ́, ìmímọ́.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ìwọ sì ni kí ó ṣe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kítárítá-oró"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kítárítá-oró"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "oró-apòpọ̀"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "olùṣe-oró"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "tí a fi iyọ̀ ṣe"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ìmímọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:27:48.121005386Z",
+  "model": "glm-5.3"
+}

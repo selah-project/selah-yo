@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Àwọn ènìyàn sì bùkún fún gbogbo àwọn ọkùnrin tí ó fi ara wọn ṣe ìfẹ́lọ́wọ́ láti gbé ní Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "sì bùkún fún"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "tí ó fi ara wọn ṣe ìfẹ́lọ́wọ́"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "láti gbé"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T06:12:10.203604572Z",
+  "model": "glm-5.3"
+}

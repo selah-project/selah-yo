@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Àwọn ọ̀tá wọn sì tì wọn lọ́wọ́, wọ́n sì rẹ̀wẹ́sílẹ̀ ní abẹ́ ọwọ́ wọn.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "sì tì wọn lọ́wọ́"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "Àwọn ọ̀tá wọn"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "sì rẹ̀wẹ́sílẹ̀"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní abẹ́"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ọwọ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:37.936443470Z",
+  "model": "glm-5.3"
+}

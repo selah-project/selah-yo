@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Àwọn ọmọ Yisraél sì kúrò ní Rameses, wọ́n sì dúró sílẹ̀ ní Sukkot.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "sì kúrò ní"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "Rameses"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wọ́n sì dúró sílẹ̀"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "ní Sukkot"
+    }
+  ],
+  "timestamp": "2026-08-23T00:05:02.795310285Z",
+  "model": "glm-5.3"
+}

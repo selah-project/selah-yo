@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 10:19",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Òun sì ló wà ní orí ogun ẹ̀yà-ìdílé àwọn ọmọ Shimon — Shelumiel ọmọ Tsurishaddai.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Òun sì ló wà ní orí"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ẹ̀yà-ìdílé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Shelumiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Tsuri-"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "shaddai"
+    }
+  ],
+  "timestamp": "2026-08-22T23:52:51.760651111Z",
+  "model": "glm-5.3"
+}

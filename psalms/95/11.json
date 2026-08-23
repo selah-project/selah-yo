@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 95,
+  "translation": "Nítorí náà Mo búra nínú ìbínú Mi pé: kì yòo ṣeé ṣe kí wọ́n kó sí àlàáfíà Mi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nítorí náà"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Mo búra"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "nínú ìbínú Mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kì yòo ṣeé ṣe"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "kí wọ́n kó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "àlàáfíà Mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:18.719520789Z",
+  "model": "glm-5.3"
+}

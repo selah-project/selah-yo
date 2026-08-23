@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 139,
+  "translation": "Sẹ́yìn àti níwájú ni ìwọ ti gbà mí mọ́lé, ìwọ sì fi ìpàkọ̀ ọwọ́ rẹ bọ́ mi lórí.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "sẹ́yìn"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "àti níwájú"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "ìwọ ti gbà mí mọ́lé"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "ìwọ sì fi bọ́ sí"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "ìpàkọ̀ ọwọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:06.775769695Z",
+  "model": "glm-5.3"
+}

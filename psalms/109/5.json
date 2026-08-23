@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Wọ́n sì fi ìkọ̀ sí mi lórí, níwọ̀n ìwọ̀sàn; ìkórìí níwọ̀n ìfẹ́ mi.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "wọ́n sì fi sí"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mi lórí"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ìkọ̀"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "níwọ̀n ìwọ̀sàn"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "níwọ̀n ìwọ̀sàn"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "ìkórìí"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "níwọ̀n"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ìfẹ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:04.652296586Z",
+  "model": "glm-5.3"
+}

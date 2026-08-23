@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Gbogbo ìbùkún wọnyí yóó wá bá ọ, yóó sì mú ọ — nítorí tí o gbọ́ ní ohùn Yahweh Elohim rẹ.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "yóó wá"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "bá ọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "ìbùkún"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "yóó sì mú ọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ní ohùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:19:28.573511428Z",
+  "model": "glm-5.3"
+}

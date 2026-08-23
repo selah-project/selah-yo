@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn wọnyí ni àwọn orúkọ àwọn ọmọ Aharon: Akobi Nadav, àti Avihu, Elazar àti Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Àwọn wọnyí"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "àwọn orúkọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "Akobi"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "àti Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "àti Itamar"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:41.216707488Z",
+  "model": "glm-5.3"
+}

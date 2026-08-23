@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 60,
+  "translation": "O ti jìjà ⟨את⟩ ilẹ̀, O ti fà á tà; wo ⟨את⟩ àwọn ìfọ́ rẹ̀ lára, nítorí pé ó ń tà.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "O ti jìjà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "O ti fà á tà"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "wo... lára"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "àwọn ìfọ́ rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ó ń tà"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:04.500439948Z",
+  "model": "glm-5.3"
+}

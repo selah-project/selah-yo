@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ó sì mú ⟨את⟩ àwọn ìlú olódi tí ó wà fún Yehuda, ó sì dé Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Ó sì mú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìlú olódi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "olódi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "fún Yehuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì dé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:27:06.704416268Z",
+  "model": "glm-5.3"
+}

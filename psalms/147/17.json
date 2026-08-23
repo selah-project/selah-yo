@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Ó ń fi yìrí rẹ̀ sọ́nù gẹ́gẹ́ bí ìpẹ́lẹ́; ta ni ó lè dúró ṣáájú tútù rẹ̀?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Ó ń fi... sọ́nú"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "yìrí rẹ̀"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "gẹ́gẹ́ bí ìpẹ́lẹ́"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ṣáájú"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "tùtù rẹ̀"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ó lè dúró"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:47.995888285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 59,
+  "translation": "Wọ́n á sì padà ní ìṣẹ́lẹ̀, wọ́n á ń kọ́ bí ajá, wọ́n á yí ìlú ká.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Wọ́n á sì padà"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ní ìṣẹ́lẹ̀"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "wọ́n á ń kọ́"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "bí ajá"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "wọ́n á yí"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú ká"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:55.612466726Z",
+  "model": "glm-5.3"
+}

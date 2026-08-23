@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Ìṣejú yóò kí i lọ — kò ní mọ̀ — àti èwu rẹ̀ tí ó fara mọ́ yóò mú i; nínú ìṣejú ni yóò ṣubú sí i.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "ìṣejú yóò kí i lọ"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "ìṣejú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ní mọ̀"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "àti èwu rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "ó fara mọ́"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "yóò mú i"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "nínú ìṣejú"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "yóò ṣubú"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sí i"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:08.818447537Z",
+  "model": "glm-5.3"
+}

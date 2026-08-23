@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Wọ inú ⟨àpáta⟩, tí o sì farapamọ́ nínú èérù, níwájú ẹ̀rù Yahweh àti ògo ìgbéraga rẹ̀.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "wọ"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "inú àpáta"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "farapamọ́"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "nínú èérù"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ẹ̀rù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "àti ògo"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "ìgbéraga rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:38:25.418875445Z",
+  "model": "glm-5.3"
+}

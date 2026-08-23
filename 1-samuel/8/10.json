@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Shemuël sì sọ gbogbo ọ̀rọ̀ Yahweh ⟨את⟩ fún àwọn ènìyàn tí wọ́ń béèrè ọba lọ́wọ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọ̀rọ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "tí wọ́ń béèrè"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ lọ́wọ́ rẹ̀"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T05:49:12.892596163Z",
+  "model": "glm-5.3"
+}

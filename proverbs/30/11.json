@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ìran kan ⟨wà⟩ tí ó ń kẹ́ bàbá rẹ̀, ⟨את⟩ iya rẹ̀ kò sì bùkún.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bàbá rẹ̀"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ń kẹ́"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iya rẹ̀"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iya rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bùkún"
+    }
+  ],
+  "timestamp": "2026-08-23T04:13:35.452837773Z",
+  "model": "glm-5.3"
+}

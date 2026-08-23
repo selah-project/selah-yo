@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ó sì bá wọn sọ̀rọ̀ pé: bí ẹ̀mí yín bá wà láti sin ⟨את⟩ ọkú mi níwájú mi, ẹ gbọ́ mi, ẹ sì bá Efron ọmọ Tsohar bá sọ̀rọ̀ fún mi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ó sì bá wọn sọ̀rọ̀"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ pẹ̀lú wọn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bá wà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí yín"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "ẹ̀mí yín"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "láti sin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkú mi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ọkú mi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "níwájú mi"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "ẹ gbọ́ mi"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "ẹ sì bá…bá sọ̀rọ̀"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "pẹ̀lú Efron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Tsohar"
+    }
+  ],
+  "timestamp": "2026-08-22T23:00:55.203377878Z",
+  "model": "glm-5.3"
+}

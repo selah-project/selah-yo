@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ṣùgbọ́n nípa ⟨את⟩ ilé Juda èmi yóò ṣe àánú, èmi yóò sì gbà wọn là nípa Yahweh, Elohim wọn; èmi kì yóò sì gbà wọn là nípa ọ̀kọ̀ta-oró, tabí nípa idà, tabí nípa ogun, nípa ẹṣin àti nípa àwọn akọ́ni-ẹṣin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilé Juda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "èmi yóò ṣe àánú"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "èmi yóò sì gbà wọn là"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nípa Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wọn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "èmi kì yóò sì"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "gbà wọn là"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "nípa ọ̀kọ̀ta-oró"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "tabí nípa idà"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "tabí nípa ogun"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "nípa ẹṣin"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "àti nípa àwọn akọ́ni-ẹṣin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:01:17.186241329Z",
+  "model": "glm-5.3"
+}

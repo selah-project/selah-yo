@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ọba Israẹli sì wí pé, mú ⟨את⟩ Mikayahu kí ẹ sì da a padà sí ọ̀dọ̀ Amoni, ọ̀ga ilu naa, àti sí ọ̀dọ̀ Yowashi ọmọ ọba naa;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "קח",
+      "gloss": "mú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikayahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "kí ẹ sì da a padà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ọ̀ga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ilu naa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí ọ̀dọ̀"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yowashi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba naa"
+    }
+  ],
+  "timestamp": "2026-08-23T01:25:11.290180363Z",
+  "model": "glm-5.3"
+}

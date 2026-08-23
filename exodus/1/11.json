@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Wọ́n sì fi àwọn olórí iṣẹ́-ipánnu lé e lọ́rí, kí wọ́n lè fi ẹ̀rù jẹ́ ọ nínú irọ́run wọn; wọ́n sì kọ́ àwọn ìlú ìpamọ́ fún Farao: ⟨את⟩ Pitomu àti ⟨את⟩ Raamsesi.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Wọ́n sì fi lé e lọ́rí"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lé e lọ́rí"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "iṣẹ́-ipánnu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí wọ́n lè"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "fi ẹ̀rù jẹ́ ọ"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "nínú irọ́run wọn"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wọ́n sì kọ́"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "ìpamọ́"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "fún Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitomu"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Raamsesi"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamsesi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:34.198798599Z",
+  "model": "glm-5.3"
+}

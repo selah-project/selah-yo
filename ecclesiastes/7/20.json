@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Nítorí ní àwọn ènìyàn láìní ẹnìkan olódọ́títọ́ lórí ilẹ̀ ayé tí yóò ṣe rere tí kì yóò sì ṣe ẹ̀ṣẹ̀.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "láìní ẹnìkan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olódọ́títọ́"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lórí ilẹ̀ ayé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yóò ṣe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í sì"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ṣe ẹ̀ṣẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:21.491128573Z",
+  "model": "glm-5.3"
+}

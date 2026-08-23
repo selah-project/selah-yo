@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 56,
+  "translation": "Wọ́n gbájọ́ pọ̀, wọ́n sì fi ara pamọ́; wọ́n ń ṣọ́wọ́ ẹsẹ mi, gẹ́gẹ́ bí wọ́n ti ń dúro de ẹ̀mí mi.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "wọ́n gbájọ́ pọ̀"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "wọ́n fi ara pamọ́"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "ẹsẹ mi"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ń ṣọ́wọ́"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "ń dúro de"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:38.681199202Z",
+  "model": "glm-5.3"
+}

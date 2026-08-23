@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ọba Mísraim sì sọ fún àwọn agbímọ́lọ́mọ Hébérù, tí orúkọ ọ̀kan ni Shifrah, orúkọ èkejì sì ni Puah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì sọ fún"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mísraim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "fún àwọn agbímọ́lọ́mọ"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "Hébérù"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifrah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "orúkọ sì"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "èkejì"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puah"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:55.564796062Z",
+  "model": "glm-5.3"
+}

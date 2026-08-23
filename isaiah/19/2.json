@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Èmi óò sì mú Mitsrayim dojá kojú Mitsrayim, wọn yóò sì jagun ẹni kan lòdì sí arágbajá rẹ̀, ẹni kan sì lòdì sí aládùúnlọ̀ rẹ̀, ìlú kan lòdì sí ìlú kan, ìjọba kan lòdì sí ìjọba kan.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Èmi óò sì mú…dojá kojú"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "wọn yóò sì jagun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni kan"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "lòdì sí arágbajá rẹ̀"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ẹni kan sì"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "lòdì sí aládùúnlọ̀ rẹ̀"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú kan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "lòdì sí ìlú kan"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ìjọba kan"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "lòdì sí ìjọba kan"
+    }
+  ],
+  "timestamp": "2026-08-23T01:47:08.720671867Z",
+  "model": "glm-5.3"
+}

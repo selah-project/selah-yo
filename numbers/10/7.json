@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ṣùgbọ́n nígbà tí ẹ ń kéjọ ⟨את⟩ àwọn ènìyàn-pò pó, ẹ fi ohùn fù, ẹyin ẹ má sì kìl ọ̀.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "ṣùgbọ́n nígbà tí ẹ ń kéjọ pó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn-pò pó"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "àwọn ènìyàn-pò pó"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "ẹ fi ohùn fù"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ẹyin ẹ má sì"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "kìl ọ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:52:35.217928055Z",
+  "model": "glm-5.3"
+}

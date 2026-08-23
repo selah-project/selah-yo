@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ìdùnnú fún àwọn tí ó tóótọ́ nínú ọ̀nà wọn, àwọn tí ó ń rìnínú Torah Yahweh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ìdùnnú fún"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "àwọn tí ó tóótọ́"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nínú ọ̀nà wọn"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "àwọn tí ó ń rìn"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "ínú Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:06.908613876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 35:24",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Ẹni gbogbo tí ó gbé èrù-orísun fífà sílẹ̀ ti wúrà-fàdàkà àti idẹ — wọ́n sì gbé ⟨את⟩ èrù-orísun Yahweh wá; àti ẹni tí ó bá ri ⟨את⟩ ara rẹ̀ ní igi shitim fún iṣẹ́ ìṣẹ́kúṣẹ́ gbogbo — ó gbé e wá.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "tí ó gbé … sílẹ̀"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "èrù-orísun"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "wúrà-fàdàkà (fàdàkà)"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "idẹ"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "wọ́n sì gbé … wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èrù-orísun Yahweh"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "èrù-orísun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti ẹni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ó bá ri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ara rẹ̀",
+      "marks": "igi shitim"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "igi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim (akasia)"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún … gbogbo"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ìṣẹ́kúṣẹ́ náà"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ó gbé e wá"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:06.699725325Z",
+  "model": "glm-5.3"
+}

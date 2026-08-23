@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ìsàlẹ̀ ayé sí mú èèwọ̀ bá ⟨àwọn⟩ olùgbé rẹ̀, nítorí tí wọ́n kọ́ òfin, wọ́n yí òfin ìdánimọ̀ padà, wọ́n fọ́ májẹ̀mú ayébíye.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ayé sí mú èèwọ̀ bá"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "mú èèwọ̀ bá — fọ́ ní paá pààlàlẹ̀"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ísàlẹ̀ \/ àbá"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "olùgbé ayé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "wọ́n kọ́ \/ wọ́n kọjá"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "òfin"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "wọ́n yí padà"
+    },
+    {
+      "surface": "חק",
+      "gloss": "òfin ìdánimọ̀ \/ ìlànà"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "wọ́n fọ́"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ayébíye"
+    }
+  ],
+  "timestamp": "2026-08-23T01:48:17.145891267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 136,
+  "translation": "⟨את⟩ òòrùn láti jẹ́ olóri ní ọjọ́, nítorí tí ìfẹ́ olóòtítọ́ rẹ̀ dúró fún ìgbà tí ó pé nígbà gbogbo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òòrùn"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "òòrùn"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "láti jẹ́ olóri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "fún ìgbà tí ó pé nígbà gbogbo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ̀ dúró"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:02.607552708Z",
+  "model": "glm-5.3"
+}

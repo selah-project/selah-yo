@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 102,
+  "translation": "Nítorí àwọn ẹrú rẹ faramọ́ ⟨את⟩ àwọn òkúta rẹ, wọ́n sì ń ṣàánú fún ⟨את⟩ erùpọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "faramọ́"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "àwọn ẹrú rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn òkúta rẹ"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "àwọn òkúta rẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "erùpọ̀ rẹ"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "erùpọ̀ rẹ"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "wọ́n sì ń ṣàánú fún"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:42.241114189Z",
+  "model": "glm-5.3"
+}

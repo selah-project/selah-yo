@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "O ti fi ayọ̀ sí nínú ọkàn mi, nígbà tí ǹrì wọn àti èmu wọn pọ̀ sí i ju èyí lọ.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "O ti fi"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ayọ̀"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "nínú ọkàn mi"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "ǹrì wọn"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "àti èmu wọn"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "pọ̀ sí i"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:34.389864459Z",
+  "model": "glm-5.3"
+}

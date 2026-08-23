@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Fún olùdarí-orin, pẹ̀lú àwọn ohun-èlù, mizmor kan fún David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí-orin"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "pẹ̀lú àwọn ohun-èlù"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor kan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:19.974714671Z",
+  "model": "glm-5.3"
+}

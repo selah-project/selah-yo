@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Aṣọ rẹ kò fi ẹ rẹ́, ẹsẹ̀ rẹ kò sì fọ́nà, ìyálẹta ọdún mẹ́rìnlélógún yìí.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "aṣọ rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "fi ẹ rẹ́"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "lórí rẹ"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ẹsẹ̀ rẹ sì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "fọ́nà"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ìyálẹta yìí"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mẹ́rìnlélógún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:34.111137520Z",
+  "model": "glm-5.3"
+}

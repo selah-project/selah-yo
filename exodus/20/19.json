@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Wọ́n sì wí fún Moshe: Ìwọ ló gbọ́n, sọ fún wa, kí a gbọ́; kí Elohim má ṣe sọ fún wa, kí a má baà kú.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "kí a gbọ́"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí … má ṣe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí a má baà"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "kú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:04.219754289Z",
+  "model": "glm-5.3"
+}

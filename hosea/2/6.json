@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àwọn ọmọ rẹ̀ ⟨את⟩ kì yòókìí ṣe àánú fún; nítorí àwọn ọmọ ìwà aṣewò ni wọn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì yòókìí"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ṣe àánú fún"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "ìwà aṣewò"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:00:43.003315407Z",
+  "model": "glm-5.3"
+}

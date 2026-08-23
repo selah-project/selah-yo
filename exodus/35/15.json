@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "àti ⟨את⟩ pẹpẹ etí-ìdònbí ní àwọn ọ̀pá rẹ̀, àti ⟨את⟩ epo ìyẹfun tí a fi ń yẹ, àti ⟨את⟩ etí-ìdònbí ewé kíkọ́, àti ⟨את⟩ àsọ-ìdènà ọ̀nà ẹnu-ọ̀nà, níwájú ẹnu-ọ̀nà ti pápá-ìṣẹ̀mí náà;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "pẹpẹ etí-ìdònbí"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "etí-ìdònbí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọ̀pá rẹ̀"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "àwọn ọ̀pá rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "epo ìyẹfun"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ìyẹfun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "etí-ìdònbí ewé kíkọ́"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "etí-ìdònbí"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ewé kíkọ́"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àsọ-ìdènà ọ̀nà"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "àsọ-ìdènà"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "níwájú ẹnu-ọ̀nà"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "pápá-ìṣẹ̀mí náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:16.098002950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nígbà tí Tou, ọba Hamat, gbọ́ pé Dawid ti lu ⟨את⟩ gbogbo ogun Hadadezer, ọba Tzoba,",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ó sì gbọ́"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ti lu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ogun Hadadezer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tzoba"
+    }
+  ],
+  "timestamp": "2026-08-23T05:16:41.999245893Z",
+  "model": "glm-5.3"
+}

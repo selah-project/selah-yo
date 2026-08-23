@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Bí àwọn orílẹ̀-èdè tí Yahweh ń mú parun níwájú yín ni ẹ yóò pàrun, nítorí pé ẹ kò gbọ́ràn sí ohùn Yahweh Elohim yín.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "bí àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "ń mú parun"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "níwájú yín"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "ẹ yóò pàrun"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "ẹ gbọ́ràn"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sí ohùn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:40.523563502Z",
+  "model": "glm-5.3"
+}

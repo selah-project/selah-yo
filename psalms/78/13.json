@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó bú ọ̀kun já, ó sì jẹ́ kí wọn kojá; ó sì gbé omi dúró gẹ́gẹ́ bíi òkúta ìkòkòò.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "Ó bú já"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ọ̀kun"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "ó sì jẹ́ kí wọn kojá"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "ó sì gbé dúró"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gẹ́gẹ́ bíi"
+    },
+    {
+      "surface": "נד",
+      "gloss": "òkúta ìkòkòò"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:42.446339182Z",
+  "model": "glm-5.3"
+}

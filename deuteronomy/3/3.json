@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Yahweh, Elohim wa, sì fi pàṣẹ fún láti fi, bákan náà, ⟨את⟩ Og, ọba Bashan, àti ⟨את⟩ gbogbo àwọn ènìyàn rẹ̀, lọ́wọ́ wa; a sì lu u lọ́jà, títí di pé a kò fi ènìyàn ìṣẹ́lẹ̀ sílẹ̀ fún-un.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ó fi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "lọ́wọ́ wa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og, ọba Bashan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ènìyàn rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "àwọn ènìyàn rẹ̀"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "a sì lu u lọ́jà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di pé"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "a kò"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "fi sílẹ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún-un"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ènìyàn ìṣẹ́lẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:30.478725957Z",
+  "model": "glm-5.3"
+}

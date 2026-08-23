@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 13:11",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ó sì ṣe èékáàné nínú ojú Yahweh; kò yẹ kúrò nínú gbogbo ẹ̀ṣẹ̀ Yerovoam ọmọ Nevat, ẹni tí ó fi ṣẹ́ ⟨את⟩ Yisrael lẹ́ṣẹ̀ — nínú rẹ̀ ni ó ń rìn.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "èékáàné"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "nínú ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "סר",
+      "gloss": "yẹ kúrò"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nínú gbogbo"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerovoam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "fi ṣẹ́ lẹ́ṣẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ó ń rìn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:31:44.966092505Z",
+  "model": "glm-5.3"
+}

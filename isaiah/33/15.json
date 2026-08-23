@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 33:15",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ẹni tí ó ń rìn ní ìdájọ́-òótọ́, tí ó ń sọ̀rọ̀ òtítọ́; ẹni tí ó kọrìí èrè ìṣẹ̀gbà-ènìyàn, tí ó ń yọ ọwọ́ rẹ̀ kúrò lọ́wọ́ aṣìkú, tí ó ń pa etí rẹ̀ kúrò lọ́wọ́ gbígba ìrọ̀rùn-ẹjẹ́, tí ó ń pa ojú rẹ̀ kúrò lọ́wọ́ ríra ẹ̀ṣẹ̀ —",
+  "tokens": [
+    {
+      "surface": "הלך",
+      "gloss": "ẹni tí ó ń rìn"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ní ìdájọ́-òótọ́"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "tí ó ń sọ̀rọ̀"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "òtítọ́"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "tí ó kọrìí"
+    },
+    {
+      "surface": "בבצע",
+      "gloss": "èrè"
+    },
+    {
+      "surface": "מעשקות",
+      "gloss": "ìṣẹ̀gbà-ènìyàn"
+    },
+    {
+      "surface": "נער",
+      "gloss": "tí ó ń yọ… kúrò"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "מתמך",
+      "gloss": "kúrò lọ́wọ́ gbígba"
+    },
+    {
+      "surface": "בשחד",
+      "gloss": "aṣìkú"
+    },
+    {
+      "surface": "אטם",
+      "gloss": "tí ó ń pa… kúrò"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "etí rẹ̀"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "lọ́wọ́ gbígba ìrọ̀rùn"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ẹjẹ́"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "tí ó ń pa… kúrò"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "lọ́wọ́ ríra"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ẹ̀ṣẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:50:25.841554210Z",
+  "model": "glm-5.3"
+}

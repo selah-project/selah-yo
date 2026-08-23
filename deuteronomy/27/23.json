@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Egbé ni fún ẹni tí ó bá sùn pẹ̀lú ìyá-ọkọ rẹ̀; gbogbo ènìyàn náà sì máa wí pé, Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Egbé ni fún"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ẹni tí ó bá sùn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "ìyá-ọkọ rẹ̀"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "sì máa wí pé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-23T00:18:24.676839444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Wọn kì yóò gbé ní ilẹ̀ Yahweh; Ephraim yóò padà sí Misraim, àti ní Ashur, oúnjẹ aláìmọ́ ni wọn yóò jẹ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "yóò gbé"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "yóò padà sí"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "àti ní Ashur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "oúnjẹ aláìmọ́"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "wọn yóò jẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:03:21.674074198Z",
+  "model": "glm-5.3"
+}

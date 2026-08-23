@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Wọ́n máa ba ⟨את⟩ ilẹ̀ Ashur jẹ́ pẹ̀lú idà, àti ⟨את⟩ ilẹ̀ Nimrod ní àwọn ẹnu-ìbodè rẹ̀; ó sì máa gba ⟨wa⟩ là kúrò lọ́dọ̀ Ashur, nígbà tí ó bá wọ ilẹ̀ wa, àti nígbà tí ó bá tẹ orí ìlà-oòrè wa.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "wọ́n máa ba … jẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ Ashur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "pẹ̀lú idà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilẹ̀ Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "ní àwọn ẹnu-ìbodè rẹ̀"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "ó sì máa gba là"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "kúrò lọ́dọ̀ Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ó bá wọ"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ilẹ̀ wa"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "àti nígbà tí"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ó bá tẹ orí"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "ìlà-oòrè wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:11:18.389179713Z",
+  "model": "glm-5.3"
+}

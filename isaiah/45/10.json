@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Ìwàiyà fún ẹni tí ó sọ fún baba pé, ‘Kí ni ìwọ ń bí?’ àti fún obìrin pé, ‘Kí ni ìwọ ń bímọ?’",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ìwàiyà"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "fún baba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "ìwọ ń bí"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "àti fún obìrin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "ìwọ ń bímọ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:57:49.762827189Z",
+  "model": "glm-5.3"
+}

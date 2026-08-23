@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àwọn tí ó wà ní Gúúsù yóò gba ⟨את⟩ òkè Esav, àwọn tí ó wà n'ìlà-oòrùn-ìlà-òòrùn (ìsàlẹ̀ ilẹ̀) yóò gba ⟨את⟩ ilẹ̀ àwọn Pelishti; wọ́n yóò sì gba ⟨את⟩ pápá Efrayim àti ⟨את⟩ pápá Shomeron; Binyamin yóò sì gba ⟨את⟩ Giladi.",
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "yóò gba"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Gúúsù (àwọn tí ó wà ní)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òkè Esav"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "ìsàlẹ̀ ilẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ àwọn Pelishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Pelishti"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "wọ́n yóò sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pápá Efrayim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pápá"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "pápá Shomeron"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pápá"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Binyamin…sì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giladi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:08:53.767672371Z",
+  "model": "glm-5.3"
+}

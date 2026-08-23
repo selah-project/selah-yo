@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Nígbà tí Toi, ọba Hamat, gbọ́ pé Davíd ti lu ⟨את⟩ gbogbo ogun Hadadezer,",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nígbà tí ó gbọ́"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ti lu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ogun Hadadezer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    }
+  ],
+  "timestamp": "2026-08-23T00:59:19.582513078Z",
+  "model": "glm-5.3"
+}

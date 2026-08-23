@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ìwọ yóò sá ⟨את⟩ pẹpẹ ẹ̀bùn ẹjẹ-kíkú àti ⟨את⟩ irinṣẹ́ rẹ̀ gbogbo, ìwọ yóò sì fi yì ⟨את⟩ pẹpẹ náà mú mímọ́, pẹpẹ náà sì máa jẹ́ ohun mímọ́ jùlọ.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ìwọ yóò sì sá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pẹpẹ ẹ̀bùn ẹjẹ-kíkú"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹpẹ ẹ̀bùn"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ẹjẹ-kíkú (ìgbésọ̀nù tí a kó sórí)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "irinṣẹ́ rẹ̀ gbogbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ìwọ yóò sì fi yì í mú mímọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pẹpẹ náà"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ náà"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ó sì máa jẹ́"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ náà"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ohun mímọ́"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "jùlọ (mímọ́-òpópópó)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:38.867987446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "kí wọ́n sì ṣọ́ ⟨את⟩ gbogbo ohun-èlò àgọ ìpàdé, àti ⟨את⟩ iṣẹ́ ọmọ Yisrael, láti ṣiṣẹ́ ⟨את⟩ iṣẹ́ ilé-iṣẹ́ ìgbanimúṣẹ́ náà;",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "kí wọ́n sì ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ohun-èlò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ohun-èlò"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "iṣẹ́ ọmọ Yisrael"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "láti ṣiṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣẹ́ ilé-iṣẹ́ ìgbanimúṣẹ́"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ilé-iṣẹ́ ìgbanimúṣẹ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:17.302808989Z",
+  "model": "glm-5.3"
+}

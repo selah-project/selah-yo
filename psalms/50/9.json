@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Kì í ṣe èmi ó gbá ọmọ málúù kankan láti ilé rẹ, àwọn akọ ewúrẹ láti àwọn fólàdè rẹ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "èmi ó gbá"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "láti ilé rẹ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ọmọ málúù"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "láti àwọn fólàdè rẹ"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "àwọn akọ ewúrẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:20.494391105Z",
+  "model": "glm-5.3"
+}

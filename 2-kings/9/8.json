@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Gbogbo ilé Ahab sì máa parun; èmi sì máa gé kúrò fún Ahab ẹnìkẹ́ni tí ó bá ṣe ìtajọẹ sí ogiri, àti ẹni tí a ti pa mọ́, àti ẹni tí a tí fi sílẹ̀, ní Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "sì máa parun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Gbogbo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "èmi sì máa gé kúrò"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "fún Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "ẹnìkẹ́ni tí ó bá ṣe ìtajọẹ"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sí ogiri"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "àti ẹni tí a ti pa mọ́"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "àti ẹni tí a tí fi sílẹ̀"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ní Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:22.150920885Z",
+  "model": "glm-5.3"
+}

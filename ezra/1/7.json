@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ògágun Koresh sì mú ⟨את⟩ àwọn ohun ìný ilé Yahweh jáde, àwọn tí Nevukhadnetstsar ti mú jáde kúrò ní Yerushalayim ó sì gbé wọn sílẹ̀ ní ilé ọlọ́run rẹ̀.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "sì mú jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ohun ìný"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "àwọn ohun ìný"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ti mú jáde"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "kúrò ní Yerushalayim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ó sì gbé wọn sílẹ̀"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ọlọ́run rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:55:59.691438345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Fún olùdarí orin, fún àwọn ọmọ Korach, Máskil (ọ̀kọ̀ọ̀kọ́ ìkẹ́kọ̀ọ́).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí orin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Máskil (ọ̀kọ̀ọ̀kọ́ ìkẹ́kọ̀ọ́)"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:16.411770527Z",
+  "model": "glm-5.3"
+}

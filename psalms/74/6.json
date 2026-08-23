@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Àti pé báyìí, wọ́n ń lu gbogbo àwọn ọ̀ṣẹ́ ìrora rẹ̀ jọ, pẹ̀lú àkòdó àti Ọ̀kọ̀tàn wọ́n fi lu wọ́n lù.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "àti pé báyìí"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "àwọn ọ̀ṣẹ́ ìrora rẹ̀"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "jọ"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "pẹ̀lú àkòdó"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "àti Ọ̀kọ̀tàn"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "wọ́n fi lu wọ́n lù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:13.156987106Z",
+  "model": "glm-5.3"
+}

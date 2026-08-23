@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 23:2",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Wọ́n sì yí Yehuda ká, wọ́n sì kó ⟨את⟩ àwọn Lefi papọ̀ láti gbogbo àwọn ìlú Yehuda, àti àwọn olórí ilé-àwọn baba fún Israël, wọ́n sì wá sí Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "wọ́n sì yí...ká"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "wọ́n sì kó...papọ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Lefi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "àwọn Lefi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "láti gbogbo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "àwọn ìlú"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "àti àwọn olórí"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ilé-àwọn baba"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fún Israël"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wọ́n sì wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:31:08.791369936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ìwọ yóò sá ⟨את⟩ kòtò-míìmọ́ àti ⟨את⟩ ìdí rẹ̀, ìwọ yóò sì fi yì ⟨את⟩ rẹ̀ mú mímọ́.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ìwọ yóò sá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kòtò-míìmọ́"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kòtò-míìmọ́ (ààyè omi-fífọ̀)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìdí rẹ̀"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ìdí rẹ̀ (ipò ìdí-sísẹ́)"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ìwọ yóò sì fi yì í mú mímọ́"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ rẹ̀",
+      "marks": "kòtò-míìmọ́ àti ìdí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:38.868197787Z",
+  "model": "glm-5.3"
+}

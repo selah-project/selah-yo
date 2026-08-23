@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Mo fún ọ ní ọba nínú ìbínú Mi, mo sì gba á lọ nínú ìjìyà Mi.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "Mo fún ọ ní"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "nínú ìbínú Mi"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "mo sì gba á lọ"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "nínú ìjìyà Mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:02:42.789748997Z",
+  "model": "glm-5.3"
+}

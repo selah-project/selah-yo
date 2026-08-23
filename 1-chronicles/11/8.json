@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó sì kọ́ ìlú náà ní ìyípo láti Mllo dé ìyípo yípo-jù; Joab sì mú ⟨את⟩ èyí tí ó kù ní ìlú náà yọrí sí ìmúláradà.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "kọ́"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ní ìyípo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Mllo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "ìyípo yípo-jù"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "mú … yọrí sí ìmúláradà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èyí tí ó kù ní ìlú náà"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "èyí tí ó kù"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ní ìlú náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:12:09.724054277Z",
+  "model": "glm-5.3"
+}

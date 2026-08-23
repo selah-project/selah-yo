@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ṣùgbọ́n ṣí i dáadáa ⟨את⟩ ọwọ́ rẹ fún un, fi ìgbésí fún un dáadáa, tó pọ̀ tó fi ẹ̀rùn iṣẹ́ rẹ ṣe, nítorí ohun tí ó ń ṣe ìsí rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ṣí i dáadáa"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ṣí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "fi ìgbésí fún un dáadáa"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "fi ìgbésí fún"
+    },
+    {
+      "surface": "די",
+      "gloss": "tó pọ̀ tó"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "fi ẹ̀rùn iṣẹ́ rẹ ṣe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ń ṣe ìsí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:13:19.489939063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Obed sì bí ⟨את⟩ Yehu, Yehu sì bí ⟨את⟩ Azaryah.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    }
+  ],
+  "timestamp": "2026-08-23T05:07:40.743540227Z",
+  "model": "glm-5.3"
+}

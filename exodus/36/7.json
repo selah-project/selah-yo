@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Iṣẹ́ náà sì jẹ́ ⟨ti⟩ ó tó fún gbogbo iṣẹ́ náà láti ṣe ⟨את⟩ rẹ̀, ó sì pọ̀ ju.",
+  "tokens": [
+    {
+      "surface": "והמלאאכה",
+      "gloss": "iṣẹ́ náà sì"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "דים",
+      "gloss": "tó"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "iṣẹ́ náà"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "rẹ̀ (iṣẹ́ náà)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "ó sì pọ̀ ju"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:02.967128297Z",
+  "model": "glm-5.3"
+}

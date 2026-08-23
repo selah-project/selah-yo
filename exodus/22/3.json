@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Tí ẹrù ìjìnlẹ̀ bá farahàn gan-an ní ọwọ́ rẹ̀, tí ó sì wà láàyè — láti ẹran-màálù títí dé ẹlọ́mọ́kọ̀nà, títí dé àgùntàn — ó gbọdọ̀ san ìgbà méjì lọ́nà ìyọ̀sẹ̀.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "bá farahàn"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "gan-an"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ní ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "ẹrù ìjìnlẹ̀"
+    },
+    {
+      "surface": "משור",
+      "gloss": "láti ẹran-màálù"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ẹlọ́mọ́kọ̀nà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "שה",
+      "gloss": "àgùntàn"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tí ó sì wà láàyè"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ìgbà méjì"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ó gbọdọ̀ san"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:27.981338278Z",
+  "model": "glm-5.3"
+}

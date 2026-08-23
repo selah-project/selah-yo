@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ó sì rí i pé ó lágbára láti máa lọ pẹ̀lú ⟨את⟩ rẹ̀, ó sì dúró ìsọ̀rọ̀ sí i.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ó sì rí i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "ó lágbára (pẹ̀lú ìpinnu)"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ó"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "láti máa lọ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pẹ̀lú rẹ̀ (Naomi)"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "ó sì dúró"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ìsọ̀rọ̀"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sí i"
+    }
+  ],
+  "timestamp": "2026-08-23T04:36:03.341526769Z",
+  "model": "glm-5.3"
+}

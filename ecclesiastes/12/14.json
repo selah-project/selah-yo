@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Nítorí Elohim gbà ⟨את⟩ gbogbo iṣẹ́ wá ní ìdájọ́, lórí gbogbo ohun tí ó pamọ́, bí ó bá dára tàbí bí ó bá búburú.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo iṣẹ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "gbà ... wá"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ní ìdájọ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ohun tí ó pamọ́"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bí ó bá"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tàbí bí ó bá"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:43:32.322985559Z",
+  "model": "glm-5.3"
+}

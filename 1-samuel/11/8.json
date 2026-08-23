@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó sì ka wọn ní Bezek; àwọn ọmọ Yisrael sì jẹ́ ẹgbẹ̀ta ẹgbàáwàá, àwọn ọkùnrin Yehudah sì jẹ́ ọgbọ̀n ẹgbàáwàá.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "Ó sì ka wọn"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "ní Bezek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "sì jẹ́"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ẹgbẹ̀ta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ẹgbàáwàá"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "—"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ọgbọ̀n"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbàáwàá"
+    }
+  ],
+  "timestamp": "2026-08-23T00:46:56.196424859Z",
+  "model": "glm-5.3"
+}

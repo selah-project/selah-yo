@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 128,
+  "translation": "Kí o sì rí àwọn ọmọ ti àwọn ọmọ rẹ — àlàáfíà lórí Israẹl.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kí o sì rí"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ti àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:58.641002119Z",
+  "model": "glm-5.3"
+}

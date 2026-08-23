@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 45,
+  "translation": "Ìwọ ló lẹ́wà ju àwọn ọmọ ènìyàn lọ; a rò ìdànnù sí ètè rẹ; nítorí náà Elohim ti ṣe ìbùkún fún ẹ títí láéláé.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "lẹ́wà"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ju àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "a rò"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ìdànnù"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "sí ètè rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "náà"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "ṣe ìbùkún fún ẹ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:13.794849473Z",
+  "model": "glm-5.3"
+}

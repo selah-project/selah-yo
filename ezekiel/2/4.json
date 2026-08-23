@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 2:4",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àwọn ọmọ náà sì ni èjìká-òyìbo, ọkàn wọn sì le; èmi ń fi ⟨את⟩ ọ ranṣẹ sí wọn; ìwọ sì máa sọ fún wọn pé: Bẹ́ẹ̀ ni Adonai Yahweh ti sọ.",
+  "tokens": [
+    {
+      "surface": "והבנים",
+      "gloss": "Àwọn ọmọ náà sì ni"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "èjìká-òyìbo"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "(ojú)"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "ọkàn wọn sì le"
+    },
+    {
+      "surface": "לב",
+      "gloss": "(ọkàn)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "שולח",
+      "gloss": "ń fi... ranṣẹ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ọ",
+      "marks": "ọ (ìwọ, òun tí a ń ránṣẹ)"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ìwọ sì máa sọ fún wọn"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T02:34:04.989342575Z",
+  "model": "glm-5.3"
+}

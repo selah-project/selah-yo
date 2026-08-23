@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 9:5",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ní ìrúbọ ẹja gbígbẹ ìṣalẹ̀ ọjọ́, mo dìde kúrò nínú àwẹ̀ mi, nígbà tí mo fẹ́ inú aṣọ mi àti aṣọ ìbora mi jẹ́, mo dojúkọ orí ikún mi dó, mo si ṣí ọwọ́ mi sóke sí Yahweh, Elohim mi.",
+  "tokens": [
+    {
+      "surface": "ובמנחת",
+      "gloss": "ní ìrúbọ ẹja gbígbẹ ìṣalẹ̀ ọjọ́"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ìṣalẹ̀ ọjọ́"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "mo dìde"
+    },
+    {
+      "surface": "מתעניתי",
+      "gloss": "kúrò nínú àwẹ̀ mi"
+    },
+    {
+      "surface": "ובקרעי",
+      "gloss": "nígbà tí mo fẹ́ jẹ́"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "inú aṣọ mi"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "aṣọ ìbora mi"
+    },
+    {
+      "surface": "ואכרעה",
+      "gloss": "mo dojúkọ dó"
+    },
+    {
+      "surface": "על",
+      "gloss": "lorí"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ikún mi"
+    },
+    {
+      "surface": "ואפרשה",
+      "gloss": "mo si ṣí sóke"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    }
+  ],
+  "timestamp": "2026-08-23T05:01:23.129451650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 77,
+  "translation": "Elohim, ní mímọ́ ni ọ̀nà rẹ; ta ni El tó tóbi bíi Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ní mímọ́"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ọ̀nà rẹ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tó tóbi"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "bíi Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:08.200446699Z",
+  "model": "glm-5.3"
+}

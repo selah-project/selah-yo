@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Nítorí náà Shaúl kú, àwọn ọmọ rẹ̀ mẹ́ta pẹ̀lú, àti gbogbo ilé rẹ̀ — wọ́n kú papọ̀.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "kú"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "àwọn ọmọ rẹ̀ mẹ́ta"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ọmọ rẹ̀"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "papọ̀"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "wọ́n kú"
+    }
+  ],
+  "timestamp": "2026-08-23T05:12:57.749842846Z",
+  "model": "glm-5.3"
+}

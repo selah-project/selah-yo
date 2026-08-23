@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ṣùgbọ́n David gba ⟨את⟩ ààtàn Tsiyon lọ́wọ́ — ìlú David ni.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Ṣùgbọ́n ... gba ... lọ́wọ́"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ààtàn Tsiyon"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "ààtàn"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ó ní"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-23T00:59:25.300896886Z",
+  "model": "glm-5.3"
+}

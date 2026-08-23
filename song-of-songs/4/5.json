@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìgbọ̀n rẹ̀ méjì dà bí ọ̀gànràngán-ọmọ ìrántì méjì, ìwọ̀n-èjì tí ó jọra, tí ó ń pé ní àwọn ṣòṣó.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "ìgbòn rẹ̀"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "bí ... méjì"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "ọ̀gànràngán-ọmọ ìrántì"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "ìwọ̀n-èjì tí ó jọra"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "ewúré-ìrántì"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "tí ó ń pẹ́"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "ní àwọn ṣòṣó"
+    }
+  ],
+  "timestamp": "2026-08-23T04:33:16.728465708Z",
+  "model": "glm-5.3"
+}

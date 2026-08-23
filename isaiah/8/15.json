@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ọ̀pọ̀ lára wọn yóò kọ̀-ẹsẹ̀, wọn yóò ṣubú, wọn yóò fọ́, wọn yóò bọ́ sínú àmọ̀, wọn yóò sì jẹ́ mú.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "yóò kọ̀-ẹsẹ̀"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọ̀pọ̀"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "yóò ṣubú"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "yóò fọ́"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "yóò bọ́ sínú àmọ̀"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "yóò jẹ́ mú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:46.316018572Z",
+  "model": "glm-5.3"
+}

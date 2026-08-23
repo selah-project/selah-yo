@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Mo fi ọkàn mi tẹ́lẹ̀ láti ṣe àwọn òfin ìgbéyàwó rẹ fún ìgbà tí kò ní ìparí, títí dé ìparí.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "mo fi ... tẹ́lẹ̀"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "àwọn òfin ìgbéyàwó rẹ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "fún ìgbà tí kò ní ìparí"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "títí dé ìparí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:56.154446729Z",
+  "model": "glm-5.3"
+}

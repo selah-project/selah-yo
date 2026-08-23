@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Nítorí náà, kì ní sí fún ọ ẹni tí yóò ju ìpà ní ìpín, ní àpapọ̀ Yahweh.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ní sí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "ẹni tí yóò ju"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ìpà"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ní ìpín ìgbésẹ̀"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ní àpapọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T03:09:56.998838540Z",
+  "model": "glm-5.3"
+}

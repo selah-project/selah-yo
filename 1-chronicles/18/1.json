@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Lẹ́yìn ìyẹn, ó sì ṣẹlẹ̀ pé David lu ⟨את⟩ àwọn Filistini, ó sì dín wọn lọ́tún, ó sì gba ⟨את⟩ Gati àti àwọn abúlé rẹ̀ lọ́wọ́ àwọn Filistini.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì ṣẹlẹ̀ pé"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ìyẹn"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ó sì lu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Filistini"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Filistini"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ó sì dín wọn lọ́tún"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ó sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gati"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "àti àwọn abúlé rẹ̀"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Filistini"
+    }
+  ],
+  "timestamp": "2026-08-23T05:15:57.368348369Z",
+  "model": "glm-5.3"
+}

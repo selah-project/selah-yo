@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Nígbà tí mo ń pè ⟨ọ̀,⟩ dájú mi, Elohim ti òdodo mi; ní ìṣòro iwọ ti fún mi ní ààyè; ṣe àánú fún mi, kí o sì gbọ́ àdúrà mi.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Nígbà tí mo ń pè"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "dájú mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "òdodo mi"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ní ìṣòro"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "iwọ ti fún ní ààyè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ṣe àánú fún mi"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "kí o sì gbọ́"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "àdúrà mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:19.974971073Z",
+  "model": "glm-5.3"
+}

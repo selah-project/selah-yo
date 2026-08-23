@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Nítorí pé ọ̀rọ̀ pọ̀, ó ń pọ̀ hevel kún — èrè kí ni ó wà fún ènìyàn?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "יש",
+      "gloss": "wà"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "pọ̀"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ń pọ̀ kún"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "èrè"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "fún ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:55.569733009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ó ó sì f⟨את⟩n ómér náà lárúfí síwájú Yahweh, kí ó lè yẹ fún yín; ọjọ́ tí ó gbẹ̀yìn Shabbat ni àlùfáà ó ó fún lárúfí.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Ó ó sì f...lárúfí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ómér náà"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "ómér náà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "kí ó lè yẹ fún yín"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ọjọ́ tí ó gbẹ̀yìn"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "ó ó fún lárúfí"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:50.475695302Z",
+  "model": "glm-5.3"
+}

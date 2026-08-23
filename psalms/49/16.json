@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Ṣùgbọ́n Elohim ló máa ra èmí mi lowó Sheol, nítorí òun ni yóò gbà mí. Sela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ló máá ra mi lowó"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "èmí mi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "lowó"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "òun ni yóò gbà mí"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:04.617934781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ọkàn mọ̀ ìrora ẹ̀mí rẹ̀; àti ní ayọ̀ rẹ̀, àjèjì kì í dá pọ̀ mọ́ ọn.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Ọkàn"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "ìrora"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ẹ̀mí rẹ̀"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "àti ní ayọ̀ rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "dá pọ̀ mọ́ ọn"
+    },
+    {
+      "surface": "זר",
+      "gloss": "àjèjì"
+    }
+  ],
+  "timestamp": "2026-08-23T04:06:51.066120189Z",
+  "model": "glm-5.3"
+}

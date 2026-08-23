@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 79,
+  "translation": "Má ṣe rántí ⟨àwọn⟩ ẹ̀ṣẹ̀ àwọn tí ó ṣáájú wá lọ́wọ́ wa; kí ìṣedúrọ̀ rẹ ó yára bọ̀ ṣáájú wa; nítorí tí a ti dínkù púpọ̀.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Má ṣe"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "rántí"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "lọ́wọ́ wa"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "àwọn tí ó ṣáájú wá"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ó yára"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "bọ̀ ṣáájú wa"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ìṣedúrọ̀ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "a ti dínkù"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:48.836322667Z",
+  "model": "glm-5.3"
+}

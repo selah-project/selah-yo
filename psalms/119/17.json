@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ṣe rere fún iranṣẹ rẹ, kí n lè yè, kí n sì le ṣọ́ ọ̀rọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "ṣe rere fún"
+    },
+    {
+      "surface": "על",
+      "gloss": "fún"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "iranṣẹ rẹ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "kí n lè yè"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "kí n sì le ṣọ́"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ọ̀rọ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:12.918038351Z",
+  "model": "glm-5.3"
+}

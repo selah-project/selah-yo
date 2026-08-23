@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Yẹra fún búburú, ṣe rere; wá àlàáfíà, kí o sì lé e lẹ́yìn.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Yẹra fún"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "wá"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "kí o sì lé e lẹ́yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:06.049091Z",
+  "model": "glm-5.3"
+}

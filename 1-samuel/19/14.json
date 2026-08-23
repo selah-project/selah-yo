@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Shaul sì rán àwọn ìránṣẹ́ láti mú ⟨את⟩ David, ⟨Mikal⟩ sì wí pé: aláìsàn ni òun.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì rán"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "láti mú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "⟨Mikal⟩ sì wí"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "aláìsàn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni òun"
+    }
+  ],
+  "timestamp": "2026-08-23T00:50:25.872368178Z",
+  "model": "glm-5.3"
+}

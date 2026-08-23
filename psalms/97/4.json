@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 97,
+  "translation": "Mọ̀mọ̀-màmámá rẹ̀ ṣe ìmọ́lẹ̀ fún ayé, ilẹ̀ rí i, ó sì bẹ̀rẹ̀ síì ṣe rírù.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "ṣe ìmọ́lẹ̀"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "mọ̀mọ̀-màmámá rẹ̀"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "rí i"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "ó sì bẹ̀rẹ̀ síì ṣe rírù"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:05.138984474Z",
+  "model": "glm-5.3"
+}

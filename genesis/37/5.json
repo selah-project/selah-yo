@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Nítorí náà Yosef lálàlá kan, ó sì sọ ọ́ fún àwọn arágbára rẹ̀, wọ́n sì fi bẹ́ẹ̀ bẹ́ẹ̀ kún ín láti kórìíra ⟨את⟩ i.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "ó lálálá kan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "lálálá kan"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ó sọ ọ́ fún"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "àwọn arágbára rẹ̀"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "wọ́n sì fi bẹ́ẹ̀ bẹ́ẹ̀ kún ín"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bẹ́ẹ̀ bẹ́ẹ̀"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "láti kórìíra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ i",
+      "marks": "i (Yosef)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:35.321487404Z",
+  "model": "glm-5.3"
+}

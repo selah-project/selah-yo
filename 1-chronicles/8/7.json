@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "àti Naaman, àti Achiya, àti Gera — òun ni ó gbé wọn lọ (ní ìgbègbàjọ) — ⟨את⟩ ó sì bí ⟨את⟩ Uzza àti ⟨את⟩ Achichud.",
+  "tokens": [
+    {
+      "surface": "ויגלום_placeholder",
+      "gloss": "",
+      "note": "INVALID"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "àti Naaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "àti Achiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "àti Gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "ó gbé wọn lọ (ní ìgbègbàjọ)"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "⟨את⟩ ó sì bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "⟨את⟩ Uzza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Achichud"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Achichud"
+    }
+  ],
+  "timestamp": "2026-08-23T05:11:17.458487589Z",
+  "model": "glm-5.3"
+}

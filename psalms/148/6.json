@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 148,
+  "translation": "Ó sì jẹ́ kí wọ́n dúró fún ìgbà láéláé, sí ìgbà gbọ̀nọ́; ó yó ohun-èlẹ́wọ̀n, kì í sì yọ kòrí-ààlà.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "Ó sì jẹ́ kí wọ́n dúró"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "fún ìgbà láéláé"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sí ìgbà gbọ̀nọ́"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ohun-èlẹ́wọ̀n"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ó yó"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í sì"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "yọ kòrí-ààlà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:49.578466387Z",
+  "model": "glm-5.3"
+}

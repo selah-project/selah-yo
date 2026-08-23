@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 110,
+  "translation": "Adonai, ní ọwọ́ ọ̀tún rẹ, ó lu àwọn ọba já ní ọjọ́ bínú rẹ.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní ọwọ́ ọ̀tún"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ọ̀tún rẹ"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ó lu já"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bínú rẹ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "àwọn ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:50.679742367Z",
+  "model": "glm-5.3"
+}

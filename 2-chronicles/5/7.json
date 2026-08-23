@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 5:7",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àwọn àlùfáá sì mú ⟨את⟩ àpó ìdé májẹ̀mú Yahweh wá sí ipò rẹ̀, sí Debir ilé náà, sí ìmọ́-Mímọ́ àwọn mìmọ́, sí abẹ́ èjìká àwọn Kerubim.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "sì mú... wá"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àpó ìdé májẹ̀mú Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "àpó ìdé"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ipò rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ìmọ́-Mímọ́"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "àwọn mìmọ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "abẹ́"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "èjìká"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "àwọn Kerubim"
+    }
+  ],
+  "timestamp": "2026-08-23T06:13:06.434572976Z",
+  "model": "glm-5.3"
+}

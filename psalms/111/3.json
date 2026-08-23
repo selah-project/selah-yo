@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 111,
+  "translation": "Ọlá àti ọ̀tẹ̀ ní iṣẹ́ rẹ̀, àti ìdájọ́ rẹ̀ dúró ṣinṣin títí láéláé.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Ọlá"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "àti ọ̀tẹ̀"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "àti ìdájọ́ rẹ̀"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "dúró ṣinṣin"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "títí láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:20.513202016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Àti gbogbo obìrin tí ọgbọ́n ọkàn wà nípa rẹ̀ spun pẹ̀lú ọwọ́ wọn, wọ́n sì mú ohun tí wọ́n ti spun wá: ⟨את⟩ tekeleeti, ⟨את⟩ arugaman, ⟨את⟩ tolaat ṣani, àti ⟨את⟩ ṣeṣ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "obìrin"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "tí ọgbọ́n"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "nípa rẹ̀"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "spun"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "wọ́n sì mú wá"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "ohun tí wọ́n ti spun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tekeleeti"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekeleeti (írú àwọ̀ bulú)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arugaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "arugaman (írú àwọ̀ pupa-àrọ̀)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolaat ṣani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ṣani (àwọ̀ pupa-ìtọ̀)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ṣeṣ"
+    },
+    {
+      "surface": "השש",
+      "gloss": "ṣeṣ (asọ funfun mímọ́)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:23.467919283Z",
+  "model": "glm-5.3"
+}

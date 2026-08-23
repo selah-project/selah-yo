@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Wọ́n sì wọ sí ilẹ̀-ogun Yisraél; Yisraél sì dìde, wọ́n sì lu ⟨את⟩ Moab, wọ́n sì sálẹ̀ sẹ́yìn níwájú wọn; wọ́n sì tẹ̀wọ́n lọ wọ inú rẹ̀, láti lu ⟨את⟩ Moab lógun.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "wọ́n sì wọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ilẹ̀-ogun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "wọ́n sì dìde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wọ́n sì lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "wọ́n sì sálẹ̀ sẹ́yìn"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "níwájú wọn"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "wọ́n sì wọ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inú rẹ̀"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "láti lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-23T01:27:10.585299338Z",
+  "model": "glm-5.3"
+}

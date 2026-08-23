@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 80,
+  "translation": "Jẹ́ kí ọwọ́ rẹ wà lórí ẹni tí ọwọ́ ọ̀tún rẹ gbé, lórí ọmọ ènìyàn tí ìwọ fún ara rẹ mú dídúró.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "jẹ́ kí ó wà"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ọwọ́ ọ̀tún rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "ìwọ mú dídúró"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ara rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:05.852649051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Tí àwọn ọmọ rẹ̀ bá fi òfin mi sílẹ̀, tí wọ́n sì kòrìn ká nínú òfin ìdájọ́ mi —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "bí … bá"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "wọ́n bá fi … sílẹ̀"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "òfin mi"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "àti nínú òfin ìdájọ́ mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "wọ́n kòrìn ká"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:05.249777210Z",
+  "model": "glm-5.3"
+}

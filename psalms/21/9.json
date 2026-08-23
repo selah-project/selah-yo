@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ọwọ́ rẹ yóò rí gbogbo ọ̀ta rẹ tán; ọwọ́ ọ̀tún rẹ yóò rí àwọn tí ó kọ̀ ọ́.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "yóò rí tán"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ọ̀ta rẹ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ọwọ́ ọ̀tún rẹ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "yóò rí"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "àwọn tí ó kọ̀ ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:11.971078834Z",
+  "model": "glm-5.3"
+}

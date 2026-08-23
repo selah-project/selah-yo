@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Má ṣe bẹ̀rù wọn; rántí dáadáa ⟨את⟩ ohun tí Yahweh Elohim rẹ ṣe fún Parao àti fún Mitzrayim gbogbo rẹ̀.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Má ṣe"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bẹ̀rù"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "rántí"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "dáadáa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí (Parao àti Mitzrayim)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "fún Parao"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "àti fún gbogbo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:05.409241810Z",
+  "model": "glm-5.3"
+}

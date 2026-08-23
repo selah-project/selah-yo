@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Mo sì gba ⟨את⟩ ìwé ìràwọ́ náà, ⟨את⟩ èyí tí a tì mọ́ pẹ̀lú àwọn òfin àti àwọn ìlànà, àti ⟨את⟩ èyí tí ó ṣí.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Mo sì gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìwé ìràwọ́ náà"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ìwé"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ìràwọ́ náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èyí tí a tì mọ́"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "èyí tí a tì mọ́"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "pẹ̀lú àwọn òfin"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "àti àwọn ìlànà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "èyí tí ó ṣí"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "èyí tí ó ṣí"
+    }
+  ],
+  "timestamp": "2026-08-23T02:22:42.768876786Z",
+  "model": "glm-5.3"
+}

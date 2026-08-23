@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Lórí rẹ ni wọ́n fi mi sílẹ̀ láti inú ikún-oyún; láti inú ìkún ìyá mi ni, El mi, ìwọ ni.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "lórí rẹ"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "wọ́n fi mi sílẹ̀"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "láti inú ikún-oyún"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "láti inú ìkún"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ìyá mi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ ni"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:58.929801176Z",
+  "model": "glm-5.3"
+}

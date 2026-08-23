@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Moshe sì gba ⟨את⟩ àwọn ọkọ̀ ẹlẹ́sẹ̀ méjì àti ⟨את⟩ àwọn màlúù, ó sì fún àwọn Leví lọ́nà wọ́n.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "sì gba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọkọ̀ ẹlẹ́sẹ̀"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "àwọn ọkọ̀ ẹlẹ́sẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn màlúù"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "àwọn màlúù"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì fún"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wọ́n",
+      "marks": "fún àwọn Leví"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "àwọn Leví"
+    }
+  ],
+  "timestamp": "2026-08-22T23:50:46.765651713Z",
+  "model": "glm-5.3"
+}

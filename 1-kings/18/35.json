@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Omi náà sì ṣàn ní ayé àgọ́là náà lọ́kànra, ó sì kún ⟨את⟩ iho-ilẹ̀ náà pẹ̀lú omi.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "sì ṣàn"
+    },
+    {
+      "surface": "המים",
+      "gloss": "omi náà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní ayé lọ́kànra"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "àgọ́là náà"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ó sì tún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iho-ilẹ̀ náà"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "iho-ilẹ̀ náà"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kún"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:22:48.549891775Z",
+  "model": "glm-5.3"
+}

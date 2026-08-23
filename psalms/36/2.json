@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Òrọ̀-ìmọ̀lágbára ìwọ̀-tẹ̀ láti ẹnu ẹni tí kò gbọ́ràn sìn wá sí àárín ọkàn mi: kò sí ẹ̀rù Elohim níwájú ojú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Òrọ̀-ìmọ̀lágbára"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ìwọ̀-tẹ̀"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "láti ẹnu ẹni tí kò gbọ́ràn"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sí àárín"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ẹ̀rù"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ojú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:53.200727033Z",
+  "model": "glm-5.3"
+}

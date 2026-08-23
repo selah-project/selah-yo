@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Èmi sì gbé yín lọ fún ⟨את⟩ ọdún mẹ́rìndínlógójì nínú ijù; aṣọ yín kò rẹ́ lórí yín, bàtà ẹsẹ̀ yín kò sì rẹ́ lórí ẹsẹ̀ yín.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "Èmi sì gbé yín lọ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "fún ⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mẹ́rìndínlógójì"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nínú ijù"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "rẹ́"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "aṣọ yín"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "lórí yín"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "bàtà ẹsẹ̀ yín sì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "rẹ́"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ẹsẹ̀ yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:20:18.957452868Z",
+  "model": "glm-5.3"
+}

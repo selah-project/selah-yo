@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ẹni tí ó ṣe ẹ́gún èjì ní ẹ̀jẹ̀ ènìyàn yóò sálẹ̀ sí ihò ìpamọ́; máṣe jẹ́ kí ẹnikẹ́ni dáàbọ̀ bọ̀ lórí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ṣe ẹ́gún"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ní ẹ̀jẹ̀"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ihò ìpamọ́"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "yóò sálẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "máṣe"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "jẹ́ kí ẹnikẹ́ni dáàbọ̀ bọ̀ lórí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:13:46.924806598Z",
+  "model": "glm-5.3"
+}

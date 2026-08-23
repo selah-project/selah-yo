@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Dáfídì sì sùn pẹ̀lú àwọn baba rẹ̀, wọ́n sì sin ín sí ìlú Dáfídì.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "sì sùn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dáfídì"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "àwọn baba rẹ̀"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wọ́n sì sin ín"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sí ìlú"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dáfídì"
+    }
+  ],
+  "timestamp": "2026-08-23T01:10:28.264956868Z",
+  "model": "glm-5.3"
+}

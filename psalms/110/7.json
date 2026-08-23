@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 110,
+  "translation": "Láti odò kékeré ní ọ̀nà ni yóò mu omi; nítorí náà ni yóò gbé orí rẹ̀ sókè.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "láti odò kékeré"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ní ọ̀nà"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "yóò mu omi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "náà"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "yóò gbé sókè"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:29.315048916Z",
+  "model": "glm-5.3"
+}

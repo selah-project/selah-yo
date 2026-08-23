@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ṣé ó dára tí ó máa ń ṣàwárí ⟨את⟩ yín? Tàbí bí a ṣe ń ṣèfihàn ènìyàn, ẹ ṣèfihàn òun?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "ṣé ó dára"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ó máa ń ṣàwárí"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "bí a ṣe ń ṣèfihàn"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "ẹ ṣèfihàn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "òun"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:34.712114575Z",
+  "model": "glm-5.3"
+}

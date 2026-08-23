@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ẹ wá Yahweh àti agbára Rẹ, ẹ wá ojú Rẹ ní gbogbo ìgbà.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Ẹ wá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "àti agbára Rẹ"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ẹ wá"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ojú Rẹ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ní gbogbo ìgbà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:25.334070054Z",
+  "model": "glm-5.3"
+}

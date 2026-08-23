@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ìwọ kú, gba ìgbéjà ìsúnjú sókè sírí fún àwọn olórí Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ìwọ kú"
+    },
+    {
+      "surface": "שא",
+      "gloss": "gba... sókè"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ìgbéjà ìsúnjú"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sírí fún"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T02:41:41.429301918Z",
+  "model": "glm-5.3"
+}

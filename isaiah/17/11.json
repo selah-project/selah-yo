@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 17:11",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ní ọjọ́ tí o gbìn ìgbìn rẹ, a óò mú un dàgbà; ní òwúrọ̀, irúgbìn rẹ yóò sọ̀rọ̀-soòrò; ṣùgbọ́n ikore yóò di ìkọ̀ dídì ní ọjọ́ àìsàn, àti ní ọjọ́ ìrora tí kò lè tọ́.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ní ọjọ́"
+    },
+    {
+      "surface": "נטעך",
+      "gloss": "ìgbìn rẹ"
+    },
+    {
+      "surface": "תשגשגי",
+      "gloss": "a óò mú un dàgbà"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "àti ní òwúrọ̀"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "irúgbìn rẹ"
+    },
+    {
+      "surface": "תפריחי",
+      "gloss": "yóò sọ̀rọ̀-soòrò"
+    },
+    {
+      "surface": "נד",
+      "gloss": "ìkọ̀ dídì"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ikore"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "àìsàn"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "àti ìrora"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "tí kò lè tọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:46:07.948084491Z",
+  "model": "glm-5.3"
+}

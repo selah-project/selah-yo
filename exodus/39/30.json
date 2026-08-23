@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Wọ́n sì ṣe ⟨את⟩ àwọ̀-pẹ́tẹ́lẹ̀ ti ìjọba mímọ́, wúrà mímọ́; wọ́n sì kọ ọ̀rọ̀-kíkọ lórí rẹ̀, bí ìfihàn ìgúnwá ìdánimọ̀: \"Mímọ́ sí Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "wọ́n sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọ̀-pẹ́tẹ́lẹ̀"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "àwọ̀-pẹ́tẹ́lẹ̀"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti ìjọba mímọ́"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "wọ́n sì kọ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "ọ̀rọ̀-kíkọ"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "bí ìfihàn ìgúnwá"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ìdánimọ̀"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Mímọ́"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sí Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:05.511313798Z",
+  "model": "glm-5.3"
+}

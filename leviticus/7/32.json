@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àti ⟨את⟩ ẹsẹ̀ ọ̀tún ẹ yóò fún níyì fún adáhun gẹ́gẹ́ bí ẹbùn-ìyìn, láti inú àwọn ẹbùn-àlàáfíà yín.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Àti ⟨את⟩",
+      "marks": "ẹsẹ̀ ọ̀tún"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ẹsẹ̀"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ọ̀tún"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ẹ yóò fún"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "gẹ́gẹ́ bí ẹbùn-ìyìn"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "fún adáhun"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "láti inú àwọn ẹbùn"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "àlàáfíà yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:36:10.749103376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Oluwa Elohim sì fún ⟨את⟩ Daniel ní ìfẹ́ olóòtítọ́ àti ní àánú níwájú olórí àwọn akọ̀-jáyàn.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "sì fún"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "ní ìfẹ́ olóòtítọ́"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "àti ní àánú"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "שר",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "àwọn akọ̀-jáyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:46:34.117000306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Yahweh, Elohim ti àwọn ọmọ-ogun; Yahweh ni orúkọ-ìrántí Rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "ti àwọn ọmọ-ogun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "orúkọ-ìrántí Rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:03:19.188229672Z",
+  "model": "glm-5.3"
+}

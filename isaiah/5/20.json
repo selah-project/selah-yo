@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ègún fún àwọn tí ń sọ pé búburú ni dára, àti pé dára ni búburú; tí ń fi ìkùnkùn sí ipò ìmọ́lẹ̀, ìmọ́lẹ̀ sì sí ipò ìkùnkùn; tí ń fi èèkú sí ipò dùn, dùn sì sí ipò èèkú.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ègún fún"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "àwọn tí ń sọ pé"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dára"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "àti pé dára"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "tí ń fi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ìkùnkùn"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "sí ipò ìmọ́lẹ̀"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ìmọ́lẹ̀ sì"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "sí ipò ìkùnkùn"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "tí ń fi"
+    },
+    {
+      "surface": "מר",
+      "gloss": "èèkú"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "sí ipò dùn"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "dùn sì"
+    },
+    {
+      "surface": "למר",
+      "gloss": "sí ipò èèkú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:53.928402692Z",
+  "model": "glm-5.3"
+}

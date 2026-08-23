@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Yosef sì yọ ⟨את⟩ wọn kúrò láàárín ìkúnlẹ̀ rẹ̀, ó sì sùn mọ́lẹ̀ fún ojú rẹ̀, ní ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ó sì yọ… kúrò"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "láti láàárín"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "ìkúnlẹ̀ rẹ̀"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ó sì sùn mọ́lẹ̀"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ní ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:13:26.329388786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 123,
+  "translation": "Orin ìgínlẹ̀. Sí ọ, mo ti gbe ⟨את⟩ ojú mi sókè, ẹni tí ó jókòó ní àwọn ọ̀run.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Orin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ìgínlẹ̀"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mo ti gbe sókè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú mi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú mi"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "ẹni tí ó jókòó"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ní àwọn ọ̀run"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:31.102516397Z",
+  "model": "glm-5.3"
+}

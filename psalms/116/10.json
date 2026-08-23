@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Mo gbàgbọ́, nítorí pé èmi mo ń sọ̀rọ̀; mo fi ara jẹ́ ìnira púpọ̀.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Mo gbàgbọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mo ń sọ̀rọ̀"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "mo fi ara jẹ́ ìnira"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:12.394077160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 129,
+  "translation": "Yahweh ṣe olódodo, ó gé àwọn igbá ẹ̀wọ̀n àwọn èṣẹ́ kúrò.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ṣe olódodo"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "ó gé … kúrò"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "àwọn igbá ẹ̀wọ̀n"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn èṣẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:07.147137976Z",
+  "model": "glm-5.3"
+}

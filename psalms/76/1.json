@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 76,
+  "translation": "Fún olùdarí, pẹ̀lú àwọn ohun èlò okún — Orin-ìjìnlẹ̀ ti Asaf, orin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "pẹ̀lú àwọn ohun èlò okún"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Orin-ìjìnlẹ̀"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ti Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:54.754153679Z",
+  "model": "glm-5.3"
+}

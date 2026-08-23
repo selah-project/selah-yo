@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 146,
+  "translation": "Èmi ó gbé ga Yahweh nígbà tí mo wà láàyè; èmi ó kọ orin fún Elohim mi nígbà tí èmi wà.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "èmi ó gbé ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "nígbà tí mo wà láàyè"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "èmi ó kọ orin"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "fún Elohim mi"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "nígbà tí èmi wà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:09.505040846Z",
+  "model": "glm-5.3"
+}

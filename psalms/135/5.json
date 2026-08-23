@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Nítorí pé mo mọ̀ pé Yahweh tóbi, àti pé Adonai wa ⟨jẹ́⟩ ńlá ju gbogbo àwọn ọlọ́run lọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tóbi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "àti pé Adonai wa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ju gbogbo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "àwọn ọlọ́run"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:09.181160862Z",
+  "model": "glm-5.3"
+}

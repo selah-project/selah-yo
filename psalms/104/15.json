@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Àti ọtí líle tí ó ń dùn ọkàn ènìyàn ayàyà, epo láti sọ ojú di olómi-tutù, àti oúnjẹ tí ó ń gbé ọkàn ènìyàn lárùnún.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "àti ọtí líle"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ń dùn…ní ayọ̀"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ènìyàn ayàyà"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "láti sọ…di olómi-tutù"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "àti oúnjẹ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ènìyàn ayàyà"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "ń gbé…lárùnún"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:26.170293692Z",
+  "model": "glm-5.3"
+}

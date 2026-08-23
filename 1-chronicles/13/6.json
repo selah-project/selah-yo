@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 13:6",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Dawid sì gòké àti gbogbo Yisrael sí Baala, sí Kiryat-Yearim tí ó wà ní Yehuda, láti gbé ⟨את⟩ áràń̀gàn Elohim, Yahweh, Ẹni tí ó ń bẹ lórí àwọn keruvim, tí a ń pè ní Orúkọ rẹ̀, sókè láti ibẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "gòké"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעלתה",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "láti gbé sókè"
+    },
+    {
+      "surface": "משם",
+      "gloss": "láti ibẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áràń̀gàn Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "áràń̀gàn"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Ẹni tí ó ń bẹ lórí"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "àwọn keruvim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "a ń pè ní"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Orúkọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:15:21.939978556Z",
+  "model": "glm-5.3"
+}

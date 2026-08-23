@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Gbogbo àwọn orílẹ̀-èdè yí mi ká; dájúdájú, nípa orúkọ Yahweh ni mo ti máa gé wọn pamí.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "wọ́n yí mi ká"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nípa orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dájúdájú"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "mo ti máa gé wọn pamí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:46.931560686Z",
+  "model": "glm-5.3"
+}

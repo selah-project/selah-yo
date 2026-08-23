@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 115,
+  "translation": "Àwọn òkú kì í yín Yah, àti kì í ṣe ẹnikẹ́ni nínú àwọn tí ó ń bọ̀ sí ìdákẹ́jẹ́.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "àwọn òkú"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "yín"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kì í ṣe ẹnikẹ́ni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "àwọn tí ó ń bọ̀ sí"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "ìdákẹ́jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:01.955260951Z",
+  "model": "glm-5.3"
+}

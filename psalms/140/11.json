@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 140,
+  "translation": "Kí iná-òórùn ṣubú lórí wọn; kí a sì sọ wọn bọ́ sínú iná, sínú ihò-jinlẹ̀ — kí wọn kì í ṣì dìde.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "kí ... ṣubú"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lórí wọn"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "iná-òórùn"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sínú iná"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "kí a sì sọ wọn bọ́"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "sínú ihò-jinlẹ̀"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í ṣì"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "dìde"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:21.333814975Z",
+  "model": "glm-5.3"
+}

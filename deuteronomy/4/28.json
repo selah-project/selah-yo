@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 4:28",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ẹ̀ sì yóò máa sin àwọn ọlọ́run ibẹ̀, iṣẹ́ ọwọ́ àwọn ènìyàn, igi àti òkúta, tí wọn kòrí yín, tí wọn kò gbọ́ràn, tí wọn kì í jeun, tí wọn kò sì lè fọwọ́ vwó nǹkan.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "ẹ̀ sì yóò máa sin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "àwọn ọlọ́run"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "àti òkúta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יראון",
+      "gloss": "wọn kòrí yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tí wọn kò"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "gbọ́ràn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tí wọn kì í"
+    },
+    {
+      "surface": "יאכלון",
+      "gloss": "jeun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tí wọn kò sì lè"
+    },
+    {
+      "surface": "יריחן",
+      "gloss": "fọwọ́ vwó nǹkan"
+    }
+  ],
+  "timestamp": "2026-08-23T00:09:04.100226843Z",
+  "model": "glm-5.3"
+}

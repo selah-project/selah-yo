@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Ìlà ìwọ ti gbé; wọn kì í kọjá; wọn kì í padà láti bo ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "Ìlà"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ìwọ ti gbé"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "wọn kọjá"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "wọn padà"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "láti bo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:49.256190001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 2:8",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó gba ara rẹ̀ líṣù ìkòkò láti fi yan ara rẹ̀, òun sì gbẹ́jú sí ibi èérú.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ó gba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ara rẹ̀"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "líṣù ìkòkò"
+    },
+    {
+      "surface": "להתגרד",
+      "gloss": "láti fi yan ara rẹ̀"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "òun sì"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "gbẹ́jú sí"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "èérú"
+    }
+  ],
+  "timestamp": "2026-08-23T06:08:21.017091812Z",
+  "model": "glm-5.3"
+}

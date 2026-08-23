@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Láti ẹnu àwọn ọmọ kékeré àti àwọn ọmọ-mú-mu ni ìwọ ti fi agbára sílẹ̀, nítorí àwọn ọ̀tá rẹ, láti pa ọ̀tá àti ẹni tí ó ń ṣe ìdarajì dé.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "láti ẹnu"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "àwọn ọmọ kékeré"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "àti àwọn ọmọ-mú-mu"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "ìwọ ti fi sílẹ̀"
+    },
+    {
+      "surface": "עז",
+      "gloss": "agbára"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "àwọn ọ̀tá rẹ"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "láti pa … dé"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ọ̀tá"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "àti ẹni tí ó ń ṣe ìdarajì"
+    }
+  ],
+  "timestamp": "2026-08-23T03:23:19.916229902Z",
+  "model": "glm-5.3"
+}

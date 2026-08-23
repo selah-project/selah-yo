@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 9:3",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Gbogbo àwọn adarí àwọn ìjọba, àti àwọn aṣojú-àgbà, àti àwọn ìjòyè, àti àwọn olùṣe iṣẹ́ tí ó jẹ́ ti ọba — gbogbo wọn ń gbé àwọn Yehudi ga, nítorí ẹ̀rù Mordekai ṣubú lé wọn.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "àwọn adarí"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "àwọn ìjọba"
+    },
+    {
+      "surface": "והאחשדרפנים",
+      "gloss": "àti àwọn aṣojú-àgbà"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "àti àwọn ìjòyè"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "àti àwọn olùṣe"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó jẹ́ ti"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "ń gbé ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Yehudi"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "àwọn Yehudi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ṣubú lé"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ẹ̀rù"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lé wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:47:13.418328515Z",
+  "model": "glm-5.3"
+}

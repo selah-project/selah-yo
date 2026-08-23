@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 142,
+  "translation": "Ohùn mi sí Yahweh, mo ké ìkígbe; ohùn mi sí Yahweh, mo bẹ̀ àánú.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Ohùn mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "mo ké ìkígbe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ohùn mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "mo bẹ̀ àánú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:07.239165746Z",
+  "model": "glm-5.3"
+}

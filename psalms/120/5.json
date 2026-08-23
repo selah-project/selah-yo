@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 120,
+  "translation": "Ègbé fún mi, nítorí pé mo ti ṣe àlejò ní Meshek, mo ti gbé pẹ̀lú àwọn àgọ́ Kedar.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Ègbé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "mo ti ṣe àlejò"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ní Meshek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "mo ti gbé"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "àwọn àgọ́"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:38.123522228Z",
+  "model": "glm-5.3"
+}

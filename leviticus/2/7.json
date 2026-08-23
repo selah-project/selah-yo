@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àti tí e bá mu ẹbùn mínchah ti agbòn-sísè, èbùn ẹ̀bọ̀ rẹ, fara àtọ̀nà pẹ̀lú epo ni a ó ṣe é.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Àti tí e bá"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ẹbùn mínchah ti"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "agbòn-sísè"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "èbùn ẹ̀bọ̀ rẹ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fara àtọ̀nà"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "pẹ̀lú epo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ni a ó ṣe é"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:40.431317218Z",
+  "model": "glm-5.3"
+}

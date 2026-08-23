@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "àti ⟨את⟩ guúsù náà, àti ⟨את⟩ pẹtù yàlà náà — iho àwọn òkè Yerikho, ìlú àwọn ìró opẹ, títí dé Tsoari.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "guúsù náà"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "guúsù náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "pẹtù yàlà náà"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "pẹtù yàlà náà"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "iho àwọn òkè"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "àwọn ìró opẹ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoari"
+    }
+  ],
+  "timestamp": "2026-08-23T00:21:59.342570659Z",
+  "model": "glm-5.3"
+}

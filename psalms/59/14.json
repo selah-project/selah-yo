@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 59,
+  "translation": "Pa wọ́n run nínú ìbínú, pa wọ́n run, kí wọn kò ó tún wà; kí wọ́n mọ̀ pé Elohim ń ṣe ìjọba ní Yaakov, títí dé ìgbà ìparun ⟨ayé⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "Pa wọ́n run"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "nínú ìbínú"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pa wọ́n run"
+    },
+    {
+      "surface": "ואינמו",
+      "gloss": "kí wọn kò ó tún wà"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "kí wọ́n mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ń ṣe ìjọba"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ní Yaakov"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "títí dé ìgbà ìparun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:55.612356340Z",
+  "model": "glm-5.3"
+}

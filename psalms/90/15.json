@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 90,
+  "translation": "Ṣe ìdùnú fún wa gẹ́gẹ́ bí ọjọ́ tí o ti pa wà lọ́rẹ̀, àti ọdún tí a ti rí ìbúburú.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Ṣe ìdùnú fún wa"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "gẹ́gẹ́ bí ọjọ́"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "tí o ti pa wà lọ́rẹ̀"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "tí a ti rí"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ìbúburú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:22.410815723Z",
+  "model": "glm-5.3"
+}

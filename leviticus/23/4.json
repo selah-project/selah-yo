@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Àwọn wọnyí ni àsìkò tí a yọ̀nà ti Yahweh, ìpàdé mímọ́, tí ẹ ó pè ⟨את⟩ wọn ní àsìkò wọn.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Àwọn wọnyí"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "àsìkò tí a yọ̀nà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "ìpàdé"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "ẹ ó pè"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "ní àsìkò wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:16.688301643Z",
+  "model": "glm-5.3"
+}

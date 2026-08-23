@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 11:3",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Iṣẹ́ ìparọ̀ rẹ ṣe ìdákunjánu ní àwọn ọkùnrin; ìwọ sì ń sẹ́gun-ríràn mọ́-ẹni, tí kò sí ẹni tí ó lè ṣèbunilọ́jọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "בדיך",
+      "gloss": "iṣẹ́ ìparọ̀ rẹ"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "יחרישו",
+      "gloss": "ṣe ìdákunjánu"
+    },
+    {
+      "surface": "ותלעג",
+      "gloss": "ìwọ sì ń sẹ́gun-ríràn"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tí kò sì"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "ẹni tí ó lè ṣèbunilọ́jọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:32.986356227Z",
+  "model": "glm-5.3"
+}

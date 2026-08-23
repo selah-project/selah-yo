@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Nígbà tí wọ́n bá fún wọ́n, gbogbo àpapọ̀ ènìyàn jókòó yóò kó ara wọn jọ sí ọ̀dọ̀ rẹ, sí ọ̀nà-ìṣẹ̀ níwájú àgọ ìpàdé.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "nígbà tí wọ́n bá fún"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "pẹ̀lú wọn"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "yóò kó ara wọn jọ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "àpapọ̀ ènìyàn jókòó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọ̀nà-ìṣẹ̀ níwájú"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:53:05.946402296Z",
+  "model": "glm-5.3"
+}

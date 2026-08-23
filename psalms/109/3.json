@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Wọ́n yí mi ká pẹ̀lú ⟨àwọn⟩ ọ̀rọ̀ ìkórìíra, wọ́n sì ko ijà kò mí láìnídí.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "pẹ̀lú ⟨àwọn⟩ ọ̀rọ̀"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ìkórìíra"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "wọ́n yí mi ká"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "wọ́n sì ko ijà kò mí"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "láìnídí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:43.084972129Z",
+  "model": "glm-5.3"
+}

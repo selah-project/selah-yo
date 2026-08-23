@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Ìwọ jẹ́ ti ẹ̀bù nígbà tí o bá wọ̀ọ́, àti ìwọ jẹ́ ti ẹ̀bù nígbà tí o bá jáde.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "jẹ́ ti ẹ̀bù"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "nígbà tí o bá wọ̀ọ́"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "àti jẹ́ ti ẹ̀bù"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "nígbà tí o bá jáde"
+    }
+  ],
+  "timestamp": "2026-08-23T05:46:36.426768082Z",
+  "model": "glm-5.3"
+}

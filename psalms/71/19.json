@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Àti ìdájọ́ rẹ, Elohim, títí dé ìgbà pípẹ́; ẹni tí ó ṣe nǹlá ńlá — Elohim, ta ní ó dà bí ìwọ?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "Àti ìdájọ́ rẹ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ìgbà pípẹ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "nǹlá ńlá"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "bí ìwọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:03.694656245Z",
+  "model": "glm-5.3"
+}

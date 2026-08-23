@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Kì í ṣe o lè láti gbà ⟨את⟩ Pesaḥ ní àárín ọ̀kan nínú àwọn ọ̀nà-ìlú rẹ, tí Yahweh Elohim rẹ fi ń fún ọ́.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "o lè"
+    },
+    {
+      "surface": "lזבח",
+      "gloss": "láti gbà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesaḥ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaḥ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ní àárín ọ̀kan"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "nínú àwọn ọ̀nà-ìlú rẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ń fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:13:52.800262290Z",
+  "model": "glm-5.3"
+}

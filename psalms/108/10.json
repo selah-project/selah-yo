@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 108,
+  "translation": "Moab ni kòkò ìṣàn mi; lórí Edom ni mo ṣí ìbàlà mi sílẹ̀; lórí Peleshet ni mo ń kígbe ógo.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kòkò"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "ìṣàn mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "mo ṣí sílẹ̀"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ìbàlà mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "mo ń kígbe ógo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:37.001006800Z",
+  "model": "glm-5.3"
+}

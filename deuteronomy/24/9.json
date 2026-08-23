@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Rántí nípa ohun tí Yahweh Elohim rẹ ṣe fún Miriam, lọ́nà, nígbà tí ẹ ní ìjàde yín kúrò ní Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Rántí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí Yahweh ṣe fún Miriam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "fún Miriam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lọ́nà"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "nígbà tí ẹ ní ìjàde yín"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kúrò ní Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T00:16:44.917172678Z",
+  "model": "glm-5.3"
+}

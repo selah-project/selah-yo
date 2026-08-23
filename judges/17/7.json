@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 17:7",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ó sì jẹ́ pé ọmọkùnrin kan wà láti Beit-Lechem Yehudah, láti èyà Yehudah; òun ni Levite, òun sì ń ṣẹ́lérí níbẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì jẹ́ pé"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ọmọkùnrin"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "láti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit-Lechem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "láti èyà"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levite"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "òun sì"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ń ṣẹ́lérí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:48:08.803333336Z",
+  "model": "glm-5.3"
+}

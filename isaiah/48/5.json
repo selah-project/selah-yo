@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Mo ti sọ ọ fún ẹ láti ìgbà náà, ṣáájú kí ó tó ṣẹlẹ̀ ni mo fi sọ ọ fún ẹ láti gbọ́, kí o má baà wí pé, ìṣẹ̀bẹ̀ mi ni ó ṣe wọn, àti àwọn àwòrán mi àti àwọn ìlọ́po mi ni ó pàṣẹ wọn.",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "Mo ti sọ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ẹ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "láti ìgbà náà"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ṣáájú kí ó tó"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ó ṣẹlẹ̀"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "mo fi sọ ọ fún ẹ láti gbọ́"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí o má baà"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "ìṣẹ̀bẹ̀ mi"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "ṣe wọn"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "àti àwọn àwòrán mi"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "àti àwọn ìlọ́po mi"
+    },
+    {
+      "surface": "צום",
+      "gloss": "pàṣẹ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:58:26.109212858Z",
+  "model": "glm-5.3"
+}

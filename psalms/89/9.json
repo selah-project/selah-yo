@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Yahweh, Elohim ti àwọn omo-ogun, tàní bí i tí Iwọ jẹ́, alágbára Yah? Ìṣọ̀títọ́ Rẹ yìí ká Rẹ lẹ́yin káàkiri.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "àwọn omo-ogun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tàní"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "bí i tí Iwọ jẹ́"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ìṣọ̀títọ́ Rẹ"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "yìí ká Rẹ lẹ́yin"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:01.482072734Z",
+  "model": "glm-5.3"
+}

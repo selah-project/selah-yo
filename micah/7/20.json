@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "micah 7:20",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ìwọ yóò fún Yaakov ní emet, fún Avraham ní chesed, tí ìwọ ti búra fún àwọn baba wa, láti ìgbà ìṣàtẹ̀mí.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ìwọ yóò fún ní"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "emet"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "fún Yaakov"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "fún Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "ìwọ ti búra"
+    },
+    {
+      "surface": "לאבותינו",
+      "gloss": "fún àwọn baba wa"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "láti ìgbà"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ìṣàtẹ̀mí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:13:41.708221977Z",
+  "model": "glm-5.3"
+}

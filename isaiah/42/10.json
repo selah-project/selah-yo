@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Orin kínní fún Yahweh, orin tuntun, ìyìn rẹ̀ ní láti ìgbà-àyà ilẹ̀ ayé — ẹ̀yin tí ń bọ̀ sí odò àti ohun gbogbo tí ó kún inú rẹ̀, àwọn erékùṣù àti àwọn tí ó ń gbé wọn.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Orin kínní"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tuntun"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ìyìn rẹ̀"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "láti ìgbà-àyà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "tí ń bọ̀ sí"
+    },
+    {
+      "surface": "הים",
+      "gloss": "odò"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "àti ohun gbogbo tí ó kún inú rẹ̀"
+    },
+    {
+      "surface": "איים",
+      "gloss": "àwọn erékùṣù"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "àti àwọn tí ó ń gbé wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:55:28.928984227Z",
+  "model": "glm-5.3"
+}

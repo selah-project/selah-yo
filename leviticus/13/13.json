@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Kí alákọ̀bọ sì wo, kí o sì ṣe: tí ìrora bá ti bo ⟨את⟩ gbogbo ara rẹ̀, ó sọ ⟨את⟩ èèwọ̀-náà di mọ́; gbogbo rẹ̀ tí yí padà di funfun — mọ́ ni ó.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kí ó sì wo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "alákọ̀bọ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kí o ṣe"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "bá ti bo"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ìrora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ara rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ara rẹ̀"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "kí ó sọ di mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èèwọ̀-náà"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "èèwọ̀-náà"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "gbogbo rẹ̀"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "yí padà"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "funfun"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni ó"
+    }
+  ],
+  "timestamp": "2026-08-22T23:39:08.146939836Z",
+  "model": "glm-5.3"
+}

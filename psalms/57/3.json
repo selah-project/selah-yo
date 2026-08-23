@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 57,
+  "translation": "Èmi ó pè El Elyon; fún ⟨the⟩ El tí ó ń parí iṣẹ́ fún mi.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Èmi ó pè"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "fún El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "tí ó ń parí iṣẹ́"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:17.306086945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Bùkún ni fún Yahweh, Elohim, Elohim Yisrael, Ẹni tí ó ń ṣe àwọn nǹkan ìyanu nìkan ṣoṣo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bùkún ni fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ẹni tí ó ń ṣe"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "àwọn nǹkan ìyanu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "níkan ṣoṣo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:15.911935078Z",
+  "model": "glm-5.3"
+}

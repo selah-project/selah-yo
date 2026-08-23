@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Yahweh yóò sì jẹ́ ẹni tí a bùkún fún, nítorí pé ó ti ṣe chesed rẹ̀ láìlàí fún mi, ní ìlú tí wọ́n fi mọ́.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ẹni tí a bùkún fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "ó ti ṣe…láìlàí"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed rẹ̀"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ní ìlú"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "tí wọ́n fi mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:23.069409020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "Ó sì da ⟨את⟩ ìwà búburú wọn padà lé wọn, ó sì máa pa wọn nínú ìwà ọ̀daràn wọn — ó máa pa wọn, Yahweh, Elohim wa.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ó sì da padà"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lé wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìwà búburú wọn"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ìwà búburú wọn"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "nínú ìwà ọ̀daràn wọn sì"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "ó máa pa wọn"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "ó máa pa wọn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:07.776990087Z",
+  "model": "glm-5.3"
+}

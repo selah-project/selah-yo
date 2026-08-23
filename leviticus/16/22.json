@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ẹ̀wùrẹ̀ náà ó sì ru gbogbo àwọn ìwà ìbẹ̀tí wọn lárín ⟨את⟩ gbogbo àwọn ìwà ìbẹ̀tí wọn, sí ilẹ̀ ìyàkọ̀; ó sì fi ⟨את⟩ ẹ̀wùrẹ̀ náà sílẹ̀ ní ijọ (àwọ̀) ibi ìkọ̀-gbé.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "ó sì ru"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ẹ̀wùrẹ̀ náà"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lé e lárín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ìwà ìbẹ̀tí wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "àwọn ìwà ìbẹ̀tí wọn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "ìyàkọ̀ (ilẹ̀ tí a ti yà kọ̀)"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ó sì fi sílẹ̀ (rán)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀wùrẹ̀ náà"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ẹ̀wùrẹ̀ náà"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní ijọ (àwọ̀) ibi ìkọ̀-gbé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:38.640365527Z",
+  "model": "glm-5.3"
+}

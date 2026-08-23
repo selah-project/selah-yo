@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ṣùgbọ́n Abimelek kò i sun mọ́ ọ̀dọ̀ rẹ̀, ó sì wí pé: Adonai, ṣé ìwọ yóò pa orílẹ̀-èdè tó tọ́ lọ́nà òdodo pẹ̀lú?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Ṣùgbọ́n Abimelek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "i sun mọ́"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ṣé orílẹ̀-èdè"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tó tọ́ lọ́nà òdodo"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "ìwọ yóò pa"
+    }
+  ],
+  "timestamp": "2026-08-22T23:01:52.435667142Z",
+  "model": "glm-5.3"
+}

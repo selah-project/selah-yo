@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 83,
+  "translation": "Elohim mi, jọ́ wọn dó bíi kẹ̀kẹ́ yíyí, bíi ẹ̀gboro lọ́wọ́ afẹ́fẹ́.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "jọ́ wọn dó"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "bíi kẹ̀kẹ́ yíyí"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "bíi ẹ̀gboro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "afẹ́fẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:03.495360547Z",
+  "model": "glm-5.3"
+}

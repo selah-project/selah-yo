@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Zilpah, ẹrùbìn Leah, sì bí ọmọkùnrin kan fún Yaakov.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "sì bí"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpah"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ẹrùbìn"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "fún Yaakov"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọkùnrin kan"
+    }
+  ],
+  "timestamp": "2026-08-22T23:03:53.054528393Z",
+  "model": "glm-5.3"
+}

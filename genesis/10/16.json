@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "àti ⟨את⟩ àwọn Jebusi, àti ⟨את⟩ àwọn Amori, àti ⟨את⟩ àwọn Girgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn Jebusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "àwọn Jebusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn Amori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "àwọn Amori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "àwọn Girgashi"
+    }
+  ],
+  "timestamp": "2026-08-23T05:39:03.518326110Z",
+  "model": "glm-5.3"
+}

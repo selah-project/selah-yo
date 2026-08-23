@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ìgbà tí àjèjì bá gbé ⟨את⟩ pèlú yín ní ilẹ̀ yín, ẹ má ṣe ṣe ọ̀tan ⟨את⟩ ùn.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ìgbà tí"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "bá gbé"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "pèlú ⟨את⟩ yín"
+    },
+    {
+      "surface": "גר",
+      "gloss": "àjèjì"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "ní ilẹ̀ yín"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ṣe ọ̀tan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ùn (àjèjì náà)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:28.340190915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ezer ⟨eni àkọ́kọ́⟩, Ovadyah kejì, Eliab kẹta.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨eni àkọ́kọ́⟩"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Ovadyah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kejì"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "kẹta"
+    }
+  ],
+  "timestamp": "2026-08-23T05:12:30.552827709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 85,
+  "translation": "O kó gbogbo ìbínú rẹ jọ kúrò, O padà sí ẹ̀yìn kúrò ní iji ìbínú ojú rẹ.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "O kó jọ kúrò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ìbínú rẹ"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "O padà sí ẹ̀yìn kúrò"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "iji ìbínú"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ojú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:24.156267775Z",
+  "model": "glm-5.3"
+}

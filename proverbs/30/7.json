@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Nǹkan méjì ni mo bè ⟨את⟩ ní ọ̀dọ̀ rẹ; má ṣe dá mi lẹ́yìn ṣáájú kí n tó kú.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Nǹkan méjì"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ni mo bè"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "láti ⟨את⟩ ní ọ̀dọ̀ rẹ",
+      "marks": "ìbèrè tí mo bè ní ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "dá mi lẹ́yìn"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ní ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ṣáájú"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kí n tó kú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:13:51.378913255Z",
+  "model": "glm-5.3"
+}

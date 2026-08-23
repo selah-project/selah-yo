@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Mo kórìíra àpérò àwọn olèṣe; kì í ṣe pẹ̀lú àwọn ènìyàn búburú ni mo gbà láti jókòó.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Mo kórìíra"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "àpérò"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "àwọn olèṣe"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kì í ṣe pẹ̀lú"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn ènìyàn búburú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "mo gbà láti jókòó"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:19.766251864Z",
+  "model": "glm-5.3"
+}

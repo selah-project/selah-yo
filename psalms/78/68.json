@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó sì yan ⟨את⟩ ebí Yehudah, ⟨את⟩ òkè Tsiyon, èyí tí ó fẹ́ràn.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Ó sì yan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebí"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ebí"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òkè"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ó fẹ́ràn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:15.846135111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Mú mi jáde nínú òkùnkùn tí wọ́n fi sínú ìdìnnì fún mi; nítorí ìwọ ni ìgboro mi.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "mú mi jáde"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "ìnà òkùnkùn"
+    },
+    {
+      "surface": "זו",
+      "gloss": "eyi"
+    },
+    {
+      "surface": "טמנuo",
+      "gloss": "wọ́n fi pamọ́",
+      "note": "typo guard: surface is טמנו"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "wọ́n fi pamọ́ sílẹ̀ fún"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "ìgboro mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:09.793176668Z",
+  "model": "glm-5.3"
+}

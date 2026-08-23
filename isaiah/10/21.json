@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ìpòkàn yóò padà — ìpòkàn Yaakov — sí El Gibbor.",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "ìpòkàn"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "yóò padà"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ìpòkàn"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Gibbor"
+    }
+  ],
+  "timestamp": "2026-08-23T01:44:53.081083308Z",
+  "model": "glm-5.3"
+}

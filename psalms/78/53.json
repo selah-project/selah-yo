@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó sì darí wọ́n lọ láìsẹlẹ̀, wọ́n sì kì í payà; ṣùgbọ́n òkun bo ⟨את⟩ ọ̀tá wọn.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "darí wọ́n lọ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "láìsẹlẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sì kì í"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "payà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀tá wọn"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ọ̀tá wọn"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "òkun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:35.196862839Z",
+  "model": "glm-5.3"
+}

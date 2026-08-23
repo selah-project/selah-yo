@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 85,
+  "translation": "O ṣe yé gan-an ní ilẹ̀ rẹ, Yahweh; O gbà ìgbèkùn Yaakov padà.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "O ṣe yé gan-an"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ní ilẹ̀ rẹ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "O gbà padà"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ìgbèkùn"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:24.156008408Z",
+  "model": "glm-5.3"
+}

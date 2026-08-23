@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Yọ ìnira rẹ kúrò láti orí mi; látinú ìjà ọwọ́ rẹ ni èmi ti parun.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "yọ … kúrò"
+    },
+    {
+      "surface": "mעלי",
+      "gloss": "láti orí mi"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "ìnira rẹ"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "nípa ìjà láti ọ̀dọ̀"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ti parun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:49.969147511Z",
+  "model": "glm-5.3"
+}

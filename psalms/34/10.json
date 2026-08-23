@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ẹ bẹ̀rù Yahweh, àwọn mímọ́ rẹ̀; nítorí pé ìṣẹ̀lẹ̀ kò sí fún àwọn tí ó bẹ̀rù rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ẹ bẹ̀rù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "àwọn mímọ́ rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "ìṣẹ̀lẹ̀"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "fún àwọn tí ó bẹ̀rù rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:07.213009110Z",
+  "model": "glm-5.3"
+}

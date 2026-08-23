@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Sà kúrò nínú rẹ̀, má ṣe kọjá lórí rẹ̀; yẹ̀ kúrò lórí rẹ̀, àti kọjá sónù.",
+  "tokens": [
+    {
+      "surface": "פְּרָעֵהוּ",
+      "gloss": "sà kúrò nínú rẹ̀"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תַּעֲבָר",
+      "gloss": "kọjá"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "שְׂטֵה",
+      "gloss": "yẹ̀ kúrò"
+    },
+    {
+      "surface": "מֵעָלָיו",
+      "gloss": "kúrò lórí rẹ̀"
+    },
+    {
+      "surface": "וַעֲבוֹר",
+      "gloss": "àti kọjá sónù"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:49.545195538Z",
+  "model": "glm-5.3"
+}

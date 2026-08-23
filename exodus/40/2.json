@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Ní ọjọ́ kéǹíní oṣù kéǹíní ni iwọ gbọ́dọ̀ gbé ⟨את⟩ Mishkan, ⟨the⟩ Agbo Ilé-Ìpàdé, dìde.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ní ọjọ́"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "oṣù"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kéǹíní"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "kéǹíní"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "oṣù"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "iwọ gbọ́dọ̀ gbé … dìde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Agbo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Ilé-Ìpàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:28.197999114Z",
+  "model": "glm-5.3"
+}

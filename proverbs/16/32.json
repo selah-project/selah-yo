@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ẹni tí ó fara dáadàa ju gbága lọ; ẹni tí ó ṣàkóso ẹ̀mí rẹ̀ sì ju ẹni tí ó gbé ìlú lọ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ju … lọ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "fara dáadàa"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "bínú"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "gbága"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ṣàkóso sì"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ẹ̀mí rẹ̀"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "gbé … lọ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    }
+  ],
+  "timestamp": "2026-08-23T06:08:16.160556958Z",
+  "model": "glm-5.3"
+}

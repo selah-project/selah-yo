@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Nítorí náà, Yahweh gbé àwọn olùtapa Retsin ga lé e lọ, ó sì darapọ̀ àwọn ọ̀tá rẹ̀ pọ̀.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "ó gbé ga lọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn olùtapa Retsin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "àwọn olùtapa"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lé e lọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀tá rẹ̀"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "àwọn ọ̀tá rẹ̀"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "ó darapọ̀ pọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:43:56.503695664Z",
+  "model": "glm-5.3"
+}

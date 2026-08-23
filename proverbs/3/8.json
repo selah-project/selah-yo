@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ìwòsàn ni yóò jẹ́ fún ìfun rẹ, àti ìtutu sí àwọn egungun rẹ.",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "ìwòsàn"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ni yóò jẹ́"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "fún ìfun rẹ"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "àti ìtutu"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "sí àwọn egungun rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:32.525773469Z",
+  "model": "glm-5.3"
+}

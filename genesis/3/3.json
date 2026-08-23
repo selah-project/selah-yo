@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ṣùgbọ́n nípa èso igi tí ó wà ní àárín ọgbọ́ náà, Elohim ti wí pé, Ẹ kì í gbọdọ̀ jẹ ún, kì í sì gbọdọ̀ kàn ọ́n, kí ẹ má baà kú.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "Ṣùgbọ́n nípa èso"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igi náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wà ní àárín"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ọgbọ́ náà"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti wí pé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "gbọdọ̀ jẹ ún"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ún"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í sì"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "gbọdọ̀ kàn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ọ́n"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kí ẹ má baà"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "kú"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:30.005450127Z",
+  "model": "glm-5.3"
+}

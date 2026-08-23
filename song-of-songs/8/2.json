@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Èmi yóò gbé ẹ lọ, ó sì yóò wá sí ilé ìyá mi; ìwọ yóò kọ́ mi ní̀ran; èmi yóò sì mú ẹ mu wáínì tí a fi èròjà dùn, mu èso rímónnù mi.",
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "èmi yóò gbé ẹ lọ"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "yóò wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ìyá mi"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "ìwọ yóò kọ́ mi"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "èmi yóò mú ẹ mu"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "wáínì"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "tí a fi èròjà dùn"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "mu èso"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "rímónnù mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:35:01.682044785Z",
+  "model": "glm-5.3"
+}

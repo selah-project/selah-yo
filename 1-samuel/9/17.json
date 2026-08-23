@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Nígbà tí Shemuël rí ⟨את⟩ Shaul, Yahweh dáhùn ún wí pé: Wò, ọkùnrin tí mo sọ̀rọ̀ nípa rẹ̀ sí ẹ ni — ẹni yìí ló máa ṣàkóso àwọn ènìyàn mi.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "nígbà tí Shemuël"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "dáhùn ún"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wò"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mo sọ̀rọ̀ nípa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ẹ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ẹni yìí"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "máa ṣàkóso"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "àwọn ènìyàn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:47:27.129849323Z",
+  "model": "glm-5.3"
+}

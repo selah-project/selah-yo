@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "àti àwọn àsẹ̀fun ogà, àti ⟨את⟩ àsè ònu-ọ̀nà ogà náà, tí ó wà lórí ⟨ahọ̀⟩ náà àti lórí pẹpẹ yàrá ní àáyàrí, àti ⟨את⟩ àwọn ọ̀fun rẹ̀, fún gbogbo iṣẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "àti àwọn àsẹ̀fun"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ogà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àsè ònu-ọ̀nà ogà náà"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "àsè"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ònu-ọ̀nà"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ogà náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "⟨ahọ̀⟩ náà"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ yàrá"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní àáyàrí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀fun rẹ̀"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "àwọn ọ̀fun rẹ̀"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "iṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:21.808281701Z",
+  "model": "glm-5.3"
+}

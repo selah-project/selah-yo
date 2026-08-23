@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 51,
+  "translation": "Fi iṣẹ́ kàn án mo mí kí n mọ̀ọ́ mọ́ láti àìṣeètọ́ mi, kí o sì mọ mí mọ́ láti ẹṣẹ̀ mi, kí n di mímọ́.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "fi iṣẹ́ kàn án"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "mo mí"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "láti àìṣeètọ́ mi"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "àti láti ẹṣẹ̀ mi"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "kí n di mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:14.291573192Z",
+  "model": "glm-5.3"
+}

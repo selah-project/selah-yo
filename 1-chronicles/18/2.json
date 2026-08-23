@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó sì lu ⟨את⟩ Moabi; Moabi sì di ìránṣẹ́ fún David, wọ́n ń gbe ìpèsè wá.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ó sì lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wọ́n sì jẹ́"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ìránṣẹ́"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "fún David"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "wọ́n ń gbe"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ìpèsè"
+    }
+  ],
+  "timestamp": "2026-08-23T05:15:57.368576746Z",
+  "model": "glm-5.3"
+}

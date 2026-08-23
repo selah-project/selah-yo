@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 90,
+  "translation": "Nítorí gbogbo àwọn ọjọ́ wa yọ kúrò nínú ìbínú rẹ; a parun àwọn ọdún wa gẹ́gẹ́ bí kíkọ̀-ọkàn kan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "àwọn ọjọ́ wa"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "yọ kúrò"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "nínú ìbínú rẹ"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "a parun"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "àwọn ọdún wa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "kíkọ̀-ọkàn kan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:27.069847290Z",
+  "model": "glm-5.3"
+}

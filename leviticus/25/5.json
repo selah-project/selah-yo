@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "⟨את⟩ èso tí ó so fúnra rẹ láti inú ikọ̀rẹ̀ rẹ, iwọ kò ní kọ́ré, àti ⟨את⟩ ẹ̀so ọ̀tín ti igi rẹ̀ tí ó ṣe àìgbin, iwọ kò ní kó: ọdún ìsinmi níí bẹ́ fún ⟨the⟩ ilẹ̀ náà.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èso tí ó so fúnra rẹ"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "èso tí ó so fúnra rẹ"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ikọ̀rẹ̀ rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "ní kọ́ré"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀so ọ̀tín"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "ẹ̀so ọ̀tín"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "ti ó ṣe àìgbin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "ní kó"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ìsinmi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "níí bẹ́"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "fún ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:54.340448449Z",
+  "model": "glm-5.3"
+}

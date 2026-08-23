@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àti okùnrin tí yóò gbà ⟨את⟩ aya arákùnrin rẹ̀ — èébù ⟨ni⟩; ègún arákùnrin rẹ̀ ló ti ṣí; aláìní-ọmọ ni wọn yóò jẹ́.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Àti okùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "yóò gbà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aya arákùnrin rẹ̀"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arakùnrin rẹ̀"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "èébù"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ègún"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arakùnrin rẹ̀"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ti ṣí"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "aláìní-ọmọ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "wọn yóò jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:44:51.467285633Z",
+  "model": "glm-5.3"
+}

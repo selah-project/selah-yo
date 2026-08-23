@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 1:20",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Àwọn ọmọ Reuven, àkọ́bí Yisrael, wọn yìí ni ìran-ìdí wọn — nípasẹ̀ ìdí-mọ́lẹ̀ wọn, nílé àwọn baba wọn, nínú òṣùwọ̀n orúkọ, pẹ̀lú orí-ọkàn ẹ̀kọ̀ọ̀kan, gbogbo ọkùnrin láti ọmọ ọdún ogún lọ sókè, gbogbo ẹni tí ó le ja ogun",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "wọn yìí ni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "àkọ́bí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "ìran-ìdí wọn"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nípasẹ̀ ìdí-mọ́lẹ̀ wọn"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nílé"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "nínú òṣùwọ̀n"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "pẹ̀lú orí-ọkàn ẹ̀kọ̀ọ̀kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "láti ọmọ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "lọ sókè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "tí ó le ja"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ogun"
+    }
+  ],
+  "timestamp": "2026-08-22T23:48:02.820700240Z",
+  "model": "glm-5.3"
+}

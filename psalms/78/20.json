@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Wò ó, Ó lu apáta, omi sì ṣàn jáde, àwọn odò sì kún; ṣé ó sì lè fún un ní oúnjẹ? Ṣé ó lè pèsè ẹran fún ènìyàn rẹ̀?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "Ó lu"
+    },
+    {
+      "surface": "צור",
+      "gloss": "apáta"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "sì ṣàn jáde"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "àwọn odò sì"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "kún (ṣàn gbágbáosè)"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ṣé ó sì"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "oúnjẹ (búrédì)"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "תת",
+      "gloss": "fún"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ṣé"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "lè pèsè"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ẹran"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "fún ènìyàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:55.158575246Z",
+  "model": "glm-5.3"
+}

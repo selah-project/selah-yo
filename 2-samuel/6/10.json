@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Dawid kọ̀ láti gbé ⟨את⟩ áàrìn Yahweh lọ sí ọ̀dọ̀ rẹ̀, sí ìlú Dawid; Dawid sì kọ́ ọ́ sí ilé Oved-Edom ará Gatti.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sì kọ̀"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "kọ̀ (kò fẹ́)"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "láti gbé lọ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sí ọ̀dọ̀ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áàrìn"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "áàrìn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "sì kọ́ ọ́ sí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ará Gatti"
+    }
+  ],
+  "timestamp": "2026-08-23T00:59:24.928096563Z",
+  "model": "glm-5.3"
+}

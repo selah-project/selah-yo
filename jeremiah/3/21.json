@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ohùn ti a gbọ́ lórí àwọn òkè tí ó rè, ìsọnu àti àwọn ìbẹ̀ẹ̀jẹ́ ti àwọn ọmọ Yisrael; nítorí tí wọ́n yípa ⟨את⟩ ọ̀nà wọn, wọ́n gbagbé ⟨את⟩ Yahweh, Elohim wọn.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "àwọn òkè tí ó rè"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ti a gbọ́"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ìsọnu"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "àwọn ìbẹ̀ẹ̀jẹ́"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "wọ́n yípa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀nà wọn"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ọ̀nà wọn"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "wọ́n gbagbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:07:25.948817896Z",
+  "model": "glm-5.3"
+}

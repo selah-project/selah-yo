@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "Àwọn ènìyàn rẹ, Yahweh, wọ́n ń lu wọ́n ní ìjàmbá, àti ìjọ rẹ nídí wọ́n ń pa lọ́fẹ̀.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "àwọn ènìyàn rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "wọ́n ń lu wọ́n ní ìjàmbá"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "àti ìjọ rẹ nídí"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "wọ́n ń pa lọ́fẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:48.694729869Z",
+  "model": "glm-5.3"
+}

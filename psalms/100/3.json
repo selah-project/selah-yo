@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 100,
+  "translation": "Ẹ mọ̀ pé Yahweh, òun ni Elohim; òun ni ó ṣe wa, kì í ṣe àwa; àwọn ènìyàn rẹ̀ ni àwa, àti agbo iranṣẹ́ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Ẹ mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun ni"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ó ṣe wa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "àwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ènìyàn rẹ̀"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "àti agbo"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "iranṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:01.233443559Z",
+  "model": "glm-5.3"
+}

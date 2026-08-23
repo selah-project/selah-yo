@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Wọ́n sì rí Adoni-Bezek ní Bezek, wọ́n sì bá a jà, wọ́n sì lu ⟨את⟩ Kenaani àti ⟨את⟩ Perizi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "wọ́n sì rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "ní Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "wọ́n sì bá a jà"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bá a"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wọ́n sì lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Perizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:31:39.438173135Z",
+  "model": "glm-5.3"
+}

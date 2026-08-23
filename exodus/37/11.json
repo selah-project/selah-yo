@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ó sì bọ ọ́ ⟨את⟩ ní wúrà mímọ́, ó sì ṣe ìjọba-kórí wúrà fún un ní àáríngbájọ́.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Ó sì bọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ọ́",
+      "marks": "ọ́ (àtẹ ìpamọ́)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ìjọba-kórí"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ní àáríngbájọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:30.522258836Z",
+  "model": "glm-5.3"
+}

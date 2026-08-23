@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Èyí yóò sì dùn Yahweh lọ́kàn ju ẹ̀wùn tí ó ní ìwọ̀n àti ẹsẹ̀ tó gbọ̀n lọ.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "yóò sì dùn lọ́kàn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ẹ̀wùn, ọ̀x"
+    },
+    {
+      "surface": "פר",
+      "gloss": "malú"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "tí ó ní ìwọ̀n"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ẹsẹ̀ tó gbọ̀n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:27.908771463Z",
+  "model": "glm-5.3"
+}

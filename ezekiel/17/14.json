@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 17:14",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Kí ìjọba náà lè jẹ́ ti ìsàlẹ̀, kí ó má ṣe gbé ara ga, ṣùgbọ́n kí ó pa ⟨את⟩ májẹ̀mú rẹ̀ mọ́ láti dúró.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "ti ìsàlẹ̀"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kí ó má ṣe"
+    },
+    {
+      "surface": "התנשא",
+      "gloss": "gbé ara ga"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pa...mọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "májẹ̀mú rẹ̀"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "májẹ̀mú rẹ̀"
+    },
+    {
+      "surface": "לעמדה",
+      "gloss": "láti dúró"
+    }
+  ],
+  "timestamp": "2026-08-23T02:41:09.411812028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ṣe ìdí àbọ̀ fún ìránṣẹ́ rẹ lọ́nà rere; kí àwọn àrògàn má ṣe pa mi lọ́rọ̀.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ṣe ìdí àbọ̀"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "lọ́nà rere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kí… má ṣe"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "pa mi lọ́rọ̀"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "àwọn àrògàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:12.275594402Z",
+  "model": "glm-5.3"
+}

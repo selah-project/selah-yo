@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Wọ́n yóò dáhùn wọ́n yóò sọ pé, Ọwọ́ wa kò ṣí ⟨את⟩ ẹ̀jẹ̀ yìí, àti ojú wa kò rí i.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "yóò dáhùn"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "yóò sọ pé"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ọwọ́ wa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ṣí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀jẹ̀ yìí"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ẹ̀jẹ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "àti ojú wa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "rí i"
+    }
+  ],
+  "timestamp": "2026-08-23T00:14:52.775982874Z",
+  "model": "glm-5.3"
+}

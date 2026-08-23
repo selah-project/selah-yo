@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 141,
+  "translation": "Jọ́ dà àdúà mi gẹ́gẹ́ bí èrọ́-dí níwájú Ẹ; ìgbé-sókè ọwọ́ mi gẹ́gẹ́ bí ẹ̀bọ ìrọ̀lẹ́.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "jọ́ dà"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "àdúà mi"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "èrọ́-dí"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "níwájú Ẹ"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ìgbé-sókè"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ẹ̀bọ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ìrọ̀lẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:11.911490044Z",
+  "model": "glm-5.3"
+}

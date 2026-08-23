@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ó sì wáyé ní ìpadà ọdún, Ben-Hadad ka ⟨את⟩ Aram, ó sì gòkè sí Afeki, láti lọgun pẹ̀lú Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "ní ìpadà"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ó sì gòkè"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "sí Afeki"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "láti lọgun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T01:23:44.707635839Z",
+  "model": "glm-5.3"
+}

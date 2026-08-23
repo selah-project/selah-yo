@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Wọ́n sì wí fún un pé, A sun asalẹ́, ṣùgbọ́n kò sí ⟨את⟩ onítumọ́ rẹ̀. Yosef sì wí fún wọn pé, Ṣé ìtumọ̀ àwọn asalẹ́ kì í ṣe ti Elohim ni? Ẹ jọ̀wọ́, ẹ sọ ọ́ fún mi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "asalẹ́"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "a sun"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "onítumọ́"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onítumọ́ rẹ̀"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ṣé kì í ṣe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "ìtumọ̀ àwọn asalẹ́"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ẹ sọ ọ́"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ẹ jọ̀wọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    }
+  ],
+  "timestamp": "2026-08-22T23:09:48.682057787Z",
+  "model": "glm-5.3"
+}

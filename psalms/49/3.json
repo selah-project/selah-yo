@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Bákan náà àwọn ọmọ Adamu, bákan náà àwọn ọmọ enìyàn,papọ̀ ọlọ́rọ̀ àti ọlọ́sànúsànú.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamu (ènìyàn gbogbogbò)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "enìyàn (ẹní-ìyì)"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "papọ̀"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ọlọ́rọ̀"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "àti ọlọ́sànúsànú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:35:00.490177827Z",
+  "model": "glm-5.3"
+}

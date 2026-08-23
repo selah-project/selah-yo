@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ìwọ sì ni kí o pa ⟨את⟩ àwọn ọmọ Yisrael láṣẹ, kí wọ́n sì gbé epo òlíífì mímu tí a lù wá fún ọ, fún iná, láti mú àtẹ́ mọ́ná láìpẹ́dan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ìwọ sì ni"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "kí o pa láṣẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "kí wọ́n sì gbé wá"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "זית",
+      "gloss": "òlíífì"
+    },
+    {
+      "surface": "זך",
+      "gloss": "mímu"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "tí a lù"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "fún iná"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "láti mú mọ́ná"
+    },
+    {
+      "surface": "נר",
+      "gloss": "àtẹ́"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "láìpẹ́dan"
+    }
+  ],
+  "timestamp": "2026-08-22T23:26:07.471130132Z",
+  "model": "glm-5.3"
+}

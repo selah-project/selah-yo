@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Ìdáníyìn, ti Dafidi. Èmí yóò gbé Ọ ga, Elohim mi, ⟨the⟩ Ọba; èmí yóò sì bukún orúkọ rẹ̀ tí ó títí láéláé, àti títí ayé rayé.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Ìdáníyìn"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ti Dafidi"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Èmí yóò gbé Ọ ga"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨the⟩ Ọba"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "èmí yóò sì bukún"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tí ó títí láéláé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "àti títí ayé rayé"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:33.835030253Z",
+  "model": "glm-5.3"
+}

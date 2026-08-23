@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 3:10",
+  "book": "song-of-songs",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó ṣe àwọn colúmnù rẹ̀ ní fàdákà, ìsọrí rẹ̀ ní wúrà, ìgunùngbẹ rẹ̀ ní àwọ̀ aró-púpà; inú rẹ̀ sì ní a fi ìfẹ́ ṣe àmì-ìdánimọ̀, nítorí àwọn ọmọbìnrin Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "עמודיו",
+      "gloss": "àwọn colúmnù rẹ̀"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ó ṣe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdákà"
+    },
+    {
+      "surface": "רפידתו",
+      "gloss": "ìsọrí rẹ̀"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "מרכבו",
+      "gloss": "ìgunùngbẹ rẹ̀"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "àwọ̀ aró-púpà"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "inú rẹ̀"
+    },
+    {
+      "surface": "רצוף",
+      "gloss": "fi … ṣe àmì-ìdánimọ̀"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ìfẹ́"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "nítorí àwọn ọmọbìnrin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T04:32:07.711309698Z",
+  "model": "glm-5.3"
+}

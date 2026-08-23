@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Yahweh, Elohim mi, èmi kígbe lọ́dọ̀ Rẹ, àti O ṣe ìwọsàn fún mi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "èmi kígbe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "lọ́dọ̀ Rẹ"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "àti O ṣe ìwọsàn fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:35.328196632Z",
+  "model": "glm-5.3"
+}

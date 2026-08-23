@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ọkàn wọn ní pínpín; nísisìyí wọ́n ó dá wọn lẹ́bi; òun ni yóò gé àwọn pẹ̀tẹ́lẹ̀ wọn, yóò sì pa àwọn òkúta ìdánimọ̀ wọn dà.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "ní pínpín"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ọkàn wọn"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nísisìyí"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "wọ́n ó dá wọn lẹ́bi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "yóò gé"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "àwọn pẹ̀tẹ́lẹ̀ wọn"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "yóò pa ... dà"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "àwọn òkúta ìdánimọ̀ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:04:14.217949622Z",
+  "model": "glm-5.3"
+}

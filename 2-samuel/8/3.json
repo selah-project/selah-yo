@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Dawidì sì lu ⟨את⟩ Hadadezeri ọmọ Rehobu, ọba Zobahu, nígbà tí ó ń lọ láti da ọwọ́ rẹ̀ padà ní odò <Eufrati>.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ó sì lu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezeri"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zobahu"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "nígbà tí ó ń lọ"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "láti da padà"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "ní odò"
+    }
+  ],
+  "timestamp": "2026-08-23T00:59:57.930260247Z",
+  "model": "glm-5.3"
+}

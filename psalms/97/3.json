@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 97,
+  "translation": "Iná ń rin ṣáájú rẹ̀, ó sì ń jọná káàkiri ní àwọn ọ̀tá rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ṣáájú rẹ̀"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ń rin"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "ó sì ń jọná"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "káàkiri"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "àwọn ọ̀tá rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:05.138851013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Kí ó jìnà sí mi, láti ṣe yín ⟨את⟩ ní olóòótọ́; títí di ìgbà tí mo ó kú, ni mo kì í yọ ìwà-mímọ́ mi kúrò lọ́dọ̀ ara mi.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "kí ó jìnà sí mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "láti"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "ṣe ní olóòótọ́"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ìgbà tí mo ó kú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "yọ … kúrò"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "ìwà-mímọ́ mi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "lọ́dọ̀ ara mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:25:05.327510785Z",
+  "model": "glm-5.3"
+}

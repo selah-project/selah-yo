@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "O ṣe àtẹ̀ díde níwájú mi, dojú kọ àwọn ọ̀tá mi; O pọ̀n orí mi pẹ̀lú epo; ìgò mi kún ti rírọ̀nú.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "O ṣe… díde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "àtẹ̀"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "dojú kọ"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "O pọ̀n"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "pẹ̀lú epo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "orí mi"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "ìgò mi"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "kún ti rírọ̀nú"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:19.650454322Z",
+  "model": "glm-5.3"
+}

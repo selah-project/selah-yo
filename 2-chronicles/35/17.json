@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Àwọn ọmọ Yisrael tí ó wà níbẹ̀ ṣe ⟨את⟩ Pesach ní àsìkò yìí, àti ⟨את⟩ ọdún Matzot fún ọjọ́ méje.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "wọ́n ṣe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "tí ó wà níbẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ní àsìkò"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ọdún Matzot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "Matzot"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "fún ọjọ́ méje"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọjọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:37:03.240107266Z",
+  "model": "glm-5.3"
+}

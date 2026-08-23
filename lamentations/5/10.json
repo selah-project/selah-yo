@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Awọ ara wa ti kún bí iná-ìkọ̀, nítorí ṣíṣú ebi.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "awọ ara wa"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "bí iná-ìkọ̀"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "ti kún (ti gboó)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nítorí ojú"
+    },
+    {
+      "surface": "זלעfות",
+      "gloss": "ṣíṣú"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ebi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:39:40.502653458Z",
+  "model": "glm-5.3"
+}

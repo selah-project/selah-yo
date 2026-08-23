@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 57,
+  "translation": "Ṣè ìkẹ́ fún mi, Elohim, ṣè ìkẹ́ fún mi; nítorí tí ẹ̀mí mi gbẹ́yin lé ⟨the⟩ Orúkọ rẹ, àti ní ipò ìkùnkùn ⟨the⟩ èjìká rẹ ni èmi ó gbẹ́yin lé, títí tí ìpalára yóò fi kọjá.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ṣè ìkẹ́ fún mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ṣè ìkẹ́ fún mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "בך",
+      "gloss": "lé Orúkọ rẹ"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "gbẹ́yin lé"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "àti ní ipò ìkùnkùn"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "èjìká rẹ"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "èmi ó gbẹ́yin lé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí tí"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "yóò fi kọjá"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ìpalára"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:17.305898287Z",
+  "model": "glm-5.3"
+}

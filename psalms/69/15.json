@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 69,
+  "translation": "Gbà mi lára kúrò nínú yàlàyàlà, kí n má baà tẹ̀ lé; gbà mi là kúrò lọ́dọ̀ àwọn otá mi, àti kúrò nínú omi jinlẹ̀.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Gbà mi lára kúrò"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "kúrò nínú yàlàyàlà"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí n má baà"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "tẹ̀ lé"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "Gbà mi là kúrò"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "lọ́dọ̀ àwọn otá mi"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "àti kúrò nínú"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi jinlẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:53.930029068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Akish sì wí pé, Ṣé ẹ kò ì kọ̀lù lónìí? Dawid sì wí pé, Ní gúúsù Yehudah, àti ní gúúsù àwọn Yerachmeeli, àti ní gúúsù àwọn Kénì.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ṣé … kò"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "ì kọ̀lù"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ní"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "gúúsù"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti ní"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "gúúsù"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "àwọn Yerachmeeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti ní"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "gúúsù"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "àwọn Kénì"
+    }
+  ],
+  "timestamp": "2026-08-23T00:55:25.136802102Z",
+  "model": "glm-5.3"
+}

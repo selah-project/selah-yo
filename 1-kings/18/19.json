@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nítorí náà nísinsin yìí, ránṣẹ́, kó ⟨את⟩ gbogbo Ísráẹ̀lì jọ sí ọ̀dọ̀ mi sí òkè Karmelu, àti ⟨את⟩ àwọn wòlíìn Baal igbà-ọ̀rùn-ádàrú-lọ́gọ́rọ̀gọ́ àti àwọn wòlíìn Ashera igbà-ọ̀rùn-ádàrú-lọ́gọ́rọ̀gọ́, tí ó ń jẹ oúnjẹ ní tábìlì Izebel.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Nítorí náà nísinsin yìí"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ránṣẹ́"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "kó… jọ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo Ísráẹ̀lì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísráẹ̀lì"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn wòlíìn Baal"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "àwọn wòlíìn"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "igbà-ọ̀rùn-ádàrú"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "lọ́gọ́rọ̀gọ́"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "àti àádọ́ta"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "àti àwọn wòlíìn"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "igbà-ọ̀rùn-ádàrú"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "lọ́gọ́rọ̀gọ́"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "tí ó ń jẹ"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ounjẹ ní tábìlì"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    }
+  ],
+  "timestamp": "2026-08-23T01:22:43.737763896Z",
+  "model": "glm-5.3"
+}

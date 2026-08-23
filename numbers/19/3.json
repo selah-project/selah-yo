@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ẹ̀yin yóò fi ⟨את⟩ fún Elazar àlùfáà, ó sì gbé ⟨את⟩ jáde sí ìta ìpàdé ọ̀gangan, wọ́n sì pa ⟨את⟩ fún ọ lọ́wọ́.",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "ẹ̀yin yóò fún"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "fàájì abọ́ náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ó sì gbé jáde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "fàájì abọ́ náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ìta"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ìpàdé ọ̀gangan"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ó sì pa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "fàájì abọ́ náà"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fún ọ lọ́wọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:59:15.592814623Z",
+  "model": "glm-5.3"
+}

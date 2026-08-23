@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ṣọ́ fún mi gbogbo àkọ́bí, olùṣiṣẹ́ ìbáṣepọ̀ gbogbo ikùn nínú àwọn ọmọ Yisrael, nínú ènìyàn àti nínú ẹranko — ti emi ni ó jẹ́.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Ṣọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "àkọ́bí"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "olùṣiṣẹ́ ìbáṣepọ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ikùn"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "nínú àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nínú ènìyàn"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "àti nínú ẹranko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ti emi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni ó jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:52.406764504Z",
+  "model": "glm-5.3"
+}

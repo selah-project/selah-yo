@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ọkàn rẹ̀ gbilẹ̀ sínú àwọn ọ̀nà Yahweh; ó sì tún yọ àwọn ibi-ìga àti ⟨את⟩ àwọn Asherah kúrò ní Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "gbilẹ̀"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "sínú àwọn ọ̀nà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ó sì tún"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "yọ kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ibi-ìga"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "àwọn ibi-ìga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Asherah"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "àwọn Asherah"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "ní Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-23T05:28:22.883116364Z",
+  "model": "glm-5.3"
+}

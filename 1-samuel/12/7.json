@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Nísinsìnyí, dúró ṣinṣin, kí n lè ṣe ìdájọ́ pẹ̀lú yín níwájú Yahweh, nípa ⟨את⟩ gbogbo ìṣe ṣòótọ́ Yahweh, tí ó ṣe fún yín àti fún ⟨את⟩ àwọn baba yín.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Nísinsìnyí"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "dúró ṣinṣin"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "kí n ṣe ìdájọ́"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "pẹ̀lú yín ⟨את⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ìṣe ṣòótọ́ Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ìṣe ṣòótọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "fún yín ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti fún ⟨את⟩",
+      "marks": "àwọn baba yín"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "àwọn baba yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:45:53.219670339Z",
+  "model": "glm-5.3"
+}

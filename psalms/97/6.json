@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 97,
+  "translation": "Àwọn ọ̀run kéde tọ́nítọ́ní rẹ̀, àti gbogbo àwọn orílẹ̀-èdè rí ògo rẹ̀.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "kéde"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Àwọn ọ̀run"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "tọ́nítọ́ní rẹ̀"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "àti ... rí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ògo rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:24.393999139Z",
+  "model": "glm-5.3"
+}

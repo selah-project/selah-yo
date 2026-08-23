@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Nítorí ohùn ìgbó-usélẹ̀ àwọn ènìyàn sá; nítorí ìgbéga rẹ, àwọn orílẹ̀-èdè sọ́ tà.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "nítorí ohùn"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ìgbó-usélẹ̀"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "sá"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "nítorí ìgbéga rẹ"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "sọ́ tà"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    }
+  ],
+  "timestamp": "2026-08-23T01:51:59.059016040Z",
+  "model": "glm-5.3"
+}

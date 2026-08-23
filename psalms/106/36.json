@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Wọ́n sì ṣìn ⟨את⟩ àwọn ìwọ̀n wọn, ó sì di ọ̀nà-ìdààmú fún wọn.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "wọ́n sì ṣìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ìwọ̀n wọn"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "àwọn ìwọ̀n wọn"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ó sì di"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "ọ̀nà-ìdààmú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:18.427885504Z",
+  "model": "glm-5.3"
+}

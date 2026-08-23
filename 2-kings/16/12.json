@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ọba náà sì dé láti Damaseki; ọba náà sì rí ⟨את⟩ pẹpẹ náà; ọba náà sì sún mọ́ pẹpẹ náà, ó sì gbé ẹ̀bùn sókè lórí rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "láti Damaseki"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "rí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pẹpẹ náà"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ náà"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "sún mọ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "על",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ náà"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "gbé ẹ̀bùn sókè"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:35:05.027363504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Nígbà tí ológun bá jáde lọ síta láti ko jàjà ṣinṣin àwọn ọ̀tá rẹ, nígbà náà ni a máa ṣọ́ fúnra rẹ kúrò lọ́wọ́ ohun gbogbo tí ó burú.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "bá jáde lọ síta"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ológun"
+    },
+    {
+      "surface": "על",
+      "gloss": "láti ko jàjà ṣinṣin"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "àwọn ọ̀tá rẹ"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "a máa ṣọ́ fúnra rẹ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kúrò lọ́wọ́ ohun gbogbo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ohun"
+    },
+    {
+      "surface": "רע",
+      "gloss": "tí ó burú"
+    }
+  ],
+  "timestamp": "2026-08-23T00:16:35.402662273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ìwọ sì yóò dé sí ọ̀dọ̀ àwọn adarí-ẹrù, àwọn ará Leví, àti sí ọ̀dọ̀ adájọ̀ tí yóò wà ní àwọn ọjọ́ yẹn; ìwọ sì yóò béèrè, wọn á sì kéde fún ọ ⟨את⟩ ọ̀rọ̀ ìdájọ́ náà.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "ìwọ sì yóò dé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn adarí-ẹrù náà"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "àwọn ará Leví"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí ọ̀dọ̀"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "adájọ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ní àwọn ọjọ́"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "ìwọ sì yóò béèrè"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "wọn á sì kéde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ ìdájọ́ náà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ìdájọ́ náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:15:44.014097991Z",
+  "model": "glm-5.3"
+}

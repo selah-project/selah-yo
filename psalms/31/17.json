@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Jẹ́ kí ojú rẹ lóla lórí ìránṣẹ rẹ, gbà mí là nípa chesed rẹ.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "Jẹ́ kí ó lóla"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ rẹ"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "gbà mí là"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "nípa chesed rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:46.605625784Z",
+  "model": "glm-5.3"
+}

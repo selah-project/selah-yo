@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Jọwọ́, Yahweh, nítorí mo jẹ́ ọmọ-ọ̀dọ̀ rẹ, mo jẹ́ ọmọ-ọ̀dọ̀ rẹ, ọmọ abìyàmọ̀ rẹ; ìwọ ti ṣí àwọn ìpàkọ́ mi sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "jọwọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jẹ́ ọmọ-ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jẹ́ ọmọ-ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "abìyàmọ̀ rẹ"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "ìwọ ti ṣí sílẹ̀"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "àwọn ìpàkọ́ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:45.708917406Z",
+  "model": "glm-5.3"
+}

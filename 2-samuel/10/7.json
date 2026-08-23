@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Nígbà tí David gbọ́, ó fi ⟨את⟩ Yoab àti ⟨את⟩ gbogbo ọmọ-ogun àwọn alágbára ránṣẹ́.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ó gbọ́"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ó fi... ránṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ọmọ-ogun àwọn alágbára"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ọmọ-ogun"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "àwọn alágbára"
+    }
+  ],
+  "timestamp": "2026-08-23T01:00:21.318003048Z",
+  "model": "glm-5.3"
+}

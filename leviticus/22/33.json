@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ẹni tí ó gbé ⟨את⟩ yín jáde kúrò ní ilẹ̀ Mitsrajim, láti jẹ́ Elohim fún yín; emí ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Ẹni tí ó gbé jáde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín (àwọn ọmọ Israẹli)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kúrò ní ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "láti jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "emí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:42:50.956874387Z",
+  "model": "glm-5.3"
+}

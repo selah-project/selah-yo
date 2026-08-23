@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 1:9",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Bákan náà, Vashti ⟨ayaba⟩ ṣe àjọ̀dún fún àwọn obìnrin nínú ilé ìjọba tí ó jẹ́ ti ọba Achashverosh.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bákan náà"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "⟨ayaba⟩"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "àjọ̀dún"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "àwọn obìnrin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nínú ilé"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ti ọba"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    }
+  ],
+  "timestamp": "2026-08-23T04:44:25.629214010Z",
+  "model": "glm-5.3"
+}

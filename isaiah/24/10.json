@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Ìlú ti fò, di ìlú òfo; gbogbo ilé ti wà ní àìtẹ̀, kò sí ìwọ̀lé.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ti fò"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "òfo"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ti wà ní àìtẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "kò sí ìwọ̀lé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:48:06.969822865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ẹnì kan sì ń pè ẹlomíràn, ó sì wí pé, Mímọ́, mímọ́, mímọ́ ni Yahweh olójú-ogun; ògo rẹ̀ kún gbogbo ayé.",
+  "tokens": [
+    {
+      "surface": "וְקָרָ֨א",
+      "gloss": "sì ń pè"
+    },
+    {
+      "surface": "זֶ֤ה",
+      "gloss": "ẹnì kan"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "pè"
+    },
+    {
+      "surface": "זֶה֙",
+      "gloss": "ẹlomíràn"
+    },
+    {
+      "surface": "וְאָמַ֔ר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "קָד֧וֹשׁ",
+      "gloss": "Mímọ́"
+    },
+    {
+      "surface": "קָד֛וֹשׁ",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "קָד֖וֹשׁ",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָא֑וֹת",
+      "gloss": "olójú-ogun"
+    },
+    {
+      "surface": "מְלֹ֥א",
+      "gloss": "kún (íṣupọ̀)"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "כְּבוֹדֽוֹ",
+      "gloss": "ògo rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:54:08.136839008Z",
+  "model": "glm-5.3"
+}

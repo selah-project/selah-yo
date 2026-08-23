@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Gbogbo ara Mitsrayim sì wá omi láàárín odò náà nípa gbígbẹ̀, láti mu; nítorí pé wọn kò lè mu nínu àwọn omi odò náà.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "sì wá omi nípa gbígbẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ara Mitsrayim"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "odò náà"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "láti mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "lè"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "nínu àwọn omi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "odò náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:41.336633746Z",
+  "model": "glm-5.3"
+}

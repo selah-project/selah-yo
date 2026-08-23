@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "èmi ó sì rìn pẹ̀lú yín ní ìbínú kẹ́rì; èmi ó sì jìyà ⟨את⟩ yín — èmi fúnra mi, ní ìgbà mẹ́je fún ẹ̀ṣẹ̀ yín.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "èmi ó sì rìn"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pẹ̀lú yín"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "ní ìbínú"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "kẹ́rì"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "èmi ó sì jìyà"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yín"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi fúnra mi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ní ìgbà mẹ́je"
+    },
+    {
+      "surface": "על",
+      "gloss": "fún"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ẹ̀ṣẹ̀ yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:47:58.155559834Z",
+  "model": "glm-5.3"
+}

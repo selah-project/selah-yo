@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Orí wọn wọn kì í fà, àti irun tí ó gùn wọn kì í jẹ́ kí ó dàgbà; wọ́n ń gbé ⟨את⟩ orí wọn.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "Orí wọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "fà"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "àti irun tí ó gùn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "jẹ́ kí ó dàgbà"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "ń gbé"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "wọ́n gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orí wọn"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "orí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:57:48.823567772Z",
+  "model": "glm-5.3"
+}

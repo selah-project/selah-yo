@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Àti ọkùnrin tí ó bá sùn pẹ̀lú ⟨את⟩ aya ọmọ rẹ̀, wọn méjèèjì ni a ó pa ikú pa; ìdàpọ̀ àìdára ni wọn ti ṣe; ẹ̀jẹ̀ wọn wà lórí wọn.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "àti ọkùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó bá"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "sùn pẹ̀lú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aya ọmọ rẹ̀"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "aya ọmọ rẹ̀"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ni a ó pa pa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wọn méjèèjì"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ìdàpọ̀ àìdára"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ti ṣe"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ẹ̀jẹ̀ wọn"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wà lórí wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:57.424066848Z",
+  "model": "glm-5.3"
+}

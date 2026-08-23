@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "ọ̀run rẹ̀ àti ẹsẹ̀ rẹ̀ ni a ó fọ̀ ní omi, kí àlùfáà sì sún gbogbo rẹ̀ lóri pẹpẹ ⟨את⟩ — ẹbùn-ìsun, ẹbùn-iná, ìrora tó dùn lọkàn fún Yahweh.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "ọ̀run rẹ̀"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "àti ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ni a ó fọ̀"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ní omi"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "kí ó sì sún"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo rẹ̀"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "gbogbo rẹ̀"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lóri pẹpẹ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ẹbùn-ìsun"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ẹbùn-iná"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ìrora"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "tó dùn lọkàn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:21.064708406Z",
+  "model": "glm-5.3"
+}

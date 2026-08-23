@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "David sì dìde, ó sì sálọ ní ọjọ́ yẹn níwájú Shaúl, ó sì wá sọ́dọ̀ Akishi, ọba Gati.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ó sì dìde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ó sì sálọ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sọ́dọ̀"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati"
+    }
+  ],
+  "timestamp": "2026-08-23T00:53:28.334194119Z",
+  "model": "glm-5.3"
+}

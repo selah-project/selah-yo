@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Nígbà tí ó gbé àwọn àmì-ìfarahàn rẹ̀ sí Mitzrayim, àti àwọn iṣẹ́-ìyanu rẹ̀ sí pápá Tsoan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ó gbé sí"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "àwọn àmì-ìfarahàn rẹ̀"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "àti àwọn iṣẹ́-ìyanu rẹ̀"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sí pápá"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:14.674659477Z",
+  "model": "glm-5.3"
+}

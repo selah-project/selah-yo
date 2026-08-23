@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Àti bí ẹrú bá sọ ó gbangba pé: Mo fẹ́ràn ⟨את⟩ olúwa mi, ⟨את⟩ aya mi, àti ⟨את⟩ àwọn ọmọ mi; èmi kì yóò jáde ní òmìnira.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Àti bí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ó sọ gbangba"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ẹrú"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "Mo fẹ́ràn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olúwa mi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "olúwa mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aya mi"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "aya mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "yóò jáde"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "ní òmìnira"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:28.016408281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 96,
+  "translation": "Forí balẹ̀ fún Yahweh ní ìbẹ̀wọ̀ ⟨mimọ́⟩; gbọ́n níwájú Rẹ̀, gbogbo ayé.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "forí balẹ̀"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "ní ìbẹ̀wọ̀"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨mimọ́⟩"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "gbọ́n"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "níwájú Rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:21.128109775Z",
+  "model": "glm-5.3"
+}

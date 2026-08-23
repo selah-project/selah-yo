@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Dávid sì ṣe bẹ́ẹ̀, gẹ́gẹ́ bí Yahweh ti pàṣẹ fún-un; ó sì lu ⟨את⟩ àwọn Pelishti láti Geba dé ìgbà tí wọ́n fi dé Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ti pàṣẹ fún-un"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ó sì lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Pelishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Pelishti"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "láti Geba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "באך",
+      "gloss": "ìgbà tí wọ́n fi dé"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-23T00:58:26.232874537Z",
+  "model": "glm-5.3"
+}

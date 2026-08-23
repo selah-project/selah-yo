@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 9:11",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àwọn onífá ìdàṣì kò lè dúró níwájú Moshe nítorí ìkọ̀ àlẹ́dẹ́, nítorí tí ìkọ̀ àlẹ́dẹ́ ti wà lára àwọn onífá ìdàṣì àti lára gbogbo ara Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "lè"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "àwọn onífá ìdàṣì"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "ìkọ̀ àlẹ́dẹ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ti wà"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "ìkọ̀ àlẹ́dẹ́"
+    },
+    {
+      "surface": "בחרטמם",
+      "gloss": "lára àwọn onífá ìdàṣì"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "àti lára gbogbo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ara Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:50.139716661Z",
+  "model": "glm-5.3"
+}

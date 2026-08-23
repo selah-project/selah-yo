@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Ó sì ṣe ⟨את⟩ gbogbo àwọn irinṣẹ́ pẹpẹ náà: ⟨את⟩ àwọn kònkò, ⟨את⟩ àwọn àwọ̀-ìkọ̀, ⟨את⟩ àwọn àgbàlá-omi, ⟨את⟩ àwọn ọ̀bọ̀-ẹran, àti ⟨את⟩ àwọn àwo-níná; gbogbo àwọn irinṣẹ́ rẹ̀ ni ó ṣe ní dupẹ́.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn irinṣẹ́ pẹpẹ náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "àwọn irinṣẹ́"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pẹpẹ náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn kònkò"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "àwọn kònkò"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn àwọ̀-ìkọ̀"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "àwọn àwọ̀-ìkọ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn àgbàlá-omi"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "àwọn àgbàlá-omi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀bọ̀-ẹran"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "àwọn ọ̀bọ̀-ẹran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn àwo-níná"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "àwọn àwo-níná"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "àwọn irinṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ní dupẹ́"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:14.778812330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwa, a ṣẹ̀, a sì tí gbé yà kúrò; ìwọ kò faradà.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "Àwa"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "a ṣẹ̀"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "a sì tí gbé yà kúrò"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "faradà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:36:55.768883527Z",
+  "model": "glm-5.3"
+}

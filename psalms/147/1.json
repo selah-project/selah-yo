@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 147,
+  "translation": "Ẹ gbé Yah ga, nítorí tí ó dára láti kọ orin fún Elohim wa; nítorí tí ó dùn, ìyìn ni ó yẹ.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ẹ gbé ga"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ó dára"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "láti kọ orin"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ó dùn"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ó yẹ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ìyìn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:57.431668126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ọba rán á, ó tú u sílẹ̀; olùṣàkóso àwọn orílẹ̀-èdè, ó sì dá a sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "rán á"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "ó tú u sílẹ̀"
+    },
+    {
+      "surface": "משל",
+      "gloss": "olùṣàkóso"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "ó sì dá a sílẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:27.855217559Z",
+  "model": "glm-5.3"
+}

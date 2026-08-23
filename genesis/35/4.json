@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Wọ́n sì fi ⟨את⟩ gbogbo àwọn ọlọ́run òkèèrè tí ó wà lọ́wọ́ wọn, àti ⟨את⟩ àwọn ìdí-ẹ̀rù tí ó wà ní etí wọn fún Yaakov; Yaakov sì fi ⟨את⟩ wọn pamọ́ sí abẹ́ igi almondù tí ó wà ní Šekem.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Wọ́n sì fi … fún"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ọlọ́run òkèèrè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "àwọn ọlọ́run"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "òkèèrè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "lọ́wọ́ wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìdí-ẹ̀rù"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "àwọn ìdí-ẹ̀rù"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "etí wọn"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "sì fi … pamọ́ sí abẹ́"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "wọn"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sí abẹ́"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "igi almondù"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekem"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:18.314626293Z",
+  "model": "glm-5.3"
+}

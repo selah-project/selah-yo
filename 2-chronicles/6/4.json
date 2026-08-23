@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 6:4",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ó sì wí pé, Yahweh, Elohim Israẹli, bukún fún ọ, ẹniti ó sọ pẹ̀lú ẹnu rẹ̀ sí ⟨את⟩ David baba mi, ó sì pẹ̀lú ọwọ́ rẹ̀ ṣe é pé, nípa wípé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wí"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "bukún fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹniti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "pẹ̀lú ẹnu rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David baba mi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba mi"
+    },
+    {
+      "surface": "ובידיו",
+      "gloss": "pẹ̀lú ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ṣe é pé"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nípa wípé"
+    }
+  ],
+  "timestamp": "2026-08-23T05:23:17.239104775Z",
+  "model": "glm-5.3"
+}

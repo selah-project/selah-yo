@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Má jẹ́ kẹ́ jẹ́ kí ọkàn rẹ kúro nínú àwọn ọ̀nà rẹ̀, má ṣe tì àìrọ̀núnu sínú àwọn ọ̀nà ìrìn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "kúro nínú (àìtọ́nà)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "àwọn ọ̀nà rẹ̀"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ọkàn rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "tì àìrọ̀núnu"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "sínú àwọn ọ̀nà ìrìn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:04:12.555146710Z",
+  "model": "glm-5.3"
+}

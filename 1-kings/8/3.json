@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Wọ́n wá, gbogbo àwọn àgbà Yisrael; àwọn àlùfáà sì gbé ⟨את⟩ ákáàti náà sókè.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Wọ́n wá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "Wọ́n sì gbé…sókè"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ákáàti náà"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ákáàti náà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:15:36.667048941Z",
+  "model": "glm-5.3"
+}

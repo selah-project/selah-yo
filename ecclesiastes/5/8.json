@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ṣùgbọ́n èrè ilẹ̀ jẹ́ ti gbogbo; ọba sì jẹ́ ẹni tí a fi sí iṣẹ́ pápá.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "ṣùgbọ́n èrè"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ti gbogbo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "jẹ́"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "sí pápá"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ẹni tí a fi sí iṣẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:43:09.845422688Z",
+  "model": "glm-5.3"
+}

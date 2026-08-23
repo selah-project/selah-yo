@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àti ọmọ-ogun rẹ̀, àti àwọn tí a ka sílẹ̀ rẹ̀ jẹ́ ẹgbẹ̀rún lọ́nà mẹfa àti mẹrìnlélogoji, àti ọgọ́ta márùn-ún.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "àti ọmọ-ogun rẹ̀"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "àti àwọn tí a ka sílẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "mẹfa"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "àti mẹrìnlélogoji"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbẹ̀rún"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "àti márùn-ún"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́ta"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:01.712296509Z",
+  "model": "glm-5.3"
+}

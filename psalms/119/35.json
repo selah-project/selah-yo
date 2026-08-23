@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ṣe é lọ fún mi ní ọ̀nà àwọn àṣẹ rẹ, nítorí tí nínú rẹ̀ ni èmi fẹ́.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Ṣe é lọ fún mi"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "ní ọ̀nà"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "àwọn àṣẹ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "èmi fẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:39.334276441Z",
+  "model": "glm-5.3"
+}

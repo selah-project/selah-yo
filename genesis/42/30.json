@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Ọkùnrin náà, olú ilẹ̀ náà, sọ̀rọ̀ léwu ⟨את⟩ ⟨pẹ̀lú⟩ wa, ó sì sọ wa di àwọn aṣírí ⟨את⟩ ilẹ̀ náà.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sọ̀rọ̀"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "olú"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ⟨pẹ̀lú⟩ wa"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "léwu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ó sì sọ wa di"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ wa"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "àwọn aṣírí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:11:37.268535182Z",
+  "model": "glm-5.3"
+}

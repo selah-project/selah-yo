@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 146,
+  "translation": "Yahweh ń ṣí ojú àwọn afọ́jú; Yahweh ń gbé àwọn tí wọ́n kún gbọ̀n dìde; Yahweh ń fẹ́ràn àwọn olóòtítọ́.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ń ṣí ojú"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "àwọn afọ́jú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "ń gbé dìde"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "àwọn tí wọ́n kún gbọ̀n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ń fẹ́ràn"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "àwọn olóòtítọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:52.767581698Z",
+  "model": "glm-5.3"
+}

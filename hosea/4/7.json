@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Gẹ́gẹ́ bí ìpọ̀sí wọn, báyìí ni wọ́n ti ṣe ẹ̀ṣẹ̀ sí mi; ọlá wọn ni èmi yóò yí di àìní-ìyì.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "gẹ́gẹ́ bí ìpọ̀sí wọn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "báyìí ni"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "wọ́n ti ṣe ẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ọlá wọn"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "di àìní-ìyì"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "èmi yóò yí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:01:14.413148491Z",
+  "model": "glm-5.3"
+}

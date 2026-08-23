@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 104,
+  "translation": "Lórí wọn ni àwọn ẹyẹ ọ̀run ń gbé; láti láàárín àwọn ègbé igi ni wọ́n ń fọ́n ohùn.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "Lórí wọn"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "àwọn ẹyẹ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "ń gbé"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "láti láàárín"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "àwọn ègbé igi"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ń fọ́n"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:49.256690560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "àti ⟨את⟩ gbogbo ilẹ̀ Naftali, àti ⟨את⟩ ilẹ̀ Efrayimu àti Manasse, àti ⟨את⟩ gbogbo ilẹ̀ Yehuda, títí dé odò ìwọ̀-oòrùn tí ó jẹ́ ìkẹyìn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ilẹ̀ Naftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilẹ̀ Efrayimu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "àti Manasse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ilẹ̀ Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "הים",
+      "gloss": "odò"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "tí ó jẹ́ ìkẹyìn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:21:59.342368674Z",
+  "model": "glm-5.3"
+}

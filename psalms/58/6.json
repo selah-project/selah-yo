@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 58,
+  "translation": "Tí kò gbọ́ ohùn àwọn aláwìsẹ́ ìkọ̀kọ̀, oníṣègùn ìdàṣẹ tí ó gbọ́n jùlọ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "àwọn aláwìsẹ́ ìkọ̀kọ̀"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "oníṣègùn ìdàṣẹ"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "ìdàṣẹ"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "tí ó gbọ́n jùlọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:19.920042440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Má ṣe yí ìdájọ́ aláìní rẹ kọ̀ náà nígbà ìjà ẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Má ṣe"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "yí ... kọ̀"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "aláìní rẹ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "nígbà ìjà ẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:14.916313973Z",
+  "model": "glm-5.3"
+}

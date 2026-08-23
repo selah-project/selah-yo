@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó rán gbọ̀ngàn ewéko jàlàjàlà sí wọn, ó jẹ wọn; àti ọ̀pọ̀lọ́ ẹ̀yà orí omì, ó pa wọn run.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ó rán"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sí wọn"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gbọ̀ngàn ewéko jàlàjàlà"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "ó jẹ wọn"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "àti ọ̀pọ̀lọ́ ẹ̀yà orí omì"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "ó pa wọn run"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:33.957652443Z",
+  "model": "glm-5.3"
+}

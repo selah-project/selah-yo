@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "nítorí gbogbo àwọn tábìlì kún fún ẹ̀jẹ́-ẹnu-òkú àti eèdú, láì sí ibi mímọ́ rárá.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "àwọn tábìlì"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "kún"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "ẹ̀jẹ́-ẹnu-òkú"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "eèdú"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "láì sí"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:49:14.421794362Z",
+  "model": "glm-5.3"
+}

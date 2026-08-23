@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 116,
+  "translation": "Mo gbé ìgò ìgbàlà sókè, ní orúkọ Yahweh ni mo ń pè.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "ìgò"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mo gbé sókè"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ní orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mo ń pè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:45.708472856Z",
+  "model": "glm-5.3"
+}

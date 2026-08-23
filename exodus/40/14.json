@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Sí o ó mú ⟨את⟩ àwọn ọmọ rẹ̀ wá, sí o ó wọ ⟨את⟩ wọn ní àwọn kùtùnnù.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "sí o ó mú … wá"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "sí o ó wọ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kùtùnnù"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:41.774316980Z",
+  "model": "glm-5.3"
+}

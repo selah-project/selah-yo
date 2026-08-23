@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Ó sì fún ìlú wọn lẹ́rù-un ìdílé, ìdílé fún Yisrael, ènìyàn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Ó sì fún"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ilẹ̀ wọn"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ní ìdílé-ẹrù"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ìdílé-ẹrù"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fún Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "èrù-un ènìyàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:42.999124961Z",
+  "model": "glm-5.3"
+}

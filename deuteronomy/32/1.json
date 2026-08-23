@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Ẹ sọ etí sí, àwọn ọ̀run, èmi ó sì bẹ̀rọ̀; ki ilẹ̀ gbọ́ ọ̀rọ̀ ẹnu mi.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "ẹ sọ etí sí"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "èmi ó sì bẹ̀rọ̀"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ki ó gbọ́"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:20:50.239096211Z",
+  "model": "glm-5.3"
+}

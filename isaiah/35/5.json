@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Nígbà yẹn, ojú àwọn afọ́jú yóò ṣí, etí àwọn adití yóò sì ṣí.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "nígbà yẹn"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "yóò ṣí"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "àwọn afọ́jú"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "àti etí"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "àwọn adití"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "yóò sì ṣí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:53:50.407882635Z",
+  "model": "glm-5.3"
+}

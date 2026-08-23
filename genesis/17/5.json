@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Kí wọn máa sì ṣe pe orúkọ rẹ ní Avram mọ́; orúkọ rẹ yóò sì di Avraham, nítorí tí mo ti ṣe ọ́ ní baba fún ìjọpọ̀ àwọn orílẹ̀-èdè púpọ̀.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kí... mọ́"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "wọn máa ṣe pé"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ rẹ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "yóò sì di"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ìjọpọ̀ púpọ̀"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "mo ti ṣe ọ́"
+    }
+  ],
+  "timestamp": "2026-08-22T22:59:33.816966173Z",
+  "model": "glm-5.3"
+}

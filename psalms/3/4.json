@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ṣùgbọ́n ìwọ, Yahweh, ni ààbò ní ìkànlẹ̀ mi, ọlá mi, ẹni tí í gbe orí mi sókè.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ṣùgbọ́n ìwọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ààbò"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ní ìkànlẹ̀ mi"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ọlá mi"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ẹni tí í gbe… sókè"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "orí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:05.474718211Z",
+  "model": "glm-5.3"
+}

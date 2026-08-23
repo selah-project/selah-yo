@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Má ṣe kíkún sílẹ̀ kúrò lọ́dọ̀ rẹ̀, kí o tó lọ; má ṣe dúró sí orí ọ̀rọ̀ búburú; nítorí gbogbo tí ó bá fẹ́ ni ó ń ṣe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "kíkún sílẹ̀"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kúrò lọ́dọ̀ rẹ̀"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "kí o tó lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "dúró sí orí"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ó bá fẹ́"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ń ṣe"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:51.252835435Z",
+  "model": "glm-5.3"
+}

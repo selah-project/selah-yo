@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 125,
+  "translation": "Ṣùgbọ́n àwọn tí ó ṣí sí ọ̀nà ìwọ̀ ìyèméji tiwọn, Yahweh yóò mú ⟨את⟩ àwọn olṣṣẹ́ búburú lọ pẹ̀lú wọn; àlàáfíà máa wà lórí Yisrael.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "ṣùgbọ́n àwọn tí ó ṣí sí ọ̀nà ìwọ̀"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "ìyèméji tiwọn"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "yóò mú wọn lọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn olṣṣẹ́ búburú"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "àwọn olṣṣẹ́"
+    },
+    {
+      "surface": "האון",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:53.895114428Z",
+  "model": "glm-5.3"
+}

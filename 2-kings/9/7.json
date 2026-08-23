@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ìwọ sì máa lu ⟨את⟩ ilé Ahab olúwa rẹ run; èmi sì máa gbẹ̀san ẹjẹ àwọn ìránṣẹ́ mi wòlíyyyyí-nínú àwọn wòlíyyyí àti ẹjẹ gbogbo àwọn ìránṣẹ́ Yahweh, lọ́wọ́ Izevel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "Ìwọ sì máa lu … run"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé Ahab olúwa rẹ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "olúwa rẹ"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "èmi sì máa gbẹ̀san"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ẹjẹ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "àwọn ìránṣẹ́ mi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "àwọn wòlíyyyí"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "àti ẹjẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:22.150788235Z",
+  "model": "glm-5.3"
+}

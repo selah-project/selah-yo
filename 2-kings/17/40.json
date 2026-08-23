@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-kings 17:40",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ṣùgbọ́n wọn kò gbọ́ràn; gẹ́gẹ́ bí ìṣe wọn àkọ́kọ́ ni wọn ṣe ń ṣe é.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n... kò"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "gbọ́ràn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bí"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "gẹ́gẹ́ bí ìṣe wọn"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "àkọ́kọ́"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ń ṣe é"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:09.705511804Z",
+  "model": "glm-5.3"
+}

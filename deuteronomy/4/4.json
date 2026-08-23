@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ṣùgbọ́n ẹ̀yin ẹ tí ń lọ mọ́ Yahweh, Elohim yín, ẹ̀yin jẹ́ àwọn tí wà láàyè — gbogbo yín òní.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ṣùgbọ́n ẹ̀yin ẹ"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "tí ń lọ mọ́"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ẹ̀yin jẹ́ àwọn tí wà láàyè"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "gbogbo yín"
+    },
+    {
+      "surface": "היום",
+      "gloss": "òní"
+    }
+  ],
+  "timestamp": "2026-08-23T00:09:12.638191590Z",
+  "model": "glm-5.3"
+}

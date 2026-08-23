@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Zimri sì wọ̀ ó, ó lu ú, ó sì pa á ní ikú, ní ọdún ẹ̀rìndínlọ́gbọ̀n ti Asa, ọba Yehudah; ó sì jọba ní ipò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ó wọ̀ ó"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ó lu ú"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ó pa á ní ikú"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ní ọdún"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ọ̀kànlélọ́gbọ̀n-ọ̀kàndínl… (ẹ̀rìndínlọ́gbọ̀n)"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ẹ̀rìndínlọ́gbọ̀n"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "ti Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ó sì jọba"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ní ipò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:20:52.111522856Z",
+  "model": "glm-5.3"
+}

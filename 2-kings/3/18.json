@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó dàbí nǹkan kékeré èyí ní ojú Yahweh; ó sì yóò fi ⟨את⟩ Moab lọ́wọ́ yín.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "ó dàbí nǹkan kékeré"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ó sì yóò fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "lọ́wọ́ yín"
+    }
+  ],
+  "timestamp": "2026-08-23T01:26:59.886265512Z",
+  "model": "glm-5.3"
+}

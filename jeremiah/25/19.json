@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "⟨את⟩ Paroh ọba Mitzrayim, àti ⟨את⟩ àwọn ìránṣẹ́ rẹ̀, àti ⟨את⟩ àwọn olórí rẹ̀, àti ⟨את⟩ gbogbo ènìyàn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh ọba Mitzrayim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "àwọn ìránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn olórí rẹ̀"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "àwọn olórí rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo ènìyàn rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ènìyàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:19:12.886242638Z",
+  "model": "glm-5.3"
+}

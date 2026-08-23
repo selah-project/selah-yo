@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Jethro sì wí pé, \"Yahweh yó yọ, ẹni tí ó gbà ⟨את⟩-yín là nínú ọwọ́ Mitzrayim àti nínú ọwọ́ Paroh, ẹni tí ó gba ⟨את⟩ ìjọ là lábẹ́ ọwọ́ Mitzrayim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jethro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "yó yọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "gbà…là"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yín"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "nínú ọwọ́"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "àti nínú ọwọ́"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "gba…là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìjọ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "lábẹ́"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:50.824966411Z",
+  "model": "glm-5.3"
+}

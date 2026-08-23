@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Wọ́n sì gbé ⟨את⟩ irin-jà rẹ̀ sí ilé Ashtarot, wọ́n sì fi ⟨את⟩ okú ara rẹ̀ mọ́ ogiri ilẹ̀ Beit-Shan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "Wọ́n sì gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irin-jà rẹ̀"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "irin-jà rẹ̀"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sí ilé"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wọ́n sì fi ⟨את⟩"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "okú ara rẹ̀"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "wọ́n sì fi … mọ́ ogiri"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "mọ́ ogiri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    }
+  ],
+  "timestamp": "2026-08-23T00:57:06.598166435Z",
+  "model": "glm-5.3"
+}

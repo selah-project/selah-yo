@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Wọ́n sì fọ ⟨את⟩ òkúta-ìrántí Baal wọ́n sì fọ ⟨את⟩ ilé Baal, wọ́n sì ṣe é di inú-agbọ̀n-ìdó àtẹ̀tẹ́kọ́ṣe titi di òní.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "wọ́n sì fọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òkúta-ìrántí Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "òkúta-ìrántí"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "wọ́n sì fọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "wọ́n sì ṣe é di"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "inú-agbọ̀n-ìdó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "titi di"
+    },
+    {
+      "surface": "היום",
+      "gloss": "òní"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:12.264203955Z",
+  "model": "glm-5.3"
+}

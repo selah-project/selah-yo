@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 2:32",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ìwọ̀nyí ni àwọn tí a kànìyàn lára àwọn ọmọ Yisrael, nílé àwọn baba wọn; gbogbo àwọn tí a kànìyàn ní àwọn ọ̀gbà ogun, pẹ̀lú àwọn ogun wọn — ẹgbẹ̀rún-lọ́nà-ẹ̀ẹ́dẹ́gbẹ̀ta ⟨⟨àti⟩⟩ ẹ̀ẹ́dẹ́gbẹ̀ta-dín-lọ́nà-ẹ̀ẹ́dẹ́gbẹ̀ta ⟨⟨àti⟩⟩ ọgọ́rùn-aárún-dín-lọ́nà-àádọ́ta.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ìwọ̀nyí"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "àwọn tí a kànìyàn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nílé"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "àwọn baba wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "àwọn tí a kànìyàn"
+    },
+    {
+      "surface": "המחנת",
+      "gloss": "ní àwọn ọ̀gbà ogun"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "pẹ̀lú àwọn ogun wọn"
+    },
+    {
+      "surface": "שש",
+      "gloss": "mẹ́fà"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́rùn-ún"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbẹ̀rún"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "àti ẹ̀ẹ́dẹ́gbẹ̀ta (mẹ́ta)"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ẹgbẹ̀rún"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "àti márùn-ún"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́rùn-ún"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "àti àádọ́ta"
+    }
+  ],
+  "timestamp": "2026-08-22T23:49:01.092035348Z",
+  "model": "glm-5.3"
+}

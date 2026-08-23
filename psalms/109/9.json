@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Kí àwọn ọmọ rẹ̀ di àwọn àìníbàbá, kí ìyàwó rẹ̀ sì di opó.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "kí … di"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "àwọn àìníbàbá"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "kí ìyàwó rẹ̀ sì"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "di opó"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:30.919967824Z",
+  "model": "glm-5.3"
+}

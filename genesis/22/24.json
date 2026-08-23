@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "àti pilagesh rẹ̀, orúkọ rẹ̀ sì ni Reumah; òun náà bí ⟨את⟩ Tevaḥ àti ⟨את⟩ Gaḥam àti ⟨את⟩ Taḥash àti ⟨את⟩ Maakha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "àti pilagesh rẹ̀"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "orúkọ rẹ̀ sì"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "ni Reumah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "גם",
+      "gloss": "náà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevaḥ"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevaḥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Gaḥam"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gaḥam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Taḥash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Taḥash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    }
+  ],
+  "timestamp": "2026-08-23T05:38:57.569904692Z",
+  "model": "glm-5.3"
+}

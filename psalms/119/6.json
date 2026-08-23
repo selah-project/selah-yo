@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Nígbà yẹn ni èmi kì í ṣe yà wéré, nígbà tí mo ń wo sí gbogbo àwọn àṣẹ rẹ.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "nígbà yẹn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "yà wéré"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "nígbà tí mo ń wo sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "àwọn àṣẹ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:19.442987520Z",
+  "model": "glm-5.3"
+}

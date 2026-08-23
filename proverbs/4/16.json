@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Nítorí wọn kò ní orun, àfi tí wọn kò bá ṣe búburú; àti orun wọn ti jẹ́ gbigba lọ, àfi tí wọn kò bá fi ẹnìkan ṣubú.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יִשְׁנוּ",
+      "gloss": "ní orun"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "àfi tí"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יָרֵעוּ",
+      "gloss": "ṣe búburú"
+    },
+    {
+      "surface": "וְנִגְזְלָה",
+      "gloss": "àti gbigba-lọ ti ṣẹlẹ̀"
+    },
+    {
+      "surface": "שְׁנָתָם",
+      "gloss": "orun wọn"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "àfi tí"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יַכְשִׁילוּ",
+      "gloss": "fi ẹnìkan ṣubú"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:49.545433083Z",
+  "model": "glm-5.3"
+}

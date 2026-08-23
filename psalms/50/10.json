@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Nítorí ti mi ni gbogbo ẹranko igbó, àti àwọn ẹranko ilẹ̀ lórí àwọn òkè ẹgbẹ̀rún.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ti mi ni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "יער",
+      "gloss": "igbó"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "àwọn ẹranko ilẹ̀"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "lórí àwọn òkè"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbẹ̀rún"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:20.494646163Z",
+  "model": "glm-5.3"
+}

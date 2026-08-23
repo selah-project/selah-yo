@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Àti pé ojú àwọn olùrí kì yóò ṣààì wo dáadáa, àti etí àwọn olùgbọ́ yóò gbọ́ lọ́kàn.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kì yóò … rárá"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "wo dáadáa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "àwọn olùrí"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "àti etí"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "àwọn olùgbọ́"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "gbọ́ lọ́kàn"
+    }
+  ],
+  "timestamp": "2026-08-23T05:55:11.514827883Z",
+  "model": "glm-5.3"
+}

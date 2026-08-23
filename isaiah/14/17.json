@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ẹni tí ó sọ ayé di ijù, tí ó sì pa àwọn ìlú rẹ̀ run, tí ó kò ṣí ilé àwọn ẹrù rẹ̀ sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "tí ó sọ...sí"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "di ijù"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "àwọn ìlú rẹ̀"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "pa...run"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "àwọn ẹrù rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ṣí...sílẹ̀"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ilé ⟨wọn⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T01:44:34.983144644Z",
+  "model": "glm-5.3"
+}

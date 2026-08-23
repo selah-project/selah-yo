@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 27:4",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Èé ti tí orúkọ baba wa yóò fi kúrò láàárín ẹbí rẹ̀, nítorí pé kò bí ọmọkùnrin? Fún wa ní ilẹ̀-ìní láàárín àwọn ará baba wa.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "èé ti tí"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "yóò fi kúrò"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baba wa"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "ẹbí rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò ní"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọkùnrin"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "fún wa ní"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ilẹ̀-ìní"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "àwọn ará"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baba wa"
+    }
+  ],
+  "timestamp": "2026-08-23T00:02:28.612855505Z",
+  "model": "glm-5.3"
+}

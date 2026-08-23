@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ìwa àìwọ̀ ará aràbìnrin baba rẹ ni kì í ṣe kí o ṣí ìbojú rẹ̀ — ẹran ara baba rẹ ni.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ìwa àìwọ̀ ará"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "aràbìnrin"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba rẹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kí o ṣí ìbojú rẹ̀"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ẹran ara"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba rẹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:41:14.922536639Z",
+  "model": "glm-5.3"
+}

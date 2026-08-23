@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Yoav àti Avishai arákùnrin rẹ̀ sì pa Avner, nítorí pé ó pa ⟨את⟩ Asahel arákùnrin wọn ní Givon, nínú ogun.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Yoav sì"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "àti Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arákùnrin rẹ̀"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ó pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "arákùnrin wọn"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "ní Givon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "nínú ogun"
+    }
+  ],
+  "timestamp": "2026-08-23T00:58:35.252768320Z",
+  "model": "glm-5.3"
+}

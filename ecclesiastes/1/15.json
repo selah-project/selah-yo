@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Èyí tí ó yí kò lè ṣe títọ́, àti èyí tí ó kù kò lè ka.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "Èyí tí ó yí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ṣe títọ́"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "àti èyí tí ó kù"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ká"
+    }
+  ],
+  "timestamp": "2026-08-23T04:40:33.040966815Z",
+  "model": "glm-5.3"
+}

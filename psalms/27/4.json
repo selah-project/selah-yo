@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Ohun kan ni mo ti béèrè lọ́dọ̀ ⟨את⟩ Yahweh — ⟨את⟩ rẹ̀ ni mo ń wá: kí n gbé ní ilé Yahweh fún gbogbo ọjọ́ ayé mi, láti wo ìwọ̀ tútù Yahweh, àti láti ṣàbẹ̀wò lọ́sọ̀ọ̀sọ̀ sí ààfin rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "ohun kan"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "mo ti béèrè"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "lọ́dọ̀ ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí mo ń wá (ìgbé ní ilé Yahweh)"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "mo ń wá"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "kí n gbé"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ní ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ayé mi"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "láti wo"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "ìwọ̀ tútù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "àti láti ṣàbẹ̀wò lọ́sọ̀ọ̀sọ̀"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "ní ààfin rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:45.188157874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Elohim di mímọ̀ nínú àwọn àáfin rẹ̀, gẹ́gẹ́ bí ibi ààbò.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "nínú àwọn àáfin rẹ̀"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "di mímọ̀"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "gẹ́gẹ́ bí ibi ààbò"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:43.451070144Z",
+  "model": "glm-5.3"
+}

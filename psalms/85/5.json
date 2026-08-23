@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 85,
+  "translation": "Dà wó padà, Elohim ti ìgbàlà wa, kí o sì fi ìbínú rẹ pẹ̀lú wa ṣẹ́.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Dà wó padà"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ìgbàlà wa"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "kí o sì fi ... ṣẹ́"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "ìbínú rẹ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "pẹ̀lú wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:21.067793543Z",
+  "model": "glm-5.3"
+}

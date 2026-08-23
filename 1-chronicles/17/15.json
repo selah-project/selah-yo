@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Gẹ́gẹ́ bí gbogbo ọ̀rọ̀ wọnyí, àti gẹ́gẹ́ bí gbogbo ìríhan yìí, bẹ́ẹ̀ ni Natan sọ̀rọ̀ fún David.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "gẹ́gẹ́ bí gbogbo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wọnyí"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "àti gẹ́gẹ́ bí gbogbo"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "ìríhan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sọ̀rọ̀"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-23T05:16:44.200124987Z",
+  "model": "glm-5.3"
+}

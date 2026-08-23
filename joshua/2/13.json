@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "kí ẹ sì pa ⟨את⟩ baba mi, àti ⟨את⟩ ìyá mi, àti ⟨את⟩ àwọn arágbádè mi, àti ⟨את⟩ àwọn ègbán mi, àti ⟨את⟩ gbogbo tí ó wà lọ́dọ̀ wọn láàyè, kí ẹ sì gbà ⟨את⟩ ẹ̀mí wa là kúrò nínú ikú.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "kí ẹ sì pa láàyè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba mi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìyá mi"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ìyá mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn arágbádè mi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "àwọn arágbádè mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ègbán mi"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "àwọn ègbán mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "kí ẹ sì gbà là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀mí wa"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "ẹ̀mí wa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kúrò nínú ikú"
+    }
+  ],
+  "timestamp": "2026-08-23T00:23:38.868342553Z",
+  "model": "glm-5.3"
+}

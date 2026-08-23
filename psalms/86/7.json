@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 86,
+  "translation": "Ní ọjọ́ ìpọnju mi, èmi yóò pè ọ́, nítorí pé Ȯ̀run Yahweh ń dáhùn mi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ìpọnju mi"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "èmi yóò pè ọ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "Iwọ ń dáhùn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:55.892988463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Nípa ìmọ̀ sì ni yóò ti kún àwọn yàrá pẹ̀lú gbogbo ọrọ̀ tí ó wúlìò àti tí ó dùn.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "sì nípa ìmọ̀"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "àwọn yàrá"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "yóò ti kún"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ọrọ̀"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "tí ó wúlìò"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "àti tí ó dùn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:11:51.475854629Z",
+  "model": "glm-5.3"
+}

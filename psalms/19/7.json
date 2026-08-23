@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Láti ìparí àwọn ọ̀run ni ibi ìjádé rẹ̀, àti ìyípo rẹ̀ sí àwọn ìparí wọn; kò sí ohun tí ó farapamọ́ láti inú gbígbóná rẹ̀.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "láti ìparí"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ibi ìjádé rẹ̀"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "àti ìyípo rẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "àwọn ìparí wọn"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "ohun tí ó farapamọ́"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "láti inú gbígbóná rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:41.680366041Z",
+  "model": "glm-5.3"
+}

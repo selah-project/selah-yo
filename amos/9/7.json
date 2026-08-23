@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ṣé kì í bíi àwọn ọmọ Kush ni ẹ̀yin jẹ́ fún mi, àwọn ọmọ Yisrael? wò ni Yahweh. Ṣé kì í mo gbé ⟨את⟩ Yisrael sókè kúrò nínú ilẹ̀ Mitzrayim, àti àwọn Pelishti kúrò ní Kaphtor, àti Aram kúrò ní Kir?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ṣé kì í"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "bíi àwọn ọmọ"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wò ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ṣé kì í"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "mo gbé sókè"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kúrò nínú ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "àti àwọn Pelishti"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "kúrò ní Kaphtor"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "àti Aram"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "kúrò ní Kir"
+    }
+  ],
+  "timestamp": "2026-08-23T03:09:29.937599060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àwọn olórí sì kó ⟨את⟩ ìgbéga pẹ̀tẹ́lẹ̀ àyẹyẹ ìgbékalẹ̀ altá gìbọ̀dà wá, ní ọjọ́ tí wọ́n fi oróró ṣàṣẹ ⟨את⟩ òun; àwọn olórí sì kó ⟨את》 ebí wọn wá síwájú altá òfufo.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "àwọn olórí sì kó… wá"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìgbéga pẹ̀tẹ́lẹ̀ àyẹyẹ ìgbékalẹ̀ altá gìbọ̀dà"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "ìgbéga pẹ̀tẹ́lẹ̀ àyẹyẹ ìgbékalẹ̀"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altá gìbọ̀dà"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́ tí"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "wọ́n fi oróró ṣàṣẹ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ òun",
+      "marks": "fi oróró ṣàṣẹ òun"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "àwọn olórí sì kó… wá"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebí wọn"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "ebí wọn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altá òfufo"
+    }
+  ],
+  "timestamp": "2026-08-23T05:44:32.380881527Z",
+  "model": "glm-5.3"
+}

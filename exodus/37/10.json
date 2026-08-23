@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ó sì ṣe ⟨את⟩ àtẹ ìpamọ́ ní inú igi sita; ìgùn mẹ́jìnì àwọn ẹ̀wùn ni ìgùnrẹ̀, ẹ̀wùn kan ni fífẹ̀ rẹ̀, ẹ̀wùn kan àti ìdájì ni gíga rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àtẹ ìpamọ́"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "àtẹ ìpamọ́"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ní inú igi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sita"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ìgùn mẹ́jìnì àwọn ẹ̀wùn"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ìgùnrẹ̀"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ẹ̀wùn kan sì"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "fífẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ẹ̀wùn kan àti"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ìdájì"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "gíga rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:31:30.521192638Z",
+  "model": "glm-5.3"
+}

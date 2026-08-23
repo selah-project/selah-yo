@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 79,
+  "translation": "A ti di ègàn fún àwọn aládùúgbò wa, ìwọ̀ ẹ̀gàn àti ìrọ̀rùn fún àwọn tí wọ́n yí wa ká.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "A ti di"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ègàn"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "fún àwọn aládùúgbò wa"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "ìwọ̀ ẹ̀gàn"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "àti ìrọ̀rùn"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "fún àwọn tí wọ́n yí wa ká"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:44.058241149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Yahweh yóò dáàbọ̀ bọ́ ọ́, ó sì yóò jẹ́ kí ó wà là; yóò sì ṣe é ní ẹni tí kò ṣíwọ̀fà ní ilẹ̀ ayé; kí o sì máà fi sílẹ̀ fún ìfẹ́-ìbínú àwọn ọ̀tá rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "yóò dáàbọ̀ bọ́ ọ́"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "ó sì yóò jẹ́ kí ó wà là"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "yóò sì ṣe é ní ẹni tí kò ṣíwọ̀fà"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀ ayé"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí o sì máà"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "fí sílẹ̀ fún"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ìfẹ́-ìbínú"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "àwọn ọ̀tá rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:51.616343267Z",
+  "model": "glm-5.3"
+}

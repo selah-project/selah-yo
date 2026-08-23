@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ọba Israẹl sì dáhùn, ó wí pé, Gẹ́gẹ́ bí ọ̀rọ̀ rẹ ti wí ni, olúwa mi, ọba; èmi ni ti rẹ, àti gbogbo ohun tí ó wà lọ́dọ̀ mi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "sì dáhùn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó wí pé"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Gẹ́gẹ́ bí ọ̀rọ̀ rẹ ti wí"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "olúwa mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti rẹ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi ni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wà lọ́dọ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:23:46.305969716Z",
+  "model": "glm-5.3"
+}

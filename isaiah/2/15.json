@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àti lórí gbogbo tita tí ó ga, àti lórí gbogbo ogiri tí a fi ipamọ̀ fúnni;",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "tita"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "tí ó ga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "ogiri"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "tí a fi ipamọ̀ fúnni"
+    }
+  ],
+  "timestamp": "2026-08-23T01:38:17.238617283Z",
+  "model": "glm-5.3"
+}

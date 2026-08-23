@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 120,
+  "translation": "Ohun ìbọn títí-líle ti gbọ́nmọ́, pẹ̀lú èjà iná igi rétámú.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "ohun ìbọn"
+    },
+    {
+      "surface": "gbwcr... ",
+      "gloss": ""
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gbọ́nmọ́"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "títí-líle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "èjà iná"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "igi rétámú"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:30.131335186Z",
+  "model": "glm-5.3"
+}

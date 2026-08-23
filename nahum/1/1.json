@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ẹrù Nineveh — ìwé ìfihàn Nahum, ẹni ti ó ti Elkoshi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Ẹrù"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ìwé"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ìfihàn"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "Nahum"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "ẹni ti ó ti Elkoshi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:12:54.642729318Z",
+  "model": "glm-5.3"
+}

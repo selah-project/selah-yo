@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 19:8",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ó sì dìde, ó sì jẹ, ó sì mu, ó sì rin láti inú agbára oúnjẹ yẹn ní ọjọ́ mèrìnlélógójì àti òru mèrìnlélógójì, títí dí òkè Ọlọ́hun, Horeb.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ó sì dìde"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ó sì jẹ"
+    },
+    {
+      "surface": "וישתה",
+      "gloss": "ó sì mu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì rin"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "láti inú agbára"
+    },
+    {
+      "surface": "האכילה",
+      "gloss": "oúnjẹ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mèrìnlélógójì"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "àti mèrìnlélógójì"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "òru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí dí"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Ọlọ́hun"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "Horeb"
+    }
+  ],
+  "timestamp": "2026-08-23T01:22:26.426769537Z",
+  "model": "glm-5.3"
+}

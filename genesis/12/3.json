@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Èmi yóó sì bùkún fún àwọn tí ó bá bùkún fún ọ́, èmi yóó sì fi ẹ̀gún jẹ́ àwọn tí ó bá bu ọ́; gbogbo ìdílé ilẹ̀ ayé ni yóó gba bùkún nípasẹ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "èmi yóó sì bùkún fún"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "àwọn tí ó bá bùkún fún ọ́"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "àwọn tí ó bá bu ọ́"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "èmi yóó fi ẹ̀gún jẹ́"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "yóó gba bùkún"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nípasẹ̀ rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ìdílé"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-22T22:58:10.148307427Z",
+  "model": "glm-5.3"
+}

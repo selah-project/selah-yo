@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ẹ ṣọ́ láti ṣe gẹ́gẹ́ bí Yahweh Elohim yín ti pàṣẹ́ ⟨את⟩ yín; ẹ má ṣí pọn ọ̀tún àti òsì.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ẹ ṣọ́"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti pàṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yín"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ẹ má ṣe"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "ṣí pọn"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ọ̀tún"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "àti òsì"
+    }
+  ],
+  "timestamp": "2026-08-23T00:08:09.368668624Z",
+  "model": "glm-5.3"
+}

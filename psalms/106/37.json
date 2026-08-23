@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Wọ́n sì ṣàṣẹ ⟨את⟩ àwọn ọmọ wọn àti ⟨את⟩ àwọn ọmọbìnrin wọn fún àwọn Shedim.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Wọ́n sì ṣàṣẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ wọn"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "àwọn ọmọ wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọbìnrin wọn"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "àwọn ọmọbìnrin wọn"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "fún àwọn Shedim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:08.994414774Z",
+  "model": "glm-5.3"
+}

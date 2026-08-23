@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Àti àwọn egun àwọn àlùfáà ni ó sun lórí àwọn pẹpẹ wọn, ó sì ṣe ìmọ́tótó fún ⟨את⟩ Yehudah àti ⟨את⟩ Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "àti àwọn egun"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ó sun"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "àwọn pẹpẹ wọn"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "ó sì ṣe ìmọ́tótó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:37:57.770494125Z",
+  "model": "glm-5.3"
+}

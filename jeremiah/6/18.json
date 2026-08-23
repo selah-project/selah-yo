@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Nítorí náà, ẹ jẹ́ kí àwọn orílẹ̀-èdè gbọ́, kí ègbé náà sì mọ̀ ⟨את⟩ èyí tí ó wà lára wọn.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ẹ jẹ́ kí ... gbọ́"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "kí ... sì mọ̀"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ègbé náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èyí tí ó wà lára wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "בם",
+      "gloss": "lára wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:09:03.014206019Z",
+  "model": "glm-5.3"
+}

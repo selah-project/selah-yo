@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Àti ọdún mẹ́fà iwọ máa gbín ⟨את⟩ ilẹ̀ rẹ, kí o sì kó ⟨את⟩ èso rẹ̀ gbọ́nmọ.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Àti ọdún mẹ́fà"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "iwọ máa gbín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ rẹ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ilẹ̀ rẹ"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "kí o sì kó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èso rẹ̀"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "èso rẹ̀ gbọ́nmọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:35.213995279Z",
+  "model": "glm-5.3"
+}

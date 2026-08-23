@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Nítorí náà, àwọn olèṣẹ̀ kì í ṣe ìdí gbọ́n <nínú> ìdájọ́, àwọn ẹlẹ́ṣẹ̀ <sí> nínú ìpàdé àwọn ẹní-ọ̀títọ́.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nítorí náà (lórí)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ìdí gbọ́n"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn olèṣẹ̀"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "nínú ìdájọ́"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "àwọn ẹlẹ́ṣẹ̀"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "nínú ìpàdé"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "àwọn ẹní-ọ̀títọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:15.946425635Z",
+  "model": "glm-5.3"
+}

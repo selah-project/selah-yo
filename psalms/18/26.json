@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Pẹ̀lú ẹni ti ó ní chesed, Iwọ ń fi chesed hàn; pẹ̀lú ẹni tí ó tóótọ́ ní gbogbo ọ̀nà, Iwọ ń fi tóótọ́ hàn.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ẹni ti ó ní chesed"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "Iwọ ń fi chesed hàn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ẹni tí ó tóótọ́"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tóótọ́ ní gbogbo ọ̀nà"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "Iwọ ń fi tóótọ́ hàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:11.932296548Z",
+  "model": "glm-5.3"
+}

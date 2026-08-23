@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 72,
+  "translation": "Ó máa dá àwọn tálúkà nínu ènìyàn lọ́lá, ó máa gbà àwọn ọmọ aláìní là, ó sì máa lu ẹni tí ó ń ṣègbé-ègbè jádé.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "ó máa dá lọ́lá"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "àwọn tálúkà"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nínu ènìyàn"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ó máa gbà là"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "aláìní"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "ó sì máa lu"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "ẹni tí ó ń ṣègbé-ègbè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:12.460355540Z",
+  "model": "glm-5.3"
+}

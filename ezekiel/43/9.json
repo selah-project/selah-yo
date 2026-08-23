@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 43:9",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Nísìn yìí, kí wọ́n jẹ́ kí àgbéraga wọn àti àwọn ọ̀kú àwọn ọba wọn kọjá nípasẹ́ ⟨את⟩ ìṣàgbéraga wọn kúrò lọ́dọ̀ mi, nítorí náà, èmi yóò gbé láàárín wọn títítí láéláé.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nísìn yìí"
+    },
+    {
+      "surface": "ירחקו",
+      "gloss": "kí wọ́n fi jìnà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àgbéraga wọn (ìṣàgbéraga wọn)"
+    },
+    {
+      "surface": "זנותם",
+      "gloss": "ìṣàgbéraga wọn (àṣẹ̀ṣe-ìṣẹ̀lẹ̀ ẹlẹ́gbọ́n)"
+    },
+    {
+      "surface": "ופגרי",
+      "gloss": "àti àwọn ọ̀kú"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "àwọn ọba wọn"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kúrò lọ́dọ̀ mi"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "nítorí náà, èmi yóò gbé"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "láàárín wọn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títítí láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T06:01:22.789687866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Àwọn ọkùnrin tí kò kú sì ni wọ́n lu wọn pẹ̀lú àwọn fùrọ̀, ìkígbe ìlú náà sì gbé so dé òrun.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Àwọn ọkùnrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "kú"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "wọ́n lu wọn"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "pẹ̀lú àwọn fùrọ̀"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "sì gbé so dé"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "ìkígbe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú náà"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "òrun"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:45.945059732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ó sì ṣe ⟨את⟩ àwọn ọ̀tún-bátàn nípa igi shittim, ó sì bo ⟨את⟩ wọn inú wúrà.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀tún-bátàn"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "àwọn ọ̀tún-bátàn"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "igi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ó sì bo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn ọ̀tún-bátàn)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:31.097577068Z",
+  "model": "glm-5.3"
+}

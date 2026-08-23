@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 97,
+  "translation": "Kúrùkúrù àti òkùnkùn ⟨ń⟩ yí i ká, ẹ̀tọ́ àti ìdájọ́ ni ipilẹ̀ ìtìgbà rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "kúrùkúrù"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "àti òkùnkùn"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "yí i ká"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ẹ̀tọ́"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "àti ìdájọ́"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ipilẹ̀"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ìtìgbà rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:48:05.138710729Z",
+  "model": "glm-5.3"
+}

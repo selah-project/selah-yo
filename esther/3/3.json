@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Àwọn ìránṣẹ́ ọba tí ó wà ní ìbodè ọba sọ̀rọ̀ sí Mordekai pé, Èṣé tí ìwọ ń ṣẹ́ ⟨את⟩ àṣẹ ọba?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "sọ̀rọ̀ sí"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ní ìbodè"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "fún Mordekai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "èṣé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ń ṣẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àṣẹ ọba"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "àṣẹ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T04:45:11.880205299Z",
+  "model": "glm-5.3"
+}

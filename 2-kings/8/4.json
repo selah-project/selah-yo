@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ọba náà sì ń bá Gechazi, ọmọ-ọdọ ọkùnrin Elohim, sọ̀rọ̀, wí pé: Jọwọ́, ká àlàyé fún mi ⟨את⟩ gbogbo àwọn nǹkan ńlá tí Elisha ṣe.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ń bá … sọ̀rọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gechazi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ọmọ-ọdọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "ká àlàyé"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jọwọ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn nǹkan ńlá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "àwọn nǹkan ńlá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:53.986771070Z",
+  "model": "glm-5.3"
+}

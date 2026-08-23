@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Àti awo àwọn ágùtàn-male tí a fi pupa, àti awo techashim, àti igi shittim;",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "àti awo"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "àwọn ágùtàn-male (eyilim)"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "tí a fi pupa (meadamim)"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "àti awo"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "techashim"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "àti igi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:25:14.407946165Z",
+  "model": "glm-5.3"
+}

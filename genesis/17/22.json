@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Òun sì parí sísọ ọ̀rọ̀ pẹ̀lú ⟨את⟩ rẹ̀, Elohim sì gòkè láti ọ̀dọ̀ Avraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "parí"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sísọ ọ̀rọ̀"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ rẹ̀",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "gòkè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "láti ọ̀dọ̀"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-22T22:59:28.005812592Z",
+  "model": "glm-5.3"
+}

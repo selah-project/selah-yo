@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Israẹli sì wá sí Mitsrayim, Yaakov sì ń ṣe àlejò nínú ilẹ̀ Cham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "sì wá sí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakov sì"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ń ṣe àlejò"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nínú ilẹ̀"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:42.030271529Z",
+  "model": "glm-5.3"
+}

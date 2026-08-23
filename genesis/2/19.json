@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 2:19",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Yahweh Elohim sì ṣe láti ilẹ̀ ayé gbogbo ẹranko igbó àti ⟨את⟩ gbogbo ẹyẹ ọ̀run; Ó sì mú wá sọ́dọ̀ adamu láti rí i pé ohun tí ó gbọ́dọ̀ pè é; àti ohunkóhun tí adamu bá pè ní ọ̀rọ̀ ohun-alàyè, íyẹn ni orúkọ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "ó sì ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ilẹ̀ ayé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ẹranko"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "igbó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ẹyẹ ọ̀run"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ẹyẹ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "Ó sì mú wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sọ́dọ̀"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "láti rí i pé"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ó gbọ́dọ̀ pè é"
+    },
+    {
+      "surface": "לו",
+      "gloss": "——"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti ohunkóhun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tó"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bá pè ní ọ̀rọ̀"
+    },
+    {
+      "surface": "לו",
+      "gloss": "——"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ohun-alàyè"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "alàyè"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "íyẹn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:19.289037488Z",
+  "model": "glm-5.3"
+}

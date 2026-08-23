@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Yahweh sì wí fún Moshe: Bẹ́ẹ̀ ni iwọ máa wí fún àwọn ọmọ Yisrael: Ẹ̀yin ti rí pé láti ọ̀run ni mo ti bá yín sọ̀rọ̀.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Bẹ́ẹ̀"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "máa wí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Ẹ̀yin"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ti rí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mo ti sọ̀rọ̀"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bá yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:41.039850150Z",
+  "model": "glm-5.3"
+}

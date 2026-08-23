@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Yahweh sì wí pé: Ṣé ó wù ọ́ láti bínú bẹ́ẹ̀?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "ṣé ó wù ọ́ láti"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "bínú"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bẹ́ẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:09:56.007409146Z",
+  "model": "glm-5.3"
+}

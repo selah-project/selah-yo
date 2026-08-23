@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Nítorí Yahweh ti da ⟨את⟩ ògo Yaakov padà, gẹ́gẹ́ bí ògo Yisrael; nítorí pé àwọn olúṣọ̀fọ̀ ti sọ wọn ru, wọ́n sì ti ba àwọn ẹ̀ka igbẹ́ wọn jẹ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ti da ... padà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ògo Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ògo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "gẹ́gẹ́ bí ògo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "ti sọ wọn ru"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "àwọn olúṣọ̀fọ̀"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "àwọn ẹ̀ka igbẹ́ wọn sì"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "wọ́n ti ba ... jẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:14:06.657734719Z",
+  "model": "glm-5.3"
+}

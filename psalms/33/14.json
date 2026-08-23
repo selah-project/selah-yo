@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Láti ibùgbé ìjókòyẹ rẹ̀, ó tẹjú mọ́ gbogbo àwọn tí wọ́n ń gbé ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Láti ibùgbé"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "ìjókòyẹ rẹ̀"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "ó tẹjú mọ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn tí wọ́n ń gbé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:56.521340879Z",
+  "model": "glm-5.3"
+}

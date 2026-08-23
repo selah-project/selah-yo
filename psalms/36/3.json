@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Nítorí tí ó fi ra ara rẹ̀ lọ́mọ́ nínú ojú rẹ̀, láti lè rí ìwà búburú rẹ̀ láti kórìíra á.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí tí"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "fi ra ara rẹ̀ lọ́mọ́"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ara rẹ̀"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "nínú ojú rẹ̀"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "láti lè rí"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ìwà búburú rẹ̀"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "láti kórìíra á"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:53.200868740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 48,
+  "translation": "Jẹ́ kí òkè Tsiyon yọ̀ ayọ̀, jẹ́ kí àwọn ọmọbìnrin Yehudah dùn lọ́kàn, nítorí ìdájọ́ Rẹ.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "jẹ́ kí ... yọ̀ ayọ̀"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "jẹ́ kí ... dùn lọ́kàn"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "àwọn ọmọbìnrin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ìdájọ́ Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:04.729500283Z",
+  "model": "glm-5.3"
+}

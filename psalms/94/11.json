@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 94,
+  "translation": "Yahweh mọ́ ìròrí ènìyàn, pé wọ́n jẹ́ ìṣòfo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ́"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ìròrí"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wọ́n"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ìṣòfo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:55.089926016Z",
+  "model": "glm-5.3"
+}

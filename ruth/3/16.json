@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì wá sọ́dọ̀ ìyá ọkọ rẹ̀, ó sì sọ pé, Ta ni ìwọ, ọmọbinmi? Ó sì sọ fún un ⟨את⟩ gbogbo ohun tí ọkùnrin náà ṣe fún un.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "Ó sì wá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sọ́dọ̀"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "ìyá ọkọ rẹ̀"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ó sì sọ pé"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ta ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ọmọbinmi"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "Ó sì sọ fún un"
+    },
+    {
+      "surface": "לה",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ohun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ṣe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ọkùnrin náà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:35:22.558362590Z",
+  "model": "glm-5.3"
+}

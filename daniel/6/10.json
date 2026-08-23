@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Nítorí èyí, Darius ọba fi ìdí-ẹ̀sì sí ìwé náà àti ìlànà náà.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "⟨èyí⟩"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Darius"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "fi ìdí-ẹ̀sì sí"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ìwé náà"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "àti ìlànà náà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:52:25.184885950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 14:9",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Tí wọ́n bá wí báyìí sí wa pé, \"Dúró tí a fi dé ọ̀dọ̀ yín,\" nígbà náà ni a ó dúró ní ipò wa, a kì í sì gbé sókè sí wọn.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tí"
+    },
+    {
+      "surface": "כה",
+      "gloss": "báyìí"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wí"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sí wa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tí a fi"
+    },
+    {
+      "surface": "הגיענו",
+      "gloss": "dé"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ọ̀dọ̀ yín"
+    },
+    {
+      "surface": "ועמדנו",
+      "gloss": "a ó dúró"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "ní ipò wa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í sì"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "gbé sókè"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:48:25.641036384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Wọ́n bèèrè, ó sì mú àwọn ẹyẹ abẹ́lẹ́ wá, ó sì kún wọ́n lóore pẹ̀lú oúnjẹ ọ̀run.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Wọ́n bèèrè"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ó sì mú ... wá"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "àwọn ẹyẹ abẹ́lẹ́"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "pẹ̀lú oúnjẹ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "ó sì kún wọ́n lóore"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:44.526849402Z",
+  "model": "glm-5.3"
+}

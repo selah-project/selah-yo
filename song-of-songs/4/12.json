@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ọgbà tí ó pa mọ́ ní arábìnrin mi, aya mi; ìsàlẹ̀ tí ó pa mọ́ ní, orísun tí ó fì í mọ́.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "ọgbà"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "tí ó pa mọ́ ní"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "arábìnrin mi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "aya mi"
+    },
+    {
+      "surface": "גל",
+      "gloss": "ìsàlẹ̀ tí ó pa mọ́ ní"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "tí ó pa mọ́ ní"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "orísun"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "tí ó fì í mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:32:01.182411349Z",
+  "model": "glm-5.3"
+}

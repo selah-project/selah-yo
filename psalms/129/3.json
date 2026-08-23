@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 129,
+  "translation": "Lórí ẹ̀yìn mi ni àwọn ọ̀dọ̀ ṣẹ̀ṣẹ́ lápálápá; wọ́n gbẹ́ ìlà wọn gbà.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Lórí"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "ẹ̀yìn mi"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "ṣẹ̀ṣẹ́ lápálápá"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "àwọn ọ̀dọ̀"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "wọ́n gbẹ́ … gbà"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "ìlà wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:07.147021398Z",
+  "model": "glm-5.3"
+}

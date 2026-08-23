@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Kí wọn sì fi ẹbùn ìdúpẹ́ ṣe ẹbọ, kí wọn sì sọ àwọn iṣẹ́ rẹ̀ hàn ní àríyànjiyàn.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "kí wọn sì ṣe ẹbọ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ẹbùn ẹbọ"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ìdúpẹ́"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "kí wọn sì sọ ... hàn"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "àwọn iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ní àríyànjiyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:43.205347945Z",
+  "model": "glm-5.3"
+}

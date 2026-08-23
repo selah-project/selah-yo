@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Àwọn ọ̀tá mi ń sọ ìbúbùrú nípa mi, wọ́n ń wí pé, Nígbàwo ni ó máa kú, kí orúkọ rẹ̀ sì parun?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "àwọn ọ̀tá mi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ń sọ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ìbúbùrú"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nípa mi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nígbàwo"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ó máa kú"
+    },
+    {
+      "surface": "ו אבד",
+      "gloss": "kí ... parun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "orúkọ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:08.373596172Z",
+  "model": "glm-5.3"
+}

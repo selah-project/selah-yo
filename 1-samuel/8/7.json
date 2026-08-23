@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Yahweh sì wí fún Shemuuel pé: Gbọ́ ohùn ènìyàn náà nítorí gbogbo tí wọ́n bá wí fún ọ; nítorí pé kì í ṣe ⟨את⟩ìwọ wọ́n kọ̀ sílẹ̀, ṣùgbọ́n ⟨את⟩emi ni wọ́n kọ̀ sílẹ̀, láti máa jọba lórí wọn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn náà"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nítorí gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wọ́n bá wí"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ìwọ",
+      "marks": "wọ́n kọ̀ sílẹ̀ (máasú àwọn ènìyàn)"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "wọ́n kọ̀ sílẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ṣùgbọ́n"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩emi",
+      "marks": "wọ́n kọ̀ sílẹ̀ (máasú sí Yahweh)"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "wọ́n kọ̀ sílẹ̀"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "láti máa jọba"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lórí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:18.937388695Z",
+  "model": "glm-5.3"
+}

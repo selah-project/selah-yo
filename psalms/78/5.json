@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó gbé ẹ̀rí dúró ní Yaakov, ó sì fi òfin sílẹ̀ ní Yisrael, èyí tí ó pàṣẹ fún ⟨את⟩ àwọn baba wa, láti jẹ́ kí wọ́n mọ̀ wọn fún àwọn ọmọ wọn.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ó gbé… dúró"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ẹ̀rí"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ní Yaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "òfin sì"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ó fi sílẹ̀"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ní Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ó pàṣẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn baba wa"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "àwọn baba wa"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "láti jẹ́ kí wọ́n mọ̀ wọn"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "fún àwọn ọmọ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:04.386542797Z",
+  "model": "glm-5.3"
+}

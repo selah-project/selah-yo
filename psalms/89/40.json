@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "O ti ṣọ́ májẹ̀mù ìránṣẹ́ rẹ lọ́nà ìkọ̀, o ti ṣẹ́ ìdíàjí rẹ̀ sí ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "o ti ṣọ́ lọ́nà ìkọ̀"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "májẹ̀mù"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "o ti ṣẹ́"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sí ilẹ̀ ayé"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ìdíàjí rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:42.596888935Z",
+  "model": "glm-5.3"
+}

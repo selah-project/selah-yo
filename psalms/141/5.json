@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 141,
+  "translation": "Ki ẹni-òdodo lù mí ní chesed, kí ó sì ṣààríwísí mí; epo orí ni, má ṣe jẹ́ kí orí mi kọ̀ ọ́; nítorí tí ìgbàdùn miì tún wà ní ìwà búburú wọn.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "jẹ́ kí ó lù mí"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ẹni-òdodo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "kí ó sì ṣààríwísí mí"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "epo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "יני",
+      "gloss": "kọ̀"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "orí mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ìgbà míì tún"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "ìgbàdùn mi"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "ní ìwà búburú wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:20.793382689Z",
+  "model": "glm-5.3"
+}

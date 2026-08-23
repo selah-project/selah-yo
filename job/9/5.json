@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ẹni tí ń yọ ⟨את⟩ àwọn òkè kúrọ́, wọ́n sì kò mọ, tí ó gbé wọ́n yọ ní bínú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "Ẹni tí ń yọ kúrọ́"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sì kò"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wọ́n mọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "gbé wọ́n yọ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ní bínú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:18:13.661212489Z",
+  "model": "glm-5.3"
+}

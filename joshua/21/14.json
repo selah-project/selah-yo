@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "àti ⟨את⟩ Yattir pẹ̀lú ⟨את⟩ ilẹ̀ rẹ̀, àti ⟨את⟩ Eshtemoa pẹ̀lú ⟨את⟩ ilẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Yattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pẹ̀lú ⟨את⟩",
+      "marks": "ilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pẹ̀lú ⟨את⟩",
+      "marks": "ilẹ̀ rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ilẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:29:57.571960090Z",
+  "model": "glm-5.3"
+}

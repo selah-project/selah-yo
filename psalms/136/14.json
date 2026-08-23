@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 136,
+  "translation": "Ó sì mú Yisrael kọjá ní àárín rẹ̀, nítorí chesed rẹ̀ dúró títí láé láé.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "Ó sì mú … kọjá"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "ní àárín rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láé láé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:08.532278784Z",
+  "model": "glm-5.3"
+}

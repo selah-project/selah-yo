@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 11:12",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Àti ní gbogbo ìlú kọ̀ọ̀kan, ó gbé àwọn àtètèńlá àti àwọn ọ̀dà sísọ; ó sì mú wọn ní agbára púpọ̀ gan-an; Yehudah àti Binyamin sì jẹ́ ti ìlú-òun.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Àti ní gbogbo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "kọ̀ọ̀kan"
+    },
+    {
+      "surface": "צנות",
+      "gloss": "àwọn àtètèńlá"
+    },
+    {
+      "surface": "ורמחים",
+      "gloss": "àti àwọn ọ̀dà sísọ"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "Ó sì mú wọn ní agbára"
+    },
+    {
+      "surface": "להרבה",
+      "gloss": "púpọ̀"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gan-an"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sì jẹ́ ti ìlú-òun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ti ìlú-òun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "àti Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-23T05:25:33.542960348Z",
+  "model": "glm-5.3"
+}

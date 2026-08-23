@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 121,
+  "translation": "Yahweh yóò ṣọ́ ìnínú rẹ àti ìpadà rẹ, láti ìsinsin yìí dé ìgbà tí kò ní ìparí.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "yóò ṣọ́"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "ìnínú rẹ"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "àti ìpadà rẹ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "láti ìsinsin yìí"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ìgbà tí kò ní ìparí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:01.185368822Z",
+  "model": "glm-5.3"
+}

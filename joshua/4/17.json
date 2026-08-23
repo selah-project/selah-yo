@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Yehoshua sì pa ⟨את⟩ àwọn àlùfáà ní pé, ẹ sọ́kọ̀ láti inú Jordani.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "sì pa àṣẹ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn àlùfáà"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ní pé"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ẹ sọ́kọ̀"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti inú"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordani"
+    }
+  ],
+  "timestamp": "2026-08-23T00:22:49.567145992Z",
+  "model": "glm-5.3"
+}

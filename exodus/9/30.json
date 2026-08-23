@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ṣùgbọ́n ìwọ àti àwọn ìránṣẹ́ rẹ, mo mọ̀ pé ẹ kì í ti ẹrù láti ojú Yahweh, Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ṣùgbọ́n ìwọ"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "àti àwọn ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mo mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "kì í ti"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "ẹrù"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "láti ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:59.633538593Z",
+  "model": "glm-5.3"
+}

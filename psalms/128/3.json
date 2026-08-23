@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 128,
+  "translation": "Ìyàwọ rẹ gẹ́gẹ́ bí ọ̀gbìn èso tí ó ṣe éṣe ní àwọn etí ilé rẹ; àwọn ọmọ rẹ gẹ́gẹ́ bí àwọn ọ̀dọ̀ tí ó wúwo, káàkiri ní ìkànlẹ̀ tábìlì rẹ.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "ìyàwọ rẹ"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "gẹ́gẹ́ bí ọ̀gbìn"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "tí ó ṣe éṣe"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "ní àwọn etí"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ilé rẹ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "àwọn ọmọ rẹ"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "gẹ́gẹ́ bí àwọn ọ̀dọ̀ tí ó wúwo"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "olíu (èso ọ̀rọ̀)"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "káàkiri"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "ní ìkànlẹ̀ tábìlì rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:42.442871617Z",
+  "model": "glm-5.3"
+}

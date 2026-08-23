@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ejò náà sì wí fún obìnrin náà: Kì í ṣe ikú ni ẹ ó kú o.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Ejò náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "obìnrin náà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Kì í ṣe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ikú"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ẹ ó kú o"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:30.005844137Z",
+  "model": "glm-5.3"
+}

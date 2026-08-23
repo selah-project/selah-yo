@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "àwọn ìjọba-orí-dídì, àti àwọn ẹsẹ̀-ẹ̀wọ̀n, àti àwọn ìbora, àti àwọn apótí ìtọ́jú-ara, àti àwọn àmùlẹ̀ ìlànà.",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "àwọn ìjọba-orí-dídì"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "àwọn ẹsẹ̀-ẹ̀wọ̀n"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "àwọn ìbora"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "àwọn apótí"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "itọ́jú-ara (nefesh)"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "àwọn àmùlẹ̀ ìlànà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:06.370335614Z",
+  "model": "glm-5.3"
+}

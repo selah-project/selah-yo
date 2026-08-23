@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 82,
+  "translation": "Èmi ni mo sọ pé, 'Ẹ̀yin ni ọlọ́run, ẹ̀yin gbogbo ni ẹlọmọ El Elyon.'",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mo sọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ọlọ́run"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ẹlọmọ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ẹ̀yin gbogbo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:11.166686991Z",
+  "model": "glm-5.3"
+}

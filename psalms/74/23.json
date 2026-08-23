@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 74,
+  "translation": "Má ṣe gbagbé ohùn ọ̀tá rẹ; ìdàrùdàrù àwọn tí ó dọ́ke sí ọ́ ń gòkè láìní ìdúnàdí nígbà gbogbo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "gbagbé"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ọ̀tá rẹ"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ìdàrùdàrù"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "àwọn tí ó dọ́ke sí ọ́"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ń gòkè"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nígbà gbogbo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:09.235539529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Wo ⟨את⟩ iṣẹ́ Elohim, nítorí ta ni lè tún ⟨את⟩ èyí tí ó ti tú kà ṣe ó tọ́?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣẹ́ Elohim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "tún... ṣe ó tọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èyí tí ó ti tú kà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "ó ti tú kà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:00.956463138Z",
+  "model": "glm-5.3"
+}

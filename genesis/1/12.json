@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 1:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ilẹ̀ sì mú koríko dàgbà, àwọn èso koríko tí ó ń ta irúgbìn nípa irú rẹ̀, àti igi tí ó ń ṣe èso tí irúgbìn rẹ̀ wà nínú rẹ̀ nípa irú rẹ̀; Elohim sì rí i pé o dára.",
+  "tokens": [
+    {
+      "surface": "ותוצא",
+      "gloss": "sì mú dàgbà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Ilẹ̀"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "koríko dàgbà"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "èso koríko"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "ń ta"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "irúgbìn"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "nípa irú rẹ̀"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "àti igi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "èso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "irúgbìn rẹ̀"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wà nínú rẹ̀"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "nípa irú rẹ̀"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "sì rí i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "o dára"
+    }
+  ],
+  "timestamp": "2026-08-23T05:38:54.806129328Z",
+  "model": "glm-5.3"
+}

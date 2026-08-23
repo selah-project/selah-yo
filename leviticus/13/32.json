@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "kí àlùfáà sì wo ⟨את⟩ àànù náà ní ọjọ́ kẹ́jọ, kí ó sì yẹ wò ó: tí èérí náà kò bá tíì tan kálẹ̀, tí irún wúrà kò sì sí nínú rẹ̀, tí àríwà èérí náà kò sì fi jìnjà ju ara lọ,",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kí àlùfáà sì wo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àànù náà"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "àànù náà"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "kẹ́jọ (ìgbà ìkẹyìn)"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kí ó sì yẹ wò ó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "tíì tan kálẹ̀"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "èérí náà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "שער",
+      "gloss": "irún"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "tí àríwà"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "èérí náà"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "jìnjà"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ju"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ara lọ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:40:08.354307425Z",
+  "model": "glm-5.3"
+}

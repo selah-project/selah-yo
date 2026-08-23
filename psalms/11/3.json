@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Nítorí tí wọ́n ń yọ ilẹ̀-ìpilẹ̀ṣẹ̀ kúrò; ẹnití ó tọ́ — èwo ni iṣẹ́ rẹ̀?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí tí"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "ilẹ̀-ìpilẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "wọ́n ń yọ kúrò"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ẹnití ó tọ́"
+    },
+    {
+      "surface": "מה",
+      "gloss": "èwo"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "iṣẹ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:44.266633790Z",
+  "model": "glm-5.3"
+}

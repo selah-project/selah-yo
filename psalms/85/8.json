@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 85,
+  "translation": "Fí hàn wa, Yahweh, chesed rẹ, kí o sì fún wa ní ìgbàlà rẹ.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Fí hàn wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed rẹ"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "kí o sì ... ní ìgbàlà rẹ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:21.068269584Z",
+  "model": "glm-5.3"
+}

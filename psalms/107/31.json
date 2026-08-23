@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Ki wọ́n dúpẹ́ fún Yahweh nítorí chesed rẹ̀, àti àwọn iṣẹ́ ìyanu rẹ̀ fún àwọn ọmọ ènìyàn.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Ki wọ́n dúpẹ́"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed rẹ̀"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "àti àwọn iṣẹ́ ìyanu rẹ̀"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fún àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:25.208716293Z",
+  "model": "glm-5.3"
+}

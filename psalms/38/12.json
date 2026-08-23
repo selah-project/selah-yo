@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Àwọn olùfẹ́ mi àti ọ̀rẹ́ mi dúró sọ́dọ̀ àrùn mi, dúró jìnnà; àwọn ẹbí mi sì láìníwọ̀nsíwọ̀n dúró jìnà.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "àwọn olùfẹ́ mi"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "àti ọ̀rẹ́ mi"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "láìníwọ̀nsíwọ̀n (sọ́dọ̀)"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "àrùn mi"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "àwọn ẹbí mi sì"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "jìnà"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "dúró"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:22.135939363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Ìròlé àti àárọ̀, àti òsán ni mo máa ń ṣe àgbálọ̀wọ́, mo sì máa ń kígbe; Ó sì gbọ́ ohùn mi.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ìròlé"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "àti àárọ̀"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "àti òsán"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mo máa ń ṣe àgbálọ̀wọ́"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "mo sì máa ń kígbe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "Ó sì gbọ́"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ohùn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:02.224191717Z",
+  "model": "glm-5.3"
+}

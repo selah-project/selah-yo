@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Àwọn Filistini dí mọ́ ⟨את⟩ Shaúl àti ⟨את⟩ àwọn ọmọ rẹ̀, àwọn Filistini sì lu ⟨את⟩ Yehonatan, àti ⟨את⟩ Avinadav, àti ⟨את⟩ Malkishua, àwọn ọmọ Shaúl.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "dí mọ́"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Filistini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaúl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "sì lu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Filistini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Malkishua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "timestamp": "2026-08-23T00:57:56.446715128Z",
+  "model": "glm-5.3"
+}

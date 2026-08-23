@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ìwọ ti fi wéré sí gbogbo àwọn tí ń ṣiṣẹ́ kúrò nínu òfin rẹ; nítorí pé ìṣẹ̀ke ni ètan wọn.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Ìwọ ti fi wéré sí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "àwọn tí ń ṣiṣẹ́ kúrò"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "nínu òfin rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ìṣẹ̀ke"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "ètan wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:16.403354258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Àwọn tí a gbọ́, tí a sì mọ̀, àti tí àwọn baba wa sọ fún wa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "a gbọ́"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "ti a sì mọ̀ wọ́n"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "àti tí àwọn baba wa"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "sọ fún"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:51.717249676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Yahweh Elohim rẹ yóò fi í sílẹ̀ ní ọwọ́ rẹ, ìwọ sì gbọ́n ⟨את⟩ gbogbo ọkùnrin rẹ̀ pẹ̀lú ẹ̀gbẹ́ idà.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "yóò fi í sílẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ní ọwọ́ rẹ"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ìwọ sì gbọ́n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọkùnrin rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "ọkùnrin rẹ̀"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pẹ̀lú ẹ̀gbẹ́"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:45:37.422358421Z",
+  "model": "glm-5.3"
+}

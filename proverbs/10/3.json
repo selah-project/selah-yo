@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Yahweh kì í jẹ́ kí ọkàn ẹnì olóòtítọ́ ebi; ṣùgbọ́n ìfẹ́kúfẹ́ àwọn ènìyàn búburú ni yóò kọ̀ sẹ́yìn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "jẹ́ kí … ebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olóòtítọ́"
+    },
+    {
+      "surface": "והות",
+      "gloss": "ṣùgbọ́n ìfẹ́kúfẹ́"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn ènìyàn búburú"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "kọ̀ sẹ́yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:05:26.515390767Z",
+  "model": "glm-5.3"
+}

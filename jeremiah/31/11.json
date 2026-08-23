@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Nítorí Yahweh ti ra ⟨את⟩ Yaakov, ó sì ti gbà á lọ́wọ́ alágbára tí ó lè ju ú lọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ti ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "ó sì ti gbà á"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "alágbára"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tí ó lè ju ú lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:20:04.310122167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Yahweh, ìwọ ló yóò sọ àlàáfíà sílẹ̀ fún wa; nítorí gbogbo iṣẹ́ wa ni ìwọ ti ṣe fún wa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "ìwọ ló yóò sọ sílẹ̀"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "àlàáfíà"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "iṣẹ́ wa"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ìwọ ti ṣe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    }
+  ],
+  "timestamp": "2026-08-23T01:48:27.718594664Z",
+  "model": "glm-5.3"
+}

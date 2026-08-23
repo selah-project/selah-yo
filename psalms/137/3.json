@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 137,
+  "translation": "Nítorí níbẹ̀ ni àwọn olúgbé-wa-lẹ́rùńgbẹ́ béèrè àwọn ọ̀rọ̀ orin lọ́wọ́ wa, àti àwọn arídúnú wa béèrè ayọ̀, wọ́n wí pé: Ẹ kọ orin lára àwọn orin Tsiyon fún wa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "wọ́n béèrè lọ́wọ́ wa"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "àwọn olúgbé-wa-lẹ́rùńgbẹ́"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "àti àwọn arídúnú wa"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ayọ̀"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ẹ kọ orin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "lára àwọn orin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:35.016382882Z",
+  "model": "glm-5.3"
+}

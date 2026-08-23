@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì wọ dé tíwájú ọ̀nà-ọ̀ná ọba náà; nítorí pé kò sí ìyọ̀nà láti wọ inú ọ̀nà-ọ̀ná ọba náà ní aṣọ sáàkì.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "sì wọ dé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tíwájú"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọ̀nà-ọ̀ná"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ìyọ̀nà láti wọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inú"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọ̀nà-ọ̀ná"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "ní aṣọ"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sáàkì"
+    }
+  ],
+  "timestamp": "2026-08-23T04:45:07.928671883Z",
+  "model": "glm-5.3"
+}

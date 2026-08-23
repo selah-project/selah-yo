@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 91,
+  "translation": "Ó ó pè mí, èmi yóò sì dáhùn; èmi ni yóò wà pẹ̀lú rẹ̀ nínú ìṣòro; èmi yóò gbà á là, èmi yóò sì fi ọlá bù ú.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "ó ó pè mi"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "èmi yóò sì dáhùn"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi ni"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "nínú ìṣòro"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "èmi yóò gbà á là"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "èmi yóò sì fi ọlá bù ú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:45.430879755Z",
+  "model": "glm-5.3"
+}

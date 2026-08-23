@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ẹ kì í gbọdọ̀ gé etí orí yín ká, ẹ kì í sì gbọdọ̀ ṣègbé ⟨את⟩ etí igbà yín.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í gbọdọ̀"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "ẹ gé ká"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "etí"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "orí yín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ẹ kì í sì gbọdọ̀"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "ẹ ṣègbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etí igbà yín"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "etí"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "igbà rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:01.822688699Z",
+  "model": "glm-5.3"
+}

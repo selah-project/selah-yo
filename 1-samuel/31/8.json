@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 31,
+  "translation": "Ó sì wáyé ní ọjọ́ ìsíwájú pé àwọn Filistini wá láti yọ àwọn ènìyàn ìjà tí wọ́n pa nínú ⟨את⟩ nǹkan wọn, wọ́n sì rí ⟨את⟩ Shaúl àti ⟨את⟩ àwọn ọmọ rẹ̀ mẹ́ta tí wọ́n ṣubú lórí òkè Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wáyé"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ní ọjọ́ ìsíwájú"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wá"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Filistini"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "láti yọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn tí wọ́n ti pa"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "àwọn tí wọ́n ti pa"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaúl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ rẹ̀ mẹ́ta"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "tí wọ́n ṣubú"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "lórí òkè"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-23T00:57:49.293493171Z",
+  "model": "glm-5.3"
+}

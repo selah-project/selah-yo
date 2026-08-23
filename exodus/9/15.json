@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Nítorí tí mo ti fi ⟨את⟩ ọwọ́ mi jáde láti lu ọ ⟨את⟩ àti ⟨את⟩ ènìyàn rẹ pẹ̀lú ààrùn, kí o baà parun kúrò láyé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ní ìgbà yìí"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mo ti fi jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọwọ́ mi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "láti lu"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ènìyàn rẹ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ènìyàn rẹ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "pẹ̀lú ààrùn"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "kí o baà parun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò láti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:04.118066449Z",
+  "model": "glm-5.3"
+}

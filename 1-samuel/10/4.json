@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Wọn yóò kí ọ ní àlàáfíà, wọn yóò sì fún ọ ní búrẹ́dì méjì; ìwọ sì yóò gba wọn lọ́wọ́ wọn.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "wọn yóò kí ọ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ní àlàáfíà"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "wọn yóò sì fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "méjì"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "búrẹ́dì"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ìwọ sì yóò gba"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "lọ́wọ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:47:03.602456332Z",
+  "model": "glm-5.3"
+}

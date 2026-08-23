@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Gbogbo àwọn tí ń kọja lọ́nà ti jà mú un; ó ti di àbukú fún àwọn aládùúgbò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "ti jà mú un"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "àwọn tí ń kọja"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lọ́nà"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ó ti di"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "àbukú"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "fún àwọn aládùúgbò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:09.958341980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 3:18",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì wáyé, nígbà tí ó parí láti gbé ⟨את⟩ ẹ̀bùn náà wá, ó sì fi ⟨את⟩ àwọn ènìyàn tí ń ru ẹ̀bùn náà lọ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wáyé"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ó parí"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "láti gbé … wá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀bùn náà"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ẹ̀bùn náà"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ó sì fi … lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn náà"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "tí ń ru"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ẹ̀bùn náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:33:19.974384451Z",
+  "model": "glm-5.3"
+}

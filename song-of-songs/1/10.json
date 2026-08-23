@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Lẹ́ẹ̀ rẹ rẹ̀wà pẹ̀lú àwọn tor, ọrún rẹ pẹ̀lú àwọn ìlẹ̀kẹ̀ haruz.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "rẹ̀wà"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "lẹ́ẹ̀ rẹ"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "pẹ̀lú àwọn tor"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "ọrún rẹ"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "pẹ̀lú àwọn ìlẹ̀kẹ̀ haruz"
+    }
+  ],
+  "timestamp": "2026-08-23T04:31:45.537008105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Elohim mi, gbà mí là lọ́wọ́ ẹlẹ́ṣẹ̀, lọ́wọ́ ọwọ́ ènìyàn aláṣẹ́-àìtọ́ àti olùjẹ́gbedo.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "gbà mí là"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "lọ́wọ́"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ẹlẹ́ṣẹ̀"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "lọ́wọ́ ọwọ́"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "ènìyàn aláṣẹ́-àìtọ́"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "àti olùjẹ́gbedo"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:49.764120986Z",
+  "model": "glm-5.3"
+}

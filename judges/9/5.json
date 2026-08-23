@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 9:5",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ó sì wọ ilé bàbá rẹ̀ ní Ofrá, ó sì pa ⟨את⟩ àwọn ará rẹ̀, àwọn ọmọ Yerubbaal, ọkùnrin àádọ́rin, lórí ọ̀kan okúta; Jotam ọmọ Yerubbaal tí ó kéré sìi kú, nítorí tí ó farapamọ́.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ó sì wọ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bàbá rẹ̀"
+    },
+    {
+      "surface": "עפרתה",
+      "gloss": "ní Ofrá"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ó sì pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ará rẹ̀"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "àwọn ará rẹ̀"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "àádọ́rin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "okúta"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ọ̀kan"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "sì kú"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "tí ó kéré"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "נחבא",
+      "gloss": "ó farapamọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:35:51.719649441Z",
+  "model": "glm-5.3"
+}

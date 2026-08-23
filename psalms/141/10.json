@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 141,
+  "translation": "Jẹ́ kí àwọn ènìyàn búburú ṣubú sínu àwọn ìdìnlẹ̀ ara wọn, nígbà tí emi náà yoo ṣàgbégba kọjá.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Jẹ́ kí ... ṣubú"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "sínu àwọn ìdìnlẹ̀ ara wọn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn ènìyàn búburú"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "papọ̀"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "emi náà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nígbà tí"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ṣàgbégba kọjá"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:42.950280418Z",
+  "model": "glm-5.3"
+}

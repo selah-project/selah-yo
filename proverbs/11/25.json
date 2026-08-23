@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ẹ̀mí olùbùkún yóò somi pọ̀; ẹni tí ó ń rọ ⟨omí⟩, òun náà yóò rọ ⟨ọ̀sán⟩.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "olùbùkún"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "yóò somi pọ̀"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "ẹni tí ó ń rọ ⟨omí⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "náà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "yóò rọ ⟨ọ̀sán⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T04:06:59.821770531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Ẹ yẹ kúrò nínú ọ̀nà, ẹ yí kúrò nínú ọ̀nà ìrìn, ẹ jẹ́ kí ⟨את⟩ Mímọ́ Israẹli dúró kúrò ojú wa.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "ẹ yẹ kúrò"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nínú"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ẹ yí kúrò"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nínú"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ọ̀nà ìrìn"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "ẹ jẹ́ kí ó dúró"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "kúrò ojú wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mímọ́ Israẹli"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mímọ́"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    }
+  ],
+  "timestamp": "2026-08-23T01:50:28.231774745Z",
+  "model": "glm-5.3"
+}

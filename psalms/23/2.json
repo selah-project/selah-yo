@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ní àwọn pásátọ̀ korokoro, Ó mú mi gbẹ́dọ̀; lẹ́gbẹ̀ẹ omi ìsinmi, Ó ṣe àtọ́na mí.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "Ní àwọn pásátọ̀"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "korokoro"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "Ó mú mi gbẹ́dọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lẹ́gbẹ̀ẹ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "omi"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "ìsinmi"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "Ó ṣe àtọ́na mí"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:34.587723739Z",
+  "model": "glm-5.3"
+}

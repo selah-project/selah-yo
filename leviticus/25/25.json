@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Nítorí tí arákùnrin rẹ kùdíndùn, ó sì ta láti inú ohun-ìní rẹ̀, tí olùgbàlà rẹ̀ tí ó súnmọ́ sí i sì bá, ó sì gbà ⟨את⟩ ohun-títà ti arákùnrin rẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí tí"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "kùdíndùn"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "arákùnrin rẹ"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "ó sì ta"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "láti inú ohun-ìní rẹ̀"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "tí ó sì bá"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "olùgbàlà rẹ̀"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "tí ó súnmọ́"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "ó sì gbà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun-títà ti arákùnrin rẹ"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "ohun-títà"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ti arákùnrin rẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:46:39.438735108Z",
+  "model": "glm-5.3"
+}

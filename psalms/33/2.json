@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ẹ dúpẹ́ lọ́wọ́ Yahweh pẹ̀lú kinnor; pẹ̀lú nevel tí ó ní ìlà mẹ́wàá, ẹ kọ orin fún Un.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Ẹ dúpẹ́ lọ́wọ́"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "pẹ̀lú kinnor"
+    },
+    {
+      "surface": "بנבל",
+      "gloss": "pẹ̀lú nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "tí ó ní ìlà mẹ́wàá"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ẹ kọ orin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún Un"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:06.604257367Z",
+  "model": "glm-5.3"
+}

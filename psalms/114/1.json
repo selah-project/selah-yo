@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 114,
+  "translation": "Nígbà tí Yisrael jáde láti Mitzrayim, ilé Yaakov láti àwọn ènìyàn ti èdè àjèjì,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Nígbà tí ó jáde kúrò"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "láti Mitzrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "láti àwọn ènìyàn"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "ti èdè àjèjì"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:53.026883576Z",
+  "model": "glm-5.3"
+}

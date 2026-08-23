@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "⟨את⟩ Chelkat àti ⟨את⟩ àgbèèrù rẹ̀, àti ⟨את⟩ Rechov àti ⟨את⟩ àgbèèrù rẹ̀; ìlú mẹ́rin",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Chelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àgbèèrù rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "àgbèèrù rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rechov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àgbèèrù rẹ̀"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "àgbèèrù rẹ̀"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mẹ́rin"
+    }
+  ],
+  "timestamp": "2026-08-23T00:30:06.080316249Z",
+  "model": "glm-5.3"
+}

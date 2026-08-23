@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Nígbà tí ó sì wà ní ìdà rẹ̀, láì jẹ́ wíwọ́, ó máa ń gbẹ̀ kí gbogbo koríko yòókù ó tó gbẹ́.",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "nígbà tí ó sì wà"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "ní ìdà rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "láì"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "wíwọ́"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "kí…ó tó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "koríko"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "gbẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:16:56.960464424Z",
+  "model": "glm-5.3"
+}

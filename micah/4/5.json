@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Nítorí gbogbo àwọn orílẹ̀-èdè yóò rìn, ẹni kọ̀ọ̀kan nínú orúkọ elohim rẹ̀; ṣùgbọ́n àwa, àwa yóò rìn nínú orúkọ Yahweh Elohim wa títí láé láé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "yóò rìn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni kọ̀ọ̀kan"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nínú orúkọ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "elohim rẹ̀"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ṣùgbọ́n àwa"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "àwa yóò rìn"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nínú orúkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "láé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:11:13.258403804Z",
+  "model": "glm-5.3"
+}

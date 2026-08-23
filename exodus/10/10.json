@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó sọ fún wọn pé: kí Yahweh ṣe bẹ́ẹ̀ pẹ̀lú yín, bí mo bá ń fi yín àti ⟨את⟩ àwọn ọmọdé yín lọ; ẹ wo, nítorí ìbúbúrú wà níwájú ojú yín.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sọ fún wọn"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kí ó ṣe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pẹ̀lú yín"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ń fi lọ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọdé yín"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "àwọn ọmọdé yín"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ẹ wo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ìbúbúrú"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "níwájú"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "ojú yín"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:21.833376351Z",
+  "model": "glm-5.3"
+}

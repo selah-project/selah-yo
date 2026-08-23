@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó sì bo ⟨את⟩ ojú gbogbo ilẹ̀ náà, ilẹ̀ sì yọjú; ó sì jẹ ⟨את⟩ gbogbo koríko ilẹ̀ náà àti ⟨את⟩ gbogbo èso igi tí òjò yìnyìn fi sílẹ̀, kò sì sí ohun èwe sílẹ̀ níbí igi àti níbí koríko pápá, ní gbogbo ilẹ̀ Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "sì bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú gbogbo ilẹ̀ náà"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "sì yọjú"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "sì jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo koríko ilẹ̀ náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "koríko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "gbogbo èso igi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "èso"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "fi sílẹ̀"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "òjò yìnyìn"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "and kò sí"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "sí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohun gbogbo"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "èwe"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "níbí igi"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "àti níbí koríko"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pápá"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:46.489713693Z",
+  "model": "glm-5.3"
+}

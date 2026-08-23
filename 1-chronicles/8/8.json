@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Shacharaim sì bí (àwọn ọmọ) ní pápátí Moab, lẹ́yìn ìfiránṣẹ́ rẹ̀ ⟨את⟩ wọn — Hushim àti ⟨את⟩ Baara, ìyàwó rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Shacharaim sì"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ní pápátí"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ìfiránṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wọn",
+      "marks": "Hushim àti Baara"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Hushim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ìyàwó rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:11:17.458641059Z",
+  "model": "glm-5.3"
+}

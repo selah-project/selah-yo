@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Yahweh sì wà ⟨pẹ̀lú⟩ Yosefu, ó sì jẹ́ ọkùnrin olórọ̀-iṣẹ́; ó sì wà nínú ilé olúwa rẹ̀, Mísíríà náà.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sì wà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pẹ̀lú Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì jẹ́"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "olórọ̀-iṣẹ́"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wà"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nínú ilé"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "olúwa rẹ̀"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mísíríà náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:10:28.679406803Z",
+  "model": "glm-5.3"
+}

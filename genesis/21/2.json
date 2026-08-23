@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Sarah sì bímọ́ sílẹ̀ fún Avraham, ọmọkùnrin ní ìrònú ọjọ́ rẹ̀, ní àkókò tí Elohim ti sọ̀rọ̀ nípa rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ó bímọ́ sílẹ̀ (níyan)"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ó bí"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "fún Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọkùnrin"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "ní ìrònú ọjọ́ rẹ̀"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "ní àkókò tí a ṣàlàyé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ̀rọ̀"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ rẹ̀",
+      "marks": "nípa rẹ̀"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-22T23:00:47.456415029Z",
+  "model": "glm-5.3"
+}

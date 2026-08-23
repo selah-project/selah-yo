@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Wọ́n sì wí pé, Ṣé bí aṣẹwó ni kí ó ka ⟨את⟩ arábìnrin wa ṣe?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí pé"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "ṣé bí aṣẹwó"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ni kí ó ka... ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arábìnrin wa"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "arábìnrin wa"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:52.450314419Z",
+  "model": "glm-5.3"
+}

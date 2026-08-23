@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 84,
+  "translation": "Yahweh, Elohim ti awon omo-ogun, gbo adura mi; fi eti si, Elohim ti Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti awon omo-ogun"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "gbo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "adura mi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "fi eti si"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:18.613814746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Nígbà náà ni mo sọ pé, Wọ́lé, mo ti wá; nínú ìwé-ìfúnnilẹ́nu ìgbà kẹfa ni a ti kọ ọ́ nípa mi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "nígbà náà"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mo sọ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wọ́lé"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "mo ti wá"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "nínú ìwé-ìfúnnilẹ́nu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ìwé-ìgbà kẹfa"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "a ti kọ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nípa mi"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:05.599084134Z",
+  "model": "glm-5.3"
+}

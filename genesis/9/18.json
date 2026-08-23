@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àwọn ọmọ Noach tí ó jáde láti inú ọkọ̀ náà ni Shem, Ham àti Yafet; Ham sì ni baba Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "wọ́n sì jẹ́"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "tí ó jáde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "inú ọkọ̀ náà"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "àti Ham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "àti Yafet"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "Ham sì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-22T22:56:10.112311983Z",
+  "model": "glm-5.3"
+}

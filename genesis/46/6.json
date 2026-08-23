@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 46:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Wọ́n sì mu ⟨את⟩ àwọn ẹran ọ̀sìn wọn, àti ⟨את⟩ ohun-ìní wọn tí wọ́n ti kó jọ ní ilẹ̀ Kena'an, wọ́n sì wọ Mitserayima — Yaakov àti gbogbo irúgbọ́n rẹ̀ pẹ̀lú ⟨את⟩ òun.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "sì mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ẹran ọ̀sìn wọn"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "àwọn ẹran ọ̀sìn wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ohun-ìní wọn"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ohun-ìní wọn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "wọ́n ti kó jọ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wọ́n sì wọ"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitserayima"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "irúgbọ́n rẹ̀"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pẹ̀lú ⟨את⟩ òun",
+      "marks": "òun"
+    }
+  ],
+  "timestamp": "2026-08-22T23:12:52.954078360Z",
+  "model": "glm-5.3"
+}

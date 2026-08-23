@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Èmi yóò bùkún Yahweh nígbà gbogbo; ọ̀pẹ́ rẹ̀ yóò wà lẹ́nu mi ní èèkannáà.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Èmi yóò bùkún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nígbà gbogbo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ní èèkannáà"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ọ̀pẹ́ rẹ̀"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "lẹ́nu mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:23.561445294Z",
+  "model": "glm-5.3"
+}

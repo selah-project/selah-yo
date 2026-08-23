@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Nígbà náà Noach ṣe nígbàgbogbo nípa gbogbo nnkan tí Yahweh pàṣẹ fún un.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Nígbà náà … ṣe"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "nígbàgbogbo nípa gbogbo nnkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "pàṣẹ fún un"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:44.391986042Z",
+  "model": "glm-5.3"
+}

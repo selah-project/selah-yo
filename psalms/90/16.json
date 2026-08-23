@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 90,
+  "translation": "Kí iṣẹ́ rẹ kí ó farahàn sí àwọn ìránṣẹ́ rẹ, kí ìgbéga rẹ sì wà lórí àwọn ọmọ wọn.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "kí ó farahàn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "àwọn ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "iṣẹ́ rẹ"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "kí ìgbéga rẹ sì"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "àwọn ọmọ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:22.410912483Z",
+  "model": "glm-5.3"
+}

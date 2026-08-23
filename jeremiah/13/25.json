@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Eyí ni ipín rẹ, míràn-ìwọ̀n rẹ ⟨את⟩ láti ọ̀dọ̀ mi, ń sọ Yahweh, nítorí tí o ti gbàgbé ⟨את⟩ mi, o sì ti gbígbẹ́kẹ̀ lé irọ́.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Eyí"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "ipín rẹ"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "míràn"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "ìwọ̀n rẹ"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ láti ọ̀dọ̀ mi",
+      "marks": "láti ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ń sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "o ti gbàgbé"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mi",
+      "marks": "mi"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "o sì ti gbígbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "irọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T02:12:45.920512570Z",
+  "model": "glm-5.3"
+}

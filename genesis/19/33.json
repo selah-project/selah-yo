@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Wọ́n sì mú ⟨את⟩ baba wọn mu àwín ní orú yẹn; ọmọbìnrin àkọ́kọ́ bíbí sì wọ̀ inú, ó sì bá ⟨את⟩ baba rẹ̀ sùn; kì í ṣe pé ó mọ nígbà tí ó ń sùn bọ́ sílẹ̀, àti nígbà tí ó ń dìde.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "wọ́n sì mú...mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba wọn"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "baba wọn"
+    },
+    {
+      "surface": "יין",
+      "gloss": "àwín"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ní orú"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "sì wọ̀ inú"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "ọmọbìnrin àkọ́kọ́ bíbí"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "ó sì bá...sùn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba rẹ̀"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í ṣe pé"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "nígbà tí ó ń sùn bọ́ sílẹ̀"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "nígbà tí ó ń dìde"
+    }
+  ],
+  "timestamp": "2026-08-22T23:00:55.876059688Z",
+  "model": "glm-5.3"
+}

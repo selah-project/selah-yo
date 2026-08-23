@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ó sì wáyé, nígbà tí ìjọba Rechavam di ìdí mú àti nígbà tí ó fẹ́ mọ́ra, ó fi ⟨את⟩ ìlànà Yahweh sílẹ̀, àti gbogbo Israẹli pẹ̀lú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì wáyé"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "nígbà tí ó di ìdí mú"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "àti nígbà tí ó fẹ́ mọ́ra"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ó fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìlànà Yahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ìlànà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pẹ̀lú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:27:06.703869538Z",
+  "model": "glm-5.3"
+}

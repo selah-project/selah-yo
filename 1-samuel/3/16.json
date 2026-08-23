@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Eli sì pè ⟨את⟩ Shemuël, ó sì wí pé: “Shemuël, ọmọ mi.” Ó sì wí pé: “Mo wà níbẹ̀.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sì pè"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ mi"
+    },
+    {
+      "surface": "ויאмов",
+      "gloss": "ó sì wí pé"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mo wà níbẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:43:59.318388554Z",
+  "model": "glm-5.3"
+}

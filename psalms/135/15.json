@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 135,
+  "translation": "Àwọn ìwọ̀n-òrìṣà ti ⟨àwọn⟩ orílẹ̀-èdè ni fáàdì àti wúrà, iṣẹ́ ọwọ́ àwọn ènìyàn.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "àwọn ìwọ̀n-òrìṣà"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ti ⟨àwọn⟩ orílẹ̀-èdè"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fáàdì"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "àti wúrà"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "àwọn ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:58:00.734144229Z",
+  "model": "glm-5.3"
+}

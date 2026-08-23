@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ó sì yọ ⟨את⟩ àwọn ọlọ́run àjèjì àti ⟨את⟩ àwòrán ìṣẹ̀bá kúrò nínú ilé Yahweh, àti gbogbo àwọn pẹpẹ tí ó kọ ní orí òkè ilé Yahweh àti ní Yerushalayim, ó sì ju wọn sí ìta ìlú náà.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ó sì yọ ... kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọlọ́run àjèjì"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "àwọn ọlọ́run"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "àjèjì"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwòrán ìṣẹ̀bá"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "àwòrán ìṣẹ̀bá"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kúrò nínú ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "àwọn pẹpẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ó kọ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ní orí òkè"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "àti ní Yerushalayim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ó sì ju wọn"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "sí ìta"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ìlú náà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:36:25.281365320Z",
+  "model": "glm-5.3"
+}

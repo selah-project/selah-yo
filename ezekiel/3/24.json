@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 3:24",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ẹ̀mí sì wọ̀ sí mi, ó sì gbé mi dìde lé èsè mi; Ó sì sọ̀rọ̀ ⟨את⟩ mi, Ó sì wí fún mi: Wọ̀ wá, tì ara rẹ sí àárín ilé rẹ.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Ó sì wọ̀"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "ó sì gbé mi dìde"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "èsè mi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "Ó sì sọ̀rọ̀"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mi",
+      "marks": "èmi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Wọ̀ wá"
+    },
+    {
+      "surface": "הסגר",
+      "gloss": "tì ara rẹ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sí àárín"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ilé rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T02:35:18.293524553Z",
+  "model": "glm-5.3"
+}

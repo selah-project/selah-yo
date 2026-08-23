@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Àwọn ènìyàn náà sì wí fún Shemuël pé: Ta ni ó sọ pé Shaúl yóò jọba lórí wa? Ẹ fi àwọn ọkùnrin náà lọ́wọ́, kí a lè pa wọn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ó sì wí"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Àwọn ènìyàn náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ta ni"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "yóò jọba"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "lórí wa"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Ẹ fi lọ́wọ́"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "àwọn ọkùnrin náà"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "kí a lè pa wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:45:59.023873512Z",
+  "model": "glm-5.3"
+}

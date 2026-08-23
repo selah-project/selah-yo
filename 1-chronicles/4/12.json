@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Eshton sì bí ⟨את⟩ Bet-Rafa, àti ⟨את⟩ Paseah, àti ⟨את⟩ Tejinnah baba Ir-Nachash; àwọn wọnyí ni àwọn ọkùnrin ti Rekha.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Eshton sì"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Paseah"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Tejinnah"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tejinnah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọnyí ni"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkùnrin ti"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekha"
+    }
+  ],
+  "timestamp": "2026-08-23T05:09:57.476566111Z",
+  "model": "glm-5.3"
+}

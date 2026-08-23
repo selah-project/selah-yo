@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 2:3",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àwọn ọmọ wònyàn-ànà tí ó wà ní Beit-El sì jáde wá sí ọ̀dọ̀ Elisha, wọ́n sì sọ fún un pé: Ṣé o mọ̀ pé òní ni Yahweh ń gbé ⟨את⟩ olúwa rẹ kúrò lórí rẹ? Ó sì sọ pé: Èmi náà mọ̀ ọ́; ẹ dákun.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "wọ́n sì jáde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "wònyàn-ànà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí ọ̀dọ̀"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì sọ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "הידעת",
+      "gloss": "ṣé o mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "היום",
+      "gloss": "òní"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ń gbé … kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olúwa rẹ"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "olúwa rẹ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kúrò lórí"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "orí rẹ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì sọ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "náà"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mọ̀ ọ́"
+    },
+    {
+      "surface": "החשו",
+      "gloss": "ẹ dákun"
+    }
+  ],
+  "timestamp": "2026-08-23T01:26:38.815933061Z",
+  "model": "glm-5.3"
+}

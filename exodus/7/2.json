@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ìwọ ni yóò sọ ⟨את⟩ gbogbo ní mo bá ṣe pàṣẹ fún ọ́, àti Aharon ará rẹ̀ yóò sọ ọ́ fún Paro, kí ó sì fi ⟨את⟩ àwọn ọmọ Yisrael lọ láti ilẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "yóò sọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ní"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "mo bá ṣe pàṣẹ fún ọ́"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "àti Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ará rẹ̀"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "yóò sọ ọ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "kí ó sì fi… lọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "láti ilẹ̀ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:17:00.056406407Z",
+  "model": "glm-5.3"
+}

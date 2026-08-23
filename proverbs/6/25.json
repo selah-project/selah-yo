@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Má ṣe fẹ́ràn rere ìwà ọ̀ṣọ́ rẹ̀ nínú ọkàn rẹ, kí ó má ṣe mú ọ́ dé nípasẹ̀ irọ́ran rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "fẹ́ràn rere"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "ìwà ọ̀ṣọ́ rẹ̀"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "nínú ọkàn rẹ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí ó má ṣe"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "mú ọ́ dé"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "nípasẹ̀ irọ́ran rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:04:46.982801527Z",
+  "model": "glm-5.3"
+}

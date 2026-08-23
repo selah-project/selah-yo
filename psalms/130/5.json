@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 130,
+  "translation": "Nígba tí mo retí Yahweh, ẹ̀mí-òrè mi gbadùn ìretí, àti nítorí ọ̀rọ̀ rẹ̀ ni mo faradà.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "mo retí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "gbadùn ìretí"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí-òrè mi"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "àti nítorí ọ̀rọ̀ rẹ̀"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "mo faradà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:29.720032095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "ọkọ rẹ̀ sì gbọ́, ó sì ṣe àìsọ̀rọ̀ sí i, kò ṣe é lọ́wọ́ ⟨את⟩ un; gbogbo ìlérí rẹ̀ yóò dúró, àti gbogbo ìgbé mọ́lẹ̀ tí ó fi di ọkàn rẹ̀ mọ́lẹ̀ yóò dúró sí ipò.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "sì gbọ́"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ọkọ rẹ̀"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ṣe àìsọ̀rọ̀"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "ṣe é lọ́wọ́"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "un"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "yóò dúró"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "ìlérí rẹ̀"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ìgbé mọ́lẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "fi di … mọ́lẹ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "yóò dúró sí ipò"
+    }
+  ],
+  "timestamp": "2026-08-23T00:03:57.052651626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "líti Ḥetsron, èyí ni ìdílé ⟨àwọn⟩ Ḥetsroni; líti Karmi, èyí ni ìdílé ⟨àwọn⟩ Karmi.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "líti Ḥetsron"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ìdílé"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "àwọn Ḥetsroni"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "líti Karmi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ìdílé"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "àwọn Karmi"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:38.114646445Z",
+  "model": "glm-5.3"
+}

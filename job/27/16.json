@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 27:16",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 27,
+  "translation": "Bí ó bá fi ìwọ̀nba epo yorisi sílẹ̀ gẹ́gẹ́ bí erùfu, àti gẹ́gẹ́ bí amọ̀ ó sì tún èwù ṣe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Bí… bá"
+    },
+    {
+      "surface": "יצbor",
+      "gloss": "fi ìwọ̀nba epo yorisi sílẹ̀",
+      "lemma": "צבר"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "gẹ́gẹ́ bí erùfu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "epo yorisi"
+    },
+    {
+      "surface": "וכחמר",
+      "gloss": "àti gẹ́gẹ́ bí amọ̀"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ó sì tún… ṣe"
+    },
+    {
+      "surface": "מלבוש",
+      "gloss": "èwù"
+    }
+  ],
+  "timestamp": "2026-08-23T04:24:29.404349935Z",
+  "model": "glm-5.3"
+}

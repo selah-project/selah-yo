@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 49,
+  "translation": "Kí ó tún lè wà láàyè títí láélái, kí ó má baà rí ihò òkú.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kí ó lè wà láàyè"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tún títí"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "láélái"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kí ó má baà"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rí"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "ihò òkú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:40.151369264Z",
+  "model": "glm-5.3"
+}

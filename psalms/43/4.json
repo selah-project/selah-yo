@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Èmi yóò sì wọ̀ sí pẹ̀tẹ́lẹ́ Elohim, sí El, ayọ̀ ìdúnújẹ́ mi; èmi yóò sì dúpẹ́ fún ọ́ pẹ̀lú kinnor, Elohim, Elohim mi.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "èmi yóò sì wọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pẹ̀tẹ́lẹ́"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "ayọ̀"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "ìdúnújẹ́ mi"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "èmi yóò sì dúpẹ́ fún ọ́"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "pẹ̀lú kinnor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:33:08.703800284Z",
+  "model": "glm-5.3"
+}

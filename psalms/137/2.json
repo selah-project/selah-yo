@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 137,
+  "translation": "Lórí àwọn igi willow ní àárín rẹ̀ ni a fi àwọn kinnor wa mọ́.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Lórí"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "àwọn igi willow"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ní àárín rẹ̀"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "a fi... mọ́"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "àwọn kinnor wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:35.016220322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 18:13",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Ó sì gbé ⟨àwọn⟩ àwọn ológun-dúró sí Edomu, gbogbo Edomu sì di ẹrún fún Davidi; Yahweh sì gbà Davidi là ní gbogbo ibi tí ó lọ.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Ó sì gbé sí"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ní Edomu"
+    },
+    {
+      "surface": "נציבים",
+      "gloss": "⟨àwọn⟩ àwọn ológun-dúró"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "sì di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ẹrún"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "fún Davidi"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "Yahweh sì gbà … là"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ó lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T05:15:46.488231566Z",
+  "model": "glm-5.3"
+}

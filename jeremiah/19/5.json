@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 19:5",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Wọ́n sì kọ́ ⟨את⟩ àwọn ibi-gíga Baal, láti jóná ⟨את⟩ àwọn ọmọ wọn nínú iná, ẹbọ-sún-gíga fún Baal, tí èmi kò ṣe àṣẹ rẹ̀, tí èmi kò sì sọ̀ ọ́, tí ó kò sì gòkè sí ọkàn mi.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Wọ́n sì kọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ibi-gíga Baal"
+    },
+    {
+      "surface": "במות",
+      "gloss": "àwọn ibi-gíga"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "לשרף",
+      "gloss": "láti jóná"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ wọn"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "àwọn ọmọ wọn"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nínú iná"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ẹbọ-sún-gíga"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "fún Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "èmi ṣe àṣẹ rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tí èmi kò sì"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "sọ̀ ọ́"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tí ó kò sì"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "gòkè"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T02:16:51.478898013Z",
+  "model": "glm-5.3"
+}

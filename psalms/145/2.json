@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Ní ọjọ́ gbogbo èmí yóò bukún Ọ, èmí yóò sì yọ Ọ́ mímọ́ nínú orúkọ rẹ̀ tí ó títí láéláé, àti títí ayé rayé.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Ní ọjọ́ gbogbo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "èmí yóò bukún Ọ"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "èmí yóò sì yọ Ọ́ mímọ́"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ̀"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tí ó títí láéláé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "àti títí ayé rayé"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:33.835247570Z",
+  "model": "glm-5.3"
+}

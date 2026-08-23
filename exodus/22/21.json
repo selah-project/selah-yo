@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Gbogbo alámatàn àti àìbí, ẹ má ṣe fi ọ̀kan wọ́n bí ẹnu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "alámatàn"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "àti àìbí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "fi ọ̀kan wọ́n bí ẹnu"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:49.046130259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Béà tí ó ń dè lọ́nà ìkọ̀kọ̀ ni ó jẹ́ fún mi, kìnnìún ní àwọn ibi ìkọ̀kọ̀.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "béà"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "tí ó ń dè lọ́nà ìkọ̀kọ̀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni ó jẹ́"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "kìnnìún"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ní àwọn ibi ìkọ̀kọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:37:12.728934741Z",
+  "model": "glm-5.3"
+}

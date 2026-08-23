@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Èké ló wà nínú ẹ̀jẹ̀ mi, bí mo bá sọ̀kalẹ̀ sí ihò ìparun? Ṣé erùpẹ̀ ló máa yìn ọ́ gọ́? Ṣé ó máa sọ òtítọ́ rẹ̀ pé èyí?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "èké ló wà (kí ló wúlò)"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "èrè\/wúlò"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "nínú ẹ̀jẹ̀ mi"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "bí mo bá sọ̀kalẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ihò ìparun"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "ṣé … ló máa yìn ọ́ gọ́"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "erùpẹ̀"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "ṣé ó máa sọ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "òtítọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:19.063975395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Àwọn ọba ayé dúró pọ̀, àwọn olórí sì pàdé ara wọn, lódì sí Yahweh àti lódì sí Mashiach rẹ̀,",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "dúró pọ̀"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "àwọn ọba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "àti àwọn olórí"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "pàdé ara wọn"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pọ̀"
+    },
+    {
+      "surface": "על",
+      "gloss": "lódì sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lódì sí"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiach rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:18.995476441Z",
+  "model": "glm-5.3"
+}

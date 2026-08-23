@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 148,
+  "translation": "Ẹranko igbó àti gbogbo ẹranko-ilẹ̀; ohun èrò-lọ-láàyè, àti ẹyẹ tí ó ní èjìká.",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "ẹranko igbó"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ẹranko-ilẹ̀"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ohun èrò-lọ-láàyè"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "àti ẹyẹ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "tí ó ní èjìká"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:26.102473706Z",
+  "model": "glm-5.3"
+}

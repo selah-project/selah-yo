@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 82,
+  "translation": "Ṣùgbọ́n bí ènìyàn ni ẹ máa kú, bí ẹni tí ó jẹ́ ọ̀kan nínú àwọn olóyè ni ẹ máa ṣubú.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "ṣùgbọ́n dájúdájú"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "bí ènìyàn"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "ẹ máa kú"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "bí ẹni tí ó jẹ́ ọ̀kan"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "àwọn olóyè"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "ẹ máa ṣubú"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:11.166829089Z",
+  "model": "glm-5.3"
+}

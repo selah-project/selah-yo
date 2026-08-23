@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Wọ́n fi búburú san mí fún rere, ṣíṣọ̀mọlọ̀rún fún ẹmí mi.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Wọ́n fi … san mí"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "fún"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "rere"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "ṣíṣọ̀mọlọ̀rún"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "fún ẹmí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:56.228409075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Yisrael sì di ẹ̀yún mọ́ Baal-Peor, ìbínú Yahweh sì gbiná sóke lórí Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "sì di ẹ̀yún mọ́"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "mọ́ Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "sì gbiná sóke"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ìmú-ìbínú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "lórí Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:41.199712497Z",
+  "model": "glm-5.3"
+}

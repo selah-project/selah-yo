@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Wọ́n sì pa ⟨את⟩ àwọn ọmọ Tsidkiyahu níwájú ojú rẹ̀, wọ́n sì fọ́ ⟨את⟩ ojú Tsidkiyahu, wọ́n sì fi idẹ di ẹ̀ mú, wọ́n sì mú un lọ sí Babel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sì",
+      "marks": "àwọn ọmọ Tsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "wọ́n pa"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "níwájú ojú rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sì",
+      "marks": "ojú Tsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "wọ́n fọ́ (ojú)"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "wọ́n sì di ẹ̀ mú"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "fi idẹ (èsin)"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "wọ́n sì mú un lọ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sí Babel"
+    }
+  ],
+  "timestamp": "2026-08-23T05:53:54.999744615Z",
+  "model": "glm-5.3"
+}

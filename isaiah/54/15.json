@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 54,
+  "translation": "Ki ẹ wo, ọ̀ta yóò gbéjọ ⟨láì⟩ ⟨את⟩ láti ọ̀dọ̀ mi; ẹnikẹ́ni tí ó bá gbéjọ ⟨את⟩ pẹ̀lú rẹ, lọ́dọ̀ rẹ ni yóò ṣubú.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ki ẹ wo"
+    },
+    {
+      "surface": "גור",
+      "gloss": "ọ̀ta"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "yóò gbéjọ"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "⟨láì⟩"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ láti ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ẹnikẹ́ni"
+    },
+    {
+      "surface": "גר",
+      "gloss": "gbéjọ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pẹ̀lú rẹ",
+      "marks": "pẹ̀lú rẹ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "lọ́dọ̀ rẹ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "yóò ṣubú"
+    }
+  ],
+  "timestamp": "2026-08-23T01:59:50.859994755Z",
+  "model": "glm-5.3"
+}

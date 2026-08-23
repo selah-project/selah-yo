@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Àti tí ọkùnrin bá tà ⟨את⟩ ọmọbìnrin rẹ̀ láti fi ṣẹ́ ẹrú obìnrin, kì í ṣe bí ti àwọn ẹrú ló ti máa ń jáde.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Àti tí"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "bá tà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọbìnrin rẹ̀"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ọmọbìnrin rẹ̀"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "láti fi ṣẹ́ ẹrú obìnrin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "máa ń jáde"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "bí ti"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "àwọn ẹrú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:28.016862139Z",
+  "model": "glm-5.3"
+}

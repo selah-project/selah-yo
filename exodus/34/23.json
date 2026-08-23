@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Ẹ̀ẹ̀me mẹ́ta lọ́dọọdún, gbogbo ọkùnrin rẹ ni yóò farahan níwájú ⟨את⟩ ojú Adonai Yahweh, Elohim Israẹli.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ẹ̀ẹ̀me"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "lọ́dọọdún"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "yóò farahan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "ọkùnrin rẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ojú"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹli"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:09.917711748Z",
+  "model": "glm-5.3"
+}

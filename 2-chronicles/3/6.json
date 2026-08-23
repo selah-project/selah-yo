@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì fi ọ̀kúta iyebíye bọ́ ⟨את⟩ ilé náà fún ọ̀lá, wúrà náà sì jẹ́ wúrà Parvaim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ó sì fi … bọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilé náà"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ọ̀kúta"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "iyebíye"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "fún ọ̀lá"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "wúrà náà sì"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parvaim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:23:26.444376110Z",
+  "model": "glm-5.3"
+}

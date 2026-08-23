@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Èmi yóò sì fi àwọn ọmọdé di àwọn olú-òye wọn, àti àwọn ọmọ tí kò gbọ́n yóò jọba lórí wọn.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Èmi yóò sì fi"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "àwọn ọmọdé"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "àwọn olú-òye wọn"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "àti àwọn ọmọ tí kò gbọ́n"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "yóò jọba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "lórí wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T01:40:18.673318692Z",
+  "model": "glm-5.3"
+}

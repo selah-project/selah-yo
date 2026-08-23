@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Kí ẹ ṣe ìgbéyàwó pẹ̀lú wa; ẹ fi ⟨את⟩ ọmọbìnrin yín fún wa, ẹ sì gba ⟨את⟩ ọmọbìnrin wa fún ara yín.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "kí ẹ ṣe ìgbéyàwó pẹ̀lú wa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọbìnrin yín"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ọmọbìnrin yín"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ẹ fi… fún"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọbìnrin wa"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ọmọbìnrin wa"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ẹ gba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún ara yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:44.276811133Z",
+  "model": "glm-5.3"
+}

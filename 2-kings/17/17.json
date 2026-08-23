@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 17:17",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Wọ́n sì fi ⟨את⟩ àwọn ọmọkùnrin wọn àti ⟨את⟩ àwọn ọmọbìnrin wọn kọjá nínú iná, wọ́n sì ṣe ìdàwọ̀ ìṣerán-ẹ̀dá, wọ́n sì ṣe ìṣirò ìṣerán-ẹ̀dá, wọ́n sì ta ara wọn fún ṣíṣe búburú ní ojú Yahweh, láti bí ìnira jẹ́ ọ́.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "wọ́n sì fi…kọjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọkùnrin wọn"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "àwọn ọmọkùnrin wọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọmọbìnrin wọn"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "àwọn ọmọbìnrin wọn"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nínú iná"
+    },
+    {
+      "surface": "ויקסמו",
+      "gloss": "wọ́n sì ṣe ìdàwọ̀"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "ìṣerán-ẹ̀dá"
+    },
+    {
+      "surface": "וינחשו",
+      "gloss": "wọ́n sì ṣe ìṣirò ìṣerán-ẹ̀dá"
+    },
+    {
+      "surface": "ויתמכרו",
+      "gloss": "wọ́n sì ta ara wọn"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "fún ṣíṣe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ní ojú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "láti bí ìnira jẹ́ ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:39.326047793Z",
+  "model": "glm-5.3"
+}

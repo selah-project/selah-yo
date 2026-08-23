@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "⟨את⟩ tábìlì náà àti ⟨את⟩ àwọn ọ̀pá rẹ̀, àti ⟨את⟩ gbogbo àwọn ohun-èlò rẹ̀, àti ⟨את⟩ ojúwọ́n búrẹ́dì ojú-iwájú;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tábìlì náà"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tábìlì náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ọ̀pá rẹ̀"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "àwọn ọ̀pá rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "àwọn ohun-èlò rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ojúwọ́n búrẹ́dì ojú-iwájú"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "búrẹ́dì"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ojú-iwájú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:16.095294804Z",
+  "model": "glm-5.3"
+}

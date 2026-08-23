@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 108,
+  "translation": "Nítorí tí ìfẹ́ olóòtítọ́ rẹ tóbi ju àwọn ọ̀run lọ, àti òtítọ́ rẹ dé àwọn àwọ̀sánmàn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí tí"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tóbi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ju…lọ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "àwọn ọ̀run"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "àti…dé"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "àwọn àwọ̀sánmàn"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "òtítọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:18.196190228Z",
+  "model": "glm-5.3"
+}

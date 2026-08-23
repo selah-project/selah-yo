@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Bẹ́ẹ̀ ni ọba ti wí pé, Ki Chizkiyahu má ṣe tan yín; nítorí pé kì yóò lè gbà yín là ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti wí pé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ki … má ṣe"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "tan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yín"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "yóò lè"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "gbà … là"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "yín"
+    }
+  ],
+  "timestamp": "2026-08-23T01:53:44.577880712Z",
+  "model": "glm-5.3"
+}

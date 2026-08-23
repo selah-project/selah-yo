@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Yahweh sì ṣe ⟨את⟩ ọ̀rọ̀ yìí ní ọjọ́ mọ́kànlélọ̀gbọ̀n, gbogbo ẹran-ọ̀sìn Mitzrayim sì kú; ṣùgbọ́n lára ẹran-ọ̀sìn àwọn ọmọ Yisrael ẹyọ kan kì í kú.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sì ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ yìí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ní ọjọ́ mọ́kànlélọ̀gbọ̀n"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "sì kú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "ṣùgbọ́n lára ẹran-ọ̀sìn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kú"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ẹyọ kan"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:20.170023184Z",
+  "model": "glm-5.3"
+}

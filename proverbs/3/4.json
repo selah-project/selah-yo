@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Nítorí náà, ìwọ yóò rí ìfaradà àti òye rere níjú Elohim àti níjú ènìyàn.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ìwọ yóò rí"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ìfaradà"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "àti òye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rere"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "níjú"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "àti ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:00.877919558Z",
+  "model": "glm-5.3"
+}

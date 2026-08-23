@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ìlú naa sì wá sínú ìkọlu títí di ọdún kọkànlá tí Tsidkiyahu jọba.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ó sì wá sínú"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú naa"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ìkọlu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "kọkànlá"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tí ... jọba"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:58.526446064Z",
+  "model": "glm-5.3"
+}

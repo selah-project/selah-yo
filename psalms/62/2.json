@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 62,
+  "translation": "Nìkan sí Elohim ni ẹ̀mí mi dojú ìdákẹ́jú fún; láti ọ̀dọ̀ Rẹ̀ ni ìgbàlà mi wá.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Nìkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "dojú ìdákẹ́jú fún"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "láti ọ̀dọ̀ Rẹ̀"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ìgbàlà mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:24.033796226Z",
+  "model": "glm-5.3"
+}

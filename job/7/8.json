@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ojú tí ó ti rí mi kì í tún yòòwọ̀ mi mọ́; ojú rẹ ⟨wà⟩ lórí mi, àti èmi kò sí mọ́.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "yòòwọ̀ mi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "tí ó ti rí mi"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ojú rẹ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "lórí mi"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "àti èmi kò sí mọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:18:00.585105312Z",
+  "model": "glm-5.3"
+}

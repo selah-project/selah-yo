@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ìbùkún ni fún ìwọ, Yahweh; kọ́ mi ni àwọn òfin rẹ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ìbùkún ni fún"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "kọ́ mi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "àwọn òfin rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:01.521681974Z",
+  "model": "glm-5.3"
+}

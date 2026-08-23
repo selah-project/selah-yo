@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Baba wọn sì bá wọn sọ̀rọ̀ pé, Níbo ni ọ̀nà yìí wà, ẹni tí ó fi lọ? Àwọn ọmọ rẹ̀ sì rí ⟨את⟩ ọ̀nà tí ọkùnrin Ọlọ́run tí ó wá láti Yehuda fi lọ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sì bá wọn sọ̀rọ̀"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baba wọn"
+    },
+    {
+      "surface": "אי",
+      "gloss": "níbo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "fi lọ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "sì rí"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀nà"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "fi lọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Ọlọ́run"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ó wá"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "láti Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-23T01:18:36.697140466Z",
+  "model": "glm-5.3"
+}

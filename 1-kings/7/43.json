@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "àti ⟨את⟩ àwọn ìdí ẹ̀wá, àti ⟨את⟩ àwọn kíà ẹ̀wá lára wọn;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn ìdí"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "àwọn ìdí"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ẹ̀wá"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn kíà"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "àwọn kíà"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ẹ̀wá"
+    },
+    {
+      "surface": "על",
+      "gloss": "lára"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "àwọn ìdí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:12:38.370063948Z",
+  "model": "glm-5.3"
+}

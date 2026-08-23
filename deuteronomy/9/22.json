@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àti ní Taberah, àti ní Massah, àti ní Kibroth-haTaavah, olùbínú ni ẹ̀ ti jẹ́ ⟨את⟩ sí Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "àti ní Taberah"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "àti ní Massah"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "àti ní Kibroth"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "haTaavah"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "olùbínú"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ẹ̀ ti jẹ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:45.856072331Z",
+  "model": "glm-5.3"
+}

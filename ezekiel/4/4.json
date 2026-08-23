@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 4:4",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ìwọ sì, farajìn sí ẹgbẹ́ ọ̀sì rẹ, ó sì fi ⟨את⟩ àṣẹ̀ṣe ilé Yisrael lé e lórí; nípa iye ⟨את⟩ ọjọ́ tí ìwọ bá farajìn lórí rẹ̀ ni ìwọ ó gbé ⟨את⟩ àṣẹ̀ṣe wọn.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ìwọ sì"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "farajìn"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "ẹgbẹ́ rẹ"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "ọ̀sì"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ó sì fi lé e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àṣẹ̀ṣe ilé Yisrael"
+    },
+    {
+      "surface": "עון",
+      "gloss": "àṣẹ̀ṣe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lé e lórí"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "iye"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ìwọ bá farajìn"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lórí rẹ̀"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ìwọ ó gbé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àṣẹ̀ṣe wọn"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "àṣẹ̀ṣe wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T02:36:04.623897151Z",
+  "model": "glm-5.3"
+}

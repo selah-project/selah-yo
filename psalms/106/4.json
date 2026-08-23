@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Rántí mi, Yahweh, ní ìfẹ́ rẹ sí àwọn ènìyàn rẹ; kí o sì wo mi lọ nígbà ìgbàlà rẹ.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Rántí mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "ní ìfẹ́ rẹ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sí àwọn ènìyàn rẹ"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "kí o sì wo mi lọ"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "nígbà ìgbàlà rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:39.526669571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Má ṣe jà pẹ̀lú ènìyàn láìní ìdí, tí kò tíì fi ìbàjẹ́ ṣe ọ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Má ṣe"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "jà"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "láìní ìdí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "fi … ṣe ọ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ìbàjẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:03:40.120878687Z",
+  "model": "glm-5.3"
+}

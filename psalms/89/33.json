@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Èmi yóò sì ṣe ìjẹnu ìkọ̀tàn wọn pẹ̀lú ọ̀yà, àti ìwà búburú wọn pẹ̀lú àwọn ìnira.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "èmi yóò sì ṣe ìjẹnu"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "pẹ̀lú ọ̀yà"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ìkọ̀tàn wọn"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "àti pẹ̀lú àwọn ìnira"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ìwà búburú wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:15.235151225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ó sì dáhùn, ó sì wí pé, Njẹ́ èyí tí Yahweh gbé nú ẹnu mi làbí mo gbọdọ̀ ṣọ́ láti sọ ⟨את⟩ ọ̀rọ̀ náà?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ó sì dáhùn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Njẹ́ … làbí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èyí tí Yahweh gbé nú ẹnu mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "èyí tí"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "gbé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "nú ẹnu mi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "láti sọ ọ̀rọ̀ náà"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "mo gbọdọ̀ ṣọ́"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "láti sọ ọ̀rọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:00:13.220707798Z",
+  "model": "glm-5.3"
+}

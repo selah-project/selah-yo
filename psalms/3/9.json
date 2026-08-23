@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ti Yahweh ni ìgbàlà; lórí àwọn ènìyàn rẹ ni ìbùkún rẹ wà. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "ti Yahweh"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "ìgbàlà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "àwọn ènìyàn rẹ"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "ìbùkún rẹ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:21:33.146326443Z",
+  "model": "glm-5.3"
+}

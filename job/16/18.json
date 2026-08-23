@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 16:18",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ayé, má ṣe bo ẹjẹ mi, kí ibi kan má ṣe sí i fún ìkigbe mi.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Ayé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תכסי",
+      "gloss": "bo"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ẹjẹ mi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kí … má ṣe"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi kan"
+    },
+    {
+      "surface": "לזעקתי",
+      "gloss": "fún ìkigbe mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:20:46.411336367Z",
+  "model": "glm-5.3"
+}

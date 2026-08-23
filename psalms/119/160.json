@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ìpilẹ̀ṣẹ̀ ọ̀rọ̀ Rẹ ni òtítọ́, àti láéláé ni gbogbo ìdájọ́ ododo Rẹ dúró.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Ìpilẹ̀ṣẹ̀"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ọ̀rọ̀ Rẹ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "òtítọ́"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "àti láéláé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ìdájọ́"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ododo Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:43.572739709Z",
+  "model": "glm-5.3"
+}

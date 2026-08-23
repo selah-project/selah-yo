@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Shabbat ti isinmi pípẹ́ ni ó jẹ́ fún yín; ẹ ó jẹ́ ⟨את⟩ àwọn ẹ̀mí yín ní ìnira; ní ọjọ́ kẹsàn-án oṣù ní alẹ́, láti alẹ́ dé alẹ́ ni ẹ ó sinmi ⟨Shabbat⟩ yín.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "isinmi pípẹ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ó jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ẹ ó jẹ́ ní ìnira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ẹ̀mí yín"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "àwọn ẹ̀mí yín"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "ní ọjọ́ kẹsàn-án"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "oṣù"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ní alẹ́"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "láti alẹ́"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "alẹ́"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "ẹ ó sinmi"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Shabbat yín"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:52.108222563Z",
+  "model": "glm-5.3"
+}

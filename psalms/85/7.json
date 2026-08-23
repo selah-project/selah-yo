@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 85,
+  "translation": "Ṣé ìwọ kì í ṣe yóò padà, kí o sì jẹ́ kí a lẹ̀míọ̀n mí? Kí ènìyàn rẹ ba lè dùn èyìn nínu rẹ.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ṣé ... kì í ṣe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "yóò padà"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "kí o sì jẹ́ kí a lẹ̀míọ̀n mí"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "Kí ènìyàn rẹ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ba lè dùn èyìn"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nínu rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:21.068129941Z",
+  "model": "glm-5.3"
+}

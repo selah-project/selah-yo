@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ṣùgbọ́n gbogbo ẹrú ẹnikèyì, ẹni tí a rà pẹ̀lú fàdákà, tí o bá ṣe ìwọ̀sẹ̀ ⟨את⟩ rẹ̀ nígbà náà ó lè jẹ nínú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ṣùgbọ́n gbogbo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ẹrú"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹnikèyì"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "tí a rà"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pẹ̀lú fàdákà"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "tí o bá ṣe ìwọ̀sẹ̀"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ẹrú yẹn (rẹ̀)"
+    },
+    {
+      "surface": "אז",
+      "gloss": "nígbà náà"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ó lè jẹ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nínú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:30.307302100Z",
+  "model": "glm-5.3"
+}

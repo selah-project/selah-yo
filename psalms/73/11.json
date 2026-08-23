@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 73,
+  "translation": "Wọ́n sì wí pé, «Báwo ni El ti mọ̀ ṣé? Ìmọ̀ ìsọfúnni sì wà ní ọ̀dọ̀ Elyon?»",
+  "tokens": [
+    {
+      "surface": "וְֽאָמְר֗וּ",
+      "gloss": "wọ́n sì wí pé"
+    },
+    {
+      "surface": "אֵיכָ֥ה",
+      "gloss": "báwo ni"
+    },
+    {
+      "surface": "יָדַֽע",
+      "gloss": "ti mọ̀ ṣé"
+    },
+    {
+      "surface": "אֵ֑ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וְיֵ֖שׁ",
+      "gloss": "ìmọ̀ ìsọfúnni sì wà"
+    },
+    {
+      "surface": "דֵּעָ֣ה",
+      "gloss": "ìmọ̀ ìsọfúnni"
+    },
+    {
+      "surface": "בְעֶלְיֽוֹן",
+      "gloss": "ní ọ̀dọ̀ Elyon"
+    }
+  ],
+  "timestamp": "2026-08-23T06:05:53.558706470Z",
+  "model": "glm-5.3"
+}

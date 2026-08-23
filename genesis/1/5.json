@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Elohim sì pè ⟨fún⟩ ìmọ́lẹ̀ ní Ọjọ́, ó sì pè ⟨fún⟩ òkùnkùn ní Òru; ó sì jẹ́ ìrọ̀lẹ́, ó sì jẹ́ àárọ̀ — ọjọ́ kan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sì pè"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "fún ìmọ́lẹ̀"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Ọjọ́"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "àti fún òkùnkùn"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ó pè"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Òru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì jẹ́"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ìrọ̀lẹ́"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì jẹ́"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "àárọ̀"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:53.195210730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Jẹ̀ kí n kọjá, wàá, kí èmi rí ⟨את⟩ ilẹ̀ tí ó dára tí ó wà ní ìkejì Yarden, òkè tí ó dára yìí, àti Lebanoni.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Jẹ̀ kí n kọjá"
+    },
+    {
+      "surface": "נא",
+      "gloss": "wàá"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "kí èmi rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ tí ó dára"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "tí ó dára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó wà ní"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ìkejì"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "tí ó dára"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "àti Lebanoni"
+    }
+  ],
+  "timestamp": "2026-08-23T00:07:27.297863704Z",
+  "model": "glm-5.3"
+}

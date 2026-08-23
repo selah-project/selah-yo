@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 92,
+  "translation": "Mizmor, orin, fún ọjọ́ ⟨the⟩ Shabbat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "fún ọjọ́"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:50.745866953Z",
+  "model": "glm-5.3"
+}

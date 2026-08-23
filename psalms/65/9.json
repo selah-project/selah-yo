@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 65,
+  "translation": "Àwọn tí ó ń gbé ní ìwọ̀-òpin bẹ̀rù nítorí àwọn àmì rẹ; àwọn ìbẹ̀rẹ̀ òwúrọ̀ àti ìrọ̀lẹ́, Iwọ ó mú kí wọ́n kọrin ayò.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "bẹ̀rù (wọ́n sì)"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn tí ó ń gbé"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ní ìwọ̀-òpin"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "nítorí àwọn àmì rẹ"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "àwọn ìbẹ̀rẹ̀"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "òwúrọ̀"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "àti ìrọ̀lẹ́"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "Iwọ ó mú kí wọ́n kọrin ayò"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:16.396903279Z",
+  "model": "glm-5.3"
+}

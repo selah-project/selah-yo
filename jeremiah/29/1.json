@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 29:1",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Àwọn ọ̀rọ̀ ìwé yìí ni tí Yirmeyahu wòlíì fi rán láti Yerushalayim sí èyí tí ó kù nínú àwọn àgbà ìdanù, àti sí àwọn àlùfáà, àti sí àwọn wòlíì, àti sí gbogbo ìjọ tí Nevukhadnetsar gbé lọ ìdanù kúrò̀ ní Yerushalayim lọ sí Bavel.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "àwọn wọ̀nyí"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ìwé yìí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "fi rán"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "wòlíì"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "láti Yerushalayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "èyí tí ó kù"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "àwọn àgbà"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ìdanù"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "àwọn wòlíì"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "gbé lọ ìdanù"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukhadnetsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "kúrò̀ ní Yerushalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "lọ sí Bavel"
+    }
+  ],
+  "timestamp": "2026-08-23T02:20:52.987490120Z",
+  "model": "glm-5.3"
+}

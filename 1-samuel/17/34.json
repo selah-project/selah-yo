@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-samuel 17:34",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "David sì wí sí Shaul: \"Olùṣọ́-ọ̀ṣí ni ẹrú rẹ ti ṣe fún baba rẹ̀ láàárín àwọn agutan; kìínìún sì dé, àti ⟨את⟩ egbẹ́rẹ́, ó sì mú àgùntàn kúrò nínú ẹgbẹ́ ọ̀ṣí náà.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "olùṣọ́-ọ̀ṣí"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ti ṣe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ẹrú rẹ"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "fún baba rẹ̀"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "láàárín àwọn agutan"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "sì dé"
+    },
+    {
+      "surface": "הארי",
+      "gloss": "kìínìún"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "egbẹ́rẹ́"
+    },
+    {
+      "surface": "הדוב",
+      "gloss": "egbẹ́rẹ́"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "sì mú … kúrò"
+    },
+    {
+      "surface": "שה",
+      "gloss": "àgùntàn"
+    },
+    {
+      "surface": "מהעדר",
+      "gloss": "kúrò nínú ẹgbẹ́ ọ̀ṣí náà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:51:26.369463150Z",
+  "model": "glm-5.3"
+}

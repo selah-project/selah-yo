@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 106,
+  "translation": "Ẹ sáfẹ́yìntí Yah; ẹ dúpa fún Yahweh, nítorí pé ó dára, nítorí pé ìfẹ́ olóòtítọ́ rẹ̀ wà títí láé.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ẹ sáfẹ́yìntí"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ẹ dúpa fún"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ó dára"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "títí láé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ìfẹ́ olóòtítọ́ rẹ̀ wà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:39.526244580Z",
+  "model": "glm-5.3"
+}

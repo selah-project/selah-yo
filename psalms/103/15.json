@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 103,
+  "translation": "Ènìyàn-móòrùn, ọjọ́ rẹ̀ dà bí kọ̀ọ̀gbìn, bí èso-ẹyẹ ti pápá, bẹ́ẹ̀ ni ó ń ṣẹ́hùn lásàn.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "ènìyàn-móòrùn"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "dà bí kọ̀ọ̀gbìn"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ọjọ́ rẹ̀"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "bí èso-ẹyẹ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ti pápá"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ó ń ṣẹ́hùn lásàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:49:18.181232809Z",
+  "model": "glm-5.3"
+}

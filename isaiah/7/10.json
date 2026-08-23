@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Yahweh tún ṣàfikún ọ̀rọ̀ sí Ahaz, wí pé:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "tún ṣàfikún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀ (sísọ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:41:11.081470188Z",
+  "model": "glm-5.3"
+}

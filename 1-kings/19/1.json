@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Achab sọ fún Izebel gbogbo nnkan tí Eliyahu ṣe, àti ⟨את⟩ gbogbo nnkan tí ó pa ⟨את⟩ gbogbo àwọn wòlíì nípa idà.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ó sọ fún"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "fún Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo nnkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo nnkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ó pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn wòlíì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "àwọn wòlíì"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nípa idà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:23:51.707923021Z",
+  "model": "glm-5.3"
+}

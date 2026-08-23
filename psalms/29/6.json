@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Ó sì ń mú wọn jìjá bí ọ̀dọ̀ malù; Lebanoni àti Siriọn bí ọmọ efọ̀n.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "Ó sì ń mú wọn jìjá"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bí"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ọ̀dọ̀ malù"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanoni"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "àti Siriọn"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bí"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "efọ̀n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:37.691922334Z",
+  "model": "glm-5.3"
+}

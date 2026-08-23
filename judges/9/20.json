@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "ṣùgbọ́n bí kò bá ṣe bẹ́ẹ̀, iná kí ó jáde kúrò lọ́dọ̀ Avimeleki, kí ó sì jẹ ⟨את⟩ àwọn olórí Shekemu àti ⟨את⟩ ilé Milo; iná sì kí ó jáde kúrò lọ́dọ̀ àwọn olórí Shekemu àti lọ́dọ̀ ilé Milo, kí ó sì jẹ ⟨את⟩ Avimeleki.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ṣùgbọ́n bí kò bá ṣe bẹ́ẹ̀"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò bá ṣe bẹ́ẹ̀"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kí ó jáde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "kúrò lọ́dọ̀ Avimeleki"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "kí ó sì jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn olórí Shekemu"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ilé Milo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "iná sì kí ó jáde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "kúrò lọ́dọ̀ àwọn olórí"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "àti lọ́dọ̀ ilé"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "kí ó sì jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleki"
+    }
+  ],
+  "timestamp": "2026-08-23T00:36:09.450863119Z",
+  "model": "glm-5.3"
+}

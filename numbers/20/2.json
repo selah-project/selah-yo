@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Ó sì ṣe àì sí omi fún ìjọ náà; wọ́n sì ko ara wọn jọ sí Moshe lódì àti sí Aharon lódì.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sì ṣe àì"
+    },
+    {
+      "surface": "היה",
+      "gloss": " sí"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "fún ìjọ náà"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "wọ́n sì ko ara wọn jọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí … lódì"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti sí … lódì"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-22T23:59:01.250345337Z",
+  "model": "glm-5.3"
+}

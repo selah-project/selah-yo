@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 11:8",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Nítorí náà kí ẹ ṣọ ⟨את⟩ gbogbo àṣẹ tí èmi ń pa lọ́wọ́ fún yín òní, kí ẹ lè le, kí ẹ sì wọ̀ ó, kí ẹ sì gba ⟨את⟩ ilẹ̀ náà ní jọ, tí ẹ ń kọjá síbẹ̀, láti gba á ní jọ.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kí ẹ ṣọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àṣẹ náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "àṣẹ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ń pa lọ́wọ́ fún yín"
+    },
+    {
+      "surface": "היום",
+      "gloss": "òní"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí ẹ lè"
+    },
+    {
+      "surface": "תחזקו",
+      "gloss": "le"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "kí ẹ sì wọ̀"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "kí ẹ sì gba ní jọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ náà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ẹ̀yin"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ń kọjá"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "síbẹ̀"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "láti gba á ní jọ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:11:07.114017318Z",
+  "model": "glm-5.3"
+}

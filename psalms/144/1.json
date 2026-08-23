@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 144,
+  "translation": "Ti David. Yahweh, ọ̀kúta mi, yóò kú orire, ẹni tí ó ń kọ́nnú ẹ̀ mi ní ogun, ẹ̀rọ́ ìka ẹsẹ̀ mi ní ìjà.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ti David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "yóò kú orire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ọ̀kúta mi"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ẹni tí ó ń kọ́nnú"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ẹ̀ mi"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "ní ogun"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "ẹ̀rọ́ ìka ẹsẹ̀ mi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ní ìjà"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:07.821133935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ọmọ mi, pa àwọn ọ̀rọ̀ mi mọ́, kí ó sì jẹ́ kí ⟨את⟩ àwọn àṣẹ mi dìdé ⟨את⟩ pẹ̀lú rẹ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ọmọ mi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "pa…mọ́"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "àwọn ọ̀rọ̀ mi"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "kí ó sì jẹ́ kí ⟨את⟩ àwọn àṣẹ mi"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "dìdé"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pẹ̀lú rẹ",
+      "marks": "⟨את⟩ àwọn àṣẹ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:04:59.188836316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 20,
+  "translation": "Davídì sì wí fún Jonatan pé: Ta ni yóò sọ fún mi? Tàbí kí ni baba rẹ yóò dáhùn sí ọ láìlórò?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davídì"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "yóò sọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "או",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí ni"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "yóò dáhùn sí ọ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba rẹ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "láìlórò"
+    }
+  ],
+  "timestamp": "2026-08-23T00:50:16.892928201Z",
+  "model": "glm-5.3"
+}

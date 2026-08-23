@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ó wá sí Shomeron, ó lu ⟨את⟩ gbogbo àwọn tí ó ṣẹ́kù fún Ahab ní Shomeron, títí ó fi parun mú wọn, gẹ́gẹ́ bí ọ̀rọ̀ Yahweh tí ó sọ sí Eliyahu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ó wá sí"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ó lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn tí ó ṣẹ́kù fún Ahab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "àwọn tí ó ṣẹ́kù"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "fún Ahab"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ní Shomeron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ó fi parun mú wọn"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "gẹ́gẹ́ bí ọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-23T01:29:49.569629725Z",
+  "model": "glm-5.3"
+}

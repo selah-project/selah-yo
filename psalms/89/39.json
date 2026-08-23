@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 89,
+  "translation": "Ṣùgbọ́n ìwọ ti sọ ọ́ sílẹ̀, ìwọ ti kọ̀ ọ́; ìwọ ti bínú pẹ̀lú Mashiach rẹ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ṣùgbọ́n ìwọ"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ti sọ ọ́ sílẹ̀"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "ti kọ̀ ọ́"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "ti bínú"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiach rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:42.596720706Z",
+  "model": "glm-5.3"
+}

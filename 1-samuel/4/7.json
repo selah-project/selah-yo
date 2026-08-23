@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àwọn Filistini sì bẹ̀rù̀, nítorí wọ́n ti wí pé, Elohim ti dé sí ibùdó náà. Wọ́n sì wí pé, Ìrẹ̀pọ̀ fún wa! Nítorí pé èyí ti dà bíi èyí kò tíì ṣẹlẹ̀ rí — ánàá, ọjọ́ méjì sẹ́yìn.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "wọ́n sì bẹ̀rù̀"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "àwọn Filistini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "wọ́n ti wí pé"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ti dé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ibùdó náà"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí pé"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Ìrẹ̀pọ̀ fún wa!"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ṣẹlẹ̀ rí"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "bíi èyí"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "ánàá"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "ọjọ́ méjì sẹ́yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:19.686935161Z",
+  "model": "glm-5.3"
+}

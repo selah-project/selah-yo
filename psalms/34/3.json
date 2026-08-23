@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Nínú Yahweh ni ẹ̀mí mi ń yẹran; kí àwọn tẹlẹmúlẹ̀ gbọ́, kí wọ́n sì dúnrọ́kan.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Nínú Yahweh"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ń yẹran (ń fún ńkún)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "kí ... gbọ́"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "àwọn tẹlẹmúlẹ̀"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "kí wọ́n sì dúnrọ́kan"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:23.561608342Z",
+  "model": "glm-5.3"
+}

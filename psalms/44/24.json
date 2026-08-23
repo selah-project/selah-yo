@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Jí! Ìwọ ń sùn fúnra rẹ̀ táa? Adonai; dídẹ! Má ṣe sọ wa nínú fún láéláé.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Jí!"
+    },
+    {
+      "surface": "למה",
+      "gloss": "fúnra rẹ̀ táa"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "ìwọ ń sùn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "dídẹ!"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "sọ wa nínú"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "fún láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:51.483145466Z",
+  "model": "glm-5.3"
+}

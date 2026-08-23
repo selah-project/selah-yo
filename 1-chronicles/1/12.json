@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "àti ⟨את⟩ àwọn Patrusim, àti ⟨את⟩ àwọn Kasluchim, (ìdí èyí ni àwọn Filistim ti jáde wá), àti ⟨את⟩ àwọn Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "àwọn Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn Kasluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "àwọn Kasluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ìdí èyí ni"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ti jáde wá"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kúrò níbẹ̀"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Filistim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "àwọn Kaftorim"
+    }
+  ],
+  "timestamp": "2026-08-23T05:07:49.245950406Z",
+  "model": "glm-5.3"
+}

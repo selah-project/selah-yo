@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Nebuzaradan, olórí àwọn ológun-ìdájọ́, sì gbé ⟨את⟩ èyí tí ó kù lára àwọn ènìyàn tí ó ṣẹ́kù ní ìlú náà, àti ⟨את⟩ àwọn tí ó sábẹ́ sí ọba Bavel, àti ⟨את⟩ èyí tí ó kù lára ìpọ̀njọ púpọ̀ náà, lọ ní ìgbèkùn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sì gbé ⟨את⟩",
+      "marks": "èyí tí ó kù lára àwọn ènìyàn"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "èyí tí ó kù lára"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "tí ó ṣẹ́kù"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ní ìlú náà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "àwọn tí ó sábẹ́"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "àwọn tí ó sábẹ́"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ó sábẹ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "èyí tí ó kù lára ìpọ̀njọ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "èyí tí ó kù lára"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ìpọ̀njọ púpọ̀ náà"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "gbé … lọ ní ìgbèkùn"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "àwọn ológun-ìdájọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:39.338508834Z",
+  "model": "glm-5.3"
+}

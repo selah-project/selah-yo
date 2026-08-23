@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Ẹni-burúkú yóò padà sí Sheol — gbogbo àwọn orílẹ̀-èdè tí ó gbàgbe Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "yóò padà sí"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ẹni-burúkú"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "tí ó gbàgbe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:57.293284214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Láti lé ⟨את⟩ gbogbo ọta rẹ kuro niwaju rẹ, gegebi Yahweh ti sọ.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "láti lé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọ̀tá rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ọ̀tá rẹ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kúrò níwájú rẹ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:08:45.113504449Z",
+  "model": "glm-5.3"
+}

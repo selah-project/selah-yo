@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Nípa ìpàṣẹ rẹ ni mo gbọ́n; nítorí náà mo kórìíra gbogbo ọ̀nà ìṣẹ̀.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "nípa ìpàṣẹ rẹ"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "mo gbọ́n"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "náà"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mo kórìíra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ìṣẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:16.403457493Z",
+  "model": "glm-5.3"
+}

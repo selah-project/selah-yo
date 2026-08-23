@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 81,
+  "translation": "Kí El àjèjì má ṣe wà nínú rẹ, kí o sì má ṣe forí balẹ̀ fún El òkèrè.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wà"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nínú rẹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "àjèjì"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kí o sì má ṣe"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "forí balẹ̀"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "fún El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "òkèrè"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:52.006375929Z",
+  "model": "glm-5.3"
+}

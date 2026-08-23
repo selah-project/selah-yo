@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Ó sì gbé iná sílẹ̀ sínu Yehuda, ó sì jẹ àwọn àgbàlá ìdídé Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ó sì gbé sílẹ̀"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "sínu Yehuda"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ó sì jẹ"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "àwọn àgbàlá ìdídé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-23T03:06:27.953355701Z",
+  "model": "glm-5.3"
+}

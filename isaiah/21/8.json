@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 21:8",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Ó sì kígbe bí kìnnìún: Lórí ọ̀run-aṣẹ́yọ, Adonai, èmi dúró láìnígbà ní ọ̀sán, àti lórí ipò ìṣọ́ mi èmi dúró gígún gbogbo òru.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ó sì kígbe"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "bí kìnnìún"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "ọ̀run-aṣẹ́yọ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dúró"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "láìnígbà"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ní ọ̀sán"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti lórí"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ipò ìṣọ́ mi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "dúró gígún"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הלילות",
+      "gloss": "òru"
+    }
+  ],
+  "timestamp": "2026-08-23T01:46:31.666378039Z",
+  "model": "glm-5.3"
+}

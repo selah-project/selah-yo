@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 108,
+  "translation": "Orin kíkọ, orin-ọfọ̀ kan fún Dawid.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "orin kíkọ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin-ọfọ̀"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún Dawid"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:57.690402691Z",
+  "model": "glm-5.3"
+}

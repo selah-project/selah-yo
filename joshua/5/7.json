@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Wọ́n sì gbé ⟨את⟩ àwọn ọmọ wọn dílẹ̀ ní ipò wọn; Yehoshua ni ó mul ⟨את⟩ ⟨wọn⟩, nítorí wọ́n jẹ́ àwọn aláì-mul, nítorí a kò ti mul wọn lójú ọ̀nà.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọ wọn"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "àwọn ọmọ wọn"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "gbé … dílẹ̀"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "ní ipò wọn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨wọn⟩",
+      "marks": "àwọn ọmọ wọn (yà àsọyé-ìṣẹ̀ wá)"
+    },
+    {
+      "surface": "מל",
+      "gloss": "mul"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "àwọn aláì-mul"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wọ́n jẹ́"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a kò ti"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "mul"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lójú ọ̀nà"
+    }
+  ],
+  "timestamp": "2026-08-23T00:23:33.576824676Z",
+  "model": "glm-5.3"
+}

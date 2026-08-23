@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Nítorí kò sí òtítọ́ nínú ẹnu wọn; inú wọn ⟨jẹ́⟩ ìparun; èjìká wọn ⟨jẹ́⟩ sísàn-íkú tí ó sí; wọ́n ń fi ahọ́n wọn máa dán ⟨àṣeyọrí láìtó⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kò sí"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "nínú ẹnu wọn"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "òtítọ́"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "inú wọn"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ìparun"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "sísàn-íkú"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "tí ó sí"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "èjìká wọn"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ahọ́n wọn"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "wọ́n ń máa dán"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:30.937568696Z",
+  "model": "glm-5.3"
+}

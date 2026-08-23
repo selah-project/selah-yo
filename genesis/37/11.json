@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Àwọn ará ìdílé rẹ̀ sì kórìíra ìwà ọ̀fẹ́ sí i; baba rẹ̀ sì ṣàtìléwọ́n ⟨את⟩ ọ̀rọ̀ náà.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "sì kórìíra ìwà ọ̀fẹ́"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "àwọn ará ìdílé rẹ̀"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "baba rẹ̀ sì"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ṣàtìléwọ́n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ náà"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀ náà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:08:18.243124342Z",
+  "model": "glm-5.3"
+}

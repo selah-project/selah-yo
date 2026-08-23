@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 42,
+  "translation": "Mo ó pa àwọn òkè àti àwọn òkè kéékèké rú; gbogbo koró wọn ni mo ó gbé; mo ó sọ àwọn odò di àwọn erékùṣù, àti àwọn adagun ni mo ó gbé.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "Mo ó pa rú"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "àti àwọn òkè kéékèké"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "koró wọn"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "mo ó gbé"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "mo ó sọ di"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "àwọn odò"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "àwọn erékùṣù"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "àti àwọn adagun"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "mo ó gbé"
+    }
+  ],
+  "timestamp": "2026-08-23T01:56:52.451033958Z",
+  "model": "glm-5.3"
+}

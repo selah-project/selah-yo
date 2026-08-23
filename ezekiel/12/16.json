@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 12:16",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Ṣùgbọ́n èmi óò yà àwọn ọkùnrin díẹ̀ nínú wọn sílẹ̀, kúrò lọ́wọ́ idà, kúrò lọ́wọ́ ebi àti kúrò lọ́wọ́ ààrùn, láti jẹ́ kí wọn lè sọ ⟨את⟩ gbogbo ìṣekúṣe wọn jáde láàárín àwọn orílẹ̀-èdè tí wọn bá ti dé bẹ̀, kí wọn sì mọ̀ pé èmi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והותרתי",
+      "gloss": "Ṣùgbọ́n èmi óò yà sílẹ̀"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nínú wọn"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "díẹ̀ (nínú ìṣirò)"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kúrò lọ́wọ́ idà"
+    },
+    {
+      "surface": "מרעב",
+      "gloss": "kúrò lọ́wọ́ ebi"
+    },
+    {
+      "surface": "ומדבר",
+      "gloss": "àti kúrò lọ́wọ́ ààrùn"
+    },
+    {
+      "surface": "למען",
+      "gloss": "láti jẹ́ kí"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "wọn lè sọ jáde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ìṣekúṣe wọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "תועבותיהם",
+      "gloss": "ìṣekúṣe wọn"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "láàárín àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "באו",
+      "gloss": "wọn bá ti dé"
+    },
+    {
+      "surface": "שם",
+      "gloss": "bẹ̀"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "kí wọn sì mọ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T06:00:10.840944012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "Dawid sì wí fún àwọn Giboni pé, Kí ni mo ṣe fún yín? Àti nípa kí ni mo ṣe ìrápadà, kí ẹ̀ sì bùkún ⟨את⟩ ogún Yahweh?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "àwọn Giboni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kí ni"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mo ṣe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "àti nípa kí ni"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "mo ṣe ìrápadà"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "kí ẹ̀ sì bùkún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogún"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ogún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T01:07:38.056890579Z",
+  "model": "glm-5.3"
+}

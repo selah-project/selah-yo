@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Fún olùdarí-orin, fún ìránṣẹ́ Yahweh, fún David, tí ó sọ fún Yahweh ⟨את⟩ ọ̀rọ̀ orin yìí, ní ọjọ́ tí Yahweh gbà ⟨את⟩ rẹ̀ là láti ọwọ́ gbogbo ọ̀tá rẹ̀, àti láti ọwọ́ Shaul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fún olùdarí-orin"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "fún ìránṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ orin yìí"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "orin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ní ọjọ́"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "gbà … là"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ rẹ̀",
+      "marks": "David"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "láti ọwọ́"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ọ̀tá rẹ̀"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "àti láti ọwọ́"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:33.234824947Z",
+  "model": "glm-5.3"
+}

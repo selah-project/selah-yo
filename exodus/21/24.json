@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 21,
+  "translation": "ojú ní ipò ojú, eyín ní ipò eyín, ọwọ́ ní ipò ọwọ́, ẹsẹ̀ ní ipò ẹsẹ̀.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "שן",
+      "gloss": "eyín"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "שן",
+      "gloss": "eyín"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ẹsẹ̀"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ẹsẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:23:40.809159258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ẹni pàṣà, ẹni dàkú, àti ẹni tí wọ́n ti gé okùn rẹ̀ kì í wọ inú ìpàjọ Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "wọ"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "ẹni pàṣà"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ẹni dàkú"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "àti ẹni tí wọ́n ti gé"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "okùn rẹ̀"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "inú ìpàjọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:17:15.942634709Z",
+  "model": "glm-5.3"
+}

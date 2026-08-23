@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Moshe sì fi ⟨את⟩ ẹ̀gbón-ìyàwó rẹ̀ lọ; ó sì lọ sí ilẹ̀ ara rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sì fi … lọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀gbón-ìyàwó rẹ̀"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ẹ̀gbón-ìyàwó rẹ̀"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fúnra rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ilẹ̀ ara rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:15.776387304Z",
+  "model": "glm-5.3"
+}

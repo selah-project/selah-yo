@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ìgbà tí onígbẹ́ ohun ìjà rẹ̀ rí pé Shaúl ti kú, òun náà ṣubú lórí idà náà, ó sì kú.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rí"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "onígbẹ́ ohun ìjà"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ohun ìjà rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ti kú"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ṣubú"
+    },
+    {
+      "surface": "גם",
+      "gloss": "náà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "òun"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "idà náà"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ó sì kú"
+    }
+  ],
+  "timestamp": "2026-08-23T05:12:57.749505657Z",
+  "model": "glm-5.3"
+}

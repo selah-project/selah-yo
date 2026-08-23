@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ní oore àwọn olódọ́tun, ìlú yóò yọ; ní ìparun àwọn ẹlẹ́ṣẹ̀ sí i, orin ayọ̀.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "ní oore"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "àwọn olódọ́tun"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "yóò yọ"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "ní ìparun"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "àwọn ẹlẹ́ṣẹ̀"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "orin ayọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:06:38.200858237Z",
+  "model": "glm-5.3"
+}

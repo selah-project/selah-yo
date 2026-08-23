@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Yahweh ti búra ní ìgbéraga Yaakov pé, “Èmi kì í ṣe gbé láé láé ní gbogbo iṣẹ́ wọn.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ti búra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "ní ìgbéraga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pé"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "èmi kì í ṣe gbé"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "láé láé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "iṣẹ́ wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:08:19.245416299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Wọ́n sì múra kí ọjọ́ mọ́ ní àárọ̀, Òòrùn sì rán mọ́ lórí omi náà, Moab sì rí, láti ẹ̀gbẹ́ òke òré, ⟨את⟩ omi náà — pupa bí ẹjẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "wọ́n sì múra kí ọjọ́ mọ́"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ní àárọ̀"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "Òòrùn sì"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "rán mọ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "המים",
+      "gloss": "omi náà"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "wọ́n sì rí"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "láti ẹ̀gbẹ́ òke òré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omi náà"
+    },
+    {
+      "surface": "המים",
+      "gloss": "omi náà"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "pupa"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "bí ẹjẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:27:10.585038978Z",
+  "model": "glm-5.3"
+}

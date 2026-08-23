@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Esav wí pé, \"Èmi ní pọ̀, ará mi; jẹ́ kí ti ẹ ti ó jẹ́ ti ẹ̀ wà fún ẹ.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "wà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pọ̀"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ará mi"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "jẹ́ kí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti ẹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí ó"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jẹ́ ti ẹ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:06:30.984278509Z",
+  "model": "glm-5.3"
+}

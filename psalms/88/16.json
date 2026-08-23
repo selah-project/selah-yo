@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Èmi jẹ́ aláìnírò, èmi sì ń kú láti ìgbà èwe; mo ti ru ìrù rẹ, mo sì wà nínú ìṣọ̀kan-ọkàn.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "aláìnírò"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "sì ń kú"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "láti ìgbà èwe"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mo ti ru"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "ìrù rẹ"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "mo sì wà nínú ìṣọ̀kan-ọkàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:21.897403901Z",
+  "model": "glm-5.3"
+}

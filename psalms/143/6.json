@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 143,
+  "translation": "Mo ti te ọwọ́ mi jẹ́ sí ọ̀dọ̀ rẹ, ẹ̀mí mi ti di ilẹ̀ tí ó gbẹ kí o ṣe é mi. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "mo ti te... jẹ́"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "bíi ilẹ̀"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "tí ó gbẹ kí o ṣe é mi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nítorí rẹ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:22.304930184Z",
+  "model": "glm-5.3"
+}

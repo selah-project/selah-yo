@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "micah 7:16",
+  "book": "micah",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Àwọn orílẹ̀-èdè yóò rí i, wọ́n yóò sì tìraka fún gbogbo agbára wọn; wọ́n yóò fi ọwọ́ bọ́ ẹnu, etí wọn yóò sì di àgọ̀dọ̀.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "yóò rí i"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "yóò sì tìraka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fún gbogbo"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "agbára wọn"
+    },
+    {
+      "surface": "יִראו\/ישימו",
+      "gloss": "yóò fi … bọ́",
+      "note": "ignored"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "yóò fi … bọ́"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "על",
+      "gloss": "bọ́"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ẹnu"
+    },
+    {
+      "surface": "אזניהם",
+      "gloss": "etí wọn"
+    },
+    {
+      "surface": "תחרשנה",
+      "gloss": "yóò sì di àgọ̀dọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:12:40.006513011Z",
+  "model": "glm-5.3"
+}

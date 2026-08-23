@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 107,
+  "translation": "Ẹ̀yin ní wọn rí i àwọn iṣẹ́ Yahweh, àti àwọn ìṣẹ̀lẹ̀ ìyanu rẹ̀ nínú ijù omi.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ẹ̀yin ní wọn"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "rí i"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "àwọn iṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "àti àwọn ìṣẹ̀lẹ̀ ìyanu rẹ̀"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "nínú ijù omi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:43.205608024Z",
+  "model": "glm-5.3"
+}

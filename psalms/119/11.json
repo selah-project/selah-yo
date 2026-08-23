@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Nínú ọkàn mi ni mo ti fi ọ̀rọ̀ rẹ pamọ́, kí n má lè ṣẹ̀ sí ọ́.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "nínú ọkàn mi"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "mo ti fi pamọ́"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ọ̀rọ̀ rẹ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "má"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "ṣẹ̀"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sí ọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:01.521520438Z",
+  "model": "glm-5.3"
+}

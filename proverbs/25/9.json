@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Ìṣẹ̀ rẹ ṣàbéjì pẹ̀lú ⟨את⟩ ọrẹ́ rẹ, àti asírí elòmíràn má ṣe ṣí.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "ìṣẹ̀ rẹ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ṣàbéjì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrẹ́ rẹ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ọrẹ́ rẹ"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "àti asírí"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "elòmíràn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ṣí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:11:12.616085633Z",
+  "model": "glm-5.3"
+}

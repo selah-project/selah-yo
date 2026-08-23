@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 10:18",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ìwọ sì ṣé ni mo jáde nínú ikùn ìyá? Ṣé mi kí o jẹ́ pé ojú kò ní rí mi.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ìwọ sì ṣé ni"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "nínú ikùn ìyá"
+    },
+    {
+      "surface": "הצאתני",
+      "gloss": "mo jáde (Ìwọ mú mi jade)"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ṣẹ́ mi kí o jẹ́ pé (mo kú)"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ojú sì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "ní rí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:19:17.685483141Z",
+  "model": "glm-5.3"
+}

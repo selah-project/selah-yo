@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Nítorí Ezrá ti ṣetí ọkàn rẹ̀ láti wádırí ⟨את⟩ òfin Yahweh, láti ṣe é, àti láti kọ́ nínúú Israẹli ofin àti ìdájọ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezrá"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ti ṣetí"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "láti wádırí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òfin"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "òfin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "láti ṣe é"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "àti láti kọ́ni"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nínúú Israẹli"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ofin"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ìdájọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T04:57:48.386167587Z",
+  "model": "glm-5.3"
+}

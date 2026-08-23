@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 144,
+  "translation": "Ènìyàn dà bí èrò-àìpẹ́; ọjọ́ rẹ̀ dà bí ìjìkẹ̀ tí ó ń kọjá.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Ènìyàn"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "bí èrò-àìpẹ́"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "dà"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ọjọ́ rẹ̀"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "bí ìjìkẹ̀"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "tí ó ń kọjá"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:07.821683897Z",
+  "model": "glm-5.3"
+}

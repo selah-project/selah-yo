@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Má ṣe gba ⟨את⟩ àǹfàní owó tàbí ìmú-ọ̀sọ̀ lára rẹ̀; sọ́ra fún Elohim rẹ̀, kí ará rẹ̀ lè gbé pẹ̀lú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "àǹfàní owó tàbí ìmú-ọ̀sọ̀ lára rẹ̀"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "àǹfàní owó"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "ìmú-ọ̀sọ̀"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "sọ́ra fún"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim rẹ̀"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "kí ó lè gbé"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ará rẹ̀"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pẹ̀lú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:45:34.937669207Z",
+  "model": "glm-5.3"
+}

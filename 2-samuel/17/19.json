@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Obìnrin náà sì gba, ó sì tàn ⟨את⟩ àwò náà lé ojú kángà náà, ó sì tàn bùrẹ́dì lílọ̀ lé e, ọ̀rọ̀ kò sì di mọ̀.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "gba"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "obìnrin náà"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "tàn (àwò)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwò náà"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "àwò náà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "kángà náà"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "tàn"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lé e"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "bùrẹ́dì lílọ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "di mọ̀"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:03:24.068612078Z",
+  "model": "glm-5.3"
+}

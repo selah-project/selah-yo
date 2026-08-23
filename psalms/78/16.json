@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Ó sì mú àwọn omi-àlọ̀ jáde láti inú àpáta, ó sì sọ omi rọ̀ gẹ́gẹ́ bíi àwọn odò.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Ó sì mú jáde"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "àwọn omi-àlọ̀"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "láti inú àpáta"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "ó sì sọ rọ̀"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "gẹ́gẹ́ bíi àwọn odò"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:42:42.446844249Z",
+  "model": "glm-5.3"
+}

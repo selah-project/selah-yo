@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Wọ́n rí ⟨את⟩ Elohim ti Yisrael, àti láti ìsàlẹ̀ ẹsẹ̀ rẹ̀ ⟨wà⟩ bíi iṣẹ́ aláwọ̀-funfun ti ⟨the⟩ sapphire, àti bíi ìrísí ⟨the⟩ ọ̀run ní ìmọ́lẹ̀ rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Wọ́n rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim ti Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "àti láti ìsàlẹ̀"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "bíi iṣẹ́"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "aláwọ̀-funfun"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "ti sapphire"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "àti bíi ìrísí"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ní ìmọ́lẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:32.491920331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Èmi yóò dá ọ̀rọ̀ rẹ lóhún, àti ⟨את⟩ àwọn ọrẹ rẹ pẹ̀lú rẹ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "yóò dá ọ lóhún"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọrẹ rẹ"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "àwọn ọrẹ rẹ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pẹ̀lú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:27:50.387204581Z",
+  "model": "glm-5.3"
+}

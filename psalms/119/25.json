@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ẹ̀mí mi fìmúlẹ̀ mọ́ erùpẹ̀; fi mí ìyè wò, gẹ́gẹ́ bí ọ̀rọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "fìmúlẹ̀ mọ́"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "mọ́ erùpẹ̀"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ẹ̀mí mi"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "fi mí ìyè wò"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "gẹ́gẹ́ bí ọ̀rọ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T06:06:53.702543111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ọba Mitzrayim sì pé àwọn alábọ̀sí wá, ó sì wí fún wọn pé, Èdé ni tí ẹ ṣe ohun èlò yìí, tí ẹ jẹ́ kí ⟨את⟩ àwọn ọmọkùnrin yè?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sì pé…wá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ọba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "fún àwọn alábọ̀sí"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "להן",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Èdé ni"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "tí ẹ ṣe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ohun èlò"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "tí ẹ jẹ́ kí…yè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọmọkùnrin"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "àwọn ọmọkùnrin"
+    }
+  ],
+  "timestamp": "2026-08-22T23:14:47.648523432Z",
+  "model": "glm-5.3"
+}

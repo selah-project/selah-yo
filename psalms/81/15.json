@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 81,
+  "translation": "Láìpẹ́ ni mo bá ti ṣẹ́ àwọn ọ̀tá wọn lọ́wọ́, mo sì bá ti da ọwọ́ Mi padà sí àwọn olójú-èlé wọn.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Láìpẹ́"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "àwọn ọ̀tá wọn"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "mo bá ti ṣẹ́ lọ́wọ́"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mo sì sí"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "àwọn olójú-èlé wọn"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mo bá ti da padà"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ Mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:11.172489879Z",
+  "model": "glm-5.3"
+}

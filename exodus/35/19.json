@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "⟨את⟩ àwọn aṣọ iṣẹ́ fún jíjẹ́ olùṣẹ́ níbi mímọ́, ⟨את⟩ àwọn aṣọ mímọ́ tí wọ́n sọ fún Aharon àlùfáà, àti ⟨את⟩ aṣọ àwọn ọmọ rẹ̀ fún jíjẹ́ àlùfáà.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn aṣọ iṣẹ́"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "àwọn aṣọ"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "fún jíjẹ́ olùṣẹ́"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "níbi mímọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn aṣọ mímọ́"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "àwọn aṣọ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "mímọ́"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "fún Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "aṣọ àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aṣọ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "fún jíjẹ́ àlùfáà"
+    }
+  ],
+  "timestamp": "2026-08-22T23:30:37.545561215Z",
+  "model": "glm-5.3"
+}

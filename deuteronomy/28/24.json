@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Yahweh yóò sì fi ⟨את⟩ òjò ilẹ̀ rẹ ṣe érùfú àti erùpẹ̀; ó yóò sì ń rọ̀ láti ọ̀run wá sórí rẹ, títí tí a fi pa ọ́ run.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "yóò fi…ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òjò ilẹ̀ rẹ"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "òjò"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ilẹ̀ rẹ"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "érùfú"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "àti erùpẹ̀"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ń rọ̀ wá"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sórí rẹ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí tí"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "a fi pa ọ́ run"
+    }
+  ],
+  "timestamp": "2026-08-23T00:19:15.861004277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Yahweh, Elohim yín, pọ̀ sí i ⟨את⟩ yín; ki ẹ wo, ẹ jẹ́ bí ìràwọ̀̀ ⟨the⟩ ọ̀run lónìí, ní púpọ̀ púpọ̀.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yín"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "pọ̀ sí i"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "ki ẹ wo, ẹ jẹ́"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "bí ìràwọ̀"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ọ̀run"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ní púpọ̀ púpọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:13.205994036Z",
+  "model": "glm-5.3"
+}

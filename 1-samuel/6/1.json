@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Áróná Yahweh sì wà ní pápá àwọn Filistini fún oṣù méje.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "sì wà"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Áróná"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ní pápá"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "àwọn Filistini"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "méje"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "oṣù"
+    }
+  ],
+  "timestamp": "2026-08-23T00:44:48.684277184Z",
+  "model": "glm-5.3"
+}

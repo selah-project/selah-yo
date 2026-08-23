@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Nísinsin yìí, ẹ dìde, ẹ kọjá fún yín ⟨את⟩ odò Zered; a sì kọjá ⟨את⟩ odò Zered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nísinsin yìí"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ẹ dìde"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ẹ kọjá"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fún yín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odò Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "odò"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "a sì kọjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odò Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "odò"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-08-23T00:06:15.294240032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 44,
+  "translation": "Àwa wá sì wí fún Adonai wa pé, Ọmọdé náà kò lè fi baba rẹ̀ sílẹ̀; bí ó bá sì fi baba rẹ̀ sílẹ̀, baba rẹ̀ yóò kú.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Àwa wá sì wí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai wa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "lè"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "Ọmọdé náà"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba rẹ̀"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "bí ó bá sì fi sílẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba rẹ̀"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "yóò kú"
+    }
+  ],
+  "timestamp": "2026-08-22T23:11:25.687856130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Èmi ó sì fún yín ní àwọn olùṣọ́-àgúntàn gé bí ọkàn mi, wọn ó sì bọ́ ⟨את⟩ yín ní ìmọ̀ àti ọgbọ́n.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Èmi ó sì fún"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yín"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "àwọn olùṣọ́-àgúntàn"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "gé bí ọkàn mi"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "wọn ó sì bọ́"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yín"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ìmọ̀"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "àti ọgbọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T02:09:15.506372680Z",
+  "model": "glm-5.3"
+}

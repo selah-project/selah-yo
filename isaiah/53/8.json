@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 53,
+  "translation": "Láti ìpàmọ́ àti láti ètè-ídájọ́ ni a gbé e mú lọ; àti ⟨את⟩ ìran rẹ̀, ta ni yóò lè sọ̀rọ̀ nípa rẹ̀? Nítorí tí a ge e kúrò nínú ilẹ̀ àwọn olààyè; nítorí àṣìṣe ìjọ mi ni ìnira tí ó bá a ṣẹlẹ̀.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "láti ìpàmọ́"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "àti láti ètè-ídájọ́"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a gbé e mú lọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "ìran rẹ̀"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "ìran rẹ̀"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta ni"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "yóò lè sọ̀rọ̀ nípa rẹ̀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "a ge e kúrò"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nínú ilẹ̀"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "àwọn olààyè"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "nítorí àṣìṣe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ìjọ mi"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ìnira"
+    },
+    {
+      "surface": "למו",
+      "gloss": "tí ó bá a ṣẹlẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T02:01:14.330256093Z",
+  "model": "glm-5.3"
+}

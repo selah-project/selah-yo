@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Wọ́n wí pé, Ṣé Yahweh ti sọ̀rọ̀ ṣoṣo pẹ̀lú Moshe ni? Ṣé ó ti sọ̀rọ̀ pẹ̀lú wa nù naa rẹ̀ a? Yahweh sì gbọ́.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n wí pé"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "ṣé…ṣoṣo ni"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ṣoṣo"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "pẹ̀lú Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sọ̀rọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ṣé…ki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pẹ̀lú wa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sọ̀rọ̀"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ó gbọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:55:22.136805663Z",
+  "model": "glm-5.3"
+}

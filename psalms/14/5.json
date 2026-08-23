@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Níbẹ̀ ni wọ́n ti payà pàtàkì; nítorí Elohim wà láàárín ìdíre ⟨àwọn⟩ olódọ́tun.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "wọ́n ti payà"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "pàtàkì"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "láàárín ìdíre"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olódọ́tun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:12.481250092Z",
+  "model": "glm-5.3"
+}

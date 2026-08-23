@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Mamzer kì í wọ inú ìpàjọ Yahweh; pàápàá ìran kẹwàá rẹ̀ kì í wọ inú ìpàjọ Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "wọ"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "mamzer"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "inú ìpàjọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pàápàá"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ìran"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "kẹwàá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "wọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "inú ìpàjọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T00:17:15.942891973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àwọn agbo àti àwọn màlúù gbogbo wọn, àti àwọn ẹranko igbó.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "àwọn agbo"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "àti àwọn màlúù"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "gbogbo wọn"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "àwọn ẹranko"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "igbó"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:28.013377346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Àlùfáà tí a ti yọ mọ́ ó sì mú lára ẹjẹ́ ọ̀gangan, ó sì gbé ⟨את⟩ wá sí àgọ́ ìpàdé.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ó sì mú"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "àlùfáà"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "tí a ti yọ mọ́"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "lára ẹjẹ́"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ọ̀gangan"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ó sì gbé wá"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "òun (ẹjẹ́ náà)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àgọ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìpàdé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:36:56.727396475Z",
+  "model": "glm-5.3"
+}

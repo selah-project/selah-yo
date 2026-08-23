@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "\"Nísìn yìí, ẹ mú akọrin-ìdílẹ̀ wá fún mi.\" Ó sì jẹ́ pé nígbà tí akọrin-ìdílẹ̀ náà ń kọrin, ọwọ́ Yahweh sì wà lára rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "nísìn yìí"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ẹ mú…wá"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "akọrin-ìdílẹ̀"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ó sì jẹ́ pé"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "nígbà tí…ń kọrin"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "akọrin-ìdílẹ̀ náà"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "sì wà"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lára rẹ̀"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ọwọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-23T01:26:20.884844720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì wí: \"Ìwọ ti ṣe kí? Ohùn ẹ̀jẹ̀ arákùnrin rẹ̀ ń kígbe sí mi, láti inú ilẹ̀ yìí.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kí"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "òṣe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ẹ̀jẹ̀"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "arákùnrin rẹ̀"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ń kígbe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí mi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "inú ilẹ̀ yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T05:38:56.456916211Z",
+  "model": "glm-5.3"
+}

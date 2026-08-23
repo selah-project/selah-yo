@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ìgbà tí ó bá ṣubú, kò níì ṣubú tẹ́lẹ̀ gan-an; nítorí Yahweh ní ọwọ́ rẹ̀ lórí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ìgbà tí"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ó bá ṣubú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "níì ṣubú tẹ́lẹ̀ gan-an"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "ń gbé ọwọ́ lórí"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:15.197076133Z",
+  "model": "glm-5.3"
+}

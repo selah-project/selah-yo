@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ìwọ̀nyí ni àwọn ọmọ Cham, nípa àwọn ẹbí wọn, nípa àwọn èdè wọn, ní àwọn ilẹ̀ wọn, ní àwọn orílẹ̀-èdè wọn.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ìwọ̀nyí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nípa àwọn ẹbí wọn"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "nípa àwọn èdè wọn"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ní àwọn ilẹ̀ wọn"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "ní àwọn orílẹ̀-èdè wọn"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:14.308623549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Bàbá rẹ ṣe ⟨את⟩ ẹ̀wùn wa láṣẹ líle; ìwọ sì, ní báyìí, ṣe iṣẹ́ láṣẹ líle bàbá rẹ, àti ẹ̀wùn tí ó lé wù tí ó fi lé wa lórí, di rórùn, kí a ó sì sin ìwọ.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Bàbá rẹ"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ṣe láṣẹ líle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ẹ̀wùn wa"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ẹ̀wùn wa"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ìwọ sì"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ní báyìí"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ṣe ... di rórùn"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bàbá rẹ"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "láṣẹ líle"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "àti ẹ̀wùn rẹ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "tí ó lé wù"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ó fi lé"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "wa lórí"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": ""
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "kí a ó sì sin ìwọ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:19:30.399248907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 4:8",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Kayin sì wí fún Hebel araa rẹ̀ ⟨sọ̀rọ̀ wọ̀nyí ní àkọsílẹ̀ Hébérù, ṣùgbọ́n kò yẹ kí a fi kún un⟩; Ó sì wáyé nígbà tí wọ́n wà nínú pápá, Kayin sì dìde sí Hebel araa rẹ̀ lọ, ó sì pa á.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "araa rẹ̀"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ó sì wáyé"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "nígbà tí wọ́n wà"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nínú pápá"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "sì dìde"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "araa rẹ̀"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "sì pa á"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:04.872421755Z",
+  "model": "glm-5.3"
+}

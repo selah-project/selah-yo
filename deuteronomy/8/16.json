@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Ẹni tí ó bo ọ lóúnjẹ pẹ̀lú manna ní ìgbó ìkọ̀kọ̀, tí àwọn baba rẹ kò mọ̀ — láti leẹ̀kú rẹ, àti láti dán rẹ wò, láti ṣe rere fún ọ ní ìparí ọjọ́ rẹ",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "Ẹni tí ó bo ọ lóúnjẹ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ní ìgbó ìkọ̀kọ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "mọ̀"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "àwọn baba rẹ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "láti leẹ̀kú rẹ"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "láti leẹ̀kú rẹ"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "àti láti dán rẹ wò"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "láti dán rẹ wò"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "láti ṣe rere fún ọ"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "ní ìparí ọjọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:28.335177939Z",
+  "model": "glm-5.3"
+}

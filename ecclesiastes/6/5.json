@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Gẹ́gẹ́ bíi, ọ̀ṣẹ́ láìfarada, ó kòríánú, ó sì kò mọ ohunkóhun; isinmi sì ní èyí pẹ̀lú ju èyí náà lọ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gẹ́gẹ́ bíi"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ọ̀ṣẹ́ (láìfarada)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rí"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ó sì kò"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mọ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "isinmi"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ní èyí"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ju èyí náà lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:22.006923018Z",
+  "model": "glm-5.3"
+}

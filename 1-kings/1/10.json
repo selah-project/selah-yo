@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Ṣùgbọ́n ⟨את⟩ Natan wòlíì, àti Benayahu, àti ⟨את⟩ àwọn jagunjagun, àti ⟨את⟩ Shelomoh ará ìyá rẹ̀, kò pè.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Natan wòlíì"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "wòlíì"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "àti Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn jagunjagun"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "àwọn jagunjagun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh ará ìyá rẹ̀"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ará ìyá rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "pè"
+    }
+  ],
+  "timestamp": "2026-08-23T01:09:50.875738611Z",
+  "model": "glm-5.3"
+}

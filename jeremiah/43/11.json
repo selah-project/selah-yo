@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "yo",
+  "chapter": 43,
+  "translation": "Ó sì wọ̀ ó sì lu ⟨את⟩ ilẹ̀ Ejibiti — ẹni tí a kà sí ikú, sí ikú; ẹni tí a kà sí ẹ̀wọ̀n, sí ẹ̀wọ̀n; ẹni tí a kà sí idà, sí idà.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "ó sì wọ̀"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ó sì lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ Ejibiti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilẹ̀"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ejibiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "למות",
+      "gloss": "a kà sí ikú"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sí ikú"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "a kà sí ẹ̀wọ̀n"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "sí ẹ̀wọ̀n"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "a kà sí idà"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sí idà"
+    }
+  ],
+  "timestamp": "2026-08-23T02:28:03.637103982Z",
+  "model": "glm-5.3"
+}

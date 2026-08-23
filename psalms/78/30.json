@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 78,
+  "translation": "Wọn kọ̀ láì yẹ̀sẹ̀ kúrò nínú ìfẹ́-ọkàn wọn; oúnjẹ wọn sì wà láìrí ní ẹnu wọn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kọ̀ láì"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "yẹ̀sẹ̀ kúrò"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "nínú ìfẹ́-ọkàn wọn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sì wà láìrí"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "oúnjẹ wọn"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ní ẹnu wọn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:43:25.151421855Z",
+  "model": "glm-5.3"
+}

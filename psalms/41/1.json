@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Fún Olùdarí-orin, orin-ìní fún David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún Olùdarí-orin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin-ìní"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún David"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:51.615694029Z",
+  "model": "glm-5.3"
+}

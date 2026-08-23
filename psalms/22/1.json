@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Fún olùdarí orin, lórí Ayelet ha-Shachar, orin ìjọra fún Davidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fún olùdarí orin"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ayelet (ẹyẹran abírún)"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ha-Shachar (àárọ̀)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin ìjọra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún Davidi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:11.293939969Z",
+  "model": "glm-5.3"
+}

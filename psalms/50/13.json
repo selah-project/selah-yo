@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Ṣé èmi máa jẹ ẹran ti àwọn màlúù tó lagbara, tàbí ṣé èmi máa mu ẹ̀jẹ̀ ti àwọn ewúré ìrán?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "ṣé èmi máa jẹ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ẹran"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "àwọn màlúù tó lagbara"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "tàbí ṣé èmi máa mu ẹ̀jẹ̀"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "àwọn ewúré ìrán"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ṣé èmi máa mu"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:51.825167397Z",
+  "model": "glm-5.3"
+}

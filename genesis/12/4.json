@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Nítorí náà Avram lọ gẹ́gẹ́ bí Yahweh ti sọ fún-un; Lot sì lọ pẹ̀lú ⟨את⟩ rẹ̀; Avram sì jẹ́ ọmọ ọdún márùndín-láàádọ́rin nígbà tí ó fi ṣẹ́ Kharan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nítorí náà ó lọ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fún-un"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "sì lọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pẹ̀lú rẹ̀ (Lot)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "Avram sì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ ọdún"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "márún"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "sì àádọ́rin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "nígbà tí ó fi ṣẹ́"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "Kharan"
+    }
+  ],
+  "timestamp": "2026-08-22T22:58:10.148783969Z",
+  "model": "glm-5.3"
+}

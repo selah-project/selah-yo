@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 9:10",
+  "book": "joshua",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àti ⟨את⟩ gbogbo tí ó ṣe fún àwọn ọba méjì ti Emori, tí ó wà lẹ́yìn Yarden, fún Sichon, ọba Cheshbon, àti fún Og, ọba Bashan, tí ó wà ní Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo (tí ó ṣe fún àwọn ọba méjì)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "fún àwọn méjì"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ti Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "wà lẹ́yìn"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "fún Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "àti fún Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "wà ní Ashtarot"
+    }
+  ],
+  "timestamp": "2026-08-23T00:25:31.525382342Z",
+  "model": "glm-5.3"
+}

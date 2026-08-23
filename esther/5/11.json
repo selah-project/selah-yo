@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 5:11",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Haman sì sọ fún wọn: ⟨את⟩ ọlá ọrọ̀ rẹ̀, ìpọ̀nle àwọn ọmọ rẹ̀, àti ⟨את⟩ gbogbo tí ọba ti gbé lárugẹ, àti ⟨את⟩ ohun tí wọ́n fi gbé e lókè sí àwọn ìjòyè àti ìránṣẹ́ ọba.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "sì sọ fún"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọlá"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ọlá"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "ọrọ̀ rẹ̀"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ìpọ̀nle"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "àwọn ọmọ rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ti gbé lárugẹ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ohun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "fi gbé e lókè"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "àwọn ìjòyè"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "àti ìránṣẹ́"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    }
+  ],
+  "timestamp": "2026-08-23T06:10:32.283009605Z",
+  "model": "glm-5.3"
+}

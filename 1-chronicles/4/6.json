@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Naarah bí fún un ⟨את⟩ Achuzzam, àti ⟨את⟩ Chepher, àti ⟨את⟩ Temeni, àti ⟨את⟩ Haahashtari; àwọn wọnyí ni àwọn ọmọ Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achuzzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Achuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Chepher"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chepher"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Haahashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Haahashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "àwọn wọnyí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-08-23T05:09:39.741571525Z",
+  "model": "glm-5.3"
+}

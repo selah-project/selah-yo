@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ẹ̀yin ó léyun pápá; ẹ̀yin ó bí koríko gbẹ; ẹ̀mí yín — iná ni, ó gbẹ yín jẹ.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "ẹ̀yin ó léyun"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "pápá"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "ẹ̀yin ó bí"
+    },
+    {
+      "surface": "קש",
+      "gloss": "koríko gbẹ"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "ẹ̀mí yín"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iná"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "ó gbẹ yín jẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T01:50:01.354181960Z",
+  "model": "glm-5.3"
+}

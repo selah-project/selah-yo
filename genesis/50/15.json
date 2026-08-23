@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 50:15",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 50,
+  "translation": "Nígbà tí àwọn ará Yosefu rí i pé baba wọn ti kú, wọ́n sì wí pé, Ṣé Yosefu lè bínú sí wa, kí ó sì fi gbogbo ibi tí a ṣe é ⟨את⟩ fún wa padà?",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "wọ́n sì rí i"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "àwọn ará"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ti kú"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baba wọn"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ṣé… lè"
+    },
+    {
+      "surface": "ישטמנו",
+      "gloss": "bínú sí wa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "kí ó sì fi… padà"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "fí padà dáadáa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ibi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "גמלנו",
+      "gloss": "a ṣe é"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(í)"
+    }
+  ],
+  "timestamp": "2026-08-22T23:15:14.403596599Z",
+  "model": "glm-5.3"
+}

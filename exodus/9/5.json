@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Yahweh sì ṣàṣẹ̀dá ìgbà ìpinnu, ó wí pé, Lọ́la Yahweh máa ṣe ọ̀rọ̀ yìí ní ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "sì ṣàṣẹ̀dá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ìgbà ìpinnu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ó wí pé"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Lọ́la"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "máa ṣe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ní ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-22T23:18:20.169757263Z",
+  "model": "glm-5.3"
+}

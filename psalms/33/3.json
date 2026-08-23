@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 33,
+  "translation": "Ẹ kọ orin tuntun fún Un; ẹ ṣe dáadáa nínú ṣíṣe orin kinnor, pẹ̀lú  ìkígoro ayọ̀.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ẹ kọ orin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún Un"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tuntun"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ẹ ṣe dáadáa"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "nínú ṣíṣe orin kinnor"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "pẹ̀lú ìkígoro ayọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:06.604390577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "Ó sì wí pé, \"Bẹ́ẹ̀ ni Yahweh ti wí: Ẹ ṣe ibi-ìkómọ́lẹ̀, ìkómọ́lẹ̀ lọ́nà jìjìnnà sínú odò yii.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ẹ ṣe"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "odò yii"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yii"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ibi-ìkómọ́lẹ̀, ìkómọ́lẹ̀"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "lọ́nà jìjìnnà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:26:20.884970386Z",
+  "model": "glm-5.3"
+}

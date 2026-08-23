@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Kenan sùn-ún lí wà ní ọ̀dún mẹ́tàdínlọ́gọ́rin, ó sì bí ⟨את⟩ Mahalalel.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "sùn-ún lí wà"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "mẹ́tàdínlọ́gọ́rin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọ̀dún"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ó sì bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-08-22T22:55:10.811333969Z",
+  "model": "glm-5.3"
+}

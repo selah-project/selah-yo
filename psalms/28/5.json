@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "Nítorí tí wọn kò gbọ́ iṣẹ́ Yahweh, iṣẹ́ ọwọ́ rẹ̀, ó máa wó wọ́n lu, ó kì í ṣe kó wọn dúró.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "gbọ́"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti nípa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "ó máa wó wọ́n lu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ó kì í ṣe"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "kó wọn dúró"
+    }
+  ],
+  "timestamp": "2026-08-23T03:28:53.667837893Z",
+  "model": "glm-5.3"
+}

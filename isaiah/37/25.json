@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Èmi ní mo kù ikarahun, mo sì mu omi; bí àtẹ ẹsẹ̀ mi ni mo gbẹ̀ gbogbo àwọn odò Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Èmi"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "mo kù ikarahun"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "mo sì mu omi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "mo sì gbẹ̀"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "bí àtẹ"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ẹsẹ̀ mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "àwọn odò"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-23T01:53:29.706568881Z",
+  "model": "glm-5.3"
+}

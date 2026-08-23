@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 22:9",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Doeg ará Edomu sì dáhùn, ẹni tí ó dúró lé lórí àwọn ìránṣẹ́ Shaul, ó sì wí pé, mo rí ⟨את⟩ ọmọ Yishai tí ó wá sí Nov, sí Achimelech ọmọ Achituv.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "sì dáhùn"
+    },
+    {
+      "surface": "דאג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ará Edomu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ó dúró"
+    },
+    {
+      "surface": "על",
+      "gloss": "lé lórí"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mo rí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọ Yishai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tí ó wá"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "sí Nov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelech"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achituv"
+    }
+  ],
+  "timestamp": "2026-08-23T00:52:58.235769924Z",
+  "model": "glm-5.3"
+}

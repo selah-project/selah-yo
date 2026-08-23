@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ọdún mẹta ló jọba ní Yerushalayim; orúkọ íyá rẹ̀ sì ni Maakaha, ọmọbìnrin Avishalom.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "mẹta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "jọba"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ní Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "orúkọ sì"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "íyá rẹ̀"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakaha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ọmọbìnrin"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalom"
+    }
+  ],
+  "timestamp": "2026-08-23T01:21:37.000553864Z",
+  "model": "glm-5.3"
+}

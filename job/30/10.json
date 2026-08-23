@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 30,
+  "translation": "Wọ́n kórìíra mí, wọ́n jìnnà kúrò láti ẹ̀ mi, wọ́n kò sì dènà itú ní ojú mi.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "wọ́n kórìíra mí"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "wọ́n jìnnà kúrò"
+    },
+    {
+      "surface": "מני",
+      "gloss": "láti ẹ̀ mi"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "wọ́n kò sì ní ojú mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "wọ́n dènà"
+    },
+    {
+      "surface": "רק",
+      "gloss": "itú"
+    }
+  ],
+  "timestamp": "2026-08-23T04:26:44.587319260Z",
+  "model": "glm-5.3"
+}

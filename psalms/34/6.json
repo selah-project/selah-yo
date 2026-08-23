@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Wọ́n wo lọ sí i, wọ́n sì yọ ìmọ́lẹ̀, ẹ̀rí wọn kì yóò sì tìṣẹ́.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Wọ́n wo lọ sí"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sí i"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "wọ́n sì yọ ìmọ́lẹ̀"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "ẹ̀rí wọn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "yóò sì tìṣẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:30:07.659312234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Kí adóhún-èdà sì wo ó, kí ó sì fi ẹ̀yìn rí i pé àárùn náà ti yí di funfun; adóhún-èdà yóò sì kéde ⟨את⟩ àárùn náà ó mọ́ — ó mọ́ ni.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "kí … sì wo ó"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adóhún-èdà ⟨na⟩"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kí ó sì fi ẹ̀yìn rí i pé"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ti yí di"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "àárùn náà"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "funfun"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "yóò sì kéde … ó mọ́"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adóhún-èdà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àárùn náà"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "àárùn náà"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ó mọ́"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-22T23:40:18.173515177Z",
+  "model": "glm-5.3"
+}

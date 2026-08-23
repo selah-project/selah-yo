@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ó sì ní àwọn obìnrin — àwọn ìyábọ̀ — ọgọ́rún méje, àti àwọn àgbálọmọ ọgọ́rún mẹ́ta; àwọn aya rẹ̀ sì yí ⟨את⟩ ọkàn rẹ̀ kúrò.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì ní"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "àwọn obìnrin"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "àwọn ìyábọ̀"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "méje"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́rún"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "àti àwọn àgbálọmọ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mẹ́ta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ọgọ́rún"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "yí kúrò"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "àwọn aya rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn rẹ̀"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ọkàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:19:54.807229387Z",
+  "model": "glm-5.3"
+}

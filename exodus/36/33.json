@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 36,
+  "translation": "Ó sì ṣe ⟨את⟩ ọ̀pá̀ áàrin láti lọ káàkiri láàrin àwọn ìgbẹ́igi láti ìgbà-òpin dé ìgbà-òpin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ó sì ṣe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀pá̀ áàrin"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "ọ̀pá̀ áàrin"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "tí ó wà ní áàrin"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "láti lọ káàkiri"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàrín"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "àwọn ìgbẹ́igi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ìgbà-òpin kan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dé"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ìgbà-òpin kejì"
+    }
+  ],
+  "timestamp": "2026-08-22T23:32:21.725196814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Yahweh sì ṣọ̀ rẹ̀ sí òkè Sínai, sí orí òkè naa; Yahweh sì pe Moshe sí orí òkè naa, Moshe sì gòkè.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "sì ṣọ̀ rẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "הר",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sínai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "òkè naa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sì pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "òkè naa"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "sì gòkè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:13.337414534Z",
+  "model": "glm-5.3"
+}

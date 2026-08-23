@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "tí ó ti pa mọ́ fún ìránṣẹ́ rẹ David baba mi ⟨את⟩ ohun tí ó sọ fún un; ìwọ sọ ọ́ pẹ̀lú ẹnu rẹ, ó sì ṣe án pẹ̀lú ọwọ́ rẹ, gẹ́gẹ́ bí ó ti jẹ́ lónìí yìí.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ìwọ tí ó ti pa mọ́"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "fún ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun tí ó sọ fún un"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ìwọ sì sọ"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "pẹ̀lú ẹnu rẹ"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "pẹ̀lú ọwọ́ rẹ"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ó ti ṣe án"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "gẹ́gẹ́ bí ó ti jẹ́ lónìí"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T06:13:38.918582173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Ẹ dupe fun Yahweh, ẹ pe ⟨ninu⟩ oruko Re, ẹ ṣe imọ ⟨ninu⟩ awọn ọrun adáyé́ irú ará Re.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Ẹ dupe fun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ẹ pe"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ninu oruko Re"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "ẹ ṣe imọ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ninu awọn ọrun adáyé"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "irú ará Re"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:25.333457145Z",
+  "model": "glm-5.3"
+}

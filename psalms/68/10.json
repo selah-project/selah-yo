@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Ìjọpọ̀ ojọ àìnípẹ̀kun ni Elohim fi ráńgbá; nígbà tí ìdìílẹ̀ rẹ yá ara, ìwọ gbé e dídúró.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "ojọ"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "àìnípẹ̀kun"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "fi ráńgbá"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ìdìílẹ̀ rẹ"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "nígbà tí ó yá ara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "gbé e dídúró"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:48.448092400Z",
+  "model": "glm-5.3"
+}

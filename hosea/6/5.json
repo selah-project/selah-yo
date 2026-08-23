@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Nítorí náà, mo gẹ́ wọn láti ọ̀dọ̀ àwọn wòlíì; mo pa wọn nípa àwọn ọ̀rọ̀ ẹnu mi; ìdájọ́ rẹ máa jáde bí ìmọ́lẹ̀.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Nítorí náà (ní)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nítorí náà"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "mo gẹ́"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "láti ọ̀dọ̀ àwọn wòlíì"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "mo pa wọn"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "nípa àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ẹnu mi"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "ìdájọ́ rẹ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "bí ìmọ́lẹ̀"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "máa jáde"
+    }
+  ],
+  "timestamp": "2026-08-23T03:00:31.136125916Z",
+  "model": "glm-5.3"
+}

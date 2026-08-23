@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 46,
+  "translation": "Yahweh ti awọn ọmọ-ogun ⟨wà⟩ pẹ̀lú wa; òkè gíga ni Elohim ti Yaakov jẹ́ fún wa. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti awọn ọmọ-ogun"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "pẹ̀lú wa"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "òkè gíga (ààbò)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fún wa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:34:52.091904841Z",
+  "model": "glm-5.3"
+}

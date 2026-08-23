@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 40,
+  "translation": "Moshe sì ṣe bí gbogbo ti Yahweh pàṣẹ ⟨את⟩ ìṣẹ́ rẹ̀ ṣe, bẹ́ẹ̀ ni ó ṣe é.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Moshe sì ṣe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bí gbogbo ti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pàṣẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ìṣẹ́ rẹ̀ ṣe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bẹ́ẹ̀ ni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ó ṣe é"
+    }
+  ],
+  "timestamp": "2026-08-22T23:33:41.774614250Z",
+  "model": "glm-5.3"
+}

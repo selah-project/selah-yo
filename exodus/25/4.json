@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 25,
+  "translation": "Àti ewé àwọ̀ bulú, àti ewé àwọ̀ pópó-àró, àti ewé àwọ̀ pupa-alárùnbàbà, àti aṣọ ọ̀yáyà, àti irún ewúrẹ́.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "àti ewé àwọ̀ bulú"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "àti ewé àwọ̀ pópó-àró"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "àti ewé ⟨kíkún-àwọ̀ ti⟩ ọtọtọ-alárùnbàbà"
+    },
+    {
+      "surface": "שני",
+      "gloss": "pupa-alárùnbàbà"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "àti aṣọ ọ̀yáyà"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "àti irún ewúrẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:50.603044433Z",
+  "model": "glm-5.3"
+}

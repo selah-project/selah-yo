@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 39:12",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 39,
+  "translation": "Ṣé o gbà ara dánú pé ó máa da ohun-èlọ́ rẹ padà, ó máa ka ìyẹ̀fun rẹ papọ̀?",
+  "tokens": [
+    {
+      "surface": "התאמין",
+      "gloss": "ṣé o gbà ara dánú"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fún un"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pé"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "máa da … padà"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ohun-èlọ́ rẹ"
+    },
+    {
+      "surface": "וגרנך",
+      "gloss": "ìyẹ̀fun rẹ"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "máa ka … papọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:29:46.383670912Z",
+  "model": "glm-5.3"
+}

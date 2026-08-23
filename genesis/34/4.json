@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 34,
+  "translation": "Shekem sì wí fún Chamor baba rẹ̀ pé, \"Gba ọmọdé obìnrin yìí fún mi ní aya.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Gba … fún mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmọdé obìnrin yìí"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "ọmọdé obìnrin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ní aya"
+    }
+  ],
+  "timestamp": "2026-08-22T23:07:54.411053427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Yahweh sì wí fún Moshe: Te ọwọ́ rẹ sí orílẹ̀-ède Mitzrayim nítorí èèpé, kí ó sì gòkè sí orílẹ̀-ède Mitzrayim, kí ó sì jẹ ⟨את⟩ gbogbo ọ̀gbìn ilẹ̀ náà, ⟨את⟩ gbogbo ohun tí òjò yín fi sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yahweh sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ọwọ́ rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "orílẹ̀-ède"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "nítorí èèpé"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kí ó sì gòkè"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "orílẹ̀-ède"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "kí ó sì jẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ọ̀gbìn ilẹ̀ náà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ọ̀gbìn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ náà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo ohun tí òjò yín fi sílẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "fi sílẹ̀"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "òjò yín"
+    }
+  ],
+  "timestamp": "2026-08-23T05:41:45.162580044Z",
+  "model": "glm-5.3"
+}

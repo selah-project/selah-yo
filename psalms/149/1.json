@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 149,
+  "translation": "Ẹ ṣe ìyìn Yah! Ẹ kọ orin fún Yahweh, orin tuntun, ìyìn rẹ̀ ní àpérọ̀ àwọn chasidim.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ẹ ṣe ìyìn"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ẹ kọ orin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "orin"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tuntun"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ìyìn rẹ̀"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ní àpérọ̀"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "àwọn chasidim"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:20.165783951Z",
+  "model": "glm-5.3"
+}

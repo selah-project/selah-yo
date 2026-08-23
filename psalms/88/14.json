@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 88,
+  "translation": "Ṣùgbọ́n èmi, sí ọ̀dọ̀ rẹ, Yahweh, kì í mi gbé; ní òwúrọ̀, àdúrà mi máa ṣáájú rẹ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "kì í mi gbé"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ní òwúrọ̀"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "àdúrà mi"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "máa ṣáájú rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:45:21.897160195Z",
+  "model": "glm-5.3"
+}

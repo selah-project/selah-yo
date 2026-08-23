@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Yahweh san mí padà gẹ́gẹ́ bí òdodo mi, gẹ́gẹ́ bí ìmọ́ ọwọ́ mi ni ó da ⟨padà⟩ fún mi.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "ó san mí padà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "gẹ́gẹ́ bí òdodo mi"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ìmọ́ ọwọ́ mi"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ó da ⟨padà⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:10.866210600Z",
+  "model": "glm-5.3"
+}

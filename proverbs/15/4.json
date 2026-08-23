@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 15,
+  "translation": "Ahọn ìwòsàn ni igi ìyè; aìṣe-ọ̀tọ̀ inú rẹ̀ sì jẹ́ ìfọ́ ẹ̀mí.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "ìwòsàn"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ahọn"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ìyè"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "aìṣe-ọ̀tọ̀ sì"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inú rẹ̀"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ìfọ́"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ẹ̀mí"
+    }
+  ],
+  "timestamp": "2026-08-23T04:08:30.742442504Z",
+  "model": "glm-5.3"
+}

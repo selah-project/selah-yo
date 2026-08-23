@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 1:14",
+  "book": "ruth",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Wọ́n sì gbé ohùn wọn sókè, wọ́n kígbe kéré sí i; Orpah sì fi ẹnu kí ìyàwó-ìyá rẹ̀, ṣùgbọ́n Rut gbámọ́ sí i lẹ́yìn.",
+  "tokens": [
+    {
+      "surface": "ותשנה",
+      "gloss": "wọ́n sì gbé…sókè"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "ohùn wọn"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "wọ́n kígbe kéré"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sí i (lẹ́ẹ̀kan sí)"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "ó sì fi ẹnu kí"
+    },
+    {
+      "surface": "ערפה",
+      "gloss": "Orpah"
+    },
+    {
+      "surface": "לחמותה",
+      "gloss": "ìyàwó-ìyá rẹ̀"
+    },
+    {
+      "surface": "ורות",
+      "gloss": "ṣùgbọ́n Rut"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ó gbámọ́ sí i lẹ́yìn"
+    },
+    {
+      "surface": "בה",
+      "gloss": "(sí i)"
+    }
+  ],
+  "timestamp": "2026-08-23T04:35:41.918166828Z",
+  "model": "glm-5.3"
+}

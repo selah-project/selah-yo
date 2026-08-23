@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Ẹni tí ó ń ṣe ọ̀daràn sí baba, tí ó sì ń lé iya kúrò — ọmọ tí ó ń ṣe ìtiranjẹ àti àbùkù ni.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "ń ṣe ọ̀daràn sí"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "ń lé kúrò"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "tí ó ń ṣe ìtiranjẹ"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "àti tí ó ń ru àbùkù"
+    }
+  ],
+  "timestamp": "2026-08-23T04:10:20.379824800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Fún méje pín, àti fún mẹ́jọ pẹ̀lú; nítorí pé iwọ kò mọ ohun tí búburú yóò wà sí orí ilẹ̀ ayé.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "pín"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "méje"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "àti pẹ̀lú"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "mẹ́jọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "iwọ mọ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò wà"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀ ayé"
+    }
+  ],
+  "timestamp": "2026-08-23T04:42:50.609536056Z",
+  "model": "glm-5.3"
+}

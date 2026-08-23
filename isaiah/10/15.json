@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ṣé àgbẹ̀dá yóò fi ara rẹ̀ yẹ sí ẹni tí ó ń gé ọ? Tá súná yóò fi ara rẹ̀ tóbi lórí ẹni tí ó ń mí i? Bí ọ̀pá tí ń fọ́ àwọn tí ó gbé e sókè, àti ⟨את⟩ ẹni tí ó gbé e — bí ọ̀pá tí ó gbé sókè nípa tíra, tí kì í ṣe igi.",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "fi ara rẹ̀ yẹ"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "àgbẹ̀dá"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "ẹni tí ó ń gé ọ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tàbí"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "fi ara rẹ̀ tóbi"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "súná"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "ẹni tí ó ń mí i"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "bí ẹni tí ó fọ́"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ọ̀pá"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ẹni tí ó gbé e"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "àwọn tí ó gbé e sókè"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "bí ẹni tí ó gbé"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ọ̀pá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igi"
+    }
+  ],
+  "timestamp": "2026-08-23T01:45:08.795202228Z",
+  "model": "glm-5.3"
+}

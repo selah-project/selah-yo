@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Yahweh ń dá àwọn orílẹ̀-èdè lẹ́tọ̀; dá èmi lọ́tọ̀, Yahweh, gẹ́gẹ́ bí ìwà ìdájọ́ mi àti gẹ́gẹ́ bí àìmọ́-ẹ̀bi mi tó wà lórí mi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ń dá lẹ́tọ̀"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "àwọn orílẹ̀-èdè"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "dá èmi lọ́tọ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "gẹ́gẹ́ bí ìwà ìdájọ́ mi"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "àti gẹ́gẹ́ bí àìmọ́-ẹ̀bi mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tó wà lórí mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:03.185569290Z",
+  "model": "glm-5.3"
+}

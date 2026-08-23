@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Moshe sì sọ̀rọ̀ sí àwọn ọmọ Yisraẹl pé kí wọ́n ṣe ⟨את⟩ ẹyọ-ìrántí Pésaḣ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sì sọ̀rọ̀ sí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹl"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "kí wọ́n ṣe"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ẹyọ-ìrántí Pésaḣ"
+    }
+  ],
+  "timestamp": "2026-08-22T23:53:37.560062534Z",
+  "model": "glm-5.3"
+}

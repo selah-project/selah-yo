@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 125,
+  "translation": "Yerushalayim — àwọn òkè wà láàrín rẹ̀ káàkiri; Yahweh sì wà láàrín àwọn ènìyàn rẹ̀ káàkiri, láti ìsinsin yìí dé ìgbà tí ó gbẹ̀yìn.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "àwọn òkè"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wà láàrín rẹ̀ káàkiri"
+    },
+    {
+      "surface": "לה",
+      "gloss": "rẹ̀"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh sì"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wà láàrín káàkiri"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "àwọn ènìyàn rẹ̀"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "láti ìsinsin yìí"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dé"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ìgbà tí ó gbẹ̀yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T06:07:06.481288680Z",
+  "model": "glm-5.3"
+}

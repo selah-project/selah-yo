@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Ní ọ̀nà àṣẹ rẹ ni mo ń ṣíṣe já lwọ́n, nítorí ìwọ ń fẹ̀ ọkàn mi lẹ́.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ọ̀nà"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "àṣẹ rẹ"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "mo ń ṣíṣe já lwọ́n"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "ìwọ ń fẹ̀ … lẹ́"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:58.918015955Z",
+  "model": "glm-5.3"
+}

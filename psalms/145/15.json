@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 145,
+  "translation": "Ojú gbogbo ǹ wo ọ̀dọ̀ rẹ ní ìretí, ìwọ kì í ṣe tí wọn yóò ti fún wọn ní ⟨את⟩ oúnjẹ wọn ní àsìkò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ǹ wo ní ìretí"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ìwọ kì í ṣe tí wọn yóò ti"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "fún"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oúnjẹ wọn"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "oúnjẹ wọn"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ní àsìkò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T04:01:15.142171797Z",
+  "model": "glm-5.3"
+}

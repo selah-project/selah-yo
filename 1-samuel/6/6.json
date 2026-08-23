@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Ìwọ̀sì, ìdí tí ẹ fi ń mú ⟨את⟩ ọkàn yín di wúwo, bíi ti Mitsrayim àti Parao tí wọn mú ⟨את⟩ ọkàn wọn di wúwo? Ìwọ̀ ní, bí ó ṣe ragaa wọn ni wọn fi jẹ́ kí ó lọ, ó sì lọ.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Ìwọ̀sì, ìdí tí"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "ẹ fi ń mú di wúwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn yín"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ọkàn yín"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bíi ti"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "wọn mú di wúwo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "àti Parao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn wọn"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ọkàn wọn"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ìwọ̀ ní"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bí ó ṣe"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "ó ragaa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wọn"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "ni wọn fi jẹ́ kí ó lọ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ó sì lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T00:45:15.625973664Z",
+  "model": "glm-5.3"
+}

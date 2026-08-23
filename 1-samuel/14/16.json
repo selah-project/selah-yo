@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 14:16",
+  "book": "1-samuel",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Àwọn olùtọ̀sọ̀nà Shaúl ní Gibeah ti Binyamin sì rí wí pé kiẹ̀n, ìjọ aláìnípẹ̀kun ń parun, wọ́n sì ń tún lu ara wọn lọ́wọ́ láwọ́.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "sì rí"
+    },
+    {
+      "surface": "הצפים",
+      "gloss": "àwọn olùtọ̀sọ̀nà"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "ní Gibeah"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ti Binyamin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sì wí pé kiẹ̀n"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ìjọ aláìnípẹ̀kun"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "ń parun"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ń tún lọ"
+    },
+    {
+      "surface": "והלם",
+      "gloss": "ń lu ara wọn lọ́wọ́ láwọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T00:48:19.574437163Z",
+  "model": "glm-5.3"
+}

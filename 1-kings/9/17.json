@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Shelomoh sì kó ⟨את⟩ Gezer àti ⟨את⟩ Beit-Choron ìsàlẹ̀.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "sì kó"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "Beit-Choron ìsàlẹ̀"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ìsàlẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:16:10.506895427Z",
+  "model": "glm-5.3"
+}

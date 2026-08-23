@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Wọ́n rí ìrìn rẹ, Elohim, ìrìn El mi, ọba mi, nínú ibi mímọ́.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Wọ́n rí"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "ìrìn rẹ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "ìrìn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ọba mi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "nínú ibi mímọ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:40:38.989176698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Èmi yóò te ọwọ́ mi sí orí Yehuda, àti sí orí gbogbo àwọn olùgbé Yerushalayim; èmi yóò gé kúrò nínú ibi yìí ⟨את⟩ èyí tí ó kù nípa Baal, ⟨את⟩ orúkọ àwọn àlùfáà òrìṣà pẹ̀lú àwọn àlùfáà",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "èmi yóò te"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ọwọ́ mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sí orí"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti sí orí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "àwọn olùgbé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "èmi yóò gé kúrò"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kúrò nínú"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èyí tí ó kù nípa Baal"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "èyí tí ó kù"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "nípa Baal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ àwọn àlùfáà òrìṣà"
+    },
+    {
+      "surface": "שם",
+      "gloss": "orúkọ"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "àwọn àlùfáà òrìṣà"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:16:22.121463812Z",
+  "model": "glm-5.3"
+}

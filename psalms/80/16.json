@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 80,
+  "translation": "àti ọ̀gbìn tí ọwọ́ ọ̀tún rẹ gbìn, ọmọ tí o fi agbára fún fúnra rẹ.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "àti ọ̀gbìn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "gbìn"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ọwọ́ ọ̀tún rẹ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "o fi agbára fún"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fúnra rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:44:14.323206945Z",
+  "model": "glm-5.3"
+}

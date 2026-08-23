@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Yahweh yóò tì í lẹ́yìn lórí bẹ̀dẹ̀ àìsàn; gbogbo bẹ́ẹ̀dẹ̀ rẹ̀ iwọ tí ó yí padà nínú àìsàn rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "yóò tì í lẹ́yìn"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "bẹ̀dẹ̀"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "àìsàn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "bẹ́ẹ̀dẹ̀ rẹ̀"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "iwọ tí ó yí padà"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "nínú àìsàn rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:51.616537246Z",
+  "model": "glm-5.3"
+}

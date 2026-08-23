@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Àwọn ènìyàn ìsọ̀tẹ̀ ni ẹ̀ ti jẹ́ pẹ̀lú Yahweh, láti ọjọ́ tí mo ti mọ ⟨את⟩ yín.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "àwọn ènìyàn ìsọ̀tẹ̀"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ẹ̀ ti jẹ́"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "láti ọjọ́"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "tí mo ti mọ́"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín"
+    }
+  ],
+  "timestamp": "2026-08-23T00:10:45.856394030Z",
+  "model": "glm-5.3"
+}

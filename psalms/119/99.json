@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Láti gbogbo àwọn olùkọ́ mi ni mo gbọ́n jù lọ; nítorí pé ìjíròrò ni àwọn ẹ̀rì rẹ jẹ́ fún mi.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "láti gbogbo"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "àwọn olùkọ́ mi"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "mo gbọ́n jù lọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "àwọn ẹ̀rì rẹ"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "ìjíròrò"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fún mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:21.137440604Z",
+  "model": "glm-5.3"
+}

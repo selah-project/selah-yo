@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahweh, Elohim rẹ, ni iwọ gbọ́dọ̀ bẹ̀rù̀, àti ⟨את⟩oun ni iwọ gbọ́dọ̀ sìn, àti ní orúkọ rẹ̀ ni iwọ gbọ́dọ̀ búra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "iwọ gbọ́dọ̀ bẹ̀rù̀"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "àti ⟨את⟩oun"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "iwọ gbọ́dọ̀ sìn"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "àti ní orúkọ rẹ̀"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "iwọ gbọ́dọ̀ búra"
+    }
+  ],
+  "timestamp": "2026-08-23T00:08:23.062627189Z",
+  "model": "glm-5.3"
+}

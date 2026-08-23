@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Ti David. Ja ẹjọ́, Yahweh, pẹ̀lú ⟨את⟩ àwọn tí ń ba mi ja; jagun pẹ̀lú ⟨את⟩ àwọn tí ń ba mi jagun.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ti David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "ja ẹjọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn tí ń ba mi ja"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "àwọn tí ń ba mi ja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "jagun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn tí ń ba mi jagun"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "àwọn tí ń ba mi jagun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:04.182846243Z",
+  "model": "glm-5.3"
+}

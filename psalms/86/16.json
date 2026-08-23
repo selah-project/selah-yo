@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 86,
+  "translation": "Dà bí ọ̀run sí ọ̀dọ̀ mi, ki O sì ṣàánú mi; fúnmi ní agbára Rẹ fún ìránṣẹ́ Rẹ, ki O sì gbà ọmọ ôbìnkẹ́ Rẹ là.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Dà bí ọ̀run sí ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sí ọ̀dọ̀ mi"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ki O sì ṣàánú mi"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "fúnmi ní"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "agbára Rẹ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "fún ìránṣẹ́ Rẹ"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "ki O sì gbà … là"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "אמתם",
+      "gloss": "ôbìnkẹ́ Rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:46:19.373164822Z",
+  "model": "glm-5.3"
+}

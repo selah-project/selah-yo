@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 71,
+  "translation": "Elohim, ìwọ kọ́ mi ní èwe, títí dé ìsinsin yìí; èmi yóò sọ ìṣẹ̀míra wà áyàfi ⟨àwọn⟩ ìwà mímọ́ rẹ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "ìwọ kọ́ mi"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ní èwe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "títí dé"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ìsinsin yìí"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "èmi yóò sọ"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "⟨àwọn⟩ ìwà mímọ́ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:41:03.694218860Z",
+  "model": "glm-5.3"
+}

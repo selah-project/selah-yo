@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Èló ni wọ́n tún máa fi lu yín, tí ẹ̀ sì tún ń ṣe ìyẹ̀sí? Orí gbogbo ⟨wà⟩ ní àisàn, àti gbogbo ọkàn ⟨wà⟩ ní ìrọ́rọ̀.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "lórí (nípa)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "èló"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "wọ́n lu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tún"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "ẹ tún ń ṣe"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "ìyẹ̀sí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "àisàn"
+    },
+    {
+      "surface": "ווכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ìrọ́rọ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:39:33.563233002Z",
+  "model": "glm-5.3"
+}

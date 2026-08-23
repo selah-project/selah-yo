@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 22,
+  "translation": "Ṣùgbọ́n èmi, mo jẹ́ ikún-dòtí àti kì í ṣe ọkùnrin; ìran-ìmọ̀lẹ̀ ènìyàn ni, èyí tí ẹnu-òṣù àwọn ẹ̀yà fi sílẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ṣùgbọ́n èmi"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ikún-dòtí"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "àti kì í ṣe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ìran-ìmọ̀lẹ̀"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "èyí tí wọ́n fi sílẹ̀ (ìgbéyẹ̀wò)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "àwọn ẹ̀yà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:21.449551973Z",
+  "model": "glm-5.3"
+}

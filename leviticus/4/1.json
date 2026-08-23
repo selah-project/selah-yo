@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ohuń sì, Yahweh bá Moshe sọ̀rọ̀, wí pé:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sọ̀rọ̀ sì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bá"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    }
+  ],
+  "timestamp": "2026-08-22T23:34:51.941769451Z",
+  "model": "glm-5.3"
+}

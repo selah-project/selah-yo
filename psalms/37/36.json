@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Ṣùgbọ́n ó kọjá, kí ó sì jẹ́ kí o fi ojú rí i, ó sì parun; èmi sì ronúṣẹ rí i, ṣùgbọ́n a kò lè rí i rárá.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Ṣùgbọ́n ó kọjá"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kí ó sì jẹ́ kí o fi ojú rí i"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ó sì parun"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "èmi sì ronúṣẹ rí i"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ṣùgbọ́n … rárá"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "a kò lè rí i"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:56.172391273Z",
+  "model": "glm-5.3"
+}

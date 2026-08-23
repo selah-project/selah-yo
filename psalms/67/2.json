@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 67,
+  "translation": "Elohim, kí ó ṣàánú fún wa, kí ó sì bùkún fún wa, kí ojú rẹ̀ sí máa túmọ̀ lórí wa. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "kí ó ṣàánú fún wa"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "kí ó sì bùkún fún wa"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "kí ojú rẹ̀ sí máa túmọ̀"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ wa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:38:09.766566422Z",
+  "model": "glm-5.3"
+}

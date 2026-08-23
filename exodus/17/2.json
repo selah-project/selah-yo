@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 17,
+  "translation": "Ìjọ náà sì bá Moshe jà, wọ́n sì wí pé: Ẹ fún wa ní omi kí a lè mu. Moshe sì wí fún wọn pé: Ìdí tí ẹ̀yin fi ń bá mi jà? Ìdí tí ẹ̀yin fi ń dán ⟨את⟩ Yahweh?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "ó sì bá … jà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ìjọ náà"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pẹ̀lú"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wọ́n sì wí"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ẹ fún"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "kí a lè mu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sì wí"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fún wọn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ìdí tí"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "ẹ̀yin ń bá … jà"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ìdí tí"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "ẹ̀yin ń dán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:22:40.839442618Z",
+  "model": "glm-5.3"
+}

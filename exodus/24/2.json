@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Moshe nìkan ni yóò sún mọ́ Yahweh; àwọn yóò sì kì í ṣe láti sún mọ́, àwọn ènìyàn kì í sì gbé sílẹ̀ pọ̀ mọ́ oun.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "yóò sún mọ́"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nìkan rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "àwọn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "láti sún mọ́"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "gbé sílẹ̀"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pọ̀ mọ́ oun"
+    }
+  ],
+  "timestamp": "2026-08-22T23:24:47.573952334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Àti pé Yahweh yóò sì yọ ⟨את⟩ ènìyàn kúrò jìnà, ìgbà tó kọ̀ yóò sì pọ̀ ní àárín ilẹ̀.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "yóò sì yọ kúrò jìnà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ènìyàn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "yóò sì pọ̀"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "ìgbà tó kọ̀"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ní àárín"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T01:42:46.299093975Z",
+  "model": "glm-5.3"
+}

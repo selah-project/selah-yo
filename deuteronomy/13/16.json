@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Lu, o ó lu ⟨את⟩ àwọn olùgbé ìlú yẹn pẹ̀lú odi idà; fi légbàá jẹ́ ⟨את⟩ ìlú yẹn àti ⟨את⟩ gbogbo ohun tí ó wà nínú rẹ̀, àti ⟨את⟩ ẹranko rẹ̀ pẹ̀lú odi idà.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Lu"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "o ó lu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn olùgbé ìlú yẹn"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "àwọn olùgbé"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ìlú"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pẹ̀lú odi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idà"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "fi légbàá jẹ́"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ìlú yẹn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ohun tí"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nínú rẹ̀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "ẹranko rẹ̀"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pẹ̀lú odi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idà"
+    }
+  ],
+  "timestamp": "2026-08-23T05:45:23.016966713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ó sì wí pé, «Já, bẹ́ẹ̀ ni kí o bèèrè fún ẹ, àwọn ìròyin ìdí-èèrùn láti ọ̀dọ̀ gbogbo àwọn aládùúgbò rẹ — láti ⟨את⟩ gbogbo wọn — àwọn ohun-èlò ṣíṣe, má ṣe dín ku.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "bẹ́ẹ̀ ni kí o bèèrè"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ẹ"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "àwọn ohun-èlò"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "ìta"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "láti ⟨את⟩",
+      "marks": "gbogbo àwọn aládùúgbò rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "àwọn aládùúgbò rẹ"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "àwọn ohun-èlò"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "ṣíṣe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "dín ku"
+    }
+  ],
+  "timestamp": "2026-08-23T01:28:19.345659553Z",
+  "model": "glm-5.3"
+}

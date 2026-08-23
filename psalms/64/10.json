@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 64,
+  "translation": "Gbogbo ènìyàn sì ń bẹ̀rù, wọ́n sì ń kéde iṣẹ́ Elohim, wọ́n sì ń ye iṣẹ́ rẹ̀ lóye.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "sì ń bẹ̀rù"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "wọ́n sì ń kéde"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "iṣẹ́"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "iṣẹ́ rẹ̀ sì"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "wọ́n ń ye lóye"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:39.686257705Z",
+  "model": "glm-5.3"
+}

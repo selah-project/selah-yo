@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Mo sì pàṣẹ fún ⟨את⟩ àwọn adájọ́ yín nígbà yẹn, wí pé: Ẹ gbọ́ àwọn ìjà láàrin àwọn ará yín, ẹ sì dá lọ́títọ́ láàrin ọkùnrin kan àti ará rẹ̀, àti àlejò rẹ̀.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "mo sì pàṣẹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn adájọ́ yín"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "àwọn adájọ́ yín"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nígbà"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ẹ gbọ́"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàrin"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "àwọn ará yín"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "ẹ sì dá"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "lọ́títọ́"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàrin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọkùnrin kan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàrin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ará rẹ̀"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "àti láàrin"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "àlejò rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:45:29.361572698Z",
+  "model": "glm-5.3"
+}

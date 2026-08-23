@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 19:9",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 19,
+  "translation": "Yahweh sì wí fún Moshe: \"Kíyèsi, èmi ń bọ̀ sí ọ̀dọ̀ rẹ nínú kúkú irọ́jú, nítorí kí àwọn ènìyàn lè gbọ́ nígbà tí mo bá ń bá ọ̀ sọ̀rọ̀, kí wọ́n sì lè tì ⟨iṣẹ́⟩ rẹ gbà láéláé.\" Moshe sì sọ ⟨את⟩ àwọn ọ̀rọ̀ ti àwọn ènìyàn fún Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kíyèsi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ń bọ̀"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "בעב",
+      "gloss": "nínú kúkú"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "irọ́jú"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nítorí kí"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "lè gbọ́"
+    },
+    {
+      "surface": "העם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "nígbà tí mo bá ń sọ̀rọ̀"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bá ọ̀"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sì"
+    },
+    {
+      "surface": "בך",
+      "gloss": "iṣẹ́ rẹ"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "lè tì gbà"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "láéláé"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "sì sọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "àwọn ọ̀rọ̀"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti àwọn ènìyàn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:21:51.705314413Z",
+  "model": "glm-5.3"
+}

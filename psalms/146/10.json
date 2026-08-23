@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 146,
+  "translation": "Yahweh yóò jẹ́ ọba fún láéláé — Elohim rẹ, Tsiyon — fún ìran-tí-ìran; ẹ gbé Yah lorí.",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "yóò jẹ́ ọba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "fún láéláé"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim rẹ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "fún ìran"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "àti ìran"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ẹ gbé … lorí"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:34.163746844Z",
+  "model": "glm-5.3"
+}

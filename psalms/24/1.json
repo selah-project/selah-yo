@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Fún Dawidu, orin-dídún. Ti Yahweh ni ayé àti ìpènnu rẹ̀, ayé-jòò àti àwọn tí ó ń gbé inú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Fún Dawidu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "orin-dídún"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Ti Yahweh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "àti ìpènnu rẹ̀"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ayé-jòò"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "àti àwọn tí ó ń gbé"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:29:10.105435221Z",
+  "model": "glm-5.3"
+}

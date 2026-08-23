@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Pẹ̀lú ọkàn mi gbogbo ni mo ti wá ọ̀; má ṣe jẹ́ kí é ṣìṣẹ̀ kúrò ní àwọn àṣẹ rẹ.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "pẹ̀lú gbogbo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ọkàn mi"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "mo ti wá ọ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ṣe"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "jẹ́ kí é ṣìṣẹ̀ mi"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "kúrò ní àwọn àṣẹ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:55:01.521384572Z",
+  "model": "glm-5.3"
+}

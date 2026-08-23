@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 119,
+  "translation": "Sí ìran àti ìran, ìgbẹ́kẹ̀ rẹ ⟨ni⟩; ìwọ ti ṣe ìpilẹ̀ ⟨àwọn⟩ ilẹ̀ ayé, ó sì dúró.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "Sí ìran"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "àti ìran"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ìgbẹ́kẹ̀ rẹ"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "ìwọ ti ṣe ìpilẹ̀"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨àwọn⟩ ilẹ̀ ayé"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ó sì dúró"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:11.453054097Z",
+  "model": "glm-5.3"
+}

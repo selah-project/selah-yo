@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "yo",
+  "chapter": 10,
+  "translation": "Ní orí ogun ẹ̀ka-ìdí àwọn ọmọ Yissaskar, Nethanel ọmọ Tzuar.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ní orí"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ẹ̀ka-ìdí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Nethanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tzuar"
+    }
+  ],
+  "timestamp": "2026-08-22T23:52:35.160085739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 68,
+  "translation": "Ki Elohim dìde, kí àwọn ọ̀ta rẹ̀ kó tú ka, kí àwọn olùkórìíra rẹ̀ sì sá kúrò ní ojú rẹ̀.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Ki Elohim dìde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "kí àwọn ọ̀ta rẹ̀ kó tú ka"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "àwọn ọ̀ta rẹ̀"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "kí wọ́ sì sá"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "àwọn olùkórìíra rẹ̀"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kúrò ní ojú rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:39:55.939869418Z",
+  "model": "glm-5.3"
+}

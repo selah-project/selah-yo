@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 1,
+  "translation": "Elohim sì wí pé: ki ó jẹ́ fífẹ́ láàárín ⟨iṣú-omí⟩ àwọn omi, ki ó sì jẹ́ iṣíkún láàárín omi sí omi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sì wí pé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ki ó jẹ́"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "fífẹ́"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨iṣú-omí⟩ àwọn omi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ki ó sì jẹ́"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "iṣíkún"
+    },
+    {
+      "surface": "בין",
+      "gloss": "láàárín"
+    },
+    {
+      "surface": "מים",
+      "gloss": "omi"
+    },
+    {
+      "surface": "למים",
+      "gloss": "sí omi"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:40.557449832Z",
+  "model": "glm-5.3"
+}

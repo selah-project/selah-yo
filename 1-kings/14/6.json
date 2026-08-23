@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 14:6",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 14,
+  "translation": "Ó sì jẹ́ pé nígbà tí Achiyahu gbọ́ ⟨את⟩ ohùn ẹsẹ̀ rẹ̀ nígbà tí ó ń wọ̀ ní ọ̀nà-ìbùgbé, ó sọ pé: Wá ìwọ aya Yarobeam; Èétí ni èyí tí ìwọ ń fi ara hàn gẹ́gẹ́ bí ènìyàn mìíràn? Èmi ni a ránṣẹ́ sí ọ̀dọ̀ rẹ pẹ̀lú ìròyìn burúdíì.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ó sì jẹ́ pé"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nígbà tí ó gbọ́"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Achiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohùn ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ohùn"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "ẹsẹ̀ rẹ̀"
+    },
+    {
+      "surface": "באה",
+      "gloss": "nígbà tí ó ń wọ̀"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "ní ọ̀nà-ìbùgbé"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sọ pé"
+    },
+    {
+      "surface": "באי",
+      "gloss": "Wá"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Èétí ni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "èyí"
+    },
+    {
+      "surface": "את",
+      "gloss": "ìwọ"
+    },
+    {
+      "surface": "מתנכרה",
+      "gloss": "ń fi ara hàn gẹ́gẹ́ bí ènìyàn mìíràn"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "Èmi ni"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "a ránṣẹ́"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sí ọ̀dọ̀ rẹ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "pẹ̀lú ìròyìn burúdíì"
+    }
+  ],
+  "timestamp": "2026-08-23T01:19:49.170880588Z",
+  "model": "glm-5.3"
+}

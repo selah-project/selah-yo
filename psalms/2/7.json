@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Èmi yóò sọ òfin-ìpinnu ⟨náà⟩: Yahweh ti sọ fún mi, 'Ìwọ ni ọmọ mi; lónìí ni mo ti bí ọ.'",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "èmi yóò sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nípa"
+    },
+    {
+      "surface": "חק",
+      "gloss": "òfin-ìpinnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti sọ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fún mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ọmọ mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ìwọ ni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "mo ti bí ọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:52.432456789Z",
+  "model": "glm-5.3"
+}

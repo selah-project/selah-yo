@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Nítorí àjèbà máa ń da olọgbọ́n di ẹ̀dà, àti pé ẹ̀bùn máa ń pa ⟨את⟩ ọkàn jé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "àjèbà"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "ń da ... di ẹ̀dà"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "olọgbọ́n"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "máa ń pa ... jé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkàn"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "ẹ̀bùn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:41:53.712076576Z",
+  "model": "glm-5.3"
+}

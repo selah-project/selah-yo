@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 55,
+  "translation": "Ṣùgbọ́n ìwọ — ènìyàn, tí ó jọ mí, ẹlẹgbọ́ mi àti ẹni tí ó mọ̀ mi ni.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ṣùgbọ́n ìwọ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "tí ó jọ mí"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ẹlẹgbọ́ mi"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "àti ẹni tí ó mọ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:36:13.946840589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 38,
+  "translation": "Nítorí pé àwọn ìwà-ẹ̀ṣẹ̀ mi kọjá orí mi; gẹ́gẹ́ bí èrò jẹjẹrẹ, wọn ṣe le ju mi lọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nítorí pé"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "àwọn ìwà-ẹ̀ṣẹ̀ mi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "kọjá"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "orí mi"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "gẹ́gẹ́ bí èrò"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "jẹjẹrẹ"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "wọn ṣe le ju"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mi lọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:32:12.992097077Z",
+  "model": "glm-5.3"
+}

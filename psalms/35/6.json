@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 35,
+  "translation": "Jẹ́ kí ọ̀nà wọn jẹ́ òkúkú àti ìlẹ̀rọ̀-lilọ̀, àti òjíṣẹ́ Yahweh ń lé wọn lẹ́yìn.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "jẹ́ kí ó jẹ́"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ọ̀nà wọn"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "òkúkú"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "àti ìlẹ̀rọ̀-lilọ̀"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "àti òjíṣẹ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "ń lé wọn lẹ́yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:08.818148774Z",
+  "model": "glm-5.3"
+}

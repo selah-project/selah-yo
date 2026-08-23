@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Wọ́n sì ń rin ìrìn-àjò láti orílẹ̀-èdè kan dé orílẹ̀-èdè míràn, láti ìjọba kan dé ènìyàn míràn.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "wọ́n sì ń rin ìrìn-àjò"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "láti orílẹ̀-èdè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dé"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "orílẹ̀-èdè"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "láti ìjọba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dé"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "míràn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:51:03.192867788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 23,
+  "translation": "Ní ọjọ́ tí ẹ bá ń f⟨את⟩n ómér náà lárúfí, ẹ ó ṣe ẹ̀wú àgúntàn kan tí ó pé, ọmọ ọdún kan, sí inú ẹ̀bùn-iná-jó sí Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "ẹ ó ṣe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "Ní ọjọ́"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "ẹ bá ń f...lárúfí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ómér náà"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "ómér náà"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ẹ̀wú àgúntàn"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tí ó pé"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ọdún kan"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "sí inú ẹ̀bùn-iná-jó"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sí Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-22T23:43:50.475873110Z",
+  "model": "glm-5.3"
+}

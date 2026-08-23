@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 114,
+  "translation": "Odò òkun rí i, ó sá lọ; Yardén yí padà sẹ́yìn.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "odò òkun"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rí i"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ó sá lọ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardén"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "yí padà"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "sẹ́yìn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:52:53.027197771Z",
+  "model": "glm-5.3"
+}

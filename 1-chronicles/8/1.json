@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Binyamin sì bí ⟨את⟩ Bela, àkọ́bí rẹ̀; Ashbel kejì, àti Acharah kẹta.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Binyamin sì"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "àkọ́bí rẹ̀"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kejì"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "àti Acharah"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kẹta"
+    }
+  ],
+  "timestamp": "2026-08-23T05:11:14.385118171Z",
+  "model": "glm-5.3"
+}

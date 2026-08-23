@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 115,
+  "translation": "Yisraeli, ṣe gbégbẹ́kẹ̀ lé Yahweh; ìrànlọ́wọ́ wọn àti ètí-ìdáàbòbọ̀ wọn ni Òun.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ṣe gbégbẹ́kẹ̀ lé"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ìrànlọ́wọ́ wọn"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "àti ètí-ìdáàbòbọ̀ wọn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Òun"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:05.208269954Z",
+  "model": "glm-5.3"
+}

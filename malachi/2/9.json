@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Èmi pàápàá sì ti jẹ́ kí ẹ̀yin ⟨את⟩ di aláìgbàgbé àti aláìlókìkí níwájú gbogbo ènìyàn, gẹ́gẹ́ bí ẹ kò ṣe ṣọ́ ⟨את⟩ ọ̀nà mi, ẹ sì ń ka ojú nínú Torah.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "sì pàápàá"
+    },
+    {
+      "surface": "אני",
+      "gloss": "èmi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ti jẹ́ kí ... di"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ẹ̀yin",
+      "marks": "aláìgbàgbé àti aláìlókìkí"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "aláìgbàgbé"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "àti aláìlókìkí"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "níwájú gbogbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gẹ́gẹ́ bí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bí"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "ẹ kò"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ṣe ṣọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀nà mi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ọ̀nà mi"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "ẹ sì ń ka"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ojú"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "nínú Torah"
+    }
+  ],
+  "timestamp": "2026-08-23T06:04:20.964882116Z",
+  "model": "glm-5.3"
+}

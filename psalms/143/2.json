@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 143,
+  "translation": "Ki ì wọ́ sí ìdájọ́ ⟨את⟩ ìránṣẹ́ rẹ; nítorí pé gbogbo tí ó gbé kì í ṣe olóòtítọ́ níwájú rẹ.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ki ì"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wọ́"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sí ìdájọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ìránṣẹ́ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "jẹ́ olóòtítọ́"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "níwájú rẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tí ó gbé"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:09.836582635Z",
+  "model": "glm-5.3"
+}

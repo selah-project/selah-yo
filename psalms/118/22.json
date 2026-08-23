@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 118,
+  "translation": "Òkúta tí àwọn olùkọ́ ilé kọ̀ wáyé ti di orí ìgúnnù.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "òkúta"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "kọ̀ wáyé"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "àwọn olùkọ́ ilé"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ti di"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "orí"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ìgúnnù"
+    }
+  ],
+  "timestamp": "2026-08-23T03:54:14.927057028Z",
+  "model": "glm-5.3"
+}

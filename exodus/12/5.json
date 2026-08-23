@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Àgùntàn tó pé tó, ọkùnrin, ọmọ ọdún kan, ni yóò jẹ́ ti yín; láti ara àwọn agọ́lọ́gbẹ̀ tàbí láti ara àwọn ewúrẹ́ ni ẹ óò gbà á.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "àgùntàn"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tó pé tó"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ọkùnrin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún kan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yóò jẹ́"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ti yín"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti ara"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "àwọn agọ́lọ́gbẹ̀"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "tàbí láti ara"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "àwọn ewúrẹ́"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ẹ óò gbà á"
+    }
+  ],
+  "timestamp": "2026-08-22T23:19:07.368705618Z",
+  "model": "glm-5.3"
+}

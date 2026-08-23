@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Nígbà náà, olórí àwọn olùṣẹ́ otí sọ fún Paroh, wí pé, ⟨אֵת⟩ èṣè mi ni mo ń rántí lónìí.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "olórí"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "àwọn olùṣẹ́ otí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wí pé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "èṣè mi"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "èṣè mi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "ń rántí"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lónìí"
+    }
+  ],
+  "timestamp": "2026-08-22T23:09:35.546464310Z",
+  "model": "glm-5.3"
+}

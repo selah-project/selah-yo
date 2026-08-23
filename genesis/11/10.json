@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Ìwọ̀n yìí ni ìdílé Shem: Shem jẹ́ ọmọ ọgọ́rùn-ún ọdún nígbà tí ó bí Arpakhshad, ọdún méjì lẹ́yìn ìkún omi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ìwọ̀n yìí ni"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ìdílé"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ọgọ́rùn-ún"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "bí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ọdún méjì"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lẹ́yìn"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ìkún omi"
+    }
+  ],
+  "timestamp": "2026-08-22T22:57:13.852024348Z",
+  "model": "glm-5.3"
+}

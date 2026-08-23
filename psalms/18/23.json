@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 18,
+  "translation": "Nítorí tí gbogbo àwọn ìdájọ́ rẹ̀ wà níwájú mi, àwọn òfin rẹ̀ mi ò yẹ kúrò lọ́dọ̀ mi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "àwọn ìdájọ́ rẹ̀"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "wà níwájú mi"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "àwọn òfin rẹ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mi ò"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "yẹ kúrò"
+    },
+    {
+      "surface": "מני",
+      "gloss": "lọ́dọ̀ mi"
+    }
+  ],
+  "timestamp": "2026-08-23T03:26:10.866554660Z",
+  "model": "glm-5.3"
+}

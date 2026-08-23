@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 41,
+  "translation": "Yosef sọ fún Paroh pé: ìlá ìwọsàn Paroh kan ṣoṣo ni; ohun tí Elohim ń ṣe ni ó ti ṣàlàyé fún Paroh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ó sọ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ìlá ìwọsàn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kan ṣoṣo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohun (nípa ohun tí Elohim ń ṣe)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ń ṣe"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ó ti ṣàlàyé"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "fún Paroh"
+    }
+  ],
+  "timestamp": "2026-08-23T05:40:37.601160631Z",
+  "model": "glm-5.3"
+}

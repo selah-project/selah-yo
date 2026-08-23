@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 148,
+  "translation": "Yin Yahweh ⟨את⟩ láti inú ayé, ẹ̀yà-omińlá àti ìjìkún omi gbogbo:",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Yin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "láti inú"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "ẹ̀yà-omińlá"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "àti gbogbo"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "ìjìkún omi"
+    }
+  ],
+  "timestamp": "2026-08-23T04:00:49.578576815Z",
+  "model": "glm-5.3"
+}

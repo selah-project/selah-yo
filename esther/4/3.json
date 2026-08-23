@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 4:3",
+  "book": "esther",
+  "lang": "yo",
+  "chapter": 4,
+  "translation": "Ní gbogbo ìjọba àti ìjọba, ibi tí ọ̀rọ̀ ọba náà àti òfin rẹ̀ dé, ìgbà ìsọ̀fọ́ tóbi wà láàrín àwọn Yehudi, àti wẹ́wẹ́-ẹ̀jẹ́, àti kígbe ìsọ̀fọ́, aṣọ sáàkì àti èérú sì tí ó wà fún àwọn tí ó pọ̀ jọ.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Ní gbogbo"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "ìjọba"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "àti ìjọba"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ̀rọ̀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba náà"
+    },
+    {
+      "surface": "ודתו",
+      "gloss": "àti òfin rẹ̀"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "dé"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ìgbà ìsọ̀fọ́"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tóbi"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "láàrín àwọn Yehudi"
+    },
+    {
+      "surface": "וצום",
+      "gloss": "àti wẹ́wẹ́-ẹ̀jẹ́"
+    },
+    {
+      "surface": "ובכי",
+      "gloss": "àti kígbe"
+    },
+    {
+      "surface": "ומספד",
+      "gloss": "àti ìsọ̀fọ́"
+    },
+    {
+      "surface": "שק",
+      "gloss": "aṣọ sáàkì"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "àti èérú"
+    },
+    {
+      "surface": "יצע",
+      "gloss": "sì tí ó wà"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "fún àwọn tí ó pọ̀ jọ"
+    }
+  ],
+  "timestamp": "2026-08-23T04:45:07.928972161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "yo",
+  "chapter": 5,
+  "translation": "Ẹ gbọ́ ọ̀rọ̀ yìí, tí mo ń gbé sókè lórí yín — ⟨את⟩ ọ̀rọ̀ náà — orin ìsúnrẹ̀, fún ilé Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ẹ gbọ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọ̀rọ̀ yìí"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọ̀rọ̀ yìí"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ń gbé sókè"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "lórí yín"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "orin ìsúnrẹ̀"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T03:08:31.211926468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "yo",
+  "chapter": 26,
+  "translation": "Gbogbo àwọn ènìyàn Yehuda sì gba Uzziyahu, tí ó jẹ́ ọmọ ọdún mẹ́rìndínlógún, wọ́n sì jẹ́ kí ó jọba ní ipò baba rẹ̀ Amatsyahu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "wọ́n sì gba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "àwọn ènìyàn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzziyahu"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzziyahu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "tí ó jẹ́"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ọmọ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "mẹ́rìn-dín-lógún… ẹ̀yà kẹfà"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mẹ́wàá"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ọdún"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "wọ́n sì jẹ́ kí ó jọba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-Òun",
+      "marks": "ipò baba rẹ̀ Amatsyahu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ní ipò"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    }
+  ],
+  "timestamp": "2026-08-23T05:32:16.793168731Z",
+  "model": "glm-5.3"
+}

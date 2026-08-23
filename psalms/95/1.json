@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 95,
+  "translation": "Ẹ wá, ẹ jẹ́ ká korin fún Yahweh, ká kíkì lókìkí fún Ọkúta tí ó jẹ́ ìgbàlà wa.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ẹ wá"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "ẹ jẹ́ ká korin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fún Yahweh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "ká kíkì lókìkí"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "fún Ọkúta"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "tí ó jẹ́ ìgbràlà wa"
+    }
+  ],
+  "timestamp": "2026-08-23T03:47:24.826580945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 132,
+  "translation": "Yahweh ti búra fún Dafidi ní oòtó, kì yóò yọrípadà níbẹ̀: nípa èso ìbàkún rẹ ni èmi ti yóò fi jọ̀ sí àga ìjọba fún ọ.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ti búra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fún Dafidi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ní oòtó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "yóò yọrípadà"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "nípa èso"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ìbàkún rẹ"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ni èmi ti yóò fi jọ̀ sí"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "àga ìjọba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fún ọ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:57:22.685206739Z",
+  "model": "glm-5.3"
+}

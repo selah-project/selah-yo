@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 138,
+  "translation": "Èmi ó kúnlẹ̀ sí ilé iyì mímọ́ rẹ, èmi ó sì dúpẹ́ lọ́dọ ⟨את⟩ orúkọ rẹ, nítorí chesed rẹ àti nítorí òtítọ́ rẹ; nítorí tí O ti gbéga lórí gbogbo orúkọ rẹ ọ̀rọ̀ rẹ.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "èmi ó kúnlẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ilé iyì"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "mímọ́ rẹ"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "èmi ó sì dúpẹ́ lọ́dọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orúkọ rẹ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed rẹ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "àti nítorí"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "òtítọ́ rẹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "O ti gbéga"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ọ̀rọ̀ rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:59:49.322915529Z",
+  "model": "glm-5.3"
+}

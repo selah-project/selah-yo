@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 109,
+  "translation": "Nítorí pé òun kò rántí láti ṣe chesed, ó sì lé ẹni tí ó kéré, aláìní àti ẹni tí ọkàn rẹ̀ ti fọ́ wálẹ̀ láti pa wọ́n.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "nítorí pé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "rántí"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "láti ṣe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ó sì lé"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ẹni"
+    },
+    {
+      "surface": "עני",
+      "gloss": "tí ó kéré"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "aláìní"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "ẹni tí ... ti fọ́ wálẹ̀"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ọkàn"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "láti pa wọ́n"
+    }
+  ],
+  "timestamp": "2026-08-23T03:53:28.506460209Z",
+  "model": "glm-5.3"
+}

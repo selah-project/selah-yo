@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 37,
+  "translation": "Nítorí bí koríko, wọn yóò kú kíákíá; bí ewéko tuntun, wọn yóò gbẹ́.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "bí koríko"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "kíákíá"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "wọn yóò kú"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "bí ewéko tuntun"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ewéko"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "wọn yóò gbẹ́"
+    }
+  ],
+  "timestamp": "2026-08-23T03:31:22.885602124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Uriah sì sùn ní ọ̀nà-ìgbàṣẹ́ ilé ọba pẹ̀lú ⟨את⟩ gbogbo àwọn ìránṣẹ́ olúwa rẹ̀, kò sì sọ̀rọ̀-lọ sí ilé rẹ̀.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "sì sùn"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ní ọ̀nà-ìgbàṣẹ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ilé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ìránṣẹ́ olúwa rẹ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "àwọn ìránṣẹ́"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "olúwa rẹ̀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kò sì"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sọ̀rọ̀-lọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ilé rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T05:50:34.551516828Z",
+  "model": "glm-5.3"
+}

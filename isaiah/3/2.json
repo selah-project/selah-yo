@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "yo",
+  "chapter": 3,
+  "translation": "ẹni ogun àti akíkanjú ìjà, adájọ́ àti wòlíì, olùsọ́ ìṣirí àti àgbàlagbà —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "akíkanjú"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "àti ẹni"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "adájọ́"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "àti wòlíì"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "àti olùsọ́ ìṣirí"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "àti àgbàlagbà"
+    }
+  ],
+  "timestamp": "2026-08-23T01:40:18.673095826Z",
+  "model": "glm-5.3"
+}

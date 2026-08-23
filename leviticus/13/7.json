@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 13:7",
+  "book": "leviticus",
+  "lang": "yo",
+  "chapter": 13,
+  "translation": "Ṣùgbọ́n tí esù náà bá tàn káàkiri gan-an nínú ara, lẹ́yìn ìgbà tí wọ́n fi rí i fún adarígun láti fí ọ́ mọ́ mọ́, ó máa wá fún adarígun lẹ́ẹkẹjì.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ṣùgbọ́n tí"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "tàn káàkiri"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "bá tàn gan-an"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "esù náà"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "nínú ara"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "lẹ́yìn ìgbà tí"
+    },
+    {
+      "surface": "הראתו",
+      "gloss": "wọ́n fi rí i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adarígun"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "láti fí ọ́ mọ́ mọ́"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "ó máa wá fún"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "lẹ́ẹkẹjì"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fún"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adarígun"
+    }
+  ],
+  "timestamp": "2026-08-22T23:39:08.573464887Z",
+  "model": "glm-5.3"
+}

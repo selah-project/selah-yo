@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 24:16",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 24,
+  "translation": "Àti ⟨את⟩ gbogbo àwọn ọkùnrin olóye — ẹ̀meje ẹgbàrun — àti aláṣẹ àti alága, ẹgbàrun kan; gbogbo wọn ni jagunjagun, olósẹ́ ogun; ọba Babel sì gbé wọn wà sí ìgbèkùn dé Babel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "àti ⟨את⟩",
+      "marks": "gbogbo àwọn ọkùnrin olóye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "àwọn ọkùnrin"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "olóye"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ẹ̀meje"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ẹgbàrun"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "àti aláṣẹ"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "àti alága"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ẹgbàrun kan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "gbogbo wọn"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "jagunjagun"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "olósẹ́"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ogun"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ó sì gbé wọn wà"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "sí ìgbèkùn"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "dé Babel"
+    }
+  ],
+  "timestamp": "2026-08-23T01:40:15.208403037Z",
+  "model": "glm-5.3"
+}

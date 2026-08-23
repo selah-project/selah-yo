@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 121,
+  "translation": "Wò ó, kì í ṣe pé ó ń sùn jẹ, kì í sì ṣe pé ó ń sùn òru jọjọ́, Ẹni tí ó ń ṣọ́ Ísráẹ́lì.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wò ó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í ṣe pé ó ń"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "sùn jẹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kì í sì ṣe pé ó ń"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "sùn òru jọjọ́"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Ẹni tí ó ń ṣọ́"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísráẹ́lì"
+    }
+  ],
+  "timestamp": "2026-08-23T03:56:37.337680138Z",
+  "model": "glm-5.3"
+}

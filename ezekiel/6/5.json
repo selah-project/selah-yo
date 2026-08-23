@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Èmi yóò sì fi ⟨את⟩ àwọn ọkú àwọn ọmọ Yisraél síwájú àwọn òdọ̀ṣẹ̀ wọn, èmi yóò sì tà áwọn egungun yín ká ní ìkà around àwọn pẹpẹ yín.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "èmi yóò sì fi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ọkú àwọn ọmọ Yisraél"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "àwọn ọkú"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "síwájú"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "àwọn òdọ̀ṣẹ̀ wọn"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "èmi yóò sì tà á"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn egungun yín"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "àwọn egungun yín"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ká"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "àwọn pẹpẹ yín"
+    }
+  ],
+  "timestamp": "2026-08-23T02:34:48.772521222Z",
+  "model": "glm-5.3"
+}

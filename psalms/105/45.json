@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 105,
+  "translation": "Nítorí kí wọ́n lè pa ṣààfinni rẹ̀ mọ́, àti kí wọ́n lè ṣọ́ àwọn Moses rẹ̀. Ẹ gbé Yah ga!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "nítorí kí"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "kí wọ́n lè pa ... mọ́"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ṣààfinni rẹ̀"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "àti àwọn Moses rẹ̀"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "kí wọ́n lè ṣọ́"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Ẹ gbé ... ga"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-23T03:50:34.531945042Z",
+  "model": "glm-5.3"
+}

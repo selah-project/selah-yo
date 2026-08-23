@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Àwọn àlùfáá sì mú ⟨את⟩ ááà májẹ̀mú Yahweh wá sí ipò rẹ̀, sí Debir ilé náà, sí Ellison-mímọ́ tí ó mọ́ jùlọ, sí abẹ́ ipá àwọn Kerubimu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "sì mú... wá"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "àwọn àlùfáá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ááà májẹ̀mú Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ááà"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "májẹ̀mú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ipò rẹ̀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilé náà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Ellison-mímọ́"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "tí ó mọ́ jùlọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "abẹ́"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ipá"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "àwọn Kerubimu"
+    }
+  ],
+  "timestamp": "2026-08-23T01:15:18.943515271Z",
+  "model": "glm-5.3"
+}

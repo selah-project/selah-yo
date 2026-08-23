@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 28,
+  "translation": "àti pé Yaakov gbọ́toro ìpàṣẹ baba rẹ̀ àti ti ìyá rẹ̀, ó sì lọ sí Padan-Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ó sì gbọ́toro"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sí"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba rẹ̀"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "àti sí"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ìyá rẹ̀"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ó sì lọ"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-22T23:04:39.335225467Z",
+  "model": "glm-5.3"
+}

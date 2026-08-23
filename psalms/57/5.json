@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 57,
+  "translation": "Okàn mi láàyè wà láàrin àwọn kìnnìún; mo lu dùnú láàrin àwọn tí ń jó iná, àwọn ọmọ ènìyàn, ejí wọn ni ọ̀kọ̀ àti òfà, èèrù wọn sì ni idà líle.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Okàn mi láàyè"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "láàrin"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "àwọn kìnnìún"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "mo lu dùnú"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "àwọn tí ń jó iná"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ejí wọn"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ọ̀kọ̀"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "àti òfà"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "èèrù wọn"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idà"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "líle"
+    }
+  ],
+  "timestamp": "2026-08-23T03:37:12.674473182Z",
+  "model": "glm-5.3"
+}

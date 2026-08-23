@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 29,
+  "translation": "Yahweh ń fún àwọn ènìyàn rẹ̀ lágbára; Yahweh ń bùkún ⟨את⟩ àwọn ènìyàn rẹ̀ pẹ̀lú àlàáfíà.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "agbára"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "fún àwọn ènìyàn rẹ̀"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ń fún"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ń bùkún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn ènìyàn rẹ̀"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "àwọn ènìyàn rẹ̀"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "pẹ̀lú àlàáfíà"
+    }
+  ],
+  "timestamp": "2026-08-23T03:27:58.405421814Z",
+  "model": "glm-5.3"
+}

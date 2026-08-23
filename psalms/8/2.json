@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 8,
+  "translation": "Yahweh, Adonai wa, mòó tí orúkọ rẹ ṣe gbajúmọ̀ ní gbogbo ayé; ẹni tí ó fi ògo rẹ sókè lórí àwọn ọ̀run.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai wa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mòó"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "gbajúmọ̀"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "orúkọ rẹ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ní gbogbo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ayé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ẹni tí"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "fi … sókè"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ògo rẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "àwọn ọ̀run"
+    }
+  ],
+  "timestamp": "2026-08-23T03:23:19.916087583Z",
+  "model": "glm-5.3"
+}

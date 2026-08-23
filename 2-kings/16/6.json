@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 16:6",
+  "book": "2-kings",
+  "lang": "yo",
+  "chapter": 16,
+  "translation": "Ní àkókò yẹn ni Retsin ọba Aram padà da ⟨את⟩ Elath fún Aram, ó sì yọ ⟨את⟩ àwọn Júù kúrò ní Elath; àwọn Edomitu sì wá sí Elath, wọ́n sì gbé ibẹ̀ títí di ọjọ́ yìí.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Ní àkókò"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "yẹn"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "padà da ... fún"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elath"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Elath"
+    },
+    {
+      "surface": "לארם",
+      "gloss": "fún Aram"
+    },
+    {
+      "surface": "וינשל",
+      "gloss": "ó sì yọ ... kúrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn Júù"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "àwọn Júù"
+    },
+    {
+      "surface": "מאילות",
+      "gloss": "kúrò ní Elath"
+    },
+    {
+      "surface": "וארמים",
+      "gloss": "àwọn Edomitu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sì wá sí"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Elath"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wọ́n sì gbé"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ibẹ̀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "títí di"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yìí"
+    }
+  ],
+  "timestamp": "2026-08-23T01:34:58.195958634Z",
+  "model": "glm-5.3"
+}

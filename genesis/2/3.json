@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 2,
+  "translation": "Elohim sì bùkún ⟨את⟩ ọjọ́ kẹ̀je, ó sì yá ⟨את⟩ á ṣọ́; nítorí níbẹ̀ ni ó ti dá dúró látì í gbogbo iṣẹ́ rẹ̀ tí Elohim dá láti ṣe.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "sì bùkún"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọjọ́ kẹ̀je"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ọjọ́"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "kẹ̀je"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ó sì yá á ṣọ́"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ á",
+      "marks": "á (ọjọ́ kẹ̀je)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "níbẹ̀"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ó ti dá dúró"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "látì í gbogbo"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "iṣẹ́ rẹ̀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "Elohim dá"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "láti ṣe"
+    }
+  ],
+  "timestamp": "2026-08-22T22:54:07.980953736Z",
+  "model": "glm-5.3"
+}

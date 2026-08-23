@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "yo",
+  "chapter": 7,
+  "translation": "Ní ọjọ́ ọba wa, ìgbóná沉in ti bá àwọn olórí jẹ́, ó sì fa ọwọ́ rẹ̀ sórí ⟨את⟩ àwọn onírẹ́gẹ̀.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Ní ọjọ́"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ọba wa"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ti bá...jẹ́"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "àwọn olórí"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ìgbóná"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "沉in"
+    },
+    {
+      "surface": "משך",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àwọn onírẹ́gẹ̀"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "sórí àwọn onírẹ́gẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-23T03:03:38.084466051Z",
+  "model": "glm-5.3"
+}

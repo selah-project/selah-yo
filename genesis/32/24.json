@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "yo",
+  "chapter": 32,
+  "translation": "Ó sì gba wọn, ó sì sọ wọ́n kọjá ⟨את⟩ odò náà, ó sì sọ nǹkan tí ó ní kọjá.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "ó sì gba wọn"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "ó sì sọ wọ́n kọjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odò náà"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "odò náà"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ó sì sọ kọjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nǹkan tí ó ní"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ó ní"
+    }
+  ],
+  "timestamp": "2026-08-22T23:05:59.102285310Z",
+  "model": "glm-5.3"
+}

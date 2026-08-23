@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 6,
+  "translation": "Padà, Yahweh; gbà ⟨אֵ⟩ — ṣààbò émí mi, gbà mí là nítorí chesed rẹ.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Padà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "gbà ⟨…⟩ là"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "èmí mi"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "gbà mí là"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nítorí"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed rẹ"
+    }
+  ],
+  "timestamp": "2026-08-23T03:22:40.194304569Z",
+  "model": "glm-5.3"
+}

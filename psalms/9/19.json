@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 9,
+  "translation": "Nítorí tí a kì í gbàgbé aláìní ní títí láéláé; ìrètí àwọn aláìní agbára kì í ṣègbé títí láéláé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nítorí tí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kì í"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ní títí láéláé"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "a kì í gbàgbé"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "aláìní"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ìrètí"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "àwọn aláìní agbára"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "kì í ṣègbé"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "títí láéláé"
+    }
+  ],
+  "timestamp": "2026-08-23T03:24:57.293399057Z",
+  "model": "glm-5.3"
+}

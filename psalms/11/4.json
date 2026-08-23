@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "yo",
+  "chapter": 11,
+  "translation": "Yahweh wà nínú templi mímọ́ rẹ̀; Yahweh — ìtè rẹ̀ wà nínú ọ̀run; ojú rẹ̀ ń wo, àwọn irọ́run rẹ̀ ń dá àwọn ọmọ ènìyàn láàyè.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "nínú templi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mímọ́ rẹ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nínú ọ̀run"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ìtè rẹ̀"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ojú rẹ̀"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ń wo"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "àwọn irọ́run rẹ̀"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "ń dá láàyè"
+    },
+    {
+      "surface": "בני",
+      "gloss": "àwọn ọmọ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T03:25:44.266781858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "yo",
+  "chapter": 12,
+  "translation": "Nínú ọwọ́ rẹ̀ ni ẹ̀mí gbogbo ohun alààyè wà, àti ẹ̀mí-òyìyè gbogbo ara ènìyàn.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "èyítí"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nínú ọwọ́ rẹ̀"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ẹ̀mí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ohun alààyè"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "àti ẹ̀mí-òyìyè"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ènìyàn"
+    }
+  ],
+  "timestamp": "2026-08-23T04:18:36.499623263Z",
+  "model": "glm-5.3"
+}
