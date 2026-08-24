@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 11,
-  "translation": "Èdùnmárò ayé Reu jẹ́ ọ̀kàndínlógojì ọdún; ó sì bí ⟨את⟩ Serug.",
+  "translation": "Reu sì ṣẹ̀mé ẹ̀rìndínlógójì ọdún, ó sì bí ⟨את⟩ Serug.",
   "tokens": [
     {
       "surface": "ויחי",
-      "gloss": "ó ṣe àyẹ̀wò ayé — ṣàṣẹ́lẹ̀"
+      "gloss": "sì ṣẹ̀mé"
     },
     {
       "surface": "רעו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שתים",
-      "gloss": "èjì"
+      "gloss": "méjì, èyítí ó jẹ́ ẹ̀rìndínlógójì nínú ìṣèró Yorùbá"
     },
     {
       "surface": "ושלשים",
-      "gloss": "àti ọgbọ̀n"
+      "gloss": "àti ọ̀kàndínlógún"
     },
     {
       "surface": "שנה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨⟨את⟩⟩",
+      "gloss": "⟨את⟩",
       "marks": "Serug"
     },
     {
@@ -41,6 +41,6 @@
       "gloss": "Serug"
     }
   ],
-  "timestamp": "2026-08-22T22:57:25.339042898Z",
+  "timestamp": "2026-08-24T21:04:39.589279530Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 12,
-  "translation": "Ó sì wáyé, nígbà tí gbogbo Yisrael gbọ́ pé Yarovam ti padà wàyí, wọ́n fi ṣíṣẹ̀ rán ⟨אתו⟩ àwọn ènìyàn, wọ́n sì pé e wá sí àpérò; wọ́n sì jẹ́ kí ó jọba lórí gbogbo Yisrael ⟨אתו⟩ lórí gbogbo Yisrael; kò sí ẹnikẹ́ni tí ó tẹ̀lé ilé David, àyàfi ewé Yehudah nìkan ṣoṣo.",
+  "translation": "Ó sì yẹlẹ̀, nígbà tí gbogbo Israẹli gbọ́ pé Yarovam ti padà, wọ́n rán àwọn ènìyàn, wọ́n sì pè é ⟨את⟩ wá sí àwùjọ náà, wọ́n sì fi jẹ́ kí ó jẹ́ ọba lórí gbogbo Israẹli; ẹnikẹ́ni kò ṣe tẹ̀lé ilé David, àfi ewọn Yehuda nìkan ṣoṣo.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ó sì wáyé"
+      "gloss": "Ó sì yẹlẹ̀"
     },
     {
       "surface": "כשמע",
-      "gloss": "nígbà tí gbọ́"
+      "gloss": "nígbà tí gbogbo... gbọ́ pé"
     },
     {
       "surface": "כל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israẹli"
     },
     {
       "surface": "כי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שב",
-      "gloss": "ti padà wàyí"
+      "gloss": "ti padà"
     },
     {
       "surface": "ירבעם",
@@ -37,33 +37,33 @@
     },
     {
       "surface": "וישלחו",
-      "gloss": "wọ́n fi ṣíṣẹ̀ rán"
+      "gloss": "wọ́n rán àwọn ènìyàn"
     },
     {
       "surface": "ויקראו",
-      "gloss": "wọ́n sì pé e wá"
+      "gloss": "wọ́n sì pè"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "sí àpérò"
+      "gloss": "⟨את⟩",
+      "marks": "é"
     },
     {
       "surface": "אל",
-      "gloss": "sí"
+      "gloss": "wá sí"
     },
     {
       "surface": "העדה",
-      "gloss": "àpérò"
+      "gloss": "àwùjọ náà"
     },
     {
       "surface": "וימליכו",
-      "gloss": "wọ́n sì jẹ́ kí ó jọba"
+      "gloss": "wọ́n sì fi jẹ́ kí ó jẹ́ ọba"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "Yarovam"
+      "gloss": "⟨את⟩",
+      "marks": "ó"
     },
     {
       "surface": "על",
@@ -75,19 +75,19 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israẹli"
     },
     {
       "surface": "לא",
-      "gloss": "kò sí"
+      "gloss": "kò"
     },
     {
       "surface": "היה",
-      "gloss": "wáyé\/ńṣe"
+      "gloss": "ẹnikẹ́ni kò ṣe"
     },
     {
       "surface": "אחרי",
-      "gloss": "tí ó tẹ̀lé"
+      "gloss": "tẹ̀lé"
     },
     {
       "surface": "בית",
@@ -99,21 +99,21 @@
     },
     {
       "surface": "זולתי",
-      "gloss": "àyàfi"
+      "gloss": "àfi"
     },
     {
       "surface": "שבט",
-      "gloss": "ewé"
+      "gloss": "ewọn"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudah"
+      "gloss": "Yehuda"
     },
     {
       "surface": "לבדו",
-      "gloss": "nìkan ṣoṣo"
+      "gloss": "níkan ṣoṣo"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.679728808Z",
+  "timestamp": "2026-08-24T21:05:44.591014573Z",
   "model": "glm-5.3"
 }

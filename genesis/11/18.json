@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 11,
-  "translation": "Èdùnmárò ayé Peleg jẹ́ ọgbọ̀n ọdún; ó sì bí ⟨את⟩ Reu.",
+  "translation": "Peleg sì ṣẹ̀méẹ̀dínlọ́gbọ̀n ọdún, ó sì bí ⟨את⟩ Reu.",
   "tokens": [
     {
       "surface": "ויחי",
-      "gloss": "ó ṣe àyẹ̀wò ayé — ṣàṣẹ́lẹ̀"
+      "gloss": "sì ṣẹ̀mé"
     },
     {
       "surface": "פלג",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שלשים",
-      "gloss": "ọgbọ̀n"
+      "gloss": "ọ̀kàndínlógún, èyítí ó jẹ́ ṣẹ̀méẹ̀dínlọ́gbọ̀n nínú ìtumọ̀ Yorùbá"
     },
     {
       "surface": "שנה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨⟨את⟩⟩",
+      "gloss": "⟨את⟩",
       "marks": "Reu"
     },
     {
@@ -37,6 +37,6 @@
       "gloss": "Reu"
     }
   ],
-  "timestamp": "2026-08-22T22:57:25.338283523Z",
+  "timestamp": "2026-08-24T21:04:39.588218419Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 31,
-  "translation": "Moshe sì rán wọn —— ẹgbẹ̀rún kan fún ẹ̀yà kọ̀ọ̀kan —— sí ogun: ⟨את⟩ ⟨אתם⟩ àti ⟨את⟩ Pinchas ọmọ Elazar àlúfàà, sí ogun; àti àwọn ohun èlì mímọ́ àti àwọn fèrè ìkìlọ̀ ní ọwọ́ rẹ̀.",
+  "translation": "Moshe sì rán ⟨את⟩ wọn — ẹgbẹ̀rún fún ẹ̀yọ̀-ìdílé kọ̀ọ̀kan — sí ogun, wọn àti ⟨את⟩ Pinchas ọmọ Elazar, àlùfáà náà, sí ogun, pẹ̀lú àwọn ohun-èlò ìmọ́ mímọ́ àti àwọn kọ̀ọ̀gà ìgbe-ìkìlọ̀ nínú ọwọ́ rẹ̀.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "sì rán"
+      "gloss": "ó sì rán"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "wọn"
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn tí a rán)"
     },
     {
       "surface": "משה",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "אלף",
-      "gloss": "ẹgbẹ̀rún kan"
+      "gloss": "ẹgbẹ̀rún"
     },
     {
       "surface": "למטה",
-      "gloss": "fún ẹ̀yà kọ̀ọ̀kan"
+      "gloss": "fún ẹ̀yọ̀-ìdílé kọ̀ọ̀kan"
     },
     {
       "surface": "לצבא",
@@ -34,12 +34,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "wọn"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "àti ⟨את⟩",
       "marks": "Pinchas"
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "àlúfàà náà"
+      "gloss": "àlùfáà náà"
     },
     {
       "surface": "לצבא",
@@ -64,25 +64,25 @@
     },
     {
       "surface": "וכלי",
-      "gloss": "àti àwọn ohun èlì"
+      "gloss": "àti àwọn ohun-èlò"
     },
     {
       "surface": "הקדש",
-      "gloss": "mímọ́ náà"
+      "gloss": "ìmọ́ mímọ́"
     },
     {
       "surface": "וחצצרות",
-      "gloss": "àti àwọn fèrè"
+      "gloss": "àti àwọn kọ̀ọ̀gà"
     },
     {
       "surface": "התרועה",
-      "gloss": "ìkìlọ̀ náà"
+      "gloss": "ìgbe-ìkìlọ̀"
     },
     {
       "surface": "בידו",
-      "gloss": "ní ọwọ́ rẹ̀"
+      "gloss": "nínú ọwọ́ rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.678685346Z",
+  "timestamp": "2026-08-24T21:05:16.714175790Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 60,
-  "translation": "Nítorí tí àwọn eti òkun yóò dúró de mi, àti àwọn ọkọ̀ ojú omi Tarshish ní àkọ́kọ́, láti mú àwọn ọmọ rẹ̀ wá láti ọ̀run jìnà, idẹ wọn àti wúrà wọn wà pẹ̀lú wọn ⟨אתם⟩, fún orúkọ Yahweh, Elohim rẹ, àti fún Ẹni-Mímọ́ Yisrael, nítorí tí ó ti ṣe ìgbéraga fún ẹ.",
+  "translation": "Nítorí tí àwọn eti òkun ń dúro de Mi, àti àwọn ọkọ̀ oúnjẹ Tarshish ní àkọ́kọ́, láti mú àwọn ọmọ rẹ̀ wá láti ọ̀ jinà, fàdákà wọn àti wúrà wọn wà pẹ̀lú wọn ⟨את⟩ ⟨אתם⟩, fún Orúkọ Yahweh, Elohim rẹ̀, àti fún Ẹni-Mímọ́ ti Yisrael, nítorí tí Òun ti fi ọlá ṣẹ́ ọ́.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "de mi"
+      "gloss": "de Mi"
     },
     {
       "surface": "איים",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "יקוו",
-      "gloss": "yóò dúró dúró"
+      "gloss": "ń dúro"
     },
     {
       "surface": "ואניות",
-      "gloss": "àti àwọn ọkọ̀ ojú omi"
+      "gloss": "àti àwọn ọkọ̀ oúnjẹ"
     },
     {
       "surface": "תרשיש",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "להביא",
-      "gloss": "láti mú wá"
+      "gloss": "láti mú"
     },
     {
       "surface": "בניך",
-      "gloss": "àwọn ọmọ rẹ"
+      "gloss": "àwọn ọmọ rẹ̀"
     },
     {
       "surface": "מרחוק",
-      "gloss": "láti ọ̀run jìnà"
+      "gloss": "wá láti ọ̀jinà"
     },
     {
       "surface": "כספם",
-      "gloss": "idẹ wọn"
+      "gloss": "fàdákà wọn"
     },
     {
       "surface": "וזהבם",
@@ -57,11 +57,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩ pẹ̀lú wọn"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "wà pẹ̀lú wọn"
     },
     {
       "surface": "לשם",
-      "gloss": "fún orúkọ"
+      "gloss": "fún Orúkọ"
     },
     {
       "surface": "יהוה",
@@ -69,7 +70,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim rẹ"
+      "gloss": "Elohim rẹ̀"
     },
     {
       "surface": "ולקדוש",
@@ -77,7 +78,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "ti Yisrael"
     },
     {
       "surface": "כי",
@@ -85,9 +86,9 @@
     },
     {
       "surface": "פארך",
-      "gloss": "ó ti ṣe ìgbéraga fún ẹ"
+      "gloss": "ti fi ọlá ṣẹ́ ọ́"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.676917365Z",
+  "timestamp": "2026-08-24T21:30:59.705924769Z",
   "model": "glm-5.3"
 }

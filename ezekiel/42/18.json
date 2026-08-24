@@ -5,16 +5,16 @@
   "book": "ezekiel",
   "lang": "yo",
   "chapter": 42,
-  "translation": "⟨את⟩ eti ìha gúúsù ó ṣe ìwọ̀n, ogórùn-ún márùn-ún kàn, pẹ̀lú kàn ìwọ̀n náà.",
+  "translation": "Ó ṣe ⟨את⟩ ẹgbẹ́ gúúsù — ọ̀gọ̀rọ̀ún márùn-ún kanna, pẹ̀lú kanna ìwọ̀n.",
   "tokens": [
     {
       "surface": "את",
-      "gloss": "⟨⟨את⟩⟩",
-      "marks": "eti ìha gúúsù"
+      "gloss": "⟨את⟩",
+      "marks": "ẹgbẹ́ gúúsù"
     },
     {
       "surface": "רוח",
-      "gloss": "eti ìha"
+      "gloss": "ẹgbẹ́"
     },
     {
       "surface": "הדרום",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "מדד",
-      "gloss": "ó ṣe ìwọ̀n"
+      "gloss": "ó ṣe"
     },
     {
       "surface": "חמש",
@@ -30,21 +30,21 @@
     },
     {
       "surface": "מאות",
-      "gloss": "ogórùn-ún"
+      "gloss": "ọ̀gọ̀rọ̀ún"
     },
     {
       "surface": "קנים",
-      "gloss": "kàn"
+      "gloss": "kanna"
     },
     {
       "surface": "בקנה",
-      "gloss": "pẹ̀lú kàn"
+      "gloss": "pẹ̀lú kanna"
     },
     {
       "surface": "המדה",
-      "gloss": "ìwọ̀n náà"
+      "gloss": "ìwọ̀n"
     }
   ],
-  "timestamp": "2026-08-23T02:55:29.235907157Z",
+  "timestamp": "2026-08-24T21:05:57.859178864Z",
   "model": "glm-5.3"
 }

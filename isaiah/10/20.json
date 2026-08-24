@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 10,
-  "translation": "Ó sì jẹ́ ní ọjọ́ yẹn, ìdí tí ó ku ní Yisrael àti àwọn tí ó sa lọ nínú ilé Yaakov kì yóò tún gbẹ́kẹ̀ lé ⟨⟨eni⟩⟩ tí ó lu wọn mọ́; ṣùgbọ́n wọn yóò gbẹ́kẹ̀ lé Yahweh, Ẹni-Mímọ́ ti Yisrael, pẹ̀lú òtítọ́.",
+  "translation": "Ó sì jẹ́ ní ọjọ́ yẹn, ìdásílẹ̀ Yisrael àti àwọn tí ó sajáde láti inú ilé Yaakov kì yóò ṣe ìgbẹ́kẹ̀ lẹ́ẹ̀kansi sí lórí ẹni tí ó ń lu wọ́n; ṣùgbọ́n wọ́n máa gbẹ́kẹ̀ lórí Yahweh, Ẹní Mímọ́ ti Yisrael, ní òtítọ́.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Ó sì jẹ́ ní"
+      "gloss": "Ó sì jẹ́"
     },
     {
       "surface": "ביום",
-      "gloss": "ọjọ́"
+      "gloss": "ní ọjọ́"
     },
     {
       "surface": "ההוא",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "kì"
+      "gloss": "kì í"
     },
     {
       "surface": "יוסיף",
-      "gloss": "yóò tún"
+      "gloss": "yóò ṣe… sí mọ́"
     },
     {
       "surface": "עוד",
-      "gloss": ""
+      "gloss": "lẹ́ẹ̀kansi"
     },
     {
       "surface": "שאר",
-      "gloss": "ìdí tí ó ku"
+      "gloss": "ìdásílẹ̀"
     },
     {
       "surface": "ישראל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ופליטת",
-      "gloss": "àwọn tí ó sa lọ nínú"
+      "gloss": "àti àwọn tí ó sajáde"
     },
     {
       "surface": "בית",
@@ -53,23 +53,23 @@
     },
     {
       "surface": "להשען",
-      "gloss": "gbẹ́kẹ̀ lé"
+      "gloss": "láti gbẹ́kẹ̀ lé"
     },
     {
       "surface": "על",
-      "gloss": "lé"
+      "gloss": "lórí"
     },
     {
       "surface": "מכהו",
-      "gloss": "tí ó lu wọn"
+      "gloss": "ẹni tí ó ń lu wọ́n"
     },
     {
-      "surface": "ונשען",
-      "gloss": "wọn yóò gbẹ́kẹ̀ lé"
+      "surface": "וְנִשְׁעַ֗ן",
+      "gloss": "ṣùgbọ́n wọ́n máa gbẹ́kẹ̀ lé"
     },
     {
       "surface": "על",
-      "gloss": "lé"
+      "gloss": "lórí"
     },
     {
       "surface": "יהוה",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "קדוש",
-      "gloss": "Ẹni-Mímọ́"
+      "gloss": "Ẹní Mímọ́"
     },
     {
       "surface": "ישראל",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "באמת",
-      "gloss": "pẹ̀lú òtítọ́"
+      "gloss": "ní òtítọ́"
     }
   ],
-  "timestamp": "2026-08-23T01:44:20.428353877Z",
+  "timestamp": "2026-08-24T21:06:03.555020800Z",
   "model": "glm-5.3"
 }

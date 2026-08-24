@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 4,
-  "translation": "Nítorí Yahweh Elohim rẹ, inú jẹ́ ìjẹ́ ọ̀nà ni ⟨⟨ó⟩⟩, El ìjẹ́gun ni.",
+  "translation": "Nítorí Yahweh, Elohim rẹ, ⟨ní⟩ iná jẹ-jẹ jẹ́, òun ni; El jíjẹ́-ínú-ìjà.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אש",
-      "gloss": "inú"
+      "gloss": "iná"
     },
     {
       "surface": "אכלה",
-      "gloss": "jẹ́ ìjẹ́ ọ̀nà"
+      "gloss": "jẹ-jẹ jẹ́"
     },
     {
       "surface": "הוא",
-      "gloss": "ó"
+      "gloss": "òun ni"
     },
     {
       "surface": "אל",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "קנא",
-      "gloss": "ìjẹ́gun"
+      "gloss": "jíjẹ́-ínú-ìjà"
     }
   ],
-  "timestamp": "2026-08-23T00:08:25.866963609Z",
+  "timestamp": "2026-08-24T21:05:03.036001408Z",
   "model": "glm-5.3"
 }

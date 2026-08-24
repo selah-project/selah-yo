@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 35,
-  "translation": "Ó ti kún ⟨אתו⟩ un ní ẹ̀mí Elohim — ní ọgbọ́n, ní ìyélọ́ràn, àti ní ìmọ̀, àti ní gbogbo iṣẹ́-ọnà.",
+  "translation": "Ó sì kún un láti ẹ̀mí Elohim, ní ọgbọ́n, ní òye, àti ní ìmọ̀, àti ní gbogbo iṣẹ́ ọwọ́",
   "tokens": [
     {
       "surface": "וימלא",
-      "gloss": "ti kún"
+      "gloss": "Ó sì kún un"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "Betsalel"
+      "marks": "un"
     },
     {
       "surface": "רוח",
-      "gloss": "ẹ̀mí"
+      "gloss": "láti ẹ̀mí"
     },
     {
       "surface": "אלהים",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "בתבונה",
-      "gloss": "ní ìyélọ́ràn"
+      "gloss": "ní òye"
     },
     {
       "surface": "ובדעת",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "מלאכה",
-      "gloss": "iṣẹ́-ọnà"
+      "gloss": "iṣẹ́ ọwọ́"
     }
   ],
-  "timestamp": "2026-08-22T23:31:38.471557870Z",
+  "timestamp": "2026-08-24T21:04:09.689820972Z",
   "model": "glm-5.3"
 }

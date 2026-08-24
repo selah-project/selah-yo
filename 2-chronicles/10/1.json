@@ -5,19 +5,19 @@
   "book": "2-chronicles",
   "lang": "yo",
   "chapter": 10,
-  "translation": "Nígbà náà Rehavam lọ sí Shékem, nítorí Shékem ni gbogbo Israẹli ti wá láti jẹ́ kí ó jẹ́ oba ⟨את⟩ ⟨אתו⟩.",
+  "translation": "Nígbà náà, Rechavam lọ sí Shekhem, nítorí sí Shekhem ni gbogbo Israel tó ṣẹ́ wá, láti fi jẹ ọba ⟨את⟩ oun.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "ó lọ sí"
+      "gloss": "nígbà náà… lọ sí"
     },
     {
       "surface": "רחבעם",
-      "gloss": "Rehavam"
+      "gloss": "Rechavam"
     },
     {
       "surface": "שכמה",
-      "gloss": "Shékem"
+      "gloss": "sí Shekhem"
     },
     {
       "surface": "כי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "שכם",
-      "gloss": "Shékem"
+      "gloss": "sí Shekhem"
     },
     {
       "surface": "באו",
-      "gloss": "ti wá"
+      "gloss": "ṣẹ́ wá"
     },
     {
       "surface": "כל",
@@ -37,18 +37,18 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israẹli"
+      "gloss": "Israel"
     },
     {
       "surface": "להמליך",
-      "gloss": "láti jẹ́ kí ó jẹ́ oba"
+      "gloss": "láti fi jẹ ọba"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ó (Rehavam)"
+      "gloss": "⟨את⟩",
+      "marks": "oun (oun tí wọ́n fi jẹ ọba)"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.665206451Z",
+  "timestamp": "2026-08-24T21:07:00.431479196Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,27 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 21,
-  "translation": "Èmi kì yòò fi ẹsẹ Israel lọ mọ́ kúrò nínú ilẹ̀ tí mo fún àwọn baba wọn; ṣùgbọ́n tí wọ́n bá ṣọ́ láti ṣe bí gbogbo ti mo ti pàṣẹ fún wọn, àti bí gbogbo Torah tí Moshe ọmọ-ọ̀dọ̀ mi ti pàṣẹ fún ⟨את⟩ ⟨אתם⟩ wọn.",
+  "translation": "Èmi kì yóò ṣàfikún láti jẹ́ kí ẹsẹ́ Israẹli yá kúrò nínú ⟨ilẹ̀ naa⟩ tí mo fún àwọn baba wọn ní; ṣùgbọ́n nígbà tí wọ́n bá pa ìṣọ́ mọ́ láti ṣe bíi gbogbo ohun tí mo pàṣẹ fún wọn, àti ní bíi gbogbo Tọra tí Mose, ẹrú mi, pàṣẹ fún ⟨את⟩ wọn.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "kì yòò … mọ́"
+      "gloss": "kì yóò"
     },
     {
       "surface": "אסיף",
-      "gloss": "èmi kì yòò fi … mọ́"
+      "gloss": "ṣàfikún"
     },
     {
       "surface": "להניד",
-      "gloss": "fi … lọ láti jẹ́ kí ó rọ̀"
+      "gloss": "láti jẹ́ kí ... yá"
     },
     {
       "surface": "רגל",
-      "gloss": "ẹsẹ"
+      "gloss": "ẹsẹ́"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Israẹli"
     },
     {
       "surface": "מן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "mo fún"
+      "gloss": "mo fún ... ní"
     },
     {
       "surface": "לאבותם",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "רק",
-      "gloss": "ṣùgbọ́n"
+      "gloss": "ṣùgbọ́n nígbà tí"
     },
     {
       "surface": "אם",
-      "gloss": "tí wọ́n bá"
+      "gloss": "bá"
     },
     {
       "surface": "ישמרו",
-      "gloss": "ṣọ́"
+      "gloss": "wọ́n bá pa ìṣọ́ mọ́"
     },
     {
       "surface": "לעשות",
@@ -65,23 +65,23 @@
     },
     {
       "surface": "ככל",
-      "gloss": "bí gbogbo"
+      "gloss": "bíi gbogbo"
     },
     {
       "surface": "אשר",
-      "gloss": "ti"
+      "gloss": "tí"
     },
     {
       "surface": "צויתים",
-      "gloss": "mo ti pàṣẹ fún wọn"
+      "gloss": "mo pàṣẹ fún wọn"
     },
     {
       "surface": "ולכל",
-      "gloss": "àti bí gbogbo"
+      "gloss": "àti ní bíi gbogbo"
     },
     {
       "surface": "התורה",
-      "gloss": "Torah"
+      "gloss": "Tọra"
     },
     {
       "surface": "אשר",
@@ -89,22 +89,22 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ti pàṣẹ fún"
+      "gloss": "pàṣẹ fún"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "wọn"
     },
     {
       "surface": "עבדי",
-      "gloss": "ọmọ-ọ̀dọ̀ mi"
+      "gloss": "ẹrú mi"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "Mose"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.672036070Z",
+  "timestamp": "2026-08-24T21:06:07.044710985Z",
   "model": "glm-5.3"
 }

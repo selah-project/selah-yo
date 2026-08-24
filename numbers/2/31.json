@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 2,
-  "translation": "Gbogbo àwọn tí a kànìyàn ní ọ̀gbà ogun Dan — ẹgbẹ̀rún-lọ́nà-ọgọ́rùn-ún, àti ẹ̀ẹ́dẹ́gbẹ̀ta-dín-lọ́nà-àádọ́je ⟨⟨àti⟩⟩ ẹ̀fà-lọ́nà-ọgọ́rùn-ún — wọn yóò ṣí lẹ́yìn tí wọn óò lọ pẹ̀lú àwọn àmì-ọ̀nà wọn.",
+  "translation": "Gbogbo àwọn tí a ka fún ààfin-ogun ti Dan: ọgọ́rún ẹ̀rún àti mẹ́je àti àádọ́ta ẹ̀rún àti mẹ́fà ọgọ́rún; wọn yóò lọ lẹ́yìn gbogbo èyíkéyìí pẹ̀lú àwọn àsìá wọn",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "Gbogbo"
+      "gloss": "gbogbo"
     },
     {
       "surface": "הפקדים",
-      "gloss": "àwọn tí a kànìyàn"
+      "gloss": "àwọn tí a ka"
     },
     {
       "surface": "למחנה",
-      "gloss": "ní ọ̀gbà ogun"
+      "gloss": "fún ààfin-ogun"
     },
     {
       "surface": "דן",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מאת",
-      "gloss": "ọgọ́rùn-ún"
+      "gloss": "ọgọ́rún"
     },
     {
       "surface": "אלף",
-      "gloss": "ẹgbẹ̀rún"
+      "gloss": "ẹ̀rún"
     },
     {
       "surface": "ושבעה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אלף",
-      "gloss": "ẹgbẹ̀rún"
+      "gloss": "ẹ̀rún"
     },
     {
       "surface": "ושש",
@@ -49,21 +49,21 @@
     },
     {
       "surface": "מאות",
-      "gloss": "ọgọ́rùn-ún"
+      "gloss": "ọgọ́rún"
     },
     {
       "surface": "לאחרנה",
-      "gloss": "lẹ́yìn (ní ìkẹyìn)"
+      "gloss": "lẹ́yìn gbogbo èyíkéyìí"
     },
     {
       "surface": "יסעו",
-      "gloss": "yóò ṣí \/ lọ"
+      "gloss": "yóò lọ"
     },
     {
       "surface": "לדגליהם",
-      "gloss": "pẹ̀lú àwọn àmì-ọ̀nà wọn"
+      "gloss": "pẹ̀lú àwọn àsìá wọn"
     }
   ],
-  "timestamp": "2026-08-22T23:49:01.091780430Z",
+  "timestamp": "2026-08-24T21:04:44.047986026Z",
   "model": "glm-5.3"
 }

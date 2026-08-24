@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 23,
-  "translation": "Balak wí fún un pé: Jọwọ́, wá pẹ̀lú mi ⟨את⟩ ⟨אתי⟩ sí ibòmíràn, níbi tí o gbọ́n láti rí wọ́n láti ibẹ̀; ìwọ̀n òpin rẹ̀ ni o ó rí, èyí kékeré gbogbo rẹ̀ kì í ṣe o ó rí; ṣùgbọ́n sọ ọ́ fún mi ní èyí burú láti ibẹ̀.",
+  "translation": "Balak sì wí fún un pé: Jọwọ́ dé ⟨את⟩ ⟨àti⟩ mi lọ sí ibòmíràn, ibi tí iwọ kò ríi wọn láti ibẹ̀ — ààlà rẹ̀ nìkan ni iwọ óò rí, gbogbo rẹ̀ sì ni iwọ kò níì rí; ó sì dà wọ́n lé mi lórí láti ibẹ̀.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ó wí"
+      "gloss": "sì wí"
     },
     {
       "surface": "אליו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "wá"
+      "gloss": "dé lọ"
     },
     {
       "surface": "נא",
@@ -29,8 +29,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ⟨אתי⟩",
-      "marks": "pẹ̀lú mi"
+      "gloss": "⟨את⟩ ⟨àti⟩ mi",
+      "marks": "àti mi — pàtàkì àṣà Hébérù 'ẹ̀gbẹ́ mi'"
     },
     {
       "surface": "אל",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "מקום",
-      "gloss": "ibi"
+      "gloss": "ibòmíràn nípa àkótán -- ààyè"
     },
     {
       "surface": "אחר",
-      "gloss": "ìkejì"
+      "gloss": "òmíràn"
     },
     {
       "surface": "אשר",
-      "gloss": "níbi tí"
+      "gloss": "tí"
     },
     {
       "surface": "תראנו",
-      "gloss": "o gbọ́n láti rí wọ́n"
+      "gloss": "iwọ rí wọn"
     },
     {
       "surface": "משם",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "אפס",
-      "gloss": "ìwọ̀n òpin"
+      "gloss": "ààlà \/ ìkẹ́yìn nìkan"
     },
     {
       "surface": "קצהו",
-      "gloss": "etí rẹ̀"
+      "gloss": "ìyàljìnu rẹ̀ -- etí rẹ̀"
     },
     {
       "surface": "תראה",
-      "gloss": "o ó rí"
+      "gloss": "iwọ óò rí"
     },
     {
       "surface": "וכלו",
@@ -74,15 +74,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "kì í ṣe"
+      "gloss": "kò"
     },
     {
       "surface": "תראה",
-      "gloss": "o ó rí"
+      "gloss": "iwọ rí"
     },
     {
       "surface": "וקבנו",
-      "gloss": "sọ ọ́ fún mi ní èyí burú"
+      "gloss": "ó sì dà wọ́n lé"
     },
     {
       "surface": "לי",
@@ -93,6 +93,6 @@
       "gloss": "láti ibẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.677624429Z",
+  "timestamp": "2026-08-24T21:05:16.686080301Z",
   "model": "glm-5.3"
 }

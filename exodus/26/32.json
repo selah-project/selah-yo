@@ -5,8 +5,66 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 26,
-  "translation": "Ìwọ kò sí, ṣùgbọ́n tí ó kọjá — Gbogbo wọn ni mo ti sọ̀rọ̀ nípa rẹ̀ tẹ́lẹ̀.",
-  "tokens": [],
-  "timestamp": "2026-08-23T06:50:50.097982103Z",
+  "translation": "Ìwọ kò sí, ìwọ ó gbé e sórí àwọn ògúnran mẹrin ṣitim, tí a bo pẹ̀lú wúrà, ìdè wọn sì jẹ́ wúrà, lórí àwọn ààlà mẹrin fàdákà.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Ìwọ kò sí, ìwọ ó gbé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (àwò yìí)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sórí"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "mẹrin"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "àwọn ògúnran"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ṣitim"
+    },
+    {
+      "surface": "מצפים",
+      "gloss": "tí a bo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "pẹ̀lú wúrà"
+    },
+    {
+      "surface": "וגויהם",
+      "gloss": "ìdè wọn sì jẹ́"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wúrà"
+    },
+    {
+      "surface": "על",
+      "gloss": "lórí"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "mẹrin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "àwọn ààlà"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fàdákà"
+    }
+  ],
+  "timestamp": "2026-08-24T21:07:25.065898791Z",
   "model": "glm-5.3"
 }

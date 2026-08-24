@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 4,
-  "translation": "Àwọn ọmọ Merari, nípa ìdílé wọn, nípa ilé àwọn baba wọn, ni iwọ gbọdọ̀ ka wọn ⟨אתם⟩.",
+  "translation": "Àwọn ọmọ Merari, nípa àwọn ẹbí wọn, nípa ilé àwọn baba wọn, iwọ ni ó gbọ́dọ̀ ka wọn.",
   "tokens": [
     {
       "surface": "בני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "למשפחתם",
-      "gloss": "nípa ìdílé wọn"
+      "gloss": "nípa àwọn ẹbí wọn"
     },
     {
       "surface": "לבית",
@@ -29,14 +29,13 @@
     },
     {
       "surface": "תפקד",
-      "gloss": "iwọ gbọdọ̀ ka"
+      "gloss": "iwọ ni ó gbọ́dọ̀ ka"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "wọn"
+      "gloss": "⟨את⟩ wọ́n"
     }
   ],
-  "timestamp": "2026-08-22T23:50:05.332456190Z",
+  "timestamp": "2026-08-24T21:04:26.060347548Z",
   "model": "glm-5.3"
 }

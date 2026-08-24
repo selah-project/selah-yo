@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "yo",
   "chapter": 21,
-  "translation": "Wọ́n fún wọn ní ⟨את⟩ Kiryat-Arba, baba ⟨the⟩ Anaki, ìyẹn Hevron, ní òkè Yehudah, àti ⟨את⟩ àwọn pápá ìgbé rẹ̀ tí ó yí i ká.",
+  "translation": "Wọ́n fún wọn ní ⟨את⟩ Kiryat-Arba, ìlú Abi ti Anak — èyí ni Hevron — ní òkè Yehudah, àti ⟨את⟩ àwọn àyàká rẹ̀ ní ìkàríí rẹ̀.",
   "tokens": [
     {
       "surface": "ויתנו",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "קרית",
-      "gloss": "Kiryat"
+      "gloss": "Kiryat-"
     },
     {
       "surface": "ארבע",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "אבי",
-      "gloss": "baba"
+      "gloss": "Abi"
     },
     {
       "surface": "הענוק",
-      "gloss": "⟨the⟩ Anaki"
+      "gloss": "ti Anak"
     },
     {
       "surface": "היא",
-      "gloss": "ìyẹn"
+      "gloss": "èyí ni"
     },
     {
       "surface": "חברון",
@@ -55,17 +55,17 @@
     {
       "surface": "ואת",
       "gloss": "àti ⟨את⟩",
-      "marks": "àwọn pápá ìgbé rẹ̀"
+      "marks": "àwọn àyàká rẹ̀"
     },
     {
       "surface": "מגרשה",
-      "gloss": "àwọn pápá ìgbé rẹ̀"
+      "gloss": "àwọn àyàká rẹ̀"
     },
     {
       "surface": "סביבתיה",
-      "gloss": "tí ó yí i ká"
+      "gloss": "ní ìkàríí rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T06:50:46.846553791Z",
+  "timestamp": "2026-08-24T21:05:16.887031523Z",
   "model": "glm-5.3"
 }

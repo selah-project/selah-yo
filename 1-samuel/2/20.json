@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "yo",
   "chapter": 2,
-  "translation": "Eli sì bùkún ⟨את⟩ Elkanah àti ⟨את⟩ iyàwó rẹ̀, ó sì wí pé, ki Yahweh fi ẹ̀yín tí í ṣe ti arábìnrin yìí fun ọ, ní ipò tí ó bè ⟨⟨lọ́wọ́⟩⟩ Yahweh; wọ́n sì padà lọ sí ibùgbé wọn.",
+  "translation": "Elkanah si Elkanah — kí o tún: Eli bùkún fún ⟨את⟩ Elkanah àti ⟨את⟩ aya rẹ̀, ó sì wí pé: Yahweh jẹ́ kí ó fún ọ ní ìrírí-láìlàiyè látọwọ́ obìnrin yìí, nípasẹ̀ tíra tí ó béèrè lọ́dọ̀ Yahweh. Wọ́n sì padà lọ sí ibùgbé wọn.",
   "tokens": [
     {
       "surface": "וברך",
-      "gloss": "ó sì bùkún"
+      "gloss": "ó sì bùkún fún"
     },
     {
       "surface": "עלי",
@@ -27,11 +27,11 @@
     {
       "surface": "ואת",
       "gloss": "àti ⟨את⟩",
-      "marks": "iyàwó rẹ̀"
+      "marks": "aya rẹ̀"
     },
     {
       "surface": "אשתו",
-      "gloss": "iyàwó rẹ̀"
+      "gloss": "aya rẹ̀"
     },
     {
       "surface": "ואמר",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "ישם",
-      "gloss": "ki... fi"
+      "gloss": "jẹ́ kí ó fún"
     },
     {
       "surface": "יהוה",
@@ -47,19 +47,19 @@
     },
     {
       "surface": "לך",
-      "gloss": "fun ọ"
+      "gloss": "ọ"
     },
     {
       "surface": "זרע",
-      "gloss": "ẹ̀yín\/ìrùsílẹ̀"
+      "gloss": "ìrírí-láìlàiyè"
     },
     {
       "surface": "מן",
-      "gloss": "ti"
+      "gloss": "látọwọ́"
     },
     {
       "surface": "האשה",
-      "gloss": "arábìnrin"
+      "gloss": "obìnrin"
     },
     {
       "surface": "הזאת",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "תחת",
-      "gloss": "ní ipò"
+      "gloss": "nípasẹ̀"
     },
     {
       "surface": "השאלה",
-      "gloss": "ohun tí ó bè"
+      "gloss": "tíra"
     },
     {
       "surface": "אשר",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "שאל",
-      "gloss": "ó bè"
+      "gloss": "ó béèrè"
     },
     {
       "surface": "ליהוה",
-      "gloss": "lọ́wọ́ Yahweh"
+      "gloss": "lọ́dọ̀ Yahweh"
     },
     {
       "surface": "והלכו",
@@ -94,6 +94,6 @@
       "gloss": "sí ibùgbé wọn"
     }
   ],
-  "timestamp": "2026-08-23T00:43:00.931829193Z",
+  "timestamp": "2026-08-24T21:05:43.077308413Z",
   "model": "glm-5.3"
 }

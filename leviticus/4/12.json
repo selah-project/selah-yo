@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 4,
-  "translation": "ó sì máa gbé ⟨את⟩ gbogbo máàlù náà jáde sí ìta ààfin, sí ibi mímọ́, sí ibi tí wọ́n ti ń da erù sílẹ̀, ó sì máa sun ín lórí igi nínú iná; níbikíbi tí wọ́n ti ń da erù sílẹ̀ ni a óò sì sun ín.",
+  "translation": "Ó sì máa gbé ⟨את⟩ ẹranko naa gbogbo jáde sí ìta ìlú, sí ibi mímọ́, sí ibi tí a ń da èèrù sí; ó sì jó ó ⟨את⟩ lórí igi nínú iná; ní ibi tí a ń da èèrù sí ni wọ́n ti máa jọ ọ́.",
   "tokens": [
     {
       "surface": "והוציא",
-      "gloss": "ó sì máa gbé … jáde"
+      "gloss": "Ó sì máa gbé jáde"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gbogbo máàlù náà"
+      "marks": "ẹranko naa gbogbo"
     },
     {
       "surface": "כל",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "הפר",
-      "gloss": "máàlù náà"
+      "gloss": "ẹranko naa"
     },
     {
       "surface": "אל",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "ààfin"
+      "gloss": "ìlú"
     },
     {
       "surface": "אל",
@@ -54,20 +54,20 @@
     },
     {
       "surface": "שפך",
-      "gloss": "ibi tí wọ́n ti ń da … sílẹ̀"
+      "gloss": "ibi tí a ń da sí"
     },
     {
       "surface": "הדשן",
-      "gloss": "erù"
+      "gloss": "èèrù"
     },
     {
       "surface": "ושרף",
-      "gloss": "ó sì máa sun ín"
+      "gloss": "ó sì máa jọ"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ón (máàlù náà)"
+      "gloss": "⟨את⟩ ó",
+      "marks": "ẹranko naa"
     },
     {
       "surface": "על",
@@ -87,17 +87,17 @@
     },
     {
       "surface": "שפך",
-      "gloss": "ibi tí wọ́n ti ń da … sílẹ̀"
+      "gloss": "ibi tí a ń da sí"
     },
     {
       "surface": "הדשן",
-      "gloss": "erù"
+      "gloss": "èèrù"
     },
     {
       "surface": "ישרף",
-      "gloss": "a óò sì sun ín"
+      "gloss": "ni wọ́n ti máa jọ ọ́"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.674341332Z",
+  "timestamp": "2026-08-24T21:04:09.169089790Z",
   "model": "glm-5.3"
 }

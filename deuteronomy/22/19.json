@@ -5,28 +5,28 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 22,
-  "translation": "Wọ́n sì máa fi ìyà jẹ́ ẹ ⟨אתו⟩ ní ọ̀gọ́rùn-ún sẹ́kẹ́lì fàdákà, wọ́n sì máa fún baba ọmọdé obìnrin náà ní i, nítorí pé ó ti fi orúkọ burúkú jáde lé wúndíá Israẹli lórí; ó sì máa jẹ́ ìyàwó rẹ̀; kì í lè gbé e lọ fún rẹ̀ gbogbo ọjọ́ ayé rẹ̀.",
+  "translation": "Wọ́n sì fi owó fàájọ ohun ọgọ́rún àmì yíyọ sí i, wọ́n sì fún baba ọmọbìnrin náà lọ́wọ́ nítorí pé ó ṣe ìkọ̀kọ̀ orúkọ búburú sí wà odòmọkùnrin Yisrael; ó sì jẹ́ iyàwó rẹ̀; kò lè gbé e lọ fún ìgbà gbogbo ọjọ́ ayé rẹ̀.",
   "tokens": [
     {
       "surface": "וענשו",
-      "gloss": "wọ́n sì máa fi ìyà jẹ́"
+      "gloss": "wọ́n sì fi owó fàájọ ohun jẹ́"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ẹ (ọkùnrin náà)"
+      "gloss": "⟨את⟩-i",
+      "marks": "òun (ọkùnrin náà)"
     },
     {
       "surface": "מאה",
-      "gloss": "ọ̀gọ́rùn-ún sẹ́kẹ́lì"
+      "gloss": "ọgọ́rún"
     },
     {
       "surface": "כסף",
-      "gloss": "fàdákà"
+      "gloss": "àmì yíyọ (owó)"
     },
     {
       "surface": "ונתנו",
-      "gloss": "wọ́n sì máa fún… ní i"
+      "gloss": "wọ́n sì fún ní"
     },
     {
       "surface": "לאבי",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הנערה",
-      "gloss": "ọmọdé obìnrin náà"
+      "gloss": "ọmọbìnrin náà"
     },
     {
       "surface": "כי",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "ó ti fi… jáde"
+      "gloss": "ó ṣe ìkọ̀kọ̀ jáde"
     },
     {
       "surface": "שם",
@@ -50,35 +50,35 @@
     },
     {
       "surface": "רע",
-      "gloss": "burúkú"
+      "gloss": "búburú"
     },
     {
       "surface": "על",
-      "gloss": "lé… lórí"
+      "gloss": "sí"
     },
     {
       "surface": "בתולת",
-      "gloss": "wúndíá"
+      "gloss": "wà odòmọkùnrin"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israẹli"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ולו",
-      "gloss": "sí i"
+      "gloss": "ó sì jẹ́ tìrẹ"
     },
     {
       "surface": "תהיה",
-      "gloss": "ó máa jẹ́"
+      "gloss": "ó jẹ́"
     },
     {
       "surface": "לאשה",
-      "gloss": "ní ìyàwó"
+      "gloss": "iyàwó"
     },
     {
       "surface": "לא",
-      "gloss": "kì"
+      "gloss": "kò"
     },
     {
       "surface": "יוכל",
@@ -97,6 +97,6 @@
       "gloss": "ọjọ́ ayé rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T00:16:55.396386659Z",
+  "timestamp": "2026-08-24T21:07:21.851908590Z",
   "model": "glm-5.3"
 }

@@ -5,65 +5,65 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 17,
-  "translation": "⟨Àwọn⟩ ìdáná iná àwọn ẹlẹ̀ṣẹ̀ wọnyí, tí ó sẹ̀ pẹ̀lú ẹ̀mí wọn ṣẹ́ — kí wọ́n sì ṣe ⟨את⟩ ⟨אתם⟩ ní àwọn onírúurú tí a lu tì, dídí fún pẹpẹ ìṣẹ́lẹ̀ náà, nítorí pé wọ́n ti gbé wọn sí ojú Yahweh, nítorí náà wọ́n di mímọ́ — kí wọ́n sì jẹ́ àmì fún àwọn ọmọ Yisrael.\"",
+  "translation": "⟨את⟩ àwọn àgbá-iná ti àwọn ẹlẹ́ṣẹ̀ wọ̀nyí ní àwọn ẹ̀mí wọn, kí wọ́n sì ṣe wọn ní àwọn fáìlì tí a lu tì, ìbojù fún pápájọ̀ náà, nítorí wọ́n ti kó wọn wá síwájú Yahweh, nítorí náà wọ́n di mímọ́; kí wọ́n sì jẹ́ ìṣàmì fún àwọn ọmọ Yisrael.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn ìdáná iná àwọn ẹlẹ̀ṣẹ̀"
+      "marks": "àwọn àgbá-iná"
     },
     {
       "surface": "מחתות",
-      "gloss": "àwọn ìdáná iná"
+      "gloss": "àwọn àgbá-iná"
     },
     {
       "surface": "החטאים",
-      "gloss": "àwọn ẹlẹ̀ṣẹ̀"
+      "gloss": "ti àwọn ẹlẹ́ṣẹ̀"
     },
     {
       "surface": "האלה",
-      "gloss": "wọnyí"
+      "gloss": "wọ̀nyí"
     },
     {
       "surface": "בנפשתם",
-      "gloss": "pẹ̀lú ẹ̀mí wọn ṣẹ́"
+      "gloss": "ní àwọn ẹ̀mí wọn"
     },
     {
       "surface": "ועשו",
-      "gloss": "kí wọ́n sì ṣe"
+      "gloss": "kí wọ́n sì ṣe wọn"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "àwọn onírúurú tí a lu tì"
+      "gloss": "⟨את⟩",
+      "marks": "àwọn fáìlì tí a lu tì"
     },
     {
       "surface": "רקעי",
-      "gloss": "àwọn onírúurú tí a lu tì"
+      "gloss": "àwọn fáìlì tí a lu tì"
     },
     {
       "surface": "פחים",
-      "gloss": "onírúurú (àwọ̀n irin)"
+      "gloss": "(tó rọ̀ bi ìwẹ̀ idẹ)"
     },
     {
       "surface": "צפוי",
-      "gloss": "dídí fún"
+      "gloss": "ìbojù"
     },
     {
       "surface": "למזבח",
-      "gloss": "pẹpẹ ìṣẹ́lẹ̀ náà"
+      "gloss": "fún pápájọ̀ náà"
     },
     {
       "surface": "כי",
-      "gloss": "nítorí pé"
+      "gloss": "nítorí"
     },
     {
       "surface": "הקריבם",
-      "gloss": "wọ́n ti gbé wọn"
+      "gloss": "wọ́n ti kó wọn wá"
     },
     {
       "surface": "לפני",
-      "gloss": "sí ojú"
+      "gloss": "síwájú"
     },
     {
       "surface": "יהוה",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "לאות",
-      "gloss": "àmì"
+      "gloss": "ìṣàmì"
     },
     {
       "surface": "לבני",
@@ -90,6 +90,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.677986638Z",
+  "timestamp": "2026-08-24T21:04:29.217114908Z",
   "model": "glm-5.3"
 }

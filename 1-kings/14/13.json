@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 14,
-  "translation": "Gbogbo Israẹli sì máa ṣọ̀fọ̀ fún un, wọ́n sì máa sin ⟨את⟩ ⟨אתו⟩ ín, nítorí èyí ni ìkan ṣoṣo tí ó máa bọ̀ láti ọ̀dọ̀ Yarobeam sí ibojí, nítorí ohun rere kan wà nínú rẹ̀ síwájú Yahweh, Elohim Israẹli, nínú ilé Yarobeam.",
+  "translation": "Gbogbo Yisraẹl sì máa bẹ̀rù fún un, wọ́n sì máa sin ín; nítorí èyí ni nǹkan ṣoṣo tí ó já wá dé sílẹ̀ sí inú Yarobamu sinmi — ẹní nìkan nínú ilé Yarobamu ni yóò wá sí ibi ìsìnkú — nítorí wọ́n rí ọ̀rọ̀ rere kan níbẹ̀ síwájú Yahweh, Elohim Yisraẹl, nínú ilé Yarobamu.",
   "tokens": [
     {
       "surface": "וספדו",
-      "gloss": "sì máa ṣọ̀fọ̀ fún"
+      "gloss": "gbogbo Yisraẹl sì máa bẹ̀rù fún un"
     },
     {
       "surface": "לו",
-      "gloss": "un"
+      "gloss": "fún un"
     },
     {
       "surface": "כל",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israẹli"
+      "gloss": "Yisraẹl"
     },
     {
       "surface": "וקברו",
-      "gloss": "wọ́n sì máa sí"
+      "gloss": "wọ́n sì máa sin ín"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "in"
+      "gloss": "⟨את⟩",
+      "marks": "ín (èyí tí wọ́n ń sin)"
     },
     {
       "surface": "כי",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "ìkan ṣoṣo"
+      "gloss": "ẹní nìkan"
     },
     {
       "surface": "יבא",
-      "gloss": "máa bọ̀"
+      "gloss": "yóò wá"
     },
     {
       "surface": "לירבעם",
-      "gloss": "láti ọ̀dọ̀ Yarobeam"
+      "gloss": "sí (òun) Yarobamu"
     },
     {
       "surface": "אל",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "קבר",
-      "gloss": "ibojí"
+      "gloss": "ibi ìsìnkú"
     },
     {
       "surface": "יען",
@@ -66,19 +66,19 @@
     },
     {
       "surface": "נמצא",
-      "gloss": "wà"
+      "gloss": "wọ́n rí"
     },
     {
       "surface": "בו",
-      "gloss": "nínú rẹ̀"
+      "gloss": "níbẹ̀ (ní inú rẹ̀)"
     },
     {
       "surface": "דבר",
-      "gloss": "ohun"
+      "gloss": "ọ̀rọ̀"
     },
     {
       "surface": "טוב",
-      "gloss": "rere kan"
+      "gloss": "rere"
     },
     {
       "surface": "אל",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israẹli"
+      "gloss": "Yisraẹl"
     },
     {
       "surface": "בבית",
@@ -102,9 +102,9 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yarobeam"
+      "gloss": "Yarobamu"
     }
   ],
-  "timestamp": "2026-08-23T06:56:01.135969646Z",
+  "timestamp": "2026-08-24T21:05:26.202783799Z",
   "model": "glm-5.3"
 }

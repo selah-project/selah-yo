@@ -5,16 +5,16 @@
   "book": "2-samuel",
   "lang": "yo",
   "chapter": 21,
-  "translation": "⟨⟨את⟩ ẹ̀rin wọnyí ni a bí fún Rafa ní Gati, wọ́n sì ṣubú lọ́wọ́ Dafidi àti lọ́wọ́ àwọn ìránṣẹ́ rẹ̀",
+  "translation": "⟨את⟩ àwọn mẹ́rin wọnyí ni a bí fún harafa ní Gat, wọ́n sì ṣubú lọ́wọ́ David, àti lọ́wọ́ àwọn ìránṣẹ́ rẹ̀.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ẹ̀rin wọnyí"
+      "marks": "àwọn mẹ́rin wọnyí"
     },
     {
       "surface": "ארבעת",
-      "gloss": "ẹ̀rin"
+      "gloss": "àwọn mẹ́rin"
     },
     {
       "surface": "אלה",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "ילדו",
-      "gloss": "ni a bí"
+      "gloss": "a bí"
     },
     {
       "surface": "להרפה",
-      "gloss": "fún Rafa"
+      "gloss": "fún harafa"
     },
     {
       "surface": "בגת",
-      "gloss": "ní Gati"
+      "gloss": "ní Gat"
     },
     {
       "surface": "ויפלו",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Dafidi"
+      "gloss": "David"
     },
     {
       "surface": "וביד",
@@ -53,6 +53,6 @@
       "gloss": "àwọn ìránṣẹ́ rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T01:05:21.538913503Z",
+  "timestamp": "2026-08-24T21:05:31.066735972Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "yo",
   "chapter": 22,
-  "translation": "Dawid sì lọ kúrò níbẹ̀ lọ sí Mitspa Moav, ó sì wí fún ọba Moav pé: Jọ̀wọ́, kí baba mi àti ìyá mi ⟨את⟩ ⟨אתכם⟩ wà pẹ̀lú yín, títorí tí èmi yió mọ̀ ihun tí Elohim yió ṣe fún mi.",
+  "translation": "Dawid sì lọ kúrò níbẹ̀ sí Mitzpeh ti Moab, ó sì wí fún ọba Moab pé, jọ̀wọ́, kí bàbá mi àti ìyá mi ó jáde wá, wọ́n sì ṣípọ̀ pẹ̀lú ⟨את⟩ yín, tí èmi yóò fi mọ̀ irú ohun tí Elohim yóò ṣe fún mi.",
   "tokens": [
     {
       "surface": "וילך",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "מצפה",
-      "gloss": "Mitspa"
+      "gloss": "Mitzpeh"
     },
     {
       "surface": "מואב",
-      "gloss": "Moav"
+      "gloss": "Moab"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ó sì wí fún"
+      "gloss": "ó sì wí"
     },
     {
       "surface": "אל",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "מואב",
-      "gloss": "Moav"
+      "gloss": "Moab"
     },
     {
       "surface": "יצא",
-      "gloss": "jọ̀wọ́ kí... wà"
+      "gloss": "kí… jáde wá"
     },
     {
       "surface": "נא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אבי",
-      "gloss": "baba mi"
+      "gloss": "bàbá mi"
     },
     {
       "surface": "ואמי",
@@ -61,12 +61,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "baba mi àti ìyá mi"
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín (pẹ̀lú yín)"
     },
     {
       "surface": "עד",
-      "gloss": "títorí tí"
+      "gloss": "tí… títí"
     },
     {
       "surface": "אשר",
@@ -74,15 +74,15 @@
     },
     {
       "surface": "אדע",
-      "gloss": "èmi yió mọ̀"
+      "gloss": "èmi yóò fi mọ̀"
     },
     {
       "surface": "מה",
-      "gloss": "ihun"
+      "gloss": "irú ohun"
     },
     {
       "surface": "יעשה",
-      "gloss": "yió ṣe"
+      "gloss": "yóò ṣe"
     },
     {
       "surface": "לי",
@@ -93,6 +93,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.666781775Z",
+  "timestamp": "2026-08-24T21:05:39.885799732Z",
   "model": "glm-5.3"
 }

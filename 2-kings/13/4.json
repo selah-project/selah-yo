@@ -5,24 +5,24 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 13,
-  "translation": "Yehoachaz sì bẹ́ Yahweh lójú, Yahweh sì gbọ́ ti rẹ̀, nítorí tí ó rí ⟨את⟩ ìpọnjú Yisrael, nítorí tí ọba Aram ti pọ́n ⟨את⟩ ⟨אתם⟩ wọn.",
+  "translation": "Jehoachaz sì bẹ́ ⟨את⟩ ojú Yahweh, Yahweh sì gbọ́ ti rẹ̀, nítorí tí ó rí ⟨את⟩ ìpẹ́nípẹ̀nì Israẹli, nítorí tí ọba Aramu ń pẹ́nì ⟨את⟩ wọ́n.",
   "tokens": [
     {
       "surface": "ויחל",
-      "gloss": "ó sì bẹ́… lójú"
+      "gloss": "sì bẹ́"
     },
     {
       "surface": "יהואחז",
-      "gloss": "Yehoachaz"
+      "gloss": "Jehoachaz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lójú Yahweh"
+      "marks": "ojú"
     },
     {
       "surface": "פני",
-      "gloss": "lójú"
+      "gloss": "ojú"
     },
     {
       "surface": "יהוה",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "וישמע",
-      "gloss": "ó sì gbọ́"
+      "gloss": "sì gbọ́ ti"
     },
     {
       "surface": "אליו",
-      "gloss": "ti rẹ̀"
+      "gloss": "rẹ̀"
     },
     {
       "surface": "יהוה",
@@ -51,15 +51,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìpọnjú Yisrael"
+      "marks": "ìpẹ́nípẹ̀nì"
     },
     {
       "surface": "לחץ",
-      "gloss": "ìpọnjú"
+      "gloss": "ìpẹ́nípẹ̀nì"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israẹli"
     },
     {
       "surface": "כי",
@@ -67,12 +67,11 @@
     },
     {
       "surface": "לחץ",
-      "gloss": "ti pọ́n"
+      "gloss": "ń pẹ́nì"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "wọn"
+      "gloss": "⟨את⟩ wọ́n"
     },
     {
       "surface": "מלך",
@@ -80,9 +79,9 @@
     },
     {
       "surface": "ארם",
-      "gloss": "Aram"
+      "gloss": "Aramu"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.672708296Z",
+  "timestamp": "2026-08-24T21:05:27.261729621Z",
   "model": "glm-5.3"
 }

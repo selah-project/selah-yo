@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 18,
-  "translation": "Eliyahu sì sùn mọ́ gbogbo àwọn ènìyàn náà, ó sì wí pé: Ìgbà wo ni ẹ̀yin ń ṣe ìjàká-jàkà lórí méjèèjì ẹ̀ka náà? Tí Yahweh ni ⟨⟨Elohim⟩⟩, ẹ lọ lẹ́yìn rẹ̀; tí Baal ni, ẹ lọ lẹ́yìn rẹ̀. Àwọn ènìyàn náà kò sì dáhùn ⟨את⟩ ọ̀rọ̀ rẹ̀.",
+  "translation": "Eliyahu sún mọ́ gbogbo ⟨àwọn⟩ ènìyàn náà, ó sì wí pé, \"Ṣégédékú, ẹ máa ń yàká lórí̀ ẹ̀ka méjèèjì? Tí Yahweh ni Elohim, ẹ tẹ̀lé Òun; tí HaBaal bá ni Elohim, ẹ tẹ̀lé òun.\" Ìjọ ènìyàn náà sì kò dáhùn lọ́rọ̀ kankan ⟨nípasẹ̀⟩ ⟨את⟩ ọ̀rọ̀ ⟨את⟩ fún un.",
   "tokens": [
     {
       "surface": "ויגש",
-      "gloss": "sì sùn mọ́"
+      "gloss": "sún mọ́"
     },
     {
       "surface": "אליהו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "àwọn ènìyàn náà"
+      "gloss": "⟨àwọn⟩ ènìyàn náà"
     },
     {
       "surface": "ויאמר",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "עד",
-      "gloss": "tí"
+      "gloss": "ṣégédékú"
     },
     {
       "surface": "מתי",
-      "gloss": "ìgbà wo ni"
+      "gloss": ""
     },
     {
       "surface": "אתם",
-      "gloss": "ẹ̀yin"
+      "gloss": "ẹ"
     },
     {
       "surface": "פסחים",
-      "gloss": "ń ṣe ìjàká-jàkà"
+      "gloss": "ń yàká"
     },
     {
       "surface": "על",
-      "gloss": "lórí"
+      "gloss": "lórí̀"
     },
     {
       "surface": "שתי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "הסעפים",
-      "gloss": "ẹ̀ka náà"
+      "gloss": "ẹ̀ka"
     },
     {
       "surface": "אם",
@@ -73,31 +73,31 @@
     },
     {
       "surface": "לכו",
-      "gloss": "ẹ lọ"
+      "gloss": "ẹ tẹ̀lé"
     },
     {
       "surface": "אחריו",
-      "gloss": "lẹ́yìn rẹ̀"
+      "gloss": "Òun"
     },
     {
       "surface": "ואם",
-      "gloss": "tí"
+      "gloss": "sì tí"
     },
     {
       "surface": "הבעל",
-      "gloss": "Baal"
+      "gloss": "HaBaal"
     },
     {
       "surface": "לכו",
-      "gloss": "ẹ lọ"
+      "gloss": "ẹ tẹ̀lé"
     },
     {
       "surface": "אחריו",
-      "gloss": "lẹ́yìn rẹ̀"
+      "gloss": "òun"
     },
     {
       "surface": "ולא",
-      "gloss": "kò sì"
+      "gloss": "sì kò"
     },
     {
       "surface": "ענו",
@@ -105,18 +105,17 @@
     },
     {
       "surface": "העם",
-      "gloss": "àwọn ènìyàn náà"
+      "gloss": "ìjọ ènìyàn náà"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ọ̀rọ̀ rẹ̀"
+      "gloss": "⟨את⟩ fún un"
     },
     {
       "surface": "דבר",
-      "gloss": "ọ̀rọ̀ rẹ̀"
+      "gloss": "ọ̀rọ̀"
     }
   ],
-  "timestamp": "2026-08-23T01:22:32.333034815Z",
+  "timestamp": "2026-08-24T21:05:12.918867995Z",
   "model": "glm-5.3"
 }

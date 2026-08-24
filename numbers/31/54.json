@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 31,
-  "translation": "Moshe àti Elazar aládorìṣà gba ⟨את⟩ wúrà ⟨מאת⟩ àwọn olórí ẹgbẹ̀ẹgbẹ̀rún àti ọgọ́rún, wọ́n sì gbé e wá sí ahọ́ ìpàdé, èyí jẹ́ ìrántí fún àwọn ọmọ Yisrael níwájú Yahweh.",
+  "translation": "Moshe sì gba gold yìí, àti Elazar adórun, ó sì mú ⟨את⟩ wúrà náà lọ́wọ́ àwọn olórí ẹgbẹ̀rún àti ọgọ́rún-un, wọ́n sì gbé ⟨את⟩ un wá sí àgàmà ìpàdé, gẹ́gẹ́ bí ìrántí fún àwọn ọmọ Yisrael níwájú Yahweh.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "gbà"
+      "gloss": "sì gba … yìí"
     },
     {
       "surface": "משה",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "aládorìṣà"
+      "gloss": "adórun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wúrà"
+      "marks": "wúrà náà"
     },
     {
       "surface": "הזהב",
-      "gloss": "wúrà"
+      "gloss": "wúrà náà"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩"
+      "gloss": "lọ́wọ́ ⟨את⟩"
     },
     {
       "surface": "שרי",
@@ -42,19 +42,20 @@
     },
     {
       "surface": "האלפים",
-      "gloss": "ẹgbẹ̀ẹgbẹ̀rún"
+      "gloss": "ẹgbẹ̀rún"
     },
     {
       "surface": "והמאות",
-      "gloss": "àti ọgọ́rún"
+      "gloss": "àti ọgọ́rún-un"
     },
     {
       "surface": "ויבאו",
-      "gloss": "wọ́n sì gbé e wá"
+      "gloss": "wọ́n sì gbé … wá"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ é"
+      "gloss": "⟨את⟩ un",
+      "marks": "un (wúrà náà)"
     },
     {
       "surface": "אל",
@@ -62,7 +63,7 @@
     },
     {
       "surface": "אהל",
-      "gloss": "ahọ́"
+      "gloss": "àgàmà"
     },
     {
       "surface": "מועד",
@@ -89,6 +90,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-23T00:02:49.008357581Z",
+  "timestamp": "2026-08-24T21:05:07.552611124Z",
   "model": "glm-5.3"
 }

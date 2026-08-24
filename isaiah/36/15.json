@@ -5,19 +5,19 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 36,
-  "translation": "Ki Chizkiyahu má ṣe jẹ́ kí ẹ gbẹ́kẹ̀ lé ⟨את⟩ ⟨אתכם⟩ sí Yahweh, ó wí pé, Yahweh yóò gbà wá là gan-an; ìlú yìí kì yóò sì fi sílẹ̀ sí ọwọ́ ọba Ashur.",
+  "translation": "Àti kí Chizkiyahu má ṣe fi ⟨את⟩ ⟨אַתְכֶם⟩ yín gbẹ́kẹ̀ lé Yahweh, tí ó sọ pé, Yahweh yóò sá wa là gan-an; wọn kì yóò fi ìlú yìí sílẹ̀ sí ọwọ́ ọba Ashur.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "Ki … má ṣe"
+      "gloss": "Àti kí … má ṣe"
     },
     {
       "surface": "יבטח",
-      "gloss": "gbẹ́kẹ̀ lé"
+      "gloss": "fi … gbẹ́kẹ̀ lé"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אַתְכֶם⟩",
       "marks": "yín"
     },
     {
@@ -34,15 +34,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "ó wí pé"
+      "gloss": "tí ó sọ pé"
     },
     {
       "surface": "הצל",
-      "gloss": "gbà … là gan-an"
+      "gloss": "là gan-an"
     },
     {
       "surface": "יצילנו",
-      "gloss": "yóò gbà wá là"
+      "gloss": "yóò sá wa là"
     },
     {
       "surface": "יהוה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "תנתן",
-      "gloss": "yóò fi sílẹ̀"
+      "gloss": "wọn yóò fi … sílẹ̀ sí"
     },
     {
       "surface": "העיר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "sí ọwọ́"
+      "gloss": "ní ọwọ́"
     },
     {
       "surface": "מלך",
@@ -77,6 +77,6 @@
       "gloss": "Ashur"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.675716053Z",
+  "timestamp": "2026-08-24T21:06:50.670454558Z",
   "model": "glm-5.3"
 }

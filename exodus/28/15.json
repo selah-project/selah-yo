@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 28,
-  "translation": "Ìwọ sì máa ṣe ìrán-ìdájọ́, iṣẹ́ onímọ̀-ìwọ̀n; bí iṣẹ́ efodu ìwọ máa ṣe é: wúrà, ẹjì funfun-búlúù, àti alárùnmọ̀, àti èso-idẹ pupa, àti aṣọ funfun tí a rán, nígbà tí ìwọ bá ṣe ⟨את⟩ ⟨אתו⟩.",
+  "translation": "Ìwọ o sì ṣe ẹ̀wù-áyà ìdájọ́, iṣẹ́ oníṣẹ́-ọ̀gbọ́n, bí iṣẹ́ efodu ni iwọ o ṣe ⟨את⟩ rẹ̀; wúrà, àwọ̀ aró, àwọ̀ èso-idò, àwọ̀ pupa-kòkòrò, àti asọ funfun fífẹ́ ni iwọ o fi ṣe ⟨את⟩ rẹ̀.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "ìwọ sì máa ṣe"
+      "gloss": "Ìwọ o sì ṣe"
     },
     {
       "surface": "חשן",
-      "gloss": "ìrán-ìdájọ́"
+      "gloss": "ẹ̀wù-áyà"
     },
     {
       "surface": "משפט",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "חשב",
-      "gloss": "onímọ̀-ìwọ̀n"
+      "gloss": "oníṣẹ́-ọ̀gbọ́n"
     },
     {
       "surface": "כמעשה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "תעשנו",
-      "gloss": "ìwọ máa ṣe é"
+      "gloss": "iwọ o ṣe"
     },
     {
       "surface": "זהב",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "תכלת",
-      "gloss": "ẹjì funfun-búlúù"
+      "gloss": "àwọ̀ aró"
     },
     {
       "surface": "וארגמן",
-      "gloss": "àti alárùnmọ̀"
+      "gloss": "àwọ̀ èso-idò"
     },
     {
       "surface": "ותולעת",
-      "gloss": "àti èso-idẹ"
+      "gloss": "àti kòkòrò"
     },
     {
       "surface": "שני",
@@ -61,22 +61,22 @@
     },
     {
       "surface": "ושש",
-      "gloss": "àti aṣọ funfun"
+      "gloss": "àti asọ funfun"
     },
     {
       "surface": "משזר",
-      "gloss": "tí a rán"
+      "gloss": "fífẹ́"
     },
     {
       "surface": "תעשה",
-      "gloss": "ìwọ bá ṣe"
+      "gloss": "iwọ o fi ṣe"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ìrán-ìdájọ́"
+      "gloss": "⟨את⟩",
+      "marks": "rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.660946101Z",
+  "timestamp": "2026-08-24T21:07:48.731596652Z",
   "model": "glm-5.3"
 }

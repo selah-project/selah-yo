@@ -5,39 +5,39 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 19,
-  "translation": "Àti ọ̀gbìn rẹ, ẹ má ṣe fọ́ nù tán; àti èso tí ó ṣubú ní ọ̀gbìn rẹ, ẹ má ṣe kó; fún aláìní àti fún àlejò ni ẹ fi sílẹ̀ ⟨את⟩ ⟨אתם⟩; emí ni Yahweh, Elohim yín.",
+  "translation": "Àti ìgbo ọ̀gin rẹ, ẹ kò gbọdọ̀ kó ọ pátápátá, àti èso tí ó ṣubú sílẹ̀ ní ìgbo ọ̀gin rẹ, ẹ kò gbọdọ̀ kó ọ gbogbo; fún àwọn talíka àti fún àlejò ni ẹ gbọdọ̀ fi ⟨את⟩ wọ́n sílẹ̀: emi ni Yahweh, Elohim yín.",
   "tokens": [
     {
       "surface": "וכרמך",
-      "gloss": "àti ọ̀gbìn rẹ"
+      "gloss": "àti ìgbo ọ̀gin rẹ"
     },
     {
       "surface": "לא",
-      "gloss": "ẹ má ṣe"
+      "gloss": "kò gbọdọ̀"
     },
     {
       "surface": "תעולל",
-      "gloss": "fọ́ nù tán"
+      "gloss": "kó ọ pátápátá"
     },
     {
       "surface": "ופרט",
-      "gloss": "àti èso tí ó ṣubú"
+      "gloss": "àti èso tí ó ṣubú sílẹ̀"
     },
     {
       "surface": "כרמך",
-      "gloss": "ọ̀gbìn rẹ"
+      "gloss": "ní ìgbo ọ̀gin rẹ"
     },
     {
       "surface": "לא",
-      "gloss": "ẹ má ṣe"
+      "gloss": "kò gbọdọ̀"
     },
     {
       "surface": "תלקט",
-      "gloss": "kó"
+      "gloss": "kó ọ gbogbo"
     },
     {
       "surface": "לעני",
-      "gloss": "fún aláìní"
+      "gloss": "fún àwọn talíka"
     },
     {
       "surface": "ולגר",
@@ -45,16 +45,16 @@
     },
     {
       "surface": "תעזב",
-      "gloss": "ẹ fi sílẹ̀"
+      "gloss": "ẹ gbọdọ̀ fi sílẹ̀"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "wọ́n (aláìní àti àlejò)"
+      "gloss": "⟨את⟩",
+      "marks": "wọ́n (wọn — èso tí ó ṣubú sílẹ̀)"
     },
     {
       "surface": "אני",
-      "gloss": "emí"
+      "gloss": "emi"
     },
     {
       "surface": "יהוה",
@@ -65,6 +65,6 @@
       "gloss": "Elohim yín"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.675382531Z",
+  "timestamp": "2026-08-24T21:04:02.409273373Z",
   "model": "glm-5.3"
 }

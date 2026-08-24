@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 19,
-  "translation": "Ẹ̀yin yóò pa ⟨את⟩ gbogbo òfin mi mọ́, àti ⟨את⟩ gbogbo ìdájọ́ mi, ẹ̀yin sì máa ṣe wọn ṣe: emi ni Yahweh.",
+  "translation": "Ẹ gbọ́dọ̀ ṣọ́ gbogbo àwọn òfin mi àti gbogbo àwọn ìdájọ́ mi, kí ẹ sì ṣe ⟨את⟩ wọn: ìwọ ni emi Yahweh.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "ẹ̀yin yóò pa...mọ́"
+      "gloss": "ẹ gbọ́dọ̀ ṣọ́"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gbogbo òfin mi"
+      "marks": "gbogbo àwọn òfin mi"
     },
     {
       "surface": "כל",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "חקתי",
-      "gloss": "òfin mi"
+      "gloss": "àwọn òfin mi"
     },
     {
       "surface": "ואת",
-      "gloss": "àti ⟨את⟩",
-      "marks": "gbogbo ìdájọ́ mi"
+      "gloss": "⟨את⟩",
+      "marks": "gbogbo àwọn ìdájọ́ mi"
     },
     {
       "surface": "כל",
@@ -35,26 +35,25 @@
     },
     {
       "surface": "משפטי",
-      "gloss": "ìdájọ́ mi"
+      "gloss": "àwọn ìdájọ́ mi"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "ẹ̀yin sì máa ṣe"
+      "gloss": "kí ẹ sì ṣe"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ wọn ⟨אתם⟩",
-      "marks": "àwọn òfin àti ìdájọ́"
+      "gloss": "⟨את⟩ wọn"
     },
     {
       "surface": "אני",
-      "gloss": "emi ni"
+      "gloss": "ìwọ ni emi"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.675060841Z",
+  "timestamp": "2026-08-24T21:03:55.331090103Z",
   "model": "glm-5.3"
 }

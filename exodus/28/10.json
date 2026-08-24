@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 28,
-  "translation": "Ẹnùméfa lára orúkọ wọn lórí ⟨the⟩ okúta kan, àti ⟨את⟩ orúkọ ẹnùméfa tí ó kù lórí ⟨the⟩ okúta kejì, gẹ́gẹ́ bí ìbí wọn.",
+  "translation": "Ẹ̀fà orúkọ wọn lórí ⟨the⟩ okúta kan, àti ⟨את⟩ orúkọ ⟨the⟩ ẹ̀fà tí ó ṣẹ́kù lórí ⟨the⟩ okúta kejì, gẹ́gẹ́ bí ìbí wọn.",
   "tokens": [
     {
       "surface": "ששה",
-      "gloss": "Ẹnùméfa"
+      "gloss": "ẹ̀fà"
     },
     {
       "surface": "משמתם",
-      "gloss": "lára orúkọ wọn"
+      "gloss": "orúkọ wọn"
     },
     {
       "surface": "על",
@@ -30,7 +30,7 @@
     {
       "surface": "ואת",
       "gloss": "àti ⟨את⟩",
-      "marks": "orúkọ ẹnùméfa tí ó kù"
+      "marks": "orúkọ ⟨the⟩ ẹ̀fà"
     },
     {
       "surface": "שמות",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "הששה",
-      "gloss": "ẹnùméfa"
+      "gloss": "⟨the⟩ ẹ̀fà"
     },
     {
       "surface": "הנותרים",
-      "gloss": "tí ó kù"
+      "gloss": "tí ó ṣẹ́kù"
     },
     {
       "surface": "על",
@@ -61,6 +61,6 @@
       "gloss": "gẹ́gẹ́ bí ìbí wọn"
     }
   ],
-  "timestamp": "2026-08-23T06:50:45.597054684Z",
+  "timestamp": "2026-08-24T21:04:09.012464183Z",
   "model": "glm-5.3"
 }

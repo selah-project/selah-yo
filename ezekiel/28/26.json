@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "yo",
   "chapter": 28,
-  "translation": "Wọ́n sì máa gbé lórí rẹ̀ ní ààbò, wọ́n sì máa kọ́ àwọn ilé, wọ́n sì máa gbin àwọn ogbà, wọ́n sì máa gbé ní ààbò, nígbà tí mo bá ṣe ìdájọ́ lórí gbogbo àwọn tí ó rẹ́gẹ̀ ⟨אתם⟩ ní àwọn agbègbé wọn; wọ́n sì máa mọ̀ pé èmi ni Yahweh, Elohim wọn.",
+  "translation": "Wọ́n sì máa gbé lé e lọ́tọ́ láìsẹ́lẹ̀, wọ́n sì máa kọ́ ilé, wọ́n sì máa gbin ibi ọ̀gẹ̀dẹ̀ àtiǹgẹ̀dẹ̀ gbín-gbín; wọ́n sì máa gbé láìsẹ́lẹ̀, nígbà tí n bá ṣe ìdájọ́ lórí gbogbo àwọn tí ń bù ẹ́ wọ́n lójú ní ìkàlẹ̀ mẹ́san-an láwọ̀njú wọn; wọ́n sì máa mọ̀ pé èmi ni Yahweh, Elohim wọn.",
   "tokens": [
     {
       "surface": "וישבו",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "עליה",
-      "gloss": "lórí rẹ̀"
+      "gloss": "lé e"
     },
     {
       "surface": "לבטח",
-      "gloss": "ní ààbò"
+      "gloss": "láìsẹ́lẹ̀"
     },
     {
       "surface": "ובנו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בתים",
-      "gloss": "àwọn ilé"
+      "gloss": "ilé"
     },
     {
       "surface": "ונטעו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כרמים",
-      "gloss": "àwọn ogbà"
+      "gloss": "àwọn oko ẹ̀gún"
     },
     {
       "surface": "וישבו",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "לבטח",
-      "gloss": "ní ààbò"
+      "gloss": "láìsẹ́lẹ̀"
     },
     {
       "surface": "בעשותי",
-      "gloss": "nígbà tí mo bá ṣe"
+      "gloss": "nígbà tí n bá ṣe"
     },
     {
       "surface": "שפטים",
@@ -53,20 +53,20 @@
     },
     {
       "surface": "בכל",
-      "gloss": "lórí gbogbo"
+      "gloss": "lóri gbogbo"
     },
     {
       "surface": "השאטים",
-      "gloss": "àwọn tí ó rẹ́gẹ̀"
+      "gloss": "àwọn tí ń bù ẹ́ wọ́n lójú"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wọn"
+      "marks": "wọ́n"
     },
     {
       "surface": "מסביבותם",
-      "gloss": "ní àwọn agbègbé wọn"
+      "gloss": "ní ìkàlẹ̀ mẹ́san-an láwọ̀njú wọn"
     },
     {
       "surface": "וידעו",
@@ -89,6 +89,6 @@
       "gloss": "Elohim wọn"
     }
   ],
-  "timestamp": "2026-08-23T02:47:07.807671887Z",
+  "timestamp": "2026-08-24T21:06:22.218619569Z",
   "model": "glm-5.3"
 }

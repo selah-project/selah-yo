@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 17,
-  "translation": "Ṣùgbọ́n Yahweh, Elohim yín, ni ẹ gbọdọ̀ bẹ̀rù ⟨את⟩; òun ni yóò gbà yín là ⟨אתכם⟩ ní ọwọ́ gbogbo ọ̀tá yín.",
+  "translation": "Ṣùgbọ́n kì í ṣe ẹnìkan míràn — ⟨את⟩ Yahweh, Elohim yín, ni ẹ gbọ́dọ̀ bẹ̀rù, àti òun yóò gbà ⟨את⟩ yín là lọ́wọ́ gbogbo ọ̀tá yín.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ṣùgbọ́n"
+      "gloss": "nítorí pé"
     },
     {
       "surface": "אם",
-      "gloss": "dájúdájú"
+      "gloss": "bí kó ṣe"
     },
     {
       "surface": "את",
@@ -30,24 +30,24 @@
     },
     {
       "surface": "תיראו",
-      "gloss": "ẹ gbọdọ̀ bẹ̀rù"
+      "gloss": "ẹ gbọ́dọ̀ bẹ̀rù"
     },
     {
       "surface": "והוא",
-      "gloss": "òun"
+      "gloss": "àti òun"
     },
     {
       "surface": "יציל",
-      "gloss": "yóò gbà là"
+      "gloss": "yóò gbà… là"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "yín"
+      "gloss": "⟨את⟩ yín",
+      "marks": "yín (àwọn tí ó ń bá sọ̀rọ̀)"
     },
     {
       "surface": "מיד",
-      "gloss": "ní ọwọ́"
+      "gloss": "lọ́wọ́"
     },
     {
       "surface": "כל",
@@ -58,6 +58,6 @@
       "gloss": "ọ̀tá yín"
     }
   ],
-  "timestamp": "2026-08-23T01:34:09.705407610Z",
+  "timestamp": "2026-08-24T21:06:31.675788514Z",
   "model": "glm-5.3"
 }

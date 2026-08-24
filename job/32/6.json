@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "yo",
   "chapter": 32,
-  "translation": "Elihu, ọmọ Barakel, ọmọ Buzi, dáhùn wí pé: Èmi kéré ní ọjọ́, ẹ̀yin sì ni àgbà lọ́pọ̀lọpọ̀; nítorí náà mo farapamọ́, mo bẹ̀rù láti fi ìmọ̀ mi hàn ⟨את⟩ ⟨אתכם⟩.",
+  "translation": "Elihu ọmọ Barakel, ará Buz, dáhùn ó sì wí pé: Èmi kékéré ni ní ọjọ́, ẹ̀yin sì ni àgbàlágbà; nítorí náà, mo farakẹ̀rẹ̀, mo sì bẹ̀rù láti fi ìmọ̀ mi hàn ⟨את⟩ nyin.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "dáhùn"
+      "gloss": "dáhùn ó sì"
     },
     {
       "surface": "אליהוא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הבוזי",
-      "gloss": "ọmọ Buzi"
+      "gloss": "ará Buz"
     },
     {
       "surface": "ויאמר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "צעיר",
-      "gloss": "kéré"
+      "gloss": "kékéré"
     },
     {
       "surface": "אני",
-      "gloss": "èmi"
+      "gloss": "Èmi"
     },
     {
       "surface": "לימים",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ואתם",
-      "gloss": "ẹ̀yin sì"
+      "gloss": "ẹ̀yin sì ni"
     },
     {
       "surface": "ישישים",
-      "gloss": "àgbà lọ́pọ̀lọpọ̀"
+      "gloss": "àgbàlágbà"
     },
     {
       "surface": "על",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "זחלתי",
-      "gloss": "mo farapamọ́"
+      "gloss": "mo farakẹ̀rẹ̀"
     },
     {
       "surface": "ואירא",
-      "gloss": "mo bẹ̀rù"
+      "gloss": "mo sì bẹ̀rù"
     },
     {
       "surface": "מחות",
@@ -77,10 +77,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "yín (ẹ̀yin)"
+      "gloss": "⟨את⟩ nyin",
+      "marks": "nyin"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.664151325Z",
+  "timestamp": "2026-08-24T21:06:01.025823496Z",
   "model": "glm-5.3"
 }

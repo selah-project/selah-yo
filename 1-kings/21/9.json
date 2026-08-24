@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 21,
-  "translation": "Ó sì kọ nínú àwọn lẹ́tà wí pé, Ẹ ké ìjẹ́kùn déédé, ẹ sì jẹ́ kí Naboth jókòó ní ipò iwájú ⟨⟨àwọn⟩⟩ ènìyàn.",
+  "translation": "Ó sì kọ nínú àwọn lẹ́tà wí pé: Ẹ ké àjọ̀sùn, ẹ sì jẹ́ kí Naboth jókòó ní ìwájú ⟨את⟩ àwọn ènìyàn.",
   "tokens": [
     {
       "surface": "ותכתב",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בספרים",
-      "gloss": "nínú àwọn lẹ́tà"
+      "gloss": "nínú àwọn lẹ́tà"
     },
     {
       "surface": "לאמר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "צום",
-      "gloss": "ìjẹ́kùn déédé"
+      "gloss": "àjọ̀sùn"
     },
     {
       "surface": "והושיבו",
-      "gloss": "ẹ sì jẹ́ kí … jókòó"
+      "gloss": "ẹ sì jẹ́ kí ... jókòó"
     },
     {
       "surface": "את",
@@ -42,13 +42,13 @@
     },
     {
       "surface": "בראש",
-      "gloss": "ní ipò iwájú"
+      "gloss": "ní ìwájú"
     },
     {
       "surface": "העם",
-      "gloss": "⟨àwọn⟩ ènìyàn"
+      "gloss": "àwọn ènìyàn"
     }
   ],
-  "timestamp": "2026-08-23T01:22:23.667983629Z",
+  "timestamp": "2026-08-24T21:05:11.554526788Z",
   "model": "glm-5.3"
 }

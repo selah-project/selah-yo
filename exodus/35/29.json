@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 35,
-  "translation": "Gbogbo ọkùnrin àti obìnrin tí ọkàn wọn fọkàn balẹ̀ láti mú ⟨אתם⟩ wá fún gbogbo iṣẹ́ tí Yahweh pàṣẹ láti ṣe nípasẹ̀ ilọ́wọ́ Moshe — àwọn ọmọ Yisraẹl mú ẹ̀bùn ìfọkànbalẹ̀ wá fún Yahweh.",
+  "translation": "Gbogbo ọkùnrin àti obìnrin tí ọkàn wọn ṣe sílẹ̀ láti mú ⟨את⟩ wọn wá fún gbogbo iṣẹ́ tí Yahweh pàṣẹ láti ṣe nípasẹ̀ Moshe — àwọn ọmọ Yisrael mú èrè-orí-ọkàn wá fún Yahweh.",
   "tokens": [
     {
       "surface": "כל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נדב",
-      "gloss": "fọkàn balẹ̀"
+      "gloss": "ṣe sílẹ̀"
     },
     {
       "surface": "לבם",
@@ -34,7 +34,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wọ́n (àwọn ènìyàn náà)"
+      "marks": "wọn"
     },
     {
       "surface": "להביא",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "nípasẹ̀ ilọ́wọ́"
+      "gloss": "nípasẹ̀"
     },
     {
       "surface": "משה",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "הביאו",
-      "gloss": "mú wá"
+      "gloss": "mú ... wá"
     },
     {
       "surface": "בני",
@@ -82,17 +82,17 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraẹl"
+      "gloss": "Yisrael"
     },
     {
       "surface": "נדבה",
-      "gloss": "ẹ̀bùn ìfọkànbalẹ̀"
+      "gloss": "èrè-orí-ọkàn"
     },
     {
       "surface": "ליהוה",
       "gloss": "fún Yahweh"
     }
   ],
-  "timestamp": "2026-08-22T23:31:38.468684519Z",
+  "timestamp": "2026-08-24T21:04:08.546936691Z",
   "model": "glm-5.3"
 }

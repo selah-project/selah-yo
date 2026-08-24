@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 18,
-  "translation": "Yahweh sọ fún Aharon: ìwọ, àwọn ọmọ rẹ, àti ilé bàbá rẹ pẹ̀lú rẹ, ẹ gbọ́dọ̀ gbé ⟨את⟩ ẹ̀ṣẹ̀ tí ó mbọ̀ sí ⟨the⟩ àáyàn mímọ́; ìwọ àti àwọn ọmọ rẹ pẹ̀lú rẹ, ẹ gbọ́dọ̀ gbé ⟨את⟩ ẹ̀ṣẹ̀ ìrì búbọ yín.",
+  "translation": "Yahweh sọ fún Aharon wí pé: Ìwọ, àwọn ọmọ rẹ, àti ilé baba rẹ pẹ̀lú rẹ̀, ẹ ó ru ⟨את⟩ ẹ̀ṣẹ̀ ⟨ti⟩ nípa mimọ́-iyè; ìwọ àti àwọn ọmọ rẹ pẹ̀lú rẹ̀, ẹ ó ru ⟨את⟩ ẹ̀ṣẹ̀ iṣẹ́-àlùfáà yín.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ó sọ"
+      "gloss": "ó sọ wí pé"
     },
     {
       "surface": "יהוה",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "אביך",
-      "gloss": "bàbá rẹ"
+      "gloss": "baba rẹ"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ pẹ̀lú rẹ"
+      "gloss": "⟨את⟩ pẹ̀lú rẹ̀"
     },
     {
       "surface": "תשאו",
-      "gloss": "ẹ gbọ́dọ̀ gbé"
+      "gloss": "ẹ ó ru"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ẹ̀ṣẹ̀ tí ó mbọ̀ sí àáyàn mímọ́"
+      "marks": "ẹ̀ṣẹ̀ nípa mimọ́-iyè"
     },
     {
       "surface": "עון",
@@ -58,28 +58,28 @@
     },
     {
       "surface": "המקדש",
-      "gloss": "àáyàn mímọ́"
+      "gloss": "ti nípa mimọ́-iyè"
     },
     {
       "surface": "ואתה",
-      "gloss": "àti ìwọ"
+      "gloss": "ìwọ àti"
     },
     {
       "surface": "ובניך",
-      "gloss": "àti àwọn ọmọ rẹ"
+      "gloss": "àwọn ọmọ rẹ"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ pẹ̀lú rẹ"
+      "gloss": "⟨את⟩ pẹ̀lú rẹ̀"
     },
     {
       "surface": "תשאו",
-      "gloss": "ẹ gbọ́dọ̀ gbé"
+      "gloss": "ẹ ó ru"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ẹ̀ṣẹ̀ ìrì búbọ yín"
+      "marks": "ẹ̀ṣẹ̀ iṣẹ́-àlùfáà yín"
     },
     {
       "surface": "עון",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "כהנתכם",
-      "gloss": "ìrì búbọ yín"
+      "gloss": "iṣẹ́-àlùfáà yín"
     }
   ],
-  "timestamp": "2026-08-23T06:50:49.874406120Z",
+  "timestamp": "2026-08-24T21:04:28.000345338Z",
   "model": "glm-5.3"
 }

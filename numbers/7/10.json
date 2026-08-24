@@ -5,58 +5,57 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Àwọn adari mú ⟨את⟩ ìṣẹ́ṣẹ́-ìyẹ́sí tí pẹpẹ náà wá ní ọjọ́ tí wọ́n yẹ ọ́ ⟨את⟩ ⟨אתו⟩; àwọn adari sì mú ⟨את⟩ ebun-ìṣẹ̀mbàyà wọn wá síwájú pẹpẹ náà.",
+  "translation": "Àwọn adarí sì fi ⟨את⟩ ìgbéragajá ìpùpọ́ tí wọ́n ti yọ ⟨את⟩ ọ́ mọ́ ni ọjọ́ tí wọ́n fi òróró yí i pó; àwọn adarí sì fi ⟨את⟩ ẹbùn wọn ké síwájú ìpùpọ́ náà.",
   "tokens": [
     {
       "surface": "ויקריבו",
-      "gloss": "mú wá (ìṣẹ́ṣẹ́)"
+      "gloss": "fi...ké"
     },
     {
       "surface": "הנשאים",
-      "gloss": "àwọn adari"
+      "gloss": "àwọn adarí"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìṣẹ́ṣẹ́-ìyẹ́sí tí pẹpẹ náà"
+      "marks": "ìgbéragajá ìpùpọ́"
     },
     {
       "surface": "חנכת",
-      "gloss": "ìṣẹ́ṣẹ́-ìyẹ́sí"
+      "gloss": "ìgbéragajá"
     },
     {
       "surface": "המזבח",
-      "gloss": "pẹpẹ náà"
+      "gloss": "ìpùpọ́"
     },
     {
       "surface": "ביום",
-      "gloss": "ní ọjọ́"
+      "gloss": "ni ọjọ́"
     },
     {
       "surface": "המשח",
-      "gloss": "tí wọ́n yẹ (pẹ̀lú epo)"
+      "gloss": "fi òróró yí i pó"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "pẹpẹ náà"
+      "gloss": "⟨את⟩ ọ́"
     },
     {
       "surface": "ויקריבו",
-      "gloss": "mú wá (ebun)"
+      "gloss": "fi...ké"
     },
     {
       "surface": "הנשיאם",
-      "gloss": "àwọn adari"
+      "gloss": "àwọn adarí"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ebun-ìṣẹ̀mbàyà wọn"
+      "marks": "ẹbùn wọn"
     },
     {
       "surface": "קרבנם",
-      "gloss": "ebun-ìṣẹ̀mbàyà wọn"
+      "gloss": "ẹbùn wọn"
     },
     {
       "surface": "לפני",
@@ -64,9 +63,9 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "pẹpẹ náà"
+      "gloss": "ìpùpọ́ náà"
     }
   ],
-  "timestamp": "2026-08-23T06:56:01.135710419Z",
+  "timestamp": "2026-08-24T21:04:23.540101669Z",
   "model": "glm-5.3"
 }

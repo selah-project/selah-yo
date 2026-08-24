@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 13,
-  "translation": "Ó sì wí pé, Mu ⟨אַרְצָה⟩ ilẹ̀ ṣáájú — kì í ṣe bẹ́ẹ̀: Ó sì wí pé, Mu àwọn ọ̀fà; ó sì mú wọn. Ó sì wí fún ọba Yisrael pé, Lu ilẹ̀; ó lu ẹ̀ẹ̀gẹ́ta ìgbà, ó sì dúró.",
+  "translation": "Ó sì wí pé, Mu àwọn ọfà yìí. Ó sì mú wọn. Ó sì wí fún ọba Israẹli pé, Lu ilẹ̀. Ó sì lu ilẹ̀ ní ìgbà mẹ́ta, ó sì dúró.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "החצים",
-      "gloss": "àwọn ọ̀fà"
+      "gloss": "àwọn ọfà yìí"
     },
     {
       "surface": "ויקח",
-      "gloss": "ó sì mú wọn"
+      "gloss": "Ó sì mú wọn"
     },
     {
       "surface": "ויאמר",
-      "gloss": "sì wí"
+      "gloss": "Ó sì wí"
     },
     {
       "surface": "למלך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israẹli"
     },
     {
       "surface": "הך",
@@ -45,21 +45,21 @@
     },
     {
       "surface": "ויך",
-      "gloss": "ó lu"
+      "gloss": "Ó sì lu"
     },
     {
       "surface": "שלש",
-      "gloss": "ẹ̀ẹ̀gẹ́ta"
+      "gloss": "mẹ́ta"
     },
     {
       "surface": "פעמים",
-      "gloss": "ìgbà"
+      "gloss": "ní ìgbà"
     },
     {
       "surface": "ויעמד",
       "gloss": "ó sì dúró"
     }
   ],
-  "timestamp": "2026-08-23T01:33:30.875693287Z",
+  "timestamp": "2026-08-24T21:05:27.902275607Z",
   "model": "glm-5.3"
 }

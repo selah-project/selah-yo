@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 3,
-  "translation": "Moshe sì wí fún ⟨⟨Elohim⟩⟩ ní pé: Kiì í, èmi ń bọ̀ sí ọ̀dọ̀ àwọn ọmọ Yisrael, tí mo sì ti wí fún wọn pé, Elohim ti àwọn baba yín ni ó rán mi sí yín; tí wọ́n bá sì wí fún mi pé, Kíni orúkọ rẹ̀? Èmi kì yóò sọ fún wọn?",
+  "translation": "Moshe sì wí fún Elohim pé: Wò ó, èmi ń bọ́ sí ọ̀dọ̀ àwọn ọmọ Yisrael, èmi sì ní ó máa wí fún wọn pé 'Elohim ti àwọn baba yín ni ó rán mi sí yín'; wọn sì ní ó wí fún mi pé 'Kí ni orúkọ rẹ̀?' — kí ni èmi ó sọ fún wọn?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ó sì wí"
+      "gloss": "sì wí"
     },
     {
       "surface": "משה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "kiì í"
+      "gloss": "Wò ó"
     },
     {
       "surface": "אנכי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "ń bọ̀"
+      "gloss": "ń bọ́"
     },
     {
       "surface": "אל",
@@ -48,8 +48,8 @@
       "gloss": "Yisrael"
     },
     {
-      "surface": "ואמרתי",
-      "gloss": "tí mo sì ti wí"
+      "surface": "ו אמרתי",
+      "gloss": "èmi sì ní ó máa wí"
     },
     {
       "surface": "להם",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim ti"
+      "gloss": "Elohim"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "àwọn baba yín"
+      "gloss": "ti àwọn baba yín"
     },
     {
       "surface": "שלחני",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ואמרו",
-      "gloss": "tí wọ́n sì ti wí"
+      "gloss": "wọn sì ní ó wí"
     },
     {
       "surface": "לי",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "kíni"
+      "gloss": "Kí ni"
     },
     {
       "surface": "שמו",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "kíni"
+      "gloss": "kí ni"
     },
     {
       "surface": "אמר",
@@ -100,6 +100,6 @@
       "gloss": "fún wọn"
     }
   ],
-  "timestamp": "2026-08-22T23:16:55.728420976Z",
+  "timestamp": "2026-08-24T21:04:27.932279011Z",
   "model": "glm-5.3"
 }

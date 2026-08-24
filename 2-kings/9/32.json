@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 9,
-  "translation": "Ó sì gbé ojú rẹ̀ sókè sí ⟨the⟩ ferese, ó sì wí pé, Ta ni ⟨את⟩ tí ó wà pẹ̀lú mi? Ta? Àwọn ọmọ ogun méjì tàbí mẹta sì wo sí i.",
+  "translation": "Ó gbájú rẹ̀ sí fèrèsé náà, ó sì sọ pé, Ta ni ⟨את⟩ pẹ̀lú mi? Ta ni? Àwọn sárísì méjì tàbí mẹ́ta sì wo ojú káàkiri sí i.",
   "tokens": [
     {
       "surface": "וישא",
-      "gloss": "Ó sì gbé sókè"
+      "gloss": "ó gbájú"
     },
     {
       "surface": "פניו",
@@ -21,28 +21,28 @@
     },
     {
       "surface": "החלון",
-      "gloss": "ferese"
+      "gloss": "fèrèsé náà"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ó sì wí pé"
+      "gloss": "ó sì sọ pé"
     },
     {
       "surface": "מי",
-      "gloss": "Ta ni"
+      "gloss": "ta ni"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ (pẹ̀lú mi)",
-      "marks": "pẹ̀lú mi — láti ara ọ̀rọ̀ 'Ta ni?'; את H854 (pẹ̀lú), kì í ṣe àmì ohun ìṣe"
+      "gloss": "⟨את⟩ pẹ̀lú mi",
+      "marks": "pẹ̀lú mi"
     },
     {
       "surface": "מי",
-      "gloss": "Ta?"
+      "gloss": "ta ni"
     },
     {
-      "surface": "וישקיפu",
-      "gloss": "sì wo sí"
+      "surface": "וישקיפו",
+      "gloss": "sì wo ojú káàkiri"
     },
     {
       "surface": "אליו",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "שלשה",
-      "gloss": "tàbí mẹta"
+      "gloss": "tàbí mẹ́ta"
     },
     {
       "surface": "סריסים",
-      "gloss": "àwọn ọmọ ogun (àgbà ágbà-òbè)"
+      "gloss": "àwọn sárísì"
     }
   ],
-  "timestamp": "2026-08-23T06:51:10.136417127Z",
+  "timestamp": "2026-08-24T21:05:41.680499665Z",
   "model": "glm-5.3"
 }

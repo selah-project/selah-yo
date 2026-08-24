@@ -5,61 +5,62 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 31,
-  "translation": "Yahweh sì máa ṣe fún wọn bí ó ti ṣe fún Sihon àti fún Og, àwọn ọba Amori, àti fún ilẹ̀ wọn, tí ó pa wọn run ⟨את⟩ ⟨אתם⟩.",
+  "translation": "Yahweh sì máa ṣe fún wọn bí ó ti ṣe fún Sihon àti fún Og, àwọn ọba ti Awọn Amorite, àti fún ilẹ̀ wọn, ẹnití ó pa ⟨את⟩ wọn run.",
   "tokens": [
     {
-      "surface": "ועשה",
+      "surface": "וְעָשָׂה",
       "gloss": "sì máa ṣe"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "להם",
+      "surface": "לָהֶם",
       "gloss": "fún wọn"
     },
     {
-      "surface": "כאשר",
-      "gloss": "bí"
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "bí ó ti ṣe"
     },
     {
-      "surface": "עשה",
-      "gloss": "ti ṣe"
+      "surface": "עָשָׂה",
+      "gloss": "ṣe"
     },
     {
-      "surface": "לסיחון",
+      "surface": "לְסִיחוֹן",
       "gloss": "fún Sihon"
     },
     {
-      "surface": "ולעוג",
+      "surface": "וּלְעוֹג",
       "gloss": "àti fún Og"
     },
     {
-      "surface": "מלכי",
-      "gloss": "àwọn ọba"
+      "surface": "מַלְכֵי",
+      "gloss": "àwọn ọba ti"
     },
     {
-      "surface": "האמרי",
-      "gloss": "Amori"
+      "surface": "הָאֱמֹרִי",
+      "gloss": "Awọn Amorite"
     },
     {
-      "surface": "ו לארצם",
+      "surface": "וּלְאַרְצָם",
       "gloss": "àti fún ilẹ̀ wọn"
     },
     {
-      "surface": "אשר",
-      "gloss": "tí"
+      "surface": "אֲשֶׁר",
+      "gloss": "ẹnití"
     },
     {
-      "surface": "השמיד",
+      "surface": "הִשְׁמִיד",
       "gloss": "ó pa run"
     },
     {
-      "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩"
+      "surface": "אוֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.669349300Z",
+  "timestamp": "2026-08-24T21:05:04.780477782Z",
   "model": "glm-5.3"
 }

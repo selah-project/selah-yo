@@ -5,20 +5,20 @@
   "book": "2-samuel",
   "lang": "yo",
   "chapter": 6,
-  "translation": "Wọ́n sì gbé ⟨את⟩ áron Yahweh wá, wọ́n sì gbé ⟨את⟩ ⟨אתו⟩ sí ipò rẹ̀ ní àárín àgàmọ̀ tí David ti yá fún un; David sì gbé ẹbùn-ìsọ́ń lọ́run sókè níwájú Yahweh, àti ẹbùn-àlàáfíà.",
+  "translation": "Wọ́n sì gbé ⟨את⟩ ábá Yahweh wọlé, wọ́n sì gbé e sí ipò rẹ̀ ní àárín àgọ́ tí David ti té sonù fún un; David sì gbé ẹ̀yìn-ìsún sókè níwájú Yahweh, àti ẹ̀bùn-àlàáfíà.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "wọ́n sì gbé wá"
+      "gloss": "wọ́n sì gbé wọlé"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "áron Yahweh"
+      "marks": "ábá"
     },
     {
       "surface": "ארון",
-      "gloss": "áron"
+      "gloss": "ábá"
     },
     {
       "surface": "יהוה",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "ויצגו",
-      "gloss": "wọ́n sì gbé sí ipò"
+      "gloss": "wọ́n sì gbé e sí"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ipò rẹ̀"
+      "marks": "e (ipò rẹ̀)"
     },
     {
       "surface": "במקומו",
-      "gloss": "ní ipò rẹ̀"
+      "gloss": "sí ipò rẹ̀"
     },
     {
       "surface": "בתוך",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "האהל",
-      "gloss": "àgàmọ̀ náà"
+      "gloss": "àgọ́ náà"
     },
     {
       "surface": "אשר",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "נטה",
-      "gloss": "ti yá"
+      "gloss": "té sonù"
     },
     {
       "surface": "לו",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "ó sì gbé sókè"
+      "gloss": "sì gbé sókè"
     },
     {
       "surface": "דוד",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "עלות",
-      "gloss": "ẹbùn-ìsọ́ń lọ́run"
+      "gloss": "ẹ̀yìn-ìsún"
     },
     {
       "surface": "לפני",
@@ -82,10 +82,10 @@
       "gloss": "Yahweh"
     },
     {
-      "surface": "ושלמים",
-      "gloss": "àti ẹbùn-àlàáfíà"
+      "surface": "ו שלמים",
+      "gloss": "àti ẹ̀bùn-àlàáfíà"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.653954776Z",
+  "timestamp": "2026-08-24T21:30:59.704225964Z",
   "model": "glm-5.3"
 }

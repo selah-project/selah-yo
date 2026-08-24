@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 37,
-  "translation": "Ó sì ṣe kerubu méjì wúrà; iṣẹ́ ìlù-mọ́ni-lọ ni ó fi ṣe ⟨את⟩ ⟨אתם⟩ wọn, ní ẹ̀gbẹ́ méjì ti ojú-iṣẹ́ ìkọ́rà náà.",
+  "translation": "Ó sì ṣe ⟨את⟩ àwọn kerubu méjì wúrà, iṣẹ́ ìlilọ̀ ni ó fi ṣe wọn, ní àwọn ìgbà-ìwọ̀ okeere méjì ti ààlà-ìkọ́ra-ẹ̀jẹ́ náà.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "כרבים",
-      "gloss": "kerubu"
+      "gloss": "àwọn kerubu"
     },
     {
       "surface": "זהב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מקשה",
-      "gloss": "iṣẹ́ ìlù-mọ́ni-lọ"
+      "gloss": "iṣẹ́ ìlilọ̀"
     },
     {
       "surface": "עשה",
@@ -33,22 +33,22 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "wọn (àwọn kerubu)"
+      "gloss": "⟨את⟩",
+      "marks": "wọn (àwọn kerubu méjì wúrà)"
     },
     {
       "surface": "משני",
-      "gloss": "ní ẹ̀gbẹ́ méjì"
+      "gloss": "ní àwọn ìgbà-ìwọ̀ okeere méjì"
     },
     {
       "surface": "קצות",
-      "gloss": "ìgbàlẹ̀"
+      "gloss": "ìwọ̀ okeere ti"
     },
     {
       "surface": "הכפרת",
-      "gloss": "ojú-iṣẹ́ ìkọ́rà náà"
+      "gloss": "ààlà-ìkọ́ra-ẹ̀jẹ́ náà"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.663339566Z",
+  "timestamp": "2026-08-24T21:03:55.088875358Z",
   "model": "glm-5.3"
 }

@@ -5,39 +5,39 @@
   "book": "1-kings",
   "lang": "yo",
   "chapter": 13,
-  "translation": "Ó sì pè ẹni tí ó jẹ́ ọkùnrin Ọlọ́hun tí ó wá láti Yehuda, ó wí pé, Báyìí ni Yahweh wí, nítorí tí o gbé ènu Yahweh sókè, kò sì pa àṣẹ tí Yahweh Ọlọ́hun rẹ pa mọ́ fún ọ mọ́ ⟨⟨את⟩⟩ — kò ṣe ìpànínu ⟨את⟩ àṣẹ náà.",
+  "translation": "Ó sì pé kí ó kígbe sí i ṣojú ẹni tí ó wá láti Yehudah nípa tí ó jẹ́ ìjábọ̀ pé: Báyìí ni Yahweh wí — nítorí pé ìwọ kọ̀ ọ́n tí ó jáde láti ẹnu Yahweh, ìwọ kò sì ṣọ́ ⟨את⟩ àṣẹ tí Yahweh, Elohim rẹ, pàṣẹ fún ọ",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "ó sì pè"
+      "gloss": "ó sì kígbe sí i"
     },
     {
       "surface": "אל",
-      "gloss": "sí"
+      "gloss": "ṣojú"
     },
     {
       "surface": "איש",
-      "gloss": "ọkùnrin"
+      "gloss": "ẹni"
     },
     {
       "surface": "האלהים",
-      "gloss": "ti Ọlọ́hun"
+      "gloss": "ti Ọlọ́run"
     },
     {
       "surface": "אשר",
-      "gloss": "tí ó"
+      "gloss": "tí ó jẹ́"
     },
     {
       "surface": "בא",
-      "gloss": "wá"
+      "gloss": "ó wá"
     },
     {
       "surface": "מיהודה",
-      "gloss": "láti Yehuda"
+      "gloss": "láti Yehudah"
     },
     {
       "surface": "לאמר",
-      "gloss": "ó wí pé"
+      "gloss": "nípa ìjábọ̀ pé"
     },
     {
       "surface": "כה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "יען",
-      "gloss": "nítorí tí"
+      "gloss": "nítorí pé"
     },
     {
       "surface": "כי",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "מרית",
-      "gloss": "o gbé sókè (o kọ̀)"
+      "gloss": "ìwọ kọ̀ ọ́n"
     },
     {
       "surface": "פי",
-      "gloss": "ènu"
+      "gloss": "tí ó jáde láti ẹnu"
     },
     {
       "surface": "יהוה",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "kò sì"
+      "gloss": "ìwọ kò sì"
     },
     {
       "surface": "שמרת",
-      "gloss": "o pa mọ́"
+      "gloss": "ṣọ́"
     },
     {
       "surface": "את",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "המצוה",
-      "gloss": "àṣẹ náà"
+      "gloss": "àṣẹ"
     },
     {
       "surface": "אשר",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "צוך",
-      "gloss": "ó pa mọ́ fún ọ"
+      "gloss": "pàṣẹ fún ọ"
     },
     {
       "surface": "יהוה",
@@ -102,9 +102,9 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Ọlọ́hun rẹ"
+      "gloss": "Elohim rẹ"
     }
   ],
-  "timestamp": "2026-08-23T01:18:57.879467263Z",
+  "timestamp": "2026-08-24T21:05:22.447916013Z",
   "model": "glm-5.3"
 }

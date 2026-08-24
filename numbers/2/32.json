@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 2,
-  "translation": "Ìwọ̀nyí ni àwọn tí a kànìyàn lára àwọn ọmọ Yisrael, nílé àwọn baba wọn; gbogbo àwọn tí a kànìyàn ní àwọn ọ̀gbà ogun, pẹ̀lú àwọn ogun wọn — ẹgbẹ̀rún-lọ́nà-ẹ̀ẹ́dẹ́gbẹ̀ta ⟨⟨àti⟩⟩ ẹ̀ẹ́dẹ́gbẹ̀ta-dín-lọ́nà-ẹ̀ẹ́dẹ́gbẹ̀ta ⟨⟨àti⟩⟩ ọgọ́rùn-aárún-dín-lọ́nà-àádọ́ta.",
+  "translation": "Ìwọ̀nyí ni àwọn tí a ka lára àwọn ọmọ Yisrael, sílé àwọn baba wọn; gbogbo àwọn tí a ka nínú àwọn ààfin-ogun fún àwọn ọmọ-ogun wọn: mẹ́fà ọgọ́rún ẹ̀rún àti ẹ̀rún mẹ́ta àti ọgọ́rún márùn-ún àti àádọ́ta",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Ìwọ̀nyí"
+      "gloss": "ìwọ̀nyí"
     },
     {
       "surface": "פקודי",
-      "gloss": "àwọn tí a kànìyàn"
+      "gloss": "àwọn tí a ka"
     },
     {
       "surface": "בני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לבית",
-      "gloss": "nílé"
+      "gloss": "sílé"
     },
     {
       "surface": "אבתם",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "פקודי",
-      "gloss": "àwọn tí a kànìyàn"
+      "gloss": "àwọn tí a ka"
     },
     {
       "surface": "המחנת",
-      "gloss": "ní àwọn ọ̀gbà ogun"
+      "gloss": "àwọn ààfin-ogun"
     },
     {
       "surface": "לצבאתם",
-      "gloss": "pẹ̀lú àwọn ogun wọn"
+      "gloss": "fún àwọn ọmọ-ogun wọn"
     },
     {
       "surface": "שש",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "מאות",
-      "gloss": "ọgọ́rùn-ún"
+      "gloss": "ọgọ́rún"
     },
     {
       "surface": "אלף",
-      "gloss": "ẹgbẹ̀rún"
+      "gloss": "ẹ̀rún"
     },
     {
       "surface": "ושלשת",
-      "gloss": "àti ẹ̀ẹ́dẹ́gbẹ̀ta (mẹ́ta)"
+      "gloss": "àti mẹ́ta"
     },
     {
       "surface": "אלפים",
-      "gloss": "ẹgbẹ̀rún"
+      "gloss": "ẹ̀rún"
     },
     {
       "surface": "וחמש",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "מאות",
-      "gloss": "ọgọ́rùn-ún"
+      "gloss": "ọgọ́rún"
     },
     {
       "surface": "וחמשים",
       "gloss": "àti àádọ́ta"
     }
   ],
-  "timestamp": "2026-08-22T23:49:01.092035348Z",
+  "timestamp": "2026-08-24T21:04:44.048717811Z",
   "model": "glm-5.3"
 }

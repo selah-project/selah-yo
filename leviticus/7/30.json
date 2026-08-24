@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Ọwọ́ rẹ̀ ní ó mú wá ⟨את⟩ àwọn ẹbùn iná Yahweh; ⟨את⟩ ọra rẹ̀ lé lórí ẹ̀gbẹ́ ọkàn ni ó gbọdọ̀ mú wá; ⟨את⟩ ẹ̀gbẹ́ ọkàn náà, láti lè gígún-ṣeé-nùfọ́ ⟨את⟩ ⟨אתו⟩ gẹ́gẹ́ bí ẹ̀bùn ìgìlẹ̀ níwájú Yahweh.",
+  "translation": "Àwọn ọwọ́ rẹ̀ ni ó gbọdọ̀ mú ⟨את⟩ ègbé-ìjọ́sọna Yahweh wá; ⟨את⟩ ìrora yóò wá lórí ⟨את⟩ ẹ̀jẹ̀, ó sì gbọdọ̀ mú ⟨את⟩ ẹ̀jẹ̀ wá láti gbé e sókẹ́ — ìgbasókè kan níwájú Yahweh.",
   "tokens": [
     {
       "surface": "ידיו",
-      "gloss": "ọwọ́ rẹ̀"
+      "gloss": "àwọn ọwọ́ rẹ̀"
     },
     {
       "surface": "תביאינה",
-      "gloss": "ní ó mú wá"
+      "gloss": "ni ó gbọdọ̀ mú wá"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn ẹbùn iná Yahweh"
+      "marks": "ègbé-ìjọ́sọna Yahweh"
     },
     {
       "surface": "אשי",
-      "gloss": "àwọn ẹbùn iná"
+      "gloss": "ègbé-ìjọ́sọna"
     },
     {
       "surface": "יהוה",
@@ -31,45 +31,45 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọra rẹ̀"
+      "marks": "ìrora"
     },
     {
       "surface": "החלב",
-      "gloss": "ọra rẹ̀"
+      "gloss": "ìrora"
     },
     {
       "surface": "על",
-      "gloss": "lé lórí"
+      "gloss": "lórí"
     },
     {
       "surface": "החזה",
-      "gloss": "ẹ̀gbẹ́ ọkàn"
+      "gloss": "ẹ̀jẹ̀"
     },
     {
       "surface": "יביאנו",
-      "gloss": "ni ó gbọdọ̀ mú wá"
+      "gloss": "ó sì gbọdọ̀ mú wá"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ẹ̀gbẹ́ ọkàn náà"
+      "marks": "ẹ̀jẹ̀"
     },
     {
       "surface": "החזה",
-      "gloss": "ẹ̀gbẹ́ ọkàn náà"
+      "gloss": "ẹ̀jẹ̀"
     },
     {
       "surface": "להניף",
-      "gloss": "láti lè gígún-ṣeé-nùfọ́"
+      "gloss": "láti gbé e sókẹ́"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ẹ̀bùn ìgìlẹ̀"
+      "gloss": "⟨את⟩",
+      "marks": "ìgbasókè"
     },
     {
       "surface": "תנופה",
-      "gloss": "ẹ̀bùn ìgìlẹ̀"
+      "gloss": "ìgbasókè"
     },
     {
       "surface": "לפני",
@@ -80,6 +80,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-23T06:56:01.135183618Z",
+  "timestamp": "2026-08-24T21:04:10.932040524Z",
   "model": "glm-5.3"
 }

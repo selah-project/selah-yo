@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 36,
-  "translation": "Bẹ́ẹ̀ ni ọba ti wí pé, Ki Chizkiyahu má ṣe tan yín; nítorí pé kì yóò lè gbà yín là ⟨את⟩ ⟨אתכם⟩.",
+  "translation": "Bẹ́ẹ̀ ni ọba wí pé, kí Chizkiyahu má ṣe tàn yín; nítorí kò lè gbà ⟨את⟩ ⟨אַתְכֶם⟩ yín là.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Bẹ́ẹ̀ ni"
+      "gloss": "Bẹ́ẹ̀"
     },
     {
       "surface": "אמר",
-      "gloss": "ti wí pé"
+      "gloss": "wí pé"
     },
     {
       "surface": "המלך",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "Ki … má ṣe"
+      "gloss": "kí … má ṣe"
     },
     {
       "surface": "ישא",
-      "gloss": "tan"
+      "gloss": "tàn"
     },
     {
       "surface": "לכם",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "nítorí pé"
+      "gloss": "nítorí"
     },
     {
       "surface": "לא",
-      "gloss": "kì"
+      "gloss": "kò"
     },
     {
       "surface": "יוכל",
-      "gloss": "yóò lè"
+      "gloss": "lè"
     },
     {
       "surface": "להציל",
@@ -53,10 +53,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אַתְכֶם⟩",
       "marks": "yín"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.676031471Z",
+  "timestamp": "2026-08-24T21:06:50.670008423Z",
   "model": "glm-5.3"
 }

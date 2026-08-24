@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 22,
-  "translation": "Ẹ jẹ́ àwọn ọkùnrin mímọ́ fún Mi; ẹ̀ran tí a ṣígbìn ní pápá, kì í ṣe tí ẹ gbọdọ̀ jẹ; ẹ máa sọ ọ́ fún ajá ⟨את⟩ ⟨אתו⟩.",
+  "translation": "Ẹ̀yin àwọn ọkùnrin ìmọ́ tí ń bọ́ ni kí ẹ jẹ́ fún Mi; ẹ̀jìdíẹ̀ tí a tí wà ní pápá, tí a ṣíṣe, ẹ kò gbọdọ̀ jẹ — fún ajá ni kí ẹ sọ ọ́ sójú ⟨את⟩.",
   "tokens": [
     {
       "surface": "ואנשי",
-      "gloss": "àwọn ọkùnrin"
+      "gloss": "àwọn ọkùnrin ìmọ́ tí ń bọ́ ni kí"
     },
     {
       "surface": "קדש",
-      "gloss": "mímọ́"
+      "gloss": "ìmọ́"
     },
     {
       "surface": "תהיון",
-      "gloss": "ẹ jẹ́"
+      "gloss": "kí ẹ jẹ́"
     },
     {
       "surface": "לי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ובשר",
-      "gloss": "ẹ̀ran"
+      "gloss": "ẹ̀jìdíẹ̀"
     },
     {
       "surface": "בשדה",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "טרפה",
-      "gloss": "tí a ṣígbìn"
+      "gloss": "tí a tí ṣíṣe"
     },
     {
       "surface": "לא",
-      "gloss": "kì í ṣe"
+      "gloss": "kò gbọdọ̀"
     },
     {
       "surface": "תאכלו",
-      "gloss": "tí ẹ gbọdọ̀ jẹ"
+      "gloss": "kí ẹ jẹ"
     },
     {
       "surface": "לכלב",
@@ -49,14 +49,14 @@
     },
     {
       "surface": "תשלכון",
-      "gloss": "ẹ máa sọ ọ́"
+      "gloss": "kí ẹ sọ ọ́ sójú"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ọ́ (ẹ̀ran tí a ṣígbìn)"
+      "gloss": "⟨את⟩",
+      "marks": "ọ́ (ẹ̀jìdíẹ̀ tí a tí)"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.661916771Z",
+  "timestamp": "2026-08-24T21:03:59.845647600Z",
   "model": "glm-5.3"
 }

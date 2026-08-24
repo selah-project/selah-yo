@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "yo",
   "chapter": 28,
-  "translation": "Àti èjì àwọn ìṣẹ́ òwú wúrà mímu, tí a ṣe ní ààlà, nígbà tí ìwọ bá ṣe wọ́n ⟨את⟩ ⟨אתם⟩ ní iṣẹ́ ìwọ̀n-ìkorò; ìwọ sì máa fi ⟨את⟩ àwọn ìṣẹ́ ìwọ̀n-ìkorò sí orí àwọn ìgbẹ́diwọ̀n.",
+  "translation": "Àti àwọn ẹ̀wọ̀n wúrà ṣọ́ọ̀ṣì méjì, ní àwọn etí ni iwọ máa ṣe ⟨את⟩ wọn gẹ́gẹ́ bí iṣẹ́ ìpínpín; iwọ o sì fi ⟨את⟩ àwọn ẹ̀wọ̀n ìpínpín sí orí àwọn ìtàká.",
   "tokens": [
     {
       "surface": "ושתי",
-      "gloss": "àti èjì"
+      "gloss": "Àti ... méjì"
     },
     {
       "surface": "שרשרת",
-      "gloss": "àwọn ìṣẹ́ òwú"
+      "gloss": "ẹ̀wọ̀n"
     },
     {
       "surface": "זהב",
@@ -21,45 +21,45 @@
     },
     {
       "surface": "טהור",
-      "gloss": "mímu"
+      "gloss": "ṣọ́ọ̀ṣì"
     },
     {
       "surface": "מגבלת",
-      "gloss": "ní ààlà"
+      "gloss": "ní àwọn etí"
     },
     {
       "surface": "תעשה",
-      "gloss": "ìwọ bá ṣe"
+      "gloss": "iwọ máa ṣe"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "wọ́n"
+      "gloss": "⟨את⟩",
+      "marks": "wọn"
     },
     {
       "surface": "מעשה",
-      "gloss": "ní iṣẹ́"
+      "gloss": "iṣẹ́"
     },
     {
       "surface": "עבת",
-      "gloss": "ìwọ̀n-ìkorò"
+      "gloss": "ìpínpín"
     },
     {
       "surface": "ונתתה",
-      "gloss": "ìwọ sì máa fi sí"
+      "gloss": "iwọ o sì fi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "àwọn ìṣẹ́ ìwọ̀n-ìkorò"
+      "marks": "àwọn ẹ̀wọ̀n ìpínpín"
     },
     {
       "surface": "שרשרת",
-      "gloss": "àwọn ìṣẹ́"
+      "gloss": "àwọn ẹ̀wọ̀n"
     },
     {
       "surface": "העבתת",
-      "gloss": "tàwọn tí ó korò"
+      "gloss": "ìpínpín"
     },
     {
       "surface": "על",
@@ -67,9 +67,9 @@
     },
     {
       "surface": "המשבצת",
-      "gloss": "àwọn ìgbẹ́diwọ̀n"
+      "gloss": "àwọn ìtàká"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.661286648Z",
+  "timestamp": "2026-08-24T21:07:48.730844277Z",
   "model": "glm-5.3"
 }

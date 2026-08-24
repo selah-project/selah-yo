@@ -5,32 +5,32 @@
   "book": "judges",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Ó sì ṣe ìgbà tí Gideon gbọ́ ⟨את ìtọ́kasí⟩ àlọ́ náà àti ⟨את ìtumọ̀ rẹ̀⟩, ó sì forí balẹ̀, ó sì padà sí ọ̀dọ̀ ìpáṣẹ Israẹli, ó sì wí pé, Ẹ dìde, nítorí Yahweh ti fi ⟨את⟩ ìpáṣẹ Midiyan sí lọ́wọ́ yín.",
+  "translation": "Ó sì wáyé pé, nígbà tí Gidown gbọ́ ⟨את⟩ ìtàn ala náà àti ⟨את⟩ ìtumọ̀ rẹ̀, ó foríbalẹ̀, ó sì padà sí ọ̀dọ̀ àwọn ogun Yisrael, ó sì wí pé: \"Ẹ dìde, nítorí Yahweh ti fi ⟨את⟩ àwọn ogun Midian sílẹ̀ sí ọwọ́ yín.\"",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ó sì ṣe ìgbà"
+      "gloss": "Ó sì wáyé pé"
     },
     {
       "surface": "כשמע",
-      "gloss": "tí ó gbọ́"
+      "gloss": "nígbà tí ... gbọ́"
     },
     {
       "surface": "גדעון",
-      "gloss": "Gideon"
+      "gloss": "Gidown"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìtọ́kasí àlọ́ náà"
+      "marks": "ìtàn ala náà"
     },
     {
       "surface": "מספר",
-      "gloss": "ìtọ́kasí"
+      "gloss": "ìtàn"
     },
     {
       "surface": "החלום",
-      "gloss": "àlọ́ náà"
+      "gloss": "ala náà"
     },
     {
       "surface": "ואת",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "וישתחו",
-      "gloss": "ó sì forí balẹ̀"
+      "gloss": "ó foríbalẹ̀"
     },
     {
       "surface": "וישב",
-      "gloss": "ó sì padà sí"
+      "gloss": "ó sì padà"
     },
     {
       "surface": "אל",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "מחנה",
-      "gloss": "ìpáṣẹ"
+      "gloss": "àwọn ogun"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israẹli"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ויאמר",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "ti fi"
+      "gloss": "ti fi ... sílẹ̀"
     },
     {
       "surface": "יהוה",
@@ -83,22 +83,22 @@
     },
     {
       "surface": "בידכם",
-      "gloss": "sí lọ́wọ́ yín"
+      "gloss": "sí ọwọ́ yín"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìpáṣẹ Midiyan"
+      "marks": "àwọn ogun Midian"
     },
     {
       "surface": "מחנה",
-      "gloss": "ìpáṣẹ"
+      "gloss": "àwọn ogun"
     },
     {
       "surface": "מדין",
-      "gloss": "Midiyan"
+      "gloss": "Midian"
     }
   ],
-  "timestamp": "2026-08-23T00:36:54.347393224Z",
+  "timestamp": "2026-08-24T21:05:26.502998614Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "yo",
   "chapter": 7,
-  "translation": "Mo rí i, èmi: ìrora ju ikú lọ — ⟨את⟩ obìkrin, ẹni tí ó jẹ́ àwọ̀n àti ìkà, ọkàn rẹ̀; ìṣẹ̀wọ̀n ni ⟨⟨ọwọ́ rẹ̀⟩⟩. Ẹni tí ó dára níwájú Elohim yóò gbà là lọ́dọ̀ rẹ̀, ṣùgbọ́n ẹlẹ́ṣẹ̀ yóò di ìṣẹ̀wọ̀n nínú rẹ̀.",
+  "translation": "Èmi sì ríi i, èye ìbínú sísẹ́ ju ikú lọ — ⟨את⟩ obìnrin, ẹni tí ọkàn rẹ̀ jẹ́ àwọn àwọ̀ àti àwọn ìdà; ọwọ́ rẹ̀ sì jẹ́ àwọn ìṣekú. Ẹni tí ó wù Elohim yóò sà lọ́fun lọ́dọ̀ rẹ̀; ẹlẹ́ṣẹ̀ sì ni yóò fi kókó móonú lọ́dọ̀ rẹ̀.",
   "tokens": [
     {
       "surface": "ומוצא",
-      "gloss": "Mo rí i"
+      "gloss": "èmi sì ríi i, èye ìbínú sísẹ́"
     },
     {
       "surface": "אני",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "מר",
-      "gloss": "ìrora ju"
+      "gloss": "ìbínú sísẹ́"
     },
     {
       "surface": "ממות",
-      "gloss": "ikú lọ"
+      "gloss": "ju ikú lọ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "obìkrin"
+      "marks": "obìnrin"
     },
     {
       "surface": "האשה",
-      "gloss": "obìkrin"
+      "gloss": "obìnrin"
     },
     {
       "surface": "אשר",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "היא",
-      "gloss": "ó jẹ́"
+      "gloss": "rẹ̀"
     },
     {
       "surface": "מצודים",
-      "gloss": "àwọ̀n àti"
+      "gloss": "àwọn àwọ̀"
     },
     {
       "surface": "וחרמים",
-      "gloss": "ìkà"
+      "gloss": "àti àwọn ìdà"
     },
     {
       "surface": "לבה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אסורים",
-      "gloss": "ìṣẹ̀wọ̀n"
+      "gloss": "àwọn ìṣekú"
     },
     {
       "surface": "ידיה",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "טוב",
-      "gloss": "ẹni tí ó dára"
+      "gloss": "ẹni tí ó wù"
     },
     {
       "surface": "לפני",
-      "gloss": "níwájú"
+      "gloss": "lọ́dọ̀"
     },
     {
       "surface": "האלהים",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ימלט",
-      "gloss": "yóò gbà là"
+      "gloss": "yóò sà lọ́fun"
     },
     {
       "surface": "ממנה",
@@ -82,17 +82,17 @@
     },
     {
       "surface": "וחוטא",
-      "gloss": "ṣùgbọ́n ẹlẹ́ṣẹ̀"
+      "gloss": "ẹlẹ́ṣẹ̀ sì"
     },
     {
       "surface": "ילכד",
-      "gloss": "yóò di ìṣẹ̀wọ̀n"
+      "gloss": "yóò fi kókó móonú"
     },
     {
       "surface": "בה",
-      "gloss": "nínú rẹ̀"
+      "gloss": "lọ́dọ̀ rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T04:42:39.360000668Z",
+  "timestamp": "2026-08-24T21:06:37.176805812Z",
   "model": "glm-5.3"
 }

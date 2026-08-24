@@ -5,16 +5,15 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 3,
-  "translation": "Ní ìgbà yẹn ni mo kọ̀ọ́nù ⟨את⟩ ⟨אתכם⟩ ní ìgbà yẹn, pé: Yahweh, Elohim yín, ti fún yín ní ⟨את⟩ ilẹ̀ yìí láti fi jẹ yín — láti ṣíwájú ni ẹ yóò kọjá ṣáájú àwọn ará yín, àwọn ọmọ Yisrael, gbogbo àwọn ọmọ-alágbára.",
+  "translation": "Mo sì pa yín níṣẹ́ ní ìgbà yẹn, pé wí pé: Yahweh, Elohim yín, ti fún yín ní ⟨את⟩ ilẹ̀ yìí láti jogún ún; ẹ gbọ́dọ̀ yan káàkiri gẹ́gẹ́ bí àwọn ológun ṣáájú àwọn ará yín, àwọn ọmọ Yisrael, gbogbo àwọn ọmọ alágbára.",
   "tokens": [
     {
       "surface": "ואצו",
-      "gloss": "mo kọ̀ọ́nù"
+      "gloss": "Mo sì pa yín níṣẹ́"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "yín (àwọn tí mo kọ̀ọ́nù)"
+      "gloss": "⟨את⟩ yín"
     },
     {
       "surface": "בעת",
@@ -26,7 +25,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "pé"
+      "gloss": "pé wí pé"
     },
     {
       "surface": "יהוה",
@@ -59,15 +58,15 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "láti fi jẹ"
+      "gloss": "láti jogún ún"
     },
     {
       "surface": "חלוצים",
-      "gloss": "láti ṣíwájú (múra fún ogun)"
+      "gloss": "gẹ́gẹ́ bí àwọn ológun"
     },
     {
       "surface": "תעברו",
-      "gloss": "ẹ yóò kọjá"
+      "gloss": "ẹ gbọ́dọ̀ yan káàkiri"
     },
     {
       "surface": "לפני",
@@ -98,6 +97,6 @@
       "gloss": "alágbára"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.668152708Z",
+  "timestamp": "2026-08-24T21:05:10.532776710Z",
   "model": "glm-5.3"
 }

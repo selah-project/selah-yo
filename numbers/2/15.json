@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 2,
-  "translation": "Àti ọgún rẹ̀, àti àwọn tí a ka wọn ⟨⟨márùndínláàdọ́rin⟩⟩ — márùn-ún àti ogójì ẹgbẹ̀rún, àti ẹẹ̀ẹ̀dọ́gbọ̀n ọgọ́rún àti àádọ́ta.",
+  "translation": "àti ikọ́-ogun rẹ̀, àti àwọn tí a ka wọn, márùn-ún àti àádọ́ta mẹ́rin ẹgbẹ̀run, àti mẹ́fà ọgọ́rún àti àádọ́ta.",
   "tokens": [
     {
       "surface": "וצבאו",
-      "gloss": "àti ọgún rẹ̀"
+      "gloss": "àti ikọ́-ogun rẹ̀"
     },
     {
       "surface": "ופקדיהם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "וארבעים",
-      "gloss": "àti ogójì"
+      "gloss": "àti àádọ́ta mẹ́rin"
     },
     {
       "surface": "אלף",
-      "gloss": "ẹgbẹ̀rún"
+      "gloss": "ẹgbẹ̀run"
     },
     {
       "surface": "ושש",
@@ -40,6 +40,6 @@
       "gloss": "àti àádọ́ta"
     }
   ],
-  "timestamp": "2026-08-22T23:49:16.499785352Z",
+  "timestamp": "2026-08-24T21:04:40.865114532Z",
   "model": "glm-5.3"
 }

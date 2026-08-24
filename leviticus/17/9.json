@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "yo",
   "chapter": 17,
-  "translation": "Àti pé kò bá mú un wá sí ojú-ẹnu àgọ́ ìpàdé, láti ṣe ⟨אתו⟩ fún Yahweh — ẹni yẹn ni a ó kọ́ kúrò láti ara ènìyàn rẹ̀.",
+  "translation": "ó sì kò mú un wá sí ojú-ẹnu Ahọ Ìpàdé láti ṣe é fún Yahweh, ẹni yìí ṣí ni a ó kọ́ kúrò láàárín àwọn ènìyàn rẹ̀",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "àti sí"
+      "gloss": "ó sì kò… sí"
     },
     {
       "surface": "פתח",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אהל",
-      "gloss": "àgọ́"
+      "gloss": "Ahọ"
     },
     {
       "surface": "מועד",
-      "gloss": "ìpàdé"
+      "gloss": "Ìpàdé"
     },
     {
       "surface": "לא",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "láti ṣe"
+      "gloss": "láti ṣe é"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "fún Yahweh"
+      "marks": "é (ẹranko ẹrubọ náà)"
     },
     {
       "surface": "ליהוה",
@@ -46,21 +46,21 @@
     },
     {
       "surface": "ונכרת",
-      "gloss": "a ó sì kọ́"
+      "gloss": "a ó kọ́"
     },
     {
       "surface": "האיש",
-      "gloss": "ọkùnrin náà"
+      "gloss": "ẹni"
     },
     {
       "surface": "ההוא",
-      "gloss": "yẹn"
+      "gloss": "yìí ṣí"
     },
     {
       "surface": "מעמיו",
-      "gloss": "láti ara ènìyàn rẹ̀"
+      "gloss": "kúrò láàárín àwọn ènìyàn rẹ̀"
     }
   ],
-  "timestamp": "2026-08-22T23:42:55.336251862Z",
+  "timestamp": "2026-08-24T21:03:57.596709910Z",
   "model": "glm-5.3"
 }

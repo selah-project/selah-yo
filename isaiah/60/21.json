@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "yo",
   "chapter": 60,
-  "translation": "Àwọn ènìyàn rẹ̀, gbogbo wọn ⟨⟨jẹ́⟩⟩ ènìyàn olóòtítọ́; láìláí wọn yóò jogún ilẹ̀ yìí; ⟨wọn jẹ́⟩ egbègi ọ̀gbìn Mi, iṣẹ́ ọwọ́ Mi, láti fi gbé ⟨Mi⟩ ga.",
+  "translation": "Àwọn ènìyàn rẹ̀, gbogbo wọn ⟨ni⟩ olódọ́títọ́; láìní ìparun ni wọn yóò gba ⟨את⟩ ilẹ̀ ayé; ìdí ọ̀gbìn tí mo gbìn, iṣẹ́ ọwọ́ mi ni wọn, kí n lè ṣe ìgbóríyìn.",
   "tokens": [
     {
       "surface": "ועמך",
-      "gloss": "àti àwọn ènìyàn rẹ̀"
+      "gloss": "Àwọn ènìyàn rẹ̀"
     },
     {
       "surface": "כלם",
@@ -17,27 +17,32 @@
     },
     {
       "surface": "צדיקים",
-      "gloss": "ènìyàn olóòtítọ́"
+      "gloss": "olódọ́títọ́"
     },
     {
       "surface": "לעולם",
-      "gloss": "láìláí"
+      "gloss": "láìní ìparun"
     },
     {
       "surface": "יירשו",
-      "gloss": "yóò jogún"
+      "gloss": "yóò gba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilẹ̀ ayé"
     },
     {
       "surface": "ארץ",
-      "gloss": "ilẹ̀ yìí"
+      "gloss": "ilẹ̀ ayé"
     },
     {
       "surface": "נצר",
-      "gloss": "egbègi"
+      "gloss": "ìdí ọ̀gbìn"
     },
     {
       "surface": "מטעו",
-      "gloss": "ọ̀gbìn Mi"
+      "gloss": "tí mo gbìn"
     },
     {
       "surface": "מעשה",
@@ -45,13 +50,13 @@
     },
     {
       "surface": "ידי",
-      "gloss": "ọwọ́ Mi"
+      "gloss": "ọwọ́ mi"
     },
     {
       "surface": "להתפאר",
-      "gloss": "láti fi gbé ga"
+      "gloss": "kí n lè ṣe ìgbóríyìn"
     }
   ],
-  "timestamp": "2026-08-23T02:01:33.862840713Z",
+  "timestamp": "2026-08-24T21:05:59.965429847Z",
   "model": "glm-5.3"
 }

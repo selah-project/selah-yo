@@ -5,20 +5,19 @@
   "book": "2-kings",
   "lang": "yo",
   "chapter": 25,
-  "translation": "Òbà Bavel sì lu ⟨את⟩ ⟨אתם⟩, ó sì pa wọn náà ní Riblah, ní ilẹ̀ Hamat; wọ́n sì gbé Juda lọ kúrò lórí ilẹ̀ rẹ̀.",
+  "translation": "Olúba Bavel lu wọn lù, ó sì pa wọn ní Rivlah, ní ilẹ̀ Chamat; wọ́n sì sàgbégbe Yehudá kúrò lórílẹ̀-ìbùgbé rẹ̀.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "ó sì lu"
+      "gloss": "ó sì lu wọn lù"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "wọn (àwọn ènìyàn náà)"
+      "gloss": "⟨את⟩ wọn"
     },
     {
       "surface": "מלך",
-      "gloss": "oba"
+      "gloss": "Olúba"
     },
     {
       "surface": "בבל",
@@ -30,7 +29,7 @@
     },
     {
       "surface": "ברבלה",
-      "gloss": "ní Riblah"
+      "gloss": "ní Rivlah"
     },
     {
       "surface": "בארץ",
@@ -38,15 +37,15 @@
     },
     {
       "surface": "חמת",
-      "gloss": "Hamat"
+      "gloss": "Chamat"
     },
     {
       "surface": "ויגל",
-      "gloss": "wọ́n sì gbé lọ"
+      "gloss": "wọ́n sì sàgbégbe"
     },
     {
       "surface": "יהודה",
-      "gloss": "Juda"
+      "gloss": "Yehudá"
     },
     {
       "surface": "מעל",
@@ -54,9 +53,9 @@
     },
     {
       "surface": "אדמתו",
-      "gloss": "ilẹ̀ rẹ̀"
+      "gloss": "ilẹ̀-ìbùgbé rẹ̀"
     }
   ],
-  "timestamp": "2026-08-23T06:32:24.672369292Z",
+  "timestamp": "2026-08-24T21:06:27.934175088Z",
   "model": "glm-5.3"
 }

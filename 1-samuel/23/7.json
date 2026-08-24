@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "yo",
   "chapter": 23,
-  "translation": "Wọ́n sì sọ fún Sha'ul pé Dawid ti dé Keilah; Sha'ul sì wí pé, Elohim ti fi hàn pé ⟨⟨את⟩⟩ ó wà nínú ọwọ́ mi, nítorí pé ó ti kọ̀ láti lọ wọ inú ìlú tí ó ní ilẹ̀kùn àti ẹ̀wọn.",
+  "translation": "Wọ́n sì sọ fún Shaúl pé Dafidi ti wá sí Keíla; Shaúl sì wí pé, Elohim ti fi ⟨את⟩ ránṣẹ́ lọ́wọ́ mi, nítorí pé ó ti wà ní àtìmọ́lé, tí ó bá wọ inú ìlú tí ó ní ilẹ̀kùn àti ẹ̀wùn.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "Wọ́n sì sọ fún"
+      "gloss": "wọ́n sì sọ fún"
     },
     {
       "surface": "לשאול",
-      "gloss": "Sha'ul"
+      "gloss": "Shaúl"
     },
     {
       "surface": "כי",
@@ -21,32 +21,32 @@
     },
     {
       "surface": "בא",
-      "gloss": "ti dé"
+      "gloss": "ti wá sí"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "Dafidi"
     },
     {
       "surface": "קעילה",
-      "gloss": "Keilah"
+      "gloss": "Keíla"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ó sì wí"
+      "gloss": "ó sì wí pé"
     },
     {
       "surface": "שאול",
-      "gloss": "Sha'ul"
+      "gloss": "Shaúl"
     },
     {
       "surface": "נכר",
-      "gloss": "ti fi hàn"
+      "gloss": "fi ránṣẹ́"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ó (Dawid)"
+      "marks": "Dafidi (tí Elohim ń ṣe ìṣe rẹ̀ nípasẹ̀ rẹ̀)"
     },
     {
       "surface": "אלהים",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "בידי",
-      "gloss": "nínú ọwọ́ mi"
+      "gloss": "lọ́wọ́ mi"
     },
     {
       "surface": "כי",
@@ -62,15 +62,15 @@
     },
     {
       "surface": "נסגר",
-      "gloss": "ti kọ̀ náà"
+      "gloss": "ó ti wà ní àtìmọ́lé"
     },
     {
       "surface": "לבוא",
-      "gloss": "láti lọ wọ"
+      "gloss": "tí ó bá wọ"
     },
     {
       "surface": "בעיר",
-      "gloss": "inú ìlú"
+      "gloss": "sí inú ìlú"
     },
     {
       "surface": "דלתים",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "ובריח",
-      "gloss": "àti ẹ̀wọn"
+      "gloss": "àti ẹ̀wùn"
     }
   ],
-  "timestamp": "2026-08-23T00:52:34.133473885Z",
+  "timestamp": "2026-08-24T21:05:54.655115433Z",
   "model": "glm-5.3"
 }

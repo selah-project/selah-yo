@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "yo",
   "chapter": 4,
-  "translation": "Àwọn ọ̀tá ti Yehudah àti Binyamin gbọ́ pé àwọn ọmọ ìgbèkùn ń kọ ⟨היכל⟩ yin fún Yahweh, Elohim ti Yisrael.",
+  "translation": "Nígbà tí àwọn ọ̀tá Yehudah àti Binyamin gbọ́ pé àwọn ọmọ ìsẹ̀mgbé ń kọ́ ilé àgbàlá kan fún Yahweh, Elohim ti Yisrael;",
   "tokens": [
     {
       "surface": "וישמעו",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "הגולה",
-      "gloss": "ìgbèkùn"
+      "gloss": "ìsẹ̀mgbé"
     },
     {
       "surface": "בונים",
-      "gloss": "ń kọ"
+      "gloss": "ń kọ́"
     },
     {
       "surface": "היכל",
-      "gloss": "ilé yin"
+      "gloss": "ilé àgbàlá"
     },
     {
       "surface": "ליהוה",
@@ -56,6 +56,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-23T04:57:43.284491007Z",
+  "timestamp": "2026-08-24T21:06:17.143368904Z",
   "model": "glm-5.3"
 }

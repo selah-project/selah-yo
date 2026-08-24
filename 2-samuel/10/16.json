@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "yo",
   "chapter": 10,
-  "translation": "Hadadezer sì fi ranṣẹ́, ó sì mú Aramu jáde tí ó wà ní ẹ̀bùta odò náà, wọ́n sì dé Helamu; Shovaku, olórí ogun Hadadezer, sì wà níwájú wọn.",
+  "translation": "Hadadezer sì ránṣẹ́, ó sì mú ⟨את⟩ Aram tí ó wà ní ẹ̀gbẹ́ oyún odò jáde, wọ́n sì dé Helam; Shovak, olórí ogun Hadadezer, sì dúró níwájú wọn.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "fi ranṣẹ́"
+      "gloss": "sì ránṣẹ́"
     },
     {
       "surface": "הדדעזר",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "sì mú jáde"
+      "gloss": "ó sì mú jáde"
     },
     {
       "surface": "את",
-      "gloss": "⟨⟨את⟩⟩",
-      "marks": "Aramu"
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
     },
     {
       "surface": "ארם",
-      "gloss": "Aramu"
+      "gloss": "Aram"
     },
     {
       "surface": "אשר",
-      "gloss": "tí ó wà ní"
+      "gloss": "tí"
     },
     {
       "surface": "מעבר",
-      "gloss": "ẹ̀bùta"
+      "gloss": "ní ẹ̀gbẹ́ oyún"
     },
     {
       "surface": "הנהר",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "חילם",
-      "gloss": "Helamu"
+      "gloss": "Helam"
     },
     {
       "surface": "ושובך",
-      "gloss": "Shovaku sì"
+      "gloss": "Shovak sì"
     },
     {
       "surface": "שר",
@@ -69,6 +69,6 @@
       "gloss": "níwájú wọn"
     }
   ],
-  "timestamp": "2026-08-23T01:01:21.515816492Z",
+  "timestamp": "2026-08-24T21:05:24.635462353Z",
   "model": "glm-5.3"
 }

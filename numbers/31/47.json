@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "yo",
   "chapter": 31,
-  "translation": "Moshe sì gba láti ìdají ti àwọn ọmọ Yisraeli ⟨את⟩ ìpín kan lára àádọ́ta, láti lára ènìyàn àti láti lára ẹranko, ó sì fi ⟨אתם⟩ fún àwọn Lefi, àwọn olùṣọ́ ìṣọ́ ti àgọ́ Yahweh, gẹ́gẹ́ bí Yahweh ti pàṣẹ ⟨את⟩ fún Moshe.",
+  "translation": "Moshe sì gbà láti ìdámẹ́jọ àwọn ọmọ Yisrael ⟨את⟩ ipín kan nínu àádọ́ta, láti ara ènìyàn àti láti ara ẹranko, ó sì fún ⟨את⟩ wọn fún àwọn Lefi, àwọn olùṣọ́ iṣẹ́ àgbàlá Yahweh, gẹ́gẹ́ bí Yahweh ti pa Mosheh lérọ́ nínú ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "ó sì gba"
+      "gloss": "sì gbà"
     },
     {
       "surface": "משה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ממחצת",
-      "gloss": "láti ìdají"
+      "gloss": "láti ìdámẹ́jọ"
     },
     {
       "surface": "בני",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraeli"
+      "gloss": "Yisrael"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìpín kan"
+      "marks": "ipín kan"
     },
     {
       "surface": "האחז",
-      "gloss": "ìpín"
+      "gloss": "ipín kan"
     },
     {
       "surface": "אחד",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "lára"
+      "gloss": "nínu"
     },
     {
       "surface": "החמשים",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "lára"
+      "gloss": "láti ara"
     },
     {
       "surface": "האדם",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ומן",
-      "gloss": "àti lára"
+      "gloss": "àti láti ara"
     },
     {
       "surface": "הבהמה",
@@ -66,12 +66,11 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "ó sì fi… fún"
+      "gloss": "ó sì fún"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "àwọn Lefi (wọn)"
+      "gloss": "⟨את⟩ wọn"
     },
     {
       "surface": "ללוים",
@@ -79,15 +78,15 @@
     },
     {
       "surface": "שמרי",
-      "gloss": "olùṣọ́"
+      "gloss": "àwọn olùṣọ́"
     },
     {
       "surface": "משמרת",
-      "gloss": "ìṣọ́"
+      "gloss": "iṣẹ́ àgbàlá"
     },
     {
       "surface": "משכן",
-      "gloss": "ti àgọ́"
+      "gloss": "àgbàlá"
     },
     {
       "surface": "יהוה",
@@ -99,7 +98,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ti pàṣẹ"
+      "gloss": "ti pa lérọ́"
     },
     {
       "surface": "יהוה",
@@ -112,9 +111,9 @@
     },
     {
       "surface": "משה",
-      "gloss": "fún Moshe"
+      "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-23T00:03:24.140064109Z",
+  "timestamp": "2026-08-24T21:05:07.065255088Z",
   "model": "glm-5.3"
 }

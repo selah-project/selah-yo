@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "yo",
   "chapter": 42,
-  "translation": "Àwọn èwè méjìlá ⟨ni⟩ àwa, ọmọ baba wa kan; ẹnìkan kò sí mọ́, èwe kékeré náà sì wà lónìí ⟨pẹ̀lú את⟩ baba wa ní ilẹ̀ Kenaan.",
+  "translation": "Àwọn ọmọọkùnrin méjìlá ni àwa, àwọn arábíbìrin—kì í ṣe bẹ́ẹ̀—àwọn ọmọ baba wa; ẹyọ kan kò sí mọ́, ẹ̀kejì tí ó kéré jùlọ sì wà láyìíòójọ́ pẹ̀lú ⟨את⟩ baba wa ní ilẹ̀ Kenaan.",
   "tokens": [
     {
       "surface": "שנים",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": "lá (mẹ́wàá)"
+      "gloss": "láàárín-ọkàn-lélógún—méjìlá"
     },
     {
       "surface": "אנחנו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אחים",
-      "gloss": "àwọn èwè"
+      "gloss": "àwọn aráabírìn—àwọn ẹgbọ́"
     },
     {
       "surface": "בני",
-      "gloss": "ọmọ"
+      "gloss": "àwọn ọmọ"
     },
     {
       "surface": "אבינו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "האחד",
-      "gloss": "ẹnìkan"
+      "gloss": "ẹyọ kan"
     },
     {
       "surface": "איננו",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "והקטן",
-      "gloss": "èwe kékeré náà sì"
+      "gloss": "àti ẹ̀kejì tí ó kéré jùlọ"
     },
     {
       "surface": "היום",
-      "gloss": "lónìí"
+      "gloss": "layìíòójọ́"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ⟨pẹ̀lú⟩",
+      "gloss": "⟨את⟩",
       "marks": "baba wa"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "Kenaan"
     }
   ],
-  "timestamp": "2026-08-22T23:11:37.268919785Z",
+  "timestamp": "2026-08-24T21:04:02.519746485Z",
   "model": "glm-5.3"
 }

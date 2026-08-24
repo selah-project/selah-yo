@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "yo",
   "chapter": 22,
-  "translation": "Àwọn àgbà ìlú yẹn náà sì máa gba ⟨את⟩ ọkùnrin náà, wọ́n sì máa fi ìjìyà jẹ́ ẹ ⟨אתו⟩.",
+  "translation": "Àwọn àgbà ìlú yẹn gbà ọkùnrin náà, wọ́n sì jìyà-ẹ̀wọ̀n jẹ́ ⟨את⟩-i ⟨àti⟩ ìyà fún un.",
   "tokens": [
     {
       "surface": "ולקחו",
-      "gloss": "wọ́n sì máa gba"
+      "gloss": "wọ́n sì gbà"
     },
     {
       "surface": "זקני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "yẹn náà"
+      "gloss": "yẹn"
     },
     {
       "surface": "את",
@@ -34,14 +34,14 @@
     },
     {
       "surface": "ויסרו",
-      "gloss": "wọ́n sì máa fi ìjìyà jẹ́"
+      "gloss": "wọ́n sì fi ìyà jẹ́"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ẹ (ọkùnrin náà)"
+      "gloss": "⟨את⟩-i",
+      "marks": "ọkùnrin náà"
     }
   ],
-  "timestamp": "2026-08-23T00:16:55.396141339Z",
+  "timestamp": "2026-08-24T21:07:21.851554957Z",
   "model": "glm-5.3"
 }
