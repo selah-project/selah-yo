@@ -80,3 +80,9 @@ wúlò fún ọ tí o sì fẹ́ ṣe ìtìlẹ́yìn fún ìtumọ̀, àyẹ̀w
 Àwọn òǹkàwé, àwọn akẹ́kọ̀ọ́ Hébérù, àwọn olùtumọ̀, àwọn ọmọ Yorùbá
 — gbogbo yín ni a ṣe ìtẹ́wọ́gbà. Kí o tó jábọ̀ àṣìṣe tàbí dábàá
 àtúnṣe, jọ̀wọ́ ka [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
