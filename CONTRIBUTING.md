@@ -62,3 +62,8 @@ gbangba mọ́. Àwọn olùtọ́jú ń fi àwọn àbá wé Hébérù, wé àw
 wé àwọn orísun àti wé ìtòlẹ́sẹẹsẹ — wọ́n lè gbà á, wọ́n lè bá ọ
 tún un ṣe, wọ́n lè dúró de ẹ̀rí síi, tàbí kí wọ́n kọ̀ ọ́ pẹ̀lú
 ìdí. Ọ̀rọ̀ náà ni a ń gbéléwọ̀n, kì í ṣe ènìyàn.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
