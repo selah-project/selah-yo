@@ -12,7 +12,7 @@ sọ́tọ̀ kúrò nínú àbá.
   (alignment).
 - Ṣí **Pull request** bí àṣìṣe àti àtúnṣe bá ṣe kedere méjèèjì.
 - Fún àwọn ìṣòro sọ́fítíwéà, tàbí fún ààbò/àkáǹtì/àṣírí, lo
-  [Selah Support](https://selahproject.com/support).
+  [Selah Support](https://s33k3r.com/learn/support).
 
 ## Ohun Tí O Yẹ Kí O So Pọ̀
 
